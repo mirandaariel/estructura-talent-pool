@@ -29,6 +29,8 @@ Ejemplos:
 
 ## Estructura del archivo CV
 
+Utilizar el archivo: template.txt
+
 ### Información Personal
 
 - Nombre completo:
@@ -63,8 +65,7 @@ Ejemplos:
 - Link:
 
 ### Educación
-[Institución]
-[Título] - [Año]
+[Institución] - [Título] - [Año]
 
 ### Idiomas
 - [Idioma]: [ Nivel ]
