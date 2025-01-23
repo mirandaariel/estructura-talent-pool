@@ -26,3 +26,46 @@ Ejemplos:
 - ARG-DNI-12345678
 - ESP-NIE-X1234567Y
 - PER-DNI-12345678
+
+## Estructura del archivo CV
+
+### Información Personal
+
+- Nombre completo:
+- Edad:
+- Ubicación:
+- Email:
+- LinkedIn:
+- GitHub:
+- Portfolio:
+
+### Resumen Profesional
+
+[Breve descripción de tu perfil y objetivos profesionales]
+
+### Habilidades Técnicas
+
+- Lenguajes:
+- Frameworks:
+- Bases de datos:
+- Herramientas:
+- Metodologías:
+
+### Experiencia Laboral
+
+[Empresa] - [Cargo]
+[Fecha inicio] - [Fecha fin]
+- Logros y responsabilidades
+
+### Proyectos Destacados
+[Nombre del Proyecto]
+- Descripción:
+- Tecnologías:
+- Link:
+
+### Educación
+[Institución]
+[Título] - [Año]
+
+### Idiomas
+- [Idioma]: [Nivel]
