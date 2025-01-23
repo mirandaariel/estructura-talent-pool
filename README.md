@@ -16,3 +16,11 @@ Datos totalmente abiertos para consumo de cualquier entidad que proponga facilit
 1. Fork este repositorio
 2. Crea tu archivo CV siguiendo el formato estándar
 3. Envía un Pull Request
+
+## Nomenclatura de archivos:
+[ISO-PAÍS]-[TIPO-DOC]-[NRO-DOC]
+
+Ejemplos:
+- ARG-DNI-12345678
+- ESP-NIE-X1234567Y
+- PER-DNI-12345678
