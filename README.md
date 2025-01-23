@@ -6,6 +6,7 @@ Por la naturaleza de la fuente es afin de ser utilizado por desarrolladores juni
 
 ## Creador
 Sigueme en LinkedIn si te parece que la iniciativa tiene valor: https://www.linkedin.com/in/mirandaariel/
+
 Se lanzó un Curso de Inglés Gratuito en YouTube diariamente a las 19hs: https://www.youtube.com/@estructura
 
 ## Objetivo
