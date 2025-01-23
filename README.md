@@ -53,8 +53,7 @@ Ejemplos:
 
 ### Experiencia Laboral
 
-[Empresa] - [Cargo]
-[Fecha inicio] - [Fecha fin]
+[Empresa] - [Cargo] - [Fecha inicio (YYYY-MM-DD)] - [Fecha fin (YYYY-MM-DD)]
 - Logros y responsabilidades
 
 ### Proyectos Destacados
