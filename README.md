@@ -68,4 +68,4 @@ Ejemplos:
 [Título] - [Año]
 
 ### Idiomas
-- [Idioma]: [Nivel]
+- [Idioma]: [ Nivel ]
