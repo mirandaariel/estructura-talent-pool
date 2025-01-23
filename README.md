@@ -18,7 +18,9 @@ Datos totalmente abiertos para consumo de cualquier entidad que proponga facilit
 3. Envía un Pull Request
 
 ## Nomenclatura de archivos:
-[ISO-PAÍS]-[TIPO-DOC]-[NRO-DOC]
+[ISO PAÍS]-[TIPO DOC]-[NRO DOC]
+
+ISO PAÍS: alpha-3 (código de 3 letras) https://en.wikipedia.org/wiki/ISO_3166-1
 
 Ejemplos:
 - ARG-DNI-12345678
