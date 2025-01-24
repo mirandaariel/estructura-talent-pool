@@ -9,6 +9,8 @@ Sigueme en LinkedIn si te parece que la iniciativa tiene valor: https://www.link
 
 Se lanzó un Curso de Inglés Gratuito en YouTube diariamente a las 19hs: https://www.youtube.com/@estructura
 
+Para favorecer a la gestión registrate en: https://app.estructura.co/initiatives/human-development/subscription/user-data
+
 ## Objetivo
 Datos totalmente abiertos para consumo de cualquier entidad que proponga facilitar la conexión con empleadores tecnológicos.
 
