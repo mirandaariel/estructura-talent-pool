@@ -31,7 +31,14 @@ Ejemplos:
 
 ## Estructura del archivo CV
 
-Utilizar el archivo: template.txt
+Utilizar el archivo: template.txt 
+
+El archivo debe ser utilizado como referencia de la estructura del contenido. Poner atención en no actulizarlo ni eliminarlo cuando realicen el Pull Request.
+
+Para cubrir el objetivo deben copiar el archivo template.txt, actualizarlo con sus datos y ubicarlo en la carpeta correspondiente segun su código de país.
+
+Si la carpeta de pais no existe, entonces deben crear una nueva.
+
 
 ### Información Personal
 
