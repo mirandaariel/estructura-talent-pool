@@ -37,7 +37,7 @@ El archivo debe ser utilizado como referencia de la estructura del contenido. Po
 
 Para cubrir el objetivo deben copiar el archivo template.txt, actualizarlo con sus datos y ubicarlo en la carpeta correspondiente segun su código de país.
 
-Si la carpeta de pais no existe, entonces deben crear una nueva.
+Si la carpeta de país no existe, entonces deben crear una nueva.
 
 
 ### Información Personal
