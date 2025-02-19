@@ -1,0 +1,92 @@
+{
+    "personal_info": {
+        "first_name": "José",
+        "last_name": "Farelo",
+        "email": "jose.farelo@hotmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/josefarelo/",
+        "website": "",
+        "portfolio": "https://josefarelo.github.io/my-portfolio/",
+        "summary": "Soy un desarrollador web con formación en ingeniería que busca oportunidades para crecer profesionalmente. Me apasiona aprender nuevas tecnologías y mejorar la experiencia del usuario. Estoy comprometido con la innovación y el trabajo en equipo para contribuir a proyectos significativos."
+    },
+    "work_experience": [
+        {
+            "job_title": "",
+            "company": "Tapicería Automotriz",
+            "location": "",
+            "start_date": "2017-07-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Trabajé en equipo en el diseño, reparación y fabricación de interiores de vehículos, cuidando cada detalle para mejorar el confort y la estética, con el objetivo de lograr la satisfacción del cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas de Información",
+            "institution": "Universidad Tecnológica Nacional - Facultad Regional Buenos Aires",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Industrial",
+            "institution": "Universidad Tecnológica Nacional - Facultad Regional Buenos Aires",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2018-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Mecánico Electricista",
+            "institution": "Escuela Técnica N°34 - Ing. Enrique Martin Hermitte",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2011-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "sass",
+                "node.js",
+                "c#",
+                "sql",
+                "git"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "MedicAR",
+            "description": "Aplicación web con autenticación JWT y búsqueda de médicos por filtros. Desarrollo de la interfaz de usuario y lógica de backend para almacenamiento de datos.",
+            "technologies": ["react", "sass", "express.js", "sql", "jwt"],
+            "url": "https://github.com/josefarelo/medic-ar"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

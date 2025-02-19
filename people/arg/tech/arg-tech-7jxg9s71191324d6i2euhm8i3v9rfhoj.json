@@ -1,0 +1,123 @@
+{
+    "personal_info": {
+        "first_name": "Igor",
+        "last_name": "Tosta",
+        "email": "matositosta@gmail.com",
+        "phone": "+55 74 9 9144-9651",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "www.linkedin.com/in/matos-igor-tosta",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Developer",
+            "company": "SysMap Solutions",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Increased system reliability by 20% and reduced API response time by 15% by designing secure, containerized microservices using Spring Boot, JWT, OAuth, and Docker.",
+                "Led the implementation of scalable microservices with Docker and Kubernetes, improving portability and operational efficiency.",
+                "Ensured 85% compliance with industry standards and reduced integration errors by 20% by leading the end-to-end architecture and technical documentation aligned with TMForum and OpenAPI.",
+                "Optimized CI/CD pipelines, reducing deployment time by 25% and cutting release downtime by 15%, leveraging Docker, Kubernetes, and DevOps best practices."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Junior Software Developer",
+            "company": "SysMap Solutions",
+            "location": "",
+            "start_date": "2022-09-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Migrated 20GB of data daily between academic systems using Kafka, Kubernetes, and Docker, increasing operational throughput by 15% and reducing latency by 20%.",
+                "Promoted to team leader after one year, managing critical deployments, optimizing service integrations, and reducing incident resolution time by 75%.",
+                "Implemented automated CI/CD pipelines with Docker, achieving 65% on-time deliveries and improving system stability and efficiency.",
+                "Boosted team productivity by 40% by optimizing workflows and prioritizing strategic tasks, fostering better collaboration."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "UX/UI Designer",
+            "company": "CIEDS",
+            "location": "",
+            "start_date": "2022-08-01",
+            "end_date": "2022-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Successfully led a website redesign project, creating user flows, wireframes, and prototypes in Figma, which increased stakeholder satisfaction by 30%.",
+                "Prioritized mobile responsiveness and accessibility by delivering 15 high-fidelity wireframes and 3 interactive prototypes, resulting in a 25% decrease in implementation time.",
+                "Conducted user testing, uncovering a 40% improvement in task completion rates, ensuring an intuitive and user-friendly experience."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Web Development Intern",
+            "company": "Lojas Quero-Quero S.A.",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Automated purchase processes by 40% through CSV integration, utilizing Node.js, Python, Docker, and CI/CD.",
+                "Optimized system code and monitoring, reducing downtime by 15% and improving loading speed by 20%.",
+                "Contributed to full-stack development, increasing team productivity by 10% and improving system reliability."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript", 
+                "nodejs", 
+                "java", 
+                "python", 
+                "javascript", 
+                "nestjs", 
+                "nextjs", 
+                "spring-boot", 
+                "reactjs", 
+                "tailwind", 
+                "mui", 
+                "html5", 
+                "css3", 
+                "jest", 
+                "junit", 
+                "kubernetes", 
+                "docker", 
+                "aws", 
+                "azure", 
+                "postgresql", 
+                "mongodb", 
+                "oracle", 
+                "sql-server"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

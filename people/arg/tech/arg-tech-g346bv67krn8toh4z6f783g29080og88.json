@@ -1,0 +1,96 @@
+{
+    "personal_info": {
+        "first_name": "Lautaro",
+        "last_name": "Muiño",
+        "email": "lautaromuino2003@gmail.com",
+        "phone": "+54 1122457824",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/lautaro-muiño-079240257/",
+        "website": "https://lautaromuino03.github.io/Portfolio/",
+        "portfolio": "https://github.com/LautaroMuino03",
+        "summary": "Tengo 21 años, estudiante de Tecnicatura en Programación y desarrollador web. Me motiva la dificultad, trabajo muy bien en equipo, buena organización y tengo un fuerte compromiso en mejorar y aprender nuevas tecnologías."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una página principal para un cliente en un centro de gastroenterología que permite a los pacientes ver información sobre el centro y los servicios que ofrecen.",
+                "Implementé un e-commerce funcional utilizando ReactJS para la gestión del front-end, creando componentes reutilizables, manejando el estado con hooks, e implementando rutas dinámicas.",
+                "Para el e-commerce, utilicé Node.js con Express para crear una API y MongoDB como base de datos para almacenar productos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Informática",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Full stack",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "full-stack-developer",
+                "reactjs",
+                "express",
+                "nodejs",
+                "html",
+                "css",
+                "tailwindcss",
+                "javascript",
+                "typescript",
+                "next.js",
+                "sql",
+                "mysql",
+                "nosql",
+                "mongo-db"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

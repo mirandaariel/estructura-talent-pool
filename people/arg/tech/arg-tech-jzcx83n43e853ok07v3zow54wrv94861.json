@@ -1,0 +1,157 @@
+{
+    "personal_info": {
+        "first_name": "Jeremías",
+        "last_name": "Rivelli",
+        "email": "jeremias.j.riv@gmail.com",
+        "phone": "+54 9 2291 402230",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/rivelli-jeremias",
+        "website": "",
+        "portfolio": "https://github.com/JerePrograma",
+        "summary": "Desarrollador Full Stack con +2 años de experiencia en Java, Spring Boot y React, especializado en APIs escalables, microservicios y DevOps. Gran capacidad de liderazgo y trabajo en equipo, con un historial comprobado de optimización de flujos de trabajo mediante Scrum & Kanban y mejora del rendimiento del sistema."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack Freelance",
+            "company": "",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web seguras y de alto rendimiento (Spring Boot, React, MySQL).",
+                "Creación de APIs RESTful con autenticación segura mediante JWT y Spring Security.",
+                "Liderazgo en sprints ágiles, implementando stand-ups diarios y revisiones de sprint.",
+                "Configuración y despliegue de proyectos en VPS con Ubuntu 22.04, Docker y Nginx."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Instructor y Mentor de Programación",
+            "company": "Kodland & Ceibal",
+            "location": "",
+            "start_date": "2023-12-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de cursos interactivos de programación para niños y adolescentes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Instructor y Mentor de Programación",
+            "company": "Egg Live",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Asesoramiento técnico, facilitación de stand-ups ágiles diarios, mejorando los resultados de los proyectos en un 25%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollador Back-End Java",
+            "institution": "Oracle Next Education (ONE)",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Full Stack Web Java",
+            "institution": "Egg Live",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring-boot",
+                "spring-security",
+                "nodejs",
+                "microservicios",
+                "html",
+                "css",
+                "tailwind",
+                "javascript",
+                "typescript",
+                "react",
+                "angular",
+                "mysql",
+                "postgresql",
+                "docker",
+                "ubuntu-22.04",
+                "nginx",
+                "ci/cd",
+                "github-actions",
+                "junit",
+                "mockito",
+                "mockmvc",
+                "jwt"
+            ],
+            "soft": [
+                "scrum",
+                "kanban",
+                "planificación-de-sprints",
+                "stand-ups",
+                "liderazgo",
+                "trabajo-en-equipo",
+                "colaboración",
+                "resolución-de-problemas",
+                "comunicación",
+                "adaptabilidad"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "gitlab",
+                "postman",
+                "insomnia",
+                "swagger"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sistema de Gestión Académica",
+            "description": "Actualmente en desarrollo, utilizando Java Spring Boot, Spring Security, React, TypeScript, Docker y Ubuntu.",
+            "technologies": ["Java Spring Boot", "Spring Security", "React", "TypeScript", "Docker", "Ubuntu"],
+            "url": ""
+        },
+        {
+            "name": "PresupuestadorFlete",
+            "description": "Sistema full-stack de gestión de presupuestos.",
+            "technologies": ["Spring Boot", "React", "MySQL"],
+            "url": ""
+        },
+        {
+            "name": "Buscasitas Web Inmobiliaria",
+            "description": "Plataforma de gestión inmobiliaria.",
+            "technologies": ["Spring Boot", "Thymeleaf", "JavaScript"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,102 @@
+{
+    "personal_info": {
+        "first_name": "David",
+        "last_name": "Chalabe",
+        "email": "chalabedh@gmail.com",
+        "phone": "+5493884718551",
+        "location": {
+            "country": "Argentina",
+            "city": "El Carmen",
+            "state": "Jujuy"
+        },
+        "linkedin": "https://www.linkedin.com/in/david-hernan-chalabe-0b1543241/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero Informático con experiencia en soporte IT, desarrollo de software y análisis de datos. Enfocado en la resolución de problemas y optimización de procesos tecnológicos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Industrial Field Support Specialist",
+            "company": "YEL Solutions (Eramet Lithium Mining Company)",
+            "location": "Salta, Ratones",
+            "start_date": "2024-10-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión y mantenimiento de infraestructura IT/OT",
+                "Configuración y mantenimiento de racks, switches y firewalls",
+                "Manejo de herramientas como Fortinet, Office 365 y Cisco Tools"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Encargado del área de Informática",
+            "company": "Consejo de la Microempresa",
+            "location": "San Salvador de Jujuy",
+            "start_date": "2021-12-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Coordinador de soporte IT",
+                "Instalación y administración de servidores Windows Server",
+                "Desarrollo web con Node.js y mantenimiento de bases de datos"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería Informática",
+            "institution": "Universidad Nacional de Jujuy - Facultad de Ingeniería",
+            "location": "",
+            "start_date": "",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "windows-server", "power-bi", "mongodb", "mysql", "postgresql", "java", "c#", "python", "r", "html", "css", "javascript", "angular", "flask", "bootstrap", "cisco-packet-tracer"
+            ],
+            "soft": [
+                "resolucion-de-problemas", "pensamiento-critico", "comunicacion-efectiva", "trabajo-en-equipo", "aprendizaje-continuo"
+            ],
+            "tools": [
+                "jupyter-notebook", "r-studio"]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Certificación Data Scientist, Python",
+            "issuing_organization": "Datacamp",
+            "issue_date": "2024-06-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Sistema de Apoyo a la Toma de Decisiones en Puestos de Salud",
+            "description": "Desarrollo de modelos predictivos en machine learning para optimizar decisiones de salud pública.",
+            "technologies": ["python", "jupyter-notebook", "power-bi"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2+"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

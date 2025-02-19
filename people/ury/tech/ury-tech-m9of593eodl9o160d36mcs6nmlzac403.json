@@ -1,0 +1,163 @@
+{
+    "personal_info": {
+        "first_name": "Fernando Agustín",
+        "last_name": "Acosta",
+        "email": "fernando.salli.08@gmail.com",
+        "phone": "+598 91 745342",
+        "location": {
+            "country": "Uruguay",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/fernando-acosta-172557239",
+        "website": "",
+        "portfolio": "https://portfolio-fa-frontend.vercel.app",
+        "summary": "Programador web en busca de mi primer empleo. Mi objetivo es crecer profesionalmente y destacarme en el desarrollo web con habilidades en HTML, CSS/Sass/Tailwind, JavaScript/TypeScript y ReactJS. Actualmente estoy cursando backend (Node.js, Express, MongoDB) para avanzar hacia programador web Full-stack."
+    },
+    "work_experience": [
+        {
+            "job_title": "Técnico en internet",
+            "company": "Cooperativa de electricidad, Trenque Lauquen",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención al cliente",
+                "Servicio a domicilio instalación y/o configuración de red"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista universitario en sistemas",
+            "institution": "Universidad Tecnológica Nacional, Trenque Lauquen",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Informática",
+            "institution": "Escuela de Educación Técnica N°1, Salliqueló",
+            "location": "",
+            "start_date": "2004-01-01",
+            "end_date": "2009-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en las Ciencias de la Computación (3 años cursados)",
+            "institution": "Universidad Nacional del Sur, Bahía Blanca",
+            "location": "",
+            "start_date": "2009-01-01",
+            "end_date": "2012-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "sass",
+                "tailwind",
+                "javascript",
+                "typescript",
+                "reactjs",
+                "node.js",
+                "express",
+                "mongodb"
+            ],
+            "soft": [
+                "autodidacta",
+                "comprometido",
+                "trabajo-en-equipo"
+            ],
+            "tools": [
+                "vs-code",
+                "git",
+                "github",
+                "trello",
+                "word",
+                "excel",
+                "powerpoint",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "HTML and CSS",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "JavaScript Course",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "React",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Node.js, Express, MongoDB & More",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Trabajo listo",
+            "description": "Proyecto en equipo desde NoCountry que permite buscar servicios profesionales con un sistema de calificación y consultas.",
+            "technologies": ["typescript", "github", "tailwind"],
+            "url": ""
+        },
+        {
+            "name": "FA-Chat",
+            "description": "Proyecto personal de chat con sistema de registro y login. Permite a los usuarios buscar y conversar con otros usuarios registrados.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Media-Player",
+            "description": "Proyecto personal de reproductor de música que utiliza la API de Spotify con funcionalidad de login, recomendaciones y manejo de playlists.",
+            "technologies": ["spotify-api"],
+            "url": ""
+        },
+        {
+            "name": "Fast React Pizza",
+            "description": "Proyecto personal para aprender Tailwind que permite realizar pedidos de pizzas según un catálogo.",
+            "technologies": ["tailwind"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

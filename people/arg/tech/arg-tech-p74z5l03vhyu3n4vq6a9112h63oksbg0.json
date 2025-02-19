@@ -1,0 +1,170 @@
+{
+    "personal_info": {
+        "first_name": "Pedro",
+        "last_name": "Berustein",
+        "email": "pedroberustein03@gmail.com",
+        "phone": "+54 9 11 69182166",
+        "location": {
+            "country": "Argentina",
+            "city": "Ciudad Autónoma de Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/pedro-berustein/",
+        "website": "https://pedroberustein.netlify.app/",
+        "portfolio": "https://github.com/pberus",
+        "summary": "Conocimientos en desarrollo web aplicando JavaScript, TypeScript, React, Redux, HTML, CSS, Tailwind, Less, NodeJs, Express, PostgreSQL, Sequelize, MondoDB y Mongoose, y móvil con React Native. Experiencia de trabajo reciente, como AI Code Reviewer, y académica en proyectos individuales y en equipo aplicando Scrum, Git y herramientas de gestión de proyectos. Empatía, aprendizaje ágil, actitud positiva, capacidad crítica, mente abierta, trabajo en equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "AI Code Reviewer",
+            "company": "Remotasks, Scale AI",
+            "location": "Remote",
+            "start_date": "2023-12-01",
+            "end_date": "2024-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Entrene grandes modelos de lenguaje de IA.",
+                "Proyectos de evaluación y corrección de respuestas a prompts generadas por los modelos.",
+                "Conocimientos necesarios en código de programación, lógica y análisis matemático e inglés, para garantizar un feedback útil y detallado."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Empleado de comercio",
+            "company": "Puesto de diarios y revistas",
+            "location": "Villa Urquiza, Caba",
+            "start_date": "2019-01-01",
+            "end_date": "2023-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención al público, distribución, stock, proveedores."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Sistemas de información de las organizaciones",
+            "institution": "Facultad de Ciencias Económicas, Universidad de Buenos Aires (UBA)",
+            "location": "",
+            "start_date": "2019-04-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Developer",
+            "institution": "SoyHenry",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "2023-09-01",
+            "hours": 800
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "css",
+                "html",
+                "react",
+                "redux",
+                "redux-toolkit",
+                "tailwind",
+                "bootstrap",
+                "material-ui",
+                "less",
+                "react-native",
+                "nodejs",
+                "express",
+                "sequelize",
+                "mongoose",
+                "passport",
+                "jwt",
+                "oauth-2.0",
+                "cookies",
+                "bcrypt",
+                "postgresql",
+                "mongodb"
+            ],
+            "soft": [
+                "empatía",
+                "aprendizaje-ágil",
+                "actitud-positiva",
+                "capacidad-crítica",
+                "mente-abierta",
+                "trabajo-en-equipo"
+            ],
+            "tools": [
+                "aws",
+                "git",
+                "github",
+                "scrum",
+                "trello"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "TvRanking",
+            "description": "Aplicación web interactiva de entretenimiento que explora el mundo del cine y la televisión.",
+            "technologies": [
+                "javascript",
+                "react",
+                "redux",
+                "html",
+                "css",
+                "bootstrap",
+                "material-ui",
+                "vite",
+                "nodejs",
+                "express",
+                "postgresql",
+                "sequelize",
+                "git",
+                "trello",
+                "tmdb-api"
+            ],
+            "url": "https://tvranking.up.railway.app/"
+        },
+        {
+            "name": "DoggyGo",
+            "description": "Aplicación web que ofrece servicios de paseadores a dueños de perros.",
+            "technologies": [
+                "javascript",
+                "react",
+                "redux",
+                "tailwind",
+                "material-ui",
+                "nodejs",
+                "express",
+                "postgresql",
+                "sequelize",
+                "git",
+                "scrum",
+                "trello"
+            ],
+            "url": "https://doggy-go.onrender.com/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio-alto (B2)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

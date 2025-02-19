@@ -1,0 +1,88 @@
+{
+    "personal_info": {
+        "first_name": "Martin",
+        "last_name": "Florella",
+        "email": "martinflorella29@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Ramos Mejia",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Tecnico en programacion, recibido en UTN. Con el fin de desarrollarme profesionalmente y poder pertenecer a una organizacion en la cual pueda aportar todos mis conocimientos y lograr exitos en mis tareas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador web",
+            "company": "",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo con wordpress usando php, html, css.",
+                "Integrando un equipo de trabajo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Programacion",
+            "institution": "Universidad Tecnológica Nacional FRH",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso de desarrollo de API REST con Spring Boot",
+            "institution": "TodoCode Academy",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "c#",
+                "spring-boot",
+                "spring-validations",
+                "mvc",
+                "arquitectura-multicapa",
+                "hibernate",
+                "jpa",
+                "mysql",
+                "junit",
+                "mockito"
+            ],
+            "soft": [],
+            "tools": [
+                "scrum",
+                "git"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

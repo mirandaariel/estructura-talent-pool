@@ -1,0 +1,102 @@
+{
+    "personal_info": {
+        "first_name": "Christian Alexis",
+        "last_name": "Rugna",
+        "email": "alexcr87@live.com.ar",
+        "phone": "1123978708",
+        "location": {
+            "country": "Argentina",
+            "city": "Lomas del Mirador",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/christian-rugna",
+        "website": "",
+        "portfolio": "https://github.com/Alexcr87",
+        "summary": "Full Stack Developer con experiencia en desarrollo backend con Next.js, NestJS y PostgreSQL. Apasionado por la implementación de soluciones escalables y eficientes."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Teaching Assistant",
+            "company": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Coordinar a un grupo de estudiantes para integración en el equipo de estudio",
+                "Asistir en la resolución de ejercicios de programación",
+                "Promover la colaboración grupal y buenas prácticas en desarrollo de software"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Administrativo",
+            "company": "Subsecretaría General de Espacios y Servicios Públicos",
+            "location": "",
+            "start_date": "2018-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Coordinación de trabajos de reparación de luminarias y áreas públicas",
+                "Gestión de stock y suministros",
+                "Control de materiales para continuidad operativa"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "Analista de Sistemas y Programación Orientada a Objetos",
+            "institution": "I.S.F.DyT Nº46",
+            "location": "",
+            "start_date": "2014-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react.js", "node.js", "typescript", "javascript", "postgresql", "expressjs", "html", "css", "redux", "typeorm", "mongodb", "git", "next.js", "nestjs", "oauth2"
+            ],
+            "soft": [
+                "teamwork", "communication", "problem-solving", "leadership", "time-management"
+            ],
+            "tools": [
+                "vercel", "render", "scrum", "kanban"]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Voting System",
+            "description": "Sistema de votaciones automatizado con autenticación segura mediante Auth0 y backend con NestJS y PostgreSQL.",
+            "technologies": ["next.js", "tailwind-css", "typescript", "nestjs", "oauth2", "expressjs", "typeorm", "postgresql"],
+            "url": "https://github.com/Alexcr87/ProyectoModulo5"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "C1 - Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

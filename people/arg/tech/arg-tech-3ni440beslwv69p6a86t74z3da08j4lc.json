@@ -1,0 +1,96 @@
+{
+    "personal_info": {
+        "first_name": "Carlos",
+        "last_name": "Arteaga",
+        "email": "dakaricarlos@gmail.com",
+        "phone": "011-1544387318",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/charlidev",
+        "website": "",
+        "portfolio": "",
+        "summary": "Analista Programador con experiencia en desarrollo backend con Java y Spring Boot. Apasionado por la tecnología y el aprendizaje continuo."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Analista en Sistemas",
+            "institution": "Instituto Tecnológico ORT",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Electrónico",
+            "institution": "Escuela de Educación Técnica N°1 de Merlo",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java", "poo", "lambdas", "streams", "springboot", "maven", "jpa-hibernate", "mockito", "jwt", "javascript", "html", "css", "git", "github", "scrum", "postman"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Desarrollo de API SpringBoot",
+            "issuing_organization": "TodoCode",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Java + React",
+            "issuing_organization": "Neoris Lab",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Estructuras de Datos y Algoritmos",
+            "issuing_organization": "TodoCode",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Sistema de Registro de Ventas",
+            "description": "Desarrollo de un sistema para registrar ventas de productos, utilizando Spring Boot, SQL y JPA."
+        },
+        {
+            "name": "Control de Inventario",
+            "description": "Implementación de un sistema para controlar niveles de inventario en una base de datos SQL."
+        },
+        {
+            "name": "Gestión de Clientes",
+            "description": "Aplicación para la actualización y administración de datos de clientes, utilizando Java y DTO."
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

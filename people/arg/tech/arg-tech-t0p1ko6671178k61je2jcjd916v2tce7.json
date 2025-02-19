@@ -1,0 +1,88 @@
+{
+    "personal_info": {
+        "first_name": "Franco",
+        "last_name": "Herrera",
+        "email": "francoherrera1759@gmail.com",
+        "phone": "+54 11 2187-4803",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/zfrancoh/",
+        "website": "https://github.com/zfranco21",
+        "portfolio": "",
+        "summary": "Profesional versátil capaz de desenvolverme en desarrollo web Front End y Back End. Con amplios conocimientos y herramientas para afrontar cualquier fase en la construcción de un software."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Desarrollo de Aplicaciones Web Full-Stack (MERN)",
+            "institution": "UTN Argentina",
+            "location": "Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo de Software Web Full-Stack",
+            "institution": "CUDI Argentina",
+            "location": "Argentina",
+            "start_date": "2021-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [],
+            "soft": [
+                "liderazgo",
+                "resolución-de-problemas",
+                "comunicación-asertiva",
+                "orientación-a-resultados",
+                "trabajo-en-equipo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {
+                "liderazgo": [],
+                "resolución-de-problemas": [],
+                "comunicación-asertiva": [],
+                "orientación-a-resultados": [],
+                "trabajo-en-equipo": []
+            }
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Aplicación SPA React | StorePC",
+            "description": "SPA para gestionar productos y categorías en un E-commerce. Incluye autenticación segura con JWT y un módulo ABMC completo.",
+            "technologies": ["React", "React Router", "Axios", "CSS", "JavaScript", "MongoDB", "Postman", "Git", "Vercel"],
+            "url": ""
+        },
+        {
+            "name": "Aplicación Flask | El Rincón del Vicio",
+            "description": "Plataforma para descarga de juegos PS1 con login/register buscador avanzado, comentarios, y emulador integrado.",
+            "technologies": ["HTML", "JavaScript", "Tailwind CSS", "Python", "Flask", "Flask-Login", "MySQL"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
+                

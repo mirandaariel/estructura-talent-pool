@@ -1,0 +1,140 @@
+{
+    "personal_info": {
+        "first_name": "Matias",
+        "last_name": "Bongiovanni",
+        "email": "matiasweschta@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Leones",
+            "state": "Cordoba"
+        },
+        "linkedin": "",
+        "website": "https://matiasbongiovanni.vercel.app",
+        "portfolio": "",
+        "summary": "Frontend developer with a solid background in HTML, CSS, JavaScript, TypeScript, React JS, Tailwind CSS, Supabase and Git. I have built several personal projects. My ability to solve problems and build intuitive user interfaces allows me to bring value to any development team."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Dolar Info",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Integrated APIs to fetch and display up-to-date exchange rates dynamically.",
+                "Designed a minimalist, responsive interface for a seamless user experience.",
+                "Managed version control and deployment to ensure site reliability."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Aura Perfumes",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Integrated Google Sheets as a lightweight database for product management.",
+                "Designed a responsive and intuitive UI to enhance user experience.",
+                "Ensured smooth state management and real-time updates for product availability."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Nova Inmobiliaria",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Integrated interactive property listings with filters for location, price, and property type.",
+                "Designed an elegant and user-friendly UI to enhance the browsing experience.",
+                "Implemented Google Maps API for property location visualization.",
+                "Optimized performance for fast loading times and smooth navigation."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Secondary",
+            "institution": "",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachelor's degree in computer science",
+            "institution": "",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2027-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Technical degree in software development",
+            "institution": "University",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2027-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "react-js",
+                "tailwind-css",
+                "supabase",
+                "git"
+            ],
+            "soft": [
+                "logical-thinking",
+                "adaptability",
+                "problem-solving",
+                "collaboration"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {
+                "responsive-design": [{
+                    "name": "Responsive design",
+                    "repository_url": ""
+                }],
+                "optimization-and-performance": [{
+                    "name": "Optimization and performance",
+                    "repository_url": ""
+                }]
+            },
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": ""
+        },
+        {
+            "language": "English",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

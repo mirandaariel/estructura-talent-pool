@@ -1,0 +1,113 @@
+{
+    "personal_info": {
+        "first_name": "Fabian",
+        "last_name": "Perez",
+        "email": "perezsanchezff@gmail.com",
+        "phone": "1140390090",
+        "location": {
+            "country": "Argentina",
+            "city": "La Plata",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/ffperezs/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy una persona proactiva, organizada y responsable, con buenas relaciones interpersonales. Me encanta aprender sobre nuevas tecnologías. Soy muy detallista con el código y el trabajo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador BackEnd",
+            "company": "Semillero Latam",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo del MVP de una página web.",
+                "Creación de página con Java y Spring Boot.",
+                "Integración de bases de datos y sistemas externos.",
+                "Metodología Scrum."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FrontEnd",
+            "company": "Kiura",
+            "location": "Remoto",
+            "start_date": "2024-01-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Crear y mantener las interfaces visuales de aplicaciones web utilizando tecnologías como HTML, CSS y JavaScript.",
+                "Creación de componentes reutilizables con frameworks y librerías como React y Angular.",
+                "Implementar lógica básica de Frontend utilizando JavaScript o TypeScript.",
+                "Planificación y ejecución de tareas en equipo. (Metodología Scrum)"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista QA",
+            "company": "Changomas Argentina - Hiper",
+            "location": "",
+            "start_date": "2022-06-01",
+            "end_date": "2023-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Análisis de Documentación.",
+                "Estimación de Horas.",
+                "Diseño y Ejecución de Casos de Pruebas.",
+                "Test de Web Responsive y App.",
+                "Levantamiento de Bug."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Informática",
+            "institution": "Universidad Nacional de la Plata",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "springboot",
+                "mysql",
+                "sql",
+                "html5",
+                "css",
+                "angular",
+                "javascript",
+                "typescript"
+            ],
+            "soft": [],
+            "tools": [
+                "jira",
+                "trello",
+                "browser-stack",
+                "loom",
+                "github",
+                "netbeans",
+                "excel"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
