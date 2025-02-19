@@ -1,0 +1,99 @@
+{
+    "personal_info": {
+        "first_name": "Juan Guillermo",
+        "last_name": "Alvarenga",
+        "email": "guillealvarenga22@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "El Colorado",
+            "state": "Formosa"
+        },
+        "linkedin": "https://linkedin.com/in/guillermo-alvarenga",
+        "website": "",
+        "portfolio": "https://github.com/guilleAlvarenga",
+        "summary": "Desarrollador de software con más de 3 años de experiencia en la creación de soluciones backend seguras y escalables. Especializado en Java, Spring Boot y Spring Security, con habilidades adicionales en desarrollo frontend (HTML, CSS, Bootstrap, Thymeleaf) y bases de datos MySQL. Reconocido por su adaptabilidad, capacidad para resolver problemas y fuerte espíritu de trabajo en equipo, se esfuerza por aportar valor a cada proyecto."
+    },
+    "work_experience": [
+        {
+            "job_title": "Backend Development",
+            "company": "AJG",
+            "location": "",
+            "start_date": "2021-06-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrolló plataforma de gestión de productos y usuarios con control de acceso avanzado y búsqueda optimizada.",
+                "Implementó servicio REST para conversión de divisas con manejo de errores y documentación automatizada con OpenAPI.",
+                "Desarrolló sistema de autenticación segura basado en JWT en Spring Boot.",
+                "Desarrolló API CRUD para la gestión de datos de usuarios en MySQL documentada con Swagger."
+            ],
+            "achievements": [""],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Profesorado en Educación Secundaria en Biología",
+            "institution": "ISFD “Nación Latinoamericana”",
+            "location": "",
+            "start_date": "",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "javascript",
+                "json",
+                "html",
+                "css",
+                "spring-boot",
+                "spring-security",
+                "hibernate",
+                "bootstrap",
+                "tailwind",
+                "sql",
+                "mysql"
+            ],
+            "soft": [
+                "adaptability",
+                "problem-solving",
+                "teamwork"
+            ],
+            "tools": [
+                "aws",
+                "eclipse",
+                "intellij",
+                "git",
+                "github",
+                "postman",
+                "scrum-methodologies"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Prodify - Sistema de Gestión de Productos",
+            "description": "Prodify es una aplicación de gestión de inventarios desarrollada con Spring Boot.",
+            "technologies": ["Java", "Spring Boot", "Spring Data JPA", "Hibernate", "MySQL"],
+            "url": "https://github.com/guilleAlvarenga/Prodify"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

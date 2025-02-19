@@ -1,0 +1,207 @@
+{
+    "personal_info": {
+        "first_name": "Gianmarco",
+        "last_name": "Zodda",
+        "email": "zoddagj@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/gianmarcozodda",
+        "website": "https://github.com/GianmarcoZodda",
+        "portfolio": "",
+        "summary": "Analista de Sistemas graduado del Instituto de Tecnología ORT, con experiencia en desarrollo backend con Java y Spring Boot, y C# con ASP.NET. Desarrollo móvil con Kotlin y React Native, frontend con React y Javscript. Me apasiona la tecnología y disfruto creando soluciones. Deseo seguir formándome en el área de la programación, adquiriendo más experiencia en inteligencia artificial y otras tecnologías."
+    },
+    "work_experience": [
+        {
+            "job_title": "Responsable de Gestion de Proyectos y Compras",
+            "company": "Fuerza Aerea Argentina",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Lideré la gestión integral de proyectos, coordinando la toma de requerimientos, planificación y seguimiento de tareas para cumplir objetivos en tiempo y forma.",
+                "Redacté documentación técnica y administrativa clave, garantizando claridad y precisión en la comunicación interna y externa.",
+                "Gestioné la comunicación con proveedores, supervisando procesos de compras para asegurar el cumplimiento de requisitos.",
+                "Coordiné con áreas internas para alinear los requerimientos.",
+                "Elaboré informes de avance y reportes ejecutivos utilizando PowerPoint y Excel."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Soporte Tecnico",
+            "company": "Fuerza Aerea Argentina",
+            "location": "",
+            "start_date": "2022-08-01",
+            "end_date": "2023-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Brindé asistencia técnica a usuarios en la resolución de problemas de hardware, software y sistemas.",
+                "Diagnostiqué y solucioné fallos en aplicaciones.",
+                "Gestioné solicitudes de soporte, documentando cada solución.",
+                "Capacité a usuarios finales en el uso correcto de herramientas y sistemas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista de Sistemas",
+            "institution": "Instituto de Tecnología ORT",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Java SpringBoot",
+            "institution": "Educación IT",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Java Hibernate",
+            "institution": "Educación IT",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Java Backend",
+            "institution": "Educación IT",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Product Owner",
+            "institution": "Educación IT",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Scrum Avanzado",
+            "institution": "Educación IT",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Python para no matemáticos, reconocimiento facial",
+            "institution": "Udemy",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Python for Machine Learning, the complete course",
+            "institution": "Udemy",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "c#",
+                "python",
+                "node",
+                "javascript",
+                "kotlin",
+                "react-native",
+                "r",
+                "spring",
+                "asp.net",
+                "blazor",
+                "tensorflow",
+                "flask",
+                "fastapi",
+                "scikit-learn",
+                "pytorch",
+                "langchain",
+                "react",
+                "express",
+                "jetpack-compose",
+                "mysql",
+                "postgresql",
+                "microsoft-sql-server",
+                "sqlite",
+                "mariadb",
+                "mongo"
+            ],
+            "soft": [
+                "communication",
+                "teamwork"
+            ],
+            "tools": [
+                "uml-letino",
+                "draw.io",
+                "trello",
+                "jira",
+                "canva",
+                "git",
+                "docker",
+                "postman",
+                "swagger",
+                "intellij-idea",
+                "android-studio",
+                "jupiter-notebook",
+                "eclipse",
+                "visual-studio-2022",
+                "notion",
+                "slack",
+                "microsoft-teams"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "BRISA (Bloodflow Retinal Inteligent Analysis)",
+            "description": "Repositorio mobile de mi proyecto final colaborativo académico en el Instituto de Tecnología ORT. Brisa es un software inteligente que informa la presencia o no de la Retinopatía Diabética y su estado de avance.",
+            "technologies": ["react-native", "expo", "python", "tensorflow", "google-colab", "kaggle", "node.js"],
+            "url": "https://github.com/GianmarcoZodda/Brisa-React-Native"
+        },
+        {
+            "name": "marvelAPI",
+            "description": "Aplicación en Java con Spring Boot que se conecta a la API de Marvel para consultar y mostrar información sobre personajes y cómics.",
+            "technologies": ["java", "springboot", "spring-security", "spring-data", "jpa", "hibernate"],
+            "url": "https://github.com/GianmarcoZodda/marvelAPI"
+        },
+        {
+            "name": "cine",
+            "description": "Web app con C# y ASP .NET, que gestiona la reserva para un espectáculo de cine utilizando el patrón MVC.",
+            "technologies": ["c#", "asp.net", "entity-framework", "identity"],
+            "url": "https://github.com/GianmarcoZodda/Cine"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Ingles",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,128 @@
+{
+    "personal_info": {
+        "first_name": "Emiliano Matias",
+        "last_name": "Navarro",
+        "email": "emilianonavarro1993@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Martin Coronado",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/emilianonavarro93/",
+        "website": "",
+        "portfolio": "https://emiliano-navarro.vercel.app/",
+        "summary": "Soy desarrollador full-stack con especial interés en el frontend, dedicado a construir interfaces intuitivas, modernas y responsivas. Me caracteriza la atención minuciosa al detalle y el compromiso con la excelencia, aplicando siempre las mejores prácticas de desarrollo. Estoy en constante aprendizaje para evolucionar profesionalmente, incluyendo el desarrollo de mis habilidades en inglés."
+    },
+    "work_experience": [
+        {
+            "job_title": "Data Entry",
+            "company": "Digitrack",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Procesamiento y carga eficiente de grandes volúmenes de datos relacionados con actas de matrimonio, nacimiento y defunción.",
+                "Creación de extensiones del navegador para automatizar la carga de datos en los formularios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Propietario",
+            "company": "Emprendimiento Personal",
+            "location": "",
+            "start_date": "2022-07-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Especialización en el diseño e impresión de modelos 3D personalizados utilizando Fusion 360 y otros programas.",
+                "Supervisión integral del proceso: desde la creación del modelo hasta la impresión final.",
+                "Gestión de relaciones con los clientes para garantizar la calidad y los plazos de entrega."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Administrativo",
+            "company": "Lakaut",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "2022-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Digitalización y clasificación de documentos aduaneros.",
+                "Gestión eficiente del almacén, asegurando trazabilidad y rápida accesibilidad.",
+                "Recuperación de documentación en ubicaciones asignadas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachillerato en Ciencias Sociales",
+            "institution": "Instituto Pio XII Leonardo Murialdo",
+            "location": "",
+            "start_date": "",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "go",
+                "sql",
+                "react",
+                "node.js",
+                "express.js",
+                "nest.js",
+                "typeorm",
+                "jest",
+                "redux",
+                "react-query",
+                "react-router",
+                "sass",
+                "mongodb",
+                "postgresql",
+                "mysql"
+            ],
+            "soft": [],
+            "tools": [
+                "cursor",
+                "figma",
+                "postman",
+                "docker",
+                "git",
+                "github",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Frontend Mentor",
+            "description": "Este es mi perfil de Frontend Mentor, donde realizo retos para perfeccionar mis habilidades en desarrollo frontend. El objetivo es replicar con la mayor fidelidad posible los diseños originales. En cada proyecto, podrás encontrar enlaces tanto al repositorio como a la versión en vivo de los retos completados.",
+            "technologies": ["HTML", "CSS", "JavaScript", "React", "SASS"],
+            "url": "https://www.frontendmentor.io/profile/NavarroEmiliano"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Ingles",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

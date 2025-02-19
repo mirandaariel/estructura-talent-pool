@@ -2,58 +2,127 @@
     "personal_info": {
         "first_name": "Franco",
         "last_name": "Herrera",
-        "email": "francoherrera1759@gmail.com",
+        "email": "Francoherrera1759@gmail.com",
         "phone": "+54 11 2187-4803",
         "location": {
             "country": "Argentina",
-            "city": "",
-            "state": ""
+            "city": "González Catán",
+            "state": "Buenos Aires"
         },
         "linkedin": "https://www.linkedin.com/in/zfrancoh/",
         "website": "https://github.com/zfranco21",
-        "portfolio": "",
-        "summary": "Profesional versátil capaz de desenvolverme en desarrollo web Front End y Back End. Con amplios conocimientos y herramientas para afrontar cualquier fase en la construcción de un software."
+        "portfolio": "https://francoherrera.netlify.app/",
+        "summary": "Desarrollador Front End Jr con experiencia en proyectos personales y formación en desarrollo web Full-Stack (MERN). Busco una oportunidad como Desarrollador Web Trainee para ampliar mis habilidades en el rubro tecnológico, contribuir en proyectos desafiantes y crecer profesionalmente. Cuento con habilidades técnicas en React, Flask, MongoDB y metodologías ágiles, además de experiencia en liderazgo, trabajo en equipo y orientación a resultados."
     },
-    "work_experience": [],
+    "work_experience": [
+        {
+            "job_title": "Ayudante de Cocina",
+            "company": "Live Burguer",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención al cliente, administración de caja y mantenimiento de áreas.",
+                "Demostré habilidades de organización y trabajo bajo presión."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Área de Ventas",
+            "company": "Chevrolet",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Realización de trámites administrativos y gestión de clientes.",
+                "Desarrollé habilidades de comunicación y atención al cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Operario",
+            "company": "Metalúrgica Muller",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2020-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Fabricación de tornillos y arandelas a medida, mantenimiento de equipos y manejo de Clark.",
+                "Adquirí experiencia en trabajo en equipo y resolución de problemas técnicos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Repositor y Caja",
+            "company": "Supermercado",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2019-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Reposición de productos, atención al cliente y mantenimiento de góndolas.",
+                "Desarrollé habilidades de organización y servicio al cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
     "education": [
         {
             "degree": "Desarrollo de Aplicaciones Web Full-Stack (MERN)",
-            "institution": "UTN Argentina",
-            "location": "Argentina",
+            "institution": "UTN ARGENTINA",
+            "location": "",
             "start_date": "2023-01-01",
             "end_date": "2024-12-31",
             "hours": 0
         },
         {
-            "degree": "Desarrollo de Software Web Full-Stack",
-            "institution": "CUDI Argentina",
-            "location": "Argentina",
+            "degree": "Desarrollo de Software Web",
+            "institution": "CUDI ARGENTINA",
+            "location": "",
             "start_date": "2021-01-01",
-            "end_date": "2023-12-31",
+            "end_date": "2023-01-01",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Ciencias Sociales",
+            "institution": "Escuela Estatal N°30",
+            "location": "",
+            "start_date": "2014-01-01",
+            "end_date": "2020-12-31",
             "hours": 0
         }
     ],
     "skills": {
         "keywords": {
-            "technical": [],
-            "soft": [
-                "liderazgo",
-                "resolución-de-problemas",
-                "comunicación-asertiva",
-                "orientación-a-resultados",
-                "trabajo-en-equipo"
+            "technical": [
+                "javascript",
+                "html",
+                "css",
+                "python",
+                "react",
+                "flask",
+                "mongodb"
             ],
-            "tools": []
+            "soft": [
+                "trabajo-en-equipo",
+                "resolución-de-problemas",
+                "comunicación-asertiva"
+            ],
+            "tools": [
+                "git",
+                "postman",
+                "vercel"
+            ]
         },
         "detailed": {
             "technical": {},
-            "soft": {
-                "liderazgo": [],
-                "resolución-de-problemas": [],
-                "comunicación-asertiva": [],
-                "orientación-a-resultados": [],
-                "trabajo-en-equipo": []
-            }
+            "soft": {}
         }
     },
     "certifications": [],
@@ -61,28 +130,43 @@
         {
             "name": "Aplicación SPA React | StorePC",
             "description": "SPA para gestionar productos y categorías en un E-commerce. Incluye autenticación segura con JWT y un módulo ABMC completo.",
-            "technologies": ["React", "React Router", "Axios", "CSS", "JavaScript", "MongoDB", "Postman", "Git", "Vercel"],
+            "technologies": [
+                "react",
+                "react-router",
+                "axios",
+                "css",
+                "javascript",
+                "mongodb",
+                "postman",
+                "git",
+                "vercel"
+            ],
             "url": ""
         },
         {
             "name": "Aplicación Flask | El Rincón del Vicio",
-            "description": "Plataforma para descarga de juegos PS1 con login/register buscador avanzado, comentarios, y emulador integrado.",
-            "technologies": ["HTML", "JavaScript", "Tailwind CSS", "Python", "Flask", "Flask-Login", "MySQL"],
+            "description": "Plataforma para descarga de juegos PS1 con login/register, buscador avanzado, comentarios y emulador integrado.",
+            "technologies": [
+                "html",
+                "javascript",
+                "tailwind",
+                "flask",
+                "python"
+            ],
             "url": ""
         }
     ],
     "languages": [
         {
-            "language": "Spanish",
-            "proficiency": "Native"
+            "language": "Español",
+            "proficiency": "Nativo"
         },
         {
-            "language": "English",
-            "proficiency": "Intermediate"
+            "language": "Inglés",
+            "proficiency": "Intermedio"
         }
     ],
     "volunteer_experience": [],
     "publications": [],
     "references": []
 }
-                

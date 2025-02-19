@@ -1,0 +1,161 @@
+{
+    "personal_info": {
+        "first_name": "Raydberg Gabriel",
+        "last_name": "Chuquival Gil",
+        "email": "raydbergg@gmail.com",
+        "phone": "+51 951890315",
+        "location": {
+            "country": "Perú",
+            "city": "La Libertad",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/raydbergchuquival",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy estudiante de quinto ciclo en Cibertec, especializado en desarrollo web. Tengo experiencia en HTML, CSS, JavaScript, React y TailwindCSS, donde actualmente ando mejorando mis habilidades en Spring Boot y Sprint Security. En mis proyectos personales, he diseñado y desarrollado interfaces de usuario atractivas, accesibles y funcionales. Me destaco por mi capacidad para poder solucionar problemas que se me plantean, así como sugerir nuevas ideas y ser proactivo soy una persona interesada en el desarrollo web con ganas de seguir mejorando y adquiriendo nuevos conocimientos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full-Stack",
+            "company": "Sistema de Inventario Farmacéutico",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrolle el diseño y desarrollo del sistema utilizando React, TailwindCSS, ShadcnUI, y Zustand para el Front-End, y Java, SpringBoot, Lombok, MySQL, y Swagger para el Back-End.",
+                "Realicé la integración con JasperReports para la generación y emisión de reportes.",
+                "Desarrolle los diseños en Figma y en el despliegue de la aplicación en Azure (back-end), asi mismo el despliegue de la base de datos en Azure Database y Vercel (front-end).",
+                "Verifiqué la funcionalidad, desempeño, y la eficiencia del sistema en su entorno final."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Front-End",
+            "company": "Pawsome Friends",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Colabore con el desarrollo de las interfaces de usuario utilizando React, Zustand, Tailwind CSS y ShadcnUI.",
+                "Colabore con la optimización del Diseño Responsivo",
+                "Aporte con la documentación de las APIs con Swagger",
+                "Coordiné con el equipo en Git/GitHub para la gestión de versiones y colaboración en el código, fomentando una dinámica de trabajo en equipo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Empadronador y Digitador",
+            "company": "Municipalidad Provincial de Trujillo",
+            "location": "Trujillo, Perú",
+            "start_date": "2024-04-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Manejé grandes volúmenes de datos personales y georreferenciados utilizando los formatos FSU y S100, asegurando su correcta estructuración para el sistema SIGOF",
+                "Realicé procesos de validación y análisis de datos para cumplir con requisitos específicos, garantizando la calidad y coherencia de la información recopilada.",
+                "Digitalicé y almacené datos con el software SIGOF, aplicando una metodología eficiente para la organización y gestión de información",
+                "Generé reportes detallados (digitales y físicos) de los datos empadronados, destacando habilidades en documentación precisa y estructurada."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Multifuncional",
+            "company": "Tienda Mass Perú",
+            "location": "Trujillo, Perú",
+            "start_date": "2023-06-01",
+            "end_date": "2024-02-29",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestioné el ordenamiento y reposición y conteo de productos utilizando sistemas digitales internos para asegurar la precisión del inventario",
+                "Implementé métodos eficientes para optimizar la organización de productos mejorando tiempos de reposición",
+                "Brindé atención personalizada a clientes, fortaleciendo habilidades de comunicación y solucion de problemas bajo presión"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Empadronador de campo de grupos familiares",
+            "company": "Comercializadora y Constructora C&C S.A.C",
+            "location": "Trujillo, Perú",
+            "start_date": "2022-02-01",
+            "end_date": "2022-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Registré información detallada de grupos familiares en sistemas digitales, aplicando procesos estandarizados para la entrada de datos masiva y ordenada.",
+                "Documenté reportes sobre la información recopilada, desarrollando habilidades de análisis y precisión en el manejo de datos.",
+                "Utilicé Microsoft Excel para la organización y seguimiento de los datos, implementando fórmulas y herramientas para optimizar procesos de reporte."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computación e Informática",
+            "institution": "Cibertec",
+            "location": "Trujillo, Perú",
+            "start_date": "2023-03-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Inglés",
+            "institution": "CIDUNT",
+            "location": "Trujillo, Perú",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "angular",
+                "tailwindcss",
+                "react",
+                "shadcnui",
+                "java",
+                "sprintboot",
+                "swagger",
+                "sql-server",
+                "mysql",
+                "github",
+                "git",
+                "nestjs"
+            ],
+            "soft": [
+                "proactivo",
+                "trabajo-en-equipo",
+                "capacidad-de-resolver-problemas",
+                "responsable"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

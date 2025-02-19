@@ -1,0 +1,171 @@
+{
+    "personal_info": {
+        "first_name": "Hugo Gianpierre",
+        "last_name": "Salazar Leiva",
+        "email": "hugog.salazarl@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Perú",
+            "city": "Lima",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/hugogsalazar/",
+        "website": "https://github.com/havoczic05",
+        "portfolio": "www.hugosalazar.me",
+        "summary": "Desarrollador Frontend con experiencia en la creación de aplicaciones web utilizando tecnologías front-end y back-end como React.js, Next.js, Ruby on Rails y JavaScript. Actualmente cursando una licenciatura en ingeniería de software, con un fuerte enfoque en el aprendizaje continuo y la colaboración en equipos multidisciplinarios. Apasionado por contribuir a proyectos innovadores."
+    },
+    "work_experience": [
+        {
+            "job_title": "Asesor Educativo",
+            "company": "Universidad Tecnológica del Perú (UTP)",
+            "location": "",
+            "start_date": "2022-07-22",
+            "end_date": "2024-07-15",
+            "currently_working": false,
+            "responsibilities": [
+                "Proporcioné asesoramiento personalizado a más de 800 solicitantes, centrado en las necesidades de cada candidato universitario, utilizando una comunicación efectiva y trabajo en equipo para resolver problemas.",
+                "Contribuí a posicionar a nuestro campus como el mejor en ventas a nivel nacional."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ejecutivo Back Office",
+            "company": "Terceriza",
+            "location": "",
+            "start_date": "2020-05-01",
+            "end_date": "2022-05-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Monitoreé los KPI para tres campañas de ventas, logrando una mejora del 10% en el rendimiento a través de informes completos y análisis estratégico.",
+                "Desarrollé informes de rendimiento periódicos para jefatura, facilitando la toma de decisiones basada en datos y asegurando la alineación con los objetivos comerciales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Asesor de Servicios",
+            "company": "Claro Perú",
+            "location": "",
+            "start_date": "2019-02-01",
+            "end_date": "2020-04-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestioné más de 1,000 casos de atención al cliente en el Centro de Atención de Claro Perú, alcanzando un 95% de satisfacción según los estándares de calidad establecidos.",
+                "Implementé estrategias de fidelización y resolución efectiva, logrando ser el mejor asesor en fidelización a nivel nacional.",
+                "Administré documentación crítica, como reclamos y quejas, garantizando un 100% de cumplimiento en los tiempos de respuesta establecidos.",
+                "Diseñé y presenté reportes de KPI para monitorear la gestión, proporcionando análisis clave que impulsaron mejoras en el servicio.",
+                "Colaboré con áreas externas para resolver casos complejos, asegurando una resolución exitosa en el 98% de los incidentes dentro del plazo definido."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Web Development & AI",
+            "institution": "Le Wagon",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería de Software",
+            "institution": "Universidad Tecnológica del Perú (UTP)",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "ruby",
+                "react.js",
+                "next.js",
+                "ruby-on-rails",
+                "hotwire",
+                "postgresql",
+                "mongodb",
+                "html",
+                "css",
+                "sass",
+                "gsap",
+                "lenis-scroll"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "tailwind-css",
+                "bootstrap",
+                "agile",
+                "oop"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Portafolio",
+            "description": "Portafolio moderno totalmente responsive con formulario integrado.",
+            "technologies": [
+                "React",
+                "Tailwind CSS",
+                "ShadCN",
+                "GSAP",
+                "Lenis Scroll"
+            ],
+            "url": "www.hugosalazar.me"
+        },
+        {
+            "name": "FIPE",
+            "description": "App intuitiva para organizar finanzas, controlar deudas, y visualizar patrones de consumo mediante graficos interactivos",
+            "technologies": [
+                "React",
+                "TailwindCSS",
+                "TypeScript",
+                "Node.js",
+                "MongoDB",
+                "Tremor",
+                "Figma",
+                "Docker"
+            ],
+            "url": "https://github.com/No-Country-simulation/c23-68-webapp"
+        },
+        {
+            "name": "Petcare",
+            "description": "Marketplace para conectar petsitters con pet owners.",
+            "technologies": [
+                "Ruby",
+                "Ruby on Rails",
+                "Hotwire",
+                "JavaScript",
+                "Stimulus JS",
+                "PostgreSQL",
+                "SASS"
+            ],
+            "url": "https://petcare-285c6b31bf08.herokuapp.com/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

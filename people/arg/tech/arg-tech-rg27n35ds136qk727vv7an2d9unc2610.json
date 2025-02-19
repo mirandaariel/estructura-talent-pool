@@ -1,0 +1,103 @@
+{
+    "personal_info": {
+        "first_name": "Sebastián",
+        "last_name": "de la Cruz",
+        "email": "sebastiandlacruz335@gmail.com",
+        "phone": "+541159236366",
+        "location": {
+            "country": "Argentina",
+            "city": "Garin",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/sebastian-de-la-cruz/",
+        "website": "https://github.com/SebastianDlaCruz",
+        "portfolio": "",
+        "summary": "Cuento con experiencia trabajando con equipos de desarrollo, donde mi fortaleza se centra en el Frontend, especialmente en Angular. Además, tengo conocimientos en React y Astro. Me apasiona aprender y colaborar con mis compañeros, y siempre mantengo una actitud optimista y un buen humor, lo que me permite abordar y resolver problemas de desarrollo de manera efectiva."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "UNB Collections",
+            "location": "Argentina",
+            "start_date": "2023-08-01",
+            "end_date": "2023-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño de interfaces en Figma.",
+                "Desarrollo en React siguiendo las especificaciones de Figma.",
+                "Participación en reuniones con clientes para comprender sus necesidades.",
+                "Desarrollo de funcionalidades utilizando Laravel y MySQL."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Angular Developer",
+            "company": "LinkTIC",
+            "location": "Argentina",
+            "start_date": "2024-10-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación de servicios del backend (API/REST).",
+                "Desarrollo de interfaces basadas en Figma.",
+                "Maquetación con HTML y CSS.",
+                "Maquetación con Angular Material.",
+                "Colaboración en la definición de requerimientos para el desarrollo de historias de usuario.",
+                "Colaboración con el equipo de QA para la resolución de bugs.",
+                "Uso de Azure DevOps para crear pull requests y gestionar el ciclo de vida del desarrollo.",
+                "Testing de componentes y servicios.",
+                "NgRx para el manejo global del estado."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Secundario en Informática",
+            "institution": "E.E.S.T. N° 4",
+            "location": "",
+            "start_date": "2012-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Universitario en Programación",
+            "institution": "UTN",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "angular",
+                "ngrx",
+                "angular-material",
+                "react",
+                "primer-ng",
+                "tailwind",
+                "firebase",
+                "typescript"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

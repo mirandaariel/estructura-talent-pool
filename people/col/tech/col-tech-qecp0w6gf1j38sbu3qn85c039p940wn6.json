@@ -1,0 +1,93 @@
+{
+    "personal_info": {
+        "first_name": "Esteban",
+        "last_name": "Castaño",
+        "email": "estebin5372@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Colombia",
+            "city": "Medellin",
+            "state": "Antioquia"
+        },
+        "linkedin": "https://www.linkedin.com/in/estebanandresc/",
+        "website": "https://estebancastano.vercel.app/",
+        "portfolio": "https://estebancastano.vercel.app/",
+        "summary": "Desarrollador Full Stack con experiencia en la creación de aplicaciones web utilizando tecnologías como React, Tailwind CSS, Spring Boot y bases de datos SQL. Capaz de desarrollar tanto el frontend como el backend de manera eficiente, optimizando la experiencia del usuario y la gestión de datos. Me apasiona la construcción de sistemas escalables y bien estructurados, y siempre busco mejorar mis habilidades para aportar soluciones innovadoras en el desarrollo de software."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Ingeniería de Sistemas",
+            "institution": "Universidad de Antioquia",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "java",
+                "sql",
+                "react",
+                "next-js",
+                "tailwind-css",
+                "spring-boot",
+                "mysql",
+                "postgresql"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "docker",
+                "gradle",
+                "auth0",
+                "postman"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sistema de Gestión de Empleados",
+            "description": "Aplicación web para la gestión de recursos humanos, permitiendo el registro de empleados, control de horas trabajadas y gestión de nóminas.",
+            "technologies": ["react", "tailwind-css", "spring-boot", "mysql"],
+            "url": ""
+        },
+        {
+            "name": "Sistema de Agendamiento de Turnos Vehiculares",
+            "description": "Plataforma que permite agendar, modificar y eliminar turnos para vehículos, con autenticación de usuarios.",
+            "technologies": ["react", "spring-boot", "mysql", "auth0"],
+            "url": ""
+        },
+        {
+            "name": "Portafolio Web",
+            "description": "Sitio web personal desarrollado con Next.js y Tailwind CSS, donde se presentan proyectos y experiencia profesional.",
+            "technologies": ["next-js", "typescript", "tailwind-css"],
+            "url": ""
+        },
+        {
+            "name": "100 Proyectos de JavaScript",
+            "description": "Colección de pequeños proyectos desarrollados con JavaScript para mejorar habilidades en lógica de programación, manipulación del DOM y algoritmos. Incluye calculadoras, generadores de contraseñas, cronómetros, entre otros.",
+            "technologies": ["javascript", "html", "css"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

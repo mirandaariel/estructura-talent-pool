@@ -1,0 +1,163 @@
+{
+    "personal_info": {
+        "first_name": "Cristian",
+        "last_name": "Santander",
+        "email": "csantander1993@gmail.com",
+        "phone": "11-28641787",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "https://github.com/csantander93",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Bootcamp Java + React",
+            "company": "Softtek y UMSA",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de un sistema de gestión de turnos para una obra social.",
+                "Implementación de autenticación segura con JWT y pruebas unitarias con JUnit y Mockito.",
+                "Uso de Swagger para documentación de APIs.",
+                "Creación de una aplicación web responsiva con React y backend escalable con Java (Spring Boot).",
+                "Diseño de estructuras de código escalables y colaboración en un entorno ágil."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Proyecto Freelance",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y desarrollé una página web estática para un negocio en crecimiento.",
+                "Implementé una interfaz moderna y responsiva con React y CSS.",
+                "Desarrollé un formulario de contacto funcional con Email.js.",
+                "Uso de GitHub para el control de versiones.",
+                "Despliegue del sitio web en Google Cloud con optimización de tiempos de carga."
+            ],
+            "achievements": [],
+            "repository_url": "http://www.centrodeasistencias.com"
+        },
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "Laboratorio UNLA (IPROSS)",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Participación en la modernización del sistema VEM y aplicaciones móviles de IPROSS.",
+                "Migración de AWS a servidores propios.",
+                "Optimización del backend y mejoras en la interfaz web y móvil."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full-Stack",
+            "company": "Proyecto Administrador de Tareas",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una aplicación de gestión de tareas con arquitectura Full-Stack.",
+                "Backend con Node.js, Express y MongoDB.",
+                "Implementación de autenticación segura con JWT y bcryptjs.",
+                "API REST documentada con Swagger.",
+                "Frontend desarrollado con React, Vite y React Router.",
+                "Gestión del estado con Context API."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Sistemas",
+            "institution": "Universidad Nacional de Lanús",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "javascript",
+                "typescript",
+                "python",
+                "c/c++",
+                "spring-boot",
+                "quarkus",
+                "flask",
+                "react",
+                "node.js/express",
+                "mongoose",
+                "mysql",
+                "postgresql",
+                "mongodb",
+                "redis",
+                "jwt",
+                "restful",
+                "soap",
+                "html",
+                "css",
+                "grpc",
+                "kafka",
+                "junit",
+                "mockito",
+                "postman",
+                "swagger"
+            ],
+            "soft": [],
+            "tools": [
+                "git/github",
+                "gitlab",
+                "google-cloud",
+                "render",
+                "railway",
+                "vercel",
+                "netlify",
+                "jira",
+                "trello",
+                "scrum",
+                "kanban",
+                "xp",
+                "devops"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Castellano",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

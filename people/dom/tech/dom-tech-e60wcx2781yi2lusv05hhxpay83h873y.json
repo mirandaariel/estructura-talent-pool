@@ -1,0 +1,156 @@
+{
+    "personal_info": {
+        "first_name": "Gustavo R.",
+        "last_name": "Tejeda Cuevas",
+        "email": "gustavo.t138@gmail.com",
+        "phone": "+1 8299304757",
+        "location": {
+            "country": "Dominican Republic",
+            "city": "Santo Domingo",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/gustavo-tejeda-718170144/",
+        "website": "https://github.com/ghostgto",
+        "portfolio": "https://gtopanda.surge.sh",
+        "summary": "Experienced and dynamic Junior DevOps Engineer with a strong background in building technical infrastructure solutions using Infrastructure as Code and implementing seamless integration with third-party systems. Proficient in automation for deployment and monitoring, with a security-conscious attitude and expertise in analyzing and debugging networking issues. Skilled in vulnerability management, ethical hacking, and incident response from my time as an IT Security Operations professional. Adept at providing technical support and repairing hardware components, coupled with a solid educational foundation in IT and networking. Ready to leverage my skills, including Docker, Git, Python, Linux, and AWS, to excel in the role of a Cloud Support Engineer."
+    },
+    "work_experience": [
+        {
+            "job_title": "Junior DevOps Engineer",
+            "company": "Change Financial",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Building technical infrastructure solutions using Infrastructure as Code.",
+                "Analyzing and implementing integration with third-party systems.",
+                "Configuring, deploying and upgrading in-house software.",
+                "Automation for deployment, monitoring and other operational requirements.",
+                "Participating in 24x7 on-call and out-of-hours roster and incident management.",
+                "Effective communication skills within the team, the wider company, partners, and clients.",
+                "Ability to analyze and debug networking issues with other protocols including HTTP, TCP, IPsec, SSH and SFTP.",
+                "Capable with producing and maintaining written documentation, including technical diagrams.",
+                "Security-conscious attitude, including technical security skills and knowledge of standards such as PCI-DSS, SSAE 18 SOC 2 and ISO 27001.",
+                "Ability to run, manage and configure containers on Docker and container orchestration platforms.",
+                "Knowledge of infrastructure architectural principles and the ability to document, develop and communicate architecture."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "IT Security Operations",
+            "company": "Scotia GBS",
+            "location": "",
+            "start_date": "2022-03-01",
+            "end_date": "2024-08-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Vulnerability management, mitigation strategies, troubleshooting, ethical hacking, incident response, penetration testing, networking, vulnerability assessment."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Technical Support",
+            "company": "Government Office of Information and Communication Technologies",
+            "location": "",
+            "start_date": "2020-12-01",
+            "end_date": "2022-03-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Repaired hardware components on networks, including firewalls, routers, and devices.",
+                "Set up new desktop systems and configured laptops for incoming employees, loading required software and server permissions.",
+                "Configured new employee work stations, including all hardware, software, and peripheral devices.",
+                "Consulted via telephone to understand user problems, run through testing scripts and ask probing questions to locate root causes.",
+                "Documented repair processes and helped streamline procedures for future technical support actions.",
+                "Removed malware and viruses from laptops and desktop systems using specialized software.",
+                "Installed software updates and vulnerability patches on servers to prevent possible threats from penetrating networks."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Technical Support",
+            "company": "ITS",
+            "location": "",
+            "start_date": "2018-08-01",
+            "end_date": "2019-05-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Configured new employee work stations, including all hardware, software, and peripheral devices.",
+                "Updated software versions with patches and new installations to close security loopholes and protect users.",
+                "Consulted via telephone to understand user problems, run through testing scripts and ask probing questions to locate root causes.",
+                "Documented repair processes and helped streamline procedures for future technical support actions.",
+                "Responded to assistance requests from users and directed individuals through basic troubleshooting tasks.",
+                "Removed malware and viruses from laptops and desktop systems using specialized software.",
+                "Disassembled computer systems to troubleshoot and resolve hardware issues.",
+                "Installed software updates and vulnerability patches on servers to prevent possible threats from penetrating networks."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Information Security",
+            "institution": "ITLA",
+            "location": "Dominican Republic",
+            "start_date": "2021-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "CCNA Prep",
+            "institution": "ITLA",
+            "location": "Dominican Republic",
+            "start_date": "2014-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "js",
+                "go",
+                "bash",
+                "mysql",
+                "mongodb",
+                "rds"
+            ],
+            "soft": [
+                "communication",
+                "troubleshooting"
+            ],
+            "tools": [
+                "docker",
+                "k8s",
+                "aws",
+                "iac",
+                "jira",
+                "git"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "C1"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

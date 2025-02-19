@@ -1,0 +1,121 @@
+{
+    "personal_info": {
+        "first_name": "Leonel",
+        "last_name": "Diaz",
+        "email": "leodiaz225@outlook.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Santa Fe",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/leoneldiaz225/",
+        "website": "",
+        "portfolio": "https://github.com/LeoDiaz225",
+        "summary": "Soy una persona proactiva, organizada y responsable, con buenas relaciones interpersonales y facilidad para el trabajo en equipo. Estoy estudiando Ingenieria en Informatica y buscando oportunidades para comenzar mi carrera como Tester QA. Aunque no tengo experiencia profesional, he adquirido conocimientos sólidos en pruebas manuales y automatizadas durante mi formación. Mi enfoque es garantizar que los productos sean libres de errores y cumplan con los estándares de calidad."
+    },
+    "work_experience": [
+        {
+            "job_title": "QA Manual/Automatico",
+            "company": "Cipax",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Analicé y comprendí requerimientos funcionales y técnicos para identificar criterios de aceptación y escenarios clave.",
+                "Diseñé y documenté casos de prueba detallados basados en los requerimientos del proyecto.",
+                "Ejecuté casos de prueba manuales para garantizar la calidad del producto, detectando y documentando defectos en herramientas de seguimiento (como JIRA o Trello).",
+                "Colaboré con desarrolladores y otros miembros del equipo para discutir hallazgos y validar soluciones a los defectos reportados.",
+                "Participé en revisiones de diseño y planificación de sprints para optimizar la cobertura de pruebas y la priorización de tareas.",
+                "Aseguré el cumplimiento de estándares de calidad y buenas prácticas en el ciclo de desarrollo de software (SDLC).",
+                "Elaboré informes detallados de resultados de pruebas y presenté métricas clave para respaldar decisiones del equipo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Soporte Tecnico",
+            "company": "Rabbit",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención al cliente y resolución de dudas respecto a la App Web",
+                "Desarrollar y actualizar bases de datos.",
+                "Gestionar redes e infraestructura técnica.",
+                "Documentar y compartir conocimientos",
+                "Análisis de requerimientos",
+                "Modificación de código.",
+                "Documentación y propuesta de mejoras"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Informática",
+            "institution": "Universidad Nacional del Litoral",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "QA Tester Manual Bootcamp",
+            "institution": "ProgramON",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-06-30",
+            "hours": 0
+        },
+        {
+            "degree": "Fullstack Developer Bootcamp",
+            "institution": "CILSA - ACCENTURE",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "sql",
+                "php",
+                "mysql",
+                "c++",
+                "react",
+                "exppress",
+                "node"
+            ],
+            "soft": [],
+            "tools": [
+                "cypress",
+                "jmeter",
+                "owasp-zap",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

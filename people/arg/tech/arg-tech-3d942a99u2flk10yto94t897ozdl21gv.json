@@ -1,0 +1,90 @@
+{
+  "personal_info": {
+    "first_name": "Giovanni",
+    "last_name": "Duarte",
+    "email": "giovannifnaf@gmail.com",
+    "phone": "",
+    "location": {
+      "country": "Argentina",
+      "city": "Buenos Aires",
+      "state": "Provincia de Buenos Aires"
+    },
+    "linkedin": "https://www.linkedin.com/in/giovanni-duarte-899171211",
+    "website": "",
+    "portfolio": "",
+    "summary": "Estudiante de Licenciatura en Informática en la Universidad Nacional del Oeste (UNO). Completé un bootcamp intensivo en Inteligencia Artificial Generativa, adquiriendo habilidades técnicas en IA y desarrollo de software, trabajando en proyectos de creación de asistentes virtuales y aplicaciones basadas en IA."
+  },
+  "work_experience": [],
+  "education": [
+    {
+      "degree": "Licenciatura en Informática",
+      "institution": "Universidad Nacional del Oeste",
+      "location": "",
+      "start_date": "2023-08-01",
+      "end_date": "2029-02-28",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": ["machine-learning", "python", "generación-aumentada-por-recuperación", "sql", "html/css", "pandas", "git-y-github"],
+      "soft": ["autodidacta"],
+      "tools": ["servicios-de-nube-aws"]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [
+    {
+      "name": "Bootcamp de Inteligencia Artificial Generativa",
+      "issuing_organization": "",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Fundamentos de IA generativa AWS",
+      "issuing_organization": "",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Herramientas de IA Generativa AWS",
+      "issuing_organization": "",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Profundizando los servicios de IA Generativa con AWS",
+      "issuing_organization": "",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Desarrollo de Asistente Virtual Legal (AdrIA)",
+      "description": "Desarrollé un asistente virtual especializado en responder preguntas sobre la Constitución Nacional Argentina utilizando GPT-3.5-turbo. Integré LangChain para la orquestación de flujos de trabajo y Chroma para la búsqueda semántica en una base de datos de documentos. Creé una interfaz interactiva con Streamlit y utilicé Python, Pandas y GitHub para la gestión del proyecto y manipulación de datos.",
+      "technologies": ["GPT-3.5-turbo", "LangChain", "Chroma", "Python", "Pandas", "GitHub", "Streamlit"],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "B2"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Native or Bilingual"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

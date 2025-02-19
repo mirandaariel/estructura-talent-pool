@@ -1,0 +1,168 @@
+{
+    "personal_info": {
+        "first_name": "Thiago",
+        "last_name": "Zambonini",
+        "email": "thiagozambonini24@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Mar del Plata",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Frontend con gran formación y experiencia. Capaz de trabajar y guiar equipos usando metodologías ágiles. Versátil con amplios conocimientos en lenguajes como JavaScript, TypeScript, React, Angular, entre otros. Con experiencias en desarrollo backend, diseño de arquitecturas de software, optimización de rendimiento y metodologías ágiles como Scrum."
+    },
+    "work_experience": [
+        {
+            "job_title": "Jefe de Desarrollo",
+            "company": "Smart Racoon",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Organicé y gestioné equipos para cumplir con los objetivos del proyecto de manera eficiente.",
+                "Implementé metodologías ágiles, mejorando la productividad y la calidad del desarrollo.",
+                "Optimicé código para garantizar la escalabilidad del producto, asegurando consistencia técnica."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Front-End",
+            "company": "Smart Racoon",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creé los diseños del Front-End en Figma y lo implementé con precisión en código.",
+                "Apliqué principios de UX/UI, mejorando la interacción usuario-interfaz.",
+                "Ascendí al puesto de Jefe de Desarrollo gracias a las mejoras implementadas en las interfaces."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web Full Stack Freelance",
+            "company": "Freelancer",
+            "location": "",
+            "start_date": "2022-09-01",
+            "end_date": "2023-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y construí aplicaciones web eficientes que cumplieron con las necesidades del cliente.",
+                "Realicé mantenimiento y actualizaciones de aplicaciones para garantizar su funcionamiento óptimo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diplomatura en Diseño UX/UI",
+            "institution": "UTN",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomatura en Diseño Web",
+            "institution": "UTN",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diseño Gráfico",
+            "institution": "Escuela de Artes Visuales Martín A. Malharro",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "php",
+                "react",
+                "angular",
+                "express.js",
+                "nest.js",
+                "node.js",
+                "mysql",
+                "postgresql",
+                "mongodb",
+                "scrum"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "notion",
+                "trello",
+                "slack"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Talent Forge",
+            "description": "Plataforma de cursos enfocada en idiomas y tecnología, con una interfaz intuitiva y comunidad de apoyo.",
+            "technologies": [
+                "react",
+                "css",
+                "javascript",
+                "node.js",
+                "express.js",
+                "typescript",
+                "mongodb"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Steel Games",
+            "description": "Réplica funcional de Steam utilizando la API de RAWG, con simuladores de ofertas y creador de juegos.",
+            "technologies": [
+                "react",
+                "css",
+                "javascript",
+                "node.js",
+                "express.js",
+                "postgresql",
+                "sequelize"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "B2"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

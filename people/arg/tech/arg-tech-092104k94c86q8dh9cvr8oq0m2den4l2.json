@@ -1,0 +1,168 @@
+{
+    "personal_info": {
+        "first_name": "Alexander",
+        "last_name": "Castillo",
+        "email": "alxander89@gmail.com",
+        "phone": "+5493884802100",
+        "location": {
+            "country": "Argentina",
+            "city": "Jujuy",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Técnico Informático certificado en Desarrollo de Software Full Stack, con 7 años de experiencia en seguridad informática, reparación de hardware/software, redes, atención al cliente. Actualmente me dedico a la creación de plataformas con el uso de tecnologías para front-end y back-end. Destaco por mis habilidades de trabajo en equipo, mi enfoque analítico y mi capacidad para resolver problemas eficazmente."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "ConsulTic",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollar una aplicación basada en microservicios para el sector jurídico y notarial.",
+                "Implementar microservicios escalables y resilientes utilizando NestJS y NextJS.",
+                "Crear interfaces de usuario intuitivas y responsivas con React, Typescript y NextJS.",
+                "Integrar APIs de instituciones jurídicas y notariales para la digitalización de trámites y flujos de trabajo.",
+                "Administrar y optimizar las bases de datos relacionales (MySQL) y no relacionales (MongoDB).",
+                "Implementar y mantener la aplicación en AWS utilizando Docker."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Representante de servicio técnico informático",
+            "company": "Autónomo",
+            "location": "",
+            "start_date": "2017-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diagnosticar y reparar problemas de software y hardware, mejorando el rendimiento del sistema con Windows y Linux.",
+                "Mantener un excelente servicio de atención al cliente, logrando un índice de satisfacción alto.",
+                "Aplicar de medidas preventivas contra programas y sitios web dañinos, reduciendo los daños informáticos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Front-End ReactJS",
+            "institution": "One Oracle Next - Alura Latam",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-07-01",
+            "hours": 0
+        },
+        {
+            "degree": "Full-Stack Java",
+            "institution": "Codo A Codo 4.0",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-07-01",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo de Software Full-Stack",
+            "institution": "4Geeks Academy",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-01-01",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Superior en Informática",
+            "institution": "Instituto Superior Jujuy Digital",
+            "location": "",
+            "start_date": "2011-01-01",
+            "end_date": "2014-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "java",
+                "python",
+                "sql",
+                "mysql",
+                "postgresql",
+                "mongodb",
+                "html5",
+                "css",
+                "boostrap",
+                "tailwindcss",
+                "rest-api",
+                "jwt",
+                "nodejs",
+                "expressjs",
+                "nestjs",
+                "sql-alchemy",
+                "flask",
+                "poo",
+                "prisma",
+                "tdd",
+                "mvc",
+                "jest",
+                "reactjs",
+                "nextjs",
+                "flux",
+                "redux"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "enfoque-analítico",
+                "resolución-de-problemas"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "wordpress",
+                "aws",
+                "docker",
+                "jira",
+                "trello",
+                "figma",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "GymApp",
+            "description": "Desarrollo de una aplicación web full stack destinada a mejorar el bienestar físico y psicológico de los usuarios conectándolos con profesionales de la salud.",
+            "technologies": ["css", "bootstrap", "javascript", "react.js", "python", "flask", "sql-alchemy", "rest-api"],
+            "url": ""
+        },
+        {
+            "name": "Blog de Star Wars",
+            "description": "Desarrollar una aplicación web que sirve como centro de información integral para los entusiastas de Star Wars implementando una función de filtro robusta.",
+            "technologies": ["css", "bootstrap", "javascript", "react.js", "python", "flask", "sql-alchemy"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Intermediate B1"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

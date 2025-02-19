@@ -1,0 +1,105 @@
+{
+    "personal_info": {
+        "first_name": "Iván",
+        "last_name": "Belasich",
+        "email": "ivanbelasich@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": "Entre Ríos"
+        },
+        "linkedin": "https://linkedin.com/in/ivanbelasich",
+        "website": "https://github.com/ivanbelasich",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con casi 2 años de experiencia en una startup fintech. Especializado en React, React Native, Node.js y TypeScript, con experiencia en desarrollo frontend y backend, integración con APIs, autenticación y despliegue en la nube."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Bigger",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de billeteras blockchain y plataformas fintech.",
+                "Implementación de React, React Native, Node.js y Nest.js en distintos proyectos.",
+                "Integración con AWS Cognito, Docker y bases de datos SQL/NoSQL.",
+                "Participación en revisiones de código y metodologías Agile (Scrum)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico en Administración de Empresas",
+            "institution": "EET N2 C.N Goiburu",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "react-native",
+                "next.js",
+                "node.js",
+                "nest.js",
+                "express.js",
+                "postgresql"
+            ],
+            "soft": [],
+            "tools": [
+                "docker",
+                "aws-cognito",
+                "git",
+                "github",
+                "jest",
+                "react-testing-library",
+                "postman",
+                "agile",
+                "scrum",
+                "code-reviews"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Emigro (Billetera Blockchain)",
+            "description": "Creación de una billetera con soporte para pagos con QR, swaps de activos y balance en tiempo real.",
+            "technologies": ["React Native", "Node.js", "Nest.js", "AWS Cognito", "PostgreSQL"],
+            "url": "https://www.youtube.com/watch?v=nS8COzNxajc"
+        },
+        {
+            "name": "PlanetPay (Infraestructura financiera)",
+            "description": "Desarrollo del dashboard administrativo, carrito de compras, landing page y flujo KYB para validar clientes.",
+            "technologies": ["React", "TailwindCSS", "Node.js", "Nest.js", "PostgreSQL"],
+            "url": "https://planetpay.io/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

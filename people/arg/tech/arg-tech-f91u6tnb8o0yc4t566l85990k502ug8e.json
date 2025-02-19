@@ -1,0 +1,113 @@
+{
+  "personal_info": {
+    "first_name": "Ignacio Oscar",
+    "last_name": "Casteran",
+    "email": "ignaciocasteran18@gmail.com",
+    "phone": "+54 9 2302-533070",
+    "location": {
+      "country": "Argentina",
+      "city": "General Pico",
+      "state": "La Pampa"
+    },
+    "linkedin": "https://www.linkedin.com/in/ignacio-casteran",
+    "website": "https://github.com/IgnacioCasteran",
+    "portfolio": "",
+    "summary": "Soy estudiante de la carrera de Analista Programador, próximo a finalizar mis estudios (me resta una materia). Me considero una persona responsable, con capacidad de adaptación al trabajo en equipo y orientado a la mejora continua. Me motiva desarrollar mis habilidades, aprender nuevas tecnologías y crecer profesionalmente en el área IT."
+  },
+  "work_experience": [],
+  "education": [
+    {
+      "degree": "Analista Programador",
+      "institution": "Facultad de Ingeniería - UNLPam",
+      "location": "",
+      "start_date": "2020-01-01",
+      "end_date": "2025-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Título Secundario con orientación en Ciencias Sociales",
+      "institution": "Escuela Nuestra Señora de Luján",
+      "location": "",
+      "start_date": "",
+      "end_date": "2017-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "java",
+        "php",
+        "javascript",
+        "spark",
+        "react",
+        "node.js",
+        "bootstrap",
+        "jquery",
+        "ajax",
+        "c++",
+        "c",
+        "python",
+        "prolog",
+        "lispworks",
+        "sql",
+        "pl/sql",
+        "uml",
+        "bpmn"
+      ],
+      "soft": [
+        "capacidad-de-adaptacion",
+        "trabajo-en-equipo",
+        "orientado-a-la-mejora-continua"
+      ],
+      "tools": [
+        "git",
+        "postman",
+        "thunderclient",
+        "figma",
+        "microsoft-word",
+        "excel",
+        "powerpoint"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {},
+      "tools": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Porky Cakes – Tienda de Pastelería",
+      "description": "Desarrollo de una página web eCommerce en el marco de las asignaturas Programación Orientada a la Web y Análisis y Diseño de Sistemas II.",
+      "technologies": ["java", "spark", "html", "css", "javascript", "bootstrap"],
+      "url": "https://github.com/IgnacioCasteran/Porky-Cakes"
+    },
+    {
+      "name": "1943 - The Battle of Midway",
+      "description": "Desarrollo de un videojuego en el marco de la asignatura Programación Orientada a Objetos.",
+      "technologies": ["java"],
+      "url": "https://github.com/IgnacioCasteran/1943-The-Battle-of-Midway"
+    },
+    {
+      "name": "CRUD de Noticias en React",
+      "description": "Proyecto enfocado en el desarrollo de un CRUD para la gestión de noticias. Aplicación de conceptos fundamentales de React, consumo de APIs REST y gestión de estado.",
+      "technologies": ["react", "api-rest", "javascript"],
+      "url": "https://github.com/IgnacioCasteran/REACT-APIREST"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Intermedio"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

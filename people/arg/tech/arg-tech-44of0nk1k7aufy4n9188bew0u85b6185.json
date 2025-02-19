@@ -1,0 +1,98 @@
+{
+    "personal_info": {
+        "first_name": "Claudio Paul",
+        "last_name": "Bustos Rodriguez",
+        "email": "claudiobustos.sk2000@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": "Entre Ríos"
+        },
+        "linkedin": "https://www.linkedin.com/in/claudio-paul-bustos-rodríguez-395a0631a/",
+        "website": "https://github.com/SK-ClaudioBustos",
+        "portfolio": "https://claudio-bustos-dev.netlify.app",
+        "summary": "Soy Desarrollador web (ReactJS/Typescript/Javascript) y también estudiante de la carrera analista de sistemas, me dedico al desarrollo de software hace 3 años."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Freelancer Full Stack",
+            "company": "You Send We Print",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño y desarrollo nuevas secciones y controladores ajustados a las necesidades específicas de mis clientes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Pasante|Desarrollador Full Stack",
+            "company": "Ministerio Publico Fiscal",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de nuevas funcionalidades",
+                "Definición de interfaces y componentes genéricos funcionales",
+                "Mantenimiento de API Nest js + GraphQl + MongoDB",
+                "Integracion de microservicios como KeyCloak js, Minio Js"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista de Sistemas",
+            "institution": "Universidad Autónoma de Entre Ríos Fcyt",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "php",
+                "react-js",
+                "laravel",
+                "astro",
+                "mysql"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "visual-studio-code"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        },
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
