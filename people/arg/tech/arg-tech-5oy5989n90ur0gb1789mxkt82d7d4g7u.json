@@ -1,0 +1,144 @@
+{
+    "personal_info": {
+        "first_name": "Lautaro",
+        "last_name": "Beber",
+        "email": "lautarobeber00@gmail.com",
+        "phone": "+54-3455-227681",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/lautaro-beber-73709b236",
+        "website": "https://github.com/lautarobeber",
+        "portfolio": "https://portfoliolautarobeber.netlify.app/",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Mobile",
+            "company": "Freelancer",
+            "location": "Argentina",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de una aplicación de ticketing para eventos en terminales inteligentes con impresora térmica SunmiV2.",
+                "Uso de Dart y Flutter, con Hive para base de datos NoSQL local.",
+                "Implementación de arquitectura MVC.",
+                "Conexión con API para control de impresora térmica.",
+                "Configuración de eventos, control de cierres Z, y sistema de roles y permisos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "ID for Ideas",
+            "location": "Argentina",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Trabajé en el backend para un proyecto inmobiliario.",
+                "Participación en reuniones diarias de SCRUM.",
+                "Uso de NodeJS y Sequelize para MySQL.",
+                "Indexación y optimización de base de datos.",
+                "Creación de filtros inmobiliarios y eliminación lógica con papelera de reciclaje.",
+                "Incremento de la velocidad de la API aplicando algoritmos de búsqueda binaria."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnico Superior en Programacion",
+            "institution": "Teclab Instituto Tecnico Superior",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2021-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "javascript",
+                "typescript",
+                "html/css-tailwind",
+                "node.js",
+                "expressjs",
+                "jest",
+                "supertest",
+                "react.js",
+                "redux",
+                "dart",
+                "flutter",
+                "sql",
+                "nosql",
+                "docker",
+                "git",
+                "restful-apis"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Javascript algorithm & Data Structures",
+            "issuing_organization": "FreeCodeCamp",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Responsive web design",
+            "issuing_organization": "FreeCodeCamp",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "NodeJS",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Python",
+            "issuing_organization": "Meta",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Control Version",
+            "issuing_organization": "Meta",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

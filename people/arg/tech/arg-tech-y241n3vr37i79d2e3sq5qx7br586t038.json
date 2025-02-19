@@ -1,0 +1,135 @@
+{
+    "personal_info": {
+        "first_name": "Santiago",
+        "last_name": "Vittor",
+        "email": "svittordev@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/santiago-vittor",
+        "website": "",
+        "portfolio": "https://santiagovittor.vercel.app/",
+        "summary": "Desarrollador Frontend especializado en React con experiencia en gestión de equipos y liderazgo de proyectos. Actualmente, Squad Leader en FoodStyles, donde optimizo flujos de trabajo y coordino equipos multidisciplinarios. Apasionado por la creación de soluciones eficientes, escalables y con un fuerte enfoque en UI/UX. Busco seguir creciendo en tecnologías emergentes y contribuir a proyectos de alto impacto."
+    },
+    "work_experience": [
+        {
+            "job_title": "Squad Leader & Dish Review QQA",
+            "company": "FoodStyles",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Gestión y liderazgo de un equipo multidisciplinario.",
+                "Priorización de tareas y optimización de procesos.",
+                "Automatización de flujos de trabajo con Google Sheets.",
+                "Supervisión de calidad y cumplimiento de objetivos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Data Scraper & Dish Reviewer",
+            "company": "FoodStyles",
+            "location": "",
+            "start_date": "2022-04-01",
+            "end_date": "2024-05-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Manejo de HTML y CSS en extracción y verificación de datos.",
+                "Creación de reportes semanales sobre la calidad del trabajo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Atención al Cliente",
+            "company": "Prosegur Alarmas",
+            "location": "",
+            "start_date": "2018-04-01",
+            "end_date": "2022-04-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Resolución eficiente de consultas y soporte personalizado.",
+                "Comunicación clara y efectiva con clientes para asegurar su satisfacción."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Sistemas de Información",
+            "institution": "Universidad Kennedy",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo Web Full Stack",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "sql",
+                "mongodb"
+            ],
+            "soft": [],
+            "tools": [
+                "google-sheets",
+                "figma",
+                "sketch",
+                "photoshop",
+                "asana",
+                "trello",
+                "clickup"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Portfolio Personal",
+            "description": "Mi portfolio contiene una selección de mis proyectos más relevantes, incluyendo desarrollos en React y otras tecnologías.",
+            "technologies": [
+                "react",
+                "html",
+                "css",
+                "javascript",
+                "firebase"
+            ],
+            "url": "https://santiagovittor.vercel.app/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

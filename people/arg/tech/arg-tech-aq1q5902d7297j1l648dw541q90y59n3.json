@@ -1,0 +1,127 @@
+{
+    "personal_info": {
+        "first_name": "Nahuel Alejandro",
+        "last_name": "Banco",
+        "email": "banconahuel417@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Santiago del Estero",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/nahuelbanco/",
+        "website": "",
+        "portfolio": "https://nahuelb.netlify.app/",
+        "summary": "+2 años de experiencia trabajando con tecnologías de desarrollo full stack como Node.js, JavaScript, TypeScript, PostgreSQL, React.js, NestJS, Next.js, Docker, entre otras. Estoy enfocado en crear soluciones innovadoras siendo una persona creativa, detallista, responsable, proactiva y con mucha motivación, tengo como objetivo formar parte de un equipo donde pueda seguir creciendo y aportar valor resolviendo problemas reales."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Digital House",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2024-04-30",
+            "hours": 0
+        },
+        {
+            "degree": "Ing. Civil (Cursado hasta 3er año de carrera)",
+            "institution": "Universidad Nacional de Santiago del Estero",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "node.js",
+                "nestjs",
+                "express.js",
+                "react.js",
+                "next.js",
+                "astro",
+                "bootstrap",
+                "tailwindcss",
+                "html",
+                "mysql",
+                "postgresql",
+                "typeorm",
+                "mongodb",
+                "mongoose",
+                "sequelize"
+            ],
+            "soft": [
+                "scrum",
+                "liderazgo",
+                "responsabilidad",
+                "proactividad",
+                "motivación",
+                "trabajo-en-equipo",
+                "creatividad",
+                "detallista"
+            ],
+            "tools": [
+                "aws-s3",
+                "jwt",
+                "jestjs",
+                "docker",
+                "git",
+                "restful-apis",
+                "ci/cd",
+                "redux",
+                "trello",
+                "slack"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "HandyPro",
+            "description": "Plataforma diseñada para conectar profesionales que promocionan sus servicios con clientes que publican solicitudes de trabajo. Implementé autenticación con Google (OAuth 2.0 y JWT), medios de pago con Stripe e integré un chatbot en tiempo real con sockets para mejorar la interacción.",
+            "technologies": ["OAuth2", "JWT", "Stripe", "Sockets"],
+            "url": "https://github.com/Nahuel417/HandyPro"
+        },
+        {
+            "name": "E-commerce API",
+            "description": "API desarrollada para administrar funciones clave de un e-commerce, incluyendo la gestión de productos, la autenticación de usuarios y la gestión de pedidos. Autenticación segura con JWT y procesamiento de pedidos, con documentación detallada en Swagger.",
+            "technologies": ["JWT", "Docker", "Swagger", "Cloudinary"],
+            "url": "https://github.com/Nahuel417/E-commerce-Api"
+        },
+        {
+            "name": "InnovatechShop",
+            "description": "E-commerce de productos tecnológicos dirigida a jóvenes y adultos. Usé React para crear una interfaz dinámica y fluida, implementando autenticación de usuarios mediante cookies y rutas protegidas para acceso seguro.",
+            "technologies": ["React", "Cookies", "Rutas protegidas"],
+            "url": "https://github.com/Nahuel417/InnovatechShop"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,174 @@
+{
+    "personal_info": {
+        "first_name": "Ibelitze Carolina",
+        "last_name": "Zambrano Curiel",
+        "email": "ibelitzeportafolio@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Perú",
+            "city": "Trujillo",
+            "state": "La Libertad"
+        },
+        "linkedin": "https://www.linkedin.com/in/ibelitze-zambrano-fullstack/",
+        "website": "",
+        "portfolio": "ibelitzeportafolio.com",
+        "summary": "Soy una desarrolladora fullstack con más de 9 años de experiencia trabajando con PHP y Javascript, construyendo todo tipo de aplicaciones y webs en diferentes tipos de frameworks, según las necesidades del cliente."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Stefanini Group",
+            "location": "Remote",
+            "start_date": "2024-07-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Programación Frontend con Javascript, REACTJS (NEXTJS).",
+                "Migración de la web izipay desde VUEJS a REACTJS, usando el framework de NEXTJS.",
+                "Uso de Typescript",
+                "Metodología SCRUM",
+                "Uso de Bitbucket para las ramas y JIRA para las tareas"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Senior FullStack Developer",
+            "company": "Webtiginoso",
+            "location": "Remote",
+            "start_date": "2019-06-01",
+            "end_date": "2024-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención a diferentes tipos de clientes para la empresa, según necesidades.",
+                "Consultoría SEO",
+                "Creación de páginas web en general para clientes (javascript, HTML, CSS, PHP)",
+                "Uso de FIGMA y Adobe XD para trabajo de frontend",
+                "Creación e implementación de módulos personalizados para WORDPRESS",
+                "Manejo de tecnologías como: Javascript, ReactJS, AngularJS, PHP, Laravel, Perfex, Codeigniter, NodeJS, HTML, CSS, SASS, LESS, Bootstrap, APPs en IONIC con ReactJS, NEXTJS, MySQL, diseño de base de datos relacionales y no relacionales, entre otros.",
+                "Manejo de ambiente de AWS, buckets s3, usuarios IAM, permisos de usuarios especiales, etc.",
+                "Uso de estados globales con REDUX.",
+                "REST, GraphQL, WebSockets, JSON.",
+                "WEBPACK para el empaquetado de las apps, GULP para la automatización de JS y CSS",
+                "JEST para algunos unit test.",
+                "Integración continua y despliegue CI/CD"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "FullStack Developer",
+            "company": "Mundo Lingo",
+            "location": "Remote",
+            "start_date": "2018-01-01",
+            "end_date": "2022-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Mantenimiento general de la web https://mundolingo.org/",
+                "Creación de sección “Contact” para envío de mensajes: https://mundolingo.org/contact",
+                "Creación de mini red-social para personas registradas en Mundo Lingo.",
+                "Mantenimiento y mejoras en el Backend (Laravel 5.4, PHP)",
+                "Despliegues, mantenimiento de ramas con GIT en GITLAB, entre otros."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Programador web WordPress",
+            "company": "CROING",
+            "location": "Remote",
+            "start_date": "2017-01-01",
+            "end_date": "2017-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de páginas web usando WORDPRESS",
+                "Modificaciones y mejoras en páginas wordpress para clientes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Programador Junior",
+            "company": "FREELANCE",
+            "location": "Maracaibo, Zulia, Venezuela",
+            "start_date": "2015-03-01",
+            "end_date": "2017-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de webs, landing pages, tiendas virtuales, páginas en wordpress, entre otros.",
+                "Crear páginas web para pequeños negocios/emprendimientos en Venezuela. Uso de HTML, CSS y PHP básico."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Publicidad y RRPP",
+            "institution": "Universidad del Zulia",
+            "location": "",
+            "start_date": "2011-01-01",
+            "end_date": "2011-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diploma en Programación",
+            "institution": "Instituto Uneweb",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "php",
+                "reactjs",
+                "vuejs",
+                "jquery",
+                "laravel",
+                "codeigniter",
+                "nodejs",
+                "boostrap",
+                "mysql",
+                "mongodb",
+                "firebase"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "vscode",
+                "scrum",
+                "kanban"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Webis",
+            "description": "Aplicación móvil para integrar la inteligencia artificial en múltiples tareas a posibles clientes y trabajadores de RRHH. Chat interno con ChatGPT, reconocimiento y respuesta por voz dentro del chat, generación de mails con inteligencia artificial a través de voz (se hace la petición por voz) usando chatGPT y textract de AWS para reconocimiento de voz, envío de correos (entre otras tareas) haciendo uso de CRMs como Salesforce, Brevo, HubSpot, Dynamics 365, entre otros. Backend con Nodejs usando arquitectura de API Gateway y microservicios. El proyecto está en desuso porque no hubo presupuesto para poder terminarlo.",
+            "technologies": ["ionic", "reactjs", "nodejs"],
+            "url": "https://github.com/ibelitze/Api-gateway-webis"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1, conversacional"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

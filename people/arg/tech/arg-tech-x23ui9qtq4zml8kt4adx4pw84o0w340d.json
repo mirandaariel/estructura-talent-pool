@@ -1,0 +1,104 @@
+{
+  "personal_info": {
+    "first_name": "Gabriel",
+    "last_name": "Sebastian Brindo",
+    "email": "gabrielbrindo18@gmail.com",
+    "phone": "",
+    "location": {
+      "country": "Argentina",
+      "city": "Buenos Aires",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/gabrielsebastianbrindo",
+    "website": "",
+    "portfolio": "https://www.gabrielbrindo.com.ar",
+    "summary": "Soy un desarrollador web full stack con experiencia en la creación de sitios web e-commerce, desarrollo de sistemas de administración y mantenimiento de computadoras. Me considero una persona responsable y ordenada, con sólidos conocimientos en tecnologías web y metodologías ágiles."
+  },
+  "work_experience": [
+    {
+      "job_title": "Desarrollador Web Full Stack Freelance",
+      "company": "Freelancing",
+      "location": "",
+      "start_date": "2019-01-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Diseñé y desarrollé un sitio web e-commerce, aumentando la presencia en línea de la empresa.",
+        "Desarrollé un sistema de administración de socios, incluyendo CRUD de socios, categorías, actividades y eventos."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Técnico en Informática",
+      "company": "Emprendimiento Propio",
+      "location": "",
+      "start_date": "2019-01-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Cofundé un emprendimiento de reparación, limpieza y mantenimiento de computadoras."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Técnico en informática personal y profesional",
+      "institution": "Escuela Secundaria Técnica N°5 de Libertad",
+      "location": "Libertad",
+      "start_date": "2012-01-01",
+      "end_date": "2018-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "html",
+        "css",
+        "javascript",
+        "php",
+        "reactjs",
+        "nextjs",
+        "laravel",
+        "node.js",
+        "mysql"
+      ],
+      "soft": [],
+      "tools": [
+        "git",
+        "scrum"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Sitio Web E-commerce",
+      "description": "Creación de una tienda en línea para mejorar la presencia digital de una empresa.",
+      "technologies": ["reactjs", "nextjs", "tailwindcss", "supabase", "git"],
+      "url": "https://www.copypast.com.ar"
+    },
+    {
+      "name": "Sistema de Administración de Socios",
+      "description": "Desarrollo de un sistema de gestión de socios con funcionalidades CRUD.",
+      "technologies": ["mysql", "php", "git"],
+      "url": "https://github.com/brindogabriel/FomentAR"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "A1"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

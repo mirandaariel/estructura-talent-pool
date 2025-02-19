@@ -1,0 +1,111 @@
+{
+    "personal_info": {
+        "first_name": "Brenda",
+        "last_name": "Yañez",
+        "email": "brendayw97@gmail.com",
+        "phone": "+54 291 5740068",
+        "location": {
+            "country": "Argentina",
+            "city": "Bahía Blanca",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/brendayw/",
+        "website": "",
+        "portfolio": "https://brendayw.netlify.app/",
+        "summary": "Desarrolladora de software con experiencia en desarrollo backend, pruebas de usabilidad y optimización basada en datos. Especializada en la construcción de APIs REST con Java y Spring Boot, además de otros lenguajes como JavaScript y Python para mejorar el rendimiento del sistema. Apasionada por la resolución de problemas y la mejora de la experiencia del usuario. Busco aportar mis conocimientos técnicos a un equipo de desarrollo innovador."
+    },
+    "work_experience": [
+        {
+            "job_title": "Social Media Manager (Part-Time)",
+            "company": "Kidu Dental S.A",
+            "location": "Bahía Blanca, Argentina",
+            "start_date": "2024-04-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Analicé métricas clave de campañas de marketing digital, optimizando flujos de trabajo para mejorar la eficiencia.",
+                "Colaboré con equipos multidisciplinarios para mejorar la usabilidad de plataformas en línea, aplicando análisis de datos para proponer mejoras."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Developer (Junior)",
+            "company": "Cooperation.org (LinkedTrust)",
+            "location": "United States (remote)",
+            "start_date": "2023-08-01",
+            "end_date": "2023-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Realicé pruebas de usabilidad en el flujo de Live Claims, detectando problemas en la interfaz como errores gramaticales y elementos poco intuitivos.",
+                "Analicé el flujo de inicio de sesión, identificando puntos de confusión y documentando mejoras para optimizar la accesibilidad y experiencia del usuario."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "javascript",
+                "python",
+                "spring-boot",
+                "express.js",
+                "flask",
+                "axios",
+                "postman",
+                "git",
+                "node.js",
+                "agile",
+                "scrum"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Building a REST API with Spring Boot",
+            "issuing_organization": "Spring Academy",
+            "issue_date": "2024-12-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Introducción a la Programación",
+            "issuing_organization": "Universidad de La Punta – Argentina Programa 4.0",
+            "issue_date": "2023-12-01",
+            "expiration_date": "2024-02-29",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B2 (Upper-Intermediate)"
+        },
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

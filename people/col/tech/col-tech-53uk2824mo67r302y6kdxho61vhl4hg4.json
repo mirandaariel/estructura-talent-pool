@@ -1,0 +1,169 @@
+{
+    "personal_info": {
+        "first_name": "Jonathan",
+        "last_name": "Piedrahita Ocampo",
+        "email": "jonathan.piedrahita7@gmail.com",
+        "phone": "+57 311 725 1623",
+        "location": {
+            "country": "Colombia",
+            "city": "Cali",
+            "state": "Valle del Cauca"
+        },
+        "linkedin": "https://www.linkedin.com/in/jonathan-piedrahita-ocampo-752b54130",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un Ingeniero de Machine Learning con más de dos años de experiencia desarrollando soluciones innovadoras de inteligencia artificial para industrias como la salud, el comercio minorista y las finanzas. Tengo una sólida experiencia en Modelos de Lenguaje de Gran Escala (LLMs), Visión por Computador y Procesamiento de Lenguaje Natural (NLP). Me apasiona resolver desafíos complejos en inteligencia artificial y disfruto trabajar en equipos multidisciplinarios."
+    },
+    "work_experience": [
+        {
+            "job_title": "Ingeniero de Machine Learning",
+            "company": "Applaudo",
+            "location": "Colombia",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Uso de herramientas de GCP, como Document AI para la clasificación de documentos y Vertex AI para la extracción de entidades y despliegue de modelos.",
+                "Diseño y entrenamiento de modelos de Machine Learning para garantizar la verificación precisa de documentos categorizados.",
+                "Colaboración con equipos multidisciplinarios para integrar soluciones de IA en la plataforma digital de aduanas."
+            ],
+            "achievements": [
+                "Sistema basado en IA para la verificación precisa de categorías de documentos.",
+                "Pipeline automatizado de extracción de entidades para agilizar el procesamiento de declaraciones de aduanas."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ingeniero de Machine Learning",
+            "company": "IN-BIONIC S.A.S",
+            "location": "Cali, Valle del Cauca, Colombia",
+            "start_date": "2022-05-01",
+            "end_date": "2024-08-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y despliegue de un sistema de visión por computadora para la clasificación de imágenes médicas, mejorando la precisión diagnóstica y la eficiencia.",
+                "Implementación de modelos avanzados de Machine Learning para la generación de reportes y predicción de inventarios, optimizando la gestión de stock y reduciendo desperdicios.",
+                "Desarrollo de algoritmos de aprendizaje no supervisado para detectar y analizar patrones en datos financieros, facilitando la gestión de riesgos y la toma de decisiones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollo de Chatbot para una Empresa de Seguridad y Salud",
+            "company": "Proyecto Independiente",
+            "location": "Colombia",
+            "start_date": "2024-06-01",
+            "end_date": "2024-08-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y desarrollo del chatbot con Dialogflow CX en GCP para el procesamiento de lenguaje natural.",
+                "Integración del backend con Make, conectando Google Calendar para la programación de turnos y Google Sheets para el seguimiento histórico.",
+                "Implementación de captura de información del cliente para la creación de tickets y gestión de operaciones como reprogramación o eliminación de turnos."
+            ],
+            "achievements": [
+                "Chatbot funcional integrado con WhatsApp y Google Calendar para una gestión eficiente de citas.",
+                "Registro automatizado y seguimiento histórico mediante Google Sheets."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Especialización en Ingeniería Clínica",
+            "institution": "Universidad Autónoma de Occidente",
+            "location": "Cali, Valle del Cauca, Colombia",
+            "start_date": "2019-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Biomédica",
+            "institution": "Universidad Autónoma de Occidente",
+            "location": "Cali, Valle del Cauca, Colombia",
+            "start_date": "2012-01-01",
+            "end_date": "2019-05-31",
+            "hours": 0
+        },
+        {
+            "degree": "Deep Learning Specialization - Inteligencia Artificial",
+            "institution": "Coursera",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2024-08-01",
+            "hours": 0
+        },
+        {
+            "degree": "Machine Learning - Inteligencia Artificial",
+            "institution": "Coursera",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "2024-06-01",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Developer - Programación Informática",
+            "institution": "Henry",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-06-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "machine-learning",
+                "modelos-de-lenguaje-de-gran-escala",
+                "visión-por-computador",
+                "procesamiento-de-lenguaje-natural",
+                "javascript",
+                "typescript",
+                "postgresql",
+                "mongodb",
+                "nestjs",
+                "tensorflow",
+                "keras",
+                "pytorch",
+                "python",
+                "sql"
+            ],
+            "soft": [],
+            "tools": [
+                "document-ai",
+                "vertex-ai",
+                "gcp",
+                "google-cloud-storage",
+                "google-cloud-ai",
+                "opencv",
+                "scikit-learn",
+                "hugging-face-transformers",
+                "bigquery",
+                "cloud-functions",
+                "pandas",
+                "numpy",
+                "matplotlib",
+                "dialogflow",
+                "google-cloud-dataproc"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

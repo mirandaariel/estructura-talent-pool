@@ -1,0 +1,120 @@
+{
+    "personal_info": {
+        "first_name": "Esteban",
+        "last_name": "Russo",
+        "email": "oerusso28@gmail.com",
+        "phone": "3434619021",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "esteban-russo.website/portfolio/",
+        "summary": "Desarrollador web fullstack enfocado en crear aplicaciones funcionales y escalables con alto rendimiento. Me especializo en soluciones eficientes aplicando buenas prácticas y trabajo en equipo. Mi objetivo es combinar creatividad y lógica para resolver problemas y ofrecer resultados innovadores. Estoy listo para colaborar en proyectos desafiantes"
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Web Fullstack",
+            "company": "Centro de Ojos",
+            "location": "Formosa, Argentina",
+            "start_date": "2024-04-01",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé un sistema de gestión clínica con PHP, JavaScript y MySQL, incluyendo módulos para pacientes, médicos y obras sociales con control de permisos.",
+                "Realicé análisis de requerimientos, implementación técnica y capacitación de empleados, mejorando la eficiencia y centralización de datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web Fullstack",
+            "company": "Almacén Los Nietos",
+            "location": "Formosa, Argentina",
+            "start_date": "2023-10-01",
+            "end_date": "2024-02-29",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé un sistema de gestión de inventario con PHP, JavaScript y MySQL, digitalizando procesos como control de stock, gestión de productos y emisión de facturas.",
+                "Realicé análisis de requerimientos, optimizando la eficiencia operativa, reduciendo errores y capacitando al personal para una transición exitosa al sistema digital."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web Fullstack",
+            "company": "Librería",
+            "location": "Formosa, Argentina",
+            "start_date": "2021-01-01",
+            "end_date": "2021-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creé una plataforma digital con PHP, JavaScript y MySQL para automatizar la gestión de inventarios, productos y facturación en una librería.",
+                "Implementé funcionalidades como búsqueda avanzada y reportes de ventas, mejorando la eficiencia operativa y reduciendo errores. Capacitación del personal para asegurar una transición fluida al nuevo sistema."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Análisis y Diseño de Sistemas",
+            "institution": "Instituto Superior Macedo Martínez",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso de Vue Profesional",
+            "institution": "Udemy",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "php",
+                "laravel",
+                "vue",
+                "mysql",
+                "javascript",
+                "bootstrap",
+                "tailwind",
+                "git",
+                "html",
+                "css",
+                "react"
+            ],
+            "soft": [],
+            "tools": [
+                "illustrator",
+                "photoshop"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,171 @@
+{
+    "personal_info": {
+        "first_name": "Santiago",
+        "last_name": "Riveros Jasis",
+        "email": "santiagoriverosjasis@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/santiago-riveros-jasis",
+        "website": "",
+        "portfolio": "https://github.com/SantiagoRiveros",
+        "summary": "Desarrollador web Full Stack con más de 3 años de experiencia en el diseño, desarrollo e implementación de soluciones completas. Experto en tecnologías como React, Node.js, y React Native, con habilidades adicionales en metodologías ágiles (SCRUM), diseño de interfaces y pruebas unitarias (Jest, TDD). Reconocido por su capacidad de liderazgo, mentoría y gestión de equipos en proyectos escalables y eficientes."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Engineer",
+            "company": "Apexlict",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de interfaces de usuario en una plataforma de soporte operativo para empresas FinTech."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Tech Lead & Developer Advocate",
+            "company": "The Colony",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2024-11-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Liderazgo y mentoría de más de 5 equipos de desarrolladores.",
+                "Gestión de roadmap y estimaciones de crecimiento del producto."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Freelance Web Developer",
+            "company": "Autónomo",
+            "location": "",
+            "start_date": "2022-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de e-commerces, aplicaciones móviles y startups personalizadas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Project Manager",
+            "company": "Gobierno de la Ciudad de Buenos Aires",
+            "location": "",
+            "start_date": "2022-08-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Integración de una SPA en un chatbot para un juego de predicción deportiva interactivo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "TeamArt Outsourcing",
+            "location": "",
+            "start_date": "2022-02-01",
+            "end_date": "2022-05-01",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "React Developer",
+            "company": "JBKnowledge",
+            "location": "",
+            "start_date": "2021-07-01",
+            "end_date": "2022-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de componentes reutilizables e interfaces en proyectos de seguros."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "sql",
+                "html",
+                "css",
+                "react",
+                "react-native",
+                "node.js",
+                "next.js",
+                "redux",
+                "sql"
+            ],
+            "soft": [
+                "leadership",
+                "mentoring",
+                "agile-project-management"
+            ],
+            "tools": [
+                "jest",
+                "tdd",
+                "figma",
+                "inkscape",
+                "adobe-illustrator",
+                "adobe-photoshop"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Tribekya, Nakeds, Fina, MyFlappy, Cargo Allianz, Duvify, Agua.dev Marketplace",
+            "description": "Mentor y gestor de proyectos encargado del roadmap, entrenar desarrolladores y mejorar productos.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Boti Prode",
+            "description": "Integración de una SPA con un chatbot para predicciones deportivas.",
+            "technologies": [
+                "typescript",
+                "styled-components",
+                "botmaker"
+            ],
+            "url": ""
+        },
+        {
+            "name": "FNOL & Skyway",
+            "description": "Desarrollo frontend enfocado en componentes reutilizables y pruebas unitarias.",
+            "technologies": [
+                "javascript",
+                "react",
+                "tailwind",
+                "jest",
+                "storybook"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

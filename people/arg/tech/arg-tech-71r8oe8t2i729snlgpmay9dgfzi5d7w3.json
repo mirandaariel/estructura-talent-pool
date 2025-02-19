@@ -1,0 +1,131 @@
+{
+  "personal_info": {
+    "first_name": "Ignacio",
+    "last_name": "Ciccone",
+    "email": "nachociccone@gmail.com",
+    "phone": "",
+    "location": {
+      "country": "Argentina",
+      "city": "Vicente López",
+      "state": "Buenos Aires"
+    },
+    "linkedin": "https://www.linkedin.com/in/ignacio-ciccone/",
+    "website": "https://github.com/Nachit0C/",
+    "portfolio": "En construcción",
+    "summary": "Estudiante de ingeniería electrónica con vocación profesional por el desarrollo backend, con sólidos conocimientos en diversos lenguajes. Actualmente, estoy en busca de una oportunidad laboral donde pueda aplicar y expandir mis conocimientos adquiridos en la facultad, en diversos cursos y en proyectos. Mi formación en ciencias duras y mis experiencias laborales me han proporcionado una mentalidad analítica, orientada a la resolución de problemas de manera lógica y creativa, así como una capacidad para colaborar asertivamente en equipo, adaptarme a diferentes entornos y tomar decisiones eficazmente"
+  },
+  "work_experience": [
+    {
+      "job_title": "Desarrollador Backend Freelance",
+      "company": "Fiverr",
+      "location": "",
+      "start_date": "2024-07-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollo, implementación y mantenimiento de APIs para distintas aplicaciones y páginas web.",
+        "Trabajando principalmente con Node.js y Express.js, comunicándose con distintas bases de datos (MySQL, PostgreSQL, MongoDB) mediante ORMs y ODMs."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Trabajador General",
+      "company": "Agencias varias",
+      "location": "Australia",
+      "start_date": "2022-09-01",
+      "end_date": "2023-09-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Desempeñé diversas funciones como trabajador general en sitios de construcción en Australia.",
+        "Incluyendo mano de obra, asistencia a diferentes oficios, operador en fábricas y tareas de mantenimiento y organización del lugar de trabajo."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Técnico en Computación",
+      "company": "FADU, UBA",
+      "location": "",
+      "start_date": "2020-01-01",
+      "end_date": "2022-08-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Asistencia, asesoramiento, instalación y reparación de equipos informáticos.",
+        "Brindé soporte para los sistemas y redes internas utilizadas por los mismos trabajadores.",
+        "Asistencia para el cableado de la red interna de FADU"
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Técnico Electrónico",
+      "company": "South American Models",
+      "location": "",
+      "start_date": "2016-06-01",
+      "end_date": "2018-07-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Contribuí significativamente a un proyecto destacado, participando en el diseño, elaboración, instalación y puesta en marcha de diversos sistemas electrónicos.",
+        "Trabajé en la programación de microprocesadores, diseño de esquemáticos, cableado e instalación de los distintos sistemas."
+      ],
+      "achievements": [
+        "La maqueta fue expuesta como parte de un museo en Times Square, Nueva York."
+      ],
+      "repository_url": ""
+    }
+  ],
+  "education": [],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "javascript",
+        "sql",
+        "python",
+        "c",
+        "c++",
+        "html",
+        "css",
+        "express",
+        "react",
+        "mysql",
+        "postgresql",
+        "mongodb"
+      ],
+      "soft": [],
+      "tools": [
+        "visualstudiocode",
+        "ágiles",
+        "scrum"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "ProyectoFullStack-Universidad",
+      "description": "Este es un proyecto realizado como TPO para el curso de CodoaCodo de FullStack en Node.js En dónde se simula un sitio web de una universidad que dicta distintas carreras en distintas sedes.",
+      "technologies": ["HTML", "CSS", "JavaScript", "Node.js", "Express.js", "JWT"],
+      "url": "https://github.com/Nachit0C/ProyectoFullStack-Universidad"
+    },
+    {
+      "name": "ChatBotIASushi",
+      "description": "ChatBotIASushi es un proyecto diseñado para proporcionar una experiencia interactiva de chatbot a una empresa de sushi.",
+      "technologies": ["HTML", "CSS", "JavaScript", "Node.js", "Express.js", "React", "Zustand", "MongoDB", "Mongoose", "cohere-ai"],
+      "url": "https://github.com/Nachit0C/ChatBotIASushi"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "Avanzado"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

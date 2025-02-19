@@ -1,0 +1,128 @@
+{
+    "personal_info": {
+        "first_name": "Patricio Matias",
+        "last_name": "Gomez",
+        "email": "patriciom.gomez@hotmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Avellaneda",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/patricio-matias-gomez/",
+        "website": "https://github.com/Patricio013",
+        "portfolio": "",
+        "summary": "Estudiante de ingeniería informática, puedo aportar mi pasión y conocimientos en el mundo tecnológico y de la programación. Cuento con predisposición y adaptación al cambio por ello actualmente busco mi primer puesto laboral al cual poder aportar conocimientos y a la vez adquirir crecimiento y nuevos aprendizajes."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Ingeniero en Informática",
+            "institution": "UADE",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller con Orientación en Economía y Administración",
+            "institution": "Instituto San Pablo",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css",
+                "javascript",
+                "python",
+                "java",
+                "c++",
+                "react+vite",
+                "spring-boot",
+                "mysql",
+                "cassandra",
+                "neo4j",
+                "mongodb",
+                "redis"
+            ],
+            "soft": [],
+            "tools": [
+                "github",
+                "jira",
+                "miro",
+                "draw.io"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Codo a Codo 4.0 Full Stack – Python",
+            "issuing_organization": "",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollador de Plataforma Salesforce",
+            "issuing_organization": "",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "TodoCode MySQL y JAVA",
+            "issuing_organization": "",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Vickro",
+            "description": "Ecommerce donde se pueden vender y comprar muebles, incluye carrito de compras y tickets. Conectado a una base de datos MYSQL.",
+            "technologies": ["MySQL"],
+            "url": "https://github.com/Patricio013/Ecommerce-BackEnd"
+        },
+        {
+            "name": "Vickro Frontend",
+            "description": "Frontend del ecommerce Vickro.",
+            "technologies": [],
+            "url": "https://github.com/Patricio013/ecommerce-frontend"
+        },
+        {
+            "name": "Bot de Discord",
+            "description": "Bot de discord con comandos como saber el ping, reproducir música, traductor y un 8ball.",
+            "technologies": [],
+            "url": "https://github.com/Patricio013/BotDiscord"
+        },
+        {
+            "name": "MarketAll",
+            "description": "Sistema para gestionar inventario y realizar compras, con recuperación de carritos antiguos. API conectada a MongoDB y Redis.",
+            "technologies": ["MongoDB", "Redis"],
+            "url": "https://github.com/Patricio013/MarketAll2"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Limited working proficiency"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

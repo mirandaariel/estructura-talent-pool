@@ -1,0 +1,81 @@
+{
+    "personal_info": {
+        "first_name": "Tomás",
+        "last_name": "Edelcopp",
+        "email": "tomas.edelcopp@gmail.com",
+        "phone": "+541162002757",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": "Villa Crespo"
+        },
+        "linkedin": "www.linkedin.com/in/edelcopp",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con sede en Buenos Aires, Argentina. Actualmente estoy cursando la Tecnicatura en Desarrollo de Software con el objetivo de integrar mis conocimientos en proyectos innovadores y de alto impacto. Me enfoco en el aprendizaje continuo y la colaboración efectiva. Busco contribuir a entornos dinámicos donde pueda aplicar mis habilidades técnicas y de resolución de problemas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Freelance Web Developer",
+            "company": "Autónomo",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "9999-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de one page y landing page personalizadas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "sql",
+                "html",
+                "css",
+                "react",
+                "react-native",
+                "node.js",
+                "next.js",
+                "redux"
+            ],
+            "soft": [],
+            "tools": [
+                "figma",
+                "canva",
+                "scrum",
+                "gestión-ágil-de-proyectos"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Finanzas Ya!",
+            "description": "Actualización y rediseño de un sitio WordPress para mejorar la estética y experiencia del usuario.",
+            "technologies": ["WordPress"],
+            "url": ""
+        },
+        {
+            "name": "Darwin Studio Code",
+            "description": "Desarrollo de una Landing Page en HTML para una empresa de servicios web con diseño moderno y navegación sencilla.",
+            "technologies": ["HTML"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "C1 Advanced"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

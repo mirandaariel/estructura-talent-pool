@@ -1,0 +1,98 @@
+{
+    "personal_info": {
+        "first_name": "Agustín Nicolás",
+        "last_name": "Hillar",
+        "email": "agushillar8@gmail.com",
+        "phone": "3512082485",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/agustinhillar-0971b2328",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante de cuarto año de Ingeniería en Sistemas con experiencia académica en Python, Java, JavaScript, Node.js, Git, SQL, MySql, React, HTML, CSS, Angular, Análisis y Diseño de Sistemas. Busco un rol como desarrollador Trainee para aplicar mis conocimientos en proyectos reales y desarrollarme profesionalmente, mientras profundizo en áreas de ciberseguridad y desarrollo."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "",
+            "institution": "Universidad Tecnológica Nacional, Regional Córdoba",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "java",
+                "javascript",
+                "node.js",
+                "git",
+                "sql",
+                "mysql",
+                "react",
+                "html",
+                "css",
+                "angular",
+                "análisis-y-diseño-de-sistemas"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Curso de Fundamentos de Ciberseguridad",
+            "issuing_organization": "Cisco",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Carrera de Junior Cybersecurity Analyst",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Trabajo Práctico en Python",
+            "description": "Desarrollé una aplicación web básica para una asignatura utilizando Python, ayudando en backend y frontend.",
+            "technologies": ["python", "sqlite3", "javascript", "html", "css"],
+            "url": ""
+        },
+        {
+            "name": "Trabajo Práctico en JavaScript",
+            "description": "Desarrollé una aplicación web, diseñé el frontend con React y programé test unitarios con Jest.",
+            "technologies": ["javascript", "react", "sqlite3", "jest", "node.js"],
+            "url": ""
+        },
+        {
+            "name": "Simulación laboral con NoCountry",
+            "description": "Desarrollé una aplicación web de administración usando Java y Spring Boot para el backend, y React para el frontend.",
+            "technologies": ["java", "spring-boot", "react", "mysql", "spring-security"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Castellano",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,196 @@
+{
+    "personal_info": {
+        "first_name": "Sergio Ezequiel",
+        "last_name": "Mugetti Oliver",
+        "email": "ezequiel.oliver@hotmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "La Plata",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/ezequiel-oliver/",
+        "website": "https://github.com/Oliver-92",
+        "portfolio": "https://oliver-92.github.io/Portafolio/",
+        "summary": "Desarrollador Web y Analista de Datos con conocimientos en ciencia de datos e inteligencia artificial. Actualmente en búsqueda de oportunidades para aplicar y ampliar mis conocimientos en el mundo real. Poseo habilidades sólidas en lenguajes de programación como Python y JavaScript, así como un fuerte compromiso con la resolución de problemas y el aprendizaje continuo. Abierto a colaborar en proyectos desafiantes y crecer como profesional en el campo de la tecnología."
+    },
+    "work_experience": [
+        {
+            "job_title": "Cobrador",
+            "company": "Fundación Ludovica - Hospital de niños de La Plata",
+            "location": "La Plata, Argentina",
+            "start_date": "2018-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Gestión de recaudaciones para entidad sin fines de lucro",
+                "Comunicación directa con contribuyentes para resolución de consultas"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Encargado de almacén",
+            "company": "Local de venta de productos minoristas",
+            "location": "",
+            "start_date": "2015-03-01",
+            "end_date": "2017-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión integral de inventarios y control de stock",
+                "Supervisión de ventas y atención al cliente",
+                "Manejo de proveedores y recepción de mercadería",
+                "Control de caja y cierre diario",
+                "Implementación de estrategias de promoción"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de riesgo laboral",
+            "company": "Consultora Roster y asociados - ANG Consultora",
+            "location": "",
+            "start_date": "2015-10-01",
+            "end_date": "2016-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Realización de visitas técnicas en representación de ART",
+                "Verificación de cumplimiento de condiciones de seguridad laboral",
+                "Identificación y evaluación de riesgos laborales",
+                "Recomendación de mejoras de seguridad"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollador Front End React",
+            "institution": "Talento Tech - Gobierno de la Ciudad de Buenos Aires",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Front End JS",
+            "institution": "Talento Tech - Gobierno de la Ciudad de Buenos Aires",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador full stack Python",
+            "institution": "Codo a codo - Gobierno de la Ciudad de Buenos Aires",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Big Data/Data analytics",
+            "institution": "Codo a codo - Gobierno de la Ciudad de Buenos Aires",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomatura en Ciencia de Datos e Inteligencia Artificial",
+            "institution": "Universidad Nacional de San Martín",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Psicología",
+            "institution": "Universidad Nacional de La Plata",
+            "location": "La Plata, Argentina",
+            "start_date": "",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Superior en Seguridad, Higiene y Control Ambiental Industrial",
+            "institution": "ISdFDyT - Colegio de Técnicos de la Provincia de Buenos Aires",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "",
+            "end_date": "2013-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "sql",
+                "html",
+                "css",
+                "javascript",
+                "flask",
+                "bootstrap",
+                "mysql",
+                "sqlite",
+                "numpy",
+                "pandas",
+                "matplotlib",
+                "seaborn",
+                "scikit-learn"
+            ],
+            "soft": [],
+            "tools": [
+                "vsc",
+                "looker-studio",
+                "git",
+                "jupyter-notebooks",
+                "xampp"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Beverly Trends - Proyecto Front-End",
+            "description": "Página web para tienda de ropa con sistema de carrito de compras dinámico y formulario de consultas",
+            "technologies": ["bootstrap", "html", "css", "javascript", "formspree"],
+            "url": "https://oliver-92.github.io/Beverly-Trends/"
+        },
+        {
+            "name": "Coffee-Corner - Proyecto Back-End",
+            "description": "CRUD desarrollado con Flask y MySQL para gestión de menú de cafetería",
+            "technologies": ["python", "flask", "mysql", "html", "css"],
+            "url": "https://eze92.pythonanywhere.com/"
+        },
+        {
+            "name": "Prevención de fraude en transacciones financieras",
+            "description": "MVP para detección de fraudes financieros usando modelos de Machine Learning",
+            "technologies": ["python", "jupyter-notebooks", "power-bi", "pandas", "numpy", "matplotlib", "seaborn", "scikit-learn", "streamlit"],
+            "url": "https://github.com/Oliver-92/Fintech-Solutions"
+        },
+        {
+            "name": "Dashboard de Análisis de Ventas",
+            "description": "Dashboard interactivo para análisis de ventas y rendimiento de vendedores",
+            "technologies": ["python", "jupyter-notebooks", "sqlite", "pandas", "numpy", "matplotlib", "seaborn", "looker-studio"],
+            "url": "https://github.com/Oliver-92/Data-Analytics-Analisis-de-ventas"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
