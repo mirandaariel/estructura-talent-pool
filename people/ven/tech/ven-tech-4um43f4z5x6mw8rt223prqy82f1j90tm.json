@@ -1,0 +1,235 @@
+{
+    "personal_info": {
+        "first_name": "Orlibet",
+        "last_name": "Dun",
+        "email": "orlibet@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Venezuela",
+            "city": "Caracas",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/orlibetdungonzalez",
+        "website": "",
+        "portfolio": "https://portfolio-next-snowy-two.vercel.app/",
+        "summary": "Desarrolladora Full Stack con dos años de experiencia en la creación y optimización de aplicaciones web. Mi enfoque está en desarrollar soluciones prácticas e intuitivas, trabajando con equipos multidisciplinarios para garantizar productos de calidad que marquen la diferencia. Apasionada por la tecnología y la educación, combino habilidades técnicas con liderazgo para crear soluciones escalables y funcionales. Disfruto creando contenido educativo que fomente el aprendizaje y fortalezca el crecimiento de la comunidad tecnológica."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer & Tech Lead",
+            "company": "TryCatch Factory",
+            "location": "Caracas, Venezuela",
+            "start_date": "2024-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de un sistema de gestión de facturación modular, aplicando principios de cohesión y acoplamiento para optimizar la estructura del sistema.",
+                "Colaboración en el desarrollo del backend utilizando Java, Spring Boot y bases de datos relacionales.",
+                "Desarrollo del 90% del frontend de la aplicación, asegurando una interfaz responsiva y optimizada con React y TailwindCSS.",
+                "Trabajar estrechamente con equipos multidisciplinarios para garantizar la calidad y la entrega puntual de las funcionalidades."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "ONEHelper - Especialización Backend",
+            "company": "Alura Latam",
+            "location": "Caracas, Venezuela",
+            "start_date": "2024-09-01",
+            "end_date": "2025-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Acompañar a los estudiantes en su proceso de aprendizaje, ayudándoles a fortalecer sus conocimientos en Java y Spring Boot.",
+                "Fomentar el aprendizaje colaborativo y apoyar a los participantes del programa para completar con éxito sus proyectos.",
+                "Resolver dudas y ofrecer consejos prácticos en cada desafío, facilitando el progreso de los estudiantes en el programa."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Especialización Back-End Developer",
+            "institution": "Alura Latam - Oracle Next Education (ONE)",
+            "location": "Remoto",
+            "start_date": "2024-01-01",
+            "end_date": "2024-09-01",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry",
+            "location": "Remoto",
+            "start_date": "2023-03-01",
+            "end_date": "2023-09-01",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciada en Administración",
+            "institution": "UNESR",
+            "location": "Presencial",
+            "start_date": "2000-10-01",
+            "end_date": "2007-07-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript",
+                "angular",
+                "react",
+                "redux",
+                "next.js",
+                "astro",
+                "tailwind-css",
+                "sass",
+                "bootstrap",
+                "zustand",
+                "nuxt.js",
+                "node.js",
+                "nestjs",
+                "express.js",
+                "java",
+                "spring-boot",
+                "php",
+                "python",
+                "swagger",
+                "jest",
+                "postgresql",
+                "mongodb",
+                "mysql",
+                "sequelize",
+                "prisma"
+            ],
+            "soft": [
+                "comunicacion-efectiva",
+                "liderazgo",
+                "resolucion-de-problemas",
+                "adaptabilidad",
+                "trabajo-en-equipo"
+            ],
+            "tools": [
+                "serverless",
+                "scrum",
+                "git",
+                "docker",
+                "ci/cd",
+                "kubernetes"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Buenas prácticas de programación: automatizando pruebas con Java",
+            "issuing_organization": "Alura Latam",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Ingeniería y Selección de Características",
+            "issuing_organization": "Código Facilito",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Formación Inteligencia Artificial y Java G7 - ONE",
+            "issuing_organization": "Alura Latam",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Formación SQL con MySQL Server de Oracle - ONE",
+            "issuing_organization": "Alura Latam",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Formación Oracle Cloud Infrastructure - ONE",
+            "issuing_organization": "Alura",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Oracle Next Education F2 T6 Back-end",
+            "issuing_organization": "Alura Latam",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Formación Java y Spring Boot G6",
+            "issuing_organization": "ONE/Alura Latam",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "SCRUM Fundamentals",
+            "issuing_organization": "SCRUMstudy",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Python Programming Basic",
+            "issuing_organization": "Huawei",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Accredited Software Testing Fundamentals Certification (ASTFC)",
+            "issuing_organization": "",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Generador de CV en Flask",
+            "description": "Utilicé la biblioteca python-docx para crear el CV de manera programática y automatizar la conversión a PDF con docx2pdf.",
+            "technologies": [
+                "flask",
+                "python-docx",
+                "docx2pdf"
+            ],
+            "url": "https://github.com/Orliluq/generador_cv.git"
+        },
+        {
+            "name": "CodeCare: Apoyo emocional y psicológico para programadores",
+            "description": "Desarrollé una plataforma en línea para conectar programadores con terapeutas y psicólogos especializados.",
+            "technologies": [
+                "react",
+                "node.js",
+                "postgresql",
+                "tailwind-css"
+            ],
+            "url": "https://github.com/Orliluq/CodeCare.git"
+        },
+        {
+            "name": "Hello Kitty Carrito de Compras",
+            "description": "Creé un sistema dinámico para agregar, eliminar y modificar productos en un carrito virtual con validación de productos duplicados.",
+            "technologies": [],
+            "url": "https://github.com/Orliluq/Hello-Kitty-Carrito-de-compra.git"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (B1)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

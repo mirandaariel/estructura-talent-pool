@@ -1,0 +1,220 @@
+{
+    "personal_info": {
+        "first_name": "Andrés",
+        "last_name": "Medina",
+        "email": "andres.medina.arg@gmail.com",
+        "phone": "+54 3816713512",
+        "location": {
+            "country": "Argentina",
+            "city": "Tucumán",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/andres-medina-arg",
+        "website": "",
+        "portfolio": "https://portfolio-andres-medina-arg.vercel.app/",
+        "summary": "Soy Desarrollador Full Stack con enfoque en el front-end e Ingeniero Industrial, con más de 12 años de experiencia en el ámbito industrial y más de 2 años en desarrollo de software. A lo largo de mi trayectoria, he desarrollado habilidades técnicas en JavaScript, React, Node y SQL, así como competencias clave que me permiten aportar valor más allá de la programación. Mi experiencia me ha permitido fortalecer habilidades blandas esenciales, como el trabajo en equipo, la escucha activa y la capacidad de dar y recibir feedback de manera constructiva. Además, tengo una visión estratégica con foco en el negocio, lo que me permite entender los objetivos más allá de un rol específico y contribuir al crecimiento de la empresa. También cuento con experiencia liderando equipos, promoviendo la sinergia y el aprendizaje continuo. Estoy entusiasmado por la oportunidad de unirme a su equipo y aportar tanto mis conocimientos técnicos como mi enfoque colaborativo para el éxito de su empresa."
+    },
+    "work_experience": [
+        {
+            "job_title": "Tutor bootcamp fullstack",
+            "company": "Academia Desafío LATAM",
+            "location": "Remote",
+            "start_date": "2024-06-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Impartiendo clases prácticas y explicaciones teóricas para el programa de desarrollo full-stack.",
+                "Stack de tecnologías: HTML5, CSS3, Javascript, React, Node, Express, SQL"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Plug-Zone",
+            "location": "Remote",
+            "start_date": "2023-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Mantenimiento e implementación de funcionalidades en diferentes proyectos.",
+                "Responsabilidades iniciales en frontend, luego en backend, base de datos e infraestructura.",
+                "Proyectos: SPA para logística de transporte, consulta de facturación y atención al cliente; aplicación para gestión de identidades.",
+                "Desarrollos de drivers para conexión/integración entre aplicaciones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "FREELANCE",
+            "location": "Remote",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "CABSA: Desarrollo de sitio web progresivo completo.",
+                "Kurve: Desarrollo de sitio web completo.",
+                "CoolCo: Desarrollo de landing page para venta de boletos y NFT.",
+                "Apes International: Desarrollo de landing page responsive con video."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Virtual Remote Partner",
+            "location": "Remote",
+            "start_date": "2023-09-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de frontend, backend y base de datos.",
+                "Implementación de ERP Odoo y mantenimiento de sitios web."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Aythen",
+            "location": "Remote",
+            "start_date": "2023-09-01",
+            "end_date": "2023-11-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo frontend, backend, y base de datos para aplicación web no-code."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "DIUM (Colaborativo)",
+            "location": "Remote",
+            "start_date": "2023-07-01",
+            "end_date": "2023-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y mentoría técnica para e-commerce de repuestos automotrices.",
+                "Guía en la adopción de tecnologías: typescript, Storybook, Tailwind CSS y Next.js."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Totono (GetDeli)",
+            "location": "Remote",
+            "start_date": "2022-09-01",
+            "end_date": "2023-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de e-commerce frontend, backend y base de datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ingeniero de procesos",
+            "company": "Grupo Arcor Misky",
+            "location": "Tucumán, Argentina",
+            "start_date": "2013-05-01",
+            "end_date": "2022-05-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Liderazgo en mejora continua aplicando metodología TPM.",
+                "Soporte en grupos de mejora continua y organización de producción Just In Time.",
+                "Análisis estadístico de procesos en producción."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2020-12-31",
+            "hours": 700
+        },
+        {
+            "degree": "Ingeniero Industrial",
+            "institution": "Universidad Nacional de Tucumán",
+            "location": "Tucumán, Argentina",
+            "start_date": "2004-01-01",
+            "end_date": "2012-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Electromecánico (Secundario Técnico)",
+            "institution": "ITS Lorenzo Massa",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript",
+                "typescript",
+                "sql",
+                "react",
+                "nextjs",
+                "react-query",
+                "mui",
+                "styled-component",
+                "tailwind",
+                "storybook",
+                "react-redux",
+                "zustand",
+                "typeorm",
+                "prisma",
+                "node.js",
+                "express.js",
+                "mongodb",
+                "postgresql"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "escucha-activa",
+                "feedback-constructivo"
+            ],
+            "tools": [
+                "cursor",
+                "figma",
+                "postman",
+                "docker",
+                "git",
+                "github",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "B2 Intermedio"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,129 @@
+{
+  "personal_info": {
+    "first_name": "Alan Manuel",
+    "last_name": "Gonzalez",
+    "email": "alan.mg.dev@gmail.com",
+    "phone": "",
+    "location": {
+      "country": "Argentina",
+      "city": "San Martín",
+      "state": "Buenos Aires"
+    },
+    "linkedin": "https://www.linkedin.com/in/alangonzm/",
+    "website": "https://github.com/alanium",
+    "portfolio": "N/A",
+    "summary": "Software Developer con experiencia en desarrollo backend y frontend, especializado en Python y tecnologías modernas para el desarrollo de aplicaciones web y móviles. Amplia experiencia en bases de datos SQL y NoSQL, así como en el uso de servicios en la nube como AWS y Firebase. Apasionado por la optimización de procesos y el desarrollo de soluciones innovadoras."
+  },
+  "work_experience": [
+    {
+      "job_title": "Backend Developer",
+      "company": "Contempo Construction TX",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Líder en proyectos de desarrollo en Python con bases de datos SQL y NoSQL, AWS y Firebase.",
+        "Desarrollo de interfaces atractivas con JavaScript, React y Vite o TypeScript y Nuxt.",
+        "Implementación de soluciones para aplicaciones móviles con Flutter."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Inspector de calidad",
+      "company": "Cimet Optel",
+      "location": "",
+      "start_date": "2022-01-01",
+      "end_date": "2023-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Análisis de integridad física y control de parámetros en cables de alta, media y baja tensión.",
+        "Uso de SAP MM para la gestión de calidad."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Técnico en mantenimiento/sistemas",
+      "company": "Guerrero e Hijos Ingeniería",
+      "location": "",
+      "start_date": "2016-01-01",
+      "end_date": "2022-12-31",
+      "currently_working": false,
+      "responsibilities": ["Instalación y mantenimiento de sistemas eléctricos."],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ingeniería en Informática",
+      "institution": "Universidad de Buenos Aires",
+      "location": "Buenos Aires, Argentina",
+      "start_date": "2021-01-01",
+      "end_date": "2023-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "python",
+        "java",
+        "go",
+        "javascript",
+        "typescript",
+        "sql",
+        "nuxt",
+        "react",
+        "node.js",
+        "vite",
+        "flask",
+        "django",
+        "sql-server",
+        "mongodb",
+        "dynamodb",
+        "firebase",
+        "cloud-computing"
+      ],
+      "soft": [],
+      "tools": [
+        "git",
+        "linux",
+        "sap-mm",
+        "docker",
+        "unit-testing",
+        "integration-testing",
+        "devops",
+        "cloud-computing"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Case Share",
+      "description": "Un sistema que conecta doctores con abogados que maneja información de pacientes (HIPAA COMPLIANCE) para un hospital en USA.",
+      "technologies": ["Python", "Django", "JS", "TS", "Nuxt", "AWS", "Kubernetes"],
+      "url": "https://case-share.com"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "B2"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}
