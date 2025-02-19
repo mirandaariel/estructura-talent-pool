@@ -1,0 +1,71 @@
+{
+    "personal_info": {
+        "first_name": "Cristian Alberto",
+        "last_name": "Medina",
+        "email": "cristianmedinaaranda@gmail.com",
+        "phone": "11-36938447",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "cmdeveloper.netlify.app",
+        "portfolio": "",
+        "summary": "Desarrollador Web especializado en Angular y Java Spring Boot con experiencia en metodologías ágiles y desarrollo full stack."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollo y Mantenimiento",
+            "company": "Finanroux S.A.",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Instalación y mantenimiento de redes de fibra óptica para Claro Argentina",
+                "Desarrollo de aplicaciones para automatización de la gestión técnica usando Oracle"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico en Desarrollo Web",
+            "institution": "Universidad UNLAM",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html", "css", "bootstrap", "angular", "typescript", "javascript", "java", "spring-boot", "node.js", "php", "c#", ".net", "sql", "hibernate", "oracle", "git", "tailwind-css", "maven"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Lytics",
+            "description": "Aplicación para gestionar y optimizar el consumo energético, integrando pagos con Mercado Pago.",
+            "technologies": ["angular", "java-spring-boot", "tailwind-css"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

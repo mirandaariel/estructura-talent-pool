@@ -1,0 +1,113 @@
+{
+    "personal_info": {
+        "first_name": "Celeste Belén",
+        "last_name": "Montero",
+        "email": "celesbmontero@hotmail.com",
+        "phone": "+54 11 5503 1316",
+        "location": {
+            "country": "Argentina",
+            "city": "Quilmes",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://linkedin.com/in/celestemontero/",
+        "website": "",
+        "portfolio": "https://celesdev.vercel.app/",
+        "summary": "Fullstack Developer con experiencia en el desarrollo de aplicaciones web dinámicas con React y bases de datos relacionales y no relacionales."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrolladora Freelance",
+            "company": "Independiente",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de una tienda e-commerce de suplementos deportivos",
+                "Implementación de formularios de contacto validados",
+                "Uso de React.js con Hooks, Context y Redux Toolkit para una arquitectura escalable"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Jefa Administrativa",
+            "company": "Sanatorio Modelo Quilmes",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Capacitación y liderazgo del equipo administrativo",
+                "Control y ejecución de facturación a prepagas"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista de Sistemas Informáticos",
+            "institution": "Instituto Raúl Scalabrini Ortiz (IRSO)",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html", "css", "javascript", "typescript", "node.js", "react.js", "firebase", "mongodb", "postgresql"
+            ],
+            "soft": [
+                "comunicacion-efectiva", "liderazgo", "trabajo-en-equipo"
+            ],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Desarrollo Web Inicial",
+            "issuing_organization": "Universidad Tecnológica Nacional (UTN)",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo Web Fullstack",
+            "issuing_organization": "NUCBA",
+            "issue_date": "2023-01-01",
+            "expiration_date": "2024-12-31",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Piedra, Papel o Tijera Online",
+            "description": "Juego online con conexión en tiempo real usando Firebase.",
+            "technologies": ["typescript", "html", "css", "firebase"],
+            "url": "https://ppt-online-qs4b.onrender.com/"
+        },
+        {
+            "name": "E-commerce",
+            "description": "Página e-commerce con navegación y búsqueda avanzada.",
+            "technologies": ["javascript", "html", "css"],
+            "url": "https://dancewear-landing.vercel.app/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

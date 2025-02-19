@@ -1,0 +1,168 @@
+{
+    "personal_info": {
+        "first_name": "Ezequiel",
+        "last_name": "Seminara",
+        "email": "eze.seminara@gmail.com",
+        "phone": "+54 1169389921",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": "CABA"
+        },
+        "linkedin": "https://linkedin.com/in/e-seminara/",
+        "website": "https://github.com/eseminara",
+        "portfolio": "",
+        "summary": "Soy una persona adaptable y colaborativa, apasionada por lograr resultados y encontrar soluciones innovadoras en IT. Me motiva aportar mis habilidades técnicas e interpersonales en un equipo dinámico, donde el crecimiento compartido y la eficiencia son clave."
+    },
+    "work_experience": [
+        {
+            "job_title": "Web Developer",
+            "company": "Freelancer",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de proyectos personales y a pedido.",
+                "Desarrollo funcional y responsivo.",
+                "Creación de APIs.",
+                "Gestión de bases de datos.",
+                "Administrador personalizable e independiente.",
+                "Mail Scripting."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Soporte IT",
+            "company": "Autónomo",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Reparaciones de hardware y software.",
+                "Asistencia remota.",
+                "Instalaciones de sistemas, redes y equipos.",
+                "Administración de redes e infraestructura."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de RRHH",
+            "company": "Cromosol Autopartes",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2019-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Data & People Analytics - Dashboards.",
+                "Payroll y administración de personal.",
+                "Recruiting."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Backend Developer",
+            "company": "NoCountry - Semillero LATAM",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Backend Developer en proyectos de simulación laboral.",
+                "Desarrollo en proyectos de Ecommerce, instrumentos musicales y tecnología.",
+                "Desarrollo de WebApps de gestión académica y de personal, redes sociales y adopción de mascotas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Javascript Fullstack",
+            "institution": "Codo a Codo",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Backend Python Developer",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "CCNA Network Admin y Sistemas",
+            "institution": "Proydesa-Cisco Net Academy",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Coaching Ontológico PNL - Liderazgo",
+            "institution": "Esc. LATAM Coaching (ELAC)",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2015-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Lic. en Recursos Humanos",
+            "institution": "UADE",
+            "location": "",
+            "start_date": "2011-01-01",
+            "end_date": "2015-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "django",
+                "drf",
+                "fastapi",
+                "javascript",
+                "node.js",
+                "html",
+                "css",
+                "sql",
+                "postgresql"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "scrum",
+                "kanban",
+                "notion",
+                "jira"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Advanced"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

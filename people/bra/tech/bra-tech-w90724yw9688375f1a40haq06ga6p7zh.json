@@ -1,0 +1,201 @@
+{
+    "personal_info": {
+        "first_name": "Samuel",
+        "last_name": "Marcano",
+        "email": "samuelmarcano88@gmail.com",
+        "phone": "+55 51 9 9865 3084",
+        "location": {
+            "country": "Brasil",
+            "city": "Porto Alegre",
+            "state": "Rio Grande do Sul"
+        },
+        "linkedin": "https://www.linkedin.com/in/samueljmarcano",
+        "website": "",
+        "portfolio": "",
+        "summary": "Profissional de TI com mais de 15 anos de experiência, destacando um perfil multidisciplinar e expertise em tecnologia, análise de dados, gestão de projetos e segurança da informação."
+    },
+    "work_experience": [
+        {
+            "job_title": "Gerente de Projetos e Análise de Dados",
+            "company": "EURO ACEROS S.A",
+            "location": "Guatemala",
+            "start_date": "2023-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Liderança de equipe de 5 profissionais com foco em processos e soluções tecnológicas.",
+                "Implantação de análise de dados com Power BI.",
+                "Gestão de CRM (Hubspot) melhorando eficácia da equipe de vendas.",
+                "Aplicação de metodologias ágeis para automatização de planilhas.",
+                "Implementação e certificação da norma ISO9001.",
+                "Treinamento da equipe em soft e hard skills.",
+                "Liderança no projeto de mudança de ERP."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Coordenador de TI",
+            "company": "NAXS S.A",
+            "location": "La Plata, Argentina",
+            "start_date": "2020-09-01",
+            "end_date": "2023-03-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Projetar infraestruturas de rede avançadas utilizando Mikrotik.",
+                "Gerenciamento de projetos para melhorias no ERP.",
+                "Gerenciar instalações de software essenciais."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Gerente de Vendas",
+            "company": "CADEMA S.A",
+            "location": "La Plata, Argentina",
+            "start_date": "2019-11-01",
+            "end_date": "2020-09-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Gerenciar orçamentos, estoques e compras.",
+                "Desenvolvimento de relações comerciais.",
+                "Suporte técnico e instalação de soluções tecnológicas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Gerente Regional de Segurança da Informação",
+            "company": "CORPOELEC",
+            "location": "Maturín, Venezuela",
+            "start_date": "2015-02-01",
+            "end_date": "2018-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Estratégias nacionais de segurança da informação.",
+                "Treinamentos sobre segurança da informação.",
+                "Supervisão de planos de redução de riscos.",
+                "Implementação nacional do sistema SCADA.",
+                "Gestão de orçamento e aquisição de equipamentos de informática."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Gerente Estadual de Segurança da Informação",
+            "company": "CORPOELEC",
+            "location": "Maturín, Venezuela",
+            "start_date": "2012-10-01",
+            "end_date": "2015-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Projetos estratégicos em segurança da informação.",
+                "Implementação do piloto do sistema SCADA.",
+                "Modificação dos padrões de gerenciamento de documentação.",
+                "Planos de redução de riscos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de Segurança da Informação",
+            "company": "CORPOELEC",
+            "location": "Maturín, Venezuela",
+            "start_date": "2010-08-01",
+            "end_date": "2012-10-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Condução de auditorias de sistemas de TI.",
+                "Treinamento em segurança da informação.",
+                "Gerenciamento do processo de aquisição de equipamentos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Superior em Informática",
+            "institution": "Instituto Universitario Tecnologico Venezolano",
+            "location": "",
+            "start_date": "2005-02-01",
+            "end_date": "2009-08-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "metodologias-ágeis",
+                "scrum",
+                "lean",
+                "kamban"
+            ],
+            "soft": [
+                "inteligência-emocional",
+                "gestão-de-tempo",
+                "comunicação"
+            ],
+            "tools": [
+                "jira",
+                "asana",
+                "trello",
+                "office-suite",
+                "power-bi",
+                "hubspot"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Python Básico",
+            "issuing_organization": "Refuturiza",
+            "issue_date": "2024-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Gerenciamento de Projetos",
+            "issuing_organization": "Refuturiza",
+            "issue_date": "2024-08-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Backoffice",
+            "issuing_organization": "Refuturiza",
+            "issue_date": "2024-08-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificado Consultor Odoo",
+            "issuing_organization": "Odoo",
+            "issue_date": "2024-09-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Português",
+            "proficiency": "Fluente"
+        },
+        {
+            "language": "Espanhol",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglês",
+            "proficiency": "Intermediário"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

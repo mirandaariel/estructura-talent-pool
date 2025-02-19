@@ -1,0 +1,213 @@
+{
+    "personal_info": {
+        "first_name": "Lucas",
+        "last_name": "Sosa",
+        "email": "lucasnsosa2012@gmail.com",
+        "phone": "+541154695213",
+        "location": {
+            "country": "Argentina",
+            "city": "Merlo",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Comencé a relacionarme con la tecnología y la programación desde muy temprana edad y actualmente las utilizo a diario. Siempre pensé que mi primera experiencia laboral en el sector IT sería en desarrollo, pero me brindaron la gran oportunidad de ser educador y estoy más que feliz con mi trabajo. Una de mis cosas preferidas es asistir a capacitaciones, cursos y adquirir nuevos conocimientos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Educador",
+            "company": "Lifecole",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Programación con Javascript utilizando Replit y Visual Studio Code.",
+                "Diferentes Trayectorias y Temarios.",
+                "Programación por Bloques en Scratch.",
+                "Programación y Creación de Videojuegos con Minecraft Education.",
+                "Uso de herramientas complementarias para la Programación de Videojuegos con Minecraft Education, como Makecode y Tynker."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Pre B2 First Certificate - Inglés Americano y Británico",
+            "institution": "Instituto Kell's",
+            "location": "",
+            "start_date": "2008-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Informático Personal y Profesional",
+            "institution": "EEST N°5",
+            "location": "",
+            "start_date": "2014-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnicatura Superior En Análisis y Sistemas",
+            "institution": "ISFT 177",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo Full Stack",
+            "institution": "Egg Cooperation",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Introducción a Javascript",
+            "institution": "ITOO.Dev",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Javascript Moderno Guía Definitiva",
+            "institution": "Udemy",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bootcamp Full Stack",
+            "institution": "Alura Latam",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "bootstrap",
+                "reactjs",
+                "nodejs",
+                "mysql",
+                "java",
+                "c#",
+                "scrum",
+                "docker"
+            ],
+            "soft": [
+                "paciencia",
+                "trabajo-en-equipo",
+                "confiabilidad",
+                "resiliencia",
+                "motivación",
+                "pasión"
+            ],
+            "tools": [
+                "figma",
+                "git",
+                "github",
+                "gitlab",
+                "workbench",
+                "phpmyadmin",
+                "windows",
+                "linux",
+                "asana",
+                "trello"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Lu Nails",
+            "description": "",
+            "technologies": ["HTML", "CSS", "JS", "Bootstrap"],
+            "url": ""
+        },
+        {
+            "name": "Dulces Candy",
+            "description": "",
+            "technologies": ["HTML", "CSS", "JS", "Bootstrap"],
+            "url": ""
+        },
+        {
+            "name": "Gestión de Exámenes con PHP y Docker",
+            "description": "",
+            "technologies": ["PHP", "Docker"],
+            "url": ""
+        },
+        {
+            "name": "Conversor de Monedas",
+            "description": "",
+            "technologies": ["HTML", "CSS", "JS"],
+            "url": ""
+        },
+        {
+            "name": "Adivina el Número Aleatorio",
+            "description": "",
+            "technologies": ["HTML", "CSS", "JS"],
+            "url": ""
+        },
+        {
+            "name": "Listado de Juegos Preferidos",
+            "description": "",
+            "technologies": ["HTML", "CSS", "JS"],
+            "url": ""
+        },
+        {
+            "name": "Añadir Películas Preferidas",
+            "description": "",
+            "technologies": ["HTML", "CSS", "JS"],
+            "url": ""
+        },
+        {
+            "name": "Calculadora con Javascript",
+            "description": "",
+            "technologies": ["HTML", "CSS", "JS"],
+            "url": ""
+        },
+        {
+            "name": "Juego “El Estudiante”",
+            "description": "",
+            "technologies": ["Unity", ".NET", "C#"],
+            "url": ""
+        },
+        {
+            "name": "Petición a PokeAPI",
+            "description": "",
+            "technologies": ["HTML", "CSS", "JS"],
+            "url": ""
+        },
+        {
+            "name": "Petición a Star Wars API",
+            "description": "",
+            "technologies": ["HTML", "CSS", "JS", "NodeJS", "Express", "Postman"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Ingles Americano y Británico",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

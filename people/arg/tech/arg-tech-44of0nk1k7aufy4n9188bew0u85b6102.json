@@ -1,0 +1,133 @@
+{
+    "personal_info": {
+        "first_name": "Joel",
+        "last_name": "Valencia",
+        "email": "valenciajoel0@gmail.com",
+        "phone": "+54 91131447823",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy Joel, Analista de Sistemas con experiencia en el desarrollo e implementación de soluciones tecnológicas que optimizan procesos empresariales."
+    },
+    "work_experience": [
+        {
+            "job_title": "Backend Dev",
+            "company": "Maria Chucena",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Lideró el proyecto de migración de herramientas en VBA Excel a un ERP Web.",
+                "Desarrolló una API REST robusta, definiendo la estructura del proyecto.",
+                "Implementó autenticación, validaciones mediante Pipes y Middlewares, y documentación de la API.",
+                "Realicé el despliegue de la API utilizando Docker y Railway."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollo Frontend",
+            "company": "Maria Chucena",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Colaboró en el diseño y desarrollo de una aplicación web.",
+                "Diseñó las interfaces y desarrolló la aplicación aplicando el patrón Composite.",
+                "Implementó funciones elementales y aseguró la integración con el backend."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Análisis de Sistemas",
+            "institution": "Instituto de Tecnología ORT",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2022-03-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Análisis de Datos",
+            "institution": "Coursera en Asociación con Comunidad IT",
+            "location": "",
+            "start_date": "2022-09-01",
+            "end_date": "2023-01-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "java",
+                "c#",
+                "vba",
+                ".net",
+                "node.js",
+                "python",
+                "react",
+                "flutter",
+                "vue",
+                "nestjs",
+                "prisma",
+                "swagger",
+                "tailwind",
+                "bootstrap",
+                "spring",
+                "javafx",
+                "postgresql",
+                "mysql",
+                "firebase",
+                "sql-server"
+            ],
+            "soft": [],
+            "tools": [
+                "visual-studio-code",
+                "android-studio",
+                "intellij-idea",
+                "figma",
+                "draw.io",
+                "railway"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Gestión de talleres, Maria Chucena",
+            "description": "Diseñe y desarrollé un Libro de Excel con Macros para la gestión de cortes en la fábrica.",
+            "technologies": ["vba", "selenium"],
+            "url": ""
+        },
+        {
+            "name": "Planilla de corte, Maria Chucena",
+            "description": "Desarrollé un sistema en Excel para administrar datos críticos del corte.",
+            "technologies": ["vba", "selenium"],
+            "url": ""
+        },
+        {
+            "name": "Formulario Web, Maria Chucena",
+            "description": "Creación de un formulario web para mejorar la captación de datos de clientes potenciales.",
+            "technologies": ["bootstrap", "javascript", "html", "css", "visual-studio-code", "nodejs", "git", "google-apps-script"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

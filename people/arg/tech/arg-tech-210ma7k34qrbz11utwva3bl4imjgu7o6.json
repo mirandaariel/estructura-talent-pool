@@ -1,0 +1,192 @@
+{
+    "personal_info": {
+        "first_name": "Eric",
+        "last_name": "Christensen Arocena",
+        "email": "ericchristensen59@gmail.com",
+        "phone": "+542262568196",
+        "location": {
+            "country": "Argentina",
+            "city": "Tandil",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/eric-christensen-arocena",
+        "website": "",
+        "portfolio": "https://github.com/Excelsior50",
+        "summary": "Backend lead with proven expertise in Python, SQL, and frameworks like Django and Flask. Skilled in building and managing APIs, integrating third-party services, and optimizing database solutions. Recognized for leadership abilities, fostering collaboration, and delivering scalable, high-quality projects. Focused on enhancing team synergy, maintaining adaptability, and improving organizational efficiency."
+    },
+    "work_experience": [
+        {
+            "job_title": "Backend Developer Lead",
+            "company": "Igrowker (Training Camp)",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Lead backend development of applications using Django, integrating the API to optimize data and service management in real projects.",
+                "Designed and implemented restfulAPIs to ensure efficient communication between systems, improving software interoperability.",
+                "Integrated PostgreSQL databases, ensuring optimal performance in queries and handling of large volumes of information.",
+                "Promoted good development practices such as modularity, error handling and process optimization, improving code quality and scalability.",
+                "Collaborated with multidisciplinary teams to resolve technical challenges, facilitating on-time deliveries and with high quality standards."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Technical Support",
+            "company": "Sector 7",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Delivered personalized technical support, including tailored advice and detailed reports to meet customer needs.",
+                "Performed comprehensive diagnostics and resolved hardware and software issues.",
+                "Specialized in custom equipment assembly, preventive maintenance, and repair of PCs, laptops, tablets, and smartphones.",
+                "Oversaw inventory control, managed stock levels, and ensured efficient store ordering processes to maintain smooth operations."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Technical Support",
+            "company": "Temperies S.A.",
+            "location": "",
+            "start_date": "2021-03-01",
+            "end_date": "2021-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Efficiently managed and resolved company-wide incidents across various departments using Mantis.",
+                "Provided remote assistance via Zoom, Google Meet, Discord, AnyDesk, and TeamViewer, ensuring timely issue resolution.",
+                "Conducted maintenance of workspaces, installed security cameras, and managed structured cabling.",
+                "Supervised inventory control, coordinated equipment recycling initiatives, and ensured optimal stock levels.",
+                "Delivered preventive maintenance, responded to technical incidents, and performed customized PC assembly tailored to specific roles and needs."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Attention to the Public",
+            "company": "Municipality Of Tandil",
+            "location": "",
+            "start_date": "2015-05-01",
+            "end_date": "2021-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Traffic inspector (2015 - 2018): Order and direct traffic. Exercise control of parking on public roads. Prevent and be the authority for inspection and verification of violations of current regulations on traffic and transportation.",
+                "Pretreatment for recycling process or efficient reuse of hardware."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "University Technician in Computer Application Development",
+            "institution": "National University of the Center of the Province of Buenos Aires",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2021-01-01",
+            "hours": 0
+        },
+        {
+            "degree": "Systems Engineering",
+            "institution": "National University of the Center of the Province of Buenos Aires",
+            "location": "",
+            "start_date": "2011-01-01",
+            "end_date": "2014-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "National Bachelor and Facilities Technician in Electromechanics",
+            "institution": "E.E.E. Nº 2 Gral Mariano Necochea",
+            "location": "",
+            "start_date": "2007-01-01",
+            "end_date": "2010-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "sql",
+                "django",
+                "flask",
+                "rest-apis",
+                "postgresql",
+                "mongodb",
+                "ci/cd-pipelines",
+                "docker"
+            ],
+            "soft": [
+                "problem-solving",
+                "critical-thinking",
+                "proactivity",
+                "fast-learning",
+                "leadership",
+                "team-collaboration"
+            ],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Backend Developer (Django) & Leadership",
+            "issuing_organization": "Igrowker",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "FullStack Python",
+            "issuing_organization": "Codo A Codo",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Data, Python, and SQL",
+            "issuing_organization": "SoloLearn",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "MongoDB and PyMongo",
+            "issuing_organization": "Mongo Academy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Docker Fundamentals",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "QA Advanced",
+            "issuing_organization": "UTN & Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B2/C1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

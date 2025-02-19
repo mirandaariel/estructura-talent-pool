@@ -1,0 +1,119 @@
+{
+    "personal_info": {
+        "first_name": "Otar",
+        "last_name": "Kebadze",
+        "email": "OtarKebadze@gmail.com",
+        "phone": "+56932045092",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador FrontEnd",
+            "company": "Semillero LATAM",
+            "location": "Mendoza, Argentina",
+            "start_date": "2022-04-01",
+            "end_date": "2022-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de vistas en HTML/CSS.",
+                "Integración del Backend con el FrontEnd usando JavaScript y Java.",
+                "Reuniones diarias aplicando metodologías KANBAN."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FrontEnd y Backend",
+            "company": "Freelance",
+            "location": "Mendoza, Argentina y Viña del Mar, Chile",
+            "start_date": "2022-01-01",
+            "end_date": "2023-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de proyecto de tienda online con login, autenticación, registro de usuarios y funcionalidades de compra y chat.",
+                "Implementación del frontend utilizando EJS y HTML, y construcción del backend con NODEJS y MONGODB.",
+                "Configuración de errores y end-points utilizando HOSTINGER.",
+                "Desarrollo de página estática para gimnasio en HTML y CSS con formulario de contacto.",
+                "Desarrollo de proyecto para restaurante de comida sana con ReactJS y carrito de compra usando FIREBASE."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollador Fullstack (MERN)",
+            "institution": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Primaria y Secundaria",
+            "institution": "Escuela Manuel Láinez y San Luis Gonzaga",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "react-js",
+                "javascript",
+                "node-js",
+                "mongodb",
+                "express-js",
+                "mysql",
+                "python"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "met.-agiles-(kanban)",
+                "word",
+                "excel",
+                "powerpoint"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Medio"
+        },
+        {
+            "language": "Ruso",
+            "proficiency": "Medio"
+        },
+        {
+            "language": "Georgiano",
+            "proficiency": "Fluido"
+        },
+        {
+            "language": "Español",
+            "proficiency": "Fluido"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

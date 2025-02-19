@@ -1,0 +1,127 @@
+{
+  "personal_info": {
+    "first_name": "Giuliano",
+    "last_name": "Raschetti",
+    "email": "giuliano.raschetti@gmail.com",
+    "phone": "+54 911 6160 7987",
+    "location": {
+      "country": "Argentina",
+      "city": "Buenos Aires",
+      "state": ""
+    },
+    "linkedin": "",
+    "website": "",
+    "portfolio": "Link 1 Link 2 Link 3",
+    "summary": "Soy un Desarrollador Web Junior entusiasta, buscando crecer a través de pasantías o roles de nivel inicial. Me destaco en el trabajo en equipo, la resolución de problemas y la comunicación, y disfruto colaborando con otros para enfrentar desafíos y alcanzar objetivos. Me adapto rápidamente a nuevas tecnologías y tomo decisiones basadas en datos, gracias a mi pensamiento crítico. Además, tengo una buena gestión del tiempo y habilidades interpersonales que me permiten cumplir con los plazos y mantener un ambiente de trabajo positivo. Soy una persona comprometida y detallista, con experiencia en SQL, MySQL, HTML5, CSS, Java, JavaScript, Node.js, y herramientas modernas como Docker, Heroku y sistemas CRM. Hablo inglés con fluidez profesional y me encanta aprender continuamente y mejorar los procesos de desarrollo."
+  },
+  "work_experience": [
+    {
+      "job_title": "Personal de Rampa",
+      "company": "Aerolíneas Argentinas",
+      "location": "",
+      "start_date": "2019-01-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Encargado de la carga y descarga de equipaje.",
+        "Operación de equipos de manejo de aeronaves.",
+        "Aseguramiento de carga y coordinación de embarques y desembarques.",
+        "Mantenimiento de la seguridad en la plataforma.",
+        "Proporcionar asistencia a pasajeros y asegurar el cumplimiento de normativas de seguridad."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Developer Web Full Stack (Trainee)",
+      "company": "Digital House",
+      "location": "",
+      "start_date": "2021-01-01",
+      "end_date": "2022-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Creación de E-commerce de vehículos cero kilómetro de media y alta gama a lo largo de la cursada implementando conceptos y tecnologías aprendidas."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Agente de servicio al pasajero",
+      "company": "Latam",
+      "location": "",
+      "start_date": "2017-01-01",
+      "end_date": "2018-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Asistencia a los pasajeros en el check-in.",
+        "Manejo de cambios y cancelaciones de vuelos.",
+        "Resolución de problemas relacionados con el equipaje.",
+        "Facilitar el embarque y desembarque.",
+        "Ofrecer información sobre vuelos y políticas y asegurar una experiencia de viaje fluida y satisfactoria."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Tecnicatura Universitaria en Programación",
+      "institution": "UTN",
+      "location": "",
+      "start_date": "2024-01-01",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "",
+      "institution": "Digital House",
+      "location": "",
+      "start_date": "2021-01-01",
+      "end_date": "2022-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "sql",
+        "mysql",
+        "html5",
+        "css",
+        "java",
+        "javascript",
+        "node.js",
+        "docker",
+        "heroku",
+        "crm"
+      ],
+      "soft": [
+        "trabajo-en-equipo",
+        "resolución-de-problemas",
+        "comunicación",
+        "pensamiento-lógico",
+        "gestión-del-tiempo"
+      ],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Competencia Profesional"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

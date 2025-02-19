@@ -1,0 +1,170 @@
+{
+    "personal_info": {
+        "first_name": "Luciano Nicolás",
+        "last_name": "Navarro",
+        "email": "askinglucho@gmail.com",
+        "phone": "1150047952",
+        "location": {
+            "country": "Argentina",
+            "city": "Florencio Varela",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy Desarrollador Back-End con experiencia en tecnologías como NodeJS, React, Express, PostgreSQL y AWS. Durante una práctica reciente como QA Tester, desarrollé y reparé pruebas unitarias para validar funcionalidades de modelos de inteligencia artificial de OpenAI, Anthropic y GroqAI, además de solucionar bugs en una aplicación Chatbot. He completado cursos como Salesforce Trailblazer, AWS Cloud Practitioner, NestJS, Docker Compose y Patrones de diseño en JavaScript/TypeScript. Uno de mis mayores logros en equipo fue desarrollar una aplicación que conecta animales con oportunidades de adopción, junto con una tienda virtual para recaudar fondos destinados a su cuidado. Apasionado por la tecnología y el aprendizaje continuo, disfruto enfrentar desafíos que fortalezcan mis habilidades técnicas y blandas. Valoro la colaboración en equipo, la comunicación efectiva y la creación de un ambiente de trabajo positivo. Me considero un pensador creativo, autodidacta, resolutivo con orientación al detalle y capaz de trabajar eficientemente bajo presión."
+    },
+    "work_experience": [
+        {
+            "job_title": "QA Tester IA",
+            "company": "Wisely",
+            "location": "",
+            "start_date": "2024-04-15",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollar y mantener pruebas unitarias en Python para garantizar la funcionalidad del backend de inteligencia artificial, evaluando características de modelos desarrollados por empresas como Anthropic, OpenAI y Groq.",
+                "Automatizar la ejecución de pruebas integrándolas en workflows de CI/CD en GitHub Actions, permitiendo su despliegue eficiente en la nube.",
+                "Diagnosticar y resolver bugs investigando su origen en los distintos niveles de la arquitectura de la aplicación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Back-end Developer",
+            "company": "Cunda",
+            "location": "",
+            "start_date": "2023-11-23",
+            "end_date": "2024-01-12",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementar autenticación y autorización utilizando JWT para generar, decodificar y validar tokens de usuario.",
+                "Diseñar y desplegar pilas de AWS CloudFormation para provisionar recursos como API Gateway y Lambda.",
+                "Configurar instancias de los servicios Chat Completions y Assistant de OpenAI.",
+                "Deployar la interfaz del cliente mediante AWS CloudFront y AWS S3."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Asistente de enseñanza",
+            "company": "Henry Full Stack",
+            "location": "",
+            "start_date": "2022-10-03",
+            "end_date": "2022-12-03",
+            "currently_working": false,
+            "responsibilities": [
+                "Coordinar a un grupo de estudiantes para lograr la integración al equipo de estudio.",
+                "Asistir a la resolución de ejercicios y promover la colaboración grupal.",
+                "Proponer ideas para la mejora de los procesos del Bootcamp."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Salesforce Administrator & Developer",
+            "institution": "SoyHenry/Salesforce Trailblazer",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 200
+        },
+        {
+            "degree": "Full Stack Developer",
+            "institution": "SoyHenry",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "Udemy Business",
+            "institution": "Udemy",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 60
+        },
+        {
+            "degree": "Chef Profesional e Internacional",
+            "institution": "La Escuela del Chef",
+            "location": "",
+            "start_date": "2011-01-01",
+            "end_date": "2013-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "salesforce",
+                "typescript",
+                "javascript",
+                "python",
+                "qa-ia",
+                "unit-test",
+                "jwt",
+                "node.js",
+                "express.js",
+                "sequelize",
+                "nestjs",
+                "typeorm",
+                "docker",
+                "aws",
+                "postgresql",
+                "mongodb",
+                "websocket"
+            ],
+            "soft": [
+                "autodidacta",
+                "orientación-al-detalle",
+                "iniciativa",
+                "resolver-problemas",
+                "trabajador-en-equipo",
+                "automotivación",
+                "curiosidad",
+                "escucha-activa",
+                "empático"
+            ],
+            "tools": [
+                "metodologías-ágeile",
+                "scrum",
+                "trello"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Full Stack Developer - El Mundo Dulce de Marité",
+            "description": "Implementé Cloudinary-React y NodeMailer en una aplicación para la creación de cursos y gestión de correos electrónicos.",
+            "technologies": ["cloudinary-react", "nodemailer"],
+            "url": ""
+        },
+        {
+            "name": "Full Stack Developer - Buddy ONG",
+            "description": "Desarrollé un dashboard administrativo y configuré Cloudinary-React para facilitar la carga de imágenes.",
+            "technologies": ["cloudinary-react", "nodemailer"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Upper Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

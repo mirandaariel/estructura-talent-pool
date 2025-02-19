@@ -1,0 +1,99 @@
+{
+    "personal_info": {
+        "first_name": "Hernan",
+        "last_name": "Arcadio Borja",
+        "email": "hernan-borja@hotmail.com.ar",
+        "phone": "+54 11 2854-1851",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Busco desarrollar mis habilidades y conocimientos obtenidos aplicándolos al ámbito laboral en el campo de Sistemas y Programación. Así mismo, es mi prioridad ir aprendiendo herramientas y capacidades tanto individuales como de trabajo en equipo en el área, por lo que destaco mi plena dedicación a la hora de vincularme a un proyecto y responsabilidad al momento de afrontar un desafío."
+    },
+    "work_experience": [
+        {
+            "job_title": "Soporte Técnico",
+            "company": "TeleRed",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Agente de Tránsito",
+            "company": "DGCATRA",
+            "location": "CABA",
+            "start_date": "2017-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": ["Funciones segun Ley 2148 Código de Tránsito y Transporte"],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Sistemas",
+            "institution": "Universidad General Sarmiento (UNGS)",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Electromecánico",
+            "institution": "Escuela de Educación Técnica N°2",
+            "location": "Los Polvorines",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Armado y Reparación de PC",
+            "institution": "IAC",
+            "location": "",
+            "start_date": "2013-01-01",
+            "end_date": "2013-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["java", "python", "css-3", "html-5", "mysql", "javascript"],
+            "soft": [],
+            "tools": ["git", "cisco-ccna"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Curso FrontEnd JS",
+            "issuing_organization": "Talento Tech",
+            "issue_date": "2024-01-01",
+            "expiration_date": "2024-12-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Programa Oracle Next Education Back-end",
+            "issuing_organization": "Alura LATAM",
+            "issue_date": "2023-01-01",
+            "expiration_date": "2023-12-31",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,125 @@
+{
+    "personal_info": {
+        "first_name": "Javier",
+        "last_name": "Márquez",
+        "email": "hello.jmarquez@gmail.com",
+        "phone": "+593985776487",
+        "location": {
+            "country": "Ecuador",
+            "city": "Guayaquil",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/javier-marquez-web-front-end/",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador frontend Web - Consultor IT & SEO",
+            "company": "Success Journey",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Construí una web y la api de un sitio web para informes provisionales de ahorro para el retiro.",
+                "Construí el front de un simulador de pensiones en reactjs y Nodejs.",
+                "Construí una aplicación móvil en React Native, de criptos y billetera virtual.",
+                "Desarrollo de componentes reutilizables.",
+                "Planificación del flujo de aplicaciones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web Freelance",
+            "company": "Mejubilo.com",
+            "location": "",
+            "start_date": "2022-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachiller en informática",
+            "institution": "Colegio Particular Mixto Provincia de Galápagos",
+            "location": "",
+            "start_date": "",
+            "end_date": "2007-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript",
+                "reactjs",
+                "api-restful",
+                "nodejs",
+                "expressjs",
+                "nextjs",
+                "wordpress",
+                "responsive-design"
+            ],
+            "soft": [
+                "problem-solving",
+                "collaborative",
+                "team-player",
+                "self-starter"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Frontend Web developer, Modern Javascript",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-06-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Introducción al desarrollo web I, Introducción al desarrollo web II",
+            "issuing_organization": "Google Activate",
+            "issue_date": "2023-04-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nivel nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Colaborador",
+            "organization": "11defebrero.org",
+            "location": "Remote",
+            "start_date": "",
+            "end_date": "",
+            "responsibilities": [
+                "Ayudar a la visibilidad de niñas y mujeres en la industria tecnológica."
+            ]
+        }
+    ],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,106 @@
+{
+    "personal_info": {
+        "first_name": "Sebastian",
+        "last_name": "Cereto",
+        "email": "sebastiancereto@gmail.com",
+        "phone": "1131894563",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/sebastian-cereto/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Licenciado en Gestión Tecnológica con experiencia en administración de bases de datos, soporte técnico y desarrollo en .NET y SQL. Enfocado en la optimización de proyectos y resolución de problemas tecnológicos."
+    },
+    "work_experience": [
+        {
+            "job_title": "DBA SQL",
+            "company": "DXC Technology",
+            "location": "",
+            "start_date": "2022-03-01",
+            "end_date": "2022-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión de tickets",
+                "Manejo de ticketeras de los diferentes clientes",
+                "Gestión de reportes"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "DBA SQL",
+            "company": "Boston Seguros",
+            "location": "",
+            "start_date": "2021-10-01",
+            "end_date": "2022-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión y documentación de la base de datos",
+                "Manejo de cláusulas SQL (Select, Insert, Update, Delete)"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciado en Gestión Tecnológica",
+            "institution": "Universidad de La Matanza",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Analista de Sistemas",
+            "institution": "Instituto Santa María",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "mysql", "c++", ".net", "sql", "java", "asp.net", "c#", "linq", ".net-core", "python", "microsoft-sql-server", "windows-server", "linux", "azure"
+            ],
+            "soft": [
+                "adaptabilidad", "resolutivo", "comunicacion", "proactividad"
+            ],
+            "tools": [
+                "trello", "office-365", "service-now", "power-bi"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Edgardo Martin",
+            "relationship": "Gerente de Sistemas",
+            "contact": "54 9 11 5752-5517"
+        },
+        {
+            "name": "Jorge Font",
+            "relationship": "Manager",
+            "contact": "54 9 1148880232"
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+  "personal_info": {
+    "first_name": "Santiago",
+    "last_name": "Dietrich",
+    "email": "santydietrich@gmail.com",
+    "phone": "+54 9 2284-624232",
+    "location": {
+      "country": "Argentina",
+      "city": "Olavarría",
+      "state": "Buenos Aires"
+    },
+    "linkedin": "https://www.linkedin.com/in/santiagodietrich",
+    "website": "",
+    "portfolio": "https://portfolio-delta-bay-53.vercel.app/",
+    "summary": "Desarrollador Front End con enfoque en la construcción de interfaces digitales sofisticadas y altamente eficientes. Apasionado por la programación y con habilidades para el trabajo en equipo."
+  },
+  "work_experience": [
+    {
+      "job_title": "Desarrollador Front End",
+      "company": "Moments Events",
+      "location": "Remoto",
+      "start_date": "2024-05",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollo de componentes y funciones para la interfaz de usuario.",
+        "Implementación de paginación para diferentes tipos de eventos.",
+        "Creación de maquetas en Figma para validar la experiencia del usuario.",
+        "Integración de Google Calendly para programación de reuniones."
+      ],
+      "achievements": [],
+      "repository_url": "https://github.com/MicaListe/Moments"
+    },
+    {
+      "job_title": "Desarrollador Front End",
+      "company": "Olimpus Shop",
+      "location": "Experiencia Académica (Henry Bootcamp)",
+      "start_date": "2023-11",
+      "end_date": "2024-01",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo de un sistema de reviews para productos.",
+        "Creación de la barra de búsqueda y la página de resultados.",
+        "Desarrollo de la página de perfil de usuario con información personal."
+      ],
+      "achievements": [],
+      "repository_url": "https://github.com/michiqueli/olimpus_front"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Full Stack Web Developer",
+      "institution": "Henry Bootcamp",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2024-12-31",
+      "hours": 800
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "javaScript",
+        "react.js",
+        "next.js",
+        "vite",
+        "css",
+        "html5",
+        "redux-thunk",
+        "redux-toolkit",
+        "tailwind-css",
+        "bootstrap"
+      ],
+      "soft": [
+        "responsabilidad",
+        "organización",
+        "trabajo-en-equipo",
+        "proactividad"
+      ],
+      "tools": [
+        "figma",
+        "jira",
+        "trello"
+      ]
+    },
+    "detailed": {
+      "technical": {
+        "javaScript": [
+          {
+            "name": "Manipulación del DOM",
+            "repository_url": "https://github.com/santiagodietrich/js-dom"
+          },
+          {
+            "name": "Asincronía y Promesas",
+            "repository_url": "https://github.com/santiagodietrich/js-async"
+          }
+        ],
+        "react.js": [
+          {
+            "name": "React Hooks (useState, useEffect)",
+            "repository_url": "https://github.com/santiagodietrich/react-hooks"
+          },
+          {
+            "name": "Gestión de Estado con Redux",
+            "repository_url": "https://github.com/santiagodietrich/redux-toolkit"
+          }
+        ],
+        "next.js": [
+          {
+            "name": "Server-Side Rendering",
+            "repository_url": "https://github.com/santiagodietrich/nextjs-ssr"
+          }
+        ]
+      },
+      "soft": {
+        "responsabilidad": [
+          {
+            "name": "Cumplimiento de plazos",
+            "description": "Capacidad para entregar proyectos dentro de los tiempos estimados."
+          }
+        ],
+        "trabajo-en-equipo": [
+          {
+            "name": "Colaboración en proyectos",
+            "description": "Experiencia en metodologías ágiles y herramientas de gestión de proyectos."
+          }
+        ]
+      }
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Intermedio (B1)"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

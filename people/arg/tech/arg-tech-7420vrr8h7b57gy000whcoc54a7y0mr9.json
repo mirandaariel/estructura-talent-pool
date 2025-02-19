@@ -1,0 +1,84 @@
+{
+  "personal_info": {
+    "first_name": "Emmanuel",
+    "last_name": "Gomez",
+    "email": "Emmanuelgomez082017@hotmail.com",
+    "phone": "1136674040",
+    "location": {
+      "country": "Argentina",
+      "city": "Villa Bosch",
+      "state": "Buenos Aires"
+    },
+    "linkedin": "https://www.linkedin.com/in/emmanuel-gomez-analista",
+    "website": "https://github.com/Zafari680",
+    "portfolio": "",
+    "summary": "Soy un apasionado de la ciberseguridad enfocado en el análisis de vulnerabilidades y la mejora de la seguridad en entornos web y de redes. Con conocimientos en herramientas como Nmap, Burp Suite y OWASP ZAP, busco aportar al equipo de seguridad identificando y reportando vulnerabilidades para proteger los sistemas de amenazas crecientes."
+  },
+  "work_experience": [
+    {
+      "job_title": "Freelance Pentester",
+      "company": "Hackerone",
+      "location": "",
+      "start_date": "2023-02-01",
+      "end_date": "2023-12-31",
+      "currently_working": true,
+      "responsibilities": [
+        "Reconocimiento y análisis de vulnerabilidades comunes: Realización de análisis de superficie de ataque en aplicaciones web y móviles, buscando vulnerabilidades como inyecciones SQL, XSS (Cross-Site Scripting), y fallos en la configuración de seguridad.",
+        "Uso de herramientas de pentesting: Experiencia práctica con herramientas como Burp Suite, Nmap, y OWASP ZAP para identificar y explotar vulnerabilidades en entornos controlados.",
+        "Reportes de vulnerabilidades: Participación activa en la plataforma HackerOne, reportando hallazgos menores como errores en la autenticación, fallos de control de acceso, o vulnerabilidades CSRF (Cross-Site Request Forgery)."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Tecnico superior en desarrollo de software",
+      "institution": "IFTS N4 Mataderos",
+      "location": "Buenos Aires, Argentina",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "nmap",
+        "burp-suite",
+        "owasp-zap",
+        "nikto",
+        "kali-linux"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {}
+  },
+  "certifications": [
+    {
+      "name": "Copilot Security",
+      "issuing_organization": "Linkedin Learning",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Introduccion y seguridad en redes",
+      "issuing_organization": "Evilsec",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    }
+  ],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "B2 Intermedio"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}
