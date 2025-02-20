@@ -1,0 +1,158 @@
+{
+    "personal_info": {
+        "name": "Jairo Sánchez",
+        "title": "Desarrollador Front-End",
+        "email": "jairosanchezb5@gmail.com",
+        "phone": "+34 625251517",
+        "summary": "Desarrollador Front-End con 3 años de experiencia en React, Angular, JavaScript y TypeScript. Especializado en crear interfaces de usuario responsivas, accesibles y escalables. He trabajado en sectores como banca y recursos humanos, desarrollando componentes reutilizables, integrando APIs REST y optimizando el rendimiento de aplicaciones. Con experiencia en entornos ágiles, destaco por colaborar eficientemente en equipos y aportar soluciones técnicas de alta calidad."
+    },
+    "work_experience": [
+        {
+            "position": "Desarrollador Front-End - Sector RRHH (Chat-Bot)",
+            "company": "Scalian",
+            "location": "Málaga",
+            "duration": "2024-06 - 2024-10",
+            "responsibilities": [
+                "Desarrollo de pantallas, estructuración del proyecto y componentes con React, JavaScript y Zustand.",
+                "Propuestas de mejoras en el proceso de desarrollo y revisión de pull requests."
+            ],
+            "technologies": [
+                "React 18.2",
+                "Zustand",
+                "Material-UI 5",
+                "Vite",
+                "PNPM",
+                "Tanstack (Query, Form, Router)"
+            ]
+        },
+        {
+            "position": "Desarrollador Front-End - Sector Bancario (Santander)",
+            "company": "Santander",
+            "location": "Remoto",
+            "duration": "2023-05 - 2024-06",
+            "responsibilities": [
+                "Maquetación y desarrollo de nuevas pantallas en React.",
+                "Integración y creación de componentes con Material-UI para interfaces atractivas."
+            ],
+            "technologies": [
+                "React",
+                "Redux",
+                "JavaScript",
+                "NodeJS",
+                "Material-UI (MUI)"
+            ]
+        },
+        {
+            "position": "Desarrollador Front-End - Sector Bancario (BBVA)",
+            "company": "Accenture",
+            "location": "Madrid",
+            "duration": "2022-06 - 2023-05",
+            "responsibilities": [
+                "Creación de pantallas y componentes con Adobe Experience Manager (AEM), Lit Element, JavaScript y CSS.",
+                "Testing con Jest (unitarios), Maggie Cucumber (funcionales) y Gherkin (BDD)."
+            ],
+            "technologies": [
+                "Lit Element",
+                "JavaScript",
+                "CSS3",
+                "SASS",
+                "HTML5",
+                "AEM",
+                "Jest",
+                "Gherkin"
+            ]
+        },
+        {
+            "position": "Desarrollador Front-End - Angular e Ionic",
+            "company": "Digital55",
+            "location": "Madrid",
+            "duration": "2022-02 - 2022-05",
+            "responsibilities": [
+                "Implementación de Angular Material y desarrollo de componentes personalizados como ngx-spinner.",
+                "Diseño y adaptación de interfaces con Angular Material e Ionic."
+            ],
+            "technologies": [
+                "Angular",
+                "Ionic",
+                "Angular Material",
+                "ngx-spinner",
+                "Jira"
+            ]
+        },
+        {
+            "position": "Desarrollador Front-End - Maquetación con Riot y JavaScript",
+            "company": "Jaraxa",
+            "location": "Rincón de la Victoria",
+            "duration": "2021-08 - 2021-12",
+            "responsibilities": [
+                "Maquetación de interfaces utilizando Riot y JavaScript.",
+                "Gestión de tareas mediante Jira en metodologías ágiles."
+            ],
+            "technologies": [
+                "Riot",
+                "JavaScript",
+                "Jira"
+            ]
+        },
+        {
+            "position": "Desarrollador Front-End - Proyecto GIS (Angular)",
+            "company": "Fisotec",
+            "location": "Jaén",
+            "duration": "2021-03 - 2021-07",
+            "responsibilities": [
+                "Desarrollo de interfaces en un proyecto GIS con Angular.",
+                "Implementación de directivas como NgIf, NgFor y gestión de eventos."
+            ],
+            "technologies": [
+                "Angular"
+            ]
+        },
+        {
+            "position": "Desarrollo Full-Stack - Proyecto E-commerce Multisectorial",
+            "company": "Freelance",
+            "location": "Remoto",
+            "duration": "2021-01 - 2021-06",
+            "responsibilities": [
+                "Desarrollo de plataforma de e-commerce adaptable a distintos sectores.",
+                "Implementación de interfaz para cliente y panel de administración con PHP y JavaScript."
+            ],
+            "technologies": [
+                "PHP",
+                "JavaScript",
+                "MySQL",
+                "XAMPP",
+                "phpMyAdmin"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollo Multiplataforma Web, Grado Superior",
+            "institution": "Cesur",
+            "location": "Málaga",
+            "duration": "2019-09 - 2021-07"
+        }
+    ],
+    "skills": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Angular",
+        "LitElement",
+        "Zustand",
+        "Redux",
+        "Material-UI",
+        "Git",
+        "GitHub",
+        "Jira",
+        "Visual Studio Code",
+        "API REST",
+        "Responsive Design",
+        "Metodologías ágiles (Scrum)"
+    ],
+    "languages": {
+        "Español": "Nativo",
+        "Inglés": "B1/B2",
+        "Italiano": "B1/B2"
+    }
+}
