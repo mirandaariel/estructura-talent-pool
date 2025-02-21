@@ -1,80 +1,31 @@
 # Estructura Talent Pool
-Repositorio de CVs en formato texto plano en un archivo TXT.
+Repositorio de CVs en texto plano con formato JSON.
 
 Repositorio colaborativo para cualquier persona que busque empleo.
-Por la naturaleza de la fuente es afin de ser utilizado por desarrolladores junior y senior (+40) en búsqueda laboral u otros perfiles tecnicos.
+Por la naturaleza de la fuente es afín de ser utilizado por desarrolladores junior y senior (+40) en búsqueda laboral u otros perfiles técnicos.
 
 ## Creador
-Sigueme en LinkedIn si te parece que la iniciativa tiene valor: https://www.linkedin.com/in/mirandaariel/
+Sígueme en LinkedIn si te parece que la iniciativa tiene valor: https://www.linkedin.com/in/mirandaariel/
 
 Se lanzó un Curso de Inglés Gratuito en YouTube diariamente a las 19hs: https://www.youtube.com/@estructura
-
-Para favorecer a la gestión registrate en: https://app.estructura.co/initiatives/human-development/subscription/user-data
 
 ## Objetivo
 Datos totalmente abiertos para consumo de cualquier entidad que proponga facilitar la conexión con empleadores tecnológicos.
 
 ## Cómo participar
-1. Fork este repositorio
-2. Crea tu archivo CV siguiendo el formato estándar
-3. Envía un Pull Request
 
-## Nomenclatura de archivos:
-[ISO PAÍS]-[TIPO DOC]-[NRO DOC]
+Suscribirse en: 
+https://app.estructura.co/initiatives/human-development/subscription
 
-ISO PAÍS: alpha-3 (código de 3 letras) https://en.wikipedia.org/wiki/ISO_3166-1
+Luego de la suscripción conectar conmigo en LinkedIn para facilitar la comunicación
+https://www.linkedin.com/in/mirandaariel/
 
-Ejemplos:
-- ARG-DNI-12345678
-- ESP-NIE-X1234567Y
-- PER-DNI-12345678
+Cuando se tenga que enviar el archivo CV, puede enviarse en el formato de archivo que se disponga.
 
-## Estructura del archivo CV
+El archivo ingresará a un proceso automático donde se convertirá al formato JSON.
 
-Utilizar el archivo: template.txt 
+Si se desea ver ejemplos, consultar:
 
-El archivo debe ser utilizado como referencia de la estructura del contenido. Poner atención en no actulizarlo ni eliminarlo cuando realicen el Pull Request.
+- Archivo input: cv-template.txt
+- Archivo output: cv-template.json
 
-Para cubrir el objetivo deben copiar el archivo template.txt, actualizarlo con sus datos y ubicarlo en la carpeta correspondiente segun su código de país.
-
-Si la carpeta de país no existe, entonces deben crear una nueva.
-
-
-### Información Personal
-
-- Nombre completo:
-- Edad:
-- Ubicación:
-- Email:
-- LinkedIn:
-- GitHub:
-- Portfolio:
-
-### Resumen Profesional
-
-[Breve descripción de tu perfil y objetivos profesionales]
-
-### Habilidades Técnicas
-
-- Lenguajes:
-- Frameworks:
-- Bases de datos:
-- Herramientas:
-- Metodologías:
-
-### Experiencia Laboral
-
-[Empresa] - [Cargo] - [Fecha inicio (YYYY-MM-DD)] - [Fecha fin (YYYY-MM-DD)]
-- Logros y responsabilidades
-
-### Proyectos Destacados
-[Nombre del Proyecto]
-- Descripción:
-- Tecnologías:
-- Link:
-
-### Educación
-[Institución] - [Título] - [Año]
-
-### Idiomas
-- [Idioma]: [ Nivel ]
