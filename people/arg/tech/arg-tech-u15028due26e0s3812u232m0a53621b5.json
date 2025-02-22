@@ -1,0 +1,150 @@
+{
+    "personal_info": {
+        "first_name": "German",
+        "last_name": "Gonzalez",
+        "email": "negerman@hotmail.com.ar",
+        "phone": "2236344071",
+        "location": {
+            "country": "Argentina",
+            "city": "Mar del Plata",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/german-gonzalez-a292822b2",
+        "website": "https://github.com/GGermanGonzalez",
+        "portfolio": "",
+        "summary": "Full Stack Developer con experiencia en Docencia, conocimientos en Metodologías Ágiles, Git, GitHub, Estructura de Datos, Algoritmos, Html, Css, JavaScript, TypeScript, Next.JS, React.JS, Bootstrap, Tailwind Css, Node.JS, Express, Mongoose, MongoDB, PostgreSQL."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Henry-Autonomo",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Trabajé en tecnologías como Css, Html, JavaScript, TypeScript, Node.js, Express, Mongoose, MongoDB, PostgreSQL, Next.js, React.js, Bootstrap, Tailwind Css,en diversos proyectos individuales y grupales.",
+                "Afianzé mis conocimientos técnicos y desarrollé habilidades blandas como el trabajo en equipo, la comunicación y la gestión de proyectos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Docente",
+            "company": "Escuela E.E.S.N°7",
+            "location": "",
+            "start_date": "2017-09-01",
+            "end_date": "2024-03-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Impartí clases a estudiantes de secundaria.",
+                "Brindé a los estudiantes una comprensión profunda de los principios de la materia, fomentando su pensamiento crítico y capacidad para resolver problemas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "Profesor Docencia Industrial",
+            "institution": "U.T.N.",
+            "location": "",
+            "start_date": "2014-03-01",
+            "end_date": "2015-08-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "next.js",
+                "react.js",
+                "css",
+                "html",
+                "node.js",
+                "express",
+                "mongoose",
+                "mongodb",
+                "postgresql"
+            ],
+            "soft": [
+                "comunicación",
+                "trabajo-en-equipo",
+                "gestión-de-proyectos"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "scrum",
+                "bootstrap",
+                "tailwind-css"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sitio Web Estudio Lenguajes de Programacion",
+            "description": "Plataforma de estudio de Programación con suscripción y pagos mediante Mercado Pago.",
+            "technologies": [
+                "typescript",
+                "next.js",
+                "tailwind-css",
+                "nest.js",
+                "postgresql"
+            ],
+            "url": "https://dev-navigator.vercel.app/"
+        },
+        {
+            "name": "E-Commerce",
+            "description": "Aplicación de Principios UX/UI en maquetado de componentes.",
+            "technologies": [
+                "typescript",
+                "next.js",
+                "tailwind-css",
+                "express",
+                "postgresql"
+            ],
+            "url": "https://github.com/GGermanGonzalez/front-henry-m4-pt20b"
+        },
+        {
+            "name": "Cinema",
+            "description": "Página web de películas con diseño acorde a la temática y enlaces a páginas estáticas.",
+            "technologies": [
+                "typescript",
+                "next.js",
+                "tailwind-css",
+                "express",
+                "postgresql"
+            ],
+            "url": "https://github.com/pi-rym/PM2-GGermanGonzalez"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
