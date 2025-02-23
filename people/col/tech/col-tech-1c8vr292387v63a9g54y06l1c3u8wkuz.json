@@ -1,0 +1,161 @@
+{
+  "personal_info": {
+    "first_name": "Daniela",
+    "last_name": "Osorio",
+    "email": "jedagos1409@gmail.com",
+    "phone": "3014510118",
+    "location": {
+      "country": "Colombia",
+      "city": "Marinilla",
+      "state": ""
+    },
+    "linkedin": "https://linkedin.com/in/daniela-osorio-7a5118207",
+    "website": "",
+    "portfolio": "",
+    "summary": "Desarrolladora web con 4 años de experiencia en aplicaciones web y e-commerce. Responsable, adaptable y comprometida con la calidad del trabajo. Destaco en el trabajo en equipo, con habilidades para liderar o seguir indicaciones según sea necesario. Enfocada en encontrar soluciones innovadoras y eficientes para mejorar la experiencia del usuario y los resultados de negocio."
+  },
+  "work_experience": [
+    {
+      "job_title": "",
+      "company": "VTEX IO",
+      "location": "",
+      "start_date": "2024-10-01",
+      "end_date": "2024-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo backend en VTEX IO, gestionando información en Masterdata (NPS, listas de deseos y reviews) y manejando el estado de órdenes con herramientas de VTEX como hook, feed y broadcaster.",
+        "Uso del IDE de GraphQL para consultas avanzadas, optimizando la interacción entre aplicaciones y datos."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "",
+      "company": "Tita Media",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo back-end con diferentes tecnologías como Java, Spring Boot, Node.js para integrar Vtex con ERPs como Netsuite y otros sistemas personalizados.",
+        "Desarrollo de aplicaciones personalizadas en Vtex IO utilizando Node.js.",
+        "Implementación de pruebas unitarias con JUnit y Mockito para Java, y con Jest para Node.js.",
+        "Uso de Docker para el despliegue de aplicaciones en servidores.",
+        "Utilización de servicios de AWS (EC2, DynemoDB, S3, entre otras) y administración de bases de datos relacionales y no relacionales."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "",
+      "company": "IMEXHS (Imaging Experts and Healthcare Services)",
+      "location": "",
+      "start_date": "2021-03-01",
+      "end_date": "2022-08-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo de nuevas funcionalidades y mantenimiento de aplicaciones web, utilizando Symfony, PostgreSQL, JavaScript, Twig, Bootstrap y CSS.",
+        "Creación de nuevos aplicativos, implementando servicios y gestionando la autenticación máquina a máquina con Auth0.",
+        "Análisis y diseño de aplicaciones, su despliegue en servidores, y pruebas unitarias con PHPUnit para garantizar la calidad del software."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "",
+      "company": "Facultad de Salud Pública Hector Abad Gómez- Universidad de Antioquia",
+      "location": "",
+      "start_date": "2019-11-01",
+      "end_date": "2021-03-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo del front-end y back-end de portales como el de Salud Pública y Salud Mental, utilizando HTML, CSS, JavaScript, Bootstrap y Spring MVC.",
+        "Administración de bases de datos MySQL, manejando consultas y procesos almacenados."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ingeniería de Sistemas",
+      "institution": "Universidad de Antioquia",
+      "location": "",
+      "start_date": "2015-07-01",
+      "end_date": "2024-09-01",
+      "hours": 0
+    },
+    {
+      "degree": "Secundaria",
+      "institution": "Institución Educativa Román Gómez",
+      "location": "",
+      "start_date": "",
+      "end_date": "2024-09-01",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "vtex-io",
+        "vtex",
+        "graphql",
+        "nodejs",
+        "expressjs",
+        "jest",
+        "java",
+        "spring-boot",
+        "junit",
+        "mockito",
+        "docker",
+        "kubernetes",
+        "mysql",
+        "postgressql",
+        "mongodb",
+        "dynamodb",
+        "webflux",
+        "s3",
+        "ec2",
+        "php",
+        "symfony",
+        "phpunit",
+        "typescript",
+        "shopify"
+      ],
+      "soft": [
+        "responsable",
+        "adaptable",
+        "comprometida",
+        "trabajo-en-equipo",
+        "liderazgo",
+        "innovación"
+      ],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [
+    {
+      "name": "Scrum Foundation Professional Certificate SFPC v2020",
+      "issuing_organization": "CertiProf",
+      "issue_date": "2022-08-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Scrum Product Owner Professional Certificate SPOPC v2020",
+      "issuing_organization": "CertiProf",
+      "issue_date": "2022-08-01",
+      "expiration_date": "",
+      "credential_id": ""
+    }
+  ],
+  "projects": [],
+  "languages": [],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

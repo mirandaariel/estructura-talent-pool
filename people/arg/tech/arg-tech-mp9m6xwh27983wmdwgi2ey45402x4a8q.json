@@ -1,0 +1,143 @@
+{
+    "personal_info": {
+        "first_name": "Camila María",
+        "last_name": "Cancela Vila",
+        "email": "camilacancela11@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/camila-cancela-bb2251347",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrolladora Full Stack con experiencia en Python, React y Node.js. Apasionada por el desarrollo de aplicaciones web eficientes y enfocadas en la experiencia del usuario. Experiencia en proyectos académicos y freelance, con habilidades en resolución de problemas, trabajo en equipo y metodologías ágiles. Comprometida con el aprendizaje continuo y la mejora profesional."
+    },
+    "work_experience": [
+        {
+            "job_title": "Python Developer",
+            "company": "UTE",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo y optimización de aplicaciones internas con Python.",
+                "Identificación y corrección de errores, mejorando la funcionalidad del sistema.",
+                "Aplicación de metodologías ágiles para organizar tareas y sprints en equipo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrolladora Full Stack",
+            "company": "Freelance",
+            "location": "Remoto",
+            "start_date": "2024-01-01",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de páginas web responsivas e interactivas con JavaScript y React.",
+                "Creación de juegos web optimizados para navegadores.",
+                "Gestión integral del ciclo de desarrollo, desde la recolección de requisitos hasta la entrega final.",
+                "Comunicación efectiva con clientes, estableciendo lineamientos claros para asegurar la satisfacción del usuario."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnología de la Información",
+            "institution": "CETP/UTU - Facultad de Ingeniería",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "Facultad de Medicina - UDELAR",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Educación secundaria",
+            "institution": "Liceo Zorrilla de San Martín N°4",
+            "location": "",
+            "start_date": "",
+            "end_date": "2017-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "javascript",
+                "typescript",
+                "c++",
+                "java",
+                "html/css"
+            ],
+            "soft": [
+                "resolución-de-problemas",
+                "trabajo-en-equipo",
+                "adaptabilidad",
+                "atención-al-detalle",
+                "organización-y-gestión-del-tiempo",
+                "comunicación-efectiva"
+            ],
+            "tools": [
+                "react",
+                "node.js",
+                "mysql",
+                "git",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {
+                "": []
+            },
+            "soft": {
+                "": []
+            }
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Simulador de Sistema de Archivos",
+            "description": "Implementación de un sistema de archivos sin OOP ni librerías estándar, con gestión manual de memoria.",
+            "technologies": ["c++"],
+            "url": ""
+        },
+        {
+            "name": "Desarrollo de Aplicación Web con Persistencia",
+            "description": "Creación de una aplicación con backend en Java y base de datos en MySQL.",
+            "technologies": ["java", "swing", "mysql"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado"
+        },
+        {
+            "language": "Portugués",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

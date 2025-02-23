@@ -1,0 +1,348 @@
+{
+    "personal_info": {
+        "first_name": "Jairo Leonardo",
+        "last_name": "Sawka",
+        "email": "leonardo.sawka@gmail.com",
+        "phone": "+54 9 351 650 2117",
+        "location": {
+            "country": "Argentina",
+            "city": "Cordoba",
+            "state": "Cordoba"
+        },
+        "linkedin": "https://www.linkedin.com/in/jairo-leonardo-olivera-sawka-623732b4/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Proactive and results-driven Full-Stack Developer with extensive experience in frontend, backend, and database management. Skilled in providing technical guidance to ensure project success and reduce risks. Consistently meeting or exceeding performance expectations across diverse projects."
+    },
+    "work_experience": [
+        {
+            "job_title": "Associate 2",
+            "company": "PricewaterhouseCoopers",
+            "location": "Remote",
+            "start_date": "2022-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Enhanced a React-TypeScript web application for Bristol-Myers Squibb.",
+                "Led the migration of a SharePoint database to a scalable platform.",
+                "Maintained an Azure-based support platform for NBCUniversal."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Project Manager",
+            "company": "OliTeam",
+            "location": "Remote",
+            "start_date": "2020-01-01",
+            "end_date": "2022-10-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Co-founded the organization and oversaw small-scale projects.",
+                "Mentored new developers.",
+                "Implemented programming pathways to accelerate skill development."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Developer",
+            "company": "Halalá",
+            "location": "Remote",
+            "start_date": "2020-01-01",
+            "end_date": "2021-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed a mobile-first e-commerce application.",
+                "Led the UI/UX design process.",
+                "Optimized frontend performance."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Database Manager",
+            "company": "Tecnicina",
+            "location": "Cordoba, Argentina",
+            "start_date": "2013-10-01",
+            "end_date": "2017-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Managed and maintained a commerce database for medical equipment sales.",
+                "Resolved operational issues related to fiscal registration.",
+                "Improved workflow efficiency."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Systems Engineering",
+            "institution": "Universidad Tecnológica Nacional (UTN)",
+            "location": "Argentina",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachelor's Degree in Production of Goods and Services",
+            "institution": "Institute ISADA",
+            "location": "Argentina",
+            "start_date": "2009-01-01",
+            "end_date": "2012-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react.js",
+                "redux",
+                "node.js",
+                "express.js",
+                "mongodb",
+                "postgresql",
+                "mysql",
+                "python",
+                ".net",
+                "c#",
+                "html5",
+                "css3",
+                "tailwindcss",
+                "rest-apis"
+            ],
+            "soft": [
+                "problem-solving",
+                "team-leadership",
+                "adaptability",
+                "effective-communication",
+                "mentorship"
+            ],
+            "tools": [
+                "git",
+                "trello",
+                "miro",
+                "figma",
+                "sharepoint",
+                "azure"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Full Stack Developer by Henry",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "JavaScript by FreeCodeCamp",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Fundamentals of Node by Platzi",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "HTML 5 by Juan Díaz",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "CSS by Juan Díaz",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "C# by Javier Roman",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Introduction to C# by Platzi",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Arduino by Luis Loachamin",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "PL/SQL Oracle by Fernando Herrera",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Security CISCO by Jesus Espinoza",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Git by Maximiliano Burgos",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Telework and Remote Team Management",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Advanced Python - Working With Data",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Python Statistics Essential Training",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Foundational Math for Machine Learning",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Machine Learning Foundations - Statistics",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Machine Learning Foundations - Probability",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Machine Learning Foundations - Calculus",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Machine Learning Foundations - Linear Algebra",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Airtable Project Management",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Scrum Certification",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "OOP Fundamentals",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "UX/UI Design Fundamentals",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Git and GitHub",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Basic Programming Certification",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Japanese A1",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Liquidation of Salaries Certification",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "High B2"
+        },
+        {
+            "language": "Polish",
+            "proficiency": "Elementary A1"
+        },
+        {
+            "language": "Japanese",
+            "proficiency": "Elementary A1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
