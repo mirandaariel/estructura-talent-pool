@@ -3,16 +3,16 @@
         "first_name": "Esteban Damián",
         "last_name": "Tripodi",
         "email": "e.damiantripodi@gmail.com",
-        "phone": "",
+        "phone": "+5491133365278",
         "location": {
             "country": "Argentina",
             "city": "Ciudadela",
-            "state": ""
+            "state": "Buenos Aires"
         },
         "linkedin": "https://www.linkedin.com/in/edamiantripodi/",
         "website": "https://github.com/xKensho47",
         "portfolio": "",
-        "summary": "Desarrollador Fullstack, recién graduado de la Universidad Tecnológica Nacional, con experiencia en resolución de problemas, documentación técnica y control de calidad. Busco aportar mis conocimientos en un entorno colaborativo del sector IT, mientras continuo desarrollándome profesionalmente. Actualmente me encuentro realizando un Diplomado Universitario en Administración de Redes Linux enfocado en ciberseguridad."
+        "summary": "Desarrollador Full Stack con formación académica y experiencia práctica en programación. Me encanta aprender cosas nuevas, meterme de lleno en proyectos y resolver problemas. Busco un ambiente de trabajo donde pueda aportar mis habilidades, seguir creciendo y trabajar en equipo para crear soluciones útiles y eficientes."
     },
     "work_experience": [
         {
@@ -81,15 +81,21 @@
     "certifications": [],
     "projects": [
         {
-            "name": "Proyecto Arcane",
-            "description": "Proyecto realizado en el curso de JavaScript para Frontend en TalentoTech, inspirado por Arcane, con diseño responsive y contenido dinámico.",
-            "technologies": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
+            "name": "QiGong",
+            "description": "Plataforma Web para Emprendimiento (En Desarrollo)",
+            "technologies": ["HTML5", "CSS3", "JavaScript", "JQuery", "Bootstrap", "PHP", "MySQL"],
+            "url": "http://www.sasukeivan.42web.io/?i=2" 
+        },
+        {
+            "name": "Arcane",
+            "description": "Sitio Web Temático (Proyecto realizado para Talento Tech)",
+            "technologies": ["HTML5", "CSS3", "JavaScript", "JQuery", "Bootstrap", "Local Storage"],
             "url": "https://xkensho47.github.io/TalentoTech/"
         },
         {
             "name": "CineFlow",
             "description": "Proyecto grupal para la materia Metodología en Sistemas, inspirado en plataformas como Netflix, con diferentes roles de usuario y funcionalidades.",
-            "technologies": ["HTML5", "CSS3", "JavaScript", "PHP"],
+            "technologies": ["HTML5", "CSS3", "JavaScript", "PHP", "MySQL"],
             "url": "https://github.com/xKensho47/CProyectoMS"
         }
     ],
