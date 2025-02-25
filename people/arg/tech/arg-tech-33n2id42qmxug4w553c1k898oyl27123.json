@@ -1,0 +1,125 @@
+{
+  "personal_info": {
+    "first_name": "Jorge",
+    "last_name": "Bellerate",
+    "email": "jorgebellerate@gmail.com",
+    "phone": "(341) 227-6339",
+    "location": {
+      "country": "Argentina",
+      "city": "Granadero Baigorria",
+      "state": "Santa Fe"
+    },
+    "linkedin": "https://linkedin.com/in/jorge-daniel-bellerate-16278876",
+    "website": "",
+    "portfolio": "https://github.com/pipolag22",
+    "summary": "Estudiante de Programación con experiencia en desarrollo web utilizando Python, C#, JavaScript y React. Apasionado por el aprendizaje continuo y la implementación de metodologías ágiles. Busco aportar mis habilidades técnicas y comunicativas en entornos colaborativos."
+  },
+  "work_experience": [
+    {
+      "job_title": "Auxiliar Administrativo",
+      "company": "Municipalidad de Granadero Baigorria",
+      "location": "Granadero Baigorria, Santa Fe",
+      "start_date": "2023-12-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Gestión de tareas administrativas y atención al público.",
+        "Organización y seguimiento de documentación.",
+        "Soporte en procesos internos municipales."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Inspector de Seguridad Vial",
+      "company": "Municipalidad de Granadero Baigorria",
+      "location": "Granadero Baigorria, Santa Fe",
+      "start_date": "2013-01-01",
+      "end_date": "2023-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Fiscalización y control del cumplimiento de normas de tránsito.",
+        "Capacitación en educación vial y manejo defensivo a conductores.",
+        "Supervisión de seguridad vial y respuesta en emergencias.",
+        "Impartición de formación en seguridad vial en escuelas y empresas locales."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Tecnicatura Universitaria en Programación",
+      "institution": "Universidad Austral",
+      "location": "Rosario, Argentina",
+      "start_date": "2023-01-01",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "Técnico Superior en Administración y Comercialización de Empresas",
+      "institution": "ISET N°125 Beppo Levi",
+      "location": "",
+      "start_date": "2009-01-01",
+      "end_date": "2011-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "python",
+        "c#",
+        "java",
+        "javaScript",
+        "typeScript",
+        "angular",
+        "react",
+        "html",
+        "css",
+        "mySQL"
+      ],
+      "soft": [
+        "liderazgo",
+        "trabajo-en-equipo",
+        "resolución-de-problemas"
+      ],
+      "tools": [
+        "scrum",
+        "kanban"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Nexufy",
+      "description": "Plataforma para la gestión de materiales reciclables",
+      "technologies": [],
+      "url": "https://nexufy-front.vercel.app/"
+    },
+    {
+      "name": "Argos",
+      "description": "Aplicación web con React para gestión de datos",
+      "technologies": [],
+      "url": "https://argos.vercel.app/"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Intermedio"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

@@ -1,0 +1,193 @@
+{
+    "personal_info": {
+        "first_name": "Juan Pablo",
+        "last_name": "Tuttolomondo",
+        "email": "jptuttolomondo@hotmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Licenciado en Análisis de Sistemas, Project Manager Junior, Analista Técnico Funcional y desarrollador fullstack junior orientado al backend."
+    },
+    "work_experience": [
+        {
+            "job_title": "Adscripto a proyectos de investigación",
+            "company": "INTA Cerrillos",
+            "location": "Salta, Argentina",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Procesamiento de imágenes de drones para análisis de datos en cultivos de tabaco."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista funcional",
+            "company": "Anfler Solutions SRL",
+            "location": "Argentina",
+            "start_date": "2023-12-01",
+            "end_date": "2024-03-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Análisis funcional y Project Management en proyectos de clientes externos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista funcional",
+            "company": "Consejo de la Magistratura CABA",
+            "location": "Argentina",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "QA tester y documentación de flujos de usuarios en el Proyecto Mi Reclamo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Munia",
+            "location": "España",
+            "start_date": "2023-09-01",
+            "end_date": "2023-10-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Backend: Modelado de bases de datos, queries, filtros, endPoints, API RESTfull.",
+                "Frontend: Integración con Backend / soporte de datos en el desarrollo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Tutor Adjunto del Curso de programación backend",
+            "company": "CoderHouse",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Corrección de desafíos de alumnos, asistencia al profesor en clases."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador de aplicaciones para restaurantes",
+            "company": "",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "2023-08-01",
+            "currently_working": false,
+            "responsibilities": [
+                "App que toma pedidos de una mesa, transfiere el pedido a la cocina."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador web institucional",
+            "company": "AWAQ ONGD: Grupo TEDI",
+            "location": "España",
+            "start_date": "2022-07-01",
+            "end_date": "2023-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de Case studies para proyectos de plataforma de estaciones biológicas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Participante de Bootcamp",
+            "company": "Henry",
+            "location": "",
+            "start_date": "2021-10-01",
+            "end_date": "2022-05-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de app de consumo de datos desde APIs externas, vistas, filtros, queries."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciado en Análisis de Sistemas",
+            "institution": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "análisis-funcional",
+                "uml",
+                "qa",
+                "selenium",
+                "mocha",
+                "postgreSQL",
+                "express",
+                "react",
+                "node.js",
+                "typescript",
+                "python",
+                "redux",
+                "sequelize",
+                "mongodb",
+                "prisma",
+                "html",
+                "css",
+                "genexus",
+                "git",
+                "github",
+                "vercel",
+                "heroku",
+                "railway",
+                "aws",
+                "azure",
+                "agisoft",
+                "qgis",
+                "pix4d"
+            ],
+            "soft": [
+                "project-management",
+                "product-owner",
+                "scrum-master",
+                "atención-al-cliente",
+                "documentación"
+            ],
+            "tools": [
+                "lucidchart",
+                "draw.io",
+                "redmine",
+                "gitlab",
+                "teams",
+                "mattermost",
+                "slack",
+                "discord",
+                "rainbow"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

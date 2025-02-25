@@ -1,0 +1,142 @@
+{
+    "personal_info": {
+        "first_name": "Nicolás",
+        "last_name": "Dávila",
+        "email": "nicodavila97@hotmail.com",
+        "phone": "2914395328",
+        "location": {
+            "country": "Australia",
+            "city": "Moree",
+            "state": "NSW"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un apasionado de la Programación web. Actualmente, luego de varios cursos, estoy estudiando Tecnicatura en Programación. Los últimos dos años viví en Australia, donde me desarrollé profesionalmente en el idioma inglés y adquirí experiencias laborales valiosas como operador de depósito y trabajando en el campo, lo que me permitió incorporar habilidades de trabajo en equipo, responsabilidad y adaptación a nuevos entornos. Soy una persona proactiva, con gran motivación para aprender y crecer profesionalmente."
+    },
+    "work_experience": [
+        {
+            "job_title": "Supervisor de Depósito",
+            "company": "Australian Food and Fibre",
+            "location": "Moree, NSW, Australia",
+            "start_date": "2023-03-01",
+            "end_date": "2024-10-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Planificar, dirigir y coordinar las actividades de reposición, almacenamiento y distribución de los productos de la compañía.",
+                "Carga de camiones de paquetes de algodón de 250 kilos.",
+                "Gestionar los controles de calidad necesarios a fin de garantizar la condición del stock en el depósito.",
+                "Operador de tractor de carga.",
+                "Operador de montacargas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Administrativo",
+            "company": "Estudio contable Integral A",
+            "location": "Bahia Blanca",
+            "start_date": "2020-03-01",
+            "end_date": "2023-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión de documentos y archivos.",
+                "Atención al cliente.",
+                "Procesamiento de pagos y facturas.",
+                "Mantenimiento de la base de datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Bartender",
+            "company": "Bar Las Tias",
+            "location": "Bahia Blanca",
+            "start_date": "2017-03-01",
+            "end_date": "2020-02-29",
+            "currently_working": false,
+            "responsibilities": [
+                "Atender a los clientes en el bar, tomar pedidos y servir bebidas.",
+                "Gestionar el inventario de bebidas y suministros, incluyendo la compra y almacenamiento de productos.",
+                "Manejar la caja registradora y realizar transacciones financieras."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Programación",
+            "institution": "Universidad Nacional de la Matanza",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Economía y administración",
+            "institution": "Colegio San Cayetano",
+            "location": "Bahia Blanca",
+            "start_date": "",
+            "end_date": "2014-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript",
+                "mysql",
+                "php",
+                "angular",
+                "sass",
+                "workflows",
+                "fetch-(antes-ajax)",
+                "sql-y-api's",
+                "poo-mvc"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo Web: Angular",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Bilingüe"
+        },
+        {
+            "language": "Italiano",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,112 @@
+{
+    "personal_info": {
+        "first_name": "Fernando",
+        "last_name": "Rene Lair",
+        "email": "fernandorenelair@gmail.com",
+        "phone": "1162885828",
+        "location": {
+            "country": "Argentina",
+            "city": "Ciudad Autónoma de Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/fernandorenelair/",
+        "website": "",
+        "portfolio": "https://portfolio-fernando-lair.vercel.app/",
+        "summary": "Profesional flexible y creativo con capacidad para el trabajo en equipo, la resolución de conflictos, la toma de decisiones, la comunicación efectiva y el multitasking. Interesado en roles de IT para aplicar habilidades adquiridas en desarrollo Fullstack."
+    },
+    "work_experience": [
+        {
+            "job_title": "Administrativo",
+            "company": "ACSA",
+            "location": "",
+            "start_date": "2005-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Facturación y carga de comprobantes en sistema contable propio.",
+                "Desarrollo de tareas administrativas.",
+                "Uso de Sistema informático Malvina."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Freelance",
+            "company": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño freelance de páginas Webs usando tecnologías como React, Javascript y NodeJs.",
+                "Rediseño de páginas webs para mejorar la navegación.",
+                "Trabajo con distintas bases de datos y conexiones al backend."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollo Fullstack M.E.R.N",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en informática",
+            "institution": "UNLAM",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "reactjs",
+                "nodejs",
+                "express",
+                "mongodb",
+                "mysql",
+                "git"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "resolución-de-conflictos",
+                "toma-de-decisiones",
+                "comunicación-efectiva",
+                "multitasking",
+                "aprendizaje-rápido"
+            ],
+            "tools": [
+                "microsoft-office"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
