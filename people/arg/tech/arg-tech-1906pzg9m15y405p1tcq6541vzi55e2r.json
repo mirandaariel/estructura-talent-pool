@@ -12,34 +12,49 @@
         "linkedin": "https://linkedin.com/in/celestemontero/",
         "website": "",
         "portfolio": "https://celesdev.vercel.app/",
-        "summary": "Fullstack Developer con experiencia en el desarrollo de aplicaciones web dinámicas con React y bases de datos relacionales y no relacionales."
+        "summary": "Desarrolladora web con sólidos conocimientos en tecnologías Frontend y Backend, especializada en la creación de páginas web dinámicas utilizando React. Tengo experiencia trabajando con bases de datos relacionales (PostgreSQL, MySQL) y no relacionales (MongoDB), implementando soluciones eficientes y escalables. Cuento con un nivel B1 de inglés, lo que me permite colaborar en proyectos internacionales. Además, estoy cursando la carrera de Análisis de Sistemas Informáticos."
     },
     "work_experience": [
         {
-            "job_title": "Desarrolladora Freelance",
-            "company": "Independiente",
+            "job_title": "Desarrolladora freelance",
+            "company": "",
             "location": "",
             "start_date": "2024-01-01",
-            "end_date": "",
+            "end_date": "2024-12-31",
             "currently_working": true,
             "responsibilities": [
-                "Desarrollo de una tienda e-commerce de suplementos deportivos",
-                "Implementación de formularios de contacto validados",
-                "Uso de React.js con Hooks, Context y Redux Toolkit para una arquitectura escalable"
+                "Desarrollé una página e-commerce de suplementos deportivos.",
+                "Colaboré directamente con el cliente para analizar sus necesidades y objetivos, incluyendo la implementación de un formulario de contacto validado y un carrito de compras.",
+                "El diseño de la misma fue mediante el uso de React.js, empleando Hooks, Context y Redux Toolkit para una arquitectura robusta y escalable.",
+                "Desarrollé un formulario de contacto con Formik y Yup, asegurando la validación en tiempo real y facilidad de uso.",
+                "Actualmente, se sigue brindando mantenimiento a la misma."
             ],
             "achievements": [],
             "repository_url": ""
         },
         {
-            "job_title": "Jefa Administrativa",
+            "job_title": "Jefa administrativa",
             "company": "Sanatorio Modelo Quilmes",
             "location": "",
             "start_date": "2018-01-01",
             "end_date": "",
             "currently_working": true,
             "responsibilities": [
-                "Capacitación y liderazgo del equipo administrativo",
-                "Control y ejecución de facturación a prepagas"
+                "Capacitación y liderazgo del equipo administrativo en el uso de nuevas herramientas tecnológicas y procedimientos, fomentando un ambiente de trabajo colaborativo y orientado a resultados.",
+                "Control y ejecución de la facturación a prepagas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Consultorio Nutricional",
+            "company": "",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Asesoramiento nutricional personalizado para deportistas de elite."
             ],
             "achievements": [],
             "repository_url": ""
@@ -58,10 +73,22 @@
     "skills": {
         "keywords": {
             "technical": [
-                "html", "css", "javascript", "typescript", "node.js", "react.js", "firebase", "mongodb", "postgresql"
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "node.js",
+                "bem",
+                "dom",
+                "react.js",
+                "firebase",
+                "mongodb",
+                "postgresql"
             ],
             "soft": [
-                "comunicacion-efectiva", "liderazgo", "trabajo-en-equipo"
+                "comunicación-efectiva",
+                "liderazgo",
+                "trabajo-en-equipo"
             ],
             "tools": []
         },
@@ -74,36 +101,29 @@
             "issue_date": "2023-01-01",
             "expiration_date": "",
             "credential_id": ""
-        },
-        {
-            "name": "Desarrollo Web Fullstack",
-            "issuing_organization": "NUCBA",
-            "issue_date": "2023-01-01",
-            "expiration_date": "2024-12-31",
-            "credential_id": ""
         }
     ],
     "projects": [
         {
-            "name": "Piedra, Papel o Tijera Online",
-            "description": "Juego online con conexión en tiempo real usando Firebase.",
+            "name": "Piedra, papel o tijera online",
+            "description": "Juego online que ofrece una experiencia interactiva para jugadores en tiempo real. Utilizando Firebase para implementar una conexión en tiempo real, permitiendo partidas entre jugadores reales.",
             "technologies": ["typescript", "html", "css", "firebase"],
             "url": "https://ppt-online-qs4b.onrender.com/"
         },
         {
             "name": "E-commerce",
-            "description": "Página e-commerce con navegación y búsqueda avanzada.",
+            "description": "Página e-commerce desarrollada con Javascript, HTML y CSS, diseñada para ofrecer una experiencia de compra intuitiva y atractiva. Cuenta con funcionalidades de navegación y búsqueda.",
             "technologies": ["javascript", "html", "css"],
             "url": "https://dancewear-landing.vercel.app/"
         }
     ],
     "languages": [
         {
-            "language": "Español",
-            "proficiency": "Nativo"
+            "language": "Spanish",
+            "proficiency": "Native"
         },
         {
-            "language": "Inglés",
+            "language": "English",
             "proficiency": "B1"
         }
     ],

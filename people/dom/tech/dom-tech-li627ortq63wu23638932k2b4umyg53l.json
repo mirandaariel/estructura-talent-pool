@@ -1,0 +1,101 @@
+{
+    "personal_info": {
+        "first_name": "Thelmo",
+        "last_name": "Silverio Muñoz",
+        "email": "toraphebi@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "República Dominicana",
+            "city": "Altamira",
+            "state": "Puerto Plata"
+        },
+        "linkedin": "https://www.linkedin.com/in/thelmo-sm/",
+        "website": "",
+        "portfolio": "https://github.com/Thelmo-SM",
+        "summary": "Soy un desarrollador frontend autodidacta con experiencia en React, Next.js, Tailwind CSS y Redux Toolkit. Me especializo en mejorar la experiencia de usuario mediante código optimizado y buenas prácticas. He trabajado en proyectos personales y colaborativos, destacando en la integración de APIs, arquitectura del código y desarrollo de interfaces atractivas. Busco consolidarme como semi-senior y seguir creciendo en la ingeniería de frontend."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Elysium Hotel y Resort de Lujo",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y desarrollé la vista de las instalaciones del hotel con una experiencia interactiva.",
+                "Implementé dos formularios de registro: uno optimizado para mejorar la conversión y otro clásico para usuarios tradicionales.",
+                "Integré un componente de sucursales con un mapa interactivo mediante API.",
+                "Desarrollé funcionalidades para la gestión de precios y disponibilidad de habitaciones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollador Fullstack",
+            "institution": "Bootcamp Henry",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachillerato",
+            "institution": "Liceo Rubén Darío / Programa Prepara",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "next.js",
+                "mongodb",
+                "postgresql",
+                "firebase"
+            ],
+            "soft": [],
+            "tools": [
+                "redux-toolkit",
+                "tailwind-css",
+                "sass",
+                "chakra-ui",
+                "git",
+                "firebase-authentication"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Elegance Studio",
+            "description": "Aplicación web para una barbería con sistema de e-commerce, gestión de citas y rastreo.",
+            "technologies": ["Next.js", "TypeScript", "Firebase", "Redux Toolkit", "Tailwind CSS"],
+            "url": "https://elegance-studio.vercel.app/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,119 @@
+{
+    "personal_info": {
+        "first_name": "Manuel",
+        "last_name": "Páez Sandoval",
+        "email": "manueledwardopaez@gmail.com",
+        "phone": "+1 (829) 876 4488",
+        "location": {
+            "country": "República Dominicana",
+            "city": "Santo Domingo",
+            "state": ""
+        },
+        "linkedin": "www.linkedin.com/in/manuel-paez-8409a7296",
+        "website": "",
+        "portfolio": "Mi Portafolio",
+        "summary": "Un apasionado desarrollador de software con un profundo compromiso con la excelencia técnica y la innovación. Experiencia en la creación de aplicaciones web usando ReactJS, Node, TypeScript, Redux, Tailwind CSS, Vite, entre otros."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer Freelance",
+            "company": "",
+            "location": "Remoto",
+            "start_date": "2023-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñé y desarrollé aplicaciones web utilizando React y TypeScript, optimizando su funcionalidad y diseño para una mejor experiencia de usuario.",
+                "Implementé funcionalidades como gestión de usuarios e integración de APIs para pequeñas empresas.",
+                "Realicé proyectos personales para explorar nuevas tecnologías y fortalecer mis habilidades técnicas, como el desarrollo de aplicaciones con integración en la nube y diseño centrado en la accesibilidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Donare Foundation",
+            "location": "Remoto",
+            "start_date": "2022-10-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Participé en el diseño y desarrollo de un sistema de gestión de inventario para manejar la mercancía de la organización.",
+                "Desarrollé la página web corporativa utilizando tecnologías modernas como React, Tailwind y TypeScript.",
+                "Implementación de buenas prácticas de desarrollo, optimización del rendimiento y enfoque en la escalabilidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Software",
+            "institution": "Universidad APEC",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "react.js",
+                "next.js",
+                "node.js",
+                "typescript",
+                "tailwindcss",
+                "auth0",
+                "redux",
+                "jest.js",
+                "jquery",
+                "unit-testing",
+                "api-management",
+                "accessibility",
+                "sql",
+                "wordpress",
+                "linux",
+                "package-management",
+                "postcss",
+                "sass",
+                "grid-layout",
+                "flexbox-layout"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "C1"
+        },
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Robert Llubere",
+            "relationship": "Ingeniero de Sistemas",
+            "contact": "+1 (829) 467-1912"
+        }
+    ]
+}

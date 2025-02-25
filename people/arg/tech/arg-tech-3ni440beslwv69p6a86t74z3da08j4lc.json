@@ -10,24 +10,24 @@
             "state": ""
         },
         "linkedin": "https://www.linkedin.com/in/charlidev",
-        "website": "",
+        "website": "https://github.com/charlidev89",
         "portfolio": "",
-        "summary": "Analista Programador con experiencia en desarrollo backend con Java y Spring Boot. Apasionado por la tecnología y el aprendizaje continuo."
+        "summary": "Me considero un apasionado Desarrollador de Software, actualmente cursando la carrera de Analista en Sistemas. Mi entusiasmo por la tecnología me llevó a especializarme en desarrollo backend con Spring Boot y Java, complementando mi formación académica con aprendizaje autodidacta continuo. Disfruto enfrentando nuevos desafíos técnicos y aprendiendo las últimas tecnologías. Busco una oportunidad para crecer profesionalmente en un equipo dinámico donde pueda aportar soluciones innovadoras mientras expando mis habilidades."
     },
     "work_experience": [],
     "education": [
         {
-            "degree": "Analista en Sistemas",
-            "institution": "Instituto Tecnológico ORT",
-            "location": "",
+            "degree": "Analista en sistemas",
+            "institution": "Instituto Tecnologico ORT",
+            "location": "Buenos Aires, Argentina",
             "start_date": "",
             "end_date": "",
             "hours": 0
         },
         {
-            "degree": "Técnico Electrónico",
-            "institution": "Escuela de Educación Técnica N°1 de Merlo",
-            "location": "",
+            "degree": "Tecnico Electrónico",
+            "institution": "ESCUELA DE EDUCACION TECNICA N°1 DE MERLO",
+            "location": "Merlo, Argentina",
             "start_date": "",
             "end_date": "",
             "hours": 0
@@ -36,7 +36,22 @@
     "skills": {
         "keywords": {
             "technical": [
-                "java", "poo", "lambdas", "streams", "springboot", "maven", "jpa-hibernate", "mockito", "jwt", "javascript", "html", "css", "git", "github", "scrum", "postman"
+                "java",
+                "poo",
+                "lambdas",
+                "streams",
+                "springboot",
+                "maven",
+                "jpa-hibernate",
+                "mockito",
+                "jwt",
+                "javascript",
+                "html",
+                "css",
+                "git",
+                "github",
+                "scrum",
+                "postman"
             ],
             "soft": [],
             "tools": []
@@ -45,7 +60,7 @@
     },
     "certifications": [
         {
-            "name": "Desarrollo de API SpringBoot",
+            "name": "Desarrollo de Api SpringBoot",
             "issuing_organization": "TodoCode",
             "issue_date": "2024-01-01",
             "expiration_date": "",
@@ -64,30 +79,48 @@
             "issue_date": "2021-01-01",
             "expiration_date": "",
             "credential_id": ""
+        },
+        {
+            "name": "Curso Profesional de Java",
+            "issuing_organization": "CodigoFacilito",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Programacion Orientada a Objetos",
+            "issuing_organization": "Educación IT",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Java Basico",
+            "issuing_organization": "Todo Code",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Universidad Java",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
         }
     ],
     "projects": [
         {
-            "name": "Sistema de Registro de Ventas",
-            "description": "Desarrollo de un sistema para registrar ventas de productos, utilizando Spring Boot, SQL y JPA."
-        },
-        {
-            "name": "Control de Inventario",
-            "description": "Implementación de un sistema para controlar niveles de inventario en una base de datos SQL."
-        },
-        {
-            "name": "Gestión de Clientes",
-            "description": "Aplicación para la actualización y administración de datos de clientes, utilizando Java y DTO."
+            "name": "Spring Boot Backend Development",
+            "description": "Creación de un conjunto completo de servicios REST para gestionar registro de ventas de productos, control de niveles de inventario y actualización de datos de clientes.",
+            "technologies": ["java", "spring-boot", "sql", "jpa", "mockito", "junit"],
+            "url": "https://github.com/charlidev89"
         }
     ],
     "languages": [
         {
-            "language": "Español",
-            "proficiency": "Nativo"
-        },
-        {
-            "language": "Inglés",
-            "proficiency": "B2"
+            "language": "English",
+            "proficiency": "Upper Intermediate"
         }
     ],
     "volunteer_experience": [],
