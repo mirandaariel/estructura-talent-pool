@@ -1,0 +1,165 @@
+{
+    "personal_info": {
+        "first_name": "Augusto",
+        "last_name": "Errobidarte",
+        "email": "augustoerrobidarte@gmail.com",
+        "phone": "+54 3624 601723",
+        "location": {
+            "country": "Argentina",
+            "city": "Resistencia",
+            "state": "Chaco"
+        },
+        "linkedin": "https://linkedin.com/in/augustoerrobidarte",
+        "website": "",
+        "portfolio": "https://github.com/Gusuwu",
+        "summary": "Soy Técnico Universitario en Programación con conocimiento en análisis de requerimientos y desarrollo de software. Soy bueno en trabajo grupal y de rápido aprendizaje. Poseo experiencia como desarrollador fullstack y QA Manual. Mi stack actual es Angular - .NET"
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "Soflex S.A.",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicativos web en AngularTS con Material.",
+                "Desarrollo y configuracion de APIs consumibles mediante web con PHP, Java y ASP.NET Core.",
+                "Desarrollo y mantenimiento de Controllers y endpoints.",
+                "Manejo de repositorios GitHub.",
+                "Ejecución de consultas SQL, uso de SQLServer, manejo de Procedimientos almacenados, VPN.",
+                "Metodologías ágiles SCRUM."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "Eppical S.A.",
+            "location": "",
+            "start_date": "2022-08-01",
+            "end_date": "2023-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicativos web y móviles con AngularTS Bootstrap e Ionic.",
+                "Desarrollo y configuracion de APIs consumibles mediante web con ASP.NET Core C#.",
+                "Desarrollo de test unitarios para ASP.NET Core MVC.",
+                "Desarrollo y mantenimiento de controllers y endpoints.",
+                "Manejo de repositorios GitHub con Azure DevOps.",
+                "Metodologías ágiles SCRUM.",
+                "Uso de Entity Framework, MVC, migraciones, pipelines y consultas LINQ.",
+                "Ejecución de consultas SQL, uso de SQLServer.",
+                "Figma."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA Tester Manual",
+            "company": "OneCore",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Análisis de PBL/Requerimiento.",
+                "Generación de casos/lotes de pruebas, ejecución y evidencias.",
+                "Seguimiento de bugs y fixs generados.",
+                "Generación de documentos de la ejecución por medio de JIRA.",
+                "Armado de set de datos de pruebas.",
+                "Consultas SQL con SQL Server.",
+                "Utilización de distintos tipos de tests (caja negra, caja blanca).",
+                "Realización de smoke test, regresión y UAT.",
+                "Utilización de metodología ágiles.",
+                "Prueba de API con Postman."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachiller común",
+            "institution": "EES N°87 Escuela Normal Sarmiento",
+            "location": "",
+            "start_date": "2011-01-01",
+            "end_date": "2015-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Universitario en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                "c",
+                "java",
+                "python",
+                "javascript",
+                "css",
+                "html5",
+                "typescript",
+                "angular",
+                "asp.net-core",
+                "ionic",
+                "sql-server",
+                "mysql",
+                "android-studio",
+                "analysis",
+                "scrum",
+                "unit-testing"
+            ],
+            "soft": ["requirement-analysis", "teamwork", "fast-learning"],
+            "tools": [
+                "material",
+                "bootstrap",
+                "php",
+                "json",
+                "tailwindcss",
+                "github",
+                "jira",
+                "postman",
+                "azure-devops"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Japanese",
+            "proficiency": "Basic"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Profesor",
+            "organization": "Club de Robótica del Chaco",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Profesor de talleres de programación con Scratch y Roblox (Videojuegos).",
+                "Profesor de talleres de programación con Python para niños."
+            ]
+        }
+    ],
+    "publications": [],
+    "references": []
+}

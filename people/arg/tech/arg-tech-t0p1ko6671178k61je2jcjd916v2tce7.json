@@ -3,42 +3,28 @@
         "first_name": "Franco",
         "last_name": "Herrera",
         "email": "Francoherrera1759@gmail.com",
-        "phone": "+54 11 2187-4803",
+        "phone": "11 2187-4803",
         "location": {
-            "country": "Argentina",
+            "country": "",
             "city": "González Catán",
-            "state": "Buenos Aires"
+            "state": ""
         },
-        "linkedin": "https://www.linkedin.com/in/zfrancoh/",
-        "website": "https://github.com/zfranco21",
+        "linkedin": "",
+        "website": "https://francoherrera.netlify.app/",
         "portfolio": "https://francoherrera.netlify.app/",
-        "summary": "Desarrollador Front End Jr con experiencia en proyectos personales y formación en desarrollo web Full-Stack (MERN). Busco una oportunidad como Desarrollador Web Trainee para ampliar mis habilidades en el rubro tecnológico, contribuir en proyectos desafiantes y crecer profesionalmente. Cuento con habilidades técnicas en React, Flask, MongoDB y metodologías ágiles, además de experiencia en liderazgo, trabajo en equipo y orientación a resultados."
+        "summary": "Profesional versátil capaz de desenvolverme en desarrollo web Front End y Back End. Con amplios conocimientos y herramientas para afrontar cualquier fase en la construcción de un software."
     },
     "work_experience": [
         {
-            "job_title": "Ayudante de Cocina",
-            "company": "Live Burguer",
-            "location": "",
-            "start_date": "2023-01-01",
-            "end_date": "2024-12-31",
-            "currently_working": false,
-            "responsibilities": [
-                "Atención al cliente, administración de caja y mantenimiento de áreas.",
-                "Demostré habilidades de organización y trabajo bajo presión."
-            ],
-            "achievements": [],
-            "repository_url": ""
-        },
-        {
-            "job_title": "Área de Ventas",
+            "job_title": "Pasante Vendedor",
             "company": "Chevrolet",
             "location": "",
-            "start_date": "2021-01-01",
-            "end_date": "2021-12-31",
+            "start_date": "",
+            "end_date": "",
             "currently_working": false,
             "responsibilities": [
-                "Realización de trámites administrativos y gestión de clientes.",
-                "Desarrollé habilidades de comunicación y atención al cliente."
+                "Seguimiento Administrativo con Excel",
+                "Gestión y atención al cliente"
             ],
             "achievements": [],
             "repository_url": ""
@@ -51,22 +37,9 @@
             "end_date": "2020-12-31",
             "currently_working": false,
             "responsibilities": [
-                "Fabricación de tornillos y arandelas a medida, mantenimiento de equipos y manejo de Clark.",
-                "Adquirí experiencia en trabajo en equipo y resolución de problemas técnicos."
-            ],
-            "achievements": [],
-            "repository_url": ""
-        },
-        {
-            "job_title": "Repositor y Caja",
-            "company": "Supermercado",
-            "location": "",
-            "start_date": "2018-01-01",
-            "end_date": "2019-12-31",
-            "currently_working": false,
-            "responsibilities": [
-                "Reposición de productos, atención al cliente y mantenimiento de góndolas.",
-                "Desarrollé habilidades de organización y servicio al cliente."
+                "Fabricación de tornillos y arandelas a medida.",
+                "Mantenimiento preventivo y limpieza de equipos.",
+                "Manejo de Clark para reposición."
             ],
             "achievements": [],
             "repository_url": ""
@@ -74,96 +47,82 @@
     ],
     "education": [
         {
-            "degree": "Desarrollo de Aplicaciones Web Full-Stack (MERN)",
-            "institution": "UTN ARGENTINA",
+            "degree": "Desarrollador de Software Web Full Stack Mern",
+            "institution": "Universidad de Tecnologia Nacional",
             "location": "",
             "start_date": "2023-01-01",
             "end_date": "2024-12-31",
             "hours": 0
         },
         {
-            "degree": "Desarrollo de Software Web",
-            "institution": "CUDI ARGENTINA",
+            "degree": "Desarrollador Web Full-Stack",
+            "institution": "Centro Universitario De Innovación",
             "location": "",
-            "start_date": "2021-01-01",
-            "end_date": "2023-01-01",
-            "hours": 0
-        },
-        {
-            "degree": "Bachiller en Ciencias Sociales",
-            "institution": "Escuela Estatal N°30",
-            "location": "",
-            "start_date": "2014-01-01",
-            "end_date": "2020-12-31",
+            "start_date": "2020-01-01",
+            "end_date": "2023-12-31",
             "hours": 0
         }
     ],
     "skills": {
         "keywords": {
             "technical": [
-                "javascript",
-                "html",
-                "css",
-                "python",
+                "mern-stack",
                 "react",
-                "flask",
-                "mongodb"
+                "node.js",
+                "express",
+                "mongodb",
+                "git",
+                "github"
             ],
             "soft": [
-                "trabajo-en-equipo",
-                "resolución-de-problemas",
-                "comunicación-asertiva"
+                "project-management",
+                "conflict-resolution",
+                "teamwork"
             ],
             "tools": [
                 "git",
-                "postman",
-                "vercel"
+                "github"
             ]
         },
         "detailed": {
-            "technical": {},
-            "soft": {}
+            "technical": {
+                "mern-stack": [
+                    {
+                        "name": "Desarrollo completo del Frontend y diseño de la arquitectura del sistema",
+                        "repository_url": ""
+                    }
+                ]
+            },
+            "soft": {
+                "project-management": [
+                    {
+                        "name": "Experiencia en la gestión de tiempos y resolución de conflictos técnicos",
+                        "description": "Coordinación de un equipo de tres desarrolladores y supervisión de tareas técnicas"
+                    }
+                ]
+            }
         }
     },
     "certifications": [],
     "projects": [
         {
-            "name": "Aplicación SPA React | StorePC",
-            "description": "SPA para gestionar productos y categorías en un E-commerce. Incluye autenticación segura con JWT y un módulo ABMC completo.",
+            "name": "StorePC",
+            "description": "Aplicación SPA React | StorePC",
             "technologies": [
                 "react",
-                "react-router",
-                "axios",
-                "css",
-                "javascript",
-                "mongodb",
-                "postman",
-                "git",
-                "vercel"
+                "mern-stack"
             ],
-            "url": ""
-        },
-        {
-            "name": "Aplicación Flask | El Rincón del Vicio",
-            "description": "Plataforma para descarga de juegos PS1 con login/register, buscador avanzado, comentarios y emulador integrado.",
-            "technologies": [
-                "html",
-                "javascript",
-                "tailwind",
-                "flask",
-                "python"
-            ],
-            "url": ""
+            "url": "https://github.com/zfranco21"
         }
     ],
     "languages": [
         {
-            "language": "Español",
-            "proficiency": "Nativo"
+            "language": "Spanish",
+            "proficiency": "Native"
         },
         {
-            "language": "Inglés",
-            "proficiency": "Intermedio"
+            "language": "English",
+            "proficiency": "B2"
         }
     ],
     "volunteer_experience": [],

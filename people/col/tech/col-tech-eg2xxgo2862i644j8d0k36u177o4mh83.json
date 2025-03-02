@@ -1,0 +1,210 @@
+{
+    "personal_info": {
+        "first_name": "Nicolas",
+        "last_name": "Estevez Tovar",
+        "email": "esteveznicolas0@gmail.com",
+        "phone": "+57 350 715 6518",
+        "location": {
+            "country": "Colombia",
+            "city": "Bogotá D.C.",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/nicolas-estevez/",
+        "website": "https://github.com/Nicodav28",
+        "portfolio": "",
+        "summary": "Soy un Desarrollador Web Full Stack con más de tres años de experiencia creando diversos tipos de soluciones digitales, me especializo en desarrollo back-end dominando así tecnologías como PHP, JavaScript, TypeScript, Java y C#, cuento también con amplia experiencia trabajando con frameworks de vanguardia como Laravel, Spring Boot, NestJS, Angular, ReactJS y .NET8, me caracterizo siempre por ser alguien enfocado en ofrecer aplicaciones escalables, de alto rendimiento y con código de alta calidad."
+    },
+    "work_experience": [
+        {
+            "job_title": "Freelance Software Developer",
+            "company": "Freelance",
+            "location": "Remote",
+            "start_date": "2024-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Trabajé en proyectos diversos con empresas del sector privado.",
+                "Especialización en tecnologías como Laravel, Angular, ReactJS y PHP Nativo.",
+                "Gestión de bases de datos como PostgreSQL y SQL Server.",
+                "Participación en revisiones de código.",
+                "Diseño y optimización de estructuras de bases de datos.",
+                "Desarrollo de pruebas unitarias para asegurar estabilidad del código."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Web Developer",
+            "company": "Progressive Web Solutions Inc.",
+            "location": "Remote",
+            "start_date": "2024-10-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboración en el desarrollo de nuevas funcionalidades y resolución de errores en aplicaciones web.",
+                "Uso de tecnologías como PHP, HTML, CSS, JavaScript, MySQL y GIT.",
+                "Participación en revisiones de código."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Assistant Software Developer",
+            "company": "Canada Inc.",
+            "location": "Remote",
+            "start_date": "2024-04-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboración con un Desarrollador de Software Senior en el desarrollo y mantenimiento de aplicaciones web.",
+                "Implementación de nuevas funcionalidades.",
+                "Participación en revisiones de código para asegurar calidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Web Developer",
+            "company": "Infodec S.A.S",
+            "location": "Remote",
+            "start_date": "2022-08-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Integración de soluciones de pago como Nequi, Daviplata, Bancolombia, PSE y Cybersource.",
+                "Colaboración en el levantamiento de requerimientos y creación de documentación técnica.",
+                "Resolución de problemas y entrega de productos desarrollados a los clientes."
+            ],
+            "achievements": [
+                "Liderazgo en el diseño y desarrollo de la arquitectura de una API para una pasarela de pago usando Laravel, Angular, .NET y PostgreSQL."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Business Analyst",
+            "company": "Technokey S.A.S",
+            "location": "Remote",
+            "start_date": "2022-01-01",
+            "end_date": "2022-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Elaboración de análisis de requisitos.",
+                "Realización de tareas de prueba de software.",
+                "Creación de manuales, sesiones de capacitación y soporte al cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Technical Support",
+            "company": "Technokey S.A.S",
+            "location": "Remote",
+            "start_date": "2020-12-01",
+            "end_date": "2022-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Asesoría de soporte técnico a los clientes.",
+                "Resolución de problemas de firma digital y facturación electrónica."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Technical Support in Web Development",
+            "company": "Micrositios S.A.S",
+            "location": "Remote",
+            "start_date": "2019-07-01",
+            "end_date": "2020-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Resolver incidentes reportados por clientes en aplicaciones de la empresa."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnólogo en Desarrollo de Software",
+            "institution": "Universidad de San Buenaventura",
+            "location": "Bogotá, Colombia",
+            "start_date": "2020-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Programación de Software",
+            "institution": "SENA",
+            "location": "Bogotá, Colombia",
+            "start_date": "2019-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "php",
+                "javascript",
+                "typescript",
+                "java",
+                "c#",
+                "laravel",
+                "spring-boot",
+                "nestjs",
+                "angular",
+                "reactjs",
+                ".net8",
+                "postgresql",
+                "sql-server",
+                "mysql",
+                "mongodb",
+                "bootstrap",
+                "tailwind-css",
+                "docker",
+                "git",
+                "github-actions-ci/cd",
+                "aws-(s3,-ec2,-rds,-lambda)"
+            ],
+            "soft": [
+                "liderazgo",
+                "comunicación",
+                "compromiso",
+                "aprendizaje-continuo",
+                "adaptabilidad",
+                "versatilidad"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio Alto - B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Jhon Fredy Marin Cortazar",
+            "relationship": "Gerente de Proyectos",
+            "contact": "jhon.marin@infodeclat.com"
+        },
+        {
+            "name": "Johan Castro Vargas",
+            "relationship": "Líder Técnico",
+            "contact": "johan.castro@infodeclat.com"
+        }
+    ]
+}

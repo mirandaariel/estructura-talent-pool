@@ -1,0 +1,76 @@
+{
+    "personal_info": {
+        "first_name": "Ruben Alberto",
+        "last_name": "Robles Fontalvo",
+        "email": "rubenrobles2411@gmail.com",
+        "phone": "+573024206151",
+        "location": {
+            "country": "Colombia",
+            "city": "Barranquilla",
+            "state": "Atlántico"
+        },
+        "linkedin": "https://linkedin.com/in/rubenrobles-wd/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Interesado en trabajar en el área de TI como Desarrollador Back-end Jr. Enfocado en el lenguaje de Java con el framework de Spring Boot, habilidades en la creación de API Restful y manejo de bases de datos SQL y NoSQL."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Ingeniera Informática",
+            "institution": "Corporación Universitaria Reformada",
+            "location": "Barranquilla, Atlántico",
+            "start_date": "2022-02-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["java", "javascript", "html", "css", "python", "spring-boot", "thymeleaf", "mysql", "postgresql", "mongodb"],
+            "soft": [],
+            "tools": ["docker", "git", "scrum", "kubernetes", "junit", "mockito", "github"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Oracle Next Education F2 T4 Back-end",
+            "issuing_organization": "Oracle Next Education",
+            "issue_date": "2022-12-01",
+            "expiration_date": "2023-06-30",
+            "credential_id": ""
+        },
+        {
+            "name": "Scrum Fundamentals Certified | Fourth Edition",
+            "issuing_organization": "SCRUMstudy",
+            "issue_date": "2024-09-01",
+            "expiration_date": "2024-10-31",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Aplicación Web para el control logístico y distribución de la cosecha de mango – Comercializadora el Mango",
+            "description": "Diseño y desarrollo de una base de datos relacionada utilizando MySQL y desarrollo del back-end con JAVA y Spring Boot. Front-end desarrollado con HTML, CSS y JavaScript usando Thymeleaf. Implementación con Docker y Nginx.",
+            "technologies": ["java", "spring-boot", "mysql", "html", "css", "javascript", "thymeleaf", "docker", "nginx"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

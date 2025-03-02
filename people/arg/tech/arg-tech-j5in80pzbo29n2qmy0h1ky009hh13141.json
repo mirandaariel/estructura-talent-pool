@@ -1,0 +1,115 @@
+{
+    "personal_info": {
+        "first_name": "Lucas",
+        "last_name": "Pirez Gallo",
+        "email": "lucaspirez42@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Parana",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/lucaspirez-dev",
+        "website": "",
+        "portfolio": "https://pirezlucas-portfolio.web.app",
+        "summary": "Desarrollador Full Stack con experiencia en la creación de soluciones web completas, desde interfaces de usuario intuitivas hasta arquitecturas de servidor eficientes. Familiarizado con diversas tecnologías de frontend y backend, logrando una integración fluida entre ambas capas. Comprometido con la entrega de aplicaciones funcionales y de alto impacto."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Foo Talent",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2025-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Definir el núcleo del proyecto, (Backend, estructura de la base de datos).",
+                "Participar activamente en decisiones de arquitectura y desarrollo.",
+                "Implementar funcionalidades clave según los requisitos.",
+                "Mantener comunicación continua con el PM y el equipo de QA."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Autonomo",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo y despliegue de dos aplicaciones web: Sistema de gestión para un gimnasio (control de membresías, y pagos). Plataforma educativa para un instituto de inglés (gestión de alumnos, cursos, deudores y pagos).",
+                "Cumplimiento exitoso de los requisitos del cliente, garantizando funcionalidad, usabilidad y escalabilidad.",
+                "Implementación de gestión de pagos automatizada con QR - Mercado Pago, mejorando la experiencia del usuario y reduciendo errores manuales.",
+                "Aplicación de buenas prácticas de desarrollo (Clean Code, patrones de diseño y arquitectura escalable)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "BootCamp Full Stack",
+            "institution": "Alura Latam",
+            "location": "",
+            "start_date": "2023-06-01",
+            "end_date": "2023-06-30",
+            "hours": 0
+        },
+        {
+            "degree": "CS50's Web",
+            "institution": "Harvard University",
+            "location": "",
+            "start_date": "2022-05-01",
+            "end_date": "2022-05-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "c#",
+                ".net",
+                "react",
+                "nestjs",
+                "sql",
+                "postgresql",
+                "sqlserver",
+                "mongodb"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "gitlab",
+                "docker",
+                "swagger",
+                "ddd",
+                "ci/cd",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

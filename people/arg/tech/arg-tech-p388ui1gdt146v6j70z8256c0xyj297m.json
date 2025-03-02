@@ -1,0 +1,191 @@
+{
+  "personal_info": {
+    "first_name": "Javier Ignacio",
+    "last_name": "Del Rio",
+    "email": "javier.ignaciodr1@gmail.com",
+    "phone": "+549 3512143600",
+    "location": {
+      "country": "Argentina",
+      "city": "Córdoba",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/javier-ignacio-del-rio",
+    "website": "",
+    "portfolio": "https://github.com/JavierIDR",
+    "summary": "Desarrollador Full Stack con experiencia en la creación de aplicaciones web dinámicas y escalables, trabajando con NestJS, React, TypeScript, PostgreSQL, Node.js, Express y Prisma."
+  },
+  "work_experience": [
+    {
+      "job_title": "Coordinador de Operaciones",
+      "company": "Empresa Wöllem",
+      "location": "",
+      "start_date": "2023-12-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Coordinación de mejora en la productividad mediante asignación eficiente de tareas.",
+        "Capacitación de nuevos empleados.",
+        "Gestión de inventarios y reducción de quiebres de stock.",
+        "Mejora en la experiencia del cliente y resolución de quejas.",
+        "Optimización de horarios y turnos, reduciendo ausencias no programadas."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Técnico Informático",
+      "company": "Autónomo",
+      "location": "",
+      "start_date": "2021-03-01",
+      "end_date": "2023-11-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Instalación, configuración y mantenimiento de hardware y software.",
+        "Diagnóstico y solución de problemas técnicos.",
+        "Mantenimiento de redes informáticas y gestión de seguridad.",
+        "Copias de seguridad y restauración de datos."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Soporte Técnico",
+      "company": "Cra. María Florencia Waquim",
+      "location": "",
+      "start_date": "2018-02-01",
+      "end_date": "2020-09-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Actualización y mantenimiento de software contable.",
+        "Organización y digitalización de documentación.",
+        "Gestión de bases de datos internas y redes internas."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Soporte Técnico",
+      "company": "Arq. Elsa Liliana Romano",
+      "location": "",
+      "start_date": "2014-03-01",
+      "end_date": "2017-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Apoyo en relevamientos de terrenos con herramientas tecnológicas.",
+        "Mantenimiento de redes internas y documentación técnica."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Cursado hasta 5° año de Odontología",
+      "institution": "Universidad Nacional de Córdoba",
+      "location": "Córdoba, Argentina",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "Inglés Nivel B2",
+      "institution": "IICANA",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "Full Stack Developer",
+      "institution": "Soy Henry",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "nest.js",
+        "react",
+        "typescript",
+        "javascript",
+        "node.js",
+        "express",
+        "sql",
+        "postgresql"
+      ],
+      "soft": [
+        "trabajo-en-equipo",
+        "comunicación",
+        "resolución-de-problemas",
+        "autodidacta"
+      ],
+      "tools": [
+        "github",
+        "docker",
+        "slack",
+        "figma",
+        "trello",
+        "cloudinary",
+        "vercel"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Comunidad Booknity",
+      "description": "Desarrollo de una aplicación web orientada a crear una comunidad lectora con funcionalidades de red social y sistema de donaciones.",
+      "technologies": [
+        "NestJS",
+        "TypeScript",
+        "PostgreSQL",
+        "React",
+        "CSS"
+      ],
+      "url": "https://github.com/JavierIDR/Booknity"
+    },
+    {
+      "name": "Ecommerce",
+      "description": "Desarrollo del backend para una plataforma de ecommerce.",
+      "technologies": [
+        "NestJS",
+        "TypeScript",
+        "PostgreSQL"
+      ],
+      "url": "https://github.com/JavierIDR/Ecommerce"
+    },
+    {
+      "name": "Consultora Odontológica",
+      "description": "Desarrollo de una aplicación web para la gestión de turnos en una consultora odontológica.",
+      "technologies": [
+        "PostgreSQL",
+        "React",
+        "Redux"
+      ],
+      "url": "https://github.com/pi-rym/PM3-JavierIDR"
+    },
+    {
+      "name": "Cartelera de Cine",
+      "description": "Desarrollo de una aplicación que muestra una cartelera de cine obteniendo información desde una API externa.",
+      "technologies": [
+        "MongoDB",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap"
+      ],
+      "url": "https://github.com/pi-rym/PM2-JavierIDR"
+    }
+  ],
+  "languages": [],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}
