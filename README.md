@@ -26,6 +26,5 @@ El archivo ingresará a un proceso automático donde se convertirá al formato J
 
 Si se desea ver ejemplos, consultar:
 
-- Archivo input: cv-template.txt
 - Archivo output: cv-template.json
 
