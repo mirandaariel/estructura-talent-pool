@@ -1,0 +1,129 @@
+{
+    "personal_info": {
+        "first_name": "Ana Laura",
+        "last_name": "Nuñez",
+        "email": "analaura.dev@hotmail.com",
+        "phone": "+54 9 11 28858912",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/analauranunez-dev/",
+        "website": "",
+        "portfolio": "https://github.com/AnaLauraNunez",
+        "summary": "Desarrolladora Web Junior con experiencia en Frontend (HTML5, CSS3, Bootstrap, Angular, React) y Backend (Java, PHP, .NET, Node.js). Dominio de bases de datos (MySQL, MariaDB) y experiencia aplicando metodologías ágiles (Scrum) y principios SOLID. Busco un entorno desafiante para crecer y aportar soluciones innovadoras."
+    },
+    "work_experience": [
+        {
+            "job_title": "Recepcionista y Asistente Administrativa",
+            "company": "Centro Podológico Almagro",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Gestión de turnos, facturación e inventarios de insumos.",
+                "Coordinación con proveedores y optimización de recursos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Recepcionista y Asistente Administrativa",
+            "company": "Centro Podológico Integral",
+            "location": "",
+            "start_date": "2014-01-01",
+            "end_date": "2019-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Organización de turnos y transacciones.",
+                "Gestión de inventarios y soporte a profesionales (administración de insumos, preparación de consultorios, liquidación de honorarios)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Asistente Administrativa",
+            "company": "Buffet Abogados Morón",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2017-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión de expedientes y coordinación de agendas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Universitario en Desarrollo Web",
+            "institution": "Universidad Nacional de La Matanza",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript",
+                "bootstrap",
+                "angular",
+                "react",
+                "responsive-design",
+                "java",
+                "php",
+                "dot-net",
+                "asp-dot-net-mvc",
+                "node-dot-js",
+                "spring-boot",
+                "hibernate",
+                "mysql",
+                "mariadb",
+                "sql",
+                "entity-framework"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "github-copilot",
+                "bash",
+                "git-bash",
+                "powershell",
+                "agile",
+                "scrum",
+                "solid",
+                "mvc"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Plataforma Educativa para TEA y TDHA",
+            "description": "Desarrollé una aplicación web interactiva para personas a cargo de niños con TEA y TDHA, utilizando Java, Hibernate, Spring Boot, MySQL y siguiendo el enfoque MVC. Implementé funciones como diagnóstico, calendario de vacunación y gestión de turnos.",
+            "technologies": ["java", "hibernate", "spring-boot", "mysql", "mvc"],
+            "url": "https://github.com/AnaLauraNunez/Proyecto-Taller-Web2Cuatri-2024"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B2 (Upper Intermediate – EF SET)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

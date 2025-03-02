@@ -1,0 +1,99 @@
+{
+    "personal_info": {
+        "first_name": "Valentín",
+        "last_name": "Cura",
+        "email": "valencuran@gmail.com",
+        "phone": "341-2177388",
+        "location": {
+            "country": "Argentina",
+            "city": "Rosario",
+            "state": "Santa Fe"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy Técnico Universitario en Programación con una fuerte orientación al trabajo en equipo. Busco una oportunidad como desarrollador o analista para aplicar y expandir mis conocimientos en entornos dinámicos y desafiantes."
+    },
+    "work_experience": [
+        {
+            "job_title": "Asesor profesional de ventas",
+            "company": "Nissan Senta",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Universitario en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Economía y Administración",
+            "institution": "Escuela de Educación Secundaria Orientada Part. Inc. Nº 3086 San Ramón Nonato",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "vite",
+                "angular",
+                ".net",
+                "node.js",
+                "mysql",
+                "sql",
+                "sqlite",
+                "api-rest"
+            ],
+            "soft": [],
+            "tools": [
+                "github",
+                "mysql-workbench",
+                "scrum",
+                "kanban"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sistema de Autogestión de Turnos para Gimnasios",
+            "description": "Desarrollo de una plataforma completa con gestión de roles de usuario, integración con Mercado Pago y envío automatizado de emails.",
+            "technologies": ["react", "tailwind-css", "daisyui", "mysql", ".net"],
+            "url": ""
+        },
+        {
+            "name": "E-Commerce de Videojuegos",
+            "description": "Implementación de un sistema de comercio electrónico con seguridad y cifrado de datos, ABM de usuarios y productos, diseño completo del sistema.",
+            "technologies": ["react-con-hooks", ".net", "sqlite"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

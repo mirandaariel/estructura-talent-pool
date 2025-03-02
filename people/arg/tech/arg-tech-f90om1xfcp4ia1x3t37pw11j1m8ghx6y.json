@@ -1,0 +1,150 @@
+{
+    "personal_info": {
+        "first_name": "Jesus",
+        "last_name": "Garcia",
+        "email": "jesusjagarcia98@gmail.com",
+        "phone": "+543416153479",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/jesusjagarcia/",
+        "website": "",
+        "portfolio": "https://portfolio-zeta-flax-88.vercel.app/",
+        "summary": "Desarrollador Full Stack apasionado con sólida formación en tecnologías front end y back-end. Busco una posición desafiante en una empresa innovadora donde pueda aplicar mis habilidades en Node.js, JavaScript, React, TypeScript y SQL para desarrollar soluciones eficientes y escalables. Con experiencia en la creación de herramientas y optimización de entornos de desarrollo, estoy comprometido con el aprendizaje continuo y la mejora constante."
+    },
+    "work_experience": [
+        {
+            "job_title": "Programador Jr",
+            "company": "Netepscript",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de herramientas para simplificar la configuración de proyectos con ExpressJS, NodeJS y TypeScript.",
+                "Creación de 'netepscript', herramienta que reduce el tiempo de configuración en un 75% utilizando NodeJS, ExpressJS, TypeScript, ESLint y Prettier.",
+                "Reducción del tiempo de configuración de entornos de desarrollo de 4 horas a 2 horas en promedio."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Teaching Assistant",
+            "company": "Henry",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Asistente de enseñanza en el Bootcamp Full Stack Developer.",
+                "Coordinación y adaptación de grupos de hasta 30 estudiantes al programa.",
+                "Orientación y asistencia en la resolución de ejercicios y promoción de la colaboración grupal (Pair Programming).",
+                "Uso de JavaScript, React, NodeJS, TypeScript, SQL para apoyar el aprendizaje práctico."
+            ],
+            "achievements": [
+                "Propuesta e implementación de mejoras en el currículo que incrementaron la satisfacción estudiantil en un 15%."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Auxiliar de Logística",
+            "company": "Bitao - Santini",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Recepción y almacenamiento de mercadería, manejando un promedio de 200 unidades diarias.",
+                "Inventario y mantenimiento de stock, reduciendo errores en un 10% mediante la implementación de nuevas metodologías.",
+                "Implementación de mejoras en los procesos logísticos, incrementando la eficiencia en un 20%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Programación Full Stack",
+            "institution": "Henry",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en Sistemas de Información",
+            "institution": "Universidad Tecnologica Nacional",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Reparador de PC y Redes",
+            "institution": "Instituto Argentino Superior de Informática",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "html",
+                "css",
+                "next.js",
+                "react",
+                "tailwind",
+                "bootstrap",
+                "vite",
+                "node.js",
+                "express.js",
+                "api-restful",
+                "sql",
+                "postgresql",
+                "mongodb",
+                "mongoose",
+                "typeorm",
+                "docker",
+                "git"
+            ],
+            "soft": [
+                "liderazgo",
+                "trabajo-en-equipo",
+                "comunicación-efectiva",
+                "resolución-de-problemas",
+                "pensamiento-lógico",
+                "enfoque-analítico"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "netepscript",
+            "description": "Herramienta que redujo el tiempo de configuración de entornos de desarrollo en un 50%, mejorando la productividad del equipo.",
+            "technologies": [
+                "NodeJS",
+                "ExpressJS",
+                "TypeScript",
+                "ESLint",
+                "Prettier"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

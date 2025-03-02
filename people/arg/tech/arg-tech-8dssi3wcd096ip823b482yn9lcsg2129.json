@@ -1,0 +1,271 @@
+{
+    "personal_info": {
+        "first_name": "Joel",
+        "last_name": "Denton",
+        "email": "joeldenton0@gmail.com",
+        "phone": "+54-341-6962119",
+        "location": {
+            "country": "Argentina",
+            "city": "Rosario",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/joeldenton0/",
+        "website": "https://github.com/joeldenton0",
+        "portfolio": "",
+        "summary": "Profesional con más de 15 años de experiencia en gestión de producción y liderando grupos humanos. Estudiando Análisis computacional de datos, Desarrollo web e inglés; especializándome en SQL, R, Tableau, Python y Django. Persona proactiva, comunicativa, autodidacta, con capacidad de liderazgo y trabajo en equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Líder de equipo Desarrollo ERP",
+            "company": "Neuralsoft - Mylogic ERP",
+            "location": "Rosario, Argentina",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Coordino las tareas y prioridades de las personas a mi cargo, incluyendo a los líderes técnicos.",
+                "Aseguro el registro correcto y en tiempo real de la información en el CRM.",
+                "Responsable del cumplimiento de los SLA establecidos y de las fechas comprometidas.",
+                "Detecto oportunidades de mejora de procesos e indicadores.",
+                "Desarrollo de software con lenguaje low-code FastPRG (basado en Java por Neuralsoft)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador ERP",
+            "company": "Neuralsoft",
+            "location": "Rosario, Argentina",
+            "start_date": "2023-11-01",
+            "end_date": "2024-08-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de software con lenguaje low-code FastPRG (basado en Java por Neuralsoft).",
+                "Mantenimiento de módulos ERP.",
+                "Personalización y configuración según necesidades del cliente.",
+                "Integración con otros sistemas mediante APIs y Web Services.",
+                "Soporte técnico, resolución de incidencias y optimización de procesos.",
+                "Implementación de medidas de seguridad y cumplimiento normativo.",
+                "Automatización de tareas y mejora del rendimiento del ERP.",
+                "Documentación técnica y ejecución de pruebas para garantizar calidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Diseño e impresión 3D",
+            "company": "J3D IMP.",
+            "location": "Rosario, Argentina",
+            "start_date": "2019-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y fabricación de piezas en 3D utilizando tecnología FDM, principalmente en PLA.",
+                "Construcción de una impresora 3D tipo cartesiana desde cero.",
+                "Configuración de software de placa Arduino y Raspberry Pi 3 para control de impresora.",
+                "Adquisición de conocimientos en C++ para configuración de firmware Marlin.",
+                "Colaboración con Rosario RepRap durante la pandemia, contribuyendo en la producción de protectores faciales para centros de salud."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Supervisor sector forjado y tratamiento térmico",
+            "company": "Francovigh S.A.",
+            "location": "Rosario, Argentina",
+            "start_date": "2016-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Liderazgo de equipos y control de cumplimiento del programa de forjado y tratamiento térmico.",
+                "Supervisión de equipo dotado de 20 personas, coordinando grupos de trabajo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Supervisor Almacén de materias primas y programación de producción",
+            "company": "Francovigh S.A.",
+            "location": "Rosario, Argentina",
+            "start_date": "2007-01-01",
+            "end_date": "2016-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión de compra, recepción, control de calidad y almacenamiento de materia prima.",
+                "Coordinación de corte y suministro de materia prima al sector de forjado.",
+                "Dirección de coordinación entre sectores para optimizar la producción.",
+                "Mantenimiento y creación de cuentas en software de gestión.",
+                "Control de inventario con análisis de ventas históricas y tiempos de producción.",
+                "Desarrollo de macros Excel para optimización y punto de pedido.",
+                "Actualización del software de gestión."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Universitario en Mecatrónica",
+            "institution": "Instituto Politécnico Superior - UNR",
+            "location": "Rosario, Argentina",
+            "start_date": "2003-01-01",
+            "end_date": "2006-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Mecánica (Cursado hasta 2do. año)",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "Rosario, Argentina",
+            "start_date": "2008-01-01",
+            "end_date": "2009-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Armado y reparación de PC",
+            "institution": "Instituto P.R.O.S.E.L",
+            "location": "Rosario, Argentina",
+            "start_date": "2000-01-01",
+            "end_date": "2000-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "sql",
+                "bigquery",
+                "r",
+                "r-studio",
+                "r-markdown",
+                "tableau",
+                "python",
+                "django",
+                "html",
+                "css",
+                "javascript",
+                "c++"
+            ],
+            "soft": [
+                "proactividad",
+                "comunicación",
+                "autodidacta",
+                "liderazgo",
+                "trabajo-en-equipo"
+            ],
+            "tools": [
+                "visual-studio-code",
+                "postman",
+                "fastprg",
+                "microsoft-office",
+                "office-365",
+                "google-sheets",
+                "outlook",
+                "solidworks",
+                "autocad2d",
+                "simplify3d",
+                "autodesk-netfabb",
+                "freecad"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "CSS",
+            "issuing_organization": "Sololearn",
+            "issue_date": "2019-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Python Core",
+            "issuing_organization": "Sololearn",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Python Complete course for beginners",
+            "issuing_organization": "Udemy",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Python for beginners",
+            "issuing_organization": "Sololearn",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Python for Data Science",
+            "issuing_organization": "Sololearn",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Python Data Structures",
+            "issuing_organization": "Sololearn",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Intermediate Python",
+            "issuing_organization": "Sololearn",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Data Structures and Algorithms for coding interview",
+            "issuing_organization": "Udemy",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "JavaScript",
+            "issuing_organization": "Sololearn",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Django - Desarrollo web backend",
+            "issuing_organization": "OpenBootcamp",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Programación Python",
+            "issuing_organization": "ITMaster cooding academy",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Data Analytics Google certificate (cursando)",
+            "issuing_organization": "Coursera",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermediate B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

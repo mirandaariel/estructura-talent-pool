@@ -1,0 +1,159 @@
+{
+    "personal_info": {
+        "first_name": "Nicolás",
+        "last_name": "Lo Giudice",
+        "email": "logiudicenicolas04@gmail.com",
+        "phone": "+54 2241 527222",
+        "location": {
+            "country": "Argentina",
+            "city": "Dolores",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un desarrollador autodidacta apasionado por la tecnología y la programación. He trabajado en el desarrollo de aplicaciones web y móviles utilizando tecnologías modernas como React, React Native y Node.js. Me motiva aprender continuamente y crear soluciones prácticas que aporten valor a los clientes. Mi objetivo es seguir creciendo profesionalmente en el desarrollo de software y contribuir al éxito de proyectos innovadores."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Freelance",
+            "company": "Crazedev",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Creación de aplicaciones móviles y web personalizadas adaptadas a las necesidades específicas de clientes locales, ofreciendo soluciones eficientes y personalizadas.",
+                "Implementación de bases de datos utilizando Firebase y PostgreSQL para garantizar la gestión segura y eficiente de datos en aplicaciones web y móviles.",
+                "Desarrollo de interfaces atractivas y responsivas utilizando Tailwind CSS, mejorando la experiencia del usuario en todas las plataformas.",
+                "Mantenimiento y actualización de sistemas existentes para asegurar su correcto funcionamiento y eficiencia a lo largo del tiempo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachillerato",
+            "institution": "CENS",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "c#",
+                "html",
+                "css",
+                "express.js",
+                "postgresql",
+                "mongodb",
+                "firebase",
+                "react",
+                "react-native",
+                "unity",
+                "node.js",
+                "sequelize",
+                "mongoose",
+                "notifee",
+                "webrtc"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Full Stack Developer",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Fundamentos del desarrollo web: Full Stack o Front-end",
+            "issuing_organization": "LinkedIn",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "JavaScript avanzado: Buenas prácticas",
+            "issuing_organization": "LinkedIn",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "JavaScript avanzado: Expresiones regulares",
+            "issuing_organization": "LinkedIn",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Full Stack Developer",
+            "issuing_organization": "Udemy",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo Web",
+            "issuing_organization": "Udemy",
+            "issue_date": "2018-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Farmadolores",
+            "description": "Desarrollé una aplicación móvil con React Native para la interfaz, Redux para la gestión de estado y Firebase para la base de datos, registro, inicio de sesión y autenticación con Google. La aplicación proporciona información detallada sobre farmacias locales y servicios de emergencia, incluyendo listados con dirección, horarios y teléfonos, además de una pantalla de detalles ampliados y un mapa interactivo para la ubicación.",
+            "technologies": ["react-native", "firebase", "tailwind-css"],
+            "url": ""
+        },
+        {
+            "name": "Cambialo",
+            "description": "Diseñé una aplicación que promueve el intercambio y venta de productos y servicios, fomentando un consumo más responsable y sostenible.",
+            "technologies": ["typescript"],
+            "url": ""
+        },
+        {
+            "name": "Emme3D",
+            "description": "Desarrollé una aplicación de comercio electrónico con funcionalidades integrales que incluyen gestión de productos, organización, gestión de usuarios, experiencia de compra y administración.",
+            "technologies": ["typescript"],
+            "url": ""
+        },
+        {
+            "name": "Poke-Dex",
+            "description": "Desarrollé una aplicación que permite gestionar y explorar información sobre Pokémon con funcionalidades como gestión completa, búsqueda de Pokémon y página de detalles.",
+            "technologies": ["node.js", "express", "sequelize", "postgresql", "react", "redux", "css"],
+            "url": ""
+        },
+        {
+            "name": "Horarios",
+            "description": "Desarrollé una aplicación web para gestionar y visualizar horarios de estaciones de servicio. Incluye diseño, implementación y pruebas completas.",
+            "technologies": ["next.js", "express", "postgresql", "tailwind-css"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

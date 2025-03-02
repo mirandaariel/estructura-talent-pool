@@ -1,0 +1,129 @@
+{
+    "personal_info": {
+        "first_name": "Marco",
+        "last_name": "Ippolito",
+        "email": "marcoippolito96@gmail.com",
+        "phone": "+54 9 341 6 588874",
+        "location": {
+            "country": "Argentina",
+            "city": "Rosario",
+            "state": "Santa Fe"
+        },
+        "linkedin": "https://linkedin.com/in/marco-ippolito-025918200",
+        "website": "",
+        "portfolio": "https://github.com/MarcoIppolito96",
+        "summary": "Cuento con formación en el área de análisis e ingeniería de datos y en el desarrollo backend. Comprometido a generar valor mediante la optimización de sistemas de inteligencia artificial y análisis de datos, brindando soluciones innovadoras que impulsen la toma de decisiones estratégicas, mejoren la eficiencia operativa y aporten al crecimiento de la organización a través del aprendizaje continuo y la adopción de nuevas tecnologías."
+    },
+    "work_experience": [
+        {
+            "job_title": "Administrador de Sistemas",
+            "company": "ABRATECNICA S.R.L",
+            "location": "Rosario, Santa Fe, Argentina",
+            "start_date": "2015-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Manipulación de base de datos SQL Server",
+                "Mantenimiento y manejo de CRM",
+                "Desarrollo del sitio E-commerce www.abratecnicasrl.com.ar"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador",
+            "company": "MGM Quality Cetification S.A",
+            "location": "Rosario, Santa Fe, Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Python ETL",
+                "Mantenimiento del servidor",
+                "Creación de Scripts en Python",
+                "Desarrollo del sitio www.grupomgm.com.ar"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Inteligencia Artificial",
+            "institution": "Facultad de Ciencias Exactas, Ingeniería y Agrimensura",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en Agrimensura",
+            "institution": "Facultad de Ciencias Exactas, Ingeniería y Agrimensura",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Secundario",
+            "institution": "Escuela PART. INC. Nº 1018 VIRGEN del ROSARIO",
+            "location": "",
+            "start_date": "",
+            "end_date": "2014-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "sql-server",
+                "python",
+                "aws",
+                "bash",
+                "linux",
+                "pandas",
+                "fastapi",
+                "git",
+                "sql",
+                "postgreSQL",
+                "power-bi"
+            ],
+            "soft": [
+                "adaptabilidad-para-aprender-nuevas-tecnologías-y-herramientas-rápidamente",
+                "capacidad-para-identificar-analizar-y-resolver-problemas-de-manera-eficiente",
+                "capacidad-para-organizar-y-priorizar-tareas-bajo-presión"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {
+                "python": [
+                    {
+                        "name": "ETL y scripts en Python",
+                        "repository_url": ""
+                    }
+                ]
+            },
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Master en JavaScript",
+            "issuing_organization": "Udemy Course - Victor Robles",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio, B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

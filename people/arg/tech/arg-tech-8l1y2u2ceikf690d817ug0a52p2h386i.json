@@ -1,0 +1,143 @@
+{
+    "personal_info": {
+        "first_name": "Ivan Alexandro",
+        "last_name": "Moroz",
+        "email": "AlexandroMoroz5@gmail.com",
+        "phone": "+54 911 6729 9200",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/ivan-alexandro-moroz-java-developer/",
+        "website": "https://alexandromoroz.github.io",
+        "portfolio": "https://github.com/AlexandroMoroz",
+        "summary": "Desarrollador backend enfocado en el aprendizaje continuo y la innovación, con experiencia en Java, Spring Boot y tecnologías emergentes."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "IcarisTech",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Implementación de API RESTful utilizando Spring Boot y MySQL.",
+                "Automatización de procesos para la creación de libros personalizados, mejorando la eficiencia operativa.",
+                "Diseño de interfaz segura para la gestión de datos sensibles."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Hackatón - Segundo Lugar",
+            "company": "No Country",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una plataforma web centrada en la coordinación del ecosistema de salud.",
+                "Integración de inteligencia artificial para la captura de datos clínicos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Pasantía - Desarrollador Full Stack",
+            "company": "No Country",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de microservicios con Spring y Eureka.",
+                "Uso de Hibernate y MySQL para la gestión de datos.",
+                "Implementación de pruebas unitarias con JUnit 5 y Mockito."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollador Web Full Stack",
+            "institution": "Argentina Programa 4.0",
+            "location": "Argentina",
+            "start_date": "2023-03-01",
+            "end_date": "2023-11-04",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Web Full Stack",
+            "institution": "EGG Cooperation",
+            "location": "Argentina",
+            "start_date": "2022-07-16",
+            "end_date": "2023-04-05",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java-17",
+                "spring-boot",
+                "javamailsender",
+                "jwt",
+                "oauth2",
+                "html5",
+                "css3",
+                "javascript",
+                "mysql",
+                "junit-5",
+                "mockito"
+            ],
+            "soft": [],
+            "tools": [
+                "flyway",
+                "lombok",
+                "maven"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Justina.io",
+            "description": "Plataforma para la gestión centralizada de historias clínicas.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Página Marketplace de productos orgánicos",
+            "description": "Conexión entre usuarios y productores locales a través de microservicios.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "My Special Book",
+            "description": "Automatización de la creación de libros personalizados.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado (C2)"
+        },
+        {
+            "language": "Ruso",
+            "proficiency": "Principiante (A1)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

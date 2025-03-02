@@ -1,0 +1,135 @@
+{
+    "personal_info": {
+        "first_name": "Fernando",
+        "last_name": "Campellone",
+        "email": "fernandocampellone@gmail.com",
+        "phone": "+5493513303777",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/FernandoCampellone",
+        "website": "",
+        "portfolio": "https://github.com/FernandoCampellone",
+        "summary": "Full Stack Developer with experience in agile methodologies, GIT, data structures, algorithms, CSS frameworks, HTML, and Node.js. Proficient in Back-end development using JavaScript and TypeScript with NestJs and Express, and Front-end development with React and NextJs. Skilled at teamwork using SCRUM agile methodologies, task planning to meet objectives within deadlines, and problem-solving for unexpected issues."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "Scrum Latam",
+            "location": "Remote",
+            "start_date": "2024-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Colaboración como desarrollador Fullstack en la creación de la página web de Scrum Latam utilizando JavaScript/TypeScript.",
+                "Integración y trabajo en equipo siguiendo metodologías ágiles, asegurando el cumplimiento eficiente de objetivos.",
+                "Implementación de backend robusto con NestJS, Prisma y PostgreSQL, asegurando escalabilidad y seguridad.",
+                "Creación de interfaces frontend eficientes con React y TailwindCSS, optimizando rendimiento y accesibilidad.",
+                "Aplicación de buenas prácticas de código con herramientas como ESLint, Prettier, Husky y CommitLint.",
+                "Integración y consumo de APIs REST documentadas con Swagger.",
+                "Gestión de proyectos y tareas utilizando JIRA, siguiendo metodologías ágiles SCRUM.",
+                "Colaboración con diseñadores mediante Figma para la implementación de UI/UX.",
+                "Implementación de procesos de control de versiones con Git y GitHub."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "Bachiller en Ingeniería de Sistemas",
+            "institution": "Universidad Tecnológica Nacional - Facultad Regional Córdoba",
+            "location": "Córdoba, Argentina",
+            "start_date": "2017-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javaScript",
+                "typeScript",
+                "node.js",
+                "nestJs",
+                "express",
+                "react",
+                "nextJs",
+                "tailwindCSS",
+                "prisma",
+                "postgreSQL"
+            ],
+            "soft": [
+                "teamwork",
+                "problem-solving",
+                "agile-methodologies"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "jest",
+                "eslint",
+                "prettier",
+                "husky",
+                "commitLint",
+                "jira",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {
+                "javaScript": [],
+                "react": [],
+                "node.js": []
+            },
+            "soft": {
+                "teamwork": [],
+                "problem-solving": []
+            }
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Movimiento Juvenil Peregrinos",
+            "description": "Una plataforma web diseñada para fortalecer la comunidad de la congregación. Permite a los miembros explorar y registrarse para eventos, así como realizar donaciones a la iglesia de manera fácil y segura.",
+            "technologies": ["full-stack", "web-development"],
+            "url": ""
+        },
+        {
+            "name": "Lotes Toscas",
+            "description": "Una página web para ayudar a los propietarios de lotes de un barrio privado a acceder a la información de sus lotes e inquilinos rápidamente. También proporciona información del propietario y contacto para quienes quieran alquilar un lote.",
+            "technologies": ["full-stack", "web-development"],
+            "url": ""
+        },
+        {
+            "name": "Proyecto E-commerce",
+            "description": "Desarrollo de un back-end para un e-commerce con control de stock y seguridad en las rutas mediante asignación de roles a los usuarios.",
+            "technologies": ["back-end", "e-commerce"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Advanced"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

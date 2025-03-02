@@ -1,0 +1,52 @@
+{
+    "personal_info": {
+        "first_name": "Lautaro Jonathan",
+        "last_name": "Poma Ortiz",
+        "email": "lautarojpomao@gmail.com",
+        "phone": "+54 9 1132192305",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "https://github.com/LautaroJPoma",
+        "portfolio": "",
+        "summary": "Técnico Superior en Programación con conocimientos en Java y Spring Boot. Apasionado por el desarrollo backend, la optimización de bases de datos y la implementación de APIs. Busco mi primera oportunidad en IT para seguir aprendiendo y aportar mis habilidades en un equipo de trabajo."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Técnico Superior en Programación",
+            "institution": "Teclab Instituto Técnico Superior",
+            "location": "",
+            "start_date": "2022-08-01",
+            "end_date": "2024-08-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["java", "spring-boot", "mysql"],
+            "soft": [],
+            "tools": ["git", "github", "swagger"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sistema de Gestión de Supermercado",
+            "description": "Desarrollo de una API REST para gestionar productos, clientes y órdenes de compra. Implementación de relaciones entre entidades con JPA/Hibernate, optimizando consultas a la base de datos. Uso de Spring Boot para la lógica de negocio y Swagger para la documentación. Aplicación de validaciones de datos y manejo de excepciones para mejorar la robustez del sistema.",
+            "technologies": ["spring-boot", "mysql", "jpa", "hibernate"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -12,7 +12,7 @@
         "linkedin": "https://linkedin.com/in/gonzalo-haag",
         "website": "",
         "portfolio": "",
-        "summary": "Desarrollador Fullstack con experiencia en tecnologías web y móviles. Especializado en PHP (Symfony), React.js (Next.js) y bases de datos SQL. Desarrollo soluciones escalables y optimizadas, asegurando integración eficiente de APIs y gestión de servidores con Docker."
+        "summary": "Desarrollador Fullstack con experiencia en tecnologías web y móviles. Especializado en PHP (Symfony), React.js (Next.js) y bases de datos SQL. Desarrollo soluciones escalables y optimizadas, asegurando integración eficiente de APIs y gestión de servidores con Docker. Mi enfoque se centra en la creación de aplicaciones dinámicas y eficientes, tanto en el frontend como en el backend, con un fuerte énfasis en la calidad del código y la experiencia del usuario."
     },
     "work_experience": [
         {
@@ -20,13 +20,13 @@
             "company": "NTSS s.a.s",
             "location": "Buenos Aires, Argentina",
             "start_date": "2023-03-01",
-            "end_date": "2025-01-31",
+            "end_date": "2025-02-28",
             "currently_working": false,
             "responsibilities": [
-                "Desarrolle soluciones backend robustas utilizando Symfony y PHP, asegurando un código limpio, mantenible y escalable, lo que permitió reducir los tiempos de respuesta de las APIs en un 25%.",
-                "Lidere la optimización de bases de datos SQL, resultando en una reducción del 40% en el tiempo de ejecución de consultas críticas.",
-                "Encargado de configurar y desplegar entornos de desarrollo con Docker, reduciendo el tiempo de configuración de entornos en un 30%.",
-                "Implementación de scripts y herramientas de automatización para tareas repetitivas, liberando tiempo del equipo para enfocarse en tareas de mayor valor."
+                "Desarrollé soluciones backend robustas utilizando Symfony y PHP, asegurando un código limpio, mantenible y escalable, lo que permitió reducir los tiempos de respuesta de las APIs en un 25% y mejorar la experiencia del usuario final.",
+                "Lideré la optimización de bases de datos SQL, realizando ajustes en consultas, índices y estructuras de datos, lo que resultó en una reducción del 40% en el tiempo de ejecución de consultas críticas y un mejor rendimiento general de las aplicaciones.",
+                "Encargado de configurar y desplegar entornos de desarrollo con Docker, facilitando la integración continua y reduciendo el tiempo de configuración de entornos en un 30%, lo que aceleró el proceso de desarrollo y despliegue.",
+                "Implementación de scripts y herramientas de automatización para tareas repetitivas, como la generación de reportes y la ejecución de pruebas, lo que liberó tiempo del equipo para enfocarse en tareas de mayor valor."
             ],
             "achievements": [],
             "repository_url": ""
@@ -39,10 +39,10 @@
             "end_date": "",
             "currently_working": true,
             "responsibilities": [
-                "Desarrollo sistemas web a medida utilizando tecnologías como Next.js, PHP, Symfony, Laravel y PostgreSQL.",
-                "Optimizo el rendimiento de aplicaciones, reduciendo los tiempos de carga en un 30% mediante la optimización de consultas SQL.",
-                "Diseño e integro APIs robustas para conectar sistemas externos.",
-                "Trabajo estrechamente con los clientes para entender sus necesidades y entregar soluciones que cumplan con sus expectativas."
+                "Desarrollo sistemas web a medida utilizando tecnologías como Next.js, PHP, Symfony, Laravel y PostgreSQL, seleccionando la tecnología más adecuada para cada proyecto según sus requisitos y escalabilidad.",
+                "Optimizo el rendimiento de aplicaciones, reduciendo los tiempos de carga en un 30% mediante la optimización de consultas SQL, caching y ajustes en el código backend.",
+                "Diseño e integro APIs robustas para conectar sistemas externos y mejorar la funcionalidad de las aplicaciones, asegurando una comunicación eficiente y segura entre servicios.",
+                "Trabajo estrechamente con los clientes para entender sus necesidades y entregar soluciones que cumplan con sus expectativas, asegurando una comunicación clara y una entrega puntual."
             ],
             "achievements": [],
             "repository_url": ""
@@ -60,14 +60,29 @@
     ],
     "skills": {
         "keywords": {
-            "technical": ["next.js", "react.js", "tailwind-css", "bootstrap", "symfony", "php", "sql", "postgresql", "docker", "git", "github"],
-            "soft": ["trabajo-en-equipo", "liderazgo", "comunicación-verbal", "adaptabilidad", "resolución-de-problemas"],
+            "technical": [
+                "next.js",
+                "react.js",
+                "tailwind-css",
+                "bootstrap",
+                "symfony",
+                "php",
+                "sql",
+                "postgresql",
+                "docker",
+                "git",
+                "github"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "liderazgo",
+                "comunicación-verbal",
+                "adaptabilidad",
+                "resolución-de-problemas"
+            ],
             "tools": []
         },
-        "detailed": {
-            "technical": {},
-            "soft": {}
-        }
+        "detailed": {}
     },
     "certifications": [],
     "projects": [],

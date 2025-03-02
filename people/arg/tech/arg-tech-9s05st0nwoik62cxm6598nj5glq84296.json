@@ -1,0 +1,119 @@
+{
+    "personal_info": {
+        "first_name": "Jonathan",
+        "last_name": "Romano",
+        "email": "R.jonathanromano@gmail.com",
+        "phone": "+54 11 2699 8295",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/jonathan-romano",
+        "website": "",
+        "portfolio": "",
+        "summary": "En los últimos años, me especialicé como Backend Developer, adquiriendo sólidos conocimientos en el desarrollo con Java y aplicándolos en diversos proyectos personales."
+    },
+    "work_experience": [
+        {
+            "job_title": "Entrenador de personal",
+            "company": "Arcos Dorados",
+            "location": "",
+            "start_date": "2021-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Entrenador de personal",
+                "Atención al cliente",
+                "Cocina"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas",
+            "institution": "Universidad Tecnológica Nacional (UTN)",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "microservicios",
+                "springboot",
+                "springcloud",
+                "springsecurity",
+                "hibernate",
+                "mysql",
+                "feign",
+                "oauth2",
+                "jwt",
+                "resttemplate",
+                "api-gateway",
+                "docker",
+                "lombok",
+                "postman",
+                "intellij",
+                "github",
+                "maven",
+                "mvc",
+                "bootstrap",
+                "mongodb",
+                "vuejs",
+                "javascript",
+                "html",
+                "css",
+                "angular",
+                "typescript",
+                "nodejs",
+                "expresjs"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "capacidad-de-adaptación",
+                "iniciativa",
+                "proactivo",
+                "aprendizaje-continuo",
+                "escucha-activa"
+            ],
+            "tools": [
+                "intellij",
+                "eclipse",
+                "vs-code",
+                "postman",
+                "github",
+                "slack",
+                "discord"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Technomist",
+            "description": "Aplicación web integral para gestionar productos, carritos  de compras y ventas en una plataforma de comercio  electrónico.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "ClinicData",
+            "description": "Aplicación web para gestionar pacientes y sus visitas médicas, facilitando la visualización, administración y registro detallado de la información.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
