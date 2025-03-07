@@ -1,0 +1,134 @@
+{
+    "personal_info": {
+        "first_name": "Carlos",
+        "last_name": "Soria",
+        "email": "soria_iacc@hotmail.com",
+        "phone": "543514599655",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "Carlos Soria",
+        "summary": "Desarrollador web full stack con experiencia en la creación de aplicaciones web escalables y responsivas. Especializado en el desarrollo con JavaScript y TypeScript, utilizando tecnologías como React, Next.js, Node.js y Express. Manejo de bases de datos NoSQL con MongoDB y Mongoose, incluyendo modelado de datos, relaciones con populate y middlewares para validaciones. Experiencia en la gestión de autenticación con JWT, integración de almacenamiento en la nube con Cloudinary y despliegue en Vercel y Render."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack Freelance",
+            "company": "G.O.G",
+            "location": "",
+            "start_date": "2025-03-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de la parte del Front-End utilizando Javascript, React, Vite y TailwindCSS.",
+                "Desarrollo de la parte del Back-End utilizando NodeJs, Express y MongoDB.",
+                "Autenticación con JWT para gestionar usuarios de manera segura.",
+                "Subida de archivos con Cloudinary, permitiendo el almacenamiento de PDFs e imágenes.",
+                "Diseño y gestión de bases de datos en MongoDB, definiendo los esquemas y relaciones entre documentos con Mongoose y populate.",
+                "Arquitectura monolítica estructurada, dividiendo el código en admin, backend y frontend.",
+                "Patrón MVC en el backend, asegurando escalabilidad y mantenimiento.",
+                "Middlewares en Mongoose para evitar referencias huérfanas al editar o eliminar datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack Freelance",
+            "company": "Domestic Pet",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Construcción desde cero de un ecommerce utilizando Javascript, React, Nextjs y TailwindCSS.",
+                "Desarrollo de la parte del Back-End utilizando NodeJs, NextJs y MongoDB.",
+                "Optimización de la web con Next.js gracias a su renderizado híbrido, mejora en SEO y excelente rendimiento.",
+                "Mantenimiento y soporte de la pagina web",
+                "Atención al cliente"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollador NodeJS",
+            "institution": "Telecom / Digitalers / Educacion IT",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Autodidacta",
+            "institution": "",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "nextjs",
+                "html5",
+                "css3",
+                "tailwindcss",
+                "node.js",
+                "express",
+                "mongodb",
+                "mongoose",
+                "jwt",
+                "context-api",
+                "cloudinary",
+                "vercel",
+                "render",
+                "mongodb-atlas",
+                "restful-apis",
+                "axios",
+                "postman",
+                "git",
+                "gitlab",
+                "github"
+            ],
+            "soft": [
+                "organización-personal",
+                "kanban"
+            ],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Construcción de plataforma educativa (colaboración)",
+            "description": "Esta plataforma educativa ofrece una experiencia integral para administradores, profesores y alumnos.",
+            "technologies": ["JWT", "React", "Node.js", "Express", "MongoDB", "Cloudinary", "TailwindCSS", "Vite"],
+            "url": ""
+        },
+        {
+            "name": "E-commerce: Domestic Pet",
+            "description": "Plataforma de comercio electrónico especializada en alimentos para mascotas.",
+            "technologies": ["Next.js", "Cloudinary", "MongoDB Atlas"],
+            "url": ""
+        },
+        {
+            "name": "Sistema de Gestión de Citas Médicas",
+            "description": "Un sistema para la gestión de citas con autenticación y manejo de roles.",
+            "technologies": ["Node.js", "Express", "MongoDB", "JWT", "React", "TailwindCSS"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

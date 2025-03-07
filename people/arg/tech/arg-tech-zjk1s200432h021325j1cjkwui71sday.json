@@ -1,0 +1,89 @@
+{
+  "personal_info": {
+    "first_name": "Melisa",
+    "last_name": "Peano",
+    "email": "melisa.peano@gmail.com",
+    "phone": "+5492915326153",
+    "location": {
+      "country": "Argentina",
+      "city": "",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/melisa-peano-b264822b9/",
+    "website": "",
+    "portfolio": "https://porfoliomelisapeano.vercel.app",
+    "summary": "Full Stack Web Developer with expertise in Javascript, Typescript, Node.js, Express, React, and more."
+  },
+  "work_experience": [],
+  "education": [
+    {
+      "degree": "Técnica en Ciencias de la Agricultura",
+      "institution": "IPEA 81",
+      "location": "Bengolea, Córdoba, Argentina",
+      "start_date": "",
+      "end_date": "2012-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Ingeniería de Software Comercial con Concentración en Diseño y Arquitectura",
+      "institution": "Jala University",
+      "location": "1003 Bishop st. Suite 2700, Honolulu, HI 96813, USA",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "javascript",
+        "typescript",
+        "python",
+        "java",
+        "react",
+        "node.js",
+        "express",
+        "nestjs",
+        "postgres-sql",
+        "git"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Página de gestión de turnos",
+      "description": "Backend developed with Typescript and TypeORM using Postgres SQL. User management with JWT and password hashing. Frontend with React, Styled Components, and Redux Toolkit.",
+      "technologies": ["typescript", "typeorm", "postgres-sql", "jwt", "react", "styled-components", "redux-toolkit"],
+      "url": ""
+    },
+    {
+      "name": "Cinema Page",
+      "description": "Backend with Javascript, Express, MongoDB, and Mongoose. Full CRUD functionality. Frontend using HTML, Bootstrap, CSS, and Webpack.",
+      "technologies": ["javascript", "express", "mongodb", "mongoose", "html", "bootstrap", "css", "webpack"],
+      "url": ""
+    },
+    {
+      "name": "To Do List",
+      "description": "Full stack app with NestJS, JWT, Passport, Postgres, and Prisma. Testing with Jest. Frontend with React and Tailwind CSS.",
+      "technologies": ["nestjs", "jwt", "passport", "postgres", "prisma", "jest", "react", "tailwind-css"],
+      "url": ""
+    },
+    {
+      "name": "Backend ecommerce",
+      "description": "Backend focused project with NestJS, Postgres SQL and TypeORM. API documented with Swagger.",
+      "technologies": ["nestjs", "postgres-sql", "typeorm", "swagger"],
+      "url": ""
+    }
+  ],
+  "languages": [],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

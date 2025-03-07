@@ -1,0 +1,102 @@
+{
+    "personal_info": {
+        "first_name": "Taiel",
+        "last_name": "Sagretti",
+        "email": "taielm.sagretti@gmail.com",
+        "phone": "+54 9 3402 505110",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/taiel-sagretti/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Student of software development with expertise in backend with JavaScript/TypeScript, Express, and MongoDB. Skilled in problem-solving and delivering impactful solutions through collaboration and technical proficiency. Passionate about learning and contributing to innovative projects in dynamic tech environments."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Higher Technical Degree in Software Development",
+            "institution": "Academy",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "java",
+                "mongodb",
+                "mysql",
+                "expressjs",
+                "nestjs"
+            ],
+            "soft": [
+                "team-work",
+                "manual-qa",
+                "verbal-&-written-communication"
+            ],
+            "tools": [
+                "postman",
+                "swagger",
+                "vsc",
+                "netbeans"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Wotech",
+            "description": "Joined two classmates to help develop the backend of a website for a carpentry business.",
+            "technologies": ["javascript", "expressjs", "mysql", "react"],
+            "url": ""
+        },
+        {
+            "name": "E-Commerce API",
+            "description": "Developed a complete API (with a very basic UI) for a fictional e-commerce platform.",
+            "technologies": ["javascript", "expressjs", "mongodb"],
+            "url": ""
+        },
+        {
+            "name": "User API",
+            "description": "Developed a basic user management API.",
+            "technologies": ["javascript", "expressjs", "mongodb"],
+            "url": ""
+        },
+        {
+            "name": "No-Country Service Marketplace",
+            "description": "Worked as a backend developer in a team to build a service marketplace website.",
+            "technologies": ["javascript", "expressjs", "mongodb", "reactjs"],
+            "url": ""
+        },
+        {
+            "name": "No-Country Newsletter Platform",
+            "description": "Worked as a backend developer in a team to create a newsletter platform.",
+            "technologies": ["typescript", "expressjs", "mongodb", "react"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "English",
+            "proficiency": "Upper-Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

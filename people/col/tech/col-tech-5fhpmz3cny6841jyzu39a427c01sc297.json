@@ -1,0 +1,128 @@
+{
+    "personal_info": {
+        "first_name": "Juan Diego",
+        "last_name": "Quintero Argüello",
+        "email": "juandiegoquintero2505@gmail.com",
+        "phone": "+57 316 291 5209",
+        "location": {
+            "country": "Colombia",
+            "city": "Bucaramanga",
+            "state": "Santander"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy una persona organizada que cumple con las responsabilidades asignadas. Me interesa formar parte de un equipo colaborativo que me permita avanzar en mi carrera profesional y seguir ampliando mis habilidades y conocimientos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador web",
+            "company": "Corporacion Avance",
+            "location": "Bucaramanga",
+            "start_date": "2024-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de módulos web",
+                "Creación de un bot de validación",
+                "Extracción de texto de imágenes",
+                "Implementación de funciones de videoconferencia"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollador Web Full-stack",
+            "institution": "Campuslands",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller con profundización en pedagogía",
+            "institution": "Escuela Normal Superior de Piedecuesta",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Fundamentos de programación y tecnologías digitales",
+            "institution": "Ministerio de Tecnologías de la Información y las Comunicaciones",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso de inglés, Teenagers",
+            "institution": "Universidad Industrial de Santander (UIS)",
+            "location": "Bucaramanga",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "html",
+                "javascript",
+                "php",
+                "node.js",
+                "react.js",
+                "express.js",
+                "bootstrap",
+                "figma",
+                "css",
+                "tailwindcss",
+                "mysql",
+                "mongodb",
+                "postgresql",
+                "desarrollo-web",
+                "git-&-github"
+            ],
+            "soft": [
+                "adaptabilidad",
+                "mentalidad-de-crecimiento",
+                "honestidad",
+                "responsabilidad",
+                "resolución-de-problemas",
+                "manejo-de-tiempo",
+                "trabajo-en-equipo",
+                "habilidades-interpersonales"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "German Andrés Torres Cely",
+            "relationship": "Jr. Desarrollador",
+            "contact": "+57 305 4075468"
+        },
+        {
+            "name": "Adriana Marcela Argüello",
+            "relationship": "Ingeniera de sistemas",
+            "contact": "+57 316 7548216"
+        }
+    ]
+}

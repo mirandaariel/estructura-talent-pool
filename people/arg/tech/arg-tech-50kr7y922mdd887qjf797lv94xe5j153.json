@@ -1,0 +1,192 @@
+{
+    "personal_info": {
+        "first_name": "Exequiel",
+        "last_name": "R Zalazar",
+        "email": "exeatlas1127@gmail.com",
+        "phone": "+543794-378889",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "LinkedIn",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un profesional especializado en sistemas con una sólida formación y una muy buena experiencia en el testeo de aplicaciones web y móviles."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador de Automatizacion SSR",
+            "company": "HS Consulting",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de pruebas automatizadas para la web de la App Adinsurance utilizando Katalon Studio.",
+                "Reducción del 50% de errores en la ejecución de los test.",
+                "Agregación de mejoras en la ejecución de los test suite."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA Manual y QA Automatizacion JR",
+            "company": "No Nerds No Problem",
+            "location": "",
+            "start_date": "2022-09-01",
+            "end_date": "2024-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Realizar pruebas manuales de aplicaciones web y móviles.",
+                "Creación de casos de prueba, reporte y seguimiento de errores utilizando Jira.",
+                "Pruebas automatizadas utilizando Selenium CodeceptJS y Cypress.",
+                "Pruebas de estrés y carga utilizando Postman, Locust, JMeter y Artillery."
+            ],
+            "achievements": [
+                "La aplicación Starkix alcanzó los requerimientos mínimos un 20% más rápido.",
+                "Evaluación en tiempo real del tráfico continuo soportable en la aplicación Blueverse."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador front-end JR",
+            "company": "No Nerds No Problem",
+            "location": "",
+            "start_date": "2022-03-01",
+            "end_date": "2022-09-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo web utilizando el framework ReactJs.",
+                "Desarrollo móvil con React Native."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Gestion de sistemas-desarrollo de SW",
+            "company": "Electrolineas SA",
+            "location": "",
+            "start_date": "2020-11-01",
+            "end_date": "2022-08-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Soluciones a problemas internos de sistemas y equipos computacionales.",
+                "Administración de base de datos y control de stock.",
+                "Desarrollo de aplicaciones internas utilizando Java, JavaScript y SQL.",
+                "Desarrollo de aplicaciones móviles utilizando Ionic y ReactJS."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas de la información",
+            "institution": "UTN-FREE",
+            "location": "",
+            "start_date": "2014-03-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo web con Django",
+            "institution": "Informatorio Chaco",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "QA Manual",
+            "institution": "Informatorio Chaco",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Analisis de datos",
+            "institution": "Informatorio Chaco",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": ".NET Developer",
+            "institution": "Digitalers y Telecom",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "electron",
+                "cypress",
+                "codecepjs",
+                "javascript",
+                "react",
+                "native",
+                "jmeter",
+                "nodejs",
+                "net",
+                "django",
+                "artillery",
+                "jira",
+                "python",
+                "postman",
+                "selenium",
+                "html/css",
+                "haskell",
+                "katalon",
+                "sql",
+                "reactjs"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Adinsurance",
+            "description": "Desarrollo de pruebas automatizadas para Adinsurance utilizando Katalon Studio.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Blueverse, Starkix y Loper",
+            "description": "Realización de pruebas manuales y automatizadas para aplicaciones web y móviles.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Loper y Limber",
+            "description": "Desarrollo web utilizando ReactJs y desarrollo móvil con React Native.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Escrito B2 - Oral B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

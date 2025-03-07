@@ -23,7 +23,7 @@
             "end_date": "",
             "currently_working": true,
             "responsibilities": [
-                "Desarrollo de soluciones digitales personalizadas para diversos comercios.",
+                "Desarrollo de soluciones digitales personalizadas (booking, e-commerce, web y apps) para diversos comercios.",
                 "Uso de tecnologías como React, React-Native, Firebase, Tailwind, Bootstrap, Git/GitHub/GitLab.",
                 "Soporte técnico y comunicación directa con clientes para mejorar productos basado en feedback.",
                 "Liderazgo en la planificación y ejecución de proyectos, garantizando entregas a tiempo y con alta calidad."
@@ -33,8 +33,8 @@
         },
         {
             "job_title": "Desarrollador Web Full Stack",
-            "company": "EventPro (StartUp, España)",
-            "location": "",
+            "company": "EventPro",
+            "location": "StartUp, España",
             "start_date": "2024-01-01",
             "end_date": "2024-12-31",
             "currently_working": false,
@@ -49,13 +49,12 @@
         {
             "job_title": "Desarrollador Web Full Stack",
             "company": "RanDev",
-            "location": "",
+            "location": "StartUp",
             "start_date": "2022-01-01",
             "end_date": "2024-12-31",
             "currently_working": false,
             "responsibilities": [
                 "Desarrollo de sistemas de booking, e-commerce y aplicaciones personalizadas.",
-                "Tecnologías utilizadas: React, React-Native, Tailwind, Firebase, Git/GitHub.",
                 "Planificación, diseño y liderazgo de proyectos desde su concepción hasta su puesta en producción.",
                 "Soporte técnico y comunicación con clientes para resolver problemas y mejorar productos."
             ],
@@ -73,7 +72,7 @@
                 "Lideré equipos de más de 8 personas, asignando tareas, supervisando desempeño y fomentando un ambiente de trabajo colaborativo.",
                 "Responsable de la planificación y ejecución de la logística de almacén, incluyendo la recepción, organización y distribución de mercancías.",
                 "Brindé atención personalizada a clientes, resolviendo consultas y gestionando reclamos.",
-                "Implementé un sistema de organización de depósito que redujo los errores de inventario en un 25%."
+                "Implementé un sistema de organización de depósito que redujo los errores de inventario en un 25%, utilizando herramientas básicas de software y planificación manual."
             ],
             "achievements": [],
             "repository_url": ""
@@ -83,21 +82,18 @@
     "skills": {
         "keywords": {
             "technical": [
-                "javascript",
-                "react",
-                "react-native",
-                "angular",
+                "javascript", 
+                "react", 
+                "react-native", 
+                "angular", 
                 "ionic",
-                "tailwind",
-                "bootstrap",
-                "materialui",
-                "firebase",
-                "git",
-                "github",
-                "gitlab",
-                "agile",
-                "scrum",
-                "kanban"
+                "tailwind", 
+                "bootstrap", 
+                "materialui", 
+                "firebase", 
+                "git", 
+                "github", 
+                "gitlab"
             ],
             "soft": [
                 "comunicación-efectiva",
@@ -113,7 +109,10 @@
                 "postman"
             ]
         },
-        "detailed": {}
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
     },
     "certifications": [],
     "projects": [],

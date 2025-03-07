@@ -1,0 +1,143 @@
+{
+    "personal_info": {
+        "first_name": "Gerardo",
+        "last_name": "Turin",
+        "email": "gera_1993_06@hotmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Las Varas",
+            "state": "Córdoba"
+        },
+        "linkedin": "https://www.linkedin.com/in/gerardo-turin",
+        "website": "",
+        "portfolio": "https://gerardoturindev.com",
+        "summary": "Desarrollador Full Stack con experiencia en diseño, desarrollo y mantenimiento de aplicaciones web. Experto en JavaScript, React, Angular, NodeJS y ExpressJS. Hábil en desarrollo frontend y backend, implementación de APIs RESTful y gestión de bases de datos. Con fuertes habilidades para la resolución de problemas, comunicación efectiva y colaboración en equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Centrik",
+            "location": "Ecuador",
+            "start_date": "2024-09-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo Front-end con React y PrimeReact",
+                "Creación de componentes",
+                "Estructurar la interfaz de usuario de la aplicación",
+                "Desarrollo Back-End con Java, SpringBoot, JPA",
+                "Desarrollo de RESTful API",
+                "Gestión de solicitudes (request) y respuestas (response)",
+                "Integración con bases de datos (PostgreSQL)"
+            ],
+            "achievements": [
+                "Colaboré con un equipo de desarrollo en una aplicación de gestión de riesgos para empresas",
+                "Desarrollé un nuevo módulo de la aplicación dedicado a Normas de calidad"
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Fina Partner",
+            "location": "Venezuela",
+            "start_date": "2024-04-01",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo Front-end con Angular",
+                "Creación de componentes",
+                "Estructurar la interfaz de usuario de la aplicación",
+                "Desarrollo Back-End con Node.js, TypeScript, Express",
+                "Desarrollo de RESTful API",
+                "Gestión de solicitudes (request) y respuestas (response)",
+                "Integración con bases de datos (MongoDB)"
+            ],
+            "achievements": [
+                "Automaticé el 80% de las tareas manuales mediante el desarrollo de una solución eficiente",
+                "Mejoré la toma de decisiones basada en datos mediante la implementación de gráficos",
+                "Mejoré la gestión de la información de los clientes con control de pagos",
+                "Diseñé una interfaz de usuario intuitiva para la visualización y gestión de datos"
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer Freelance",
+            "company": "Freelance",
+            "location": "Argentina",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollar, probar e implementar aplicaciones web",
+                "Producción de componentes de interfaz de usuario interactivos y responsivos",
+                "Desarrollo de RESTful API"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "angular",
+                "api",
+                "apis",
+                "bootstrap",
+                "css",
+                "data-visualization",
+                "database-management",
+                "expressjs",
+                "front-end",
+                "git",
+                "github",
+                "html",
+                "java",
+                "javascript",
+                "jpa",
+                "jwt",
+                "material-ui",
+                "mongodb",
+                "node",
+                "nodejs",
+                "postgresql",
+                "redux",
+                "redux-toolkit",
+                "restful",
+                "restful-api",
+                "springboot",
+                "tailwindcss",
+                "typescript"
+            ],
+            "soft": [
+                "problem-solving",
+                "communication",
+                "collaboration"
+            ],
+            "tools": [
+                "react",
+                "primereact"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

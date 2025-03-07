@@ -1,0 +1,115 @@
+{
+    "personal_info": {
+        "first_name": "Maria",
+        "last_name": "Guadalupe Lippo",
+        "email": "gualippo@gmail.com",
+        "phone": "2262-574095",
+        "location": {
+            "country": "Argentina",
+            "city": "San Cayetano",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "I am a recently graduated Full Stack Developer student, passionate about web development. I enjoy creating innovative and functional solutions. I consider myself responsible and collaborative, always open to new experiences that promote growth both professionally and personally."
+    },
+    "work_experience": [
+        {
+            "job_title": "Student",
+            "company": "Informal Jobs and Self-Learning",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Gained experience in responsibility, adaptability, and time management through informal jobs.",
+                "Hands-on experience designing and developing personal and collaborative projects during studies.",
+                "Applied various programming languages, frameworks, and tools learned in training.",
+                "Developed skills in teamwork and effective communication."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor’s degree with a focus on humanities and social sciences",
+            "institution": "High School No. 1",
+            "location": "",
+            "start_date": "2005-01-01",
+            "end_date": "2011-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Certification in the Vértice Full Stack Web Development Program",
+            "institution": "Tandil Technological Cluster",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "nodejs",
+                "html5",
+                "css",
+                "reactjs",
+                "nestjs",
+                "typeorm",
+                "rest-apis",
+                "sql",
+                "mysql"
+            ],
+            "soft": [
+                "responsibility",
+                "adaptability",
+                "time-management",
+                "teamwork",
+                "communication"
+            ],
+            "tools": [
+                "visual-studio-code",
+                "git",
+                "github",
+                "figma",
+                "canva",
+                "excalidraw",
+                "trello",
+                "slack",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Scrum Fundamentals Certified",
+            "issuing_organization": "ScrumStudy",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Basic Level. Good understanding and writing skills, currently improving conversational practice"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

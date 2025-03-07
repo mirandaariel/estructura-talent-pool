@@ -1,0 +1,127 @@
+{
+    "personal_info": {
+        "first_name": "Damian",
+        "last_name": "Sola Zambrano",
+        "email": "damiansola99@gmail.com",
+        "phone": "+54 9 387 4673442",
+        "location": {
+            "country": "Argentina",
+            "city": "Salta",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/damiansola/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy desarrollador web fullstack con sólidos conocimientos en tecnologías modernas y metodologías ágiles como Scrum. Me especializo en la creación de aplicaciones escalables y eficientes, siguiendo buenas prácticas de desarrollo. Me mantengo en constante aprendizaje para optimizar mi stack tecnológico y ofrecer soluciones innovadoras."
+    },
+    "work_experience": [
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Freelancer",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño y maquetado de paginas web.",
+                "Desarrollo con Next.js, JavaScript y React.",
+                "Despliegue en Hostinger."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Genexus Developer",
+            "company": "Digio SRL",
+            "location": "",
+            "start_date": "2022-10-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de sistemas de datos de hospitales y cajas forenses."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachiller Humanista",
+            "institution": "Colegio Gral. Manuel Belgrano",
+            "location": "",
+            "start_date": "",
+            "end_date": "2017-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Fullstack Developer (Bootcamp)",
+            "institution": "SoyHenry",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "tailwind",
+                "react",
+                "next",
+                "node",
+                "express",
+                "mongodb",
+                "postgresql"
+            ],
+            "soft": [],
+            "tools": [
+                "vscode",
+                "git",
+                "github",
+                "vercel",
+                "render",
+                "mongocompas",
+                "atlas",
+                "open-ai",
+                "blackbox",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Checked",
+            "description": "Proyecto personal para eventos con el fin de gestionar listas e invitados, registrando cada uno y supervisando en vivo su asistencia.",
+            "technologies": [
+                "typescript",
+                "tailwind",
+                "react",
+                "next",
+                "node",
+                "express",
+                "mongodb",
+                "redux-thunk"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Native"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

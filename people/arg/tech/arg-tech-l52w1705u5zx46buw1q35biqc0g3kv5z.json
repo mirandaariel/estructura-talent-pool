@@ -1,0 +1,105 @@
+{
+    "personal_info": {
+        "first_name": "Omar",
+        "last_name": "Virili",
+        "email": "omar.virili@gmail.com",
+        "phone": "+549-3482-558453",
+        "location": {
+            "country": "Argentina",
+            "city": "Santa Fe",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/omar-virili/",
+        "website": "https://github.com/odv144",
+        "portfolio": "",
+        "summary": "Desarrollador Web y Técnico en Electrónica, aspirando a oportunidades en programación."
+    },
+    "work_experience": [
+        {
+            "job_title": "Jefe Técnico del Servicio Técnico",
+            "company": "Compushop",
+            "location": "",
+            "start_date": "2007-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Encargado de reparación electrónica y ensamblaje de nuevos equipos.",
+                "Instalación de software y configuración de redes.",
+                "Atención al cliente para recepción y venta de productos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Docente de Tecnología",
+            "company": "Escuela Nacional Nº 6110",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Clases en el área de tecnología para educación primaria."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Encargado General",
+            "company": "Academia Plus Computación",
+            "location": "",
+            "start_date": "2005-01-01",
+            "end_date": "2006-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Encargado general, docente y técnico.",
+                "Instalador de redes cableadas e inalámbricas.",
+                "Dictado de clases de Office y Photoshop."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Superior en Electrónica",
+            "institution": "",
+            "location": "",
+            "start_date": "2007-01-01",
+            "end_date": "2010-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en Sistema de Información",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2002-01-01",
+            "end_date": "2005-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["electrónica", "ui/ux", "git", "java", "react", "html-css-js", "c#", "python"],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Ingles",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Canteros Walter Hugo",
+            "relationship": "Dueño de Compushop",
+            "contact": "Phone: 3482-468040"
+        }
+    ]
+}

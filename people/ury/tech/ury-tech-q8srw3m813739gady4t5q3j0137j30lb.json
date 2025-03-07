@@ -12,11 +12,11 @@
         "linkedin": "https://www.linkedin.com/in/nicolas-camiletti-5b43412a0/",
         "website": "",
         "portfolio": "",
-        "summary": "Me interesa mucho el mundo de la tecnología. Busco actualizar mis conocimientos constantemente. Tengo la capacidad de escuchar y poner en práctica los consejos. Soy muy flexible y sé trabajar bien en equipos. Tengo conocimientos básicos en HTML, CSS y JavaScript. Busco desarrollarme en el área de páginas web tanto la parte de UI como de UX."
+        "summary": "I'm very interested in the world of technology. I'm constantly looking to update my knowledge. I have the ability to listen and put advice into practice. I'm very flexible and know how to work well in teams. I have basic knowledge in HTML, CSS, and JavaScript. I'm looking to develop in the area of web pages, both the UI and UX aspects."
     },
     "work_experience": [
         {
-            "job_title": "Ayudante de dulcero",
+            "job_title": "Ayudante de Dulcero",
             "company": "Los Nietitos",
             "location": "",
             "start_date": "2016-01-01",
@@ -29,9 +29,9 @@
     ],
     "education": [
         {
-            "degree": "Matematica y diseño",
+            "degree": "Matematicas y Diseño",
             "institution": "Liceo Nueva Helvecia",
-            "location": "",
+            "location": "Nueva Helvecia, Dpto. de Colonia",
             "start_date": "2009-01-01",
             "end_date": "2015-12-31",
             "hours": 0
@@ -39,14 +39,24 @@
     ],
     "skills": {
         "keywords": {
-            "technical": ["html", "css", "java-script"],
-            "soft": ["buena-comunicación", "resolución-de-problemas", "proactivo", "responsable"],
-            "tools": ["figma"]
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "ux",
+                "ui"
+            ],
+            "soft": [
+                "good-communication",
+                "problem-solving",
+                "proactive",
+                "responsible"
+            ],
+            "tools": [
+                "figma"
+            ]
         },
-        "detailed": {
-            "technical": {},
-            "soft": {}
-        }
+        "detailed": {}
     },
     "certifications": [],
     "projects": [],
@@ -57,7 +67,7 @@
         },
         {
             "language": "English",
-            "proficiency": "Basic"
+            "proficiency": "Intermediate"
         }
     ],
     "volunteer_experience": [],

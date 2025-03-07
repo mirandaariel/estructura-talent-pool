@@ -1,0 +1,175 @@
+{
+    "personal_info": {
+        "first_name": "Ernesto",
+        "last_name": "Cevasco",
+        "email": "cevascoagustin@gmail.com",
+        "phone": "+549-221-6794938",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Project Manager & Scrum Master",
+            "company": "IGROWKER",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideré proyectos tecnológicos utilizando Jira, Trello y Microsoft Teams.",
+                "Usé metodologías ágiles como Scrum y Kanban para optimizar procesos y asegurar la entrega."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "IT & Digital Strategy Manager",
+            "company": "MOTOS32 S.A.",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Gestiono 25 personas en dos sedes.",
+                "Logré un 85% de crecimiento en ventas con un chatbot impulsado por IA."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA Tester & Engineer Support Specialist",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "2011-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Realizo pruebas automatizadas, gestiono bugs y doy soporte con herramientas como Selenium, Jira y ServiceNow.",
+                "Configuro sistemas, redes y virtualización."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico en Desarrollo Web y Aplicaciones Digitales",
+            "institution": "ISPC",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Contador Público",
+            "institution": "UNLP",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["html", "css", "python", "javascript", "java", "typescript", "c-sharp", "dockerfile"],
+            "soft": [],
+            "tools": ["jira", "trello", "microsoft-teams", "selenium", "service-now"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Organize Projects",
+            "issuing_organization": "Asana",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "AI Performance Ads",
+            "issuing_organization": "Google",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Product Fundamentals",
+            "issuing_organization": "Thiga",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "SEO",
+            "issuing_organization": "Semrush",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "B1 (Inglés)",
+            "issuing_organization": "EF SET",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Scrum",
+            "issuing_organization": "Alaimo Labs",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "EL ANZUELO",
+            "description": "Fullstack web development using HTML, CSS, Python, and JavaScript.",
+            "technologies": ["HTML", "CSS", "Python", "JavaScript"],
+            "url": ""
+        },
+        {
+            "name": "RICCO APP",
+            "description": "Mobile development using Java and Python.",
+            "technologies": ["Java", "Python"],
+            "url": ""
+        },
+        {
+            "name": "MOTOS32",
+            "description": "Project management and technical leadership with WordPress and Wix.",
+            "technologies": ["WordPress", "Wix"],
+            "url": ""
+        },
+        {
+            "name": "BILLDER",
+            "description": "Project management and scrum mastering with TypeScript, JavaScript, C#, and Dockerfile.",
+            "technologies": ["TypeScript", "JavaScript", "C#", "Dockerfile"],
+            "url": ""
+        },
+        {
+            "name": "CEREM",
+            "description": "Project management and scrum mastering with TypeScript, JavaScript, CSS, HTML, and Python.",
+            "technologies": ["TypeScript", "JavaScript", "CSS", "HTML", "Python"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

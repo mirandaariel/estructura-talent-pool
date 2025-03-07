@@ -1,0 +1,175 @@
+{
+    "personal_info": {
+        "first_name": "Tomas",
+        "last_name": "Velez Acosta",
+        "email": "tvelezacosta5@gmail.com",
+        "phone": "+57 3146529330",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/tomas-velez-acosta",
+        "website": "",
+        "portfolio": "https://github.com/tveleza2/Projects",
+        "summary": "I have skills in programming and data analysis, 3D modeling, research, and computational physics. I have basic knowledge of relational databases and their applications using languages such as Python, SQL and JAVA. I am a person with a great attitude for teamwork and attention to detail."
+    },
+    "work_experience": [
+        {
+            "job_title": "Research Intern",
+            "company": "University of Alberta",
+            "location": "",
+            "start_date": "2022-06-01",
+            "end_date": "2022-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Development of the project 'High-power stabilized lasers' as a research assistant under the Mitacs GRI program."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Data Generator",
+            "company": "OUTLIER",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Creation of different prompts oriented to software development in SWIFT and their corresponding response to feed the training dataset of different LLMS."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Data Analyst",
+            "company": "Manrique Acosta Consultores",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Data analysis and processing using Python to measure waste production and its projection to support decision making in waste management plans."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Personal Teacher",
+            "company": "",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Support for students with physics, mathematics and chemistry topics at school and university levels."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Engineering Physics",
+            "institution": "EAFIT",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Specialization in Python for Everybody",
+            "institution": "Michigan University/Coursera",
+            "location": "",
+            "start_date": "2020-05-01",
+            "end_date": "2020-06-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "python",
+                "sql",
+                "oop",
+                "jdbc",
+                "jpa",
+                "spring",
+                "api-rest"
+            ],
+            "soft": [
+                "teamwork",
+                "attention-to-detail"
+            ],
+            "tools": [
+                "maven",
+                "git",
+                "github",
+                "junit",
+                "mockito"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Functional Prototype of a Lensless Microscope",
+            "description": "Developed a functional prototype of a lensless microscope.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Linear Optimization Model for Sampling",
+            "description": "Created a linear optimization model for sampling in the non-approximated Rayleigh-Sommerfeld integral.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Numerical Reconstruction in Lensless Microscopy",
+            "description": "Comparative study of reconstruction methods in lensless microscopy.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Radiation Detector",
+            "description": "Construction and implementation of a radiation detector in proportional regime.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "B2+"
+        },
+        {
+            "language": "German",
+            "proficiency": "A1"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Gil Porat",
+            "relationship": "PhD in Electrical Engineering",
+            "contact": "gporat@ualberta.ca"
+        },
+        {
+            "name": "Cristina Zapata Vahos",
+            "relationship": "PhD in Biotechnology",
+            "contact": "+57 300 791 8388"
+        },
+        {
+            "name": "Pablo Andrés Acosta",
+            "relationship": "Project Leader at Mercado Libre",
+            "contact": "+57 314 628 6914"
+        }
+    ]
+}

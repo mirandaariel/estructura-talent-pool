@@ -1,0 +1,123 @@
+{
+    "personal_info": {
+        "first_name": "Maximiliano",
+        "last_name": "Monje",
+        "email": "maxiiigabrielmonje@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/maximiliano-monje/",
+        "website": "https://gitlab.com/maxiiigabrielmonje",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador de Java y Web",
+            "company": "Alkemy",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicación con Java y Spring Boot bajo metodologías ágiles (SCRUM).",
+                "Coordinación de equipo con Jira y Slack.",
+                "Uso de Git y GitHub para el control de versiones.",
+                "Implementación de Spring Security, JWT, JDBC, JPA, Hibernate y Lombok.",
+                "Pruebas unitarias con JUnit, Mockito y JaCoCo.",
+                "Integración con APIs externas (AWS, SendGrid).",
+                "Documentación de APIs con Swagger.",
+                "Arquitectura REST y patrones de diseño: MVC, DTOs, Repositories, Mappers."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Java Backend Developer",
+            "company": "Technologies for Business",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Documentación técnica de proyectos.",
+                "Uso de Docker, Jira y metodologías ágiles."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Java Backend Developer",
+            "company": "MobyDigital",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de microservicios en Java con Spring Boot.",
+                "Gestión de bases de datos MySQL y sistemas de mensajería con Kafka.",
+                "Comunicación entre microservicios con Feign.",
+                "Implementación de autenticación y seguridad con JWT.",
+                "Uso de patrones de diseño MVC y documentación con Swagger.",
+                "Pruebas unitarias e integración con JUnit y Mockito.",
+                "Desarrollo bajo metodologías ágiles (Scrum, XP), gestión con Jira y Bitbucket.",
+                "Implementación de envío de correos electrónicos y descarga de PDFs.",
+                "Optimización de datos con DTOs, records y proyecciones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista de Sistemas",
+            "institution": "Instituto Tecnológico Beltrán",
+            "location": "",
+            "start_date": "2020-03-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring-boot",
+                "spring-security",
+                "jwt",
+                "jdbc",
+                "jpa",
+                "hibernate",
+                "lombok",
+                "junit",
+                "mockito",
+                "jacoco",
+                "aws",
+                "swagger",
+                "mvc",
+                "docker",
+                "feign",
+                "mysql",
+                "kafka"
+            ],
+            "soft": [],
+            "tools": [
+                "jira",
+                "slack",
+                "git",
+                "github",
+                "bitbucket"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
