@@ -1,0 +1,122 @@
+{
+    "personal_info": {
+        "first_name": "Maximiliano",
+        "last_name": "Salas",
+        "email": "emaxisalas@gmail.com",
+        "phone": "3874649729",
+        "location": {
+            "country": "Argentina",
+            "city": "Salta",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador jr. freelance y tutor en JS/TS, Java. Estudiante."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "Team Up",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Proyecto para startup en PERN, desarrollé backend desde cero para el lanzamiento de su primera app web.",
+                "Usé AWS para hosting, base de datos PostgreSQL, NODE.JS en metodología AGILE."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Tutor",
+            "company": "Coderhouse",
+            "location": "",
+            "start_date": "2022-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Tutorías sincrónicas en comisiones de javascript y Programación Backend.",
+                "Enseñanza con tutorías ampliadas de Node.js, TS, Nest.js."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Tutor",
+            "company": "Rollingcode",
+            "location": "",
+            "start_date": "2022-09-01",
+            "end_date": "2023-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Trabajé en tutorías sincrónicas y tradicionales para comisiones FullStack MERN.",
+                "Acompañé a alumnos en dudas y motivé sus deseos de conocer y seguir aprendiendo en la cursada."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Economia",
+            "institution": "Universidad Nacional de Salta",
+            "location": "Salta, Argentina",
+            "start_date": "2019-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "MERN Full Stack",
+            "institution": "Mindhub",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-04-30",
+            "hours": 0
+        },
+        {
+            "degree": "Programación en Java",
+            "institution": "1000Programadores Salteños",
+            "location": "",
+            "start_date": "2022-03-01",
+            "end_date": "2022-08-31",
+            "hours": 0
+        },
+        {
+            "degree": "Programador FullStack",
+            "institution": "Oracle Next Education",
+            "location": "",
+            "start_date": "2022-10-01",
+            "end_date": "2023-02-28",
+            "hours": 0
+        },
+        {
+            "degree": "Analista de Datos con Python",
+            "institution": "Argentina Programa - UNdeC",
+            "location": "",
+            "start_date": "2023-06-01",
+            "end_date": "2023-11-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["javascript", "typescript", "java", "react", "node.js", "mongodb", "aws", "postgreSQL", "mysql", "numpy", "pandas", "matplotlib", "seaborn"],
+            "soft": ["resolucion-de-problemas", "analisis", "orientado-al-trabajo-en-equipo", "orientado-al-servicio", "empatia"],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Ingles (Rollingcode)",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

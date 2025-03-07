@@ -1,0 +1,122 @@
+{
+    "personal_info": {
+        "first_name": "Sergio",
+        "last_name": "Diaz",
+        "email": "sergio.dzzv@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Spain",
+            "city": "Lliçà de Vall",
+            "state": "Barcelona"
+        },
+        "linkedin": "https://linkedin.com/in/sergio-dzv",
+        "website": "https://sergiocoder.dev",
+        "portfolio": "",
+        "summary": "I'm a Front-End Developer driven by ambition, challenges, and personal growth."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "JAD Solutions",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Working on several websites, developing, building the layout, and maintaining the website."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Computer Technician",
+            "company": "TKS Granollers",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gained hands-on experience in computer repair and maintenance, computer assembly, and operating systems support."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Higher Degree in Web Application Development",
+            "institution": "IES Carles Vallbona",
+            "location": "Granollers, Spain",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Intermediate Degree in Microcomputer Systems and Networks",
+            "institution": "IES Carles Vallbona",
+            "location": "Granollers, Spain",
+            "start_date": "2020-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "js",
+                "bootstrap",
+                "reactjs",
+                "nodejs",
+                "laravel",
+                "ajax",
+                "sql",
+                "git"
+            ],
+            "soft": [],
+            "tools": [
+                "adobe-photoshop",
+                "figma",
+                "chatgpt",
+                "excel",
+                "office",
+                "wordpress"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": ""
+        },
+        {
+            "language": "Catalan",
+            "proficiency": ""
+        },
+        {
+            "language": "English",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Sergio Sánchez",
+            "relationship": "Senior Full Stack Developer at JAD",
+            "contact": "sergio.sanchez.barroso@gmail.com"
+        },
+        {
+            "name": "Jordi Selga",
+            "relationship": "Teacher at IES Carles Vallbona",
+            "contact": "jordi.selga@iescarlesvallbona.cat"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "personal_info": {
+        "first_name": "Leonel",
+        "last_name": "Gonzalez",
+        "email": "leonel.gonzalez.dev@gmail.com",
+        "phone": "2645841194",
+        "location": {
+            "country": "Argentina",
+            "city": "San Juan",
+            "state": ""
+        },
+        "linkedin": "https://bit.ly/40vJTjP",
+        "website": "https://port-iota-three.vercel.app/",
+        "portfolio": "",
+        "summary": "Programador Fullstack con pasión por el desarrollo frontend, enfocado en aprender y crecer. Graduado del bootcamp de Soy Henry, trabajo con JavaScript, TypeScript, React, Next.js, y Tailwind CSS. Responsable y colaborativo, creo que la empatía y el compromiso son clave para lograr grandes resultados."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "La Marina",
+            "location": "",
+            "start_date": "2024-12-01",
+            "end_date": "2025-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé el frontend de un eCommerce de productos de limpieza y bazar, enfocándome en crear una interfaz atractiva, funcional y fácil de usar.",
+                "Construí componentes reutilizables con React y TypeScript, optimizando el rendimiento y la mantenibilidad del código.",
+                "Utilicé Next.js para la estructura del proyecto, logrando una carga rápida y mejorando el SEO.",
+                "Implementé Tailwind CSS para desarrollar un diseño moderno, responsive y altamente personalizable."
+            ],
+            "achievements": [],
+            "repository_url": "https://frontend-la-marina.vercel.app/"
+        },
+        {
+            "job_title": "Full Stack Web Developer",
+            "company": "EvenTop",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé la estructura y estética de la página web, logrando una experiencia atractiva para el usuario.",
+                "Creé componentes reutilizables con React y TypeScript para mejorar la eficiencia.",
+                "Implementé la arquitectura del proyecto utilizando Next.js, destacando el manejo de rutas.",
+                "Colaboré en la integración de APIs para el manejo dinámico de datos."
+            ],
+            "achievements": [],
+            "repository_url": "https://eventop-frontend.vercel.app/"
+        },
+        {
+            "job_title": "Vendedor",
+            "company": "Colorshop",
+            "location": "",
+            "start_date": "2021-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Vender productos de pintura y suministros para la industria automotriz y de construcción.",
+                "Capacitarme de forma continua sobre los productos y servicios del sector automotriz y construcción."
+            ],
+            "achievements": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 800
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "c#",
+                "react",
+                "next.js",
+                "tailwind-css",
+                "express",
+                "mongodb",
+                "sql-shell",
+                "mongoose",
+                "node.js",
+                "nestjs",
+                "postgreSQL",
+                "stripe-api"
+            ],
+            "soft": [
+                "responsabilidad",
+                "colaboración",
+                "empatía",
+                "compromiso"
+            ],
+            "tools": [
+                "git",
+                "jira",
+                "github-desktop",
+                "figma",
+                "canva",
+                "slack"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "A2 - Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

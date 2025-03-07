@@ -1,0 +1,135 @@
+{
+    "personal_info": {
+        "first_name": "Aixa Macarena",
+        "last_name": "Filsinger",
+        "email": "macal99@gmail.com",
+        "phone": "+54 3813937398",
+        "location": {
+            "country": "Argentina",
+            "city": "Tucumán",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/aixa-lsinger",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy Técnica Universitaria en Programación, graduada en agosto de 2024 en la Universidad Tecnológica Nacional. Soy apasionada por la tecnología y me gusta aprender constantemente. Mi perfil se orienta principalmente hacia el Desarrollo FullStack, pero estoy incursionando en nuevas tecnologías y tendencias para ampliar mis habilidades y conocimientos."
+    },
+    "work_experience": [
+        {
+            "job_title": "",
+            "company": "Gesinco",
+            "location": "Remoto, Argentina",
+            "start_date": "2024-12-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé el menú y footer de la página",
+                "Desarrollé el slider principal",
+                "Realicé la revisión y corrección de errores en la página web, asegurando la calidad y la precisión del contenido y mejorando la experiencia del usuario.",
+                "Realicé el Despliegue de la página web en vercel e integre Google analytics"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "",
+            "company": "Kiara Studio",
+            "location": "Tucumán, Argentina",
+            "start_date": "2024-08-01",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé la estructura y el diseño de la página principal.",
+                "Desarrollé la sección de cursos, incluyendo la estructura y el contenido.",
+                "Diseñé e implementé el menú de navegación para facilitar la exploración del sitio.",
+                "Creé el pie de página con información de contacto y enlaces relevantes.",
+                "Diseñé e implementé la sección de servicios, destacando las ofertas y beneficios de la empresa."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "TucuWorking",
+            "location": "Tucumán, Argentina",
+            "start_date": "2024-09-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Registrarse y autenticarse.",
+                "Seleccionar el tipo de sala: privada, compartida, conferencia y reunión.",
+                "Elegir la categoría: economy, confort y premium.",
+                "Seleccionar la fecha y el horario (desde-hasta) para la reserva.",
+                "Pagar a través de Mercado Pago.",
+                "Recibir una confirmación por correo electrónico una vez realizada la reserva.",
+                "Gestionar el CRUD de salas, tipos, categorías y usuarios, además de editar las disponibilidades, horarios y días."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "Universidad Tecnológica Nacional de Tucumán",
+            "location": "Tucumán, Argentina",
+            "start_date": "",
+            "end_date": "2024-08-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en sistemas de la información",
+            "institution": "Universidad Tecnológica Nacional de Tucumán",
+            "location": "Tucumán, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react.js",
+                "node.js",
+                "express",
+                "javascript",
+                "html",
+                "css",
+                "bootstrap",
+                "tailwind-css",
+                "react-bootstrap",
+                "mysql",
+                "sql",
+                "mongodb",
+                "jwt",
+                "nodemailer"
+            ],
+            "soft": [],
+            "tools": [
+                "postman",
+                "thunder-client",
+                "trello",
+                "slack"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

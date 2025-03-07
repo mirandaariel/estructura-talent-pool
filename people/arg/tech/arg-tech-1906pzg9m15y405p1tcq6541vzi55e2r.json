@@ -1,7 +1,7 @@
 {
     "personal_info": {
-        "first_name": "Celeste Belén",
-        "last_name": "Montero",
+        "first_name": "Celeste",
+        "last_name": "Belén Montero",
         "email": "celesbmontero@hotmail.com",
         "phone": "+54 11 5503 1316",
         "location": {
@@ -9,10 +9,10 @@
             "city": "Quilmes",
             "state": "Buenos Aires"
         },
-        "linkedin": "https://linkedin.com/in/celestemontero/",
-        "website": "",
-        "portfolio": "https://celesdev.vercel.app/",
-        "summary": "Desarrolladora web con sólidos conocimientos en tecnologías Frontend y Backend, especializada en la creación de páginas web dinámicas utilizando React. Tengo experiencia trabajando con bases de datos relacionales (PostgreSQL, MySQL) y no relacionales (MongoDB), implementando soluciones eficientes y escalables. Cuento con un nivel B1 de inglés, lo que me permite colaborar en proyectos internacionales. Además, estoy cursando la carrera de Análisis de Sistemas Informáticos."
+        "linkedin": "https://linkedin.com/in/celestemontero",
+        "website": "https://github.com/CelesBM",
+        "portfolio": "https://celestemontero.vercel.app/",
+        "summary": "Desarrolladora web con sólidos conocimientos en tecnologías Frontend y Backend, especializada en la creación de páginas web dinámicas utilizando React. Tengo experiencia trabajando con bases de datos relacionales (PostgreSQL, MySQL) y no relacionales (MongoDB), implementando soluciones eficientes y escalables."
     },
     "work_experience": [
         {
@@ -20,14 +20,12 @@
             "company": "",
             "location": "",
             "start_date": "2024-01-01",
-            "end_date": "2024-12-31",
+            "end_date": "",
             "currently_working": true,
             "responsibilities": [
-                "Desarrollé una página e-commerce de suplementos deportivos.",
-                "Colaboré directamente con el cliente para analizar sus necesidades y objetivos, incluyendo la implementación de un formulario de contacto validado y un carrito de compras.",
-                "El diseño de la misma fue mediante el uso de React.js, empleando Hooks, Context y Redux Toolkit para una arquitectura robusta y escalable.",
-                "Desarrollé un formulario de contacto con Formik y Yup, asegurando la validación en tiempo real y facilidad de uso.",
-                "Actualmente, se sigue brindando mantenimiento a la misma."
+                "Desarrollé una página e-commerce de suplementos deportivos. Colaboré directamente con el cliente para analizar sus necesidades y objetivos, incluyendo la implementación de un formulario de contacto validado y un carrito de compras.",
+                "Utilicé React.js, empleando Hooks, Context y Redux Toolkit para una arquitectura robusta y escalable.",
+                "Desarrollé un formulario de contacto con Formik y Yup, asegurando la validación en tiempo real y facilidad de uso."
             ],
             "achievements": [],
             "repository_url": ""
@@ -47,14 +45,14 @@
             "repository_url": ""
         },
         {
-            "job_title": "Consultorio Nutricional",
-            "company": "",
+            "job_title": "Asesora Nutricional",
+            "company": "Consultorio Nutricional",
             "location": "",
             "start_date": "2017-01-01",
             "end_date": "",
             "currently_working": true,
             "responsibilities": [
-                "Asesoramiento nutricional personalizado para deportistas de elite."
+                "Asesoramiento nutricional personalizado para deportistas de élite."
             ],
             "achievements": [],
             "repository_url": ""
@@ -92,7 +90,10 @@
             ],
             "tools": []
         },
-        "detailed": {}
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
     },
     "certifications": [
         {
@@ -101,29 +102,39 @@
             "issue_date": "2023-01-01",
             "expiration_date": "",
             "credential_id": ""
+        },
+        {
+            "name": "Desarrollo Web Fullstack",
+            "issuing_organization": "NUCBA",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo Web Fullstack",
+            "issuing_organization": "APX school",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
         }
     ],
     "projects": [
         {
             "name": "Piedra, papel o tijera online",
-            "description": "Juego online que ofrece una experiencia interactiva para jugadores en tiempo real. Utilizando Firebase para implementar una conexión en tiempo real, permitiendo partidas entre jugadores reales.",
-            "technologies": ["typescript", "html", "css", "firebase"],
+            "description": "Juego online que ofrece una experiencia interactiva para jugadores en tiempo real, utilizando Firebase para implementar una conexión en tiempo real.",
+            "technologies": ["Typescript", "HTML", "CSS", "Firebase"],
             "url": "https://ppt-online-qs4b.onrender.com/"
         },
         {
             "name": "E-commerce",
-            "description": "Página e-commerce desarrollada con Javascript, HTML y CSS, diseñada para ofrecer una experiencia de compra intuitiva y atractiva. Cuenta con funcionalidades de navegación y búsqueda.",
-            "technologies": ["javascript", "html", "css"],
+            "description": "Página e-commerce diseñada para ofrecer una experiencia de compra intuitiva y atractiva, con funcionalidades de navegación y búsqueda.",
+            "technologies": ["Javascript", "HTML", "CSS"],
             "url": "https://dancewear-landing.vercel.app/"
         }
     ],
     "languages": [
         {
-            "language": "Spanish",
-            "proficiency": "Native"
-        },
-        {
-            "language": "English",
+            "language": "Inglés",
             "proficiency": "B1"
         }
     ],

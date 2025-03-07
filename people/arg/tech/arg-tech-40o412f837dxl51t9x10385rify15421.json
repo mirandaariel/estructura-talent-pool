@@ -1,0 +1,87 @@
+{
+    "personal_info": {
+        "first_name": "Hugo Patricio",
+        "last_name": "Rodriguez",
+        "email": "phr12r@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Arrecifes",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full Stack Developer con experiencia trabajando en proyectos grupales e individuales que utilizan tecnologías como JavaScript, HTML, CSS, React, Node.js, PostgreSQL, Express, entre otras. Conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, frameworks CSS y de JavaScript. En busca de empleo que me permita obtener experiencia en el mundo del desarrollo web. Cuento también con un nivel de Ingles C1 avanzado."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "Second Year of Bachelor in Informatics Engineering",
+            "institution": "UNNOBA",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "css",
+                "nodejs",
+                "express",
+                "react",
+                "redux",
+                "mui",
+                "tailwind",
+                "postgresql",
+                "mongodb"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "postman",
+                "slack",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "PetVogue",
+            "description": "Desarrollo en grupo de un sitio e-commerce orientado a la venta de productos veterinarios para perros y gatos.",
+            "technologies": ["react", "nodejs", "postgresql", "express"],
+            "url": ""
+        },
+        {
+            "name": "HairLuxe",
+            "description": "Aplicación de gestión de turnos, desarrollada en su totalidad utilizando React, Tailwind, Axios en el front, y Typescript, TypeORM, Express en el back.",
+            "technologies": ["react", "tailwind", "axios", "typescript", "typeorm", "express"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Advanced (C1)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

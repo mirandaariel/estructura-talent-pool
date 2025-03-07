@@ -1,0 +1,100 @@
+{
+    "personal_info": {
+        "first_name": "Kevin",
+        "last_name": "Villota",
+        "email": "kevinvillota.dev@gmail.com",
+        "phone": "3116005329",
+        "location": {
+            "country": "",
+            "city": "Bogotá",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "Kevin VIllota",
+        "summary": "Graduado del Servicio Nacional de Aprendizaje (SENA) como Técnico en Programación de Aplicaciones y Servicios para la Nube. A lo largo de mi formación y experiencia profesional, he adquirido habilidades en diversas herramientas y tecnologías, principalmente he trabajado con el stack de JavaScript, pero también me desenvuelvo con Python y Java."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full-Stack Developer",
+            "company": "Sumz",
+            "location": "Bogotá - Remoto",
+            "start_date": "2024-07-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Participé en la creación de un sistema de atención al cliente impulsado por IA generativa.",
+                "Contribuí al back-end del sistema, sentando las bases del prompt y configurando la API en Python con Flask.",
+                "Formé parte del desarrollo de una Fintech especializada en BNPL (Buy now, Pay later).",
+                "Aporté al código de la app en Phoenix, resolviendo bugs y añadiendo funcionalidades."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full-Stack Developer Trainee",
+            "company": "Sumz",
+            "location": "Bogotá - Remoto",
+            "start_date": "2023-12-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una API para procesar información de contacto de servicio al cliente.",
+                "Implementé un sistema de automatización de chats que redujo el flujo de mensajes.",
+                "Utilice las metodologías ágiles de SCRUM para la gestión de proyectos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico en programación de aplicaciones y servicios para la nube",
+            "institution": "SENA",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "flask",
+                "react",
+                "node.js",
+                "next.js",
+                "express",
+                "nest.js",
+                "javascript",
+                "typescript",
+                "python",
+                "html5",
+                "css",
+                "java",
+                "mysql",
+                "postgresql",
+                "mongodb",
+                "gnu-linux"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "sass",
+                "tailwind",
+                "docker",
+                "github",
+                "gitlab",
+                "aws",
+                "github-actions"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

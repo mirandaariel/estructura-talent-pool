@@ -1,0 +1,172 @@
+{
+  "personal_info": {
+    "first_name": "Gloria",
+    "last_name": "Ramos",
+    "email": "gloriaramosmoran@gmail.com",
+    "phone": "+54 9 1141853420",
+    "location": {
+      "country": "",
+      "city": "",
+      "state": ""
+    },
+    "linkedin": "Gloria Ramos",
+    "website": "",
+    "portfolio": "",
+    "summary": "Profesional con conocimiento en desarrollo web y experiencia en pruebas de aseguramiento de calidad (QA). Mi enfoque se centra en crear experiencias de usuario atractivas y funcionales. Busco oportunidades para aplicar y expandir mis habilidades en la programación mientras contribuyo al desarrollo de proyectos web innovadores."
+  },
+  "work_experience": [
+    {
+      "job_title": "QA Engineer",
+      "company": "Freelance",
+      "location": "",
+      "start_date": "2024-06-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Pruebas funcionales, de integración y regresión en aplicaciones desarrolladas sobre Salesforce para una aseguradora en EE. UU.",
+        "Asegurar la correcta integración con otras aplicaciones mediante APIs.",
+        "Diseño y ejecución de pruebas exhaustivas de APIs con Postman, validando funcionalidad, rendimiento y seguridad.",
+        "Utilización de Jira para gestionar defectos y colaboración con equipos de desarrollo para documentar y resolver problemas.",
+        "Reuniones de agilidad utilizando Microsoft 365 y compartiendo resultados de pruebas en Teams, SharePoint y OneDrive.",
+        "Elaboración de reportes detallados sobre el estado de las pruebas.",
+        "En constante aprendizaje de Cypress para mejorar la automatización de pruebas en aplicaciones web."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Licenciatura en Psicología",
+      "institution": "Universidad Rafael Urdaneta (URU)",
+      "location": "Venezuela",
+      "start_date": "",
+      "end_date": "2018-01-01",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "html",
+        "css",
+        "javascript",
+        "reactjs",
+        "node.js-express",
+        "mongodb",
+        "sql",
+        "salesforce",
+        "postman",
+        "cypress"
+      ],
+      "soft": [],
+      "tools": [
+        "jira",
+        "microsoft-365",
+        "teams",
+        "sharepoint",
+        "onedrive",
+        "figma",
+        "trello",
+        "git",
+        "github"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [
+    {
+      "name": "Desarrollo Web",
+      "issuing_organization": "CoderHouse",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "JavaScript",
+      "issuing_organization": "CoderHouse",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "React Js",
+      "issuing_organization": "CoderHouse",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Carrera de Desarrollo Frontend React",
+      "issuing_organization": "CoderHouse",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Programación Backend",
+      "issuing_organization": "CoderHouse",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Desarrollo Web FrontEnd",
+      "issuing_organization": "Codigo Pa´Lante",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Introducción a AWS",
+      "issuing_organization": "Linkedin Learning",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Backend Developer - QA",
+      "description": "Desarrollar el backend de una tienda online utilizando Node.js y Express. Gestionar la base de datos con MongoDB. Implementar APIs RESTful para realizar operaciones de CRUD y manejar la lógica de negocio de la tienda online. Integrar funciones como el manejo de usuarios, productos y órdenes.",
+      "technologies": ["node.js", "express", "mongodb"],
+      "url": ""
+    },
+    {
+      "name": "Front-end Developer - React js",
+      "description": "Desarrollar tareas asignadas en tickets, construcción de vistas en Figma, asistir a dailys con un TL, codear en vivo con compañeros del Front-end, utilizar Trello para actualizar tareas, presentar y exponer el proyecto al TL semanalmente.",
+      "technologies": ["reactjs", "css", "js"],
+      "url": ""
+    },
+    {
+      "name": "Fullstack Developer - Nodejs",
+      "description": "Desarrollar el frontend y backend de una tienda online, implementar tecnologías como HTML, CSS, Bootstrap, JavaScript, Node.js y SQL. Creación de la base de datos para sistemas de almacenamiento de datos eficientes y seguros.",
+      "technologies": ["html", "css", "bootstrap", "javascript", "node.js", "sql"],
+      "url": ""
+    },
+    {
+      "name": "Desarrollo Web - Frontend",
+      "description": "Diseñar y desarrollar un sitio web personalizado que alberga mi portafolio de proyectos. Utilizar HTML, CSS y JavaScript para crear una interfaz interactiva.",
+      "technologies": ["html", "css", "javascript"],
+      "url": ""
+    },
+    {
+      "name": "Desarrollo Web - Javascript",
+      "description": "Desarrollo de un sitio web con temática a elección, implementando conceptos de JavaScript como variables, control de flujos, ciclos y manipulación del DOM.",
+      "technologies": ["javascript"],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "B1"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

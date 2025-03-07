@@ -1,0 +1,157 @@
+{
+    "personal_info": {
+        "first_name": "Nicolas Iván",
+        "last_name": "Gallo Garcia",
+        "email": "gallogarcianicolas@gmail.com",
+        "phone": "+54-280-4954284",
+        "location": {
+            "country": "Argentina",
+            "city": "Ciudad de Neuquén",
+            "state": "Neuquén"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "OpenBusiness",
+            "location": "Buenos Aires - Remoto",
+            "start_date": "2023-01-01",
+            "end_date": "2025-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicación web para control de inventario, etiquetas de productos, pedidos a proveedores.",
+                "Desarrollo de aplicación nativa con react native, para conteo de los productos mediante lectura de código de barras, control de inventario, gestión de notificaciones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador mobile: React native",
+            "company": "Global solutions chile",
+            "location": "Chile – Remoto",
+            "start_date": "2025-01-01",
+            "end_date": "2025-01-01",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de aplicación mobile y web utilizando react native, como react native web, en aplicación de gestión toma de muestras, formularios, análisis mediante gráficos, imágenes, audios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Blackcode Software",
+            "location": "Remoto",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de E-Commerce enlazado a aplicación de gestión contable de escritorio para cliente dedicado a la venta de cotillón."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico en informática personal y profesional",
+            "institution": "Secundaria Arturo Illia n°724",
+            "location": "Trelew-Chubut",
+            "start_date": "2010-01-01",
+            "end_date": "2014-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador web con React",
+            "institution": "Argentina Programa 4.0",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Developer Java",
+            "institution": "Codo a codo",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnicatura en desarrollo de aplicaciones informáticas (En curso, 1 año terminado)",
+            "institution": "Centro regional de Córdoba IUA",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "react",
+                "nextjs",
+                "redux",
+                "typescript",
+                "javascript",
+                "material-ui",
+                "bootstrap",
+                "tailwind",
+                "nodejs",
+                "express",
+                "typeorm",
+                "sequelize",
+                "postgresql",
+                "mysql",
+                "mercado-pago",
+                "auth0",
+                "socket-io",
+                "reactnative",
+                "androidstudio",
+                "git",
+                "jira",
+                "trello",
+                "cloud-logging",
+                "cloud-builder",
+                "cloud-scheduler",
+                "cloud-functions",
+                "github-ci/cd",
+                "firebase-messaging"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "responsabilidad",
+                "dedicación",
+                "con-ganas-de-aprender",
+                "autonomia",
+                "proactivo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

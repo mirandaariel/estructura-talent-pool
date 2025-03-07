@@ -1,0 +1,142 @@
+{
+    "personal_info": {
+        "first_name": "Facundo",
+        "last_name": "Lopez Sevilla",
+        "email": "fnlopezsevilla@gmail.com",
+        "phone": "+54 261 5266454",
+        "location": {
+            "country": "Argentina",
+            "city": "Mendoza",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/FLopezSevilla",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy una persona práctica, con la iniciativa de crear procesos lo más simples y eficientes posible. Tengo una mente innovadora con 3 años de experiencia como programador. Soy capaz de trabajar con distintos frameworks y lenguajes de programación, manejo de base de datos. Me gusta ayudar a los demás, dentro y fuera de mi ambiente laboral, como estudiante de ingeniería siempre estoy en búsqueda de nuevas experiencias, conocimientos y desafíos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista funcional",
+            "company": "Avature",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño e implementación de integraciones entre APIs.",
+                "Mejora en flujos de información y trabajo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Project Manager",
+            "company": "Confidencial",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Implementación de sistemas de facturación.",
+                "Informe de transporte y confirmaciones de órdenes.",
+                "Pago y cobro."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista desarrollador ABAP",
+            "company": "Accenture Argentina",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Captura de requisitos.",
+                "Implementación de mejoras.",
+                "Desarrollo de reportes en SAC y Power Bi.",
+                "Corrección de errores.",
+                "Análisis funcional.",
+                "Desarrollos con ABAP."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista desarrollador ABAP",
+            "company": "Cooperativa Farmaceutica de Mendoza",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Captura de requisitos.",
+                "Implementación de mejoras.",
+                "Desarrollo de aplicaciones.",
+                "Requerimientos de usuarios.",
+                "Corrección de errores."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Freelancer",
+            "company": "",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Implementación de scripts de automatización de carga de datos.",
+                "Creación de sistema de control de facturación y cobro.",
+                "Desarrollo de landing pages.",
+                "Sistemas de control de stock."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en sistemas de la información",
+            "institution": "U.T.N.",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["html", "css", "javascript", "java", "c++", "abap", "mysql", "h2"],
+            "soft": [
+                "trabajo-en-equipo",
+                "resolución-de-problemas",
+                "pensamiento-crítico",
+                "creatividad",
+                "ingenio",
+                "aprendizaje-rapido"
+            ],
+            "tools": ["visual-studio-code"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "C1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

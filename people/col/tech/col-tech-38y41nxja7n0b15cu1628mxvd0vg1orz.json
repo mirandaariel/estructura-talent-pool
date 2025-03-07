@@ -1,0 +1,134 @@
+{
+    "personal_info": {
+        "first_name": "Cristian",
+        "last_name": "Leon",
+        "email": "cristianvelasques.07@gmail.com",
+        "phone": "3022208222",
+        "location": {
+            "country": "Colombia",
+            "city": "Bogotá",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/cristianleonv",
+        "website": "",
+        "portfolio": "https://github.com/CristianLeon07",
+        "summary": "Ingeniero de sistemas con pasión por la tecnología y la programación. Tengo experiencia en desarrollo de aplicaciones móviles Android, metodologías ágiles como Scrum. Me especializo en Java, Kotlin y JavaScript, y manejo herramientas como Android Studio, IntelliJ y Git. He trabajado en integración de APIs, uso de librerías y diseño de arquitecturas como MVC y MVP. También tengo experiencia en entornos DevOps con Azure DevOps y Postman. Mi enfoque es desarrollar soluciones tecnológicas eficientes, seguras y alineadas con las necesidades del usuario y las tendencias del sector."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista QA",
+            "company": "ECO EFICI S.A.S",
+            "location": "Bogotá, Colombia",
+            "start_date": "2024-01-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Colabore estrechamente con el equipo de desarrollo y demás miembros del proyecto para entender los requisitos y criterios de aceptación.",
+                "Revisión y monitoreo se los softwares en desarrollo y de la información obtenida a través de endpoint desde postman.",
+                "Participe en el análisis exhaustivo, detección de errores en las aplicaciones móviles.",
+                "Diseñe, planifique y documente casos de prueba.",
+                "Reporte y asigne tareas y bugs a cada encargado en la plataforma Azure DevOps."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Android",
+            "company": "ECO EFICI S.A.S",
+            "location": "Bogotá, Colombia",
+            "start_date": "2022-07-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Colabore integralmente en el Desarrollo y mejora continua de la aplicación de comercio electrónico disponible en la play store llamada 'Domiplace'.",
+                "Brinde apoyo integral en el Desarrollo y mejora continua de la aplicación de domicilio llamada 'Runner', disponible en la play store.",
+                "Participe en el análisis exhaustivo, detección de errores en las aplicaciones móviles desarrolladas.",
+                "Participe en la optimización del código Fuente de las aplicaciones móviles, aplicando mejoras significativas para garantizar un funcionamiento eficaz y un rendimiento optimizado."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador WEB",
+            "company": "Freelance",
+            "location": "Colombia",
+            "start_date": "2022-04-01",
+            "end_date": "2022-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrolle página webs informativas para proyectos de ferias universitario.",
+                "Diseñe cada una de las vistas de dicho proyecto."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero de Sistemas",
+            "institution": "Universidad Francisco de Paula Santander Ocaña",
+            "location": "Ocaña, NS",
+            "start_date": "",
+            "end_date": "2023-06-28",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "android-studio",
+                "kotlin",
+                "java",
+                "jetpack-compose",
+                "xml",
+                "html",
+                "css",
+                "javascript",
+                "firebase",
+                "sqlite",
+                "consumo-de-api",
+                "azure",
+                "scrum",
+                "postman",
+                "git"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "https://drive.google.com/drive/folders/1oJGg7oGHfD w0s5K9lRoT9s1sQouTtBo?usp=sharing"
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "A1"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Finalista de torneo internacional de aplicaciones móviles TuApp 2019",
+            "organization": "TuApp",
+            "location": "Tabasco, Mexico",
+            "start_date": "2019-11-01",
+            "end_date": "2019-11-30",
+            "responsibilities": [
+                "Lidere un equipo pequeño de desarrolladores, diseñadores, llevando a la ejecución de una idea de proyecto de asistencia médica llamada SuglApp, que nos permitió avanzar en cada una de las etapas hasta llegar a la final, que se realizó en México en el año 2019."
+            ]
+        }
+    ],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,114 @@
+{
+    "personal_info": {
+        "first_name": "Santiago",
+        "last_name": "Bozak",
+        "email": "bozaksantiago@gmail.com",
+        "phone": "2995106637",
+        "location": {
+            "country": "Argentina",
+            "city": "Cordoba",
+            "state": "Cordoba"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy Santiago Bozak, un apasionado por la tecnología en busca de mi primera experiencia como Desarrollador Trainee, Junior o Pasante. Busco una oportunidad en el ámbito IT, donde pueda aplicar mis conocimientos, crecer profesionalmente y seguir aprendiendo cada día. Mi objetivo es conseguir mi primer empleo en desarrollo, escalar en el mundo de la tecnología y aportar valor con mis habilidades."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Analista de sistemas y desarrollo de software",
+            "institution": "Universidad Siglo 21",
+            "location": "Cordoba, Argentina",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnico Electronico en Automatizacion y Control de Procesos",
+            "institution": "Instituto Tecnológico del Comahue",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                ".net",
+                ".net-framework",
+                "sql-server",
+                "sql-workbench"
+            ],
+            "soft": [],
+            "tools": [
+                "visual-studio",
+                "api-de-postman",
+                "github"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "C# Nivel 2 [.NET + SQL]",
+            "issuing_organization": "Maxi Programa",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Construyendo Web APIs RESTful con ASP.NET Core 9",
+            "issuing_organization": "Udemy",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificado oficial EF SET 70/100 (C1 Advanced)",
+            "issuing_organization": "EF SET",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "English for Developers & IT Professionals",
+            "issuing_organization": "Desafío Latam",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Introduccion Git y GitHub",
+            "issuing_organization": "TodoCode",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Generala - Juego de Dados",
+            "description": "Desarrollé una versión digital del clásico juego de dados Generala como parte de un proyecto universitario.",
+            "technologies": ["C#", "WinForms"],
+            "url": ""
+        },
+        {
+            "name": "Sistema de Gestión de Clientes",
+            "description": "Desarrollé un Sistema de Gestión de Clientes diseñado para administrar ventas, saldos y deudas de clientes en diferentes sucursales.",
+            "technologies": ["C#", "WinForms"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

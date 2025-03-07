@@ -1,0 +1,97 @@
+{
+    "personal_info": {
+        "first_name": "Santiago José",
+        "last_name": "López Mendes",
+        "email": "santilm.sjlm@gmail.com",
+        "phone": "+54 2665004076",
+        "location": {
+            "country": "Argentina",
+            "city": "San Luis",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/santiago-jose-lopez-mendes",
+        "website": "https://github.com/smlopezsm",
+        "portfolio": "",
+        "summary": "This year I have been working with frontend technologies such as HTML, CSS, TypeScript, React, Tailwind and backend technologies such as JavaScript, Node.js, Express.js and PostgreSQL. As well, as a computer science student, I have knowledge on Data Structures and programming paradigms (logic, functional, oop,etc...). I focus on new challenges to keep me growing."
+    },
+    "work_experience": [
+        {
+            "job_title": "Freelancer",
+            "company": "Self-employed",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "institution": "Universidad Nacional de San Luis",
+            "location": "San Luis, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "c",
+                "java",
+                "html",
+                "css",
+                "react",
+                "node.js",
+                "express.js",
+                "postgresql"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "obsidian"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Calculator",
+            "description": "",
+            "technologies": ["java"],
+            "url": "https://github.com/smlopezsm/calculadora"
+        },
+        {
+            "name": "Restaurant Management Program",
+            "description": "Final project of the subject: programming 1",
+            "technologies": ["c"],
+            "url": "https://github.com/smlopezsm/PMI"
+        },
+        {
+            "name": "Web CV",
+            "description": "Project of Argentina Programa 4.0",
+            "technologies": ["html", "css", "javascript"],
+            "url": "https://github.com/smlopezsm/argprog"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Fluent"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

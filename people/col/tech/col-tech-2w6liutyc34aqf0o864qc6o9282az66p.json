@@ -1,0 +1,122 @@
+{
+    "personal_info": {
+        "first_name": "Adán Eduardo",
+        "last_name": "Camacho Mendoza",
+        "email": "adan2net@gmail.com",
+        "phone": "(57) 3022635725",
+        "location": {
+            "country": "Colombia",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Backend con experiencia en tecnologías como JavaScript, Java y Python, especializado en Node.js y NestJS. Tengo conocimientos en bases de datos relacionales y no relacionales como MySQL, PostgreSQL y MongoDB Atlas. He desarrollado aplicaciones web y API-REST, con manejo de entornos Linux y control de versiones con Git. Familiarizado con metodologías ágiles como SCRUM, y siempre dispuesto a aprender nuevas tecnologías que el mercado o la empresa necesite. Mi capacidad de adaptación y autoaprendizaje me permite adquirir rápidamente nuevas habilidades y herramientas para enfrentar desafíos técnicos. Me apasiona trabajar en equipo, resolver problemas complejos y contribuir al éxito de los proyectos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Web FullStack",
+            "company": "PROtalento",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2024-03-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Implementé bases de datos relacionales y no relacionales para almacenar datos de usuarios, y desarrollé un proxy en NestJS para integraciones seguras con HubSpot y Salesforce.",
+                "Realicé pruebas exhaustivas de integración, rendimiento y seguridad para garantizar la calidad de los productos, junto con pruebas unitarias y de aceptación del usuario para validar la funcionalidad y usabilidad de las aplicaciones.",
+                "Desarrollé un contenedor Docker para una base de datos relacional (PostgreSQL), permitiendo una gestión eficiente y escalable de los datos.",
+                "Participé activamente en el desarrollo frontend utilizando HTML, CSS y JavaScript, con un enfoque en ReactJS para mejorar la interactividad y la experiencia del usuario en aplicaciones web."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "E-Commerce Productos Tecnológicos",
+            "company": "Digital House",
+            "location": "",
+            "start_date": "2021-10-01",
+            "end_date": "2022-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una tienda de productos tecnológicos que permite el registro de usuarios y la visualización de productos disponibles.",
+                "Implementé funciones para crear, actualizar y eliminar productos, utilizando bases de datos MySQL y tecnologías como Node.js, Express, HTML, CSS, JavaScript y React.",
+                "Implementé la conexión a la base de datos utilizando un ORM, desarrollé las funcionalidades para la creación y edición de productos, y gestioné el inicio de sesión mediante autenticación con JWT."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnología en desarrollo de software",
+            "institution": "Institución universitaria Pascual Bravo",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo Web Full-Stack",
+            "institution": "Digital House",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico En Redes De Computadores",
+            "institution": "Servicio Nacional De Aprendizaje (SENA)",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "nodejs",
+                "express",
+                "nestjs",
+                "sequelize",
+                "typeorm",
+                "mysql",
+                "sql-server",
+                "c#",
+                "postgresql",
+                "mongodb-atlas",
+                "mongodb",
+                "docker",
+                "jwt",
+                "linux",
+                "git",
+                "scrum",
+                "api-rest",
+                "reactjs",
+                "java",
+                "springboot",
+                "python",
+                "typescript"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Ingles",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
