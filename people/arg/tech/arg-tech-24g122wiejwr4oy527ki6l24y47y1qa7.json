@@ -1,0 +1,144 @@
+{
+    "personal_info": {
+        "first_name": "Cesar",
+        "last_name": "Ruiz",
+        "email": "cesaruiz042804@gmail.com",
+        "phone": "+507 6698-0998",
+        "location": {
+            "country": "",
+            "city": "La Chorrera",
+            "state": "Puerto Caimito"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador de software con sólida experiencia en programación, bases de datos y despliegue de aplicaciones web. Manejo tecnologías como Laravel, Vue.js, React, MySQL y ASP.NET MVC con integración de Entity Framework (nivel introductorio). Tengo habilidades en administración de hosting y servidores. Comprometido con la calidad del código, la eficiencia del sistema y la colaboración para lograr soluciones de alto impacto."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador back-end",
+            "company": "Dtodocreations",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé, desarrollé y mantuve el backend de una aplicación web utilizando Laravel, la cual incluía un sistema de administración para gestionar servicios.",
+                "Implementé funcionalidades clave como gestión de datos y optimización del rendimiento del sistema, asegurando la escalabilidad de la aplicación.",
+                "Administré el despliegue en un servidor web, configurando hosting mediante cPanel y manejando dominios.",
+                "Implementé un sistema de seguridad con certificados SSL y optimización SEO para mejorar el tiempo de respuesta.",
+                "Documenté el código.",
+                "Gestioné y optimicé consultas SQL en bases de datos MySQL, mejorando el rendimiento de las aplicaciones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachillerato en ciencias",
+            "institution": "Escuela secundaria Pedro Pablo Sánchez",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Desarrollo y Gestión de Software",
+            "institution": "Universidad Tecnológica de Panamá Oeste",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "php",
+                "c",
+                "c#",
+                "c++",
+                "javascript",
+                "python",
+                "java",
+                "laravel",
+                "asp.net-core-mvc",
+                "vue.js",
+                "entity-framework-core",
+                "oauth-2.0",
+                "openid-connect",
+                "react",
+                "bootstrap",
+                "tailwind",
+                "mysql",
+                "sql",
+                "git",
+                "microsoft-azure"
+            ],
+            "soft": [],
+            "tools": [
+                "github",
+                "github-copilot",
+                "insomnia",
+                "postman",
+                "cpanel",
+                "hostinger"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "HTML5 y CSS3 desarrollo de aplicaciones web",
+            "issuing_organization": "Oracle",
+            "issue_date": "2023-04-18",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Git y GitHub: controle y comparta su código",
+            "issuing_organization": "Oracle",
+            "issue_date": "2023-04-18",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "JS en la web: manipulación del dom con JavaScript",
+            "issuing_organization": "Oracle",
+            "issue_date": "2023-08-12",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Hackathon 2022 - Infraestructura como código",
+            "issuing_organization": "Universidad Tecnológica de Panamá",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Hackathon 2023 - Cloud Native",
+            "issuing_organization": "Copa Airlines",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Julio Urriola Bonilla",
+            "relationship": "Profesor de la UTP CRPO",
+            "contact": "6758-7473"
+        },
+        {
+            "name": "Benigno Moreno Ortega",
+            "relationship": "Lic. en Desarrollo de Software | Programador Senior en Sofís Solutions",
+            "contact": "6969-4678"
+        }
+    ]
+}

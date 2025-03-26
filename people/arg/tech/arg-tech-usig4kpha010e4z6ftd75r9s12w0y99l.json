@@ -1,0 +1,132 @@
+{
+    "personal_info": {
+        "first_name": "Alan",
+        "last_name": "Velazquez",
+        "email": "velazquez.alan14@gmail.com",
+        "phone": "2664774564",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/alanvelazquez14/",
+        "website": "",
+        "portfolio": "https://my-portfolio-zeta-nine-22.vercel.app/",
+        "summary": "Desarrollador Full Stack con experiencia en JavaScript, React.js, Next.js, Node.js y bases de datos relacionales y no relacionales (PostgreSQL, MySQL, MongoDB). Apasionado por la creación de soluciones escalables y eficientes, con enfoque en rendimiento y experiencia de usuario."
+    },
+    "work_experience": [
+        {
+            "job_title": "Asesor de Ventas y Soporte Técnico",
+            "company": "Banco Santander",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Aumenté la conversión de ventas en un 15% mediante estrategias de comunicación efectiva y asesoramiento personalizado.",
+                "Gestioné y resolví +50 consultas diarias sobre productos bancarios, optimizando tiempos de respuesta.",
+                "Diagnóstico y resolución de problemas técnicos en plataformas bancarias, incluyendo accesos, transacciones y errores del sistema.",
+                "Brindé capacitación a clientes en el uso de herramientas digitales bancarias, mejorando la adopción de tecnología en un 20%.",
+                "Entrené a nuevos empleados en procesos internos, reduciendo su curva de aprendizaje en un 30% y facilitando su adaptación tecnológica.",
+                "Colaboré con equipos de desarrollo para reportar y solucionar errores recurrentes, mejorando la experiencia del usuario."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Chofer de Taxi | Empleado de Comercios",
+            "company": "Varios empleadores",
+            "location": "",
+            "start_date": "2014-01-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención al cliente y gestión de pagos, asegurando una experiencia satisfactoria.",
+                "Manejo de efectivo y sistemas de pago electrónico con precisión y responsabilidad.",
+                "Coordinación de pedidos y recepción de mercadería, optimizando inventarios y asegurando estándares de calidad.",
+                "Planificación y ejecución de rutas de entrega eficientes, reduciendo tiempos de espera y mejorando la satisfacción del cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollo Web Full Stack",
+            "institution": "NUCBA",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo Web Full Stack",
+            "institution": "SOY HENRY",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "react.js",
+                "redux",
+                "styled-components",
+                "tailwind-css",
+                "node.js",
+                "express",
+                "next.js",
+                "mongodb",
+                "postgresql",
+                "mysql",
+                "git",
+                "github",
+                "apis-rest",
+                "vs-code",
+                "postman",
+                "jest"
+            ],
+            "soft": [
+                "resolución-de-problemas",
+                "comunicación-efectiva",
+                "trabajo-en-equipo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "E-commerce \"La Toscana\"",
+            "description": "Plataforma de reservas para restaurante con autenticación de usuarios.",
+            "technologies": ["react.js", "vite", "node.js", "express", "typeorm", "postgresql", "typescript"],
+            "url": "https://github.com/alanVelazquez14"
+        },
+        {
+            "name": "E-commerce \"Home Burger Bar\"",
+            "description": "Plataforma de pedidos online con autenticación de usuarios.",
+            "technologies": ["react", "vite", "node.js", "mongodb", "styled-components"],
+            "url": "https://github.com/alanVelazquez14"
+        },
+        {
+            "name": "Plataforma de Películas \"CinemaLab\"",
+            "description": "Plataforma para cinéfilos con catálogo de películas recomendadas.",
+            "technologies": ["javascript", "express", "node.js", "mongodb", "bootstrap"],
+            "url": "https://github.com/alanVelazquez14"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,147 @@
+{
+    "personal_info": {
+        "first_name": "Angel Abel",
+        "last_name": "Rivero",
+        "email": "angelabel.rivero@outlook.com",
+        "phone": "385-5736597",
+        "location": {
+            "country": "Argentina",
+            "city": "Santiago del Estero",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/angel-rivero-210b7228b/",
+        "website": "https://github.com/Abelrivero",
+        "portfolio": "",
+        "summary": "Programador proactivo y versátil con más de un año de experiencia en desarrollo y mantenimiento de aplicaciones web, complementado con una sólida trayectoria en tareas administrativas. Poseo conocimientos técnicos en PHP, JavaScript y Python, y experiencia en frameworks modernos como Laravel y Next.js así como en herramientas front-end como Tailwind. Busco formar parte de un equipo donde pueda aplicar y ampliar mis habilidades, contribuyendo al desarrollo y mantenimineto de soluciones tecnológicas eficientes."
+    },
+    "work_experience": [
+        {
+            "job_title": "Administrativo",
+            "company": "Asociación VAY",
+            "location": "La Banda, Argentina",
+            "start_date": "2015-03-01",
+            "end_date": "2023-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión de documentación, organización de archivos y tareas administrativas generales.",
+                "Procesamiento de facturas y gestión de pagos a proveedores.",
+                "Uso avanzado de herramientas como Excel y Google Drive.",
+                "Coordinación de tareas administrativas en entidades públicas y privadas.",
+                "Apoyo en eventos organizados por la asociación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Curso JavaScript Algorithms and Data Structures",
+            "institution": "FreeCodeCamp",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 300
+        },
+        {
+            "degree": "Curso Responsive Web Design",
+            "institution": "FreeCodeCamp",
+            "location": "",
+            "start_date": "",
+            "end_date": "2023-12-31",
+            "hours": 300
+        },
+        {
+            "degree": "Curso Fundamentos de la Programación",
+            "institution": "UTN",
+            "location": "",
+            "start_date": "",
+            "end_date": "2022-12-31",
+            "hours": 90
+        },
+        {
+            "degree": "Bachiller en Economía y Gestión de las Organizaciones",
+            "institution": "Instituto Superior San Jorge",
+            "location": "",
+            "start_date": "",
+            "end_date": "2010-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "php",
+                "javascript",
+                "python",
+                "c",
+                "laravel",
+                "reactjs",
+                "next.js",
+                "livewire",
+                "filament",
+                "tailwind-css",
+                "jquery",
+                "mysql",
+                "git",
+                "bootstrap",
+                "web-scraping",
+                "sql"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Calculadora Interactiva con React",
+            "description": "Realice una calculadora en react que puede realizar operaciones simples.",
+            "technologies": ["react"],
+            "url": "https://github.com/Abelrivero/calculadora-interactiva"
+        },
+        {
+            "name": "App de Tareas en React",
+            "description": "Desarrollé una app de tareas la cual te permite ir agregando tareas a una lista la cual permite agregar una nueva tarea, marcarla como completada y eliminarla",
+            "technologies": ["react"],
+            "url": "https://github.com/Abelrivero/mis-tareas"
+        },
+        {
+            "name": "App de Películas en Laravel",
+            "description": "Desarrollé una app que permite crear un registro de películas y actores, poder editarlas o eliminarlas, tiene un seeder para poblar la base de datos, y también permite relacionar películas con actores pudiendo agregar un actor a una película o viceversa asi como eliminar dicha relación, y también la posibilidad de crear un pdf con un listado de películas con sus actores",
+            "technologies": ["laravel"],
+            "url": "https://github.com/Abelrivero/practica-laravel"
+        },
+        {
+            "name": "App de Venta de Insumos para Vapers en Laravel (Colaborador)",
+            "description": "Ayude a la creación de una app de venta de insumos para vapers que estaba contruyendo un colega la cual permite tener un stock de productos así como también una página principal para ver dichos productos, la app todavía no se encuentra terminada",
+            "technologies": ["laravel"],
+            "url": "https://github.com/t1m0t1/VaperPoint"
+        },
+        {
+            "name": "Desafío de Web Scraping",
+            "description": "Participe en un desafio de la comunidad de desarrolladores de Santiago del Estero donde tuve la oportunidad de crear un web scraper que puede buscar productos en Mercado Libre y te devuelve una lista en formato csv de 120 productos ( 60 de los más baratos y 60 de los más caros)",
+            "technologies": ["web-scraping"],
+            "url": "https://github.com/Abelrivero/Desafio-WebScraping-con-Selenium-Cafe-IT"
+        },
+        {
+            "name": "App de Películas con Integración de API",
+            "description": "Este proyecto hice un clon de la interfaz de una plataforma de Películas y series, desarrollado para un desafío propuesto. La aplicación obtiene y muestra películas desde la API de The Movie Database (TMDb) e incluye de, Sección de películas en tendencia, mejor valoradas y próximos estrenos, Búsqueda dinámica de películas, Filtrado por categorías, Carrusel para navegar entre películas, Modo oscuro/claro.",
+            "technologies": ["api", "tmdb"],
+            "url": "https://github.com/Abelrivero/desafio-lunala"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

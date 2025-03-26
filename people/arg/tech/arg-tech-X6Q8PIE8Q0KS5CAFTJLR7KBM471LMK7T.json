@@ -1,0 +1,116 @@
+{
+    "personal_info": {
+        "first_name": "Christian",
+        "last_name": "Pineda",
+        "email": "chr.pineda1@gmail.com",
+        "phone": "11 6939-9048",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/chris-jp3/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante avanzado de la Tecnicatura en Desarrollo de Aplicaciones Informáticas en el Instituto Universitario Aeronáutico (IUA), con sólida formación en programación, bases de datos y desarrollo de software. Orientado a la resolución de problemas reales mediante soluciones eficientes y centradas en la experiencia del usuario."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web utilizando React, Node.js, Express y bases de datos SQL y NoSQL.",
+                "Implementación de interfaces responsivas y soluciones backend escalables y seguras.",
+                "Servicio técnico informático de PCs y celulares."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas",
+            "institution": "Centro Regional Universitario Córdoba - IUA",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "mui",
+                "express",
+                "bootstrap",
+                "tailwind",
+                "node.js",
+                "php",
+                "java",
+                "c",
+                "scrum",
+                "kanban",
+                "mysql",
+                "arduino"
+            ],
+            "soft": [
+                "liderazgo",
+                "adaptabilidad",
+                "empatía",
+                "creatividad",
+                "autonomía"
+            ],
+            "tools": [
+                "postman",
+                "trello",
+                "xampp",
+                "vs-code",
+                "git",
+                "github",
+                "wordpress",
+                "elementor",
+                "woocommerce"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sistema de Gestión de Inventario y Ventas",
+            "description": "Desarrollo de una aplicación web para la gestión de inventarios y ventas, integrando React en el frontend y Node.js con Express en el backend.",
+            "technologies": ["react", "node.js", "express", "mysql", "axios"],
+            "url": ""
+        },
+        {
+            "name": "Aplicación de Registro de Currículos",
+            "description": "Implementación de una aplicación web para el registro y gestión de currículos usando React.",
+            "technologies": ["react", "localstorage"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Native"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

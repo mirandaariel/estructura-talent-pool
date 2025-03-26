@@ -1,0 +1,100 @@
+{
+    "personal_info": {
+        "first_name": "Augusto Cesar",
+        "last_name": "Garcia",
+        "email": "augusto.cesar.garcia04@gmail.com",
+        "phone": "+54 381 448-5267",
+        "location": {
+            "country": "Argentina",
+            "city": "Tucumán",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/augusto-cesar-garcia",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un desarrollador Web Full Stack especializado en Front-End. Me apasiona enfrentarme a nuevos desafíos y estoy comprometido con la mejora continua, buscando nuevas oportunidades para aplicar mis conocimientos y contribuir a proyectos innovadores."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Tecnicatura en Desarrollo de Aplicaciones Informáticas (TUDAI)",
+            "institution": "Instituto Universitario Aeronáutico (I.U.A.)",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Rolling Code School",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Software Developer",
+            "institution": "Apx",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "nodejs",
+                "css",
+                "mongodb",
+                "javascript",
+                "typescript",
+                "react"
+            ],
+            "soft": [
+                "perseverancia",
+                "trabajo-en-equipo",
+                "comunicacion-efectiva",
+                "atencion-al-detalle",
+                "capacidad-de-aprendizaje",
+                "gestion-del-tiempo"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "scrum",
+                "trello"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Your Coffee",
+            "description": "Aplicación web para la compra de productos en una cafetería. Último proyecto del curso Rolling Code.",
+            "technologies": ["react", "css", "nodejs", "mongodb"],
+            "url": ""
+        },
+        {
+            "name": "CodeFlex",
+            "description": "Plataforma web inspirada en el diseño de Netflix, permite explorar una colección de películas solo utilizando HTML y CSS.",
+            "technologies": ["html", "css"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

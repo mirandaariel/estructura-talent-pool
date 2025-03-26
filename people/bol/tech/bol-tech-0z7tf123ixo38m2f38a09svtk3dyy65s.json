@@ -1,0 +1,90 @@
+{
+    "personal_info": {
+        "first_name": "Fabián",
+        "last_name": "Rivero Jiménez",
+        "email": "fabianriverodev@gmail.com",
+        "phone": "+59177246286",
+        "location": {
+            "country": "Bolivia",
+            "city": "La Paz",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/fabianriverodev",
+        "website": "",
+        "portfolio": "https://fabianriverodev.netlify.app",
+        "summary": "Desarrollador full-stack con sólidos conocimientos en JavaScript, TypeScript, React, Astro, Node.js y bases de datos como MongoDB y MySQL."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Curso online Full Stack",
+            "institution": "University of Helsinki",
+            "location": "Helsinki, Finland",
+            "start_date": "",
+            "end_date": "2024-11-01",
+            "hours": 5
+        },
+        {
+            "degree": "Responsive web design",
+            "institution": "FreeCodeCamp",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "react",
+                "astro",
+                "node.js",
+                "express.js",
+                "mongodb",
+                "mysql",
+                "apis-rest"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Blog Fitness",
+            "description": "Creación de un blog sobre fitness con una interfaz de usuario responsiva e interactiva. Implementación de autenticación basada en tokens y operaciones CRUD con Node.js, Express y MongoDB. Integración de una API REST para la gestión de datos y autenticación de usuarios.",
+            "technologies": ["Astro", "React", "Node.js", "Express", "MongoDB"],
+            "url": ""
+        },
+        {
+            "name": "Acortador de Enlaces con Generación de Código QR",
+            "description": "Desarrollo de un servicio de acortamiento de URL con generación automática de códigos QR. Diseño y administración de una base de datos relacional en MySQL para almacenamiento eficiente. Implementación de una API para acortar enlaces y realizar análisis de uso.",
+            "technologies": ["Node.js", "Express", "MySQL"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Fluido"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

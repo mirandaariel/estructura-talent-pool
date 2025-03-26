@@ -1,0 +1,184 @@
+{
+    "personal_info": {
+        "first_name": "Vanesa",
+        "last_name": "Bucher",
+        "email": "buchervanesa@gmail.com",
+        "phone": "+5493764127995",
+        "location": {
+            "country": "Argentina",
+            "city": "Misiones",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/vanesa-bucher-623295245",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrolladora Full Stack proactiva con experiencia en integración y creación de componentes en React. Más de un año desarrollando plataformas con enfoque en mejorar la UI, optimizar el diseño y la funcionalidad. Capacidad para trabajar en equipos dinámicos y aportar soluciones efectivas. Lista para contribuir con habilidades en desarrollo backend, optimización de código y mejora del rendimiento, asegurando el éxito de cada proyecto."
+    },
+    "work_experience": [
+        {
+            "job_title": "Front End",
+            "company": "InmoUp",
+            "location": "Mendoza, Argentina",
+            "start_date": "2024-11-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Contribuí en la integración y desarrollo de componentes reutilizables utilizando React.",
+                "Participé activamente en la estructuración de la página web, optimizando su diseño y funcionalidad.",
+                "Colaboré con el equipo mediante herramientas de gestión como Trello y Backlog, mejorando la comunicación y el flujo de trabajo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrolladora Full Stack",
+            "company": "BPVentures",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2024-09-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una plataforma integral para la gestión de usuarios y facturación, mejorando la eficiencia operativa.",
+                "Implementé un sistema de login seguro con autenticación multifactor (MFA), garantizando la protección de datos.",
+                "Diseñé y desarrollé un módulo de facturación junto con un panel de permisos administrativos dinámico, facilitando la administración de usuarios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fundadora",
+            "company": "Derecho Al Mate",
+            "location": "Posadas, Argentina",
+            "start_date": "2024-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Gestiono la venta de productos materos, creando una marca que resuena con la cultura local."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Abogada",
+            "company": "Estudio Jurídico Saiz & Asociados",
+            "location": "Posadas, Argentina",
+            "start_date": "2022-01-01",
+            "end_date": "2022-08-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Intercambio Cultural",
+            "company": "Hyatt Place",
+            "location": "Zúrich, Suiza",
+            "start_date": "2022-08-01",
+            "end_date": "2023-05-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Developer",
+            "institution": "Henry Bootcamp",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2024-02-01",
+            "end_date": "2024-10-31",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Developer",
+            "institution": "Silicon Misiones",
+            "location": "Posadas, Argentina",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso en Programación en C",
+            "institution": "Silicon Misiones",
+            "location": "Posadas, Argentina",
+            "start_date": "2023-02-01",
+            "end_date": "2023-07-31",
+            "hours": 0
+        },
+        {
+            "degree": "Abogacía",
+            "institution": "Universidad Nacional del Nordeste",
+            "location": "Posadas, Argentina",
+            "start_date": "2016-02-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "full-stack-development",
+                "frontend-development",
+                "next.js",
+                "react",
+                "tailwind-css",
+                "express",
+                "typeorm",
+                "sql",
+                "typescript"
+            ],
+            "soft": [
+                "habilidades-analíticas-y-estratégicas",
+                "pensamiento-comercial-y-adaptabilidad",
+                "trabajo-en-equipo-y-comunicación-fluida"
+            ],
+            "tools": [
+                "trello",
+                "backlog"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Página de Venta de Electrónica",
+            "description": "Implementé una plataforma de e-commerce especializada en productos electrónicos, desarrollando tanto frontend como backend.",
+            "technologies": ["next.js", "express", "typeorm", "tailwind-css", "typescript"],
+            "url": ""
+        },
+        {
+            "name": "Plataforma de Gestión de Bodas",
+            "description": "Desarrollo de una plataforma para la gestión de bodas, permitiendo a los usuarios confirmar asistencia y gestionar información de invitados.",
+            "technologies": ["react", "tailwind-css", "css"],
+            "url": ""
+        },
+        {
+            "name": "Página Web para Estudio Jurídico Ayala & Asociados",
+            "description": "Desarrollo de un sitio web para la presentación de servicios legales y la gestión de clientes.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Alemán",
+            "proficiency": "A2"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

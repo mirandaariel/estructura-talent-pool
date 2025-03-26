@@ -1,130 +1,88 @@
 {
     "personal_info": {
-        "first_name": "Carlos Daniel",
-        "last_name": "Henao Collazos",
+        "first_name": "Yerfil",
+        "last_name": "",
         "email": "",
         "phone": "",
         "location": {
             "country": "Colombia",
-            "city": "Popayán",
-            "state": ""
+            "city": "Bucaramanga",
+            "state": "Santander"
         },
         "linkedin": "",
         "website": "",
         "portfolio": "",
-        "summary": "Soy una persona la cual día a día le gusta aprender cosas nuevas, que se motiva por hacer las cosas de la mejor forma con toda la disposición, me gusta el trabajo en equipo ya que de esta manera podemos mejorar y crecer entre todos, de igual manera considero que puedo adquirir varios conocimientos de manera autónoma. Tengo alrededor de 3 años de experiencia llevando a cabo la gestión de soporte de aplicaciones web manejadas bajo el lenguaje de PHP, actualmente me encuentro realizando mi carrera profesional en ingeniería de sistemas para expandir mi talento aplicable en nuevos retos."
+        "summary": "Soy una persona comprometida con mi trabajo, tengo ideas innovadoras, me gustan los retos y nuevos proyectos que me pueda proponer la empresa donde pretendo trabajar; tengo facilidad para relacionarme con la gente, me gusta trabajar en coordinación con los diferentes jefes, no tengo problemas para trabajar bajo presión, me gusta enfrentarme a los obstáculos que surjan y mi misión en cualquier trabajo es conseguir los objetivos de la empresa y de mi equipo."
     },
-    "work_experience": [
-        {
-            "job_title": "Asistente de soporte",
-            "company": "Defytek SAS",
-            "location": "",
-            "start_date": "2020-05-01",
-            "end_date": "2021-05-01",
-            "currently_working": false,
-            "responsibilities": [
-                "Brindar soporte de la aplicación Web ofrecida por parte de la empresa a los clientes.",
-                "Brindar la correcta asistencia y resolución de los casos reportados por parte de los clientes.",
-                "Documentación de procesos los cuales permiten la mejora continua del equipo."
-            ],
-            "achievements": [],
-            "repository_url": ""
-        }
-    ],
+    "work_experience": [],
     "education": [
         {
-            "degree": "Bachiller Técnico",
-            "institution": "Institución Educativa Republica de Suiza",
-            "location": "Popayán",
-            "start_date": "2007-02-01",
-            "end_date": "2018-11-30",
-            "hours": 0
-        },
-        {
-            "degree": "Técnico en Asistencia Administrativa",
-            "institution": "Servicio Nacional de Aprendizaje SENA",
-            "location": "Popayán",
-            "start_date": "2020-10-01",
-            "end_date": "2022-03-30",
-            "hours": 0
-        },
-        {
-            "degree": "Tecnólogo en Análisis y Desarrollo de Sistemas de Información",
-            "institution": "Servicio Nacional de Aprendizaje SENA",
-            "location": "Popayán",
-            "start_date": "2020-03-01",
-            "end_date": "2022-03-30",
-            "hours": 0
-        },
-        {
-            "degree": "Ingeniería de Sistemas",
-            "institution": "Universidad Nacional Abierta y a Distancia UNAD",
-            "location": "Popayán",
-            "start_date": "2023-01-01",
-            "end_date": "",
+            "degree": "Ingeniería de Sistemas e Informática",
+            "institution": "Universidad Pontificia Bolivariana",
+            "location": "Bucaramanga, Santander, Colombia",
+            "start_date": "2016-01-01",
+            "end_date": "2020-12-31",
             "hours": 0
         }
     ],
     "skills": {
         "keywords": {
             "technical": [
-                "php",
-                "mysql",
-                "html",
+                "python",
+                "javascript",
                 "css",
-                "javascript"
+                ".net",
+                "html",
+                "flutter",
+                "nodejs",
+                "visual-studio",
+                "mongodb",
+                "mysql",
+                "postgresql",
+                "sqlyog"
             ],
-            "soft": [
-                "aprendizaje-autónomo",
-                "comunicación-efectiva",
-                "proactividad",
-                "atención-al-cliente"
-            ],
+            "soft": [],
             "tools": []
         },
         "detailed": {
-            "technical": {
-                "php": [],
-                "mysql": [],
-                "html": [],
-                "css": [],
-                "javascript": []
-            },
-            "soft": {
-                "aprendizaje-autónomo": [],
-                "comunicación-efectiva": [],
-                "proactividad": [],
-                "atención-al-cliente": []
-            }
+            "technical": {},
+            "soft": {}
         }
     },
-    "certifications": [
+    "certifications": [],
+    "projects": [
         {
-            "name": "Curso de programación Básica",
-            "issuing_organization": "Platzi",
-            "issue_date": "2020-10-01",
-            "expiration_date": "",
-            "credential_id": ""
+            "name": "Desarrollo de Algoritmos y Análisis de Resultados sobre la Radiación Solar",
+            "description": "Proyecto de aplicación de conocimientos matemáticos orientados a estadística y probabilidades en conjunto con programación, este es creado con el fin de recolectar datos de radiación solar en el área metropolitana de la ciudad de Bucaramanga, Santander, Colombia.",
+            "technologies": ["Java", "Angular", "Scrum"],
+            "url": ""
         },
         {
-            "name": "Curso de fundamentos de programación",
-            "issuing_organization": "Servicio Nacional de Aprendizaje SENA",
-            "issue_date": "2020-10-01",
-            "expiration_date": "",
-            "credential_id": ""
-        }
-    ],
-    "projects": [],
-    "languages": [
-        {
-            "language": "Español",
-            "proficiency": "Native"
+            "name": "Streams for Labs",
+            "description": "Proyecto de aplicación de conocimiento que se crea como solución a la gestión de recursos compartidos en pequeñas empresas o en el hogar.",
+            "technologies": ["C", "Excel"],
+            "url": "",
+            "start_date": "2021-04-01",
+            "end_date": "2021-04-30"
         },
         {
-            "language": "Inglés",
-            "proficiency": "Intermediate"
+            "name": "Fisi Convertidor",
+            "description": "Proyecto donde se aplican los conocimientos en diferentes lenguajes con la finalidad de crear un recurso que permita a pequeñas y medianas empresas convertir diferentes documentos digitales al que necesiten.",
+            "technologies": ["Go", "Linux", "Java", "Angular", "C++"],
+            "url": "",
+            "start_date": "2023-04-01",
+            "end_date": "2023-04-30"
+        },
+        {
+            "name": "Desarrollo de un Aplicativo para la Gestión de Rutinas de Entrenamiento y Administración de Membresías del Gimnasio Gold Fitness",
+            "description": "Proyecto creado para la gestion de rutinas y administración de membresias de un gimnasio en la ciudad de Bucaramanga, donde se implementaron diferentes herramientas y lenguajes de desarrollo.",
+            "technologies": [".NET", "CSS", "PostgreSQL", "Figma", "GitHub", "PgAdmin"],
+            "url": "",
+            "start_date": "2024-10-01",
+            "end_date": "2024-10-31"
         }
     ],
+    "languages": [],
     "volunteer_experience": [],
     "publications": [],
     "references": []

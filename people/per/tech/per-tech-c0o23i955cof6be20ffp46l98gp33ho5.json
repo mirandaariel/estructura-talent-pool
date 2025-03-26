@@ -1,0 +1,124 @@
+{
+    "personal_info": {
+        "first_name": "Cesar",
+        "last_name": "Zubilete Sánchez",
+        "email": "brycezusan@gmail.com",
+        "phone": "+51 987592615",
+        "location": {
+            "country": "Perú",
+            "city": "Lima",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Frontend con experiencia en la creación de interfaces interactivas utilizando React, TypeScript y Next.js. Apasionado por el desarrollo web, con habilidades en Vue.js y diseño UI/UX. Cuento con conocimientos en backend con Node.js y bases de datos relacionales y no relacionales."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Freelancer",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de interfaces web responsivas para clientes en diversos sectores.",
+                "Implementación de mejoras en rendimiento y accesibilidad de aplicaciones web.",
+                "Colaboración con diseñadores y equipos de backend para integrar APIs de manera eficiente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computación e Informática",
+            "institution": "Instituto Superior Tecnológico IDAT",
+            "location": "Lima, Perú",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Soporte Técnico",
+            "institution": "Instituto Superior SISE",
+            "location": "Lima, Perú",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "vue.js",
+                "next.js",
+                "astro.js",
+                "vitejs",
+                "node.js",
+                "express",
+                "postgresql",
+                "mongodb",
+                "mysql",
+                "prisma",
+                "mongoose",
+                "sequelize",
+                "zustand",
+                "react-query",
+                "swr",
+                "jest",
+                "supertest",
+                "vitest"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "docker",
+                "figma",
+                "eslint"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Coffee Next TS",
+            "description": "Tienda de café online FullStack",
+            "technologies": ["react", "typescript", "next.js", "tailwindcss", "prisma", "postgresql"],
+            "url": ""
+        },
+        {
+            "name": "REST Productos TS",
+            "description": "Gestión de productos FullStack PERN",
+            "technologies": ["react", "typescript", "node.js", "express", "postgresql", "sequelize"],
+            "url": ""
+        },
+        {
+            "name": "Frontend Mentor Challenges",
+            "description": "Landing Pages",
+            "technologies": ["html", "css3", "javascript", "vue.js", "react", "vitejs", "tailwindcss"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,23 +1,23 @@
 {
     "personal_info": {
-        "first_name": "Simon",
-        "last_name": "Perez",
+        "first_name": "Simón",
+        "last_name": "Pérez",
         "email": "simon130699@gmail.com",
-        "phone": "+54 11 5693 4100",
+        "phone": "1156934100",
         "location": {
             "country": "Argentina",
-            "city": "Los Polvorines",
+            "city": "Buenos Aires",
             "state": ""
         },
-        "linkedin": "/simondanielperez",
-        "website": "https://github.com/simon13069",
+        "linkedin": "https://linkedin.com/in/simondanielperez",
+        "website": "",
         "portfolio": "",
-        "summary": "Soy un joven de 25 años apasionado por la programación formándome continuamente y con ganas de insertarme en el mercado laboral IT."
+        "summary": "Soy una persona apasionada por la programación, constantemente mejorando mis habilidades. Me gustan los desafíos como resolver problemas y dar soluciones eficientes, analizando siempre la complejidad de los algoritmos."
     },
     "work_experience": [
         {
-            "job_title": "Vendedor-administrativo de aberturas de aluminio",
-            "company": "VC Aluminio S.A.",
+            "job_title": "Vendedor-Administrativo",
+            "company": "VC Aluminio",
             "location": "",
             "start_date": "2019-08-01",
             "end_date": "2021-04-30",
@@ -30,14 +30,28 @@
             "repository_url": ""
         },
         {
-            "job_title": "Comerciante",
+            "job_title": "Emprendedor",
             "company": "",
             "location": "",
-            "start_date": "2021-01-01",
+            "start_date": "2021-06-01",
             "end_date": "",
             "currently_working": true,
             "responsibilities": [
-                "Administración de un emprendimiento y local físico al público."
+                "Control de stock, creación de SPA para tienda online.",
+                "Desarrollo de aplicación propia para gestión de ventas internas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Dev Backend",
+            "company": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Creación de proyectos freelance escalables utilizando Java Spring Boot."
             ],
             "achievements": [],
             "repository_url": ""
@@ -45,48 +59,8 @@
     ],
     "education": [
         {
-            "degree": "Curso de Desarrollo Web",
-            "institution": "Platzi",
-            "location": "",
-            "start_date": "",
-            "end_date": "",
-            "hours": 0
-        },
-        {
-            "degree": "React.js y Firebase",
-            "institution": "Coderhouse",
-            "location": "",
-            "start_date": "",
-            "end_date": "",
-            "hours": 0
-        },
-        {
-            "degree": "Testing Manual, Ágil y con Herramientas",
-            "institution": "UTN (Argentina Programa)",
-            "location": "",
-            "start_date": "",
-            "end_date": "",
-            "hours": 0
-        },
-        {
-            "degree": "Curso de Routing Básico",
-            "institution": "LACNIC",
-            "location": "",
-            "start_date": "",
-            "end_date": "",
-            "hours": 0
-        },
-        {
-            "degree": "Spring Boot",
-            "institution": "TodoCode",
-            "location": "",
-            "start_date": "",
-            "end_date": "",
-            "hours": 0
-        },
-        {
-            "degree": "Tecnicatura Universitaria en Informática",
-            "institution": "Universidad General Sarmiento (UNGS)",
+            "degree": "Tecnicatura en Informática",
+            "institution": "Universidad Nacional General Sarmiento",
             "location": "",
             "start_date": "",
             "end_date": "",
@@ -99,29 +73,23 @@
                 "html",
                 "css",
                 "sass",
-                "bootstrap",
-                "material",
+                "material-ui",
                 "git",
                 "github",
-                "tailwind",
+                "javascript",
                 "react.js",
-                "firebase",
-                "jpa",
-                "hibernate",
+                "spring-boot",
+                "java",
+                "jpa-hibernate",
                 "mysql",
                 "docker",
-                "apis",
-                "multilayer-architecture",
-                "java",
-                "python",
-                "c",
-                "network-administration"
+                "rest-apis",
+                "mvc",
+                "dto",
+                "unit-testing",
+                "maven"
             ],
-            "soft": [
-                "comunicador-con-facilidad",
-                "solido-trabajo-en-equipo",
-                "independiente"
-            ],
+            "soft": [],
             "tools": []
         },
         "detailed": {
@@ -131,7 +99,16 @@
     },
     "certifications": [],
     "projects": [],
-    "languages": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Basic"
+        }
+    ],
     "volunteer_experience": [],
     "publications": [],
     "references": []

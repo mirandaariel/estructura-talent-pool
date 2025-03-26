@@ -1,0 +1,101 @@
+{
+    "personal_info": {
+        "first_name": "Carolina Alejandra",
+        "last_name": "Pena Astigarraga",
+        "email": "caropena000@gmail.com",
+        "phone": "+54 1144928350",
+        "location": {
+            "country": "Argentina",
+            "city": "Pilar",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/carolina-pena-astigarraga/",
+        "website": "https://carolina-pena-portfolio-devqa.netlify.app/",
+        "portfolio": "",
+        "summary": "Soy alguien en constante formación y capacitación en el mundo IT, busco mi primera experiencia laboral en dicha área. Proactiva, leal, eficaz y efectiva; con muchas ganas de aprender y crecer. Cuento con experiencia en diseño y desarrollo de sitios web responsivos y pruebas de calidad. Me apasiona la innovación y la excelencia en mi trabajo."
+    },
+    "work_experience": [
+        {
+            "job_title": "QA Tester",
+            "company": "Foo Talent Group",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Programa de prácticas.",
+                "Encargada del grupo de testing del equipo.",
+                "Trabajando en una web-app que solucione el problema de inscribirse a eventos de videojuegos en streaming."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Secretaria",
+            "company": "Estudio Jurídico Martinelli y Asociados",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Atención al cliente.",
+                "Elaboración de demandas (alimentos, despidos, daños y perjuicios, usucapión, escritos, entre otros).",
+                "Redacción de apertura a prueba (oficios).",
+                "Clasificación y organización de documentos y archivos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "2024-09-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "css",
+                "html",
+                "scss/sass",
+                "bootstrap",
+                "javascript",
+                "react-js",
+                "firebase/firestore",
+                "document-object-model-(dom)"
+            ],
+            "soft": [],
+            "tools": [
+                "visual-studio-code",
+                "git-github",
+                "azure-devops",
+                "testlink",
+                "mantis",
+                "jira",
+                "microsoft-word",
+                "excel"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "B2 - Intermediate"
+        },
+        {
+            "language": "Japanese",
+            "proficiency": "Basic"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

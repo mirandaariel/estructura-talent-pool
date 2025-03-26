@@ -1,0 +1,166 @@
+{
+    "personal_info": {
+        "first_name": "Eugenia",
+        "last_name": "Baspineiro",
+        "email": "euge.baspineiro@gmail.com",
+        "phone": "+54 938841097571",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "Behance: Eugenia Baspineiro",
+        "summary": "Frontend Developer con sólida experiencia en el diseño y desarrollo de interfaces interactivas, aplicaciones web responsivas y proyectos de diseño UX/UI. Especializada en plataformas como React y JavaScript, con un enfoque en soluciones funcionales, estéticas y centradas en el usuario. Colaboración en equipos interdisciplinarios, logrando resultados óptimos en proyectos colaborativos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Freelance D. UX/UI & Desarrolladora WordPress",
+            "company": "Easylife Marketing",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñé y desarrollé kits digitales con WordPress y Elementor, optimizando la presencia digital de clientes.",
+                "Creé experiencias de usuario intuitivas aplicando principios de UX/UI.",
+                "Configuré y personalicé tiendas online con WooCommerce, asegurando una experiencia de compra fluida."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Freelancer",
+            "company": "KajaBuilders",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño de sitios web responsivos con Figma y Adobe XD, enfocándome en accesibilidad y diseño UX/UI.",
+                "Colaboración con equipos interdisciplinarios para identificar necesidades del cliente y brindar soluciones a medida.",
+                "Implementación de herramientas para la evaluación de usabilidad y arquitectura, como Optimal Workshop."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Freelancer",
+            "company": "",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Branding para pymes utilizando Figma y Adobe Illustrator.",
+                "Creación de manuales de marca y contenido visual para redes sociales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Arquitecto",
+            "company": "",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tec. Universitaria en Diseño y Animación Digital",
+            "institution": "UNIV. SIGLO XXI",
+            "location": "",
+            "start_date": "2020-09-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Arquitectura",
+            "institution": "UNIVERSIDAD NACIONAL DE CORDOBA (FAUD)",
+            "location": "",
+            "start_date": "2017-02-01",
+            "end_date": "2017-06-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html5",
+                "css3",
+                "react",
+                "bootstrap",
+                "react-router",
+                "toastify",
+                "firebase",
+                "git",
+                "wordpress",
+                "apis-rest"
+            ],
+            "soft": [],
+            "tools": [
+                "figma",
+                "adobe-xd",
+                "adobe-illustrator",
+                "adobe-photoshop",
+                "adobe-after-effects",
+                "optimal-workshop",
+                "whimsical",
+                "asana",
+                "trello"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Desarrollador Frontend React",
+            "issuing_organization": "CODERHOUSE",
+            "issue_date": "2024-04-01",
+            "expiration_date": "2024-12-31",
+            "credential_id": ""
+        },
+        {
+            "name": "WordPress",
+            "issuing_organization": "CODERHOUSE",
+            "issue_date": "2024-09-01",
+            "expiration_date": "2024-10-31",
+            "credential_id": ""
+        },
+        {
+            "name": "UX/UI Básico + Avanzado",
+            "issuing_organization": "CODERHOUSE",
+            "issue_date": "2023-03-01",
+            "expiration_date": "2023-12-31",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "E-commerce de Muebles - Kanzo",
+            "description": "Desarrollo de una SPA con React, simulación de carrito de compras con almacenamiento local.",
+            "technologies": ["react", "figma", "firebase"],
+            "url": "GitHub"
+        },
+        {
+            "name": "Rediseño app de prestaciones medicas",
+            "description": "Prototipo UX/UI diseñado con Figma para una plataforma de prestaciones médicas.",
+            "technologies": ["figma", "optimal-workshop"],
+            "url": "Behance"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
