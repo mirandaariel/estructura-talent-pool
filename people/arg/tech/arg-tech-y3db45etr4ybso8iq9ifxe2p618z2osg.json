@@ -1,0 +1,103 @@
+{
+    "personal_info": {
+        "first_name": "Gonzalo",
+        "last_name": "Rodriguez",
+        "email": "rodriguezgonzalo1204@gmail.com",
+        "phone": "+54 911 4070-8660",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": "Ramos Mejía"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante de tercer año de Ingeniería Informática con experiencia en soporte técnico y administración. Poseo conocimientos en programación en C, bases de datos relacionales y no relacionales, así como análisis funcional de sistemas y modelado UML. Busco oportunidades en el sector IT, con el objetivo de aplicar y fortalecer mis habilidades y aplicar mis conocimientos. Me destaco por mi capacidad de aprendizaje, rápido entendimiento, adaptación y enfoque en la resolución de problemas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Soporte técnico",
+            "company": "Cuenta propia",
+            "location": "",
+            "start_date": "2021-03-01",
+            "end_date": "2022-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Reparación y mantenimiento de computadoras.",
+                "Montaje de hardware.",
+                "Configuración y optimización de sistemas operativos.",
+                "Atención personalizada a clientes.",
+                "Diagnóstico de problemas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Administración y logística",
+            "company": "Distrijet",
+            "location": "",
+            "start_date": "2022-12-01",
+            "end_date": "2023-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Manejo de software de gestión.",
+                "Atención a proveedores y clientes.",
+                "Reporte de entradas y salidas de mercadería, stock, envíos y despachos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería Informática",
+            "institution": "Universidad Nacional de La Matanza",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "programación-en-c",
+                "análisis-y-modelado-de-sistemas-(uml)",
+                "control-de-versionado-con-git",
+                "manejo-avanzado-de-paquete-office",
+                "diseño-e-implementación-de-bases-de-datos-relacionales-(sql)",
+                "base-de-datos-no-relacionales-(mongodb)",
+                "montaje-y-mantenimiento-de-hardware",
+                "sistemas-operativos-y-diagnóstico-técnico"
+            ],
+            "soft": [
+                "comunicación-efectiva",
+                "inteligencia-emocional",
+                "resolución-de-problemas",
+                "proactividad",
+                "aprendizaje-rápido",
+                "trabajo-en-equipo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Conversacional-Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

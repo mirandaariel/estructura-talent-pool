@@ -1,0 +1,245 @@
+
+{
+    "personal_info": {
+        "first_name": "Romina",
+        "last_name": "Gentile",
+        "email": "romigentlle@hotmail.com",
+        "phone": "+5491135669989",
+        "location": {
+            "country": "Argentina",
+            "city": "CABA",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/romigentile/",
+        "website": "www.github.com/romigentile",
+        "portfolio": "",
+        "summary": "Soy estudiante de Ingeniería Electrónica en la Universidad Tecnológica Nacional (UTN), en el 5to año de la carrera. Apasionada por la tecnología y la innovación. Además de mis estudios universitarios, he complementado mi formación con una especialización en desarrollo Full Stack, enfocándome en Backend con la realización de proyectos en JavaScript, NestJS, TypeScript y la utilización de Base de Datos por medio de PostgreSQL."
+    },
+    "work_experience": [
+        {
+            "job_title": "Coordinadora de Servicios",
+            "company": "4S Clima",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Encargada de sistematizar las tareas de los técnicos en diferentes proyectos.",
+                "Data analyst sobre mantenimientos mensuales.",
+                "Desarrollo e implementación de software para mejora de procedimientos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Venta & Post Venta",
+            "company": "Gauchita 3D",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Encargada de organización de ventas, trato con clientes y asesoramiento post venta en empresa de impresión 3D.",
+                "Plataforma Mercado Libre y Tienda Nube.",
+                "Líder Platinum en Mercado Libre."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnica Electrónica",
+            "company": "Indra",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2020-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Soporte técnico.",
+                "Reparación, testeo, puesta a punto de radares fotomulta y lectores de tarjeta SUBE."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Pasantia",
+            "company": "Peugeot Citroën (PSA Group)",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2018-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Pasante en el área de desarrollo y testeo de nuevos ejemplares automotores.",
+                "Organización de pruebas de calidad.",
+                "Contacto directo con el área de operarios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Consultora Técnica",
+            "company": "Midea Carrier Argentina",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2017-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Encargada de administrar grandes clientes de aires acondicionados de terraza nivel industrial y coordinación de visitas de mantenimiento mensual."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería Electrónica",
+            "institution": "UTN FRBA",
+            "location": "",
+            "start_date": "2010-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Data Analytics",
+            "institution": "CoderHouse",
+            "location": "",
+            "start_date": "",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo Web",
+            "institution": "CoderHouse",
+            "location": "",
+            "start_date": "",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c",
+                "html5",
+                "css",
+                "javascript",
+                "typescript",
+                "nestjs",
+                "react",
+                "express",
+                "axios",
+                "nodejs",
+                "sql"
+            ],
+            "soft": [
+                "comunicación",
+                "resolución-de-problemas",
+                "trabajo-en-equipo",
+                "organización",
+                "planificación",
+                "optimización-de-recursos",
+                "metodología-de-trabajo-agil-scrum"
+            ],
+            "tools": [
+                "sql-server-management-studio",
+                "postgresql",
+                "swagger",
+                "vstudio",
+                "github",
+                "powerbi",
+                "paquete-office",
+                "adobe-illustrator",
+                "photoshop"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Gestor de alquiler de canchas",
+            "description": "Desarrollo del backend integrando un equipo de trabajo para una web funcional de gestión de alquiler de canchas.",
+            "technologies": [
+                "typescript",
+                "typeorm",
+                "postgresql",
+                "nestjs",
+                "render",
+                "swagger"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Ecommerce",
+            "description": "Desarrollo del backend de un ecommerce que permite realizar CRUD para usuarios, productos y órdenes de compras.",
+            "technologies": [
+                "typescript",
+                "typeorm",
+                "postgresql",
+                "nestjs",
+                "docker",
+                "render",
+                "swagger"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Gestor de turnos",
+            "description": "Desarrollo de una web para la gestión de turnos que permite a un usuario sacar y visualizar el historial de sus turnos.",
+            "technologies": [
+                "typescript",
+                "express",
+                "typeorm",
+                "react",
+                "postgresql"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Web Películas",
+            "description": "Desarrollo de una web que simula una plataforma de visualización de películas usando bases de datos no relacionales.",
+            "technologies": [
+                "ajax",
+                "bootstrap",
+                "node",
+                "asincronismo",
+                "express",
+                "mongodb",
+                "mongoose",
+                "javascript"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Análisis de datos para Denuncias 147",
+            "description": "Desarrollo de un Dashboard en PowerBI para análisis de datos sobre denuncias recibidas a la línea 147 en Argentina.",
+            "technologies": ["powerbi", "sql"],
+            "url": ""
+        },
+        {
+            "name": "Web SkinPassion",
+            "description": "Desarrollo de una página web estática para un emprendimiento usando HTML5 y CSS.",
+            "technologies": ["html5", "css", "bootstrap"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

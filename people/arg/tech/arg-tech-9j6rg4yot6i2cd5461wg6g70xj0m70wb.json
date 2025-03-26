@@ -1,0 +1,76 @@
+{
+    "personal_info": {
+        "first_name": "Samuel Ivan",
+        "last_name": "Barbona",
+        "email": "ivanbarbona7@gmail.com",
+        "phone": "(3777) 500032",
+        "location": {
+            "country": "Argentina",
+            "city": "Goya",
+            "state": "Corrientes"
+        },
+        "linkedin": "https://www.linkedin.com/in/ivan-barbona777",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador web con más de 2 años de experiencia con un fuerte enfoque en el desarrollo web backend, utilizando tecnologías como .net core y .net entity framework para crear aplicaciones robustas y escalables. Poseo un conocimiento en bases de datos relacionales (SQL Sever), y me desenvuelvo en la gestión de APIs RESTful. Tengo además una base en tecnologías frontend como HTML, CSS y JavaScript, que me permite colaborar óptimamente en equipos multidisciplinarios."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Ingematica",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Rediseño de sitios web para mejorar la navegación y su atractivo visual, mejorar las funcionalidades.",
+                "Creación de paneles de controles, funciones y páginas web utilizando .NET core, html, java script y SQL.",
+                "Validación de códigos para una estructuración adecuada, seguridad y compatibilidad con diferentes buscadores dispositivos o sistemas operativos.",
+                "Evaluación y adquisición de conocimientos sobre nuevas normas, tecnologías y tendencias en el desarrollo de sitios web."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Universitario en Programación",
+            "institution": "UTN (Universidad Tecnológica Nacional)",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                "net-core",
+                "asp.net-mvc",
+                "entity-framework",
+                "mysql",
+                "sql-server",
+                "apis-restful",
+                "html",
+                "css",
+                "javascript"
+            ],
+            "soft": [],
+            "tools": [
+                "scrum",
+                "visual-studio"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

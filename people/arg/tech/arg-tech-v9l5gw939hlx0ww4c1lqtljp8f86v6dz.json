@@ -1,0 +1,105 @@
+{
+    "personal_info": {
+        "first_name": "Maximo",
+        "last_name": "Garmasar Vazquez",
+        "email": "Maxivaz55@gmail.com",
+        "phone": "543546431626",
+        "location": {
+            "country": "Argentina",
+            "city": "Cordoba",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "maximogarmasarvazquez",
+        "summary": ""
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Técnico Superior en Desarrollo Web y Apps Digitales",
+            "institution": "Instituto Superior Santa Rosa de Calamuchita",
+            "location": "Cordoba, Argentina",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomatura en Introducción a la Programación en Java",
+            "institution": "UTN Facultad Regional de Villa María",
+            "location": "Cordoba, Argentina",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html",
+                "css",
+                "sql",
+                "sqlite",
+                "react",
+                "tailwind",
+                "c-sharp",
+                "node",
+                "github"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "adaptabilidad",
+                "creatividad",
+                "comunicacion-efectiva",
+                "proactividad",
+                "empatia"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Portafolios",
+            "description": "Desarrolle mi portafolios en el que podran encontrar mas informacion sobre mi y mis proyectos hasta el momento",
+            "technologies": ["NextJs", "Tailwind CSS", "GitHub", "ReactJs"],
+            "url": "https://github.com/page-portfolio"
+        },
+        {
+            "name": "AlienCrush",
+            "description": "Como proyecto final desarrolle un videojuego para movil de tipo match-3, con una tematica sobre el espacio",
+            "technologies": ["C sharp", "Unity", "Git"],
+            "url": "https://github.com/AlienCrush"
+        },
+        {
+            "name": "Ecommerce",
+            "description": "Proyecto de ecommerce, con productos y carro de compras",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "url": "https://github.com/Ecommerce"
+        },
+        {
+            "name": "PokeApi",
+            "description": "Proyecto de Manejo de apis, la app trae de la api los datos del pokemon que se busque.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "url": "https://github.com/PokeApi"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "A1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

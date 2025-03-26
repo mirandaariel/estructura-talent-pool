@@ -1,0 +1,130 @@
+{
+    "personal_info": {
+        "first_name": "Hugo",
+        "last_name": "Vida Díaz",
+        "email": "hugovidadiaz03@gmail.com",
+        "phone": "+34 722 21 88 55",
+        "location": {
+            "country": "Spain",
+            "city": "Málaga",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "https://goo.su/RbCc",
+        "portfolio": "",
+        "summary": "Me considero una persona seria, responsable, trabajadora, con ganas de aprender y apasionado por la programación, con grandes conocimientos en el desarrollo de aplicaciones multiplataformas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Saurus subsidiary SL",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2023-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de microservicios utilizando Spring Boot.",
+                "Creación de interfaces e implementación de servicios usando React.",
+                "Gestión de bases de datos MySQL y PostgreSQL."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Grado Superior en Desarrollo de Aplicaciones Multiplataformas (DAM)",
+            "institution": "MEDAC: Nova",
+            "location": "Málaga",
+            "start_date": "2022-09-01",
+            "end_date": "2024-06-30",
+            "hours": 0
+        },
+        {
+            "degree": "Grado en Ingeniería Informática",
+            "institution": "UOC",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "html",
+                "css",
+                "javascript",
+                "sql",
+                "pl/sql",
+                "python",
+                "hibernate",
+                "android"
+            ],
+            "soft": [
+                "leadership",
+                "willingness-to-learn",
+                "good-communication",
+                "problem-solving",
+                "agility",
+                "responsibility",
+                "creativity"
+            ],
+            "tools": [
+                "mysql-workbench",
+                "intellij-idea",
+                "eclipse",
+                "netbeans",
+                "visual-studio-code",
+                "staruml",
+                "docker",
+                "figma",
+                "dbeaver",
+                "postman",
+                "swagger"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Curso programación en Java",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso Java Básica",
+            "issuing_organization": "OpenBootCamp",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso SQL",
+            "issuing_organization": "OpenBootCamp",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

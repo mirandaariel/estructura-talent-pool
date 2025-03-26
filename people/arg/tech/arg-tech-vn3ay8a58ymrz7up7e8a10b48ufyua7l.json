@@ -1,0 +1,123 @@
+{
+    "personal_info": {
+        "first_name": "Sebastian Rodrigo",
+        "last_name": "Almiron",
+        "email": "sebastianr_almiron@hotmail.com",
+        "phone": "+5493412592210",
+        "location": {
+            "country": "Argentina",
+            "city": "Rosario",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Técnico Universitario en Programación con experiencia práctica en desarrollo web. Cuento con conocimientos en HTML, CSS, JavaScript, React, ASP.NET y otras tecnologías. Me destaco por mi capacidad para resolver problemas, trabajar en equipo y comunicarme de manera efectiva."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "Universidad Nacional Tecnológica, Facultad Regional Rosario",
+            "location": "Rosario, Argentina",
+            "start_date": "2023-02-01",
+            "end_date": "2024-11-30",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Web Inicial",
+            "institution": "Universidad Nacional Tecnológica, Argentina Programa",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-05-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Web con React JS",
+            "institution": "Universidad Nacional Tecnológica, Argentina Programa",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2023-11-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "figma",
+                "c#",
+                "sql",
+                "react-js",
+                "tailwind-css",
+                "bootstrap",
+                "asp.net"
+            ],
+            "soft": [
+                "comunicación-efectiva",
+                "trabajo-en-equipo",
+                "resolución-de-problemas",
+                "gestión-del-tiempo",
+                "adaptabilidad"
+            ],
+            "tools": [
+                "git",
+                "github"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Vetapp",
+            "description": "Desarrollo de aplicaciones web full stack en equipo, gestor de turnos para veterinarias.",
+            "technologies": [
+                "react",
+                "asp.net"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Web MarketPlace",
+            "description": "Desarrollo de aplicaciones web utilizando componentes, manejo de estado y enrutamiento.",
+            "technologies": [
+                "react"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Web Clima, Web Resultados Electorales",
+            "description": "Implementación de interfaces de usuario con HTML, CSS y JavaScript.",
+            "technologies": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "url": ""
+        },
+        {
+            "name": "API MarketPlace",
+            "description": "Desarrollo de API con ASP.NET 8.",
+            "technologies": [
+                "asp.net"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Basic"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

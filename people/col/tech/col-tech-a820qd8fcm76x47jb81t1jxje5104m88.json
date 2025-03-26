@@ -1,0 +1,158 @@
+{
+  "personal_info": {
+    "first_name": "Christian",
+    "last_name": "Duarte Rojas",
+    "email": "christianjavierduarte@gmail.com",
+    "phone": "+57 3002853566",
+    "location": {
+      "country": "Colombia",
+      "city": "Bogotá",
+      "state": ""
+    },
+    "linkedin": "",
+    "website": "",
+    "portfolio": "",
+    "summary": "Systems Engineer experienced in backend and frontend development. Able to design, develop and support software in local and cloud environments. Experience in technologies such as Angular, React, Spring Boot, Docker and Git. Mastery of programming languages such as Java, Python, JavaScript and TypeScript. Familiarity with database management systems such as Oracle, MySQL and MongoDB. Core Competencies: Good Communication, Team Player, Negotiation, Analytical & Critical Thinker, Attention to Detail, and amongst others."
+  },
+  "work_experience": [
+    {
+      "job_title": "Lead Software Architect",
+      "company": "ECI University",
+      "location": "Bogotá, Colombia",
+      "start_date": "2024-08-28",
+      "end_date": "2024-12-20",
+      "currently_working": false,
+      "responsibilities": [
+        "Support teachers in advising and complementing topics for students",
+        "Coach and teach concepts to ensure all team members were up-to-date with latest technologies.",
+        "Evaluate practical exams at the lab, and provide proper chain of custody to senior leadership Adhoc."
+      ],
+      "achievements": [
+        "During my tenure working at the university I was given the opportunity to assist students in their skill development.",
+        "Provide technical support both as SME and as mentor.",
+        "Emphasized in the comprehension of key concepts while guiding the alumni towards their development in Software Architecture."
+      ],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's in Science: Systems Engineering",
+      "institution": "Universidad Escuela Colombiana De Ingeniería Julio Garavito",
+      "location": "Bogotá, Colombia",
+      "start_date": "",
+      "end_date": "2025-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Cybersecurity Models for Software Development",
+      "institution": "Escuela Colombiana de Ingeniería Julio Garavito",
+      "location": "",
+      "start_date": "",
+      "end_date": "2024-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Oracle Next Education F2 T4 (Front End)",
+      "institution": "Oracle Next Education",
+      "location": "",
+      "start_date": "",
+      "end_date": "2023-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "High School",
+      "institution": "Colegio Interamericano",
+      "location": "Bogotá, Colombia",
+      "start_date": "",
+      "end_date": "2020-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "angular",
+        "react",
+        "spring-boot",
+        "docker",
+        "git",
+        "java",
+        "python",
+        "javascript",
+        "typescript",
+        "oracle",
+        "mysql",
+        "mongodb",
+        "sql",
+        "azure",
+        "aws",
+        "linux",
+        "latex"
+      ],
+      "soft": [
+        "communication",
+        "team-player",
+        "negotiation",
+        "analytical-thinking",
+        "critical-thinking",
+        "attention-to-detail"
+      ],
+      "tools": [
+        "bizagi-studio",
+        "excel",
+        "power-point",
+        "chronicle",
+        "splunk",
+        "github",
+        "dbeaver",
+        "wireshark"
+      ]
+    },
+    "detailed": {}
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Camizes del Pasado / Ashes from the Past",
+      "description": "Developed an online multiplayer game, providing all the client server architecture needed. Implemented these tasks through the use of Node.js, Angular and MongoDB, utilizing phaser library and Spring Boot framework.",
+      "technologies": ["Node.js", "Angular", "MongoDB", "Spring Boot"],
+      "url": ""
+    },
+    {
+      "name": "Al Big Data Automation of Product Review",
+      "description": "Automate the recognition and analysis of these reviews using Big data and AI, to categorize sentiments, preferences and keywords presenting an Analysis Dashboard for clients and business owners to make good purchasing and strategy decisions, using React and Python.",
+      "technologies": ["Big Data", "AI", "React", "Python"],
+      "url": ""
+    },
+    {
+      "name": "Food Express",
+      "description": "Food Express is a tool where the university community of the Colombian School of Engineering Julio Garavito can order their lunches quickly and without complications, Implemented with SQL, Java and Spring Boot.",
+      "technologies": ["SQL", "Java", "Spring Boot"],
+      "url": ""
+    },
+    {
+      "name": "Medical Procedures",
+      "description": "Design and implementation of a web application for the management and automation of processes such as the registration of surgeries and instruments per operation at the Cardio Infantil Foundation. This platform is specifically aimed at medical staff such as physicians, doctors, and nurses. It optimizes their tasks and facilitates the management of medical records within the organization.",
+      "technologies": [],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "French",
+      "proficiency": "Intermediate"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

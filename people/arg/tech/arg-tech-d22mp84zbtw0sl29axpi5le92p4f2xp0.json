@@ -1,0 +1,105 @@
+{
+    "personal_info": {
+        "first_name": "Sebastián",
+        "last_name": "Sueiro",
+        "email": "s.sueiro@hotmail.com",
+        "phone": "3413971083",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Graduado de la Universidad Tecnológica Nacional como Técnico Universitario en Programación, con experiencia en proyectos académicos e individuales. Manejo un stack compuesto por React, .NET y MySQL, además de habilidades en desarrollo web y metodologías ágiles. Busco mi primera oportunidad laboral para aplicar mis conocimientos, seguir aprendiendo y aportar soluciones innovadoras en el ámbito tecnológico."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Técnico Universitario en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Colegio Secundario Completo",
+            "institution": "Nuestra Señora de la Asunción",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso Desarrollo Web",
+            "institution": "Coder House",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "react-js",
+                ".net",
+                "mysql",
+                "python"
+            ],
+            "soft": [],
+            "tools": [
+                "boostrap",
+                "tailwind",
+                "git",
+                "scrum"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Página web para emprendimiento de tortas",
+            "description": "Sitio estático creado con HTML y CSS para promocionar un emprendimiento de repostería.",
+            "technologies": ["html", "css"],
+            "url": ""
+        },
+        {
+            "name": "API para empresa de ropa",
+            "description": "Desarrollo de una API en .NET y MySQL para la gestión de productos y clientes en una tienda de ropa.",
+            "technologies": [".net", "mysql"],
+            "url": ""
+        },
+        {
+            "name": "Frontend para la API de empresa de ropa",
+            "description": "Interfaz desarrollada en React para consumir la API, aunque no se logró la integración final.",
+            "technologies": ["react"],
+            "url": ""
+        },
+        {
+            "name": "Sistema de turnos para detailing",
+            "description": "Aplicación web para la gestión de turnos en un servicio de detailing, desarrollada con React (frontend), .NET (backend) y MySQL (base de datos).",
+            "technologies": ["react", ".net", "mysql"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

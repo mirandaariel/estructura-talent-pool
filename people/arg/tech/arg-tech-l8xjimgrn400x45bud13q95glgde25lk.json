@@ -1,0 +1,127 @@
+{
+  "personal_info": {
+    "first_name": "Facundo",
+    "last_name": "Cortez",
+    "email": "cortezfacundo08@gmail.com",
+    "phone": "+54 (381) 211-7993",
+    "location": {
+      "country": "Argentina",
+      "city": "Córdoba",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/facundo-cortez-9814172a1/",
+    "website": "",
+    "portfolio": "https://github.com/Facundo080808",
+    "summary": "Desarrollador Backend y técnico en programación, con experiencia en el diseño y desarrollo de soluciones robustas del lado del servidor. Experto en la construcción de APIs RESTful con Node.js, TypeScript y bases de datos como PostgreSQL, SQL Server y MongoDB. Poseo un conocimiento sólido en integración de servicios de mensajería, gestión de bases de datos, y en la creación de aplicaciones eficientes para entornos ágiles. Comprometido con la calidad en la resolución de problemas complejos y en el desarrollo de sistemas escalables que aportan valor a su negocio."
+  },
+  "work_experience": [
+    {
+      "job_title": "Full Stack Developer",
+      "company": "BeCode",
+      "location": "",
+      "start_date": "2024-03-01",
+      "end_date": "2024-02-29",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrolle una API REST con node.js, typescript y mongoDB.",
+        "Implemente funciones de integración del servidor con whatsapp tales como el inicio de sesión con distintos números, cerrar sesión, enviar mensajes masivos, traer todos los contactos de whatsapp.",
+        "Utilice next.js y tailwind para el front end, integrando rutas del back end."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Software Developer",
+      "company": "",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrolle una aplicación de escritorio con Electron.js para control de stock del local donde trabajaba.",
+        "Implemente funciones como imprimir tickets, crear órdenes de compra, y un CRUD completo de productos.",
+        "Creé endpoints API RESTful utilizando Express.js para toda la aplicación."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "JavaScript Developer",
+      "company": "E-commerce Proyecto",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollé una aplicación de comercio electrónico full stack, liderando el diseño de la autenticación de usuarios con interfaces intuitivas en el front-end.",
+        "Implementé funcionalidades clave como autenticación de terceros, vista del usuario, y el botón de cerrar sesión.",
+        "Creé endpoints API RESTful utilizando Express.js y manejé operaciones CRUD de la autenticación de los usuarios en general, cómo iniciar sesión, cerrar sesión, registrarse."
+      ],
+      "achievements": [],
+      "repository_url": "https://thehosefactory.up.railway.app/"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Full Stack Developer",
+      "institution": "Soy Henry Bootcamp",
+      "location": "",
+      "start_date": "",
+      "end_date": "2024-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Tecnico en programacion",
+      "institution": "Universidad Tecnológica Nacional",
+      "location": "",
+      "start_date": "2022-01-01",
+      "end_date": "2024-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "html",
+        "css",
+        "javascript",
+        "typescript",
+        "php",
+        "python",
+        "react",
+        "next.js",
+        "bootstrap",
+        "tailwind",
+        "node.js",
+        "laravel",
+        "django",
+        "flask",
+        "postgresql",
+        "mysql",
+        "mongodb",
+        "git"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "US"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "ARG"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

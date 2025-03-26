@@ -1,0 +1,130 @@
+{
+  "personal_info": {
+    "first_name": "Sebastian",
+    "last_name": "Galeano",
+    "email": "sebastiangaleano.dev@gmail.com",
+    "phone": "01173653340",
+    "location": {
+      "country": "",
+      "city": "Avellaneda",
+      "state": "Buenos Aires"
+    },
+    "linkedin": "https://linkedin.com/in/sebadev",
+    "website": "",
+    "portfolio": "https://sebastiang.netlify.app/",
+    "summary": "Soy Desarrollador web con conocimientos solidos en diferentes lenguajes, frameworks y tecnologías. Me adapto rápidamente a nuevos desafíos, me apasiona la programación y realizo proyectos como freelancer constantemente. Busco mi primer empleo IT."
+  },
+  "work_experience": [
+    {
+      "job_title": "Freelancer | Front-End Developer",
+      "company": "Barbería Lading Page",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "currently_working": false,
+      "responsibilities": [
+        "Página web dinámica desarrollada con enfoque a información sobre los servicios del emprendimiento.",
+        "Implementación de prácticas Mobile First y Responsive Design.",
+        "Desarrollo creado con NextJS como framework.",
+        "Interfaz de usuario y rendimiento a través de TailwindCSS.",
+        "Organización y diseño con Figma y Trello."
+      ],
+      "achievements": [],
+      "repository_url": "https://barriofino-barber.vercel.app/"
+    },
+    {
+      "job_title": "Fullstack Developer",
+      "company": "App Final Beca Intertec 2024",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "currently_working": false,
+      "responsibilities": [
+        "Reproductor de música con IA integrada.",
+        "Utilizando la API de Cohere para generar respuestas con inteligencia artificial mediante comandos de voz.",
+        "Se puede interactuar con la aplicación mediante voz.",
+        "Base de datos PostgreSQL (Deploy en Neón) | NextJS + TailwindCSS."
+      ],
+      "achievements": [],
+      "repository_url": "https://escuchafacil.vercel.app/"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Fullstack Developer",
+      "institution": "Global Learning | Fundación Integrar",
+      "location": "",
+      "start_date": "2024-01-01",
+      "end_date": "2024-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Inglés IT A1.1",
+      "institution": "Argentina Programa",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "Fullstack Developer",
+      "institution": "UTN - Licenciatura Programación web FullStack Avanzado",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Front End Developer",
+      "institution": "Argentina Programa 4.0",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "javascript",
+        "typescript",
+        "astro",
+        "reactjs",
+        "nextjs",
+        "vite",
+        "nestjs",
+        "nodejs",
+        "firebase",
+        "postgresql",
+        "prismaorm",
+        "firestore",
+        "playwrite",
+        "cypress",
+        "vitest",
+        "css3",
+        "scss",
+        "tailwindcss",
+        "material-ui"
+      ],
+      "soft": [],
+      "tools": [
+        "git",
+        "postman",
+        "aws-services",
+        "linux",
+        "figma",
+        "trello"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

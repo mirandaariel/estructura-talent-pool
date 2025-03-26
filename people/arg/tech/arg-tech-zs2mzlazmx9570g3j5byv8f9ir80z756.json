@@ -1,0 +1,131 @@
+{
+    "personal_info": {
+        "first_name": "Santiago",
+        "last_name": "Sossa Hernández",
+        "email": "santiagosossaher@gmail.com",
+        "phone": "(157) 3164544210",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/santiago-sossa-hernández-b49a47275",
+        "website": "https://github.com/santsossa",
+        "portfolio": "",
+        "summary": "Desarrollador Backend con amplia experiencia y dominio avanzado de Node.js y Express. Especializado en el desarrollo de API REST escalables, integración de WebSockets para aplicaciones en tiempo real y manejo de bases de datos NoSQL como MongoDB/Atlas. Competente en el uso de bases de datos SQL, específicamente MySQL. Experto en la creación de sistemas de autenticación seguros como JWT y OAuth, así como en la contenedorización y orquestación con Docker, Docker Compose y Kubernetes. Conocimiento en sistemas de integración y despliegue continuo (CI/CD), además de un manejo sólido de Git y GitHub. Hábil en pruebas de software, incluyendo pruebas unitarias y de estrés. Reconocido por diseñar soluciones eficientes y seguras que optimizan procesos y garantizan la escalabilidad de las aplicaciones."
+    },
+    "work_experience": [
+        {
+            "job_title": "Backend Developer",
+            "company": "Asegura2.com",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñé, desarrollé y optimicé APIs REST escalables utilizando Node.js y Express, logrando un tiempo de respuesta promedio inferior a 200 ms.",
+                "Gestioné bases de datos NoSQL con MongoDB y MongoDB Atlas, reduciendo los tiempos de consulta en un 30% mediante estrategias de indexación avanzadas.",
+                "Implementé sistemas de autenticación seguros con JWT y OAuth, incrementando la seguridad en la autenticación en un 95%, según auditorías internas.",
+                "Integré contenedores y pipelines de despliegue continuo con Docker, Docker Hub y Docker Compose, disminuyendo los tiempos de despliegue en un 40%.",
+                "Orquesté microservicios con Kubernetes, logrando una disponibilidad del sistema del 99.9%.",
+                "Realicé pruebas unitarias y de estrés para garantizar la calidad del software, identificando y resolviendo problemas críticos antes de su implementación."
+            ],
+            "achievements": [
+                "Implementé un sistema personalizado de gestión de clientes que incrementó la eficiencia operativa en un 50%, reduciendo los tiempos de procesamiento manual en un promedio de 3 horas diarias."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Administración de Empresas",
+            "institution": "Universidad Nacional De Colombia",
+            "location": "",
+            "start_date": "",
+            "end_date": "2026-01-01",
+            "hours": 0
+        },
+        {
+            "degree": "Backend Developer",
+            "institution": "CoderHouse",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "node.js",
+                "api's-rest",
+                "autenticación-segura-(jwt,-oauth)",
+                "pruebas-de-estrés",
+                "mongodb-atlas",
+                "diseño-avanzado-de-bases-de-datos",
+                "docker-compose",
+                "kubernetes",
+                "ci/cd",
+                "github",
+                "express.js",
+                "websockets",
+                "pruebas-unitarias-(tdd)",
+                "mongodb",
+                "mysql",
+                "docker",
+                "docker-hub",
+                "twiio",
+                "git",
+                "optimización-de-procesos"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Backend Avanzado",
+            "issuing_organization": "CoderHouse",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo Web",
+            "issuing_organization": "CoderHouse",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Control de Versiones con Git y GitHub",
+            "issuing_organization": "Coursera",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Diseño y Arquitectura Backend",
+            "issuing_organization": "CoderHouse",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Testing y Escalabilidad Backend",
+            "issuing_organization": "CoderHouse",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

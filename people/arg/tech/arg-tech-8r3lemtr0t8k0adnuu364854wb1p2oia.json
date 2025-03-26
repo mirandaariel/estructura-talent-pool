@@ -1,0 +1,145 @@
+{
+    "personal_info": {
+        "first_name": "Wilmer",
+        "last_name": "Ediñho Mallqui Valdez",
+        "email": "ninomvaldez@hotmail.com",
+        "phone": "+54 91165564637",
+        "location": {
+            "country": "Argentina",
+            "city": "San Telmo",
+            "state": "CABA"
+        },
+        "linkedin": "LinkedIn",
+        "website": "",
+        "portfolio": "",
+        "summary": "Graduado destacado del Bootcamp Data Analytics Tableau, clasificado entre los 10 mejores de más de 100 participantes. Especializado en tecnologías de vanguardia como Tableau, Power Bi, SQL, Excel entre otros. Buscando la excelencia técnica y el crecimiento continuo en áreas IT y administrativas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Sport Data Analytics",
+            "company": "Sportcontract Argentina",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Sport Data Analytics",
+                "Video tagging",
+                "Data entry y análisis estadístico para implementar en dashboard."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Data Entry y Analista de Procesos",
+            "company": "Sistemas S & G",
+            "location": "",
+            "start_date": "2021-05-01",
+            "end_date": "2023-03-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Corrección de datos de clientes en el sistema interno.",
+                "Actualización de datos en Excel.",
+                "Carga de datos y seguimiento en SAP.",
+                "Log de registro secuencial y cronológico de las operaciones realizadas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Data Entry",
+            "company": "Iron Mountain",
+            "location": "",
+            "start_date": "2018-03-01",
+            "end_date": "2018-09-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Indexación de recetarios médicos digitalizados.",
+                "Verificación de recetas que cumplan con el estándar de calidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Atención al Cliente",
+            "company": "Aegis SA",
+            "location": "",
+            "start_date": "2017-08-01",
+            "end_date": "2018-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención al cliente y soporte técnico para el operador Personal.",
+                "Cumplimiento de métricas de calidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Desarrollo de Software",
+            "institution": "Instituto de Formación Técnica Superior N18",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bootcamp Data Analytics Tableau",
+            "institution": "Databrotes",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2023-12-01",
+            "hours": 0
+        },
+        {
+            "degree": "Advanced Data Analytics Power BI",
+            "institution": "Education IT",
+            "location": "",
+            "start_date": "2022-06-01",
+            "end_date": "2022-11-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "typescript",
+                "python",
+                "mysql",
+                "tableau",
+                "power-bi",
+                "excel",
+                "sap",
+                "google-sheets",
+                "nube",
+                "citrix-workspace"
+            ],
+            "soft": [],
+            "tools": [
+                "photoshop",
+                "indesign",
+                "illustrator"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Gráficas dinámicas con Tableau",
+            "description": "Elaboré un proyecto de visualización gráfica con Tableau aplicando filtros, fórmulas, métricas y parámetros. Se utilizó un dataset que brindaba información de precios de productos en supermercados con cronología y variación de precios por inflación.",
+            "technologies": ["tableau"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,153 @@
+{
+    "personal_info": {
+        "first_name": "Samuel Iván",
+        "last_name": "Maldonado Montero",
+        "email": "samuelmaldonadom@gmail.com",
+        "phone": "3218413625",
+        "location": {
+            "country": "Colombia",
+            "city": "Barranquilla",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "https://portfolio-maldonados.vercel.app/",
+        "portfolio": "",
+        "summary": "Estudiante de noveno semestre de Ingeniería de Sistemas en la Universidad Libre, con sólidos conocimientos en lógica de programación y dominio avanzado de Excel. Habilidades para trabajo en equipo, comunicación efectiva, resolución de problemas y creatividad, priorizando el uso responsable de la tecnología y el tratamiento ético de los datos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Monitor",
+            "company": "E-training",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Asistencia y orientación a estudiantes en inteligencia artificial.",
+                "Incluye algoritmos de aprendizaje automático y redes neuronales en el bootcamp de INTELIGENCIA ARTIFICIAL del programa TALENTO TECH 2.0."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Sistemas",
+            "institution": "Universidad Libre",
+            "location": "Barranquilla",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Laboral en Auxiliar Administrativo",
+            "institution": "CODETEC",
+            "location": "Barranquilla",
+            "start_date": "2020-01-01",
+            "end_date": "2020-12-02",
+            "hours": 1000
+        },
+        {
+            "degree": "Bachiller Académico",
+            "institution": "Instituto Distrital para el Desarrollo Integral Nueva Granada",
+            "location": "Barranquilla",
+            "start_date": "",
+            "end_date": "2020-12-05",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "nodejs",
+                "python",
+                "flask",
+                "react",
+                "typescript",
+                "flutter",
+                "sql",
+                "tailwind-css"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "comunicacion-efectiva",
+                "resolucion-de-problemas",
+                "creatividad"
+            ],
+            "tools": [
+                "power-bi",
+                "excel",
+                "word",
+                "power-point",
+                "gimp"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Competencias para la vida, Liderazgo y Empoderamiento Juvenil",
+            "issuing_organization": "Alcaldía de Barranquilla y la Secretaria de Gestión Social",
+            "issue_date": "2020-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Microsoft Power BI",
+            "issuing_organization": "Facultad de Ingeniería de la Universidad Libre seccional Barranquilla",
+            "issue_date": "2023-06-30",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "PORTAFOLIO PERSONAL",
+            "description": "Página web que presenta proyectos que destacan experiencia en desarrollo web.",
+            "technologies": [],
+            "url": "https://portfolio-maldonados.vercel.app/"
+        },
+        {
+            "name": "GESTION DE PLAN DE TRABAJO DE DOCENTES UNIVERSIDAD LIBRE",
+            "description": "Sistema de gestión del plan de trabajo docente, optimizando la planificación, seguimiento y reporte de actividades académicas.",
+            "technologies": [],
+            "url": "https://github.com/MauricioMolina12/ClassroomProject"
+        },
+        {
+            "name": "GESTION DE MANTENIMIENTO DE VEHICULOS",
+            "description": "Aplicación móvil que proporciona sugerencias de mantenimiento preventivo y correctivo de vehículos.",
+            "technologies": [],
+            "url": "https://github.com/Samue2408/VehicleCare"
+        },
+        {
+            "name": "RENTA GO",
+            "description": "Aplicación web de alquiler de vehículos con seguridad de contraseñas hash y uso de tokens de autenticación.",
+            "technologies": [],
+            "url": "https://github.com/Samue2408/Reserva_Vehiculos"
+        },
+        {
+            "name": "M&M CAKE SHOP",
+            "description": "Aplicación web para repostería donde los clientes pueden ver los productos y su información.",
+            "technologies": [],
+            "url": "https://mym-page.vercel.app/"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Hilary Correa López",
+            "relationship": "Psicóloga",
+            "contact": "3015779465"
+        },
+        {
+            "name": "Emiro Berrío Rodríguez",
+            "relationship": "Docente Universitario",
+            "contact": "3022131430"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "personal_info": {
+        "first_name": "Pedro",
+        "last_name": "Luque Castaño",
+        "email": "pedroluque481@gmail.com",
+        "phone": "+54 380 477 2312",
+        "location": {
+            "country": "Argentina",
+            "city": "La Rioja Capital",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy estudiante avanzado de la Tecnicatura en Programación en la Universidad Tecnológica Nacional con una fuerte vocación hacia esta, apasionado por la tecnología y la resolución de problemas. Busco una oportunidad para crecer como profesional en el área y aportar conocimiento de manera eficiente en un entorno de trabajo."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Tecnicatura en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Curso Desarrollo Web",
+            "institution": "",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Curso Git y Github",
+            "institution": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-01-01",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "Ingeniería en Sistemas, UTN de Córdoba Capital",
+            "location": "Córdoba, Argentina",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["python", "c", "c++", "html", "css", "sass", "javascript"],
+            "soft": [],
+            "tools": ["git"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Technofestival",
+            "description": "Web sobre Festival Techno ficticio",
+            "technologies": ["html", "css", "sass", "javascript"],
+            "url": "https://technofestival-luque.netlify.app"
+        },
+        {
+            "name": "Blog del Café",
+            "description": "Web para un Blog sobre Café",
+            "technologies": ["html", "css", "sass", "javascript"],
+            "url": "https://blogdelcafe-luque.netlify.app"
+        },
+        {
+            "name": "Frontend Store",
+            "description": "Web Tienda de Ropa ficticia",
+            "technologies": ["html", "css", "sass", "javascript"],
+            "url": "https://frontendstore-luque.netlify.app"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio Alto (B2)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

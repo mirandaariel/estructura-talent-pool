@@ -1,0 +1,153 @@
+{
+    "personal_info": {
+        "first_name": "Cesar",
+        "last_name": "Patiñon",
+        "email": "cesarpatinon@hotmail.com",
+        "phone": "3106536378",
+        "location": {
+            "country": "Colombia",
+            "city": "Bogotá",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/cesar-andres-patiño-nieto-b/063714a",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero de Sistemas especializado en bases de datos, con experiencia en desarrollo de aplicaciones web y microservicios transaccionales utilizando Java Spring Boot, Oracle PL SQL y PHP, junto a frameworks como Laravel y Codelgniter. He liderado proyectos complejos, gestionando equipos multidisciplinarios y entregando soluciones escalables que optimizan procesos y mejoran la experiencia del usuario. Además, cuento con habilidades en análisis de datos para apoyar decisiones estratégicas y me destaco por mi capacidad de adaptación y enfoque en la innovación y mejora continua."
+    },
+    "work_experience": [
+        {
+            "job_title": "Team Leader de Proyectos Desarrollo",
+            "company": "Connect Support",
+            "location": "Bogotá, Colombia",
+            "start_date": "2024-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Implementación de la metodología Scrum para el seguimiento y gestión de proyectos, mejorando la eficiencia y la comunicación dentro del equipo.",
+                "Liderazgo en la implementación de Notion como herramienta centralizada para el seguimiento de tareas, facilitando la interacción entre el coordinador y los desarrolladores.",
+                "Comunicación constante con el gerente para reportar el progreso semanal de los proyectos, asegurando la alineación con los objetivos empresariales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista Desarrollador",
+            "company": "LINKTIC",
+            "location": "Bogotá, Colombia",
+            "start_date": "2024-12-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de servicios con Java Reactivo para una aplicación financiera, contribuyendo a la eficiencia y escalabilidad del sistema."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista Desarrollador",
+            "company": "SAMTEL S.A.S",
+            "location": "Bogotá, Colombia",
+            "start_date": "2024-09-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web, basadas en tecnologías como PHP, Apache, Amazon AWS y garantizando la eficiencia y calidad del producto final."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Master",
+            "company": "PEOPLE PASS S.A.",
+            "location": "Bogotá, Colombia",
+            "start_date": "2021-08-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Liderazgo y participación de aplicaciones web innovadoras, utilizando tecnologías modernas como Java Spring Boot, Oracle 19C, PHP, y frameworks Laravel y Codelgniter.",
+                "Desarrollo de microservicios para procesos transaccionales y nuevas aplicaciones de negocio utilizando frameworks Spring Boot y Oracle 19C.",
+                "Gestión de requerimientos y procesos para el desarrollo de los componentes del proyecto de dispersión de dinero a Tarjeta Habientes de Estados Unidos.",
+                "Desarrollo de aplicaciones en APEX Oracle 18.1 para la dispersión de fondos a tarjetahabientes.",
+                "Desarrollo de portal para la reexpedición de tarjetas de tarjetahabientes, implementado en .NET.",
+                "Implementación de servicios de pago para recargas y la app People Pass para tarjetahabientes, utilizando PHP, Codelgniter 3 y Oracle."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Especialización en Base de Datos",
+            "institution": "Universidad Pedagógica y Tecnológica de Colombia 'UPTC'",
+            "location": "Tunja, Colombia",
+            "start_date": "2019-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería de Sistemas y Computación",
+            "institution": "Universidad Pedagógica y Tecnológica de Colombia 'UPTC' Seccional Sogamoso",
+            "location": "Sogamoso, Colombia",
+            "start_date": "2018-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "php",
+                "python",
+                "spring-boot",
+                "laravel",
+                "codelgniter",
+                "oracle-pl-sql",
+                "mysql",
+                "apex-oracle",
+                "html",
+                "javascript",
+                ".net"
+            ],
+            "soft": [],
+            "tools": [
+                "scrum",
+                "notion"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Curso RESTfull Java Spring Boot",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso POO y Algoritmos en Python",
+            "issuing_organization": "Udemy",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Native"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
