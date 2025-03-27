@@ -1,0 +1,112 @@
+{
+    "personal_info": {
+        "first_name": "Lihuén",
+        "last_name": "Segovia Grabois",
+        "email": "lihuensg@gmail.com",
+        "phone": "3447504626",
+        "location": {
+            "country": "Argentina",
+            "city": "Concepción del Uruguay",
+            "state": "Entre Ríos"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Pasantía - Prácticas Supervisadas",
+            "company": "LPP Pietrononi",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé el backend usando Node.js y Express, implementando funcionalidades clave como la gestión de proveedores (CRUD) y la integración de API RESTful para la comunicación con el frontend.",
+                "Diseñé y optimicé la base de datos en MySQL, definiendo estructuras de tablas y relaciones para garantizar la integridad y eficiencia en el manejo de la información de proveedores y documentos.",
+                "Implementé autenticación y autorización de usuarios usando JWT, asegurando el acceso controlado al sistema según los roles definidos.",
+                "Realicé pruebas de integración y validación para asegurar el correcto funcionamiento y rendimiento del sistema, con especial enfoque en la fiabilidad de los servicios del backend.",
+                "Trabajé en conjunto con el equipo para implementar mejoras continuas y correcciones de errores, garantizando la calidad del sistema y la satisfacción de los usuarios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas de Información",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring-boot",
+                "jpa",
+                "docker",
+                "javascript",
+                "typescript",
+                "html",
+                "css",
+                "sql",
+                "react",
+                "angular",
+                "node-js",
+                "mongodb",
+                "postgresql"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "BookNet",
+            "description": "Es una plataforma de red social de libros construida bajo una arquitectura de microservicios.",
+            "technologies": ["Java", "Spring Boot", "JPA", "Docker"],
+            "url": ""
+        },
+        {
+            "name": "Lista de tareas App",
+            "description": "Aplicación para gestionar tareas, almacenadas en localStorage. Permite agregar, eliminar y ver tareas.",
+            "technologies": ["Angular"],
+            "url": "GitHub"
+        },
+        {
+            "name": "Aplicación del clima App",
+            "description": "Usa dos APIs para mostrar datos climáticos y ubicación en un mapa.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "url": "GitHub"
+        },
+        {
+            "name": "Búsqueda de películas App",
+            "description": "Consulta una API para buscar películas y ordenarlas por fecha.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "url": "GitHub"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2-B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

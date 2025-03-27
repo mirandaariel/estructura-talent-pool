@@ -1,0 +1,187 @@
+{
+  "personal_info": {
+    "first_name": "Javier",
+    "last_name": "Masci",
+    "email": "javier.masci@gmail.com",
+    "phone": "+54 9 011-4034-0559",
+    "location": {
+      "country": "Argentina",
+      "city": "Ciudad de Buenos Aires",
+      "state": ""
+    },
+    "linkedin": "https://linkedin.com/in/javiermasci",
+    "website": "",
+    "portfolio": "",
+    "summary": "Mi trayectoria incluye una amplia experiencia en la gestión del sector IT, administración de proyectos tecnológicos, coordinación de equipos y gestión de servicios con proveedores. Me especializo en la adquisición de nuevas herramientas, optimización de procesos e integración de sistemas utilizando diversas tecnologías. Mi enfoque está siempre orientado a alcanzar los objetivos organizacionales, incluyendo la integración de tecnologías emergentes como inteligencia artificial (IA), Internet de las Cosas (IoT), integración de servicios API's y virtualización de entornos para sistemas aplicativos."
+  },
+  "work_experience": [
+    {
+      "job_title": "Sr. IT Project Manager",
+      "company": "Banco Piano",
+      "location": "Buenos Aires, Argentina",
+      "start_date": "2012-08-01",
+      "end_date": "2024-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Responsable del área de Desarrollo de los Sistemas, Control de Calidad del Software (UAT), Gestión de la demanda, Soporte a usuarios e Implementación de los Aplicativos.",
+        "Administración y control sobre presupuesto del área de TI.",
+        "Administración de proyectos mediante el uso de metodologías ágiles como PMI y SCRUM y waterfall.",
+        "Implementación y gestión de Data Analysis (BI) sobre la información del Banco.",
+        "Integración de API, Microservicios con el CRM, con disponibilidad 99% Up-time.",
+        "Contratación y administración de servicios externos funcionales y técnicos.",
+        "Administración de los contratos con los servicios terciarizados.",
+        "Administración de 50 servidores optimizando en un lapso de 2 años la infraestructura para tener entornos de virtualización mixto (datacenters propios y Cloud).",
+        "Responsable de la continuidad y disponibilidad de los ambientes de producción, preproducción (UAT) y desarrollo.",
+        "Análisis, gestión e Implementación de nuevos proyectos de Infraestructura IT, aplicativos y seguridad.",
+        "Organizar, gestionar y mantener la documentación técnica del área de IT.",
+        "Aseguramiento de la infraestructura tecnológica del grupo coordinando con el área de Seguridad.",
+        "Elaboración de planes de contingencia (Disaster Recovery Plan).",
+        "Gestión sobre 60 personas del área con sistema de trabajo híbrido.",
+        "Implementación Help Desk Corporativa bajo metodología ITIL administrando aproximadamente 4000 tickets mensuales."
+      ],
+      "achievements": [
+        "Aumenté la productividad del equipo en un 15% mediante la implementación de un nuevo sistema de gestión de proyectos y objetivos."
+      ],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Sr. Líder de Proyecto",
+      "company": "Banco Piano",
+      "location": "Buenos Aires, Argentina",
+      "start_date": "2006-08-01",
+      "end_date": "2012-08-01",
+      "currently_working": false,
+      "responsibilities": [
+        "Gestionar la ejecución de las tareas y el desempeño del equipo a cargo.",
+        "Liderar el Team de innovación digital para impulsar la transformación digital dentro de la compañía.",
+        "Administración de requerimientos de usuarios, optimización de circuitos administrativos y desarrollo de normas y procedimientos.",
+        "Participación en la elaboración de informes de Riesgos de IT y propuestas de mitigación.",
+        "Elaboración procedimientos para resguardo y recuperación."
+      ],
+      "achievements": [
+        "Reduje los costos de operación del circuito de préstamos en un 30% de los costos anuales.",
+        "Implementación de sistemas de intercambio de divisas, sistema contable, sistema de préstamos (COBOL), sistema de caja de ahorros y cuentas corrientes y sistema comercial (.NET) integrados por medio de APIs."
+      ],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Sr. Líder de Proyecto",
+      "company": "Banco Columbia",
+      "location": "Buenos Aires, Argentina",
+      "start_date": "2000-02-01",
+      "end_date": "2006-07-01",
+      "currently_working": false,
+      "responsibilities": [
+        "Coordinación, análisis, e implementación de Proyectos Aplicativos y Base de Datos.",
+        "Generé interfaces únicas para la interacción de sistemas de distintas tecnologías.",
+        "Creé una intranet obteniendo información de los procesos del banco.",
+        "Optimización de sistemas de intercambios de divisas y sistema comercial.",
+        "Relevamiento de procesos y elaboración de diagnóstico y recomendaciones.",
+        "Coordinar las implementaciones, pasajes a producción y otras modificaciones realizadas."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Ssr. Líder de Proyecto",
+      "company": "Compañia Financiera Argentina",
+      "location": "Buenos Aires, Argentina",
+      "start_date": "1998-03-01",
+      "end_date": "2000-06-01",
+      "currently_working": false,
+      "responsibilities": [
+        "Administración de requerimientos de usuarios, circuitos administrativos y análisis de normas y procedimientos.",
+        "Participación en la elaboración de proyectos y propuestas de mitigación de riesgos.",
+        "Gestionar y mantener la Documentación Técnica del área de IT de los aplicativos.",
+        "Soporte a usuarios sobre las implementaciones realizadas."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Licenciatura en Tecnología de la Información",
+      "institution": "Universidad de la Ciudad de Buenos Aires",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "Analista en Sistemas de Información",
+      "institution": "Universitas Estudios Superiores",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "metodologías-de-desarrollo-de-sistemas",
+        "scrum",
+        "kanban",
+        "microsoft-project",
+        "jira",
+        "identificación-y-mitigación-de-riesgos",
+        "ambientes-de-desarrollo",
+        "programación-orientada-a-objetos",
+        "c++",
+        ".net",
+        "vb.net",
+        "asp.net",
+        "python",
+        "erp",
+        "crm",
+        "servicios-web",
+        "soap",
+        "rest",
+        "bases-de-datos",
+        "oracle",
+        "sybase",
+        "sql",
+        "data-análisis",
+        "power-bi",
+        "graffana"
+      ],
+      "soft": [
+        "trabajo-en-equipo",
+        "responsabilidad",
+        "compromiso",
+        "puntualidad",
+        "comunicación-eficaz",
+        "liderazgo",
+        "resolución-de-problemas",
+        "proactividad",
+        "organización",
+        "planificación",
+        "administración-del-tiempo",
+        "gestión-de-conflictos",
+        "negociación",
+        "trabajo-en-equipos-multidisciplinarios"
+      ],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Ingles",
+      "proficiency": "B2 - Nivel avanzado"
+    },
+    {
+      "language": "Italiano",
+      "proficiency": "B1 - Nivel intermedio"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

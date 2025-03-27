@@ -1,0 +1,133 @@
+{
+    "personal_info": {
+        "first_name": "Jennifer",
+        "last_name": "Romero",
+        "email": "jennifer.romero.navarrete@gmail.com",
+        "phone": "+52 1 6621328425",
+        "location": {
+            "country": "Mexico",
+            "city": "Hermosillo",
+            "state": "Sonora"
+        },
+        "linkedin": "https://www.linkedin.com/in/jennifer-jhoana-romero-navarrete-0681862b3/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Software engineering student with a strong background in algorithms, data structures, and frontend technologies. Developed interactive web applications and worked effectively in teams to solve complex problems. Seeking to apply technical skills to impactful projects."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "",
+            "institution": "Universidad Estatal de Sonora (UES)",
+            "location": "",
+            "start_date": "",
+            "end_date": "2025-05-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javaScript",
+                "c#",
+                "java",
+                "phyton"
+            ],
+            "soft": [
+                "teamwork",
+                "communication",
+                "problem-solving",
+                "time-management"
+            ],
+            "tools": [
+                "git",
+                "mysql",
+                "rest-api",
+                "angular",
+                "bootstrap",
+                "fetch-api",
+                "laravel"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Git",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "ChatBot Creation",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "JellyBelly App | Landing Page",
+            "description": "Designed and developed an interactive landing page for Jelly Belly as part of a team project, integrating the official API to display key product information.",
+            "technologies": ["angular", "typescript", "scss", "fetch-api"],
+            "url": ""
+        },
+        {
+            "name": "Students API | REST API",
+            "description": "Developed an academic API with Laravel to manage data for students, teachers, and courses, using database tables for storage.",
+            "technologies": ["laravel", "php", "mysql", "json", "composer", "artisan-cli"],
+            "url": ""
+        },
+        {
+            "name": "Weather App | City Weather Page",
+            "description": "Developed a weather information page using the Weather API that retrieves and displays the current weather for a specified city.",
+            "technologies": ["html", "css", "javascript", "fetch-api", "bootstrap"],
+            "url": ""
+        },
+        {
+            "name": "Flicker | Movie Synopsis Page",
+            "description": "Developed a responsive web page integrating the TMDB API to display movie synopses, ratings, and other details.",
+            "technologies": ["html", "css", "javascript", "fetch-api"],
+            "url": ""
+        },
+        {
+            "name": "Java Linked Lists Project",
+            "description": "Developed a project using linked lists, focusing on optimizing performance and memory usage.",
+            "technologies": ["java"],
+            "url": ""
+        },
+        {
+            "name": "C# Desktop Application for KAaccesories",
+            "description": "Created a database-integrated application improving inventory management for a local business.",
+            "technologies": ["c#", "database"],
+            "url": ""
+        },
+        {
+            "name": "ChatBot Creation",
+            "description": "Developed a WhatsApp chatbot using Python and the OpenAI API.",
+            "technologies": ["python", "openai-api"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "B2"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

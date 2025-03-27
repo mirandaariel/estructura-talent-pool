@@ -1,0 +1,106 @@
+{
+    "personal_info": {
+        "first_name": "Franco",
+        "last_name": "Benitez",
+        "email": "febenitez2004@gmail.com",
+        "phone": "+54 11 5514 1116",
+        "location": {
+            "country": "Argentina",
+            "city": "Claypole",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante de Ingeniería en Sistemas de Información cursando el cuarto nivel de la carrera, con gran interés en desarrollarme como profesional y sumar nuevos conocimientos. Persona proactiva, excelente compañero de equipo, organizado y responsable. Disfruto aprender y desarrollar nuevas habilidades constantemente."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas de Información",
+            "institution": "Universidad Tecnológica Nacional - UTN",
+            "location": "Argentina",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Economía y Administración",
+            "institution": "Instituto Adolfo Alsina",
+            "location": "Argentina",
+            "start_date": "2016-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring",
+                "hibernate",
+                "javalin",
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "ruby",
+                "c/c++",
+                "python",
+                "mysql",
+                "sql-server",
+                "mongodb",
+                "microservicios",
+                "mvc"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "resolución-de-problemas",
+                "atención-a-los-detalles",
+                "proactivo",
+                "mentalidad-de-crecimiento",
+                "aprendizaje-independiente",
+                "organizado"
+            ],
+            "tools": [
+                "aws",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Viandas Donation",
+            "description": "Desarrollé una plataforma web para la gestión de donaciones de viandas destinadas a personas vulnerables.",
+            "technologies": [
+                "Java",
+                "Spring Boot",
+                "Hibernate",
+                "Javalin",
+                "AWS",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,154 @@
+{
+    "personal_info": {
+        "first_name": "Carla",
+        "last_name": "Sotomayor",
+        "email": "capasoan@gmail.com",
+        "phone": "3014080393",
+        "location": {
+            "country": "Colombia",
+            "city": "Medellín",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/carla-patricia-soyomayor-anaya-ti/",
+        "website": "https://github.com/capasoan",
+        "portfolio": "",
+        "summary": "Soy una profesional autónoma y autodidacta con experiencia en desarrollo full-stack. He trabajado con tecnologías como JavaScript, Node.js, React.js, PostgreSQL, Express.js, y Redux, lo que me ha permitido construir y desplegar aplicaciones web robustas. Además, he utilizado WordPress como una herramienta clave para la creación y gestión de páginas web y plataformas, y manejando servidores como Hostgator y Hostinger para asegurar su óptimo funcionamiento. Mi experiencia técnica se complementa con la capacidad de gestionar proyectos completos, desde el diseño hasta el despliegue, tanto en entornos virtuales como presenciales."
+    },
+    "work_experience": [
+        {
+            "job_title": "Profesional",
+            "company": "Corporacion Alianza Formativa",
+            "location": "",
+            "start_date": "2018-09-01",
+            "end_date": "2021-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé y diseñé la plataforma de la corporación para ofrecer capacitaciones en modalidad virtual utilizando WordPress.",
+                "Gestioné servidores web como Hostgator y Hostinger para asegurar un funcionamiento óptimo de la plataforma.",
+                "Creé y mantuve páginas web para la ONG, participando en proyectos de marketing y desarrollo web.",
+                "Diseñé encuestas para medir la calidad de vida, bienestar y satisfacción de los clientes, e implementé medidas correctivas basadas en los resultados.",
+                "Gestioné la logística de las capacitaciones, incluyendo la coordinación del personal docente y auxiliar, así como la planificación de lugares, días y horarios.",
+                "Implementé y ejecuté programas enfocados en habilidades sociales, comunicación efectiva, desarrollo personal y bienestar emocional y social."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Profesional del componente psicosocial",
+            "company": "Organización Internacional del Trabajo OIT",
+            "location": "Ovejas, Sucre, Colombia",
+            "start_date": "2023-05-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Coordiné las actividades en el territorio de Ovejas, Sucre realizando un seguimiento continuo a los participantes del programa \"El Campo es Paz Total\", para evaluar su progreso y ajustar intervenciones según sea necesario.",
+                "Implementé enfoques psicosociales con enfoque diferencial y de género.",
+                "Diseñé y llevé a cabo acciones diferenciadas para personas en condición de discapacidad.",
+                "Proporcioné capacitación psicosocial al equipo de trabajo o talento humano."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "2024-06-30",
+            "hours": 800
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html",
+                "css",
+                "react",
+                "redux",
+                "bootstrap",
+                "node.js",
+                "express.js",
+                "postgreSQL"
+            ],
+            "soft": [],
+            "tools": [
+                "github",
+                "jira",
+                "slack",
+                "discord",
+                "cloudinary",
+                "railway",
+                "wordpress",
+                "hostinger",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Curso en Configuración de entornos de desarrollo en Windows",
+            "issuing_organization": "Platzi",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso en Programación orientada a objetos con JavaScript",
+            "issuing_organization": "Platzi",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso en Manipulación de Arrays con JavaScript",
+            "issuing_organization": "Platzi",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso en Introducción a la terminal y línea de comandos",
+            "issuing_organization": "Platzi",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Bella Muse",
+            "description": "La tienda de ropa virtual Bella muse, para mujeres, ofrece una experiencia de compra en línea intuitiva y completa. Los usuarios pueden filtrar productos por categorías, ordenar por precios y de forma alfabética, y buscar prendas por nombre. La plataforma permite compras en línea a través de Mercado Pago y cuenta con un sistema de registro de usuarios con verificación por correo electrónico, garantizando una experiencia segura y personalizada.",
+            "technologies": [
+                "react",
+                "redux",
+                "css",
+                "bootstrap",
+                "express.js",
+                "postgreSQL",
+                "sequelize",
+                "railway",
+                "cloudinary"
+            ],
+            "url": "https://github.com/Gabriel-Villalba/pfFontEnd"
+        },
+        {
+            "name": "Wordpress - Coorpoalianza Academy",
+            "description": "La página de Coorpoalianza Academy fue creada para satisfacer la creciente necesidad de ofrecer educación no formal accesible y de calidad tanto a profesionales como a estudiantes. Facilita el acceso a programas de formación, entrenimiento y capacitación facilitando participación activa mediante comentarios, encuestas, calificaciones y acceso a vídeos educativos.",
+            "technologies": [
+                "wordpress"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

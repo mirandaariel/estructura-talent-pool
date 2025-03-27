@@ -1,0 +1,93 @@
+{
+    "personal_info": {
+        "first_name": "Juanjo",
+        "last_name": "Rubio Sánchez",
+        "email": "juanjorsanchez81@gmail.com",
+        "phone": "+34 653 831 576",
+        "location": {
+            "country": "Spain",
+            "city": "Granada",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/juan-josé-rubio-sánchez-621034103/",
+        "website": "https://juanjo.psycode.es/",
+        "portfolio": "https://github.com/JuanjoRSanchez",
+        "summary": "Desarrollador Web Junior. Actualmente vivo en Granada, el año 2022 acabé el Grado Superior de Desarrollo de Aplicaciones Web. Sigo formándome desarrollando mis propios proyectos para mejorar mis habilidades con diferentes tecnologías como React, Vue, Java, Spring Boot, Docker entre otras."
+    },
+    "work_experience": [
+        {
+            "job_title": "Prácticas de Desarrollo de Aplicaciones Web",
+            "company": "TireSur",
+            "location": "Granada, Spain",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación de mejoras en un Scraper de precios.",
+                "Cambios de diseño en la página de ventas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Grado Superior de Desarrollo de Aplicaciones Web",
+            "institution": "Instituto FOC",
+            "location": "Granada, Spain",
+            "start_date": "2020-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Grado Superior de Diseño en Fabricación Mecánica",
+            "institution": "Escola del Treball",
+            "location": "Barcelona",
+            "start_date": "2011-01-01",
+            "end_date": "2013-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react",
+                "vue",
+                "java",
+                "spring-boot",
+                "jpa",
+                "sql"
+            ],
+            "soft": [],
+            "tools": [
+                "docker",
+                "apache",
+                "git"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Castellano",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Catalán",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

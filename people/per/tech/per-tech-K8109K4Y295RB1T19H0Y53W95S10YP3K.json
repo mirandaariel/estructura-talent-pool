@@ -1,0 +1,207 @@
+{
+    "personal_info": {
+        "first_name": "Eduardo",
+        "last_name": "Araujo Sarmiento",
+        "email": "eduardoaraujo6660@gmail.com",
+        "phone": "+51 985573499",
+        "location": {
+            "country": "Peru",
+            "city": "Bellavista",
+            "state": "Callao"
+        },
+        "linkedin": "https://www.linkedin.com/in/eduardo-salvador-araujo-sarmiento/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Como estudiante del décimo ciclo de la carrera de Ingeniería de Sistemas Computacionales, poseo una sólida base académica y experiencia práctica en el desarrollo web, tanto en Front-end como Back-end. Me destaco por mi enfoque innovador y mi habilidad para crear soluciones tecnológicas intuitivas, escalables y visualmente atractivas al momento de dar soportes técnicos al usuario convencional. Estoy comprometido con la mejora continua de mis habilidades y con la entrega de productos que superen las expectativas del cliente."
+    },
+    "work_experience": [
+        {
+            "job_title": "Agente de Soporte Técnico Informático",
+            "company": "Entel - Impulsa365",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Resolución de problemas técnicos relacionados con redes, routers, puntos de acceso y CTO.",
+                "Configuraciones de DNS, WAN e IP.",
+                "Asesoría a clientes en la optimización de su infraestructura tecnológica.",
+                "Monitoreo de sistemas, detección de fallas y aplicación de mejoras."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "FabLab - iFurniture",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de plataformas web.",
+                "Implementación de mejoras visuales en el frontend.",
+                "Administración de bases de datos en XAMPP.",
+                "Protección de repositorios mediante certificados SSL.",
+                "Análisis de código con SonarQube."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Practicante Pre Profesional de Ingeniería de Sistemas",
+            "company": "Group Titans Cargo SAC",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2023-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Soporte integral en el uso del sistema SINTAD.",
+                "Capacitación a nuevos empleados.",
+                "Colaboración con el área de marketing en la edición de videos y optimización de estrategias digitales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Sistemas Computacionales",
+            "institution": "Universidad Privada del Norte",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "svg",
+                "javascript",
+                "typescript",
+                "angular",
+                "react",
+                "bootstrap",
+                "bulma",
+                "tailwind",
+                "mysql",
+                "mongodb",
+                "microsoft-sql-server",
+                "oracle",
+                "xampp",
+                "big-data",
+                "php",
+                "laravel",
+                "java",
+                "spring-boot",
+                "jdk",
+                "javacloud",
+                "git",
+                "github",
+                "gitlab",
+                "gitbash",
+                "scrum",
+                "trello",
+                "kanban",
+                "sonarqube",
+                "ssl",
+                "cisco-packet-tracer",
+                "putty",
+                "virtual-box",
+                "red-hat",
+                "cloud-computing",
+                "nagios",
+                "blackbox-testing",
+                "selenium-webdriver",
+                "c++",
+                "c",
+                "clp"
+            ],
+            "soft": [
+                "pensamiento-analítico",
+                "empatía-y-tolerancia",
+                "comunidadación-efectiva",
+                "capacidad-de-documentación",
+                "trabajo-en-equipo",
+                "región-del-tiempo",
+                "resiliencia",
+                "escucha-activa"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "CCNAv7: Introduction to Networks",
+            "issuing_organization": "Cisco",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "IoT Fundamentals: Connecting Things",
+            "issuing_organization": "Cisco",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "NDG Linux Essentials",
+            "issuing_organization": "Cisco Networking Academy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "CLP - Advanced Programming in C",
+            "issuing_organization": "Cisco Networking Academy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Big Data Analyst",
+            "issuing_organization": "",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo de Aplicaciones Tecnológicas",
+            "issuing_organization": "",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Proyecto Social de Enseñanza de Python y Excel",
+            "description": "Organizar talleres en una secundaria para enseñar Python y Excel como herramientas fundamentales para la gestión de bases de datos y el desarrollo de un sitio web básico.",
+            "technologies": ["python", "excel"],
+            "url": ""
+        },
+        {
+            "name": "LicenHeaven - Sitio Web de Servicios de Streaming Temporales",
+            "description": "Desarrollé un sitio web para la venta de servicios de streaming con licencias temporales.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Ingles",
+            "proficiency": "Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,158 @@
+{
+    "personal_info": {
+        "first_name": "Federico",
+        "last_name": "Gregorio",
+        "email": "federicogrego30@gmail.com",
+        "phone": "+5491168699882",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/federico-gregorio-b25164174/",
+        "website": "",
+        "portfolio": "",
+        "summary": "QA Engineer with 8 years of experience in different clients, products and processes. Experience with Java, JavaScript, TypeScript and C#, doing automation testing. API testing and DB testing."
+    },
+    "work_experience": [
+        {
+            "job_title": "Quality Assurance Engineer",
+            "company": "Bonzzu",
+            "location": "",
+            "start_date": "2022-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Part of a UI team consuming microservices and monoliths.",
+                "Focus on backend services to display them in the UI.",
+                "Work closely with PO, BA, and architects.",
+                "Work with devs to analyze logic for tickets.",
+                "Define testing process with US QA manager.",
+                "Owner of deployments, release notes, and UAT validations.",
+                "Estimate stories, PI planning, E2E testing.",
+                "Knowledge transfer to Product Owner and Dev team.",
+                "Demo features to BA and PO.",
+                "Create and automate test cases and executions."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Development Engineer In Test (SDET)",
+            "company": "Newfold Digital",
+            "location": "",
+            "start_date": "2021-11-01",
+            "end_date": "2022-12-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Managed sprint and tasks for a client's brand.",
+                "Maintained and updated a shared testing framework.",
+                "Created and verified regression automation tests.",
+                "Reported bugs and tracked tickets for automation.",
+                "Identified new features and sections for automation.",
+                "Suggested framework updates.",
+                "Documented framework changes.",
+                "Guided new project partners.",
+                "Communicated with development and manual QA teams."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA Automation",
+            "company": "Tsoft S.A",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-11-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Created test plans and WebdriverIO tests in Jenkins.",
+                "Integrated tests into CI/CD pipeline in Jenkins.",
+                "Delivered multitasking QA automation and DevOps.",
+                "Managed test reports in Jenkins."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA Automation",
+            "company": "Tsoft S.A",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2021-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Automated processes for product creation and shipping.",
+                "Migrated projects to Selenium Java (OOP).",
+                "Guided new QA team members.",
+                "Executed and verified regression testing.",
+                "Reported bugs and managed automation tickets."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA Analyst",
+            "company": "Tsoft S.A",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2018-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Designed testing plans for Telecommunications provider.",
+                "Defined test cases for functional and technical requirements.",
+                "Executed tests and recorded incidents.",
+                "Performed UAT with clients and documentation.",
+                "Analyzed and reported test results."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Systems Engineering (final project pending)",
+            "institution": "UNICEN",
+            "location": "Tandil",
+            "start_date": "2016-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "javascript",
+                "typescript",
+                "c#",
+                "selenium",
+                "api-testing",
+                "sql"
+            ],
+            "soft": [
+                "teamwork",
+                "communication"
+            ],
+            "tools": [
+                "jira",
+                "cucumber",
+                "postman",
+                "jenkins",
+                "docker",
+                "intellij",
+                "eclipse"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

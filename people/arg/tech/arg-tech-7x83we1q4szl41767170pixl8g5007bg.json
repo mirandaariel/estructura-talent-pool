@@ -1,0 +1,159 @@
+{
+    "personal_info": {
+        "first_name": "Emiliana",
+        "last_name": "Corbatta",
+        "email": "corbatta.emiliana@gmail.com",
+        "phone": "+5492314576294",
+        "location": {
+            "country": "Argentina",
+            "city": "Daireaux",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://linkedin.com/in/emilianacorbatta",
+        "website": "",
+        "portfolio": "",
+        "summary": "Quality Engineer with experience in API and UI test automation using tools such as Cypress and Playwright. Expert in test design, implementation and execution, as well as incident detection, documentation and reporting in tools such as Jira and Confluence. Extensive experience in testing web, mobile, and blockchain applications, with a focus on continuous improvement of software quality. Passionate about learning and growing professionally."
+    },
+    "work_experience": [
+        {
+            "job_title": "QA Engineer",
+            "company": "Rather Labs",
+            "location": "",
+            "start_date": "2022-07-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Design and execution of test plans and test cases (Test Rails)",
+                "Defect and bug detection and reporting (Jira)",
+                "Feature documentation (Confluence)",
+                "Test automation environment configuration",
+                "API and UI test automation using Cypress, Postman, Playwright",
+                "Concurrent test automation",
+                "Manual web testing",
+                "Manual API testing",
+                "Blockchain testing"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "DevOps",
+            "company": "Mikroways",
+            "location": "",
+            "start_date": "2019-02-01",
+            "end_date": "2020-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creating and maintaining Docker containers",
+                "Docker container management",
+                "GitHub actions",
+                "CI/CD",
+                "Load testing (JMeter)",
+                "Web services monitoring (Grafana)"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA/QC Engineer",
+            "company": "Arzion / ARZ Mallorca",
+            "location": "",
+            "start_date": "2020-02-01",
+            "end_date": "2022-07-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Design, execution and reporting of test plan and test cases",
+                "Manual testing of APIs developed with Node",
+                "Manual testing of web systems developed in Python and React",
+                "Manual testing of Android and iOS mobile applications",
+                "Test environment configurations for test automation",
+                "Automation of UI and API testing (Cypress)",
+                "RESTful web services testing"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "DBA",
+            "company": "Dirección Pcial de Sistemas de la Información y Tecnologías",
+            "location": "",
+            "start_date": "2017-06-01",
+            "end_date": "2019-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Participation in the design and analysis of DPSIT databases",
+                "Administration of Postgres, Sybase, MySql databases"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's degree in Systems",
+            "institution": "UNLP",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "University Analyst Programmer",
+            "institution": "UNLP",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "python"
+            ],
+            "soft": [
+                "soft-skills"
+            ],
+            "tools": [
+                "figma",
+                "canva",
+                "adobe-illustrator",
+                "cypress",
+                "playwright",
+                "jira",
+                "confluence",
+                "postman",
+                "docker",
+                "github-actions",
+                "ci/cd",
+                "jmeter",
+                "grafana"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Scrum Master course",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B2+"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

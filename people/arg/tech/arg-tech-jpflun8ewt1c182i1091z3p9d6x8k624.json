@@ -1,0 +1,183 @@
+{
+    "personal_info": {
+        "first_name": "Mariano",
+        "last_name": "Antunez",
+        "email": "marianoantunez12@gmail.com",
+        "phone": "381-6514386",
+        "location": {
+            "country": "Argentina",
+            "city": "Ledes",
+            "state": "Tucuman"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy una persona entusiasta y proactiva, con una fuerte curiosidad por aprender y crecer en diversas áreas. Cuento con formación en desarrollo web, desarrollo de aplicaciones de sistemas y mecatrónica, lo que me permite abordar proyectos con una perspectiva integral. Como Desarrollador Web Full-Stack con especialización en front-end, poseo sólidos conocimientos en tecnologías modernas como React, .NET y bases de datos SQL. Mi enfoque está en crear soluciones funcionales y optimizadas, priorizando la experiencia del usuario y el diseño responsivo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Freelance",
+            "company": "Independiente",
+            "location": "Remoto",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Brindar soluciones tecnológicas personalizadas a comercios locales y microempresas.",
+                "Adaptarse a diversas necesidades y aplicar diferentes tecnologías según el proyecto."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Superior en Programación",
+            "institution": "Universidad Tecnológica Nacional de San Miguel de Tucumán",
+            "location": "San Miguel de Tucumán, Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Superior en Mecatrónica",
+            "institution": "Universidad Tecnológica Nacional de San Miguel de Tucumán",
+            "location": "San Miguel de Tucumán, Argentina",
+            "start_date": "2021-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Web",
+            "institution": "Plataforma 5 Coding Bootcamp",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Carrera de Desarrollo Front-End React.Js",
+            "institution": "CoderHouse",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Web (Html, CSS, Sass, Git, Bootstrap, técnicas de SEO)",
+            "institution": "CoderHouse",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "JavaScript (JavaScript, Ajax, jQuery, JSON)",
+            "institution": "CoderHouse",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Base de Datos SQL",
+            "institution": "CoderHouse",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Programación en C\\# (.NET)",
+            "institution": "CoderHouse",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Gestión de las Organizaciones",
+            "institution": "Instituto Privado Colegio La Asunción",
+            "location": "",
+            "start_date": "",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "sass",
+                "javascript",
+                "bootstrap",
+                ".net-core",
+                "sql-server",
+                "mysql-workbench",
+                "firefox",
+                "react.js"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "seo-onpage",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {
+                "javascript": [],
+                "react.js": [],
+                ".net-core": [],
+                "sql-server": []
+            },
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Desarrollo de Aplicaciones de Escritorio para Comercios Locales",
+            "description": "Diseñé aplicaciones de escritorio como sistemas de control de ventas utilizando Windows Forms para el frontend, integradas con .NET y SQL Server para la gestión del backend. Estas herramientas facilitaron la administración de inventarios y procesos diarios en los comercios.",
+            "technologies": [
+                "windows-forms",
+                ".net",
+                "sql-server"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Desarrollo Web para Microempresas",
+            "description": "Diseñé y desarrollé soluciones web como landing pages, tiendas en línea y sistemas de gestión de turnos y/o procesos. Utilicé React.js para el frontend con Bootstrap para diseño responsivo. En el backend, trabajé con la plataforma de servicios Firefoxe de Google por su eficiencia y facilidad de implementación.",
+            "technologies": [
+                "react.js",
+                "bootstrap",
+                "firebase"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Creación de APIs con .NET Core",
+            "description": "Desarrollé APIs utilizando .NET Core para permitir la comunicación entre diferentes aplicaciones y sistemas. Las APIs se integraron con SQL Server, brindando soporte para consultas y gestión de datos de manera eficiente.",
+            "technologies": [
+                ".net-core",
+                "sql-server"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
