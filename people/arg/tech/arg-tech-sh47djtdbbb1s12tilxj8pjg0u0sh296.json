@@ -1,0 +1,85 @@
+{
+    "personal_info": {
+        "first_name": "Axel",
+        "last_name": "Ganum",
+        "email": "axelpiky10@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Las Flores",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/axel-ganum-94371a23a",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador web full-stack con habilidades en HTML5, CSS, JavaScript, TypeScript, Python, React, Node.js, NestJS, Jest y más. He participado en diversos proyectos académicos y personales, aplicando metodologías ágiles como Scrum, con un enfoque en la innovación, el trabajo en equipo y la creación de soluciones tecnológicas para problemas reales. En mis proyectos, utilizo Jest para realizar pruebas unitarias y asegurar la calidad y estabilidad del código."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Desarrollador Web Full-Stack",
+            "institution": "Cluster Tecnológico de Tandil",
+            "location": "Tandil, Argentina",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css",
+                "javascript",
+                "typescript",
+                "python",
+                "react",
+                "node.js",
+                "nestjs",
+                "jest"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "innovación",
+                "creación-de-soluciones-tecnológicas"
+            ],
+            "tools": [
+                "scrum",
+                "websocket",
+                "redux"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Aplicación de Mapa Mental con Trabajo en Tiempo Real",
+            "description": "Creé una aplicación de mapas mentales con capacidad de colaboración en tiempo real para equipos de hasta dos personas.",
+            "technologies": ["Node.js", "Express", "React.js", "WebSocket"],
+            "url": ""
+        },
+        {
+            "name": "Aplicación de Comercio Electrónico para Emprendedores Locales",
+            "description": "Desarrollé una aplicación de comercio electrónico en colaboración con un equipo, utilizando React para el frontend y NestJS para el backend.",
+            "technologies": ["React", "NestJS", "JWT"],
+            "url": ""
+        },
+        {
+            "name": "API REST con NestJS",
+            "description": "Desarrollé una API REST utilizando NestJS, con funcionalidades CRUD completas y autenticación mediante JWT.",
+            "technologies": ["NestJS", "JWT"],
+            "url": ""
+        },
+        {
+            "name": "Carrito de Compras con React",
+            "description": "Creé una aplicación de carrito de compras utilizando React, optimizando la experiencia del usuario con funciones de agregar, eliminar y actualizar productos.",
+            "technologies": ["React", "Redux"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

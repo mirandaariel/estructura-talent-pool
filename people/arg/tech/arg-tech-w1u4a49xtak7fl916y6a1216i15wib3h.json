@@ -1,0 +1,158 @@
+{
+    "personal_info": {
+        "first_name": "Juan Mateo",
+        "last_name": "Buccolini",
+        "email": "juanmateobuccolini@gmail.com",
+        "phone": "+54 2235276591",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": "Córdoba"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full Stack Developer"
+    },
+    "work_experience": [
+        {
+            "job_title": "Freelancer for Chimpancé Digital",
+            "company": "Chimpancé Digital",
+            "location": "",
+            "start_date": "2023-10-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Actively involved in various company projects, primarily as a Frontend Developer.",
+                "Participated in client meetings.",
+                "Work alongside UX/UI team",
+                "Work with backend team",
+                "SCRUM methodology"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "FullStack Professor",
+            "company": "Numen Academy",
+            "location": "",
+            "start_date": "2022-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Conducting classes twice a week for different cohorts in the FullStack diploma program.",
+                "Topics covered from HTML, CSS to JavaScript, React, Express, and MongoDB."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Secondary School Teacher",
+            "company": "Instituto Adventista de Córdoba",
+            "location": "Córdoba, Argentina",
+            "start_date": "2015-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Yearly planning and teaching five weekly classes along with extra activities.",
+                "Collaborated with the teaching staff and administration to address issues and improve educational quality."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "React Native",
+            "institution": "Udemy",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "Córdoba, Argentina",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 700
+        },
+        {
+            "degree": "Third year of Bachelor's in Psychology",
+            "institution": "Universidad Nacional de Córdoba",
+            "location": "Córdoba, Argentina",
+            "start_date": "2020-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "react-native",
+                "redux",
+                "tailwind",
+                "node.js",
+                "express",
+                "mongodb",
+                "mongoose",
+                "postgresql",
+                "sequelize",
+                "scrum"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Aapresid Landing Page",
+            "description": "Developed UX/UI team designs. Implemented changes in coordination with the client. Followed SCRUM methodology. Implemented Framer Motion for animations. Utilized NextJS, React, JS. Sole Frontend developer for the project.",
+            "technologies": ["NextJS", "React", "JS"],
+            "url": "https://www.aapresid.org.ar/es/conecta"
+        },
+        {
+            "name": "Cinergia Web",
+            "description": "Developed UX/UI team designs. Implemented changes in coordination with the client. Followed SCRUM methodology. Implemented GSAP for animations. Utilized NextJS, React, JS. Sole Frontend developer for the project.",
+            "technologies": ["NextJS", "React", "JS"],
+            "url": "https://landing.cinergiaestudiocreativo.com/"
+        },
+        {
+            "name": "Prissma Website",
+            "description": "Developed UX/UI team designs. Collaborated with other developers. Followed SCRUM methodology. Created a website with 42 sections. Utilized NextJS, React, TypeScript.",
+            "technologies": ["NextJS", "React", "TypeScript"],
+            "url": "https://www.prissma.net/es"
+        },
+        {
+            "name": "Full Stack Web Developer - Dogs App",
+            "description": "Designed and developed a dog breeds app, including search, filtering, sorting, and creation features. Used React, Redux, pure CSS for the frontend, and Node.js with Express for the backend. Employed PostgreSQL and Sequelize for the database.",
+            "technologies": ["React", "Redux", "CSS", "Node.js", "Express", "PostgreSQL", "Sequelize"],
+            "url": "https://github.com/JMBuccolini/pi-dogs-main"
+        },
+        {
+            "name": "Back-end Developer - Mercado los 7 enanitos",
+            "description": "Designed and developed the back-end of a marketplace. Used Node.js with Express for the backend and MongoDB with Mongoose for the database.",
+            "technologies": ["Node.js", "Express", "MongoDB", "Mongoose"],
+            "url": "https://github.com/JuanCruzRausch/ProyectoGrupal"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "C1 - Advanced"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

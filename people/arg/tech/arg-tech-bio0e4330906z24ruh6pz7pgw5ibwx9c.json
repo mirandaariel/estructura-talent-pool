@@ -1,0 +1,115 @@
+{
+    "personal_info": {
+        "first_name": "Matias",
+        "last_name": "Bossio",
+        "email": "matiasbossio101@gmail.com",
+        "phone": "11 6172-4598",
+        "location": {
+            "country": "Argentina",
+            "city": "Ituzaingó",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://linkedin.com/in/matias-bossioa40610186",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un Técnico Universitario en Ciencias Informáticas, con un enfoque en desarrollo de aplicaciones web y experiencia académica en reparación y mantenimiento de equipos. Busco integrarme al mercado laboral para aplicar y expandir mis conocimientos técnicos, contribuyendo de manera significativa en proyectos que requieran habilidades en desarrollo y soporte tecnológico."
+    },
+    "work_experience": [
+        {
+            "job_title": "Freelancer",
+            "company": "",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé varias plataformas web, tales como cursos en línea, ECommerce de productos electrónicos, sistemas de gestión para recintos de cabañas, entre otros.",
+                "Ventas de productos y servicios.",
+                "Organización de contratos y reuniones.",
+                "Implementación de tecnologías JavaScript, PHP, LightBox, HTML, CSS, ASP.NET, SQL Server, .NET Core 3.1 y JQuery."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "",
+            "company": "Soluxxione",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2020-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación de una plataforma web encargada de controlar la producción de una fabrica de productos textiles, utilizando las tecnologías Microsoft MVC .NET, JavaScript, JQuery, Microsoft EntityFrameworkCore sobre .NET Core 3.1 y SQL Server como el motor de base de datos.",
+                "Gestión y seguimiento de las tareas sobre Trello.",
+                "Trabajo en equipo con técnicos e ingenieros.",
+                "Manejo de Office 365 (Word, Excel, PowerPoint, entre otros)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Ciencias Informáticas",
+            "institution": "Instituto Técnico Industrial San Judas Tadeo",
+            "location": "",
+            "start_date": "2012-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "redes",
+                "algoritmos",
+                "estructuras-de-datos",
+                "javascript",
+                "php",
+                "lightbox",
+                "html",
+                "css",
+                "asp.net",
+                "sql-server",
+                ".net-core",
+                "jquery"
+            ],
+            "soft": [
+                "pensamiento-lógico",
+                "analítico",
+                "optimización-del-rendimiento",
+                "gestión-del-tiempo",
+                "trabajo-en-equipo"
+            ],
+            "tools": [
+                "microsoft-mvc",
+                "entityframeworkcore",
+                "office-365",
+                "trello"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,71 @@
+{
+    "personal_info": {
+        "first_name": "Alex Fernando",
+        "last_name": "Trejo Duque",
+        "email": "trejoduque10@hotmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante de Ingeniería en Software apasionado por la tecnología, el desarrollo de aplicaciones y la innovación. Me encanta aprender nuevas tecnologías y enfrentar desafíos que me ayuden a crecer profesionalmente. Tengo experiencia en desarrollo móvil con Flutter, backend con Flask y Spring Boot, y bases de datos relacionales y NoSQL."
+    },
+    "work_experience": [],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "python",
+                "dart",
+                "javascript",
+                "typescript",
+                "sql-(postgresql)",
+                "nosql-(mongodb-&-firestore)",
+                "c",
+                "c++",
+                "c#",
+                "next",
+                "flutter",
+                "react",
+                "sprint-boot",
+                "flask",
+                "express.js",
+                "expo-go",
+                "aws",
+                "firestore",
+                "firefoxase-auth",
+                "vercel"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Melody - Biblioteca Digital de Música",
+            "description": "Aplicación web que te permite explorar tu perfil de Spotify, descubrir tus artistas y canciones más escuchadas, y gestionar tu música con una interfaz moderna",
+            "technologies": ["next.js", "react", "tailwind-css", "firestore", "api-de-spotify", "oauth-con-spotify"],
+            "url": ""
+        },
+        {
+            "name": "El Sabor Dorado - Delivery App",
+            "description": "Aplicación móvil para la gestión y asignación de pedidos.",
+            "technologies": ["react-native", "expo-go", "javascript-api-rest", "firefoxe", "vercel"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

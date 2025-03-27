@@ -1,0 +1,134 @@
+{
+    "personal_info": {
+        "first_name": "Susana",
+        "last_name": "Furiaş Vexa",
+        "email": "",
+        "phone": "",
+        "location": {
+            "country": "Chile",
+            "city": "Angol",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrolladora Full Stack y diseñadora UX con experiencia en JavaScript, React, diseño de interfaces y metodologías ágiles (Scrum). Me especializo en crear soluciones funcionales y centradas en el usuario, combinando desarrollo web y diseño UX. He liderado proyectos desde la conceptualización hasta la implementación, trabajando de cerca con equipos multidisciplinarios para garantizar una experiencia de usuario de alta calidad. Además, poseo experiencia como tutora y relatora, guiando a estudiantes en su aprendizaje y desarrollo técnico. Comprometida con el aprendizaje continuo y la mejora constante de mis habilidades técnicas y blandas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Tutora Sesión",
+            "company": "Academia Desafío Latam",
+            "location": "Remoto",
+            "start_date": "2024-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Acompañamiento, asesoría y desarrollo de proyectos prácticos en clases a estudiantes en formación en desarrollo web.",
+                "Explicación de conceptos clave de programación y resolución de dudas técnicas.",
+                "Aplicación de metodologías activas de aprendizaje para fortalecer la autonomía de los estudiantes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrolladora Freelance",
+            "company": "Proyecto Freelance",
+            "location": "Remoto",
+            "start_date": "2024-09-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño e implementación del frontend de una aplicación de pagos, utilizando tecnologías modernas para garantizar un rendimiento óptimo.",
+                "Integración de sistemas externos para mejorar la experiencia de usuario en sitios web, optimizando la eficiencia y la interacción con la interfaz."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Tutor Ayudante (Adviser)",
+            "company": "Fundación Adalid capacitación técnica para el Desarrollo del conocimiento",
+            "location": "Remoto",
+            "start_date": "2024-06-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Orientación y seguimiento a estudiantes en el desarrollo de proyectos de software.",
+                "Evaluación de ejercicios y asesoramiento en buenas prácticas de desarrollo",
+                "Guié a estudiantes en el desarrollo de proyectos web, brindando retroalimentación técnica y asesoramiento en buenas prácticas de programación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certificación Scrum Fundamentals",
+            "institution": "SCRUMstudy",
+            "location": "Remoto, Chile",
+            "start_date": "2024-08-01",
+            "end_date": "2024-08-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diseño de Experiencia de Usuario",
+            "institution": "Coursera - Google",
+            "location": "Remoto, Chile",
+            "start_date": "2024-06-01",
+            "end_date": "2024-06-30",
+            "hours": 0
+        },
+        {
+            "degree": "Certificación Desarrollo Full Stack JavaScript",
+            "institution": "Talento Digital",
+            "location": "Remoto, Chile",
+            "start_date": "2023-09-01",
+            "end_date": "2023-09-30",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Nivel Superior en Computación e Informática",
+            "institution": "CFT Andrés Bello",
+            "location": "Angol, Chile",
+            "start_date": "",
+            "end_date": "2013-11-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "bootstrap", 
+                "sql", 
+                "orm", 
+                "node.js", 
+                "api-fetch", 
+                "html", 
+                "css", 
+                "studios-de-usabilidad"
+            ],
+            "soft": [
+                "auditoria-competitiva", 
+                "maquetado", 
+                "prototipos-de-baja-y-alta-fidelidad", 
+                "sistema-de-diseño"
+            ],
+            "tools": [
+                "figma", 
+                "git", 
+                "zoom", 
+                "suite-office"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

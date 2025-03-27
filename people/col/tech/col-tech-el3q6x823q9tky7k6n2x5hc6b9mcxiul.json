@@ -1,0 +1,126 @@
+{
+    "personal_info": {
+        "first_name": "Diego",
+        "last_name": "Toro Cárdenas",
+        "email": "d.caldascaridad@gmail.com",
+        "phone": "+57-3001151592",
+        "location": {
+            "country": "Colombia",
+            "city": "Itagüí",
+            "state": "Antioquia"
+        },
+        "linkedin": "https://linkedin.com/in/decaldas",
+        "website": "https://decaldas.github.io/home",
+        "portfolio": "https://github.com/deCaldas",
+        "summary": "Passionate about creating engaging and functional solutions in dynamic and collaborative environments. Having experience developing full-stack web applications using JavaScript, HTML, CSS, Node.js, Next.js and other relevant technologies. I am a highly motivated, selftaught developer with a great interest in learning new technologies."
+    },
+    "work_experience": [
+        {
+            "job_title": "Data Engineer",
+            "company": "I.U Pascual Bravo",
+            "location": "Itagüí, Antioquia, Colombia",
+            "start_date": "2023-09-01",
+            "end_date": "2023-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Responsible for data engineering operations such as researching, data analysis, data-driven solution, always looking for tackling real-world problems, project development and teamwork."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "Genios Tecnológicos",
+            "location": "Itagüí, Antioquia, Colombia",
+            "start_date": "2021-01-01",
+            "end_date": "2021-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Web application development using JavaScript (React.js and Angular.js), Node.js, MongoDB and MySQL databases, along with Grafana for application's monitoring."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "IT Assistant",
+            "company": "Serautos FT S.A.S",
+            "location": "Itagüí, Antioquia, Colombia",
+            "start_date": "2018-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Responsible for activities involving digital marketing, software development, data engineering, portfolio management and UX design."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "institution": "I.E. Concejo de Sabaneta José Maria Ceballos Botero",
+            "location": "",
+            "start_date": "",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html",
+                "css",
+                "node.js",
+                "next.js"
+            ],
+            "soft": [],
+            "tools": [
+                "grafana",
+                "mongodb",
+                "mysql"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Logical Thinking",
+            "issuing_organization": "Platzi",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Server Administration",
+            "issuing_organization": "Platzi",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Microsoft Azure AZ-900",
+            "issuing_organization": "Platzi",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

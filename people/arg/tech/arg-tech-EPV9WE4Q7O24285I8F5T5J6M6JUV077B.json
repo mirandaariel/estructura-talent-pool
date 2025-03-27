@@ -1,0 +1,108 @@
+{
+    "personal_info": {
+        "first_name": "Julián Esteban",
+        "last_name": "Godoy",
+        "email": "Julian.esteban.godoy97@gmail.com",
+        "phone": "263-477-3961",
+        "location": {
+            "country": "Argentina",
+            "city": "Junín",
+            "state": "Mendoza"
+        },
+        "linkedin": "https://www.linkedin.com/in/julian-godoy-838705223/",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Tecnico en Desarrollo de Software",
+            "institution": "Instituto de Educación Superior 9-021",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Curso de Desarrollo Full Stack",
+            "institution": "Evy Educación",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bootcamp",
+            "institution": "Consiti",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring-boot",
+                "react",
+                "html",
+                "css",
+                "js",
+                "type-script",
+                "next.js",
+                "mysql",
+                "mongo"
+            ],
+            "soft": [
+                "excelente-manejo-de-la-tecnología",
+                "óptimo-desempeño-en-equipo-e-independiente",
+                "capacidad-para-seguir-instrucciones-y-entregar-resultados-de-calidad"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Aplicación de Consulta Climática",
+            "description": "Creación de una API REST para consultar datos meteorológicos en tiempo real.",
+            "technologies": ["Spring Boot", "Java", "REST", "OpenWeather"],
+            "url": "https://github.com/aoi.clima"
+        },
+        {
+            "name": "Aplicación Web para Gestión de Productos",
+            "description": "Creación de una aplicación web para registro, inicio de sesión y gestión de productos.",
+            "technologies": ["Spring Boot", "Java", "React", "MySQL"],
+            "url": "https://github.com/aoi.gestion"
+        },
+        {
+            "name": "Módulo para Gestión de Facturación Electrónica",
+            "description": "Creación de un módulo backend para mapear, validar y transformar campos necesarios por empresa.",
+            "technologies": ["Next.js", "TypeScript", "MongoDB", "OpenAI API"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Castellano",
+            "proficiency": "Native"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Basic"
+        },
+        {
+            "language": "Portugués",
+            "proficiency": "Basic"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

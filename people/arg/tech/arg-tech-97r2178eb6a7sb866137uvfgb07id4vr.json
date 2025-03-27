@@ -1,0 +1,82 @@
+{
+  "personal_info": {
+    "first_name": "Diego Elias",
+    "last_name": "Gomez",
+    "email": "gomezdiegoelias1@gmail.com",
+    "phone": "+5493624105888",
+    "location": {
+      "country": "Argentina",
+      "city": "",
+      "state": "Chaco"
+    },
+    "linkedin": "https://linkedin.com/in/eliasdiegogomez",
+    "website": "",
+    "portfolio": "",
+    "summary": "Estudiante de Tecnicatura Universitaria en Programación con sólidos conocimientos en Java, Spring Boot, y desarrollo de APIs RESTful. Busco oportunidades para aplicar mis habilidades técnicas y mi pasión por el desarrollo de software en un entorno profesional, contribuyendo al crecimiento de proyectos innovadores mientras continúo mi formación académica y autodidacta."
+  },
+  "work_experience": [],
+  "education": [
+    {
+      "degree": "Tecnicatura Universitaria en Programacion",
+      "institution": "Universidad Tecnologica Nacional (UTN FRRE)",
+      "location": "Chaco, Argentina",
+      "start_date": "2024-05-01",
+      "end_date": "2026-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "java",
+        "javaScript",
+        "spring-boot",
+        "thymeleaf",
+        "sql-server",
+        "mysql",
+        "postgresql"
+      ],
+      "soft": [],
+      "tools": [
+        "git",
+        "github"
+      ]
+    },
+    "detailed": {
+      "technical": {
+        "java": [],
+        "spring-boot": [],
+        "thymeleaf": [],
+        "sql-server": [],
+        "mysql": [],
+        "postgresql": []
+      },
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Desarrollo de APIs RESTful",
+      "description": "Diseño e implementación de APIs utilizando Spring Boot y MySQL, siguiendo prácticas de seguridad y escalabilidad.",
+      "technologies": ["Spring Boot", "MySQL"],
+      "url": ""
+    },
+    {
+      "name": "Aplicaciones Web",
+      "description": "Creación de aplicaciones web utilizando Thymeleaf para la integración de frontend y backend.",
+      "technologies": ["Thymeleaf"],
+      "url": ""
+    },
+    {
+      "name": "Control de Versiones",
+      "description": "Uso básico de Git y GitHub para la gestión de proyectos y colaboración en equipo.",
+      "technologies": ["Git", "GitHub"],
+      "url": ""
+    }
+  ],
+  "languages": [],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

@@ -1,0 +1,106 @@
+{
+    "personal_info": {
+        "first_name": "Astor",
+        "last_name": "Torres",
+        "email": "torresastor08@gmail.com",
+        "phone": "+54 3513462852",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/astor-torres-353530279",
+        "website": "",
+        "portfolio": "",
+        "summary": "Técnico en soporte con experiencia en hardware, software y atención al cliente. Actualmente me desarrollo en el sector farmacéutico, manejando inventario y facturación electrónica. También me estoy formando en desarrollo web fullstack, ampliando mis conocimientos en tecnologías como React y Node.js. Destaco por mi capacidad de resolución de problemas, orientación al cliente y gestión de tecnología en distintos entornos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Servicio Técnico",
+            "company": "Empresa ATD",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Proporcioné soporte técnico en sistemas como Proxmox y Microsoft Office.",
+                "Realicé mantenimiento y reparación de hardware: memoria RAM, discos duros, fuentes de alimentación y cámaras IP.",
+                "Ensamblado y configuración de PC.",
+                "Diagnóstico y optimización de sistemas Windows.",
+                "Asesoramiento a clientes en la compra y configuración de hardware."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Auxiliar de Farmacia",
+            "company": "Aries 2",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Atención al cliente: Asesoramiento sobre el uso de medicamentos y resolución de dudas.",
+                "Facturación y ventas online: manejo de pedidos y pagos electrónicos.",
+                "Gestión de inventario: control y reposición de productos mediante software de farmacia (Gema).",
+                "Resolución de problemas: sugerencia de medicamentos y alternativas según necesidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollo de Simulaciones Virtuales y Videojuegos",
+            "institution": "Universidad IES Siglo 21",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo Fullstack Web",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "soporte-técnico-especializado",
+                "configuración-y-mantenimiento",
+                "instalación-y-mantenimiento-de-hardware",
+                "diagnóstico-y-resolución-de-problemas-técnicos",
+                "documentación-de-procedimientos",
+                "planificación-y-ejecución-de-actualizaciones",
+                "conocimientos-en-programación"
+            ],
+            "soft": [
+                "resolución-de-problemas",
+                "atención-al-cliente",
+                "gestión-de-situaciones-complejas",
+                "gestión-de-inventarios",
+                "ventas-y-facturación-online",
+                "asesoramiento-de-productos"
+            ],
+            "tools": [
+                "proxmox",
+                "microsoft-office",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

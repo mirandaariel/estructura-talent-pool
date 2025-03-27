@@ -1,0 +1,83 @@
+{
+    "personal_info": {
+        "first_name": "Anna",
+        "last_name": "Heliasz",
+        "email": "annemaryheliasz@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/anna-heliasz-dev/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrolladora Full Stack Junior motivada y detallista con formación completa en el bootcamp de The Bridge. Con experiencia en tecnologías front-end y back-end, como JavaScript, HTML, CSS, Node.js y React. Capaz de trabajar de manera colaborativa en equipos con un compromiso constante con el aprendizaje continuo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrolladora Backend - Colaboradora Independiente",
+            "company": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé APIs RESTful para backendfrontend.",
+                "Trabajé con PostgreSQL y MongoDB, optimizando datos.",
+                "Realicé pruebas básicas con Jest.",
+                "Ajusté endpoints API para React.",
+                "Revisé código y documenté procesos backend.",
+                "Apliqué metodologías ágiles (Scrum) en colaboración con el equipo frontend."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bootcamp Desarrollador Full Stack",
+            "institution": "The Bridge",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["javascript", "html", "css", "node.js", "react", "postgresql", "mongodb"],
+            "soft": ["collaborative", "committed-to-continuous-learning"],
+            "tools": ["jest", "scrum", "firefox"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Proyecto de Desarrollo Full Stack",
+            "description": "Creé una plataforma para compartir memes con votos, cuestionarios e inicio de sesión seguro.",
+            "technologies": ["react", "node.js", "firefox"],
+            "url": ""
+        },
+        {
+            "name": "Desarrollo de un panel interactivo",
+            "description": "Desarrollé un panel interactivo con un reloj, generador de contraseñas e integración de API meteorológica.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Backend de comercio electrónico",
+            "description": "Implementé un backend de comercio electrónico para la gestión de productos y administración, optimizando el acceso a datos con MongoDB.",
+            "technologies": ["mongodb"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,128 @@
+{
+    "personal_info": {
+        "first_name": "Briyan Ademar",
+        "last_name": "Mendez Rossillon",
+        "email": "11ademarbr@gmail.com",
+        "phone": "+59174231194",
+        "location": {
+            "country": "Bolivia",
+            "city": "Potosí",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/briyan-ademar-mendez-rossillon",
+        "website": "",
+        "portfolio": "https://github.com/bradMr11",
+        "summary": "Desarrollador backend especializado en Java con experiencia en el desarrollo de APIs RESTful utilizando Spring Framework y la integración de bases de datos relacionales como PostgreSQL y MySQL. Competente en desarrollo frontend con Angular y autenticación JWT, además de experiencia en la creación de aplicaciones móviles híbridas con Ionic."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Licenciatura en Ingeniería Informática",
+            "institution": "Universidad Autónoma Juan Misael Saracho",
+            "location": "Tarija, Bolivia",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "javascript",
+                "python",
+                "typescript",
+                "spring-boot",
+                "spring-security",
+                "spring-data-jpa",
+                "angular",
+                "postgresql",
+                "mysql"
+            ],
+            "soft": [
+                "agile",
+                "scrum"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "jwt",
+                "docker",
+                "ionic"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Fundamentos de Data Analytics",
+            "issuing_organization": "IBM SkillsBuild",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Agile Explorer",
+            "issuing_organization": "IBM SkillsBuild",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Explore Emerging Tech",
+            "issuing_organization": "IBM SkillsBuild",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Introduction to Cybersecurity",
+            "issuing_organization": "Cisco Networking Academy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Aprender a Aprender: Técnicas para tu Autodesarrollo",
+            "issuing_organization": "Alura Certificados",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Foco: Enfocarse trae más resultados para el día a día",
+            "issuing_organization": "Alura Certificados",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "HTML, CSS, Git y GitHub",
+            "issuing_organization": "Alura Certificados",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Sistema de Gestión de Tesis",
+            "description": "Desarrollo de un sistema integral para la gestión y almacenamiento de tesis digitalizadas.",
+            "technologies": ["spring-boot", "angular", "ionic", "postgresql"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

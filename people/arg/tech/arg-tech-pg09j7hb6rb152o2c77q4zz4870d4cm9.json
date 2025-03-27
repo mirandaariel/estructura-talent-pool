@@ -1,0 +1,83 @@
+{
+    "personal_info": {
+        "first_name": "Maximiliano",
+        "last_name": "Ramos",
+        "email": "maximiliano.ramos23@gmail.com",
+        "phone": "11 6449-6215",
+        "location": {
+            "country": "Argentina",
+            "city": "CABA",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/maximiliano-ramos-2bb4981b4/",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Intern",
+            "company": "Cambalache",
+            "location": "",
+            "start_date": "2023-08-30",
+            "end_date": "2023-10-27",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de pagina web con un framework llamado leaflet para el mapa sobre zonas importantes en CABA."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react",
+                "react-native",
+                "node.js",
+                "angular",
+                "mongodb",
+                "mysql"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Tienda Online",
+            "description": "Proyecto creado para el IFTS N¹6. Tienda de productos realizada con React, NodeJS, ExpressJS y MongoDB Atlas.",
+            "technologies": ["react", "nodejs", "expressjs", "mongodb"],
+            "url": ""
+        },
+        {
+            "name": "Lista Productos (MERN)",
+            "description": "Lista de productos que se puede agregar, actualizar y eliminar, creada con React, NodeJS, ExpressJS y MongoDB Atlas.",
+            "technologies": ["react", "nodejs", "expressjs", "mongodb"],
+            "url": ""
+        },
+        {
+            "name": "Gestor de Tareas",
+            "description": "Proyecto subido en la nube con netlify y render para agregar, eliminar y actualizar tareas.",
+            "technologies": ["netlify", "render"],
+            "url": ""
+        },
+        {
+            "name": "Lista Productos (MEAN)",
+            "description": "Lista de productos que se puede agregar, actualizar y eliminar, creada con Angular, NodeJS, ExpressJS y MongoDB Atlas.",
+            "technologies": ["angular", "nodejs", "expressjs", "mongodb"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
