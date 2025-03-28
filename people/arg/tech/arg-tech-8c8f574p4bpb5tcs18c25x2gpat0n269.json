@@ -1,0 +1,87 @@
+{
+    "personal_info": {
+        "first_name": "Osvaldo Ariel",
+        "last_name": "Villagra",
+        "email": "ariel-villagra@hotmail.com",
+        "phone": "+54 9 11 2469 0813",
+        "location": {
+            "country": "Argentina",
+            "city": "Loma Hermosa",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/ariel-villagra-110561144",
+        "website": "https://github.com/VillagraAriel",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Tecnicatura Superior en Análisis de Sistemas",
+            "institution": "Instituto Superior Nuestra Señora de Luján del Buen Viaje",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "python",
+                "c",
+                "c++",
+                "mysql",
+                "sql-server",
+                "html",
+                "css",
+                "javascript",
+                "windows",
+                "linux",
+                "cisco-packet-tracer"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Desarrollo Web con JavaScript",
+            "issuing_organization": "Platzi",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Sistema de Gestión para Buffet",
+            "description": "Desarrollé una aplicación para gestionar ventas, stock y clientes. Implementé validaciones y generación estadísticos de reportes. Integré consultas MySQL optimizadas para mejorar la eficiencia del sistema.",
+            "technologies": ["java", "mysql"],
+            "url": ""
+        },
+        {
+            "name": "Sistema de Entrega de Paquetes",
+            "description": "Desarrollé una aplicación para optimizar la entrega de paquetes según la ruta más corta. Implementé funcionalidad que asigna automáticamente el depósito más cercano según la ubicación del cliente.",
+            "technologies": ["python", "sqlite"],
+            "url": ""
+        },
+        {
+            "name": "Desarrollo de Páginas Web",
+            "description": "Creación de sitios web responsivos aplicando principios de UI/UX. Implementación de formularios dinámicos y optimización de carga.",
+            "technologies": ["html", "css", "javascript"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Intermediate/Advanced - Technical Reading"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

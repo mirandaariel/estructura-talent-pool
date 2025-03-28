@@ -1,0 +1,128 @@
+{
+    "personal_info": {
+        "first_name": "Alejandro",
+        "last_name": "Vargas Castillo",
+        "email": "alejovastillo@gmail.com",
+        "phone": "3163867046",
+        "location": {
+            "country": "Colombia",
+            "city": "",
+            "state": "Valle del Cauca"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un desarrollador Full Stack especializado en el stack MERN (MongoDB, Express.js, React.js y Node.js), con experiencia en la creación y despliegue de aplicaciones web completas. A lo largo de mi trayectoria, he desarrollado varios proyectos que están disponibles en mi perfil de GitHub, donde he demostrado mi capacidad para diseñar, implementar y optimizar soluciones tecnológicas robustas y escalables. Mis habilidades clave incluyen la resolución de problemas técnicos, la gestión eficiente de proyectos y el trabajo en equipo, colaborando tanto en entornos remotos como presenciales. Tengo un enfoque proactivo y me apasiona optimizar procesos, lo que me ha permitido entregar soluciones innovadoras y de alta calidad en cada proyecto en el que he participado. Además, me adapto rápidamente a nuevas tecnologías y frameworks, lo que me ha permitido mantenerme actualizado en un sector en constante evolución. Estoy comprometido con el aprendizaje continuo y el crecimiento profesional, siempre buscando oportunidades para mejorar mis habilidades y contribuir al éxito de los equipos en los que trabajo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack MERN",
+            "company": "Autónomo / Freelance",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una plataforma web para amantes del manga, donde autores independientes y empresas pueden publicar y compartir sus obras.",
+                "Utilicé el stack MERN (MongoDB, Express.js, React.js y Node.js) para construir una aplicación completa y escalable.",
+                "Implementé una interfaz dinámica y amigable con React.js, permitiendo a los usuarios explorar, leer y gestionar mangas.",
+                "Diseñé APIs RESTful con Node.js y Express.js, utilizando MongoDB para almacenar la información de usuarios, mangas y publicaciones.",
+                "Utilicé Axios para facilitar la comunicación entre el frontend y el backend.",
+                "Trabajé en equipo utilizando GitHub para el control de versiones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack MERN",
+            "company": "Autónomo / Independiente",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé MyTinerary, una aplicación web que permite a los usuarios buscar y reservar tours en diferentes ciudades.",
+                "Utilicé el stack MERN (MongoDB, Express.js, React.js y Node.js) para el desarrollo.",
+                "Implementé una interfaz intuitiva y responsive con React.js y Material-UI.",
+                "Diseñé APIs RESTful en el backend y gestioné datos con MongoDB.",
+                "Trabajé bajo metodologías ágiles (Scrum) y utilicé GitHub para el control de versiones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Autónomo / Independiente",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una página web interactiva utilizando Vue.js y la API de Rick and Morty.",
+                "Implementé una interfaz dinámica y usé CSS para el diseño.",
+                "Utilicé Fetch para obtener y mostrar datos de la API.",
+                "Colaboré estrechamente con otros desarrolladores utilizando GitHub para el control de versiones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollador Full Stack MERN",
+            "institution": "MindHub LA",
+            "location": "",
+            "start_date": "",
+            "end_date": ""
+        },
+        {
+            "degree": "Desarrollador PHP",
+            "institution": "Servicio Nacional de Aprendizaje(Sena)",
+            "location": "",
+            "start_date": "2018-03-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnico electricista residencial",
+            "institution": "Servicio Nacional de Aprendizaje(Sena)",
+            "location": "",
+            "start_date": "2014-03-01",
+            "end_date": "2015-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react.js",
+                "node.js",
+                "css"
+            ],
+            "soft": [
+                "resolución-de-conflictos",
+                "proactividad",
+                "análisis",
+                "pensamiento-estratégico",
+                "gestión-del-tiempo",
+                "negociación"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

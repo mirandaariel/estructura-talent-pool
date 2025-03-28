@@ -1,0 +1,198 @@
+{
+    "personal_info": {
+        "first_name": "Ana",
+        "last_name": "Lequipe C.",
+        "email": "analequipe752@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Bolivia",
+            "city": "La Paz",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy una profesional en desarrollo de software Full Stack con una amplia gama de habilidades técnicas, enfocadas en el diseño y desarrollo de soluciones innovadoras y escalables. Estoy capacitada para abordar proyectos que requieren una combinación de habilidades frontend y backend. Mi objetivo es diseñar soluciones de software innovadoras, eficientes y personalizadas que optimicen la experiencia del usuario, comprometiéndome con la excelencia y la innovación continua."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista Técnico",
+            "company": "BCP - Banco de Credito",
+            "location": "La Paz, Bolivia",
+            "start_date": "2024-07-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Realicé migraciones de datos masivos utilizando paquetes personalizados en SSIS (SQL Server Integration Services) en Visual Studio, programados en C# (C Sharp), garantizando eficiencia y velocidad.",
+                "Actualicé aplicaciones Web en .NET deprecadas a tecnologías más recientes, mejorando su estabilidad, funcionalidad y rendimiento, utilizando tecnologías como Core, .NET 5/6, Entity Framework Core, C# (C Sharp) y Visual Studio.",
+                "Diseñé y desarrollé servicios web automatizados utilizando C# como lenguaje de programación, permitiendo el acceso a través de diversos protocolos y tecnologías, y facilitando la integración con sistemas y bases de datos.",
+                "Realicé análisis de datos en SQL Server para generar reportes y transformar datos, utilizando consultas SQL, técnicas de análisis de datos y creación de vistas y procedimientos almacenados. Todo ello utilizando tecnologías como SQL Server y SQL Server Management Studio (SSMS)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Pasante en Desarrollo",
+            "company": "STS (Soluciones Integrales)",
+            "location": "La Paz, Bolivia",
+            "start_date": "2023-05-01",
+            "end_date": "2023-07-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Contribución en la Mejora y Expansión de la Página Web de la Empresa STS con tecnologías Laravel.",
+                "Mantenimiento de módulos de la Página Web STS en Laravel.",
+                "Desarrollo de una Aplicación para la generación de consultas MySQL a partir de una hoja Excel en Python.",
+                "Creación de plataforma de escritorio para reportes en CSharp."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnico Voluntario",
+            "company": "SUS (Por la Salud y la Vida)",
+            "location": "La Paz, Bolivia",
+            "start_date": "2021-10-01",
+            "end_date": "2021-11-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Recopilación y almacenamiento de datos en el sistema SUS de los pacientes durante la campaña 'Por la salud y la vida' y 'Brigadas voluntarias de vacunación de la UMSA contra la covid-19'."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnico",
+            "company": "UMSA (Carrera de Estadística)",
+            "location": "La Paz, Bolivia",
+            "start_date": "2020-01-01",
+            "end_date": "2020-03-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Almacenamiento de datos de los usuarios en el Sistema de matriculación de la carrera de Estadística, Mantenimiento de Software y Hardware."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Facilitador de Intercambio",
+            "company": "AUPAIR IN AMERICA",
+            "location": "Carolina del Norte, Estados Unidos",
+            "start_date": "2022-03-01",
+            "end_date": "2023-03-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Cuidado y atención a niños en edad escolar, asegurándome de su bienestar físico y emocional.",
+                "Mejoré mi fluidez en el idioma inglés a través de mi interacción diaria con los niños y la familia anfitriona."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Personal de Ventas",
+            "company": "BADANA FASHION",
+            "location": "La Paz, Bolivia",
+            "start_date": "2023-04-01",
+            "end_date": "2024-05-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Supervisora de Ventas y Coordinación de Pedidos, Especializada en Prendas de Cuero."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciada en Informática",
+            "institution": "Universidad Mayor de San Andrés",
+            "location": "La Paz, Bolivia",
+            "start_date": "",
+            "end_date": "2023-09-01",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Humanidades",
+            "institution": "Colegio Técnico Humanístico Emmanuel",
+            "location": "El Alto, Bolivia",
+            "start_date": "",
+            "end_date": "2012-12-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "python",
+                "java",
+                "c++",
+                "php",
+                "c#"
+            ],
+            "soft": [],
+            "tools": [
+                "laravel",
+                "asp.net-core",
+                "angular",
+                ".net",
+                "mysql",
+                "mariadb",
+                "sql-server",
+                "postgresql"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Curso de Seguridad Cibernética y generación en Redes de Datos",
+            "issuing_organization": "",
+            "issue_date": "2019-11-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso Taller de Herramientas Web",
+            "issuing_organization": "",
+            "issue_date": "2021-02-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Contabilidad para emprendedores",
+            "issuing_organization": "",
+            "issue_date": "2023-12-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "QHATU",
+            "description": "Desarrollo de Software de Gestión y Publicidad para Pymes utilizando tecnologías web avanzadas.",
+            "technologies": [
+                "PHP",
+                "Laravel 10",
+                "MariaDB",
+                "phpMyAdmin",
+                "Bootstrap",
+                "HTML5",
+                "CSS3",
+                "JavaScript"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Fluent"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

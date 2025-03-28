@@ -1,0 +1,170 @@
+{
+  "personal_info": {
+    "first_name": "Cristian Nahuel",
+    "last_name": "Davila Echavarria",
+    "email": "nahu.davila@gmail.com",
+    "phone": "+54 383 423-2861",
+    "location": {
+      "country": "Argentina",
+      "city": "Catamarca",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/nahuel-davila-8a317627b",
+    "website": "https://github.com/nahudavila12",
+    "portfolio": "",
+    "summary": "Soy un desarrollador full stack con sólida experiencia en la creación de soluciones integrales para la web y aplicaciones móviles. A lo largo de mi carrera he trabajado en proyectos muy variados, lo que me ha permitido dominar tanto el desarrollo del lado del servidor como el de la interfaz de usuario. He colaborado en iniciativas que abarcan desde sistemas de gestión y plataformas de reserva, hasta aplicaciones de entretenimiento y servicios en línea, siempre con un enfoque en la eficiencia y la escalabilidad. Me apasiona trabajar en equipo, compartir ideas y aprender constantemente para encontrar nuevas formas de optimizar procesos y superar desafíos técnicos. Mi compromiso es entregar productos de alta calidad, combinando innovación y una atención cuidadosa a la experiencia del usuario."
+  },
+  "work_experience": [
+    {
+      "job_title": "Full Stack Developer Junior",
+      "company": "",
+      "location": "",
+      "start_date": "2024-08-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollar landing pages, dashboard y aplicaciones online.",
+        "Diseñar interfaces y elementos frontend, mantener y optimizar sitios web e interfaces."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Vendedor",
+      "company": "Caramelo Hombres",
+      "location": "",
+      "start_date": "2024-01-01",
+      "end_date": "2025-01-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Atención al cliente, venta de ropa, reposición de stock, pago a proveedores.",
+        "Desarrollar habilidades de responsabilidad, amabilidad y empatía."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Full Stack Web Developer",
+      "institution": "Henry Bootcamp",
+      "location": "",
+      "start_date": "2024-03-01",
+      "end_date": "2025-02-28",
+      "hours": 0
+    },
+    {
+      "degree": "Administración de Empresas",
+      "institution": "",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2024-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Certificación en Trading",
+      "institution": "Bull Finanzas",
+      "location": "",
+      "start_date": "2021-01-01",
+      "end_date": "2021-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Secundario Completo",
+      "institution": "F.A.S.T.A. Catamarca",
+      "location": "",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Diplomatura en DevOps",
+      "institution": "UNC, MundosE",
+      "location": "",
+      "start_date": "2025-02-01",
+      "end_date": "2025-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "javascript",
+        "typescript",
+        "nest",
+        "express",
+        "react",
+        "next",
+        "redux",
+        "zustand",
+        "tailwind",
+        "bootstrap",
+        "postgresql",
+        "mongodb"
+      ],
+      "soft": [],
+      "tools": [
+        "docker",
+        "render",
+        "vercel",
+        "slack",
+        "trello",
+        "cloudinary",
+        "auth0",
+        "scrum"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Peluquería Gisela - Gestión de peluquería",
+      "description": "Diseñé y desarrollé el front-end, creé la base de datos y gestioné los endpoints del back-end. El proyecto está en proceso, faltando solo el despliegue final.",
+      "technologies": ["next", "tailwind", "react", "nest", "typescript", "postgresql"],
+      "url": "https://github.com/nahudavila12/Turnos-pelu-Gi"
+    },
+    {
+      "name": "InstaStay - Gestión de hoteles para reservas de habitaciones",
+      "description": "Desarrollé los endpoints para reservas, pasarela de pago, registro e inicio de sesión y gestioné los datos de hoteles, propietarios y usuarios. El proyecto está en proceso, con un despliegue pendiente.",
+      "technologies": ["next", "tailwind", "react", "nest", "typescript", "postgresql"],
+      "url": "https://github.com/nahudavila12/Proyectofinal-Backend"
+    },
+    {
+      "name": "The Tere Boomstricks",
+      "description": "Página desarrollada con temática de Harry Potter basada en un bar. Incluye roles, autenticación de terceros con Auth0, Google maps, chatbot, carga de archivos en la nube en Cloudinary.",
+      "technologies": ["next", "tailwind", "react", "nest", "typescript", "postgresql"],
+      "url": "https://pf-henry-front-chi.vercel.app/"
+    },
+    {
+      "name": "Le Gourmet Exquisit - Gestión de restaurante",
+      "description": "Diseñé la página web, propuse la idea de negocio, creé los endpoints para reservas, gestión de productos y almacenamiento de datos.",
+      "technologies": ["next", "tailwind", "react", "nest", "typescript", "postgresql"],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Intermedio"
+    },
+    {
+      "language": "Italiano",
+      "proficiency": "Básico"
+    },
+    {
+      "language": "Portugués",
+      "proficiency": "Básico"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

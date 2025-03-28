@@ -1,0 +1,102 @@
+{
+    "personal_info": {
+        "first_name": "Juan Pedro",
+        "last_name": "Ashcalla",
+        "email": "erikaashcallajp@gmail.com",
+        "phone": "+51 931381533",
+        "location": {
+            "country": "Peru",
+            "city": "Huacho",
+            "state": "Lima"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero(a) de Sistemas apasionado(a) por la tecnología y el desarrollo de software, con experiencia en automatización de pruebas, desarrollo móvil, y un enfoque en soluciones innovadoras que impactan positivamente en áreas de la tecnología. Me destaco por mi capacidad para resolver problemas, adaptarme rápidamente a nuevas tecnologías y entregar resultados de calidad en proyectos complejos."
+    },
+    "work_experience": [
+        {
+            "job_title": "QA Analyst",
+            "company": "Synnexa TI E.I.R.L.",
+            "location": "Lima, Peru",
+            "start_date": "2023-09-04",
+            "end_date": "2024-05-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Análisis y diseño de casos de pruebas.",
+                "Desarrollo de la matriz de pruebas de los proyectos.",
+                "Pruebas, mejoras de las APIs y web (utilizando Karate Framework y Selenium WebDriver)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Móvil Android",
+            "company": "Proyectos Personales",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-08-23",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicaciones móviles en Kotlin (aplicativo del clima, aplicativo que muestra distintos atractivos turísticos y contacta con agencias de viajes)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador de Aplicaciones Backend",
+            "company": "Innovation Technology Peru E.I.R.L.",
+            "location": "",
+            "start_date": "2023-09-05",
+            "end_date": "2023-12-23",
+            "currently_working": false,
+            "responsibilities": [
+                "Apoyo en el diseño e implementación de páginas web, utilizando el lenguaje C# en la plataforma Net.6."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Sistemas",
+            "institution": "Universidad Nacional José Faustino Sánchez Carrión",
+            "location": "Huacho, Peru",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "kotlin",
+                "git",
+                "mysql",
+                "sql-server",
+                "html",
+                "web-services-rest-con-retrofit2"
+            ],
+            "soft": [
+                "liderazgo-de-proyectos",
+                "comunicación-asertiva",
+                "pensamiento-lógico",
+                "resolución-de-problemas",
+                "flexible-y-adaptable",
+                "trabajo-en-equipo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,190 @@
+
+{
+    "personal_info": {
+        "first_name": "Jeremías",
+        "last_name": "Dominguez Vega",
+        "email": "jeremias.jdv@gmail.com",
+        "phone": "+54 221 565 7383",
+        "location": {
+            "country": "Argentina",
+            "city": "La Plata",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/jeremias-dominguez-vega/",
+        "website": "https://jeremiasdyportfolio.vercel.app/",
+        "portfolio": "https://github.com/JereUR",
+        "summary": "Desarrollador innovador, proactivo y con capacidad para desarrollar páginas web elegantes y diseños de aplicaciones para clientes exigentes. Experto en gestión de proyectos, liderazgo de equipos y resolución de problemas de forma independiente. Organizado y con capacidad de multitarea con experiencia en programación de proyectos, mejora de diseños y verificación del código."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Front-end",
+            "company": "Penta",
+            "location": "La Plata, Buenos Aires",
+            "start_date": "2024-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Aplicación web para gestión de negocios apuntado al sector gimnasios/centros deportivos.",
+                "Maquetación y desarrollo web front-end.",
+                "Implementación de frameworks Next.js/React.js.",
+                "Colaboración con equipo de diseño y back-end para lograr objetivos comunes.",
+                "Utilización de herramientas de control de versiones con Github para mantener el código organizado.",
+                "Gestión de tiempo y priorización de tareas para cumplir con los plazos establecidos.",
+                "Proyecto puesto en pausa en 09/2024 retomado en 01/2025.",
+                "Desarrollo de app web para manejo de usuarios de gimnasio.",
+                "Permite añadir rutinas y planes nutricionales a los usuarios suscritos al mismo, así como también notificarles su próximo pago.",
+                "Actualmente en función de mantenimiento y mejoras."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/JereUR/pentafit"
+        },
+        {
+            "job_title": "Desarrollador FullStack",
+            "company": "Filmbook",
+            "location": "La Plata, Buenos Aires",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Red social que combina las características de X y Letterboxd.",
+                "La plataforma permite a los usuarios compartir, discutir y reseñar películas.",
+                "Desarrollada con tecnologías como Next.js, Prisma, Lucia Auth, React Query, Typescript y Tailwind CSS.",
+                "Este proyecto, que se encuentra en desarrollo, está inspirado en una estructura original de Coding In Flow, a la cual añadí nuevas funcionalidades para integrar las características de Letterboxd."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/JereUR/filmbook"
+        },
+        {
+            "job_title": "Desarrollador Front-end",
+            "company": "Track App",
+            "location": "La Plata, Buenos Aires",
+            "start_date": "2024-06-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Aplicación web para gestión de envíos en empresas.",
+                "Permite seguimiento de envíos a través de dispositivos gps, así como también gestión de diferentes tipos de usuarios (admin, staff y conductores), creación de envíos y reporte de registros.",
+                "Desarrollada en Next complementado con backend en Ruby."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/JereUR/trackapp"
+        },
+        {
+            "job_title": "Desarrollador Front-end",
+            "company": "Bonus hunt tracker",
+            "location": "La Plata, Buenos Aires",
+            "start_date": "2023-09-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Aplicación web para mostrar estadísticas en tiempo real de performance en slots online.",
+                "Desarrollada en React + Vite con utilización de base de datos en Supabase."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/JereUR/bonus-hunt-tracker"
+        },
+        {
+            "job_title": "Desarrollador Front-end",
+            "company": "Gestor financiero",
+            "location": "La Plata, Buenos Aires",
+            "start_date": "2023-09-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Aplicación web para seguimiento de gastos e ingresos, junto con una visualización gráfica simple y eficiente.",
+                "Desarrollada en React + Vite con utilización de base de datos conectada a través de Supabase con manejo de usuarios."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/JereUR/money-manager-supabase"
+        },
+        {
+            "job_title": "Desarrollador Front-end",
+            "company": "Palomba Bienes Raíces",
+            "location": "La Plata, Buenos Aires",
+            "start_date": "2021-08-01",
+            "end_date": "2021-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Actualización de diseño web en app existente en WordPress a partir de plantilla Figma."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador de Software (API)",
+            "company": "Universidad Nacional de La Plata",
+            "location": "La Plata, Buenos Aires",
+            "start_date": "2020-03-01",
+            "end_date": "2020-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Lógica y programación de librería en Python para manejo de imágenes de lengua de señas de diferentes países.",
+                "Gestión de versiones y control de cambios utilizando herramientas Github.",
+                "Trabajo en equipo para facilitar el cumplimiento de objetivos."
+            ],
+            "achievements": [],
+            "repository_url": "https://pypi.org/project/handshape-datasets/"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero en Computación",
+            "institution": "Universidad Nacional de La Plata",
+            "location": "La Plata, Buenos Aires",
+            "start_date": "2022-03-01",
+            "end_date": "2023-01-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Ciencias Naturales",
+            "institution": "Colegio Nuestra Señora de la Misericordia",
+            "location": "La Plata, Buenos Aires",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "next.js",
+                "react.js",
+                "javascript",
+                "tailwind",
+                "css",
+                "html",
+                "typescript",
+                "shadow-ui",
+                "context",
+                "scrum",
+                "git",
+                "supabase"
+            ],
+            "soft": [
+                "creatividad",
+                "adaptabilidad"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio avanzado B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
+

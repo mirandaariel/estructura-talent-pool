@@ -1,150 +1,135 @@
 {
-  "personal_info": {
-    "first_name": "Matias",
-    "last_name": "Cukier",
-    "email": "maticukier1@gmail.com",
-    "phone": "+54 9 11 3572-3161",
-    "location": {
-      "country": "Argentina",
-      "city": "CABA",
-      "state": ""
+    "personal_info": {
+        "first_name": "Matias",
+        "last_name": "Cukier",
+        "email": "maticukier1@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "GBA",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/matias-cukier-034004230/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Frontend Developer apasionado por crear interfaces intuitivas y de alto rendimiento. Especializado en React, Node.js y JavaScript, con experiencia en el desarrollo de eCommerce y aplicaciones web optimizadas. Enfocado en aplicar buenas prácticas, diseño responsive y metodologías ágiles para entregar soluciones eficientes y escalables."
     },
-    "linkedin": "Linkedin", 
-    "website": "",
-    "portfolio": "Personal Portfolio", 
-    "summary": "Frontend Developer apasionado por crear interfaces intuitivas y de alto rendimiento. Especializado en React, Node.js y JavaScript, con experiencia en el desarrollo de eCommerce y aplicaciones web optimizadas. Enfocado en aplicar buenas prácticas, diseño responsive y metodologías ágiles para entregar soluciones eficientes y escalables."
-  },
-  "work_experience": [
-    {
-      "job_title": "Desarrollador Front End Freelance",
-      "company": "Fiverr",
-      "location": "",
-      "start_date": "2024-09-01",
-      "end_date": "",
-      "currently_working": true,
-      "responsibilities": [
-        "Diseñé y desarrollé interfaces web interactivas y optimizadas con React y CSS.",
-        "Implementé autenticación de usuarios y paneles de administración utilizando Node.js y MongoDB."
-      ],
-      "achievements": [],
-      "repository_url": ""
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Front End Freelance",
+            "company": "Fiverr",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2025-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y desarrollé interfaces web interactivas y optimizadas con React y CSS.",
+                "Implementé autenticación de usuarios y paneles de administración utilizando Node.js y MongoDB."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Profesor de informática",
+            "company": "St Patrick's School",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Enseñé conceptos de programación básica y desarrollo web a estudiantes de 6 a 10 años.",
+                "Diseñé planes, logrando un aumento del 40% en el rendimiento promedio."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista de Sistemas",
+            "institution": "Instituto de Tecnología ORT",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachillerato en Humanidades",
+            "institution": "St Patrick's School",
+            "location": "",
+            "start_date": "",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "javascript-es6+",
+                "html5",
+                "css3",
+                "tailwind-css",
+                "material-ui",
+                "node.js",
+                "express.js",
+                "mongodb",
+                "sql",
+                "java",
+                "kotlin",
+                "uml",
+                ".net",
+                "c#",
+                "typescript",
+                "c++"
+            ],
+            "soft": [
+                "communication",
+                "teamwork"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "figma",
+                "postman",
+                "vite",
+                "webpack"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
     },
-    {
-      "job_title": "Mantenimiento Web",
-      "company": "Fundacion ADOS",
-      "location": "",
-      "start_date": "2023-11-01",
-      "end_date": "",
-      "currently_working": true,
-      "responsibilities": [
-        "Optimización del sitio web, logrando un 40% más de velocidad.",
-        "Rediseño de interfaces para mejorar la experiencia del usuario.",
-        "Actualización de contenidos y fotografías.",
-        "Implementación de mejoras en responsive design.",
-        "Actualmente trabajando en la implementación del login para profesionales."
-      ],
-      "achievements": [],
-      "repository_url": ""
-    },
-    {
-      "job_title": "Profesor de informática",
-      "company": "St Patrick’s School",
-      "location": "",
-      "start_date": "2024-01-01",
-      "end_date": "2025-01-31",
-      "currently_working": false,
-      "responsibilities": [],
-      "achievements": [],
-      "repository_url": ""
-    }
-  ],
-  "education": [
-    {
-      "degree": "Analista de Sistemas",
-      "institution": "Instituto de Tecnología ORT",
-      "location": "",
-      "start_date": "2022-09-01",
-      "end_date": "2024-05-30",
-      "hours": 0
-    },
-    {
-      "degree": "Bachillerato en Humanidades",
-      "institution": "St Patrick’s School",
-      "location": "",
-      "start_date": "2017-09-01",
-      "end_date": "2021-05-30",
-      "hours": 0
-    }
-  ],
-  "skills": {
-    "keywords": {
-      "technical": [
-        "react",
-        "javascript",
-        "html5",
-        "css3",
-        "tailwind-css",
-        "material-ui",
-        "node.js",
-        "express.js",
-        "mongodb",
-        "sql",
-        "java",
-        "kotlin",
-        "uml",
-        ".net",
-        "c#",
-        "typescript",
-        "c++",
-        "php"
-      ],
-      "soft": [
-        "comunicación-efectiva",
-        "trabajo-en-equipo",
-        "capacidad-para-trabajar-en-entornos-áGiles"
-      ],
-      "tools": [
-        "git",
-        "github",
-        "figma",
-        "postman",
-        "vite",
-        "webpack"
-      ]
-    },
-    "detailed": {
-      "technical": {},
-      "soft": {}
-    }
-  },
-  "certifications": [
-    {
-      "name": "FrontEnd Web Developer",
-      "issuing_organization": "Udemy",
-      "issue_date": "2024-01-01",
-      "expiration_date": "",
-      "credential_id": ""
-    },
-    {
-      "name": "First Certificate B2",
-      "issuing_organization": "Cambridge",
-      "issue_date": "2019-01-01",
-      "expiration_date": "",
-      "credential_id": ""
-    }
-  ],
-  "projects": [],
-  "languages": [
-    {
-      "language": "Spanish",
-      "proficiency": "Native"
-    },
-    {
-      "language": "English",
-      "proficiency": "B2"
-    }
-  ],
-  "volunteer_experience": [],
-  "publications": [],
-  "references": []
+    "certifications": [
+        {
+            "name": "FrontEnd Web Developer",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "First Certificate B2",
+            "issuing_organization": "Cambridge",
+            "issue_date": "2019-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
 }

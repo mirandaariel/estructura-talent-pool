@@ -1,0 +1,117 @@
+{
+    "personal_info": {
+        "first_name": "Tomas",
+        "last_name": "Avendaño",
+        "email": "avendaoagustin@gmail.com",
+        "phone": "+1 351 262 7521",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/tomas-agustin-avendaño-21a834241",
+        "website": "",
+        "portfolio": "",
+        "summary": "Tengo 21 años y quiero iniciar mi carrera como programador junior, aportando mi experiencia previa en IT, mi habilidad para trabajar en equipo y mi determinación para resolver desafíos técnicos. Me entusiasma seguir aprendiendo y creciendo en la industria tecnológica, contribuyendo al éxito de proyectos innovadores."
+    },
+    "work_experience": [
+        {
+            "job_title": "Help Desk - Soporte IT",
+            "company": "Gama S.A",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Brindé soporte técnico de nivel 1 a empleados, resolviendo problemas relacionados con hardware, software, antivirus y redes.",
+                "Gestioné usuarios de Active Directory, configuración de políticas de grupo (GPO) y monitoreo de actualizaciones de Wsus.",
+                "Administre proxies y herramientas de seguridad informática, asegurando el correcto funcionamiento de sistemas críticos.",
+                "Capacitación a usuarios sobre herramientas y software, mejorando la productividad y eficiencia.",
+                "Registro de tickets de soporte, mantenimiento un seguimiento eficiente de las solicitudes recibidas.",
+                "Diagnóstico y resolución de problemas o fallos en los equipos y sistemas.",
+                "Configuración y habilitación de programas y cuentas de usuarios.",
+                "Soporte técnico en sitio y de manera remota."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Help Desk - Soporte IT",
+            "company": "Call Center Proximo",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Brindé soporte técnico de nivel 1 a empleados, resolviendo problemas relacionados con hardware, software, antivirus y redes.",
+                "Registro de tickets de soporte, mantenimiento un seguimiento eficiente de las solicitudes recibidas.",
+                "Diagnóstico y resolución de problemas o fallos en los equipos y sistemas.",
+                "Soporte técnico en sitio y de manera remota."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas de Información",
+            "institution": "UTN",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Java",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Python",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "python",
+                "sql",
+                "html",
+                "css"
+            ],
+            "soft": [],
+            "tools": [
+                "spring-boot",
+                "django",
+                "maven",
+                "hibernate",
+                "mysql",
+                "postgresql",
+                "git",
+                "github",
+                "programación-orientada-a-objetos",
+                "mvc"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

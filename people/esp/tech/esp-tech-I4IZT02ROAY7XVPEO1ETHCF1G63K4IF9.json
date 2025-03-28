@@ -1,0 +1,126 @@
+{
+    "personal_info": {
+        "first_name": "Miguel",
+        "last_name": "Martin",
+        "email": "miguelmartindelgado1998@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Spain",
+            "city": "Catalonia",
+            "state": "Barcelona"
+        },
+        "linkedin": "https://www.linkedin.com/in/miguel-martin-a9050b158/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un Desarrollador Web. Mi camino en el desarrollo web comenzó de forma autodidacta, explorando y aprendiendo por mi cuenta hasta decidir dar un paso más con un bootcamp intensivo. Hoy, como Desarrollador Web Junior, disfruto creando aplicaciones interactivas y optimizadas, combinando tecnologías como React, Next.js y Node.js. Me motiva seguir aprendiendo, escribir código limpio y trabajar en equipo para desarrollar soluciones eficientes y escalables."
+    },
+    "work_experience": [
+        {
+            "job_title": "Camarero",
+            "company": "Diferentes locales (ver en linkedin)",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé habilidades en gestión del tiempo y trabajo bajo presión en entornos dinámicos.",
+                "Coordiné con equipos para garantizar un servicio eficiente, mejorando la comunicación y el trabajo en equipo.",
+                "Adaptabilidad y resolución de problemas en situaciones de alta demanda, manteniendo siempre la satisfacción del cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Control de Accesos",
+            "company": "NewMan S.L",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2020-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Supervisión de protocolos COVID-19",
+                "Control de accesos: Gestión del flujo de personas asegurando el cumplimiento de los protocolos de seguridad sanitaria durante la pandemia"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Frontend Web Development Bootcamp",
+            "institution": "FreeCodeCamp",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Web Development Bootcamp",
+            "institution": "Ironhack",
+            "location": "",
+            "start_date": "",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "desarrollo-frontend",
+                "html5",
+                "react.js",
+                "next.js",
+                "javascript-es6+",
+                "estilización",
+                "css3",
+                "bootstrap",
+                "desarrollo-backend",
+                "node.js",
+                "express.js",
+                "api-rest",
+                "autenticación",
+                "jwt",
+                "firefoxe-auth",
+                "bases-de-datos",
+                "mongodb",
+                "firefoxe",
+                "control-de-versiones",
+                "git",
+                "github"
+            ],
+            "soft": [
+                "pensamiento-lógico",
+                "resolución-de-problemas",
+                "trabajo-en-equipo",
+                "adaptabilidad"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Social Media Platform",
+            "description": "Desarrollé una aplicación web full stack enfocada en compartir contenido por categorías. Implementé autenticación JWT, una API optimizada y una base de datos en MongoDB para almacenamiento eficiente, implementé cloudinary desde el backend. Enfrenté desafíos con la gestión en tiempo real y la gestión de los estados, resolviéndolos con consultas más eficientes y llegando al MVP a tiempo.",
+            "technologies": ["mern-stack"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

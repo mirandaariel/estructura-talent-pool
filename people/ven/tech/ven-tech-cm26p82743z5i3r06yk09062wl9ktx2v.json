@@ -1,0 +1,118 @@
+{
+    "personal_info": {
+        "first_name": "Jorge",
+        "last_name": "Pertoldi",
+        "email": "pertoldi19@gmail.com",
+        "phone": "+58 412-1837367",
+        "location": {
+            "country": "Venezuela",
+            "city": "Puerto La Cruz",
+            "state": "Arceiategui"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante 4to año de Ing. Informática, enfocado en la optimización de los modelos de negocio, utilizando el desarrollo de aplicaciones web en entorno JavaScript con experiencia entre prácticas y proyectos reales, buscando expandir conocimiento y especializarse en desarrollo Backend. Colaborador y comprensivo al trabajar con equipos de desarrollo, actualmente trabajando como freelancer."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full-stack (Freelancer)",
+            "company": "JeroStream",
+            "location": "",
+            "start_date": "2023-12-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollar aplicación web para registrar y monitorear ventas, asignación automática de cuentas, y monitoreo de membresías y renovaciones.",
+                "Diseño, implementación y desarrollo de la base de datos apoyado de diagramas entidad relación.",
+                "Diseño y desarrollo del servidor con Express.js.",
+                "Implementación de sistema de monitoreo interno de los usuarios.",
+                "Gestión de ventas, ganancias y costos.",
+                "Algoritmos para asignar automáticamente clientes a cuentas no utilizadas.",
+                "Envío automatizado de mensajes a clientes.",
+                "Sistema de roles y permisos para empleados."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "Fundación La Casa De Los Abuelos",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de sistema de gestión de residentes.",
+                "Creación, edición, eliminación y búsqueda de registros.",
+                "Orientar y gestionar actividades para un desarrollador inexperto.",
+                "Implementación de roles y permisos para usuarios y administradores.",
+                "Desarrollo de endpoint crucial para la inserción adecuada de datos.",
+                "Uso de transacciones SQL para asegurar la consistencia e integridad de los datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "Italaire C.A Taller de refrigeración automotriz",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de aplicación web para la gestión empresarial.",
+                "Control de clientes, vehículos y presupuestos en formato PDF.",
+                "Uso de patrones de diseño como Singleton y Repository.",
+                "Notificaciones automáticas a clientes.",
+                "Implementación de AWS S3.",
+                "Desarrollo e implementación de rate limits para los endpoints."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript/typescript",
+                "python",
+                "restful-api",
+                "docker",
+                "express",
+                "sockets",
+                "git",
+                "node-js",
+                "aws(s3)",
+                "postgresql",
+                "prisma",
+                "patrones-de-diseño",
+                "mysql",
+                "testing",
+                "poo"
+            ],
+            "soft": [
+                "comunicacion",
+                "pensamiento-analitico",
+                "resiliencia",
+                "agilidad-al-trabajar",
+                "trabajo-en-equipo"
+            ],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Luzmar Núñez",
+            "relationship": "Coordinadora de recursos humanos",
+            "contact": "+58 426-1827844"
+        }
+    ]
+}

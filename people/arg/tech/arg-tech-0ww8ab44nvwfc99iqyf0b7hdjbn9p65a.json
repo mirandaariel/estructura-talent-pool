@@ -1,0 +1,137 @@
+{
+    "personal_info": {
+        "first_name": "Gabriel Omar",
+        "last_name": "Lazo",
+        "email": "gabriellazo48@gmail.com",
+        "phone": "3865376697",
+        "location": {
+            "country": "Argentina",
+            "city": "Tucuman",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Front-End apasionado por crear experiencias digitales intuitivas y atractivas. Con una sólida base en desarrollo web y diseño responsivo, me especializo en la utilización de tecnologías modernas para construir interfaces de usuario eficientes y accesibles. Destaco por mi capacidad de aprender rápidamente y adaptarme a nuevas tecnologías, así como por mi enfoque en la colaboración dentro de equipos multidisciplinarios."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Front-End",
+            "company": "Cubix Casino & Bets",
+            "location": "",
+            "start_date": "2024-07-15",
+            "end_date": "2024-08-09",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de la página web del Casino Cubix con uso de criptomonedas para jugar múltiples juegos.",
+                "Creación de páginas como Casino, Apuestas, Tragamonedas, entre otras.",
+                "Uso de Ant Design y Tailwind para la creación de componentes como Sidebar, Navbar, Configuraciones y Carrusel."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Front-End",
+            "company": "Fast Burger",
+            "location": "",
+            "start_date": "2024-04-27",
+            "end_date": "2024-05-27",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación de autenticación con terceros, pasarela de pagos con PayPal y Google Maps.",
+                "Desarrollo de múltiples vistas: Inicio, Productos, Carrito, Seguimiento, Calificaciones, entre otras.",
+                "Comunicación en tiempo real mediante un chat usuario/admin utilizando Socket.io."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "Ingeniería de Sistemas de Información",
+            "institution": "Universidad Nacional de Tucumán",
+            "location": "Tucuman",
+            "start_date": "2018-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript",
+                "typescript",
+                "react.js",
+                "next.js",
+                "tailwind-css",
+                "bootstrap",
+                "redux"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "visual-studio-code",
+                "npm",
+                "vite.js",
+                "ant-design"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Casino Cubix",
+            "description": "Desarrollo de la página web del Casino Cubix con uso de criptomonedas para jugar múltiples juegos.",
+            "technologies": ["ant-design", "tailwind-css"],
+            "url": ""
+        },
+        {
+            "name": "Fast Burger",
+            "description": "Implementación de autenticación y comunicación en tiempo real mediante un chat usuario/admin.",
+            "technologies": ["paypal", "google-maps", "socket.io"],
+            "url": ""
+        },
+        {
+            "name": "Sistema de Turnos",
+            "description": "Aplicación web para gestión de turnos con funcionalidades CRUD.",
+            "technologies": ["redux", "react", "typescript"],
+            "url": ""
+        },
+        {
+            "name": "Ecommerce",
+            "description": "Desarrollo de un Ecommerce completo con dashboard y diseño responsivo.",
+            "technologies": ["react", "next.js", "tailwind-css"],
+            "url": ""
+        },
+        {
+            "name": "Cinema",
+            "description": "Aplicación para mostrar y agregar películas utilizando una base de datos no relacional.",
+            "technologies": ["bootstrap"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

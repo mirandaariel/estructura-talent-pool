@@ -1,0 +1,92 @@
+{
+    "personal_info": {
+        "first_name": "Giorgio",
+        "last_name": "Vito Uberti",
+        "email": "giorgiouberti51@gmail.com",
+        "phone": "+54 93492627353",
+        "location": {
+            "country": "Argentina",
+            "city": "Rafaela",
+            "state": "Santa Fe"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Apasionado por la programación y el aprendizaje continuo, estoy cursando el segundo año de la Tecnicatura Superior en Programación en la UTN Rafaela. Busco aplicar mis conocimientos en Java, Spring y MySQL para resolver problemas reales y contribuir al éxito de proyectos tecnológicos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Cajero y Administrativo",
+            "company": "Almacen-Rotiseria: Son Delicias",
+            "location": "Bella Italia",
+            "start_date": "2023-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Atención personalizada a clientes, gestionando pagos y resolviendo problemas técnicos de manera efectiva.",
+                "Implementación de mejoras en el manejo de datos para la generación de reportes financieros."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Tareas Administrativas y Bancarias, más Carga de Datos (Facturación)",
+            "company": "Distribuidora: G&D de alimentos y bebidas",
+            "location": "Rafaela",
+            "start_date": "2021-07-01",
+            "end_date": "2023-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Carga de datos y facturación utilizando herramientas digitales para garantizar la precisión en los procesos contables."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "cobol",
+                "spring-framework",
+                "mysql",
+                "git"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "resolución-de-problemas-complejos",
+                "comunicación-efectiva",
+                "empatía",
+                "resistencia-al-estrés",
+                "paciencia",
+                "motivación-por-la-tecnología",
+                "aprendizaje-continuo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sistema de Gestión de Ventas",
+            "description": "Desarrollo de una aplicación para gestionar ventas, inventario y facturación en un negocio.",
+            "technologies": ["Java", "Spring Boot", "MySQL", "Git"],
+            "url": ""
+        },
+        {
+            "name": "Sistema de Reservas de Cabañas",
+            "description": "Creación de un sistema que permite registrar, consultar y gestionar reservas de cabañas en un complejo.",
+            "technologies": ["Java", "Spring Boot", "MySQL"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

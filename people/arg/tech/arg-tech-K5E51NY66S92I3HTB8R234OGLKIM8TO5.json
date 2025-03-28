@@ -1,0 +1,157 @@
+{
+    "personal_info": {
+        "first_name": "Luis",
+        "last_name": "Cadiz",
+        "email": "luiscadiz1504@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Salta",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/luis-cadiz/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un programador con 3 años de experiencia como desarrolador FullStack. A su vez me encuentro capacitandome de forma autodidacta nuevas tecnologías emergentes que mezclen la tecnología con el sector financiero."
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Developer",
+            "company": "NEORIS",
+            "location": "",
+            "start_date": "2022-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Resolución de bugs, desarrollo de nuevas funcionalidades y casos de uso para sistemas de escritorios y sistema web.",
+                "Trabajando principalmente con: C#, .NET Framework, Angular, SQL Server, WCF Services, API Rest, Azure DevOps, Windows Presentation Foundation (WPF), ASP.NET Web Forms, Team Fundation Server (TFS), SoapUI."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer - Trainee",
+            "company": "NACIÓNBOT",
+            "location": "",
+            "start_date": "2021-09-01",
+            "end_date": "2022-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Capacitación para el desarrollo de funcionalidades de un sistema web usando las siguientes tecnologías: PHP, MySQL, Bootstrap, JavaScript, HTML5, Cascading Style Sheets (CSS), CodeIgniter, Vue.js."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Soporte Técnico - Help Desk",
+            "company": "NUBICOM",
+            "location": "",
+            "start_date": "2021-07-01",
+            "end_date": "2022-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención telefonica al cliente.",
+                "Gestión de tickets a travez de Zoho.",
+                "Resolución remota de problemas técnicos de equipos Cambium.",
+                "Seguimiento y resolución de incidencias.",
+                "Monitoreo de red a través de Zabbix.",
+                "Cordinación de tareas constante con otras áreas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnico Electronico",
+            "company": "BATERPLAC S.R.L",
+            "location": "",
+            "start_date": "2020-06-01",
+            "end_date": "2020-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Programación de PLC.",
+                "Simulación de pruebas de automotización con Arduino.",
+                "Reparación de equipos de control de potencia."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Economía",
+            "institution": "UNIVERSIDAD NACIONAL DE SALTA (UNSa)",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Análisis de Sistemas",
+            "institution": "UNIVERSIDAD NACIONAL DE SALTA (UNSa)",
+            "location": "",
+            "start_date": "2017-09-01",
+            "end_date": "2020-05-30",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Electrónico",
+            "institution": "I.P.E.T N80 (Berrotarán - Córdoba)",
+            "location": "",
+            "start_date": "2006-01-01",
+            "end_date": "2011-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                "java",
+                "springboot",
+                "sql-server",
+                ".net",
+                "web-forms",
+                "wcf-services",
+                "entity-framework",
+                "apis-rest",
+                "wpf",
+                "html",
+                "css",
+                "javascript",
+                "jquery",
+                "bootstrap",
+                "react",
+                "typescript",
+                "php",
+                "mysql",
+                "codeigniter",
+                "vue.js",
+                "angular",
+                "asp.net"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "tfs",
+                "github",
+                "gitlab",
+                "azure-devops",
+                "trello",
+                "jira",
+                "zabbix",
+                "soapui",
+                "zoho"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

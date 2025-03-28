@@ -1,0 +1,114 @@
+{
+    "personal_info": {
+        "first_name": "Leonel",
+        "last_name": "Giralde",
+        "email": "leonelgiralde22@gmail.com",
+        "phone": "+54 1165692305",
+        "location": {
+            "country": "Argentina",
+            "city": "Quilmes",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy una persona proactiva con excelentes habilidades interpersonales y facilidad para trabajar en equipo. Me destaco por mi perseverancia y compromiso. Mis habilidades incluyen adaptabilidad, colaboración, comunicación efectiva, resolución de problemas y aprendizaje rápido."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Accenture",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño de plataformas web con Figma.",
+                "Desarrollo y mantenimiento de páginas web con CSS, HTML5 y React.js.",
+                "Uso de frameworks para componentes de UI con Bootstrap, Tailwind y Material UI.",
+                "Desarrollo de API REST con Node.js y bases de datos SQL y NoSQL (MongoDB, Firefox).",
+                "Metodologías ágiles: scrum, kanban con Jira.",
+                "Test unitarios e integrales con Mocha."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Entrepreneur",
+            "company": "Lencería LEPAB",
+            "location": "",
+            "start_date": "2019-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Venta de productos de lencería a través de redes sociales (Instagram con mas de 77 k seguidores).",
+                "Planificación, implementación y seguimiento de campañas de marketing digital.",
+                "Análisis de datos y plan de acciones en pagina web (Empretienda).",
+                "Optimización continua de la experiencia del usuario en la logística del producto."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Sistemas",
+            "institution": "Universidad Nacional de La Plata",
+            "location": "La Plata, Buenos Aires",
+            "start_date": "",
+            "end_date": "2027-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Higiene y Seguridad laboral",
+            "institution": "Instituto Monseñor Jorge Novak",
+            "location": "",
+            "start_date": "",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "nodejs",
+                "html",
+                "css",
+                "javascript",
+                "react.js",
+                "mysql",
+                "postgresql",
+                "mongo-db"
+            ],
+            "soft": [
+                "adaptability",
+                "collaboration",
+                "communication",
+                "problem-solving",
+                "fast-learning"
+            ],
+            "tools": [
+                "figma",
+                "git-hub",
+                "jira",
+                "power-bi"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

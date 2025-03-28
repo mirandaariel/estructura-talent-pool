@@ -1,0 +1,191 @@
+{
+    "personal_info": {
+        "first_name": "Marcos",
+        "last_name": "Alvarez",
+        "email": "alvarez2003marcos@gmail.com",
+        "phone": "+5491137667914",
+        "location": {
+            "country": "Argentina",
+            "city": "Ciudad Autónoma de Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "LinkedIn",
+        "website": "",
+        "portfolio": "Portfolio",
+        "summary": "I am a +2 year experience Frontend Developer using React/NextJs with Typescript and Tailwind as main technologies. I like to work on innovative projects where I can collaborate with my knowledge, not only coding, but thinking proposes to do a better final product. I consider myself responsible and committed to every task assigned to me. Although I am reinforcing my NextJs knowledge with Udemy courses, my goal is to expand my skill set into Backend technologies like Node.js and Express to become a MERN FullStack Web Developer."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Tecsopel SA",
+            "location": "",
+            "start_date": "2024-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Leading the website store development for Tecsopel SA, a Stationery wholesaler, using Next.js 15 and Typescript.",
+                "Leading the products data structure to allow storing multiple prices depending on the order size.",
+                "Created a product search filter by URL params to allow the user to save and share them and a shopping cart to add multiple products to the order.",
+                "Contact form managed with Formspree free tool.",
+                "Consuming JSON file with products data as the backend is not developed yet."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Freelancer",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Collaborated in the development of a healthcare job portal for NovaSalud using Next.js 14, Typescript, and Tailwind CSS.",
+                "Consumed API to manage asset data, CV, documents and collaborated hours, managed client data and workers search using React Query.",
+                "Developed forms using react-hook-form library to manage input values and errors.",
+                "Managed application global state using React Context.",
+                "Integrated secure user authentication with Auth0.",
+                "Created a UI component library using Storybook."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Renaiss",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Collaborated in the development of AIForce app, a file management application incorporating an AI Chat interface.",
+                "Developed a reusable UI component library with Storybook.",
+                "Consumed API using the Axios library to perform CRUD operations.",
+                "Implemented a versatile file viewer supporting diverse formats.",
+                "Employed React Context and Redux for global state management."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "UI Developer",
+            "company": "Aluxion",
+            "location": "",
+            "start_date": "2022-04-01",
+            "end_date": "2023-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed front-end layouts for web applications for HLA Hospitals and Mitte clients using Next.js, Vite, and Typescript.",
+                "Handled date manipulation and formatting with Day.js, implemented styling with styled-components, and created forms with react-hook-form.",
+                "Utilized GSAP for UI animations and implemented charts using React Charts.",
+                "Developed a file management feature within a mobile application for CBRE using React Native."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "FullStack Development Advanced Certification",
+            "institution": "Buenos Aires Technology Institute (ITBA)",
+            "location": "CABA, Argentina",
+            "start_date": "2022-05-01",
+            "end_date": "2022-08-31",
+            "hours": 0
+        },
+        {
+            "degree": "Highschool Studies; Constructions technicature",
+            "institution": "Technical Institute Ing. Luis Huergo",
+            "location": "CABA, Argentina",
+            "start_date": "2016-02-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "nextjs",
+                "typescript",
+                "tailwind",
+                "react-query",
+                "react-hooks",
+                "react-context",
+                "javascript",
+                "es6",
+                "vite",
+                "axios",
+                "storybook",
+                "styled-components",
+                "jwt"
+            ],
+            "soft": [
+                "problem-solving",
+                "teamwork",
+                "state-management",
+                "maintenance",
+                "bug-fixing"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "vercel",
+                "trello",
+                "formspree",
+                "react-cookies",
+                "gsap",
+                "react-charts"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "ALPROP",
+            "description": "Real Estate website with properties filter, contact form, user search component, newsletter subscription input and Al chat.",
+            "technologies": ["Next.js", "TypeScript", "Tailwind"],
+            "url": ""
+        },
+        {
+            "name": "Projects Dashboard",
+            "description": "A dashboard with multiple simple projects, like an Al Chat, Todo List, currencies exchange rates, etc.",
+            "technologies": ["Next.js", "TypeScript", "Tailwind"],
+            "url": ""
+        },
+        {
+            "name": "Tecsopel SA",
+            "description": "Website store development for Tecsopel SA with products filter and detail.",
+            "technologies": ["Next.js", "TypeScript", "Tailwind"],
+            "url": ""
+        },
+        {
+            "name": "Frontend Quiz React",
+            "description": "Practicing Quizz App.",
+            "technologies": ["React", "TypeScript", "Tailwind"],
+            "url": ""
+        },
+        {
+            "name": "Peligrosa Network",
+            "description": "Website for a Videogame Multiplayer Server promotion with gallery, blog, shop, and more.",
+            "technologies": ["React", "TypeScript", "Tailwind"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Conversational B2"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
