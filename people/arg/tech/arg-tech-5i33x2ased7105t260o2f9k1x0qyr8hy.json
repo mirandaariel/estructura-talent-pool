@@ -1,0 +1,135 @@
+{
+    "personal_info": {
+        "first_name": "Nahuel",
+        "last_name": "Gómez Gahn",
+        "email": "nahuelg8799@gmail.com",
+        "phone": "+5493425553930",
+        "location": {
+            "country": "Argentina",
+            "city": "Santa Fe",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/nahuel-gomez-gahn",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador web Full-Stack."
+    },
+    "work_experience": [
+        {
+            "job_title": "Operario de producción",
+            "company": "Empresa de agua y agua gasificada: Natural",
+            "location": "",
+            "start_date": "2022-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Colaboración en el proceso de producción y envasado para cumplir metas diarias.",
+                "Aseguramiento de estándares de calidad en el producto final."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Curso primero pasos en desarrollo Front-end",
+            "institution": "Argentina programa 4.0",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-03-01",
+            "hours": 0
+        },
+        {
+            "degree": "Bootcamp desarrollo web Full-stack",
+            "institution": "Egg Cooperation",
+            "location": "Modalidad a distancia",
+            "start_date": "2023-03-01",
+            "end_date": "2024-06-01",
+            "hours": 0
+        },
+        {
+            "degree": "Cursos y capacitaciones relacionadas al software y programación",
+            "institution": "Codigofacilito",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "2024-06-01",
+            "hours": 0
+        },
+        {
+            "degree": "Bootcamp: Microservicios con Java",
+            "institution": "Codigofacilito",
+            "location": "",
+            "start_date": "2025-02-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "desarrollo-de-api-rest-java",
+                "spring-boot-&-spring-security",
+                "jpa",
+                "hibernate",
+                "mysql",
+                "mongo-db",
+                "javascript",
+                "typescript",
+                "react.js",
+                "html",
+                "css"
+            ],
+            "soft": [
+                "comunicación",
+                "trabajo-en-equipo",
+                "prolijidad",
+                "cooperación",
+                "esfuerzo-en-mejorar-y-seguir-aprendiendo"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "docker",
+                "principios-solid"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Administrador para centro de salud",
+            "description": "Proyecto destinado a facilitar la administración de turnos, pacientes y profesionales en un centro de salud.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Página de masajista",
+            "description": "Sitio web hecho para que un masajista pueda ofrecer y dar promoción de su servicio.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": ""
+        },
+        {
+            "language": "Inglés",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Eduardo Gahn",
+            "relationship": "Dueño",
+            "contact": "+54 93426129544"
+        }
+    ]
+}

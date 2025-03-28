@@ -1,0 +1,146 @@
+{
+    "personal_info": {
+        "first_name": "Juan Jose",
+        "last_name": "Bertinatti",
+        "email": "juanjose_utn@hotmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/jjbertinatti/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Me apasiona el desarrollo de software y actualmente estoy profundizando en el mundo DevOps, practicando habilidades orientadas a la automatización de procesos, la optimización de flujos de trabajo y la mejora de la integración y entrega continua. Estoy familiarizándome con herramientas como Docker, Kubernetes, Jenkins y la implementación de pipelines CI/CD. Además, exploro soluciones de monitoreo con Prometheus y Grafana para mejorar la eficiencia y confiabilidad de los sistemas. Me motiva el trabajo en equipo, el intercambio de conocimientos y el aprendizaje constante."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista de Seguridad y Redes",
+            "company": "Sanatorio Sarmiento",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Realicé análisis, control y pentesting de redes de los sistemas del Sanatorio Sarmiento.",
+                "Implementé medidas de seguridad para proteger la infraestructura de TI."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador de Power Platform",
+            "company": "Scania Argentina",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Realicé una aplicación para crear, modificar y eliminar proyectos que permite al área de Desarrollo Logístico realizar un seguimiento en tiempo real del estado de los proyectos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollo de Sistemas de Juegos",
+            "company": "Proyecto Estudiantil",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2018-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y desarrollé un sistema de juegos con base de datos, ranking de puntajes y sistema de usuarios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas de Información",
+            "institution": "Universidad Tecnológica Nacional (UTN) - Facultad Regional Tucumán (FRT)",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Curso de Data Science I",
+            "institution": "Universidad Nacional de Tucumán (UNT) - Facultad de Ciencias Económicas (FCE)",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso de Programación Fullstack",
+            "institution": "RollingCode",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "springboot",
+                "c#",
+                ".net",
+                "python",
+                "bash",
+                "power-shell",
+                "spring",
+                "hibernate",
+                "postgresql",
+                "mongodb",
+                "mysql",
+                "git",
+                "github",
+                "maven",
+                "docker",
+                "kubernetes",
+                "jenkins",
+                "github-action",
+                "prometheus",
+                "grafana",
+                "ansible",
+                "terraform",
+                "nginx",
+                "javascript",
+                "react-js",
+                "node-js",
+                "html",
+                "css"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "liderazgo-participativo",
+                "autodidacta",
+                "proactividad"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Nivel A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

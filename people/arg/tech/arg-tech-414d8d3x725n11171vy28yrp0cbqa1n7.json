@@ -1,0 +1,96 @@
+{
+    "personal_info": {
+        "first_name": "Matías Ariel",
+        "last_name": "Seltzer",
+        "email": "matiselt@outlook.es",
+        "phone": "+542901486436",
+        "location": {
+            "country": "Argentina",
+            "city": "Ushuaia",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/matias-seltzer",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack especializado en JavaScript, con experiencia en la creación de aplicaciones web escalables y optimizadas. He desarrollado soluciones para negocios locales y empresas, mejorando su presencia digital y optimizando procesos internos. En mi trayectoria, he trabajado con tecnologías como Next.js, Node.js y MongoDB, creando plataformas eficientes y orientadas a resultados."
+    },
+    "work_experience": [
+        {
+            "job_title": "Lead BackEnd Architect",
+            "company": "Visdan Agency",
+            "location": "Argentina",
+            "start_date": "2024-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé una aplicación para la gestión de correos electrónicos, permitiendo leer y organizar automáticamente los emails desde la base de datos del sitio web.",
+                "Implementé un sistema de scraping con Playwright para recopilar correos de clientes potenciales en páginas de turismo, aumentando en un 60% la captación de leads.",
+                "Optimicé la estructura de datos en MongoDB, reduciendo el tiempo de consulta en un 50% y mejorando la eficiencia del procesamiento de información.",
+                "Integré un sistema de automatización con Brevo para el envío de correos masivos, logrando una tasa de entrega del 98% y mejorando la conversión en campañas de email marketing.",
+                "Diseñé una API REST con Node.js y Express, asegurando escalabilidad y rapidez en la comunicación entre el frontend y backend."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FullStack",
+            "company": "Scotia Turismo",
+            "location": "Ushuaia, Argentina",
+            "start_date": "2024-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé una aplicación de gestión para Scotia Turismo, permitiendo administrar destinos, alojamientos, excursiones y paquetes turísticos en una plataforma centralizada.",
+                "Implementé un sistema de carga de imágenes optimizado con Cloudinary, reduciendo un 50% los tiempos de carga y mejorando la experiencia del usuario.",
+                "Diseñé una interfaz intuitiva con React y TailwindCSS, facilitando la navegación y reduciendo los errores de uso en un 30%.",
+                "Optimicé las consultas a la base de datos con MongoDB y Mongoose, logrando una mejora del 40% en el rendimiento del backend.",
+                "Mejoré el SEO del sitio web, aumentando su visibilidad y posicionamiento en buscadores, lo que resultó en un incremento del 35% en tráfico orgánico."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FullStack",
+            "company": "Siara Estetica",
+            "location": "Ushuaia, Argentina",
+            "start_date": "2024-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé una aplicación de gestión para el negocio, permitiendo administrar citas, clientes e inventario en una plataforma unificada.",
+                "Diseñé una interfaz intuitiva con React y TailwindCSS, optimizada para dispositivos móviles, mejorando la experiencia de usuario y aumentando la retención en un 35%.",
+                "Optimicé la base de datos en MongoDB, logrando una reducción del 50% en los tiempos de carga y procesamiento."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "next.js",
+                "node.js",
+                "mongodb",
+                "express",
+                "react",
+                "playwright",
+                "cloudinary",
+                "tailwindcss"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

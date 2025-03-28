@@ -1,0 +1,125 @@
+{
+    "personal_info": {
+        "first_name": "Alexmar",
+        "last_name": "Gómez",
+        "email": "fabioalexmar@gmail.com",
+        "phone": "3245022628",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "alexmargomez.software",
+        "portfolio": "https://github.com/alexmargomez",
+        "summary": "Desarrollador web Full Stack con más de un año de experiencia en el desarrollo de aplicaciones web escalables. Especializado en la creación y consumo de API REST e implementación de ORM para la gestión con la DB. Como docente de informática, enseñé programación y guié a estudiantes en el desarrollo de plataformas digitales para la institución, impulsando el aprendizaje práctico y la innovación tecnológica."
+    },
+    "work_experience": [
+        {
+            "job_title": "Docente de Programación",
+            "company": "Colegio Sagrado Corazón de Jesús",
+            "location": "Zapatoca",
+            "start_date": "2023-05-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de proyectos de software para estudiantes de sexto a once.",
+                "Enseñanza de lógica de programación y estructura de datos.",
+                "Diseño de bases de datos y solución de problemas computacionales.",
+                "Desarrollo de herramientas digitales aplicadas a proyectos institucionales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador",
+            "company": "Alexmar Software",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de plataformas web completas utilizando Laravel, Node.js y React.",
+                "Diseño y gestión de bases de datos con SQL y Laravel en la creación de API REST.",
+                "Administración de servidores Linux con Nginx, configuración de despliegues y seguridad.",
+                "Control de versiones con Git y pruebas automatizadas con Jest y PHPUnit."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Soporte Técnico y de Sitio",
+            "company": "Droguerías FARMAGOLDEN",
+            "location": "Barrancabermeja",
+            "start_date": "2019-02-01",
+            "end_date": "2020-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de plataformas digitales internas.",
+                "Optimización y actualización de sistemas web empresariales.",
+                "Implementación de nuevas funcionalidades según los requerimientos del negocio."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Estudiante Ing. de Sistemas",
+            "institution": "UDI - Universidad de Investigación y Desarrollo",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Electricista",
+            "institution": "SENA",
+            "location": "",
+            "start_date": "2014-01-01",
+            "end_date": "2014-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "sql",
+                "javascript",
+                "react",
+                "nodejs",
+                "express",
+                "php",
+                "laravel",
+                "css",
+                "tailwind",                
+                "apache",
+                "nginx",
+                "linux",
+                "python",
+                "java"
+            ],
+            "soft": [
+                "comunicación",
+                "trabajo-en-equipo",
+                "diseño-de-bases-de-datos",
+                "optimización-de-rendimiento",
+                "test-unitarios",
+                "control-de-versiones-(git)",
+                "buenas-practicas",
+                "programación-poo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

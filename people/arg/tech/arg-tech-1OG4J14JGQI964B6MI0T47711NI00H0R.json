@@ -1,0 +1,93 @@
+{
+    "personal_info": {
+        "first_name": "Vladimir",
+        "last_name": "Escalante Mora",
+        "email": "aladimirescalante75@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/vladimir-escalante-/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Apasionado y en constante búsqueda de crecimiento, soy un desarrollador junior comprometido con la mejora continua y la colaboración en equipo. Soy disciplinado, persistente y enfocado en alcanzar objetivos, cualidades que aplico en mi carrera tecnológica. Busco una oportunidad donde pueda aprender, aportar valor y desarrollarme profesionalmente en un entorno de innovación y trabajo en equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Conductor",
+            "company": "Uber",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Coordinación y realización de viajes de corta y larga distancia, asegurando el cumplimiento de itinerarios y la gestión eficiente de los recursos necesarios para cada desplazamiento."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Representante de atención al cliente",
+            "company": "Mostaza y Pan S.A.",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Preparación de hamburguesas",
+                "Limpieza y mantenimiento del local",
+                "Gestión y atención de la caja",
+                "Asistencia en cocina",
+                "Recepción y organización de stock"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachiller en Educación",
+            "institution": "Escuela Superior Nº11 - Dr Ricardo Levene",
+            "location": "",
+            "start_date": "",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "sass",
+                "tailwindcss",
+                "bootstrap",
+                "postgresql",
+                "mongodb",
+                "javascript",
+                "react",
+                "typescript",
+                "node.js",
+                "vite",
+                "next.js"
+            ],
+            "soft": [],
+            "tools": [
+                "firefox",
+                "git/github"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

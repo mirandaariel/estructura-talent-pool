@@ -1,0 +1,130 @@
+{
+    "personal_info": {
+        "first_name": "Manuel",
+        "last_name": "Millán",
+        "email": "mamcaraballo@gmail.com",
+        "phone": "+56966414718",
+        "location": {
+            "country": "Chile",
+            "city": "Santiago Metropolitan Area",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/manuelamillanc/",
+        "website": "",
+        "portfolio": "Portafolio",
+        "summary": "I am a full stack developer, a fan of continuous learning with certifications in various technologies. I have participated in projects that have allowed me to put my skills into practice and collaborate in the creation of innovative digital solutions. I also have experience in digital marketing and Google Ads, which gives me a comprehensive view of the development and positioning of online products. I have a degree in Chemistry, which has allowed me to develop an analytical and detailed approach in everything I undertake."
+    },
+    "work_experience": [
+        {
+            "job_title": "Front End Developer",
+            "company": "Freelance / Incubadora Desafío Latam",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Full stack web application development using JavaScript, React, Tailwind CSS.",
+                "Design and creation of several components for the front end with data validation using several React libraries."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Chemical Analyst Quality Control",
+            "company": "Pontifical Catholic University of Chile",
+            "location": "",
+            "start_date": "2018-06-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Physicochemical analysis of finished pharmaceutical products and raw materials.",
+                "Writing quality control methodologies and procedures.",
+                "Collaboration with other areas to complete scheduled tasks."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollo Full Stack",
+            "institution": "Desafío Latam",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura Química",
+            "institution": "Universidad de Oriente, Venezuela",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react",
+                "html5",
+                "css3",
+                "bootstrap",
+                "node.js",
+                "express",
+                "postgresql",
+                "git"
+            ],
+            "soft": [
+                "agile",
+                "scrum"
+            ],
+            "tools": [
+                "figma",
+                "basecamp",
+                "trello"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Scrum Fundamentals",
+            "issuing_organization": "soylinder.net",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Pizzería Don Remolo",
+            "description": "Development of components with React, JavaScript, Tailwind CSS, Vite, PostgreSQL with deploy in Vercel",
+            "technologies": ["React", "JavaScript", "Tailwind CSS", "Vite", "PostgreSQL"],
+            "url": ""
+        },
+        {
+            "name": "Employment Platform",
+            "description": "Employability platform for Desafío Latam.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

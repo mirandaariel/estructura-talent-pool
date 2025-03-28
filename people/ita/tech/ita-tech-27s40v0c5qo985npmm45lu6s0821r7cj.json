@@ -1,0 +1,141 @@
+{
+    "personal_info": {
+        "first_name": "Eric",
+        "last_name": "Fernandez",
+        "email": "ejoelf10@gmail.com",
+        "phone": "+39 3757723901",
+        "location": {
+            "country": "Italy",
+            "city": "Praia a Mare",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Como desarrollador full stack, mi pasión radica en la creación de soluciones innovadoras que mejoren la experiencia del usuario y aborden desafíos complejos. Me comprometo a expandir mis habilidades en un entorno laboral que fomente el crecimiento profesional y personal. Soy conocido por mi dedicación y determinación para alcanzar los objetivos establecidos, así como por mi capacidad para enfrentar desafíos con creatividad y resiliencia. Poseo habilidades sólidas en la resolución de problemas, comunicación efectiva y trabajo en equipo, lo que me permite colaborar de manera efectiva en proyectos multidisciplinarios. Estoy constantemente buscando oportunidades para aprender y mejorar, y estoy emocionado por contribuir de manera significativa en cualquier equipo en el que me integre."
+    },
+    "work_experience": [
+        {
+            "job_title": "Gerente de Turno",
+            "company": "Mostaza S.A.",
+            "location": "",
+            "start_date": "2012-01-01",
+            "end_date": "2014-12-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Empleado Administrativo",
+            "company": "Universidad Nacional de Rio Cuarto",
+            "location": "",
+            "start_date": "2014-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Mozo de Sala",
+            "company": "Hotel Villa Cheta",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Enacargado de Sala Restaurante",
+            "company": "Il Ghiotto Praia a Mare",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollo Full Stack",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 800
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "redux",
+                "node.js",
+                "express",
+                "sequelize",
+                "html",
+                "css",
+                "bootstrap"
+            ],
+            "soft": [
+                "comunicacion-efectiva",
+                "trabajo-en-equipo",
+                "resolucion-de-problemas"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "jira"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Proyecto Integrador - Rick and Morty",
+            "description": "Sitio web inspirado en la serie 'Rick y Morty', donde los usuarios pueden buscar personajes, ver sus datos en detalle, filtrar por género, ordenar por ID y guardar sus favoritos.",
+            "technologies": ["react", "redux", "node.js", "express"],
+            "url": ""
+        },
+        {
+            "name": "Proyecto Individual - Countries",
+            "description": "Aplicación SPA que permite buscar y visualizar diferentes países del mundo, así como filtrar y ordenar los resultados de búsqueda.",
+            "technologies": ["react", "redux", "node.js", "express", "sequelize", "postgresql"],
+            "url": ""
+        },
+        {
+            "name": "Proyecto Final - Interfoods",
+            "description": "Aplicación web Full Stack desarrollada en equipo. Permite comprar alimentos y gestionar cuentas de usuario.",
+            "technologies": ["react", "node.js", "express", "typescript", "firebase", "mercado pago", "nodemailer"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "A1"
+        },
+        {
+            "language": "Italian",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

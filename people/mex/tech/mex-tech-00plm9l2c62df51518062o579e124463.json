@@ -1,0 +1,101 @@
+{
+    "personal_info": {
+        "first_name": "Axel David",
+        "last_name": "Téllez Álvarez",
+        "email": "adtellezalvarez@gmail.com",
+        "phone": "+52 5565305809",
+        "location": {
+            "country": "Mexico",
+            "city": "Chalco",
+            "state": "Estado de México"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "https://personal-portfolio-d4v9vzvhu-dyszssj.vercel.app/",
+        "summary": "Desarrollador Front End apasionado por la tecnología, con experiencia en la creación y optimización de interfaces modernas y eficientes. Siempre en busca de nuevas oportunidades para aprender y mejorar en el desarrollo web."
+    },
+    "work_experience": [
+        {
+            "job_title": "Front End Developer",
+            "company": "ABATON TECHNOLOGIES",
+            "location": "Ciudad de México",
+            "start_date": "2023-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de Dashboards desde cero utilizando tecnologías avanzadas.",
+                "Modificación y optimización de Dashboards existentes para mejorar funcionalidad y experiencia de usuario.",
+                "Uso de tecnologías como Pug, Vue, Bootstrap, TailwindCSS y React para interfaces modernas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Front End Developer",
+            "company": "Proficient",
+            "location": "Monterrey, Nuevo León",
+            "start_date": "2022-11-01",
+            "end_date": "2023-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de sitios web personalizados con experiencia de usuario optimizada.",
+                "Desarrollo de tiendas en línea atractivas y efectivas en Shopify con Liquid.",
+                "Implementación de Next.js para aplicaciones web escalables y de alto rendimiento."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Front End Developer (Freelancer)",
+            "company": "VELA ONE",
+            "location": "California",
+            "start_date": "2022-05-01",
+            "end_date": "2022-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboración en el desarrollo de un proyecto web completo.",
+                "Optimización de experiencia de usuario y usabilidad del sitio.",
+                "Integración con Figma para una transición fluida entre diseño y desarrollo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "firebase",
+                "react",
+                "next.js",
+                "react-native",
+                "mongodb",
+                "typescript",
+                "bootstrap",
+                "material-ui",
+                "strapi",
+                "vue.js",
+                "shopify",
+                "liquid",
+                "nuxt.js",
+                "graphql",
+                "tailwindcss"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

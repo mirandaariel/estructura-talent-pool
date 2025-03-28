@@ -1,0 +1,157 @@
+{
+    "personal_info": {
+        "first_name": "Thomas",
+        "last_name": "Vieira Duarte Dantas",
+        "email": "tom.dantas25@gmail.com",
+        "phone": "+54 9 1123699946",
+        "location": {
+            "country": "Argentina",
+            "city": "Capital Federal",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/thomdantas/",
+        "website": "",
+        "portfolio": "https://github.com/bongmin25",
+        "summary": "Soy una persona tranquila y con buena disposición. Me destaco por mi capacidad para crear un ambiente laboral agradable, junto con mi sentido de organización y responsabilidad. Apasionado por la tecnología y la música, estoy comprometido con el crecimiento profesional y el éxito del equipo en el que me integre."
+    },
+    "work_experience": [
+        {
+            "job_title": "Team Leader Setter y Marketing Orgánico",
+            "company": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión y administración de contenido en redes sociales (Instagram, Facebook) y CRM.",
+                "Liderazgo y supervisión de un equipo de setters."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Setter Digital",
+            "company": "Elevate",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Provisión de asistencia virtual."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer | Front-End | Back-End",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "2024-11-30",
+            "hours": 0
+        },
+        {
+            "degree": "Front-End Developer",
+            "institution": "Udemy",
+            "location": "",
+            "start_date": "2023-06-01",
+            "end_date": "2024-01-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html5",
+                "css3",
+                "express",
+                "next.js",
+                "react.js",
+                "postgresql"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "slack",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "JESCA: E-commerce de indumentaria",
+            "description": "Creación de un e-commerce para indumentaria, enfocándome en el diseño y la funcionalidad del front-end.",
+            "technologies": [
+                "react.js",
+                "javascript",
+                "html5",
+                "css3",
+                "tailwind"
+            ],
+            "url": ""
+        },
+        {
+            "name": "DevNavigator: Ruta de cursos con suscripción",
+            "description": "Desarrollo de funcionalidades desde el front-end utilizando Next.js.",
+            "technologies": [
+                "next.js",
+                "react.js",
+                "javascript",
+                "html5",
+                "css3",
+                "tailwind",
+                "nest.js",
+                "postgresql"
+            ],
+            "url": ""
+        },
+        {
+            "name": "TechMovie: Aplicación de artículos tecnológicos",
+            "description": "Colaboración en el desarrollo de una aplicación de e-commerce, logrando cumplir con los objetivos propuestos.",
+            "technologies": [
+                "react.js",
+                "javascript",
+                "html5",
+                "css3",
+                "tailwind",
+                "express",
+                "postgresql"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B2 - Intermedio"
+        },
+        {
+            "language": "Portugués",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Full Stack Teaching Assistant",
+            "organization": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2022-09-01",
+            "end_date": "2022-11-30",
+            "responsibilities": [
+                "Coordinación de grupos de estudiantes para facilitar su integración en equipos de estudio.",
+                "Resolución de ejercicios en JavaScript y Next.js, promoviendo la colaboración grupal mediante Pair Programming."
+            ]
+        }
+    ],
+    "publications": [],
+    "references": []
+}
