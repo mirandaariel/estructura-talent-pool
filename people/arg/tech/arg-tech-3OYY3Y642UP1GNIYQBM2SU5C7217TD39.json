@@ -1,0 +1,78 @@
+{
+    "personal_info": {
+        "first_name": "Juan",
+        "last_name": "Cruz Montecino Ruiz",
+        "email": "juancruzmontecinojob@gmail.com",
+        "phone": "+54 2920347751",
+        "location": {
+            "country": "Argentina",
+            "city": "Bahía Blanca",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/juan-cruz-montecino-ruiz-4088a62b0/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con experiencia en arquitecturas escalables. Desarrollo de APIs REST con Java Spring Boot y Python Flask, y construcción de interfaces dinámicas usando Next.js y TypeScript. Implementación de componentes modulares y accesibles con Shadcn. Adherente a Clean Architecture, TDD y metodologías ágiles (SCRUM)."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Ingeniería en sistemas",
+            "institution": "Universidad Nacional del Sur",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["next.js", "typescript", "shadcn", "java", "spring-boot", "python", "flask", "node.js", "sql", "mongodb", "junit"],
+            "soft": [],
+            "tools": ["git", "render", "husky"]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Backend Banking System",
+            "description": "Desarrollado con Java Spring Boot y arquitectura multicapa. Implementación de operaciones bancarias (clientes, cuentas, préstamos), testing unitario con JUnit, gestión de dependencias con Maven, y aplicación de patrones de diseño (Singleton).",
+            "technologies": ["java", "spring-boot", "junit"],
+            "url": "https://github.com/juanmontecino/tup2024"
+        },
+        {
+            "name": "Desarrollo de aplicación de noticias en Flutter",
+            "description": "Prototipo funcional enfocado en integración de APIs REST, gestión de estados con Provider y diseño responsive. Destaco la implementación de scroll infinito, categorización dinámica de contenidos y cacheo local para optimizar rendimiento, demostrando habilidades sólidas en desarrollo cross-platform y arquitectura.",
+            "technologies": ["flutter", "provider"],
+            "url": "https://github.com/juanmontecino/FlutterPrototipe"
+        },
+        {
+            "name": "Dashboard de Gestión Empresarial",
+            "description": "Desarrollo de interfaz modular para análisis de métricas empresariales, logrando autenticar usuarios y optimizar el rendimiento con Server-Side Rendering (SSR).",
+            "technologies": ["next.js", "typescript", "shadcn", "clerk", "prisma"],
+            "url": "https://github.com/juanmontecino/Dashboard-Companies"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

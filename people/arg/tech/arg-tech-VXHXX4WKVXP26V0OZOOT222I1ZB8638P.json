@@ -1,0 +1,117 @@
+{
+    "personal_info": {
+        "first_name": "Julia Daniela",
+        "last_name": "Rodriguez",
+        "email": "julidrz@hotmail.com.ar",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "San Lorenzo",
+            "state": "Santa Fe"
+        },
+        "linkedin": "https://www.linkedin.com/in/julia-daniela-rodriguez/",
+        "website": "",
+        "portfolio": "Visita mi portfolio",
+        "summary": "Soy una desarrolladora de software apasionada y dinámica con una sólida formación en Java y Spring Boot, complementada por una experiencia destacada en la gestión de proyectos ágiles. Mi trayectoria incluye roles como agile manager y desarrolladora, donde he contribuido tanto al front-end como al back-end de aplicaciones web, demostrando habilidades excepcionales en la creación de soluciones robustas y eficientes. Mi enfoque en los detalles y mi capacidad para adaptarme a cambios me han permitido sobresalir en entornos colaborativos, mientras mantengo un compromiso constante con el aprendizaje continuo y el crecimiento profesional. Actualmente, estoy ampliando mis conocimientos a través del programa AlumniONE de Oracle Next Education y cursos complementarios que sigo realizando activamente. Estoy lista para asumir nuevos desafíos y aportar mi experiencia en el desarrollo de software, con el objetivo de seguir mejorando y aprovechando al máximo las oportunidades en mi carrera. Mi pasión por la programación y la gestión de equipos me impulsa a buscar oportunidades donde pueda aplicar y expandir mis habilidades técnicas y de gestión de proyectos."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Programador Junior",
+            "institution": "Programa ONE de Alura y Oracle",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 286
+        },
+        {
+            "degree": "Data Science con SQL y MySQL",
+            "institution": "Programa AlumniOne de Alura y Oracle",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Programación Full Stack",
+            "institution": "Egg Live para el Programa de Argentina Programa",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 441
+        },
+        {
+            "degree": "Programación Orientada a Objetos con Java",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "html5",
+                "spring-boot",
+                "spring-security",
+                "css3",
+                "javascript",
+                "sql",
+                "postgres",
+                "mysql",
+                "mongo-db",
+                "tai",
+                "thymeleaf",
+                "insom",
+                "nia",
+                "postman",
+                "swagg",
+                "penapi",
+                "jwt"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Agencia de Publicidad (Web App)",
+            "description": "Participé en el desarrollo de una aplicación web para gestión de tareas y proyectos en una agencia de publicidad. Implementé la interfaz de usuario y el diseño utilizando HTML, CSS y JavaScript. Contribuí al back-end con Java y Spring Boot para la gestión de proyectos y tareas. Utilice Trello para la planificación y asignación de tareas, aplicando metodologías ágiles ya que fui designada Agile Delivery Manager.",
+            "technologies": ["html", "css", "javascript", "java", "spring-boot", "trello"],
+            "url": "https://github.com/DocouJF/D0"
+        },
+        {
+            "name": "Literalura (Challenge de Spring - ONE)",
+            "description": "Desarrollé una aplicación web para búsqueda y gestión de libros utilizando la API de Gutendex. Optimicé el rendimiento de consultas en un 30% mediante una base de datos PostgreSQL. Cree un backend robusto con Java y Spring Boot, y un frontend intuitivo con Thymeleaf, HTML y CSS. Reduci el tiempo de carga en un 60% con métodos asincrónicos.",
+            "technologies": ["thymeleaf", "html", "css", "java", "spring-boot", "postgresql"],
+            "url": "https://github.com/JuliaDaniX/literalura"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Escrito: Intermedio, Hablado: Básico"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Colaboradora del grupo 7",
+            "organization": "ONEHelpers",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2025-01-31",
+            "responsibilities": [
+                "Contribuir y fomentar el compañerismo durante la formación."
+            ]
+        }
+    ],
+    "publications": [],
+    "references": []
+}

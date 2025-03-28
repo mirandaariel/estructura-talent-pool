@@ -1,0 +1,146 @@
+{
+    "personal_info": {
+        "first_name": "Juan Carlos",
+        "last_name": "Tito Damiani",
+        "email": "juank.damiani@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/juan-carlos-tito-damiani-b3b672250/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante próximo a recibirse como Analista en Informática con experiencia en QA Testing, automatización de pruebas y desarrollo en Java, Python, JavaScript, SQL, Selenium, Postman y Power BI, con un nivel intermedio/alto en estas herramientas. Busco oportunidades laborales que me permitan aplicar mis conocimientos y habilidades en entornos relacionados a IT, así como contribuir al desarrollo de proyectos innovadores en el campo de la tecnología. Capaz de diseñar e implementar estrategias de testing efectivas para mejorar la calidad del software. Actualmente profundizando en Machine Learning para IA y herramientas avanzadas de automatización."
+    },
+    "work_experience": [
+        {
+            "job_title": "Tester Funcional",
+            "company": "TESTIO",
+            "location": "",
+            "start_date": "2025-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Ejecución de pruebas manuales y reporte de bugs en aplicaciones web y móviles, asegurando la calidad del software en diferentes etapas del ciclo de desarrollo.",
+                "Colaboración con equipos de desarrollo y diseño para la identificación y resolución de incidencias, siguiendo metodologías ágiles (Scrum).",
+                "Participación en pruebas de usabilidad y experiencia de usuario (UX), contribuyendo a la mejora de la interfaz y funcionalidad de las aplicaciones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnico de Laboratorio",
+            "company": "GAES Amplifon",
+            "location": "",
+            "start_date": "2023-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Fabricación y mantenimiento de audífonos intracanales y moldes 3D.",
+                "Desarrollo de procesos de mejora en la producción y análisis de defectos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista IT",
+            "company": "Ministerio de Educación, Ciudad de Buenos Aires",
+            "location": "",
+            "start_date": "2020-04-01",
+            "end_date": "2023-10-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Administración y gestión de bases de datos en SQL, incluyendo modelado, normalización y optimización de consultas.",
+                "Creación y mantenimiento de dashboards en Power BI para la visualización de métricas clave.",
+                "Diseño e implementación de conexiones entre múltiples tablas de bases de datos, asegurando la integridad y coherencia de los datos.",
+                "Coordinación con equipos técnicos y usuarios finales para la recopilación de requerimientos y mejora de procesos.",
+                "Implementación de estrategias para la limpieza, transformación y validación de datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista en Informática",
+            "institution": "UADE",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Electrónica",
+            "institution": "Instituto Pio IX",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "QA Tester Automatización",
+            "institution": "Digital House",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Machine Learning para IA",
+            "institution": "Digital House",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "python",
+                "javascript",
+                "sql",
+                "selenium",
+                "cypress",
+                "restassured",
+                "postman",
+                "appium"
+            ],
+            "soft": [],
+            "tools": [
+                "github-actions",
+                "jira",
+                "testrail",
+                "power-bi",
+                "git",
+                "confluence"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado"
+        },
+        {
+            "language": "Portugués",
+            "proficiency": "Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

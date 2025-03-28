@@ -1,0 +1,71 @@
+{
+    "personal_info": {
+        "first_name": "Ivan",
+        "last_name": "Ramírez Uriarte",
+        "email": "ivan_vesse11@hotmail.com",
+        "phone": "+522228516002",
+        "location": {
+            "country": "Mexico",
+            "city": "Puebla",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/ivan-ramirezu/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Software Engineer con experiencia en tecnologías modernas como Node.js, Golang, Java y Python, destacándose la optimización de aplicaciones y procesos. Implementé soluciones que mejoraron la eficiencia en un 40%, además de diseñar sistemas escalables en plataformas como AWS. Busco contribuir con mi conocimiento en el desarrollo de aplicaciones robustas y centradas en el usuario."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full-Stack Developer",
+            "company": "Secretario de Economía y Turismo",
+            "location": "Puebla, México",
+            "start_date": "2023-02-01",
+            "end_date": "2023-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y lancé una aplicación de encuestas full-stack usando Next.js y Node.js con implementación en AWS, para mapear áreas de apoyo financiero.",
+                "Implementé un sistema de creación de encuestas con URLs únicas, incrementando la participación de usuarios en un 30%.",
+                "Optimicé la interacción con DynamoDB mediante un backend en Node.js, logrando una mejora del 40% en la velocidad de recuperación de datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Sistemas Computacionales",
+            "institution": "Escuela Superior de Ciencias Superior",
+            "location": "Puebla, México",
+            "start_date": "",
+            "end_date": "2024-08-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["node.js", "golang", "python", "java", "typescript"],
+            "soft": ["trabajo-en-equipo", "colaboración", "liderazgo"],
+            "tools": ["react", "spring-boot", "aws"]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Control Escolar",
+            "description": "Diseño y despliegue de un sistema integral de control escolar utilizando Angular para UI/UX y Spring Boot para la lógica del servidor.",
+            "technologies": ["Angular", "Spring Boot"],
+            "url": ""
+        },
+        {
+            "name": "Proyecto Filtro",
+            "description": "Desarrollado una aplicación de escritorio para leer los datos de frecuencia de Excel, enviar datos a un Arduino para el filtrado, y procesar la información.",
+            "technologies": ["Python", "C"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

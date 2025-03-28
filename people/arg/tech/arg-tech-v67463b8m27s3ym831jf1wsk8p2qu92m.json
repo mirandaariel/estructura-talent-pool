@@ -1,0 +1,117 @@
+{
+    "personal_info": {
+        "first_name": "Gonzalo",
+        "last_name": "Lisanti",
+        "email": "ariellisanti22@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Apasionado Desarrollador FullStack con enfoque en tecnologías como Java, SpringBoot, MySQL, JavaScript, TypeScript, React, HTML y Bootstrap. Actualmente Desarrollador Junior, buscando constantemente desafíos que me permitan crecer y aprender."
+    },
+    "work_experience": [
+        {
+            "job_title": "FullStack Developer Junior",
+            "company": "Báscula El Santo",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Programar un sistema de pesaje de camiones utilizando una estructura MVC.",
+                "Desarrollar el BackEnd en Java y utilizar SQLite como base de datos.",
+                "Utilizar JavaFX para el FrontEnd."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "FrontEnd Developer Junior",
+            "company": "PERFEXYA GESTIÓN DE CLIENTES S. L.",
+            "location": "Remote",
+            "start_date": "2024-02-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Trabajar en un Sistema ERP de forma remota con React.ts y MUI.",
+                "Colaborar en un grupo de desarrolladores utilizando metodologías ágiles como Kanban."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "FullStack Developer Junior",
+            "company": "DaVinci Festa",
+            "location": "",
+            "start_date": "2023-10-01",
+            "end_date": "2023-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Planificar y crear una Aplicación Web para administración e ingreso de personas mediante código QR."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Universitario en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2021-08-01",
+            "end_date": "2024-07-31",
+            "hours": 0
+        },
+        {
+            "degree": "Secundaria",
+            "institution": "Instituto Rodeo del Medio",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2019-01-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring-boot",
+                "mysql",
+                "node.js",
+                "php",
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "bootstrap",
+                "mui"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -3,128 +3,88 @@
         "first_name": "Jennifer",
         "last_name": "Romero",
         "email": "jennifer.romero.navarrete@gmail.com",
-        "phone": "+52 1 6621328425",
+        "phone": "+52 16621328425",
         "location": {
             "country": "Mexico",
             "city": "Hermosillo",
             "state": "Sonora"
         },
-        "linkedin": "https://www.linkedin.com/in/jennifer-jhoana-romero-navarrete-0681862b3/",
+        "linkedin": "https://linkedin.com/in/jennifer-romero",
         "website": "",
         "portfolio": "",
-        "summary": "Software engineering student with a strong background in algorithms, data structures, and frontend technologies. Developed interactive web applications and worked effectively in teams to solve complex problems. Seeking to apply technical skills to impactful projects."
+        "summary": ""
     },
     "work_experience": [],
     "education": [
         {
-            "degree": "",
+            "degree": "Software Engineer",
             "institution": "Universidad Estatal de Sonora (UES)",
-            "location": "",
+            "location": "Sonora, Mexico",
             "start_date": "",
-            "end_date": "2025-05-01",
+            "end_date": "",
             "hours": 0
         }
     ],
     "skills": {
         "keywords": {
             "technical": [
-                "html",
-                "css",
-                "javaScript",
+                "javascript",
                 "c#",
                 "java",
-                "phyton"
+                "python",
+                "mysql",
+                "angular",
+                "api",
+                "git",
+                "bootstrap",
+                "html",
+                "css"
             ],
             "soft": [
-                "teamwork",
-                "communication",
-                "problem-solving",
-                "time-management"
+                "effective-communication",
+                "strategic-thinking",
+                "rapid-adaptation",
+                "team-collaboration"
             ],
-            "tools": [
-                "git",
-                "mysql",
-                "rest-api",
-                "angular",
-                "bootstrap",
-                "fetch-api",
-                "laravel"
-            ]
+            "tools": []
         },
-        "detailed": {
-            "technical": {},
-            "soft": {},
-            "tools": {}
-        }
+        "detailed": {}
     },
-    "certifications": [
-        {
-            "name": "Git",
-            "issuing_organization": "",
-            "issue_date": "",
-            "expiration_date": "",
-            "credential_id": ""
-        },
-        {
-            "name": "ChatBot Creation",
-            "issuing_organization": "",
-            "issue_date": "",
-            "expiration_date": "",
-            "credential_id": ""
-        }
-    ],
+    "certifications": [],
     "projects": [
         {
-            "name": "JellyBelly App | Landing Page",
-            "description": "Designed and developed an interactive landing page for Jelly Belly as part of a team project, integrating the official API to display key product information.",
-            "technologies": ["angular", "typescript", "scss", "fetch-api"],
+            "name": "Jelly Belly",
+            "description": "Conceptualized and engineered an interactive web application in Angular to customize Jelly Belly candies, integrating the official API to offer updated data and an immersive experience. Included functionalities such as real-time editing of colors in the canvas and the generation of personalized cards for users.",
+            "technologies": ["angular", "typescript", "html", "scss", "angular-material"],
             "url": ""
         },
         {
-            "name": "Students API | REST API",
-            "description": "Developed an academic API with Laravel to manage data for students, teachers, and courses, using database tables for storage.",
-            "technologies": ["laravel", "php", "mysql", "json", "composer", "artisan-cli"],
+            "name": "Academic API",
+            "description": "Spearheaded the creation of a complete RESTful API using Laravel to manage academic data of students, courses, and teachers. Enabled CRUD operations, providing an efficient and secure access point for external integrations.",
+            "technologies": ["laravel", "php", "mysql", "rest-api"],
             "url": ""
         },
         {
-            "name": "Weather App | City Weather Page",
-            "description": "Developed a weather information page using the Weather API that retrieves and displays the current weather for a specified city.",
-            "technologies": ["html", "css", "javascript", "fetch-api", "bootstrap"],
+            "name": "Flicker",
+            "description": "Designed and built a movie synopsis page that attracted over 500 users in its first month. Orchestrated an API to ensure seamless integration.",
+            "technologies": ["html", "css", "javascript"],
             "url": ""
         },
         {
-            "name": "Flicker | Movie Synopsis Page",
-            "description": "Developed a responsive web page integrating the TMDB API to display movie synopses, ratings, and other details.",
-            "technologies": ["html", "css", "javascript", "fetch-api"],
-            "url": ""
-        },
-        {
-            "name": "Java Linked Lists Project",
-            "description": "Developed a project using linked lists, focusing on optimizing performance and memory usage.",
-            "technologies": ["java"],
-            "url": ""
-        },
-        {
-            "name": "C# Desktop Application for KAaccesories",
-            "description": "Created a database-integrated application improving inventory management for a local business.",
-            "technologies": ["c#", "database"],
-            "url": ""
-        },
-        {
-            "name": "ChatBot Creation",
-            "description": "Developed a WhatsApp chatbot using Python and the OpenAI API.",
-            "technologies": ["python", "openai-api"],
+            "name": "Kantech",
+            "description": "Development of an interactive website for technology sales, which increased the average session time of users by 50%, reaching an average of 5 minutes per visit.",
+            "technologies": ["html", "css", "javascript"],
             "url": ""
         }
     ],
     "languages": [
         {
-            "language": "English",
-            "proficiency": "B2"
-        },
-        {
             "language": "Spanish",
             "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B2"
         }
     ],
     "volunteer_experience": [],

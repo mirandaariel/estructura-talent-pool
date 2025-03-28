@@ -1,0 +1,121 @@
+{
+    "personal_info": {
+        "first_name": "Ludmila",
+        "last_name": "Gioia",
+        "email": "Ludmilagioia24@gmail.com",
+        "phone": "(011)-1523997710",
+        "location": {
+            "country": "Argentina",
+            "city": "S.A de Padua",
+            "state": "Bs.As"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante de informatica con varios años de experiencia en atención al cliente y un perfil sólido orientado al uso de tecnología. Tengo conocimientos en programación full stack y análisis de datos, utilizando herramientas como Python, SQL, Power BI y Excel. Poseo habilidades comunicativas y una excelente predisposición para trabajar en equipo, adaptandome a entornos colaborativos y metodología as agiles como Scrum. Mi enfoque se centra en la optimización de procesos y el uso estratégico de datos para la toma de decisiones, combinando habilidades técnicas con un fuerte compromiso con la eficiencia y la resolución de problemas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Web Developer",
+            "company": "Talent Tech - BioCam",
+            "location": "",
+            "start_date": "2024-03-05",
+            "end_date": "2024-07-06",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de Ecommerce 'BioCam': Creación de una plataforma de comercio electrónico para la venta de repuestos de computadoras, implementando funcionalidades de gestión de productos, carrito de compras y pasarela de pago, utilizando tecnologías como Python, Flask y bases de datos SQL.",
+                "Maquetación con CSS, HTML y JavaScript.",
+                "Integración de aplicación con arquitectura API REST para comunicar servicios backend y frontend, manejando solicitudes HTTP (GET, POST, PUT, DELETE).",
+                "Integración de bases de datos mediante SQLAlchemy.",
+                "Despliegue y pruebas con PAW y Postman: Realización de pruebas y despliegue de API REST, verificando la funcionalidad y confiabilidad de los endpoints.",
+                "Colaboración en equipo mediante GitHub para el control de versiones y la gestión de código."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Informática",
+            "institution": "Universidad Nacional del Oeste",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Python",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "2024-02-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "java-scripts",
+                "power-bi",
+                "excel",
+                "matplotlib",
+                "sql",
+                "sqlalchemy",
+                "sql-server",
+                "html",
+                "css"
+            ],
+            "soft": [
+                "adaptación",
+                "trabajo-en-equipo",
+                "comunicación-efectiva",
+                "orientación-al-detalle"
+            ],
+            "tools": [
+                "git-hub"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Storytelling",
+            "issuing_organization": "Educacion IT",
+            "issue_date": "2024-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Inteligencia Artificial",
+            "issuing_organization": "Educacion IT",
+            "issue_date": "2024-05-01",
+            "expiration_date": "2024-10-01",
+            "credential_id": ""
+        },
+        {
+            "name": "Full Stack con Python",
+            "issuing_organization": "Talent Tech",
+            "issue_date": "2024-02-01",
+            "expiration_date": "2024-07-01",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Análisis de Desempeño Empresarial con Power BI",
+            "description": "ETL y Transformación de Datos, Modelado de Datos, Cálculos Avanzados con DAX, Optimización del Desempeño Empresarial.",
+            "technologies": ["power-bi", "power-query", "dax", "etl", "storytelling"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

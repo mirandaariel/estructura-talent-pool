@@ -1,0 +1,110 @@
+{
+    "personal_info": {
+        "first_name": "Marlon Julian",
+        "last_name": "Perez Puentes",
+        "email": "julianpuentes25@gmail.com",
+        "phone": "+57 3202170404",
+        "location": {
+            "country": "Colombia",
+            "city": "Villa del Rosario",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/marlonperezpuentes25",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero Mecatrónico dinámico y orientado al detalle con una sólida experiencia en gestión de mantenimiento y desarrollo de software. Apasionado por la integración de mecánica, electrónica e informática para ofrecer soluciones innovadoras. Comprometido con el aprendizaje continuo y el crecimiento profesional."
+    },
+    "work_experience": [
+        {
+            "job_title": "Gestor de Mantenimiento",
+            "company": "Umedica",
+            "location": "Villa del Rosario, Colombia",
+            "start_date": "2024-02-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé e implementé un sistema de gestión de mantenimiento utilizando Python, Django y PostgreSQL",
+                "Optimicé procesos de seguimiento de mantenimiento para mejorar la eficiencia operativa"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería Mecatrónica",
+            "institution": "Universidad de Pamplona",
+            "location": "Pamplona, Colombia",
+            "start_date": "",
+            "end_date": "2024-10-01",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnólogo en Análisis y Desarrollo de Software",
+            "institution": "SENA",
+            "location": "Colombia",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Sistemas",
+            "institution": "SENA",
+            "location": "Colombia",
+            "start_date": "",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "scrum",
+                "django",
+                "sql",
+                "plc",
+                "solidworks",
+                "python"
+            ],
+            "soft": [],
+            "tools": [
+                "microsoft-office",
+                "notion"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Instrumentación para Sistemas de Comunicaciones Electrónicas",
+            "issuing_organization": "SENA",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Sistema de Gestión de Mantenimiento",
+            "description": "Diseñé e implementé un sistema de gestión de mantenimiento utilizando Python, Django y PostgreSQL",
+            "technologies": ["Python", "Django", "PostgreSQL"],
+            "url": ""
+        },
+        {
+            "name": "Simulaciones y Resolución de Problemas",
+            "description": "Realicé simulaciones y resolución de problemas en sistemas utilizando SolidWorks y controladores PLC",
+            "technologies": ["SolidWorks", "PLC"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Jair Elías Araujo Vargas",
+            "relationship": "Ingeniero Mecatrónico, Coordinador",
+            "contact": "jair.araujo@example.com"
+        }
+    ]
+}
