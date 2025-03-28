@@ -10,53 +10,53 @@
             "state": ""
         },
         "linkedin": "",
-        "website": "",
-        "portfolio": "http://github.com/brenfos",
-        "summary": "Passionate about the fusion of art and technology, I bring a unique perspective to web development, thanks to my self-taught background in audiovisual design. This combination allows me to create visually striking and highly functional websites that not only captivate users but also provide an intuitive and seamless experience. My ability to blend creativity with technical skills ensures that every project I work on stands out for its aesthetic appeal and usability."
+        "website": "http://github.com/brenfos",
+        "portfolio": "http://behance.net/brendafoschi",
+        "summary": "Apasionada por la fusión entre el arte y la tecnología, con formación autodidacta en diseño audiovisual. Mi enfoque estético y técnico me permite desarrollar sitios web atractivos, funcionales y adaptados a las necesidades del usuario."
     },
     "work_experience": [
         {
-            "job_title": "Freelancer Video Editor",
+            "job_title": "Desarrollo Web",
             "company": "",
             "location": "",
-            "start_date": "2022-01-01",
+            "start_date": "2024-07-01",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de sitio web utilizando HTML, CSS, JavaScript y Bootstrap."
+            ],
+            "achievements": [],
+            "repository_url": "https://florenciaambos.com"
+        },
+        {
+            "job_title": "Edición de Video",
+            "company": "",
+            "location": "",
+            "start_date": "2022-12-01",
             "end_date": "",
             "currently_working": true,
             "responsibilities": [
-                "Editing short and long videos for events and music videos."
+                "Edición de videos cortos y largos para eventos y videoclips musicales."
             ],
             "achievements": [],
-            "repository_url": "http://be.net/brendafoschi"
-        },
-        {
-            "job_title": "Front-End Developer",
-            "company": "",
-            "location": "",
-            "start_date": "2023-01-01",
-            "end_date": "2023-12-31",
-            "currently_working": false,
-            "responsibilities": [
-                "Website design and development."
-            ],
-            "achievements": [],
-            "repository_url": "http://www.github.com/brenfos"
+            "repository_url": "http://behance.net/brendafoschi"
         }
     ],
     "education": [
         {
-            "degree": "Web Development",
-            "institution": "Coder House",
-            "location": "",
-            "start_date": "2022-01-01",
-            "end_date": "2023-12-31",
+            "degree": "Tecnicatura en Programación",
+            "institution": "Universidad Tecnológica Nacional de Mar del Plata",
+            "location": "Mar del Plata, Argentina",
+            "start_date": "2018-03-01",
+            "end_date": "2021-07-31",
             "hours": 0
         },
         {
-            "degree": "Associate Degree in Programming",
-            "institution": "Universidad Tecnológica Nacional",
+            "degree": "Desarrollo Web y React",
+            "institution": "Coder House",
             "location": "",
-            "start_date": "2018-01-01",
-            "end_date": "2021-12-31",
+            "start_date": "2022-09-01",
+            "end_date": "2023-05-31",
             "hours": 0
         }
     ],
@@ -65,17 +65,15 @@
             "technical": [
                 "html",
                 "css",
-                "sass",
-                "tailwind-css",
                 "javascript",
                 "react",
                 "bootstrap",
+                "git",
+                "github",
                 "c#"
             ],
             "soft": [],
             "tools": [
-                "git",
-                "github",
                 "figma",
                 "adobe-creative-cloud"
             ]
@@ -89,16 +87,16 @@
     "projects": [],
     "languages": [
         {
-            "language": "Spanish",
-            "proficiency": "Native"
+            "language": "Español",
+            "proficiency": "Nativo"
         },
         {
-            "language": "English",
-            "proficiency": "Intermediate"
+            "language": "Italiano",
+            "proficiency": "Avanzado"
         },
         {
-            "language": "Italian",
-            "proficiency": "Advanced"
+            "language": "Inglés",
+            "proficiency": "Intermedio"
         }
     ],
     "volunteer_experience": [],

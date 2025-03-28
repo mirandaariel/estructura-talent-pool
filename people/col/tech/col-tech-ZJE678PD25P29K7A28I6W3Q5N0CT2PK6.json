@@ -1,0 +1,176 @@
+{
+    "personal_info": {
+        "first_name": "Leidy Johanna",
+        "last_name": "Agudelo Gutierrez",
+        "email": "leidy1421@live.com",
+        "phone": "",
+        "location": {
+            "country": "Colombia",
+            "city": "Medellín",
+            "state": "Antioquia"
+        },
+        "linkedin": "https://www.linkedin.com/in/leidy-j-agudelo/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Me caracterizo por tener un alto nivel de compromiso, liderazgo, toma de decisiones y servicio, y la capacidad de aprender rápidamente. Además, me apasiona asumir retos y trabajar con empeño, adaptándome fácilmente al entorno de trabajo. Estoy listo para unirme al equipo y continuar mi crecimiento profesional en el desarrollo de software."
+    },
+    "work_experience": [
+        {
+            "job_title": "Auditor",
+            "company": "Tennis S.A",
+            "location": "",
+            "start_date": "2022-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Supervisar y asegurar la calidad y eficiencia del proceso productivo.",
+                "Implementar mejoras en el proceso, incluyendo procedimientos específicos y control de inventario.",
+                "Conciliación de saldos y análisis de costos de materias primas.",
+                "Proporcionar informes detallados a la dirección de la empresa."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Coordinador de cartera",
+            "company": "Hoteles Estelar S.A",
+            "location": "Medellín",
+            "start_date": "2021-04-01",
+            "end_date": "2022-06-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Planificación de estrategias para la gestión de cobros en la región de Medellín.",
+                "Generación de informes detallados para la alta dirección.",
+                "Presentación mensual ante el comité de cartera.",
+                "Coordinación de aspectos financieros entre hoteles relacionados económicamente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Auditor de ingresos",
+            "company": "Hoteles Estelar S.A",
+            "location": "",
+            "start_date": "2018-11-01",
+            "end_date": "2021-04-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Evaluación de transacciones de ingresos para cumplimiento de normativas.",
+                "Auditoría en unidades responsables de generación de ingresos.",
+                "Supervisión del desempeño de cajeros en diferentes departamentos.",
+                "Recuento de fondos en caja y revisión de registros del sistema."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería Informática",
+            "institution": "Fundación Universitaria Católica Del Norte",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnología en Desarrollo de Software",
+            "institution": "Fundación Universitaria Católica Del Norte",
+            "location": "",
+            "start_date": "",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnología en Análisis de Costos y Presupuestos",
+            "institution": "Institución Universitaria ITM",
+            "location": "",
+            "start_date": "",
+            "end_date": "2016-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller con Media Técnica en Programación",
+            "institution": "Institución Educativa San Antonio de Prado",
+            "location": "",
+            "start_date": "",
+            "end_date": "2012-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "sql-server",
+                "java"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "aprendizaje-continuo",
+                "comunicación-clara",
+                "pensamiento-crítico",
+                "atención-al-detalle"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Bootcamp Full Stack JavaScript",
+            "issuing_organization": "Desafio LATAM",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Diplomado en Fundamento de Programación en Lenguaje Java",
+            "issuing_organization": "MinTic",
+            "issue_date": "2022-06-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "SQL Server",
+            "issuing_organization": "Universidad de Antioquia-Mintic",
+            "issue_date": "2023-11-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Fundamentos en Analítica de Datos",
+            "issuing_organization": "Correlation One",
+            "issue_date": "2022-12-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Diplomado en Ciberseguridad",
+            "issuing_organization": "Fundación Universitaria Católica Del Norte",
+            "issue_date": "2023-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

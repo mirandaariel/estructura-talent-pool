@@ -1,0 +1,139 @@
+{
+    "personal_info": {
+        "first_name": "Maria",
+        "last_name": "Romero",
+        "email": "itati3911@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/bon-vivant/",
+        "website": "",
+        "portfolio": "Itati Romero - Mi portfolio",
+        "summary": "I am a student of the University Technician in Programming program at the National Technological University (UTN) in Argentina, currently finishing my second year and looking to join a work team. I am a committed and enthusiastic professional with a constant desire for personal and professional growth. I adapt quickly to new challenges and environments, and have extensive experience in teamwork, effective communication, empathy, conflict resolution, and emotional intelligence. These skills enable me to contribute positively to any team or project."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "University Technician in Programming",
+            "institution": "UTN National Technological University",
+            "location": "Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "UNLP National University of La Plata",
+            "location": "Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                "c++",
+                "javascript",
+                "asp.net",
+                "reactjs",
+                "html",
+                "css",
+                "bootstrap",
+                "git",
+                "github",
+                "sql",
+                "mysql"
+            ],
+            "soft": [
+                "effective-communication",
+                "empathy",
+                "conflict-resolution",
+                "emotional-intelligence",
+                "teamwork"
+            ],
+            "tools": [
+                "agile-methodology",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "C# ASP.NET E-commerce",
+            "description": "E-Commerce project primarily written in C#, utilizing ASP.NET for web development and TSQL for database management.",
+            "technologies": ["C#", "ASP.NET", "TSQL"],
+            "url": ""
+        },
+        {
+            "name": "C# ASP.NET WebApp",
+            "description": "Project using the C# language and ASP.NET, developing a web app that validates a code in an SQL database to display products stored there.",
+            "technologies": ["C#", "ASP.NET", "SQL"],
+            "url": ""
+        },
+        {
+            "name": "C# WinForms",
+            "description": "Project written in C# and using Windows Forms, connecting to an SQL database containing a variety of listed products.",
+            "technologies": ["C#", "WinForms", "SQL"],
+            "url": ""
+        },
+        {
+            "name": "C++ Warehouse Management System",
+            "description": "Warehouse management system as a console application made with C++ as an integrative practical work for the University's Computer Laboratory II course.",
+            "technologies": ["C++"],
+            "url": ""
+        },
+        {
+            "name": "Backend final project",
+            "description": "Repository with the code for the final project of the Coderhouse Backend course.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "E-Commerce Online Plant Shop",
+            "description": "Web page made with HTML, CSS, SCSS, and JS for a plant shop with a product catalog and shopping cart.",
+            "technologies": ["HTML", "CSS", "SCSS", "JS"],
+            "url": ""
+        },
+        {
+            "name": "C++ Console App Clutch",
+            "description": "Repository hosting the code developed for Laboratory I of TUP, creating a card game called Clutch as a console application in C++ language.",
+            "technologies": ["C++"],
+            "url": ""
+        },
+        {
+            "name": "Web page Astillero Bahia",
+            "description": "Web Development course project. It is a website made with HTML, CSS, and SCSS.",
+            "technologies": ["HTML", "CSS", "SCSS"],
+            "url": ""
+        },
+        {
+            "name": "ReactJS E-Commerce Hathi Drink Shop",
+            "description": "Web page made with ReactJS, with a product catalog and shopping cart.",
+            "technologies": ["ReactJS"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "C2"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

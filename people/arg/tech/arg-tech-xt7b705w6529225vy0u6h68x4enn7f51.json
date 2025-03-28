@@ -1,0 +1,83 @@
+{
+    "personal_info": {
+        "first_name": "Lucas Daniel",
+        "last_name": "Muñoz",
+        "email": "xlucasmd@gmail.com",
+        "phone": "1126146369",
+        "location": {
+            "country": "Argentina",
+            "city": "Ranelagh",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/lucasmzd",
+        "website": "https://github.com/lucasmzd",
+        "portfolio": "",
+        "summary": "Soy Desarrollador Full Stack con especialización en Front-End, enfocado en el diseño y desarrollo de interfaces de usuario interactivas y optimizadas, utilizando tecnologías modernas y enfoques centrados en la experiencia del usuario. Experiencia en proyectos académicos con tecnologías como CSS, Typescript, React, Next JS, Node JS, Express, MongoDB y PostgreSQL que me brindaron aptitudes como pensamiento lógico, oratoria y adaptabilidad."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 800
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "bootstrap",
+                "tailwind",
+                "javascript",
+                "typescript",
+                "react",
+                "next-js",
+                "node-js",
+                "express",
+                "mongodb",
+                "postgresql"
+            ],
+            "soft": [
+                "pensamiento-lógico",
+                "oratoria",
+                "adaptabilidad"
+            ],
+            "tools": [
+                "figma",
+                "google-cloud-services"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "FitZone Gym",
+            "description": "Plataforma de gestión para gimnasios para optimizar la administración y experiencia tanto para usuarios, entrenadores y administradores.",
+            "technologies": ["typescript", "react", "next-js", "tailwind", "formik", "google-cloud-services"],
+            "url": "https://fitzzone.vercel.app/"
+        },
+        {
+            "name": "iStoreBA",
+            "description": "Plataforma e-commerce para la compra y venta de productos tecnológicos.",
+            "technologies": ["typescript", "react", "next-js", "tailwind", "figma"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "C2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

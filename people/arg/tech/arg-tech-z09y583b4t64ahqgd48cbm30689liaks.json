@@ -1,0 +1,134 @@
+{
+    "personal_info": {
+        "first_name": "Jhon",
+        "last_name": "Quinaucho",
+        "email": "quinaucho200@gmail.com",
+        "phone": "2215486259",
+        "location": {
+            "country": "Argentina",
+            "city": "La Plata",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Aspiro a un puesto donde pueda aplicar mis habilidades técnicas y contribuir al éxito de la organización."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista de Sistemas",
+            "company": "BURGER KING",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "2024-10-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Encargado del soporte técnico integral en hardware y software, incluyendo la instalación, configuración y mantenimiento de equipos POS.",
+                "Responsable de la optimización de la infraestructura tecnológica, asegurando la operatividad del sistema.",
+                "Brindaba soporte remoto para la resolución de incidencias y la configuración de equipos.",
+                "Administraba la base de datos, gestionaba Office 365 y desarrollaba y mantenía aplicaciones en PHP para mejorar y automatizar procesos internos.",
+                "Realizábamos reportes de ventas utilizando herramientas de Inteligencia de Negocios como Power BI, facilitando el análisis de datos y la toma de decisiones estratégicas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Pasante en TICs",
+            "company": "Constructora IMHOTEP",
+            "location": "",
+            "start_date": "2021-10-01",
+            "end_date": "2022-05-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollamos un sitio web para la promoción de los servicios ofrecidos por la empresa.",
+                "La página fue implementada utilizando PHP y MySQL, asegurando un rendimiento óptimo y una gestión eficiente de la información."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "TICs",
+            "company": "Clínica San Andres De Saquisili",
+            "location": "",
+            "start_date": "2019-11-01",
+            "end_date": "2020-05-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Llevamos a cabo un proceso de ETL para consolidar y digitalizar información en una base de datos centralizada.",
+                "Desarrollamos un prototipo para la gestión de turnos en la clínica, optimizando la asignación y administración de citas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero en Sistemas de Información",
+            "institution": "Universidad Tecnica De Cotopaxi",
+            "location": "Ecuador",
+            "start_date": "2019-03-01",
+            "end_date": "2023-08-01",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Ciencias",
+            "institution": "Unidad Educativa Del Milenio Sigchos",
+            "location": "Ecuador",
+            "start_date": "2012-09-01",
+            "end_date": "2018-07-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c++",
+                "html",
+                "java-script",
+                "php",
+                "dart",
+                "etl",
+                "microsoft-excel",
+                "git",
+                "sap-r/3-bi-bussiness-intelligent",
+                "python",
+                "sql",
+                "mysql",
+                "postgresql",
+                "microsoft-365",
+                "office-365"
+            ],
+            "soft": [
+                "asistencia-remota",
+                "configuración-remota"
+            ],
+            "tools": [
+                "eset-antivirus",
+                "gitlab",
+                "mantenimiento-preventivo"
+            ]
+        },
+        "detailed": {
+            "technical": {
+                "php": [
+                    {
+                        "name": "Development and maintenance of internal applications.",
+                        "repository_url": ""
+                    }
+                ],
+                "etl": [
+                    {
+                        "name": "ETL process for data consolidation.",
+                        "repository_url": ""
+                    }
+                ]
+            }
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

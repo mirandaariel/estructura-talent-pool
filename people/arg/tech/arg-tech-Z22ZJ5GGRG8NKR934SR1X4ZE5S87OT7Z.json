@@ -1,0 +1,157 @@
+{
+    "personal_info": {
+        "first_name": "Mateo",
+        "last_name": "Cardozo",
+        "email": "mateo21cardozo@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/mateo-cardozo-283b20260/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy Desarrollador de Software y Profesor de Inglés con una pasión por la programación y el aprendizaje de nuevas tecnologías. Actualmente, estoy trabajando en un proyecto dedicado al e-commerce donde utilizo tecnologías como Angular, JavaScript y Figma, enfocado además en el análisis y constante mejora del producto. Me encantan los desafíos y las nuevas experiencias, el poder trabajar en equipo aportando mis conocimientos y aprendiendo de mis colegas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Bricke",
+            "location": "Argentina",
+            "start_date": "2023-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Realización de análisis de problemáticas y definición de casos de uso.",
+                "Desarrollo de Front-end utilizando Angular.",
+                "Colaboración en el diseño de vistas utilizando Figma."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Engineer",
+            "company": "Farmapp",
+            "location": "Argentina",
+            "start_date": "2024-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo con framework Ionic para aplicaciones móviles híbridas.",
+                "Integración de Mapbox para ubicación en tiempo real.",
+                "Optimización de la aplicación antes del lanzamiento."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "",
+            "location": "Argentina",
+            "start_date": "2022-10-01",
+            "end_date": "2023-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo e integración de API utilizando Express y Node.js."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Profesor de Ingles",
+            "company": "",
+            "location": "Corrientes, Argentina",
+            "start_date": "2022-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Enseñanza a estudiantes de diferentes edades y niveles en instituto de inglés."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnico superior en desarrollo de Software",
+            "institution": "",
+            "location": "Corrientes",
+            "start_date": "2021-03-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Profesorado de Ingles",
+            "institution": "",
+            "location": "Corrientes",
+            "start_date": "2016-03-01",
+            "end_date": "2021-11-30",
+            "hours": 0
+        },
+        {
+            "degree": "Maestro Mayor de Obras",
+            "institution": "",
+            "location": "Corrientes",
+            "start_date": "2006-03-01",
+            "end_date": "2012-11-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "angular-cli",
+                "angular-material",
+                "node-js",
+                "express",
+                "serverless",
+                "bootstrap",
+                "html5",
+                "css",
+                "sql",
+                "php",
+                "docker",
+                "firebase"
+            ],
+            "soft": [],
+            "tools": [
+                "figma",
+                "trello",
+                "jira",
+                "scrum",
+                "kanban",
+                "microsoft-visio",
+                "draw.io",
+                "git"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Curso de Angular",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-03-01",
+            "expiration_date": "2024-01-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso NodeJS",
+            "issuing_organization": "Udemy",
+            "issue_date": "2022-06-01",
+            "expiration_date": "2023-04-30",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Hábil"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

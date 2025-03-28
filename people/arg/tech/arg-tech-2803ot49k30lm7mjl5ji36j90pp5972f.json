@@ -1,0 +1,100 @@
+{
+    "personal_info": {
+        "first_name": "Juan Manuel",
+        "last_name": "Fernández",
+        "email": "juanma08072003@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/juan-manuel-fernandez-135341305/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un programador trainee con una base sólida en desarrollo de software y lógica de programación. Poseo experiencia práctica en C#, javascript y PHP, así como en diseño e implementación de bases de datos SQL (MySQL) para aplicaciones web y de escritorio. Diseño de APIs Restfull. Tengo una fascinación por crear soluciones a problemas, cuento con gran habilidad para trabajar en equipo promoviendo una comunicación efectiva. Me caracterizo por mí capacidad para disfrutar del trabajo, lo que genera un ambiente laboral positivo y productivo. El constante estudio y aprendizaje es lo que me apasiona del desarrollo así como los nuevos desafíos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador de aplicación de escritorio",
+            "company": "Proyecto Académico",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño de interfaz del usuario.",
+                "Desarrollo de la lógica de negocio para la gestión del inventario.",
+                "Implementación de la base de datos para el almacenamiento de productos y transacciones.",
+                "Programación de reportes para el análisis de stock."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "Proyecto Académico",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación de la lógica de negocio para la gestión de préstamos y devoluciones de libros.",
+                "Creación de paneles de administración para gestionar libros, usuarios y préstamos.",
+                "Diseño e implementación de la base de datos para el almacenamiento de libros y transacciones.",
+                "Colaboración con el equipo de diseño para crear una interfaz de usuario atractiva y fácil de usar."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                "javascript",
+                "php",
+                "asp.net",
+                "laravel",
+                "mvc",
+                "sql",
+                "mysql",
+                "sqlserver"
+            ],
+            "soft": [
+                "comunicación-efectiva",
+                "trabajo-en-equipo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

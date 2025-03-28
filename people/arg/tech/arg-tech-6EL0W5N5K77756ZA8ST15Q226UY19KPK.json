@@ -1,0 +1,144 @@
+{
+    "personal_info": {
+        "first_name": "Maximiliano",
+        "last_name": "Malvicino",
+        "email": "mrmalvicino@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/mrmalvicino",
+        "website": "http://mrmalvicino.com",
+        "portfolio": "",
+        "summary": "Desarrollador .NET JR apasionado por la acústica y la programación, con experiencia en .NET, C#, HTML, CSS, JavaScript y bases de datos MSSQL, en busca de oportunidades en el campo de TI."
+    },
+    "work_experience": [
+        {
+            "job_title": "Ayudante de cátedra de Programación 2",
+            "company": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Asistencia a estudiantes en clases y foros.",
+                "Desarrollo de ejercitaciones sobre Programación Orientada a Objetos en C++."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ayudante de cátedra de Física 1",
+            "company": "Universidad Nacional de Tres de Febrero",
+            "location": "",
+            "start_date": "2019-08-01",
+            "end_date": "2023-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y resolución de ejercicios.",
+                "Confección y corrección de exámenes.",
+                "Demostraciones experimentales con Python."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Profesor de Inglés",
+            "company": "Biblioteca Popular Leonardo Favio",
+            "location": "",
+            "start_date": "2014-03-01",
+            "end_date": "2017-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Planificación de cursos de inglés.",
+                "Dictado de clases particulares para alumnos de nivel secundario."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Sonido",
+            "institution": "Universidad Nacional de Tres de Febrero",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                ".net-framework",
+                "asp.net",
+                ".net-core",
+                "c#",
+                "html5",
+                "css3",
+                "javascript",
+                "sql-server",
+                "ado.net",
+                "jstl",
+                "java",
+                "bootstrap",
+                "tailwind",
+                "mysql",
+                "jdbc",
+                "c++",
+                "python"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "latex",
+                "gitlab",
+                "yml"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Meeni ERP",
+            "description": "Software de gestión empresarial que administra el stock, realiza cotizaciones, registra movimientos, y lleva la contabilidad.",
+            "technologies": [],
+            "url": "https://github.com/mrmalvicino/meeni-erp"
+        },
+        {
+            "name": "Ecommerce Net",
+            "description": "Comercio electrónico que incluye gestión de productos, carrito de compra, roles de usuario y seguimiento de pedidos.",
+            "technologies": [],
+            "url": "https://github.com/mrmalvicino/ecommerce-net"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "CEFR B2"
+        },
+        {
+            "language": "Portuguese",
+            "proficiency": "Level 4"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

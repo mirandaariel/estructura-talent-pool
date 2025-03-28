@@ -1,0 +1,101 @@
+{
+    "personal_info": {
+        "first_name": "Javier Agustín",
+        "last_name": "Dotto Palazzo",
+        "email": "dotto.agustin12@gmail.com",
+        "phone": "+54 9261 511-7581",
+        "location": {
+            "country": "Argentina",
+            "city": "Lujan de Cuyo",
+            "state": "Mendoza"
+        },
+        "linkedin": "https://www.linkedin.com/in/dotto-sistemas/",
+        "website": "",
+        "portfolio": "https://tryhackme.com/p/Javierbmx",
+        "summary": "Estudiante avanzado de la Lic. Seguridad Informática, con 1 año y medio de experiencia laboral, cuento con experiencia en monitoreo, detección y mitigación de amenazas. Participando en la gestión de sistemas en seguridad informática, creación de campañas de phishing y awareness de la compañía. Estoy listo para asumir nuevos desafíos técnicos que impliquen defender los activos de la empresa y stakeholders, aportando mi background y pasión por la ciberseguridad."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista de Ciberseguridad",
+            "company": "Red de Servicios Tecnológicos",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Identificación y evaluación de amenazas potenciales en tiempo real, colaborando con el equipo de Respuesta a Incidentes de Seguridad (RST) para implementar medidas de mitigación efectivas.",
+                "Diseñé y ejecuté pruebas de intrusión para evaluar la resiliencia de la organización frente a ataques de phishing.",
+                "Implementación y gestión de herramientas SOAR.",
+                "Desarrollé un chatbot de WhatsApp en Node.js vinculado a Google Contacts y Google Sheets, para la gestión ágil de un call center de salud."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Seguridad Informática",
+            "institution": "Universidad Siglo 21",
+            "location": "Hendoza, Arg",
+            "start_date": "2023-01-01",
+            "end_date": "2026-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "linux",
+                "windows",
+                "kali-linux",
+                "c++",
+                "java",
+                "mysql",
+                "nodejs",
+                "autocad",
+                "microsoft-office",
+                "hacking-ético",
+                "nmap",
+                "wireshark",
+                "qradar",
+                "cisco-packet-tracer"
+            ],
+            "soft": [],
+            "tools": [
+                "trello",
+                "clickup"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Conceptos de Redes",
+            "issuing_organization": "Cisco Arg",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Ethical Hacker",
+            "issuing_organization": "Cisco Arg",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés técnico aplicado",
+            "proficiency": "Técnico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

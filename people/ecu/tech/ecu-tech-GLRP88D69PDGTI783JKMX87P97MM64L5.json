@@ -1,0 +1,90 @@
+{
+    "personal_info": {
+        "first_name": "Jose Jacobo",
+        "last_name": "Capa Angamarca",
+        "email": "jacobowitz.7@protonmail.com",
+        "phone": "+593989785948",
+        "location": {
+            "country": "Ecuador",
+            "city": "Quito",
+            "state": "Pichincha"
+        },
+        "linkedin": "https://www.linkedin.com/in/jacobopro/",
+        "website": "x.com/jcobjoss777",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Developer",
+            "company": "Clínica Praxell",
+            "location": "Cuenca, Azuay",
+            "start_date": "2024-03-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé un sistema integral de gestión de pacientes y sus historiales médicos, implementando más de 6 funcionalidades clave y logrando un 100% de cumplimiento con los requisitos del proyecto.",
+                "Diseñé una interfaz de usuario intuitiva y eficiente con Java Swing, reduciendo el tiempo promedio de navegación del cliente en un 30% mediante principios de diseño centrados en la usabilidad.",
+                "Implementé una base de datos relacional en PostgreSQL, gestionando más de 1000 registros de pacientes y garantizando la integridad y confidencialidad de los datos médicos conforme a las mejores prácticas de seguridad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnologo Superior en Desarrollo de Software",
+            "institution": "Instituto Tecnologico Superior Universitario Quito Metropolitano",
+            "location": "Quito",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "spring-framework",
+                "spring-boot",
+                "spring-data-jpa",
+                "java",
+                "docker",
+                "postman",
+                "spring-security",
+                "angular",
+                "react",
+                "postgres",
+                "mysql"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {
+                "": []
+            },
+            "soft": {
+                "": []
+            }
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Proyecto - Api Medica",
+            "description": "Desarrollé una API médica utilizando Java y Spring Boot, implementando una arquitectura por capas que separa los componentes en módulos, logrando un 100% de aislamiento entre la lógica de negocio, la persistencia y los endpoints.",
+            "technologies": ["Java", "Spring Boot", "PostgreSQL", "Lombok"],
+            "url": "https://github.com/Jacobo-JCA/API-Medical"
+        },
+        {
+            "name": "Sistema gestor de deudas",
+            "description": "Desarrollo en progreso de un sistema gestor de deudas utilizando Java Swing y JDBC.",
+            "technologies": ["Java Swing", "JDBC"],
+            "url": "https://github.com/Jacobo-JCA/Debt-Managment"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
