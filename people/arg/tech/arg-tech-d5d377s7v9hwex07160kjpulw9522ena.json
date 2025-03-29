@@ -1,0 +1,126 @@
+{
+    "personal_info": {
+        "first_name": "Katherine",
+        "last_name": "Hernández",
+        "email": "katherinehernandez94@pm.me",
+        "phone": "+54 9 1124095696",
+        "location": {
+            "country": "Argentina",
+            "city": "CABA",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/katherinehernandez94",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrolladora Frontend con experiencia en tecnologías como HTML, CSS, Bootstrap y JavaScript. Habilidades en React, manejo de Hooks (useState, useEffect, etc.) y pruebas unitarias con Jest. Actualmente en formación para ampliar conocimientos en Back-End con tecnologías como Node.js, Java y Python. Alta capacidad de aprendizaje, adaptabilidad y trabajo en equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Secretaria de Interpretación Radiológica",
+            "company": "TecniScan",
+            "location": "Guatemala",
+            "start_date": "2018-06-01",
+            "end_date": "2021-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Brindé soporte al médico tratante en la compatibilidad del resultado con la descripción del estudio.",
+                "Atendí consultas de pacientes vía email, teléfono y en persona.",
+                "Corregí informes médicos asegurando precisión en la redacción.",
+                "Proporcioné asistencia a pacientes durante el proceso de diagnóstico."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Desarrollo de Software",
+            "institution": "UADE",
+            "location": "",
+            "start_date": "",
+            "end_date": "2022-02-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "bootstrap",
+                "javascript",
+                "react",
+                "jest",
+                "node.js",
+                "python",
+                "mysql",
+                "git",
+                "github",
+                "desarrollo-ágeil"
+            ],
+            "soft": [
+                "adaptabilidad",
+                "trabajo-en-equipo",
+                "proactividad",
+                "resolución-de-problemas",
+                "liderazgo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {
+                "react": [
+                    {
+                        "name": "React Hooks (useState, useEffect, etc.)",
+                        "repository_url": ""
+                    }
+                ]
+            },
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Full Stack Node.js",
+            "issuing_organization": "Codo a Codo",
+            "issue_date": "2024-02-01",
+            "expiration_date": "2024-07-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Introducción a Java",
+            "issuing_organization": "Tecno3F",
+            "issue_date": "2024-03-01",
+            "expiration_date": "2024-05-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Base de Datos",
+            "issuing_organization": "Tecno3F",
+            "issue_date": "2024-08-01",
+            "expiration_date": "2024-12-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Testing Avanzado",
+            "issuing_organization": "Argentina Programa UTN",
+            "issue_date": "2023-10-01",
+            "expiration_date": "2023-11-30",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico - lectura y comunicación escrita"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

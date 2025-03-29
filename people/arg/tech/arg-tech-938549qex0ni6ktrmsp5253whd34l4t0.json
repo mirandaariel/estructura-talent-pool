@@ -1,0 +1,111 @@
+{
+    "personal_info": {
+        "first_name": "Valentino",
+        "last_name": "Copperi Morazzo",
+        "email": "valentinocopperi@gmail.com",
+        "phone": "+5492494628279",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "Pagina Personal",
+        "portfolio": "",
+        "summary": "Soy estudiante de Ingeniería en Sistemas con una gran pasión por la programación. Tengo conocimientos y experiencia tanto en desarrollo frontend como backend, lo que me permite construir aplicaciones completas y eficientes. Estoy ansioso por seguir aprendiendo y creciendo profesionalmente, mientras contribuyo a proyectos innovadores."
+    },
+    "work_experience": [
+        {
+            "job_title": "Practicas Profesionales + Trainee",
+            "company": "",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé APIs RESTful utilizando Java y Spring Boot, implementando medidas de seguridad como autenticación JWT, OAuth2 y control de acceso basado en roles (RBAC).",
+                "Diseñé y optimicé estructuras de bases de datos con PostgreSQL y MongoDB, asegurando la integridad y el rendimiento de los datos.",
+                "Implementé pruebas unitarias e integradas para mejorar la fiabilidad y mantenibilidad del código.",
+                "Diseñé y desarrollé frontends utilizando React y Next.js, enfocándome en una UI/UX responsiva y accesibilidad.",
+                "Creé wireframes y prototipos para visualizar interfaces de usuario y mejorar la experiencia del usuario antes del desarrollo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas",
+            "institution": "Universidad del Centro de la Provincia de Buenos Aires",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Curso de TypeScript & React",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "typescript",
+                "spring-boot",
+                "react",
+                "next.js",
+                "tailwind",
+                "aws",
+                "postgresql",
+                "sql",
+                "mongodb",
+                "git",
+                "shadcn",
+                "docker"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {
+                "java": [
+                    {
+                        "name": "APIs RESTful con Java y Spring Boot",
+                        "repository_url": ""
+                    }
+                ],
+                "react": [
+                    {
+                        "name": "Diseño de UI/UX con ShadCN y TailwindCSS",
+                        "repository_url": ""
+                    }
+                ]
+            },
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "First Certificate in English (FCE)",
+            "issuing_organization": "Cambridge Assessment English",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Ingles",
+            "proficiency": "Fluent"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

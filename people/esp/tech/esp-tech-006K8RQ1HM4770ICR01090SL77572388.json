@@ -1,0 +1,125 @@
+{
+    "personal_info": {
+        "first_name": "Bruno",
+        "last_name": "DaSilva",
+        "email": "brunogustavo68@gmail.com",
+        "phone": "+34617781755",
+        "location": {
+            "country": "España",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/bruno-da-silva33/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Frontend con bastante soltura en React y TailwindCSS. Actualmente realizando un curso de Angular."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador web",
+            "company": "Daroma Innovation",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de las distintas webs de los productos que ofrece la empresa.",
+                "Diseño y desarrollo de la web oficial de la empresa, Daroma.",
+                "Desarrollo de la web de producto Digitoly en el sector financiero."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Programador Front-End",
+            "institution": "Tokio School",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Experto universitario en Desarrollo de aplicaciones web",
+            "institution": "Universidad San Jorge",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "FPII en Sistemas de Telecomunicaciones e informáticos",
+            "institution": "IES Torre de los Herberos",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "tailwind-css",
+                "react",
+                "angular",
+                "github",
+                "botpress",
+                "github-copilot"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Inglés B2",
+            "issuing_organization": "British Council",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "",
+            "url": ""
+        },
+        {
+            "name": "Programa de Aprendizaje Basado en Proyectos en Inteligencia Artificial",
+            "issuing_organization": "IBM",
+            "issue_date": "2024-09-01",
+            "expiration_date": "",
+            "credential_id": "",
+            "url": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Airbnb Clon",
+            "description": "Pequeño Clon FULLSTACK de la web de Airbnb.",
+            "technologies": ["react", "tailwind-css", "render", "mongodb"],
+            "url": "AirbnbClone"
+        },
+        {
+            "name": "E-commerce",
+            "description": "Pequeña web de ventas de artículos.",
+            "technologies": ["react", "css", "react-hooks", "filtro"],
+            "url": "ecommerce"
+        },
+        {
+            "name": "Task Manager",
+            "description": "App de gestión de tareas colaborativas para organizar y priorizar tareas.",
+            "technologies": ["react", "css", "react-hooks", "draganddrop"],
+            "url": "TaskManager"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

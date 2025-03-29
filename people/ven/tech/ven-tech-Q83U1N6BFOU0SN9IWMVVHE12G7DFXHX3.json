@@ -1,0 +1,120 @@
+{
+    "personal_info": {
+        "first_name": "Saimon",
+        "last_name": "Aguilar",
+        "email": "saimonvillarreal.04@gmail.com",
+        "phone": "+58 424-888-99-62",
+        "location": {
+            "country": "Venezuela",
+            "city": "Caracas",
+            "state": "El Paraíso"
+        },
+        "linkedin": "https://www.linkedin.com/in/saimon-aguilar/",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Líder",
+            "company": "PyMony / AInsurance",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé, desarrollé y estructuré los proyectos según las especificaciones planteadas por SIC",
+                "Supervisé al equipo y asigné tareas estratégicamente según las habilidades de los integrantes, optimizando su desempeño.",
+                "Resolví problemas técnicos críticos y garanticé una comunicación fluida entre todos los involucrados en los proyectos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Soporte en Redes y TI",
+            "company": "VEN 911 Baruta",
+            "location": "Caracas",
+            "start_date": "2024-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé, mantengo y actualizo una solución de software de automatización de tickets de incidencias",
+                "Mantener y verificar en funcionamiento de los equipos computacionales",
+                "Atender cualquier requerimiento de parte del usuario"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certificación en Inteligencia Artificial y Programación",
+            "institution": "Samsung Innovation Campus",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2025-03-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en Sistemas",
+            "institution": "Universidad Nacional Experimental Politécnica de las Fuerzas Armadas",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "análisis-de-datos",
+                "inteligencia-artificial",
+                "automatizaciones",
+                "web-scraping",
+                "back-end-web",
+                "scripting",
+                "control-de-versiones",
+                "scrum",
+                "ciberseguridad",
+                "redes",
+                "soporte-it",
+                "python",
+                "django",
+                "html5",
+                "css3",
+                "sqlite3",
+                "scikit-learn",
+                "pandas",
+                "numpy",
+                "seaborn",
+                "matplotlib",
+                "excel",
+                "csv",
+                "selenium",
+                "batch",
+                "windows",
+                "linux",
+                "virtualización"
+            ],
+            "soft": [],
+            "tools": [
+                "visual-studio-code",
+                "git",
+                "github",
+                "github-desktop",
+                "respuesta-a-incidencias",
+                "ingles-técnico"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

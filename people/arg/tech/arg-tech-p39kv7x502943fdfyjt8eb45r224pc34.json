@@ -1,0 +1,110 @@
+{
+  "personal_info": {
+    "first_name": "Luca",
+    "last_name": "Madonia",
+    "email": "luc335gs@gmail.com",
+    "phone": "2281-310876",
+    "location": {
+      "country": "",
+      "city": "Azul",
+      "state": "Buenos Aires"
+    },
+    "linkedin": "",
+    "website": "",
+    "portfolio": "",
+    "summary": ""
+  },
+  "work_experience": [
+    {
+      "job_title": "Electricista Industrial",
+      "company": "Ceramica San Lorenzo",
+      "location": "Azul, BA",
+      "start_date": "2022-05-01",
+      "end_date": "2022-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Diseñar e instalar sistemas de cableado eléctrico en plantas industriales.",
+        "Montar y conectar motores, transformadores, tableros de distribución y otros dispositivos eléctricos.",
+        "Interpretar planos eléctricos y diagramas de circuitos para una instalación precisa."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Programador Backend",
+      "company": "Municipio Azul",
+      "location": "Azul, BA",
+      "start_date": "2024-08-01",
+      "end_date": "2024-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo y optimización de API REST para estructuras de datos.",
+        "Diseño e implementación de bases de datos SQL relacionales, asegurando escalabilidad y eficiencia.",
+        "Gestión de proyectos en Azure DevOps bajo metodología Scrum, con entregas iterativas y seguimiento de tareas.",
+        "Control de versiones con GitHub, asegurando una colaboración fluida en equipo.",
+        "Desarrollo de componentes reutilizables en React, optimizando la UI y la experiencia del usuario.",
+        "Validación de requisitos mediante modelos UML, asegurando alineación con las necesidades del negocio.",
+        "Comunicación directa con stakeholders para definir requisitos y mejorar la entrega de valor del producto.",
+        "Mejora de seguridad mediante la implementación de middlewares y validaciones de usuario, reforzando la protección de datos y accesos."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Análisis de sistemas",
+      "institution": "Instituto Superior De Formacion Docente Y Técnica N 2",
+      "location": "Azul, BA",
+      "start_date": "2022-03-01",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "Técnico en Electrónica",
+      "institution": "Escuela técnica N2 Vicente Pereda",
+      "location": "",
+      "start_date": "2015-01-01",
+      "end_date": "2022-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "php",
+        "javascript",
+        "sql",
+        "laravel",
+        "react",
+        "mysql",
+        "postgresql",
+        "mongodb",
+        "html",
+        "css",
+        "bootstrap"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Intermedio"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

@@ -1,0 +1,131 @@
+{
+    "personal_info": {
+        "first_name": "José Elías",
+        "last_name": "Mena Fonseca",
+        "email": "jmenafonseca28@gmail.com",
+        "phone": "+506 8557-2383",
+        "location": {
+            "country": "Costa Rica",
+            "city": "Guápiles",
+            "state": "Limón"
+        },
+        "linkedin": "https://linkedin.com/in/eliasmena2811",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un estudiante universitario me gusta la tecnología y el desarrollo de software. Actualmente estoy cursando el ultimo año en Informática Empresarial en la Universidad de Costa Rica, donde aprendi cosas como programación, bases de datos y análisis de sistemas."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Bachillerato en Informática Empresarial",
+            "institution": "Universidad de Costa Rica",
+            "location": "Guápiles, Limón, Costa Rica",
+            "start_date": "2019-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "c",
+                "java",
+                "python",
+                "javascript",
+                "typescript",
+                "php",
+                "c#",
+                "angular",
+                "react",
+                "laravel",
+                "ionic",
+                "dot-net-core",
+                "spring-boot",
+                "express",
+                "ubuntu",
+                "windows",
+                "redes",
+                "configuración-de-routers",
+                "switches",
+                "vlans"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "pasión-por-aprender",
+                "actitud-positiva",
+                "honesto"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "mysql",
+                "sql-server"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Introduction to Cybersecurity",
+            "issuing_organization": "Cisco Network Academy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Python Essentials 1",
+            "issuing_organization": "Cisco Network Academy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Scrum Foundation Professional Certificate (SFPC) Español",
+            "issuing_organization": "Certiprof",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Business Intelligence Foundation Professional Certification - BIFPC",
+            "issuing_organization": "Certiprof",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "96972102"
+        }
+    ],
+    "projects": [
+        {
+            "name": "BackIngE-N",
+            "description": "Backend de un proyecto sobre IPTV en .Net Core 8",
+            "technologies": [],
+            "url": "https://github.com/jmenafonseca28/backlngEN"
+        },
+        {
+            "name": "Vacacionistas CR",
+            "description": "Front-Back de un proyecto funcional sobre un sitio web sobre venta de paquetes turísticos",
+            "technologies": [],
+            "url": "https://gitlab.com/gestion2024/grupo_1_2024"
+        },
+        {
+            "name": "Prestamo de recursos",
+            "description": "Front-Back de un proyecto sobre un sitio web para la administración y manejo de recursos de la UCR",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Native"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

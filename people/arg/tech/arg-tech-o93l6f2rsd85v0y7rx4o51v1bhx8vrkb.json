@@ -1,0 +1,93 @@
+{
+  "personal_info": {
+    "first_name": "Yoel",
+    "last_name": "Del Buono",
+    "email": "delbuonoyoel@gmail.com",
+    "phone": "+5492281312802",
+    "location": {
+      "country": "",
+      "city": "",
+      "state": ""
+    },
+    "linkedin": "",
+    "website": "",
+    "portfolio": "",
+    "summary": "Soy técnico en computación con orientación al desarrollo backend en formación, con conocimientos en JavaScript, Python y Java, bases de datos como PostgreSQL y MongoDB, y metodologías ágiles como Scrum. He trabajado en proyectos personales, como la creación de APIs REST y pequeñas aplicaciones backend. Apasionado por el desarrollo de soluciones eficientes y escalables, y en constante aprendizaje de nuevas tecnologías y mejores prácticas. Listo para aplicar mis habilidades y aprender en entornos profesionales."
+  },
+  "work_experience": [],
+  "education": [
+    {
+      "degree": "Técnico en Informática Personal y Profesional",
+      "institution": "Escuela Técnica N2 Vicente Pereda",
+      "location": "Azul",
+      "start_date": "2011-01-01",
+      "end_date": "2015-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Ingeniería de Sistemas",
+      "institution": "Universidad Nacional del Centro",
+      "location": "",
+      "start_date": "2016-01-01",
+      "end_date": "2019-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "javaScript",
+        "python",
+        "java",
+        "c++",
+        "postgresql",
+        "mysql",
+        "mongodb",
+        "laravel",
+        "node",
+        "git",
+        "scrum"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {}
+  },
+  "certifications": [
+    {
+      "name": "Back-end con Laravel",
+      "issuing_organization": "Ademass",
+      "issue_date": "2025-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Desarrollo FullStack con React y Node",
+      "issuing_organization": "Fullstack Open",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Organizador de paquetes",
+      "description": "Un sistema para organizar las entregas de paquetes con el objetivo de aumentar la seguridad y la eficiencia desde que se cargan en el transporte hasta su entrega.",
+      "technologies": ["react", "bootstrap", "nodejs", "mongodb"],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "B1"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

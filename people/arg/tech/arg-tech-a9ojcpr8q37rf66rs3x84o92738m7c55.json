@@ -3,87 +3,101 @@
         "first_name": "Juan Francisco",
         "last_name": "Bue",
         "email": "buejuanfrancisco@gmail.com",
-        "phone": "+543413232826",
+        "phone": "+54 3413232826",
         "location": {
             "country": "Argentina",
             "city": "Rosario",
             "state": ""
         },
-        "linkedin": "",
-        "website": "",
+        "linkedin": "https://www.linkedin.com/in/juan-francisco-bue-122012338/",
+        "website": "https://github.com/JFranciscoBue", 
         "portfolio": "",
-        "summary": "Soy un apasionado desarrollador web full stack con una gran curiosidad por aprender y mejorar mis habilidades. Me encanta diseñar y construir aplicaciones web innovadoras y escalables que brinden una excelente experiencia al usuario. Con una sólida base en HTML, CSS, JavaScript y frameworks como React y Node.js, estoy listo para unirme a un equipo dinámico y colaborativo donde pueda aplicar mis habilidades y aprender de los demás. Me caracterizo por ser una persona proactiva, autodidacta y con una gran capacidad para resolver problemas. Estoy ansioso por comenzar mi carrera como desarrollador web full stack y contribuir al éxito de un equipo."
+        "summary": "Desarrollador Web Full Stack con experiencia académica en Soy Henry, donde desarrollé cuatro proyectos, aplicando tecnologías como NestJS, ExpressJS, NodeJS, PostgreSQL, MongoDB, TypeORM, TypeScript y ReactJS. Me destaco por mi compromiso, pensamiento crítico y curiosidad, lo que me permite adaptarme rápidamente a nuevas tecnologías y resolver problemas de manera efectiva."
     },
-    "work_experience": [
-        {
-            "job_title": "Desarrollador Web Full Stack",
-            "company": "Proyectos Individuales",
-            "location": "",
-            "start_date": "2024-03-01",
-            "end_date": "2025-01-31",
-            "currently_working": false,
-            "responsibilities": [
-                "Desarrollo de aplicaciones web con HTML, CSS y JavaScript.",
-                "Utilización de frameworks como ExpressJS, NestJS, y ReactJS.",
-                "Implementación de librerías como Axios y Dotenv.",
-                "Trabajo con bases de datos MongoDB y PostgreSQL integradas con Mongoose y TypeORM."
-            ],
-            "achievements": [],
-            "repository_url": ""
-        }
-    ],
+    "work_experience": [],
     "education": [
         {
-            "degree": "Especialización en Back End",
-            "institution": "Soy Henry",
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
             "location": "",
-            "start_date": "2024-01-01",
-            "end_date": "2025-12-31",
-            "hours": 0
-        },
-        {
-            "degree": "Bachiller en Ciencias Sociales y Humanidades",
-            "institution": "Instituto Virgen del Rosario",
-            "location": "",
-            "start_date": "2016-01-01",
-            "end_date": "2020-12-31",
+            "start_date": "2024-03-01",
+            "end_date": "2025-03-31",
             "hours": 0
         }
     ],
     "skills": {
         "keywords": {
             "technical": [
-                "html",
-                "css",
                 "javascript",
                 "typescript",
-                "react",
-                "expressjs",
                 "nestjs",
-                "mongodb",
+                "reactjs",
+                "expressjs",
+                "nodejs",
                 "postgresql",
-                "apis"
+                "mongodb",
+                "typeorm",
+                "mongoose",
+                "html",
+                "css"             
             ],
             "soft": [
-                "proactivo",
-                "buen-trabajo-en-equipo",
-                "buena-comunicacion"
+                "atención-al-cliente",
+                "comunicación",
+                "pensamiento-crítico",
+                "adaptabilidad",
+                "resolución-de-problemas"
             ],
             "tools": [
-                "mongoose",
-                "typeorm",
                 "axios",
-                "dotenv"
+                "webpack",
+                "bootstrap",
+                "tailwind-css",
+                "git",
+                "slack",
+                "canva",
+                "scrum"
             ]
         },
-        "detailed": {
-            "technical": {},
-            "soft": {}
-        }
+        "detailed": {}
     },
     "certifications": [],
-    "projects": [],
-    "languages": [],
+    "projects": [
+        {
+            "name": "Cartera-de-Películas",
+            "description": "Aplicación que gestiona la cartera de películas, permitiendo a los usuarios agregar películas vistas y calificarlas. Es una plataforma pública que no requiere autenticación.",
+            "technologies": ["html", "javascript", "css", "webpack", "axios", "nodejs", "expressjs", "mongodb"],
+            "url": "https://github.com/JFranciscoBue/Cartera-de-Películas"
+        },
+        {
+            "name": "Gestion-De-Turnos",
+            "description": "Aplicación para solicitar y gestionar turnos médicos en una clínica. Permite a los usuarios reservar y cancelar turnos, con autenticación para mayor seguridad.",
+            "technologies": ["react", "vitejs", "axios", "nodejs", "expressjs", "postgresql"],
+            "url": "https://github.com/JFranciscoBue/Gestion-De-Turnos"
+        },
+        {
+            "name": "API_Ecommerce",
+            "description": "Aplicación backend para un ecommerce, desarrollada como una REST API para gestionar productos, usuarios y pedidos.",
+            "technologies": ["nestjs", "postgresql"],
+            "url": "https://github.com/JFranciscoBue/API_Ecommerce"
+        },
+        {
+            "name": "MobileCer",
+            "description": "Sistema de gestión de reparación de dispositivos electrónicos, diseñado para uso interno del personal y para el seguimiento de órdenes de reparación por parte de los clientes desde cualquier lugar.",
+            "technologies": ["nextjs","tailwind-css","nestjs","postgresql"],
+            "url": "https://pffront-fawn.vercel.app/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
     "volunteer_experience": [],
     "publications": [],
     "references": []

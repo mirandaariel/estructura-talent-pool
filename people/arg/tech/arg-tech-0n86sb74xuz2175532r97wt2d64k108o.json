@@ -1,0 +1,168 @@
+{
+    "personal_info": {
+        "first_name": "Maximiliano",
+        "last_name": "Rivera Mendes",
+        "email": "maximiliano.riveramendes@gmail.com",
+        "phone": "TI4038-0741",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "https://minipomy.github.io",
+        "portfolio": "",
+        "summary": "Soy un profesional proactivo dispuesto a asumir nuevos desafíos y con fuerte orientación al trabajo en equipo y cooperativo. Continuar incrementando mis habilidades en áreas de IT, relacionadas a sectores técnicos de sistemas, áreas de desarrollo y soporte a la producción, siendo mi expectativa profesional a futuro, alcanzar áreas referidas a ciberseguridad, hacking y desarrollo seguro."
+    },
+    "work_experience": [
+        {
+            "job_title": "Técnico Informático",
+            "company": "CONICET REPROSEMYX S.A.",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2020-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Utilización de utilidades como XAMPP.",
+                "Optimización de recursos y soluciones inmediatas en soporte técnico.",
+                "Soporte en base de datos y soporte en equipos de laboratorio y computacionales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de Sistemas",
+            "company": "HAVAS MEDIA",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Administración, soporte y gestión de Windows Server (Cloud) y MacOS.",
+                "Administración de usuarios Active Directory, Azure AD - Intune.",
+                "Creación y gestión de dominios.",
+                "Gestión de tickets en Jira Service Desk / Service Now.",
+                "Administración y deploy de GPOs.",
+                "Soporte a la producción, seguimiento de tickets Jira, escalamientos NV1/NV2.",
+                "Análisis funcional, detección y gestión de errores en bases de datos, Oracle EBS."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Application Support Analyst",
+            "company": "COGNIZANT",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Administración, gestión y soporte de sistemas operativos Linux (RHEL).",
+                "Administración de middleware y bases de datos.",
+                "Administración y gestión de herramientas TIBCO EBX y TIBCO MDM.",
+                "Administración y gestión de bases de datos (Oracle), AWS S3 y EC2 como parte de la infraestructura Cloud."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachillerato en Economía",
+            "institution": "Instituto Monseñor Esandi",
+            "location": "",
+            "start_date": "2008-01-01",
+            "end_date": "2015-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Sistemas",
+            "institution": "Universidad Nacional de Quilmes",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Avanzado en Desarrollo y Sistemas",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Carrera Android Developer Engineer",
+            "institution": "Educación IT",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Carrera Cyber Security Architect",
+            "institution": "Educación IT",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "python",
+                "c#",
+                "kotlin",
+                "react",
+                "node.js",
+                "express.js",
+                "flask",
+                ".net",
+                "swagger",
+                "sequelize",
+                "typeorm",
+                "sql-express",
+                "mysql",
+                "mongodb",
+                "git",
+                "github",
+                "unittest",
+                "api-test",
+                "mobile-testing",
+                "mobsf",
+                "ws12"
+            ],
+            "soft": [],
+            "tools": [
+                "azure-cloud",
+                "visual-studio",
+                "android-studio",
+                "jira",
+                "docker",
+                "ansible"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

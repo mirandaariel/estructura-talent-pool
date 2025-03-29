@@ -1,0 +1,163 @@
+{
+    "personal_info": {
+        "first_name": "Daniel",
+        "last_name": "Bolivar",
+        "email": "danielestehanbolivar@gmail.com",
+        "phone": "+57 313 731 9343",
+        "location": {
+            "country": "Colombia",
+            "city": "Bogota",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/daniel-esteban-bolivar-479399226",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Admin Support-Windows Server",
+            "company": "Softtek Renovation",
+            "location": "",
+            "start_date": "2023-10-02",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Administration of Windows/Linux servers both physical and in the cloud (AWS, Azure).",
+                "Administration and user creation in active directory.",
+                "Administration and access to shared folders.",
+                "Support through ticketing and mail platform."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Sr. Asocc - Help Desk",
+            "company": "Sutherland Colombia (SGS Colombia Holding S.A.S)",
+            "location": "",
+            "start_date": "2023-01-10",
+            "end_date": "2023-09-29",
+            "currently_working": false,
+            "responsibilities": [
+                "Assurance of compliance with SLAs and KPIs.",
+                "Management of Incident/Request processes with second level area.",
+                "Documentation in the CRM Service Now tool.",
+                "GPO policy administration.",
+                "User and computer administration with Active Directory.",
+                "Antivirus and Mcafee encryption consoles administration.",
+                "Windows updates administration through SCCM console.",
+                "Use of Azure for bitlocker and MFA encryption groups."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Senior IT Analyst Dedicated Desktop Support Help Desk",
+            "company": "Teleperformance Colombia",
+            "location": "",
+            "start_date": "2016-10-18",
+            "end_date": "2023-01-05",
+            "currently_working": false,
+            "responsibilities": [
+                "Incident management and documentation of Lans and Rcas.",
+                "Documentation of minor incidents in the CRM Service Desk.",
+                "Attention to internal customer line for failures or requirements.",
+                "Connectivity test and networks escalation to second-level.",
+                "Telephony with Avaya telephony plant management.",
+                "User administration with Active Directory.",
+                "Support for operating systems such as Windows 10, IOS, Apps O365/2016."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate Degree in Analysis and Development of Information Systems",
+            "institution": "Servicio Nacional de Aprendizaje (SENA)",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Electricity Technician",
+            "institution": "Comfenalco Technical Institute",
+            "location": "Armenia, Quindío, Colombia",
+            "start_date": "2016-07-08",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "win-10",
+                "ios",
+                "java-script",
+                "html",
+                "css",
+                "o365",
+                "networks",
+                "crm-tools",
+                "mysql"
+            ],
+            "soft": [
+                "problems-resolution",
+                "teamwork",
+                "work-under-pressure",
+                "multitask"
+            ],
+            "tools": [
+                "scrum",
+                "service-now",
+                "sccm",
+                "azure",
+                "active-directory",
+                "avaya",
+                "bitlocker",
+                "mfa"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Conversational"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Oram Bolivar Carvajal",
+            "relationship": "Family",
+            "contact": "+573172742567"
+        },
+        {
+            "name": "Diego Fernando Bolivar Coy",
+            "relationship": "Family",
+            "contact": "+573122804149"
+        },
+        {
+            "name": "Mario Andres Barreto Rodriguez",
+            "relationship": "Personal",
+            "contact": "+573183898579"
+        },
+        {
+            "name": "Yudy Briyith Barreto Campos",
+            "relationship": "Personal",
+            "contact": "+573118044897"
+        }
+    ]
+}

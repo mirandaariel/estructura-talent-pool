@@ -1,0 +1,61 @@
+{
+    "personal_info": {
+        "first_name": "Lucas",
+        "last_name": "Martin Valenzuela",
+        "email": "lucascabj2605@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/lucas-martin-valenzuela-193470268/",
+        "website": "",
+        "portfolio": "https://github.com/Lucascabj4710",
+        "summary": "Soy desarrollador Backend especializado en Java, con conocimientos en el uso del framework Spring. Domino herramientas y tecnologías como Spring Boot para la creación de APIs y Hibernate para la gestión eficiente de la persistencia de datos. Además, cuento con conocimientos en JPA, diseño de arquitecturas RESTful, y el manejo de bases de datos relacionales como MySQL"
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Tecnicatura en Analista de Sistemas",
+            "institution": "Instituto Superior Nuestra Señora de Luján del Buen Viaje",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring-boot",
+                "hibernate",
+                "mysql",
+                "jpa",
+                "restful"
+            ],
+            "soft": [],
+            "tools": [
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "API Bazar",
+            "description": "Proyecto que consiste en desarrollar una API para un bazar con el objetivo de gestionar productos, clientes y ventas. Permite realizar un CRUD completo de cada entidad, consultas específicas como productos con bajo stock o ventas del día, y generar reportes como la venta de mayor monto.",
+            "technologies": ["java", "spring-boot", "jpa", "hibernate", "mysql", "dto"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

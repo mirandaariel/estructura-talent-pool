@@ -1,0 +1,87 @@
+{
+    "personal_info": {
+        "first_name": "Jhon",
+        "last_name": "Orjuela Ruiz",
+        "email": "jhon.06.2000@hotmail.com",
+        "phone": "+573155085673",
+        "location": {
+            "country": "Colombia",
+            "city": "Villavicencio",
+            "state": "Meta",
+            "address_line": "Mz Q casa 34 San cipriano / Porfia"
+        },
+        "linkedin": "https://www.linkedin.com/in/jhon-fanor-orjuela-ruiz-16b8601ab/",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador",
+            "company": "Ignicion Games",
+            "location": "Remoto",
+            "start_date": "2023-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo backend especializado en PHP y Laravel.",
+                "Análisis de requerimientos y descomposición en tareas manejables.",
+                "Planificación y asignación de tareas al equipo.",
+                "Elaboración de diagramas y esquemas del flujo de trabajo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas",
+            "institution": "Universidad de los Llanos",
+            "location": "Villavicencio, Meta",
+            "start_date": "2019-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachillerato",
+            "institution": "Institución educativa Las Palmas",
+            "location": "Villavicencio, Meta",
+            "start_date": "",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "php",
+                "java",
+                "python",
+                "c#",
+                "javascript-html-css",
+                "laravel",
+                "spring-boot",
+                "django",
+                ".net",
+                "express",
+                "postgresql",
+                "mongodb"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "docker"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

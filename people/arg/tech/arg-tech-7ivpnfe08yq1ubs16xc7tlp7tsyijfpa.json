@@ -1,0 +1,120 @@
+{
+    "personal_info": {
+        "first_name": "Dario",
+        "last_name": "Otranto Bavio",
+        "email": "otrantodario@gmail.com",
+        "phone": "+5491160367944",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linktr.ee/chesog",
+        "website": "",
+        "portfolio": "",
+        "summary": "Hello! My name is Dario Otranto. I am a Game Development student with a passion for programming and video games. I specialize in C# and C++, and I have experience working with game engines such as Unity and Godot. I am eager to start my career in the gaming industry and contribute my skills to exciting projects."
+    },
+    "work_experience": [
+        {
+            "job_title": "Developer",
+            "company": "Chimi Games",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "In charge of developing from scratch a mobile game.",
+                "Develop server backend with PlayFab and Docker.",
+                "Create gameplay mechanics for a casino card game.",
+                "Develop in-game chat mechanic.",
+                "Implement lobby for match connection.",
+                "Create in-game animations.",
+                "Create in-game player movement.",
+                "Implement connection reward system.",
+                "Develop in-game shop and currency system.",
+                "Develop accessibility options menu."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Degree in Videogame Development",
+            "institution": "I.M.A.G.E Campus",
+            "location": "",
+            "start_date": "2022-02-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Course in C++ and C# Programming",
+            "institution": "I.M.A.G.E Campus",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "videogame-development",
+                "c#",
+                "c++",
+                "unity-engine",
+                "godot",
+                "git",
+                "perforce",
+                "scrum",
+                "kanban"
+            ],
+            "soft": [
+                "technical-mind",
+                "interdiciplinary-communication"
+            ],
+            "tools": [
+                "visual-studio",
+                "jetbrains-rider"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "D.S.M",
+            "description": "Procedural Map Generation, Design Patterns Implementation",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "F.S.M - Revencore: Fallen into Dark",
+            "description": "Develop Combat System, Lead Development Team",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Purrfect Delivery",
+            "description": "UI/UX Development, Grid Generation",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Advanced"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

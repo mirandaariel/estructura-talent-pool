@@ -1,0 +1,164 @@
+{
+    "personal_info": {
+        "first_name": "Juan",
+        "last_name": "Cruz Infante",
+        "email": "juaninfantejj@gmail.com",
+        "phone": "1 143856137879",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/juancruzinfante",
+        "website": "https://juancruzinfante.vercel.app",
+        "portfolio": "https://juancruzinfante.vercel.app",
+        "summary": "Desarrollador web Full Stack con más de 5 años de experiencia creando aplicaciones modernas y eficientes en JavaScript, Node.js, React, y bases de datos relacionales y no relacionales. Apasionado por resolver problemas complejos y mejorar la experiencia del usuario con soluciones innovadoras. Experiencia liderando proyectos, desde su planeación hasta su despliegue en entornos de producción. En constante aprendizaje."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Terraviva.com.ar",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñé y desarrollé el sitio web desde cero usando React, Node.js y MongoDB.",
+                "Implementé un panel de administración para gestionar noticias, galerías y eventos, conectando la carga de imágenes con Cloudinary.",
+                "Desplegué la aplicación en un servidor cloud utilizando Nginx, optimizando tiempos de respuesta.",
+                "Mantengo el sitio con nuevas funcionalidades, aumentando la retención de usuarios en un 30%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Clubcyt.com",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Cree el sitio utilizando Next.js, implementando NextAuth para la gestión de sesiones seguras y personalizadas.",
+                "Desarrollé una API utilizando el App Router de Next.js para manejar el backend y frontend de manera eficiente.",
+                "Implementé un sistema de pagos de suscripciones utilizando la API de Mercado Pago, gestionando la sincronización con la base de datos mediante webhooks para garantizar la actualización en tiempo real del estado de las suscripciones.",
+                "Creé formularios dinámicos y mejoras en el panel de administración."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Backend - Pasantía",
+            "company": "Kiura",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé APIs RESTful con Node.js y TypeScript, optimizando el rendimiento y la integración con el frontend de una aplicación móvil.",
+                "Implementé flujos seguros de login, registro y recuperación de contraseñas utilizando JWT para autenticación basada en tokens.",
+                "Aseguré la validación de datos y la robustez de las entradas con Joi y Zod, minimizando errores y vulnerabilidades.",
+                "Diseñé y desarrollé la funcionalidad de chats en tiempo real utilizando Socket.IO.",
+                "Configuré Stripe para gestionar pagos recurrentes y suscripciones, garantizando una integración fluida y segura con la API.",
+                "Implementé la metodología DAO para estructurar el acceso a datos, mejorando la organización y el mantenimiento del código.",
+                "Trabajé bajo el marco de Scrum, colaborando con el equipo mediante tableros de Trello y Jira."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Superior en Análisis de Sistemas",
+            "institution": "",
+            "location": "",
+            "start_date": "2022-12-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "",
+            "location": "",
+            "start_date": "2021-12-01",
+            "end_date": "2022-08-31",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Sistemas de Informacion",
+            "institution": "Universidad Nacional de Santiago del Estero",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Programacion Web",
+            "institution": "IAC",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2015-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "Instituto Cultural Anglo Argentino",
+            "location": "",
+            "start_date": "2008-01-01",
+            "end_date": "2014-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "next.js",
+                "html5",
+                "css3",
+                "tailwind-css",
+                "bootstrap",
+                "node.js",
+                "express",
+                "redis",
+                "php",
+                "mongodb",
+                "mysql",
+                "postgresql",
+                "firefoxe",
+                "integración-de-apis-rest",
+                "socket.io",
+                "aws",
+                "stripe"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "docker",
+                "cl/cd",
+                "pm2",
+                "nginx",
+                "agile/scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

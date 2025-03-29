@@ -1,0 +1,124 @@
+{
+    "personal_info": {
+        "first_name": "Benjamin",
+        "last_name": "Sanmartino",
+        "email": "sanmartinobenjamin@gmail.com",
+        "phone": "+34 622055112",
+        "location": {
+            "country": "Spain",
+            "city": "La Pobla de Vallbona",
+            "state": "Valencia"
+        },
+        "linkedin": "https://www.linkedin.com/in/benjamin-sanmartino-87733b274/",
+        "website": "https://benjamin-sanmartino.azurewebsites.net/",
+        "portfolio": "",
+        "summary": "Soy un estudiante de .NET Autodidacta. Me gusta mantenerme en constante aprendizaje sobre lo que rodea a esta tecnología. De momento solo cuento con experiencia con mis propios proyectos. Me esfuerzo en cada uno de ellos en demostrar lo que sé y lo aprendido en todos los cursos que he hecho. Sé trabajar en equipo, tanto para comunicarme como para escuchar criticas que ayuden a mejorar el entorno."
+    },
+    "work_experience": [
+        {
+            "job_title": "Developer",
+            "company": "Proyecto de Práctica",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrolle y optimice la arquitectura del Back-end. Garantizando una buena utilidad de la aplicación, creando CRUD'S para mantener el uso independiente del administrador de esta.",
+                "Desarrolle una estructura de archivos en capas para mantener las tareas de cada parte de la aplicación distribuida.",
+                "Desarrolle un Front-end sencillo procurando la funcionalidad. Este da un uso correcto a todas las funcionalidades. Siendo intuitivo para el uso de esta.",
+                "Desarrolle una base de datos sencilla utilizando SQL Server, relacionando tablas y consultando las mismas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Developer",
+            "company": "Proyecto de Práctica",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrolle un sistema back-end mantenible y escalable. Documentado para el futuro de la aplicación.",
+                "Utilicé Entity Framework para agilizar la creación de modelos y la base de datos, utilizando relaciones directamente creadas en código y pasadas a la base de datos.",
+                "Organicé el proyecto en capas para mantener el orden de archivos dentro del mismo. Además dividí en áreas diversas para dividir la vista cliente y admin.",
+                "Utilicé Identity con cuentas individuales para conceder acceso a las partes administrativas de la aplicación.",
+                "Desarrolle un front-end algo básico pero justo para las funcionalidades, utilizando Bootstrap para dejar unos estilos más agradables."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Developer",
+            "company": "Proyecto de Práctica",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Esta aplicación aún la estoy desarrollando, voy a poner a prueba todos mis conocimientos creando un proyecto funcional para una empresa.",
+                "Deberá contener un Front-end agradable y un back-end con CRUD'S para garantizar la administración de la página independiente a desarrolladores.",
+                "Crearé además una sólida estructura para la posible escalación de la misma."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "institution": "MAXI PROGRAMA",
+            "location": "Virtual",
+            "start_date": "2024-05-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "UDEMY",
+            "location": "Virtual",
+            "start_date": "2025-01-01",
+            "end_date": "2025-02-28",
+            "hours": 0
+        },
+        {
+            "degree": "ESO",
+            "institution": "IES LA VEREDA",
+            "location": "La Pobla de Vallbona",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "asp.net",
+                "sql-server",
+                "c#",
+                "mvc",
+                "entity-framework",
+                "api-rest",
+                "repository-pattern",
+                "bootstrap",
+                "identity"
+            ],
+            "soft": [
+                "teamwork",
+                "communication",
+                "listening"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

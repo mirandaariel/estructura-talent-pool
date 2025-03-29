@@ -1,0 +1,99 @@
+{
+    "personal_info": {
+        "first_name": "Matias",
+        "last_name": "Gonzalez",
+        "email": "gonzalezmatias879@gmail.com",
+        "phone": "1137799589",
+        "location": {
+            "country": "Argentina",
+            "city": "Longchamps",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/matygonza",
+        "website": "https://www.github.com/MatyGonza",
+        "portfolio": "",
+        "summary": "Estudiante comprometido de la Tecnicatura en Programación en la UNAB, con formación en diversos cursos complementarios como 'Codo a Codo' (Programación Inicial, Full Stack Python), Oracle y Alura ONE - Oracle Next Education. Conocimientos en bases de datos, lenguaje Java y su framework Spring Boot. En constante aprendizaje y desarrollo de habilidades técnicas, con gran capacidad para resolver problemas y adaptarse a nuevos desafíos. Busco oportunidades para aplicar y expandir mis conocimientos en el ámbito de la programación."
+    },
+    "work_experience": [
+        {
+            "job_title": "Python Developer",
+            "company": "CodificarDev",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollamos un bot en Telegram, utilizando la librería Telebot.",
+                "Utilizamos FastApi para la realización de una API que administra los datos del bot.",
+                "Utilizamos una base de datos no relacional MongoDB, con la librería Beanie para usar la asincronia.",
+                "Utilizamos Docker para desplegar los servicios del bot y la base de datos.",
+                "Utilizamos Trello para organizar los trabajos.",
+                "Utilizamos método Scrum con reuniones y sprints semanales.",
+                "Utilizamos Git y Github para el control de versiones en el proyecto."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Programación",
+            "institution": "UNAB",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Cs. Naturales",
+            "institution": "San Luis Gonzaga",
+            "location": "",
+            "start_date": "2008-01-01",
+            "end_date": "2010-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "fastapi",
+                "java",
+                "sprigboot",
+                "mongodb"
+            ],
+            "soft": [
+                "comunicación",
+                "solución-de-problemas"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Programa Oracle Next Education",
+            "issuing_organization": "Oracle",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": ""
+        },
+        {
+            "language": "Spanish",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,118 @@
+{
+    "personal_info": {
+        "first_name": "Emanuel",
+        "last_name": "Garcia",
+        "email": "mr.emanuel.garcia93@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/emanuel-garc%C3%ADa-226108116/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Experienced full-stack web developer with a strong background in business administration. Proficient in Node.js, JavaScript, TypeScript, React, Redux, Sequelize, Express, PostgreSQL, Prisma, and MongoDB. Skilled in agile methodologies, data structures, algorithms, GIT, and CSS frameworks like Tailwind. Effective communicator and collaborative team player. Detail-oriented with a knack for identifying errors. Thrives in fast-paced work environments. Passionate about career opportunities in the IT sector."
+    },
+    "work_experience": [
+        {
+            "job_title": "Fullstack Developer",
+            "company": "LT Materiales y Herramientas",
+            "location": "Córdoba, Argentina",
+            "start_date": "2024-05-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Led development of e-commerce website, handling design to deployment.",
+                "Built responsive site using Next.js, React, and TypeScript.",
+                "Integrated Sanity CMS for content updates and data management.",
+                "Used Tailwind CSS for seamless UX across devices.",
+                "Managed version control with Git throughout the project."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Celebrae",
+            "location": "Córdoba, Argentina",
+            "start_date": "2024-06-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed and maintained high-performance e-commerce website.",
+                "Styled responsive UI components with Tailwind CSS.",
+                "Integrated APIs and managed state with React hooks.",
+                "Collaborated with team using Git and GitHub."
+            ],
+            "achievements": [],
+            "repository_url": "https://celebrae.com/"
+        },
+        {
+            "job_title": "Administration Assistant",
+            "company": "Suits Admin Management",
+            "location": "Sydney, Australia",
+            "start_date": "2021-04-01",
+            "end_date": "2021-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Worked in a tech startup, developed and maintained e-commerce website.",
+                "Designed UI, ensured UX across devices with Tailwind CSS.",
+                "Integrated API and used React hooks for state management.",
+                "Collaborated with a team in alignment with business objectives."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Budgeting Assistant",
+            "company": "Helacor S.A.",
+            "location": "Córdoba, Argentina",
+            "start_date": "2018-03-01",
+            "end_date": "2019-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Provided support to financial team, recognized by senior management.",
+                "Internship extended for 12 months, further extended by 3 months."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "node.js",
+                "javascript",
+                "typescript",
+                "react",
+                "redux",
+                "sequelize",
+                "express",
+                "postgresql",
+                "prisma",
+                "mongodb"
+            ],
+            "soft": [
+                "communication",
+                "teamwork",
+                "attention-to-detail"
+            ],
+            "tools": [
+                "git",
+                "tailwind"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

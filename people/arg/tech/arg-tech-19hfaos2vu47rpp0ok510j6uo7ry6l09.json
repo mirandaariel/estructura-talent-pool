@@ -1,0 +1,80 @@
+{
+  "personal_info": {
+    "first_name": "Freddy",
+    "last_name": "Bolívar",
+    "email": "freddybolivar645@gmail.com",
+    "phone": "+58 0414-276-3619",
+    "location": {
+      "country": "",
+      "city": "Caracas",
+      "state": ""
+    },
+    "linkedin": "https://linkedin.com/in/freddy-bolivar-backend645",
+    "website": "",
+    "portfolio": "https://portafolio-uiib.onrender.com",
+    "summary": "Profesional de la programación con enfoque en el desarrollo Backend utilizando Python. Experiencia en el trabajo con frameworks como Django y Flask. Habilidades en la resolución de problemas y el trabajo en equipo. Interés en la mejora continua y el aprendizaje de nuevas tecnologías."
+  },
+  "work_experience": [],
+  "education": [
+    {
+      "degree": "",
+      "institution": "UPEL. Instituto Pedagógico de Caracas",
+      "location": "Caracas, Venezuela",
+      "start_date": "2016-01-01",
+      "end_date": "2024-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "html5",
+        "css",
+        "javascript",
+        "python",
+        "django",
+        "flask",
+        "fastapi",
+        "postgresql"
+      ],
+      "soft": [
+        "trabajo-en-equipo",
+        "asertividad",
+        "empatía",
+        "proactivo",
+        "eficaz"
+      ],
+      "tools": [
+        "scrapy",
+        "selenium",
+        "beautiful-soup"
+      ]
+    },
+    "detailed": {}
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Chat-Rooms",
+      "description": "Esta aplicación permite que en un mismo espacio creados por los usuarios (llamados Rooms), puedan interactuar entre ellos mediante mensajes.",
+      "technologies": ["html5", "css", "bootstrap", "javascript", "socket.io", "flask"],
+      "url": ""
+    },
+    {
+      "name": "PDF-Tools",
+      "description": "Manipular archivos PDF para su edición o extraer información de su contenido.",
+      "technologies": ["html5", "bootstrap", "flask"],
+      "url": ""
+    },
+    {
+      "name": "Carrito de Compras",
+      "description": "Esta aplicación simula la interacción de un usuario en una tienda en línea en donde agrega productos a su carrito de compras.",
+      "technologies": ["django", "bootstrap"],
+      "url": ""
+    }
+  ],
+  "languages": [],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}
