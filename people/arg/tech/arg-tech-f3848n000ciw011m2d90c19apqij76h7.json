@@ -1,0 +1,120 @@
+{
+    "personal_info": {
+        "first_name": "Fernando",
+        "last_name": "Diaz",
+        "email": "fdiaz4823@gmail.com",
+        "phone": "+542615133452",
+        "location": {
+            "country": "Argentina",
+            "city": "Guaymallén",
+            "state": "Mendoza"
+        },
+        "linkedin": "https://www.linkedin.com/in/fernandodiaz01",
+        "website": "",
+        "portfolio": "https://github.com/FernandoDiaz01",
+        "summary": "Hola, mi nombre es Fernando Diaz, estudiante de Desarrollo de Software. Estudié psicología durante 2 años en época de pandemia, donde también me adentré en la programación. Decidí dedicarme solamente a esto de manera autodidacta siendo eso mi mayor virtud, me gusta indagar, investigar y seguir aprendiendo constantemente. Luego de a poco fui aprendiendo sobre Frontend usando React donde realice diferentes proyectos individuales. Despues decidí ingresar al programa One con especialización en Back End para poder complementar mi formación. Tengo experiencia en desarrollo web y bases de datos MySQL, y he trabajado en proyectos personales que me han permitido mejorar mis habilidades técnicas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Kiura.co",
+            "location": "Mendoza, Argentina",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Me encargué de la optimización de modales en un proyecto desarrollado con React, mejorando la escalabilidad y el rendimiento del código existente.",
+                "Implementé buenas prácticas de desarrollo, refactorizando componentes para que sean más reutilizables y eficientes, y asegurando una estructura de código más limpia y mantenible."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "ScreenMatch",
+            "location": "Mendoza, Argentina",
+            "start_date": "2022-02-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé una aplicación utilizando Java y Spring Boot, aplicando el patrón de diseño MVC.",
+                "La aplicación permite buscar libros por autor, título o género, interactuando con un frontend en React para ofrecer una experiencia de usuario dinámica y eficiente.",
+                "Implementé la persistencia de datos con JPA, creando y gestionando una base de datos que se llena automáticamente mediante la interacción con una API externa.",
+                "Durante el desarrollo, apliqué principios de programación orientada a objetos, como herencia y polimorfismo, y optimicé el procesamiento de datos mediante funciones lambda.",
+                "Además, utilicé variables de entorno para garantizar la seguridad y escalabilidad del proyecto."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Atención al Cliente",
+            "company": "",
+            "location": "Mendoza, Argentina",
+            "start_date": "2022-02-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Venta de indumentaria",
+                "Encargado de local con manejo de caja y Excel"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachillerato en Ciencias Naturales",
+            "institution": "José Vicente Zapata",
+            "location": "Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Lic. en Psicología con orientación al trabajo y manejo de grupos",
+            "institution": "Universidad de Congreso",
+            "location": "Argentina",
+            "start_date": "2020-02-01",
+            "end_date": "2022-02-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["html", "css", "javascript", "react", "java", "spring-boot", "mysql", "node.js", "express", "typescript"],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Certificado de Testing Funcional de Software",
+            "issuing_organization": "Chicos.net - The Coca Cola Company",
+            "issue_date": "2022-09-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso especializado en Backend utilizando Java con Spring boot, Spring Security, API REST",
+            "issuing_organization": "Oracle y Alura Latam - Next Education",
+            "issue_date": "2024-06-01",
+            "expiration_date": "2024-10-31",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        },
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,127 @@
+{
+    "personal_info": {
+        "first_name": "Wilson Alexander",
+        "last_name": "Alarcón Sierra",
+        "email": "alarconawilson@gmail.com",
+        "phone": "+57 3144401242",
+        "location": {
+            "country": "Colombia",
+            "city": "Bogotá",
+            "state": "D.C."
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero de Sistemas en proceso de titulación, actualmente cursando una Especialización en Analítica Aplicada a Negocios. Apasionado por la resolución de problemas y motivado para desarrollar soluciones innovadoras. Poseo experiencia en desarrollo backend con frameworks como Flask, manejo de bases de datos relacionales y no relacionales, y análisis de datos para la toma de decisiones estratégicas. Mi formación en analítica me permite transformar datos en información valiosa para optimizar procesos y generar valor en los negocios."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Pregrado en ingeniería de sistemas",
+            "institution": "Universidad de Cundinamarca",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2025-03-31",
+            "hours": 0
+        },
+        {
+            "degree": "Especialización en Analítica Aplicada a negocios",
+            "institution": "Universidad de Cundinamarca",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["python", "microsoft-365", "jupyter-notebook", "mongodb", "visual-studio-code", "postgresql"],
+            "soft": ["pensamiento-lógico-y-crítico", "resolución-de-conflictos", "análisis-de-requisitos", "ética-profesional"],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Diplomado Fundamentos de Programación en Lenguaje Python",
+            "issuing_organization": "Universidad de Antioquia",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "MATLAB fundamentos",
+            "issuing_organization": "MATLAB",
+            "issue_date": "2023-08-29",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Machine Learning con MATLAB",
+            "issuing_organization": "MATLAB",
+            "issue_date": "2023-09-18",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Deep Learning",
+            "issuing_organization": "MATLAB",
+            "issue_date": "2023-10-07",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Taller de inteligencia artificial para todos",
+            "issuing_organization": "Universidad de Cundinamarca",
+            "issue_date": "2023-10-18",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificación de Data Science Inteligencia Artificial",
+            "issuing_organization": "Universidad de Antioquia",
+            "issue_date": "2023-11-10",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificación de Visualización de datos (Power BI)",
+            "issuing_organization": "Universidad de Antioquia",
+            "issue_date": "2023-11-10",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Cómo resolver problemas y tomar decisiones con eficacia",
+            "issuing_organization": "University of California, Irvine",
+            "issue_date": "2024-07-25",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Python for Data Science",
+            "issuing_organization": "IBM",
+            "issue_date": "2024-07-25",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Web App para la Reducción de Intermediarios en el Sector Agrícola",
+            "description": "Desarrollo de una aplicación web para mejorar el comercio directo en el sector agrícola.",
+            "technologies": ["Flask", "PostgreSQL", "HTML", "CSS", "JavaScript"],
+            "url": ""
+        },
+        {
+            "name": "Análisis de Viabilidad para EmotiMate",
+            "description": "Proyectos de herramientas digitales para la gestión emocional.",
+            "technologies": ["Python", "pandas", "NumPy"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

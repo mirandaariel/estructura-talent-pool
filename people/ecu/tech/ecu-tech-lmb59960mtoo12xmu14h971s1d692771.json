@@ -1,0 +1,165 @@
+{
+    "personal_info": {
+        "first_name": "Sebastian",
+        "last_name": "Zhunaula",
+        "email": "zhunaulasebastian31@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Ecuador",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/devsebastian44",
+        "website": "https://beacons.ai/devsebastian44",
+        "portfolio": "",
+        "summary": "Soy programador con experiencia desde los 13 años, desarrollando habilidades en lógica y resolución de problemas. A lo largo del tiempo, me he especializado en ciberseguridad, hacking ético y diseño gráfico, además de profundizar en diversas áreas de la programación, como desarrollo de software, automatización de procesos y creación de herramientas para la seguridad de sistemas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Castimotors",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñé y desarrollé el sitio web de castimotors.netlify.app, una plataforma especializada en servicios de mecánica general.",
+                "Implementé una interfaz intuitiva y optimizada para la experiencia del usuario, asegurando un diseño responsive y un rendimiento eficiente.",
+                "Incorporé buenas prácticas de seguridad web y optimización SEO para mejorar la visibilidad y accesibilidad del sitio."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "MarketGeniusPro",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y desarrollé el sitio web de marketgeniuspro.netlify.app, una plataforma educativa enfocada en cursos de Programación, Ciberseguridad, Diseño Gráfico y Ofimática.",
+                "Implementé una estructura escalable con una interfaz intuitiva y responsive, optimizando la experiencia del usuario.",
+                "Apliqué estrategias de seguridad web y SEO para mejorar la protección de datos y la visibilidad en motores de búsqueda."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "bl4ck44",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y desarrollé el sitio web de bl4ck44.github.io, una plataforma especializada en artículos sobre ciberseguridad, hacking ético, análisis de malware y pentesting.",
+                "Implementé un diseño estructurado y responsive, optimizando la navegación y accesibilidad.",
+                "Integré medidas avanzadas de seguridad web para la protección de contenido y fortalecimiento contra ataques cibernéticos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de Seguridad Informática",
+            "company": "Korsaka",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Realicé un análisis exhaustivo de vulnerabilidades en el sitio web de korsaka.com, especializado en gaming.",
+                "Identifiqué posibles vectores de ataque, incluyendo problemas de seguridad en la gestión de contraseñas y exposición a inyecciones SQL.",
+                "Propuse y implementé medidas correctivas para fortalecer la seguridad general del sitio."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de Seguridad Informática",
+            "company": "Pinal Chess",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Evalué las vulnerabilidades de seguridad en ajedrezpinal.com, un sitio web dedicado al ajedrez.",
+                "Detecté fallos relacionados con la protección de datos sensibles y la seguridad en las comunicaciones entre el servidor y los usuarios.",
+                "Sugerí soluciones para mitigar riesgos, incluyendo la implementación de cifrado SSL/TLS y mejoras en la validación de entradas de usuario."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": ["html5", "css", "js", "python", "bash-scripting"],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "De cero a Full Stack",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Programación en C Sharp",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Universidad Python",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Base de Datos MySQL",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Master in Cyber Security - Power Bundle",
+            "issuing_organization": "CIP Cyber",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Introducción a la ciberseguridad",
+            "issuing_organization": "Cisco Networking Academy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Nextcloud",
+            "description": "Desarrollé un script en Bash para la instalación y configuración automatizada de Nextcloud, una plataforma de almacenamiento en la nube de código abierto.",
+            "technologies": ["bash-scripting"],
+            "url": "https://github.com/Devsebastian44/Nextcloud"
+        },
+        {
+            "name": "Sandboxed",
+            "description": "Diseñé y desarrollé Sandboxed, un entorno de pruebas aislado que facilita el análisis de malware y virus informáticos.",
+            "technologies": ["python", "bash-scripting"],
+            "url": "https://github.com/bl4ck44/Sandboxed"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

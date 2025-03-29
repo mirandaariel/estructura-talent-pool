@@ -1,0 +1,106 @@
+{
+  "personal_info": {
+    "first_name": "Franco",
+    "last_name": "Navarro",
+    "email": "francomaxnavarro@gmail.com",
+    "phone": "",
+    "location": {
+      "country": "Argentina",
+      "city": "Urdampilleta",
+      "state": ""
+    },
+    "linkedin": "",
+    "website": "",
+    "portfolio": "",
+    "summary": "Desarrollador junior con experiencia en proyectos freelance y una pasantía full stack, buscando oportunidades para continuar creciendo profesionalmente"
+  },
+  "work_experience": [
+    {
+      "job_title": "Pasante en Desarrollo Full Stack",
+      "company": "",
+      "location": "",
+      "start_date": "01-01-01",
+      "end_date": "12-31-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Trabajé en un sistema de e-commerce utilizando Java Spring Boot para el backend y H2 para la gestión de datos.",
+        "Apliqué React.js, Next.js, y Tailwind en el frontend para crear una interfaz dinámica y responsiva.",
+        "Contribuí al desarrollo de componentes y optimicé la experiencia del usuario, colaborando con el equipo y utilizando Trello para la gestión de tareas."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador Freelance",
+      "company": "",
+      "location": "",
+      "start_date": "01-01-01",
+      "end_date": "12-31-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollé una tienda en línea para remeras, creando una interfaz que facilita la navegación.",
+        "Implementé un sitio web para un café, destacando su menú y mejorando la experiencia del cliente.",
+        "Diseñé una plataforma que permite buscar propiedades en venta o alquiler.",
+        "Colaboré en un proyecto web para una peluquería, ofreciendo información de servicios y agendamiento de citas."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Diplomatura en Desarrollo Front-End",
+      "institution": "Universidad Nacional de Tres de Febrero (UNTREF)",
+      "location": "San Carlos de Bolívar",
+      "start_date": "2021-03-01",
+      "end_date": "2021-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Certificación en Desarrollo Web",
+      "institution": "TECLAB",
+      "location": "",
+      "start_date": "2021-03-01",
+      "end_date": "2021-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Certificación en Desarrollo Web Completo",
+      "institution": "Udemy",
+      "location": "",
+      "start_date": "2022-03-01",
+      "end_date": "2024-10-01",
+      "hours": 0
+    },
+    {
+      "degree": "Curso de Angular (Nueva Versión)",
+      "institution": "Udemy",
+      "location": "",
+      "start_date": "2022-03-01",
+      "end_date": "2022-10-31",
+      "hours": 40
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": ["react.js", "node.js", "mysql", "html", "angular", "css", "javascript"],
+      "soft": [],
+      "tools": ["git", "ui", "tailwind", "trello", "bootstrap"]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "A1"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

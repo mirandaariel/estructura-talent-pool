@@ -1,0 +1,151 @@
+{
+    "personal_info": {
+        "first_name": "Gonzalo",
+        "last_name": "Cano",
+        "email": "gonzalo.cano.rodriguez93@gmail.com",
+        "phone": "+34622226147",
+        "location": {
+            "country": "Spain",
+            "city": "Sevilla",
+            "state": "Andalucía"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Es mi objetivo traer proyectos a la vida. Como fullstack, desarrollo proyectos propios de un frontend así como backend valorando la flexibilidad, crecimiento constante, la optimización y la inclusión en un entorno innovador mediante un enfoque en soluciones escalables."
+    },
+    "work_experience": [
+        {
+            "job_title": "Junior Full Stack Developer",
+            "company": "Oxygen Workspace",
+            "location": "Madrid",
+            "start_date": "2024-02-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web completas desde su incepción hasta su despliegue final apoyados por un equipo de desarrolladores senior.",
+                "Despliegues en AWS (CI, CD) con un stack MERN, SASS, Typescript, REDUX, SQL, PHP, TDD.",
+                "Aplico principios SOLID y la metodología BEM para escribir código limpio, modular y escalable. Todo está creado con la idea de una interfaz de usuario clara y comprensible en mente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Supervisor",
+            "company": "British Council",
+            "location": "",
+            "start_date": "2020-07-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Lidiar con el manejo de datos y documentos.",
+                "Encargado de relaciones con clientes.",
+                "Mantenimiento de las aplicaciones usadas durante los examenes por los clientes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Junior Full Stack Developer Bootcamp",
+            "institution": "UpgradeHub",
+            "location": "",
+            "start_date": "2022-11-01",
+            "end_date": "2023-07-31",
+            "hours": 0
+        },
+        {
+            "degree": "DAW",
+            "institution": "",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "redux",
+                "sass",
+                "javascript",
+                "typescript",
+                "node",
+                "express",
+                "api-rest",
+                "testing",
+                "mongodb",
+                "sol",
+                "devops",
+                "angular",
+                "php/laravel"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "resolución-de-problemas",
+                "pensamiento-crítico",
+                "organización",
+                "adaptabilidad-y-flexibilidad"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Hospital",
+            "description": "",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Hotel Miranda",
+            "description": "",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Dashboard Hotel Miranda",
+            "description": "",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Página Tienda",
+            "description": "",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Página Fitness",
+            "description": "",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Tienda de juegos",
+            "description": "(Ongoing)",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "C2"
+        },
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

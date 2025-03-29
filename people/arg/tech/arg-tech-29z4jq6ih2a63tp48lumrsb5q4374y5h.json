@@ -1,0 +1,130 @@
+{
+    "personal_info": {
+        "first_name": "Eric",
+        "last_name": "Ibrahim",
+        "email": "lic.ericibrahim@gmail.com",
+        "phone": "+543865653191",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "I am a proactive, organized, responsible person with the ability to work as a team. My professional path is oriented towards the IT sector with a solid career backed by a unique combination of technical skills and training in psychology."
+    },
+    "work_experience": [
+        {
+            "job_title": "Digital Promoter",
+            "company": "BA Joven",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Taught courses in web development, data analysis and use of Office tools.",
+                "Taught an AI workshop with GPT-4 and taught programming."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Psychology Professor",
+            "company": "UNSTA",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Planning activities, monitoring attendance, providing study materials and using digital tools."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Clinical Psychologist",
+            "company": "Private Office",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Care for patients in person and remotely, prepare treatment plans, develop intervention programs and collaborate with interdisciplinary teams."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Developer FullStack MERN",
+            "institution": "RollingCode School Academy",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Programming Technician",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Degree in Psychology",
+            "institution": "UNSTA",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "mongo",
+                "express",
+                "react",
+                "nodejs",
+                "html",
+                "css",
+                "js",
+                "python",
+                "mysql"
+            ],
+            "soft": [
+                "decision-making",
+                "analytical-thinking",
+                "empathy",
+                "active-listening"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        },
+        {
+            "language": "French",
+            "proficiency": "Basic"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

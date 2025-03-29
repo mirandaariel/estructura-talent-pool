@@ -1,0 +1,111 @@
+{
+  "personal_info": {
+    "first_name": "Santiago Alberto",
+    "last_name": "Correa",
+    "email": "correasantil997@gmail.com",
+    "phone": "2612531367",
+    "location": {
+      "country": "Argentina",
+      "city": "",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/santiago-correa2/",
+    "website": "",
+    "portfolio": "",
+    "summary": "Soy un apasionado de la tecnología y estoy en proceso de transición al mundo de la programación. Hace unos años descubrí mi pasión por la programación y estoy listo para comenzar a aplicar mis conocimientos en el ámbito laboral, idealmente en puestos de aprendiz/junior."
+  },
+  "work_experience": [],
+  "education": [
+    {
+      "degree": "Técnico en higiene y seguridad industrial",
+      "institution": "Universidad de Mendoza",
+      "location": "",
+      "start_date": "2017-01-01",
+      "end_date": "2017-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Bachiller en economía y administración",
+      "institution": "Instituto José Manuel Estrada",
+      "location": "",
+      "start_date": "2014-01-01",
+      "end_date": "2014-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "poo",
+        "dot-net",
+        "c#",
+        "javascript",
+        "asp-dot-net"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Panadería Estela Mary",
+      "description": "Diseño y desarrollo desde cero de un sitio web estático para una panadería familiar, utilizando tecnologías como HTML5, CSS y Bootstrap.",
+      "technologies": ["html5", "css", "bootstrap"],
+      "url": ""
+    },
+    {
+      "name": "Portfolio Santiago Correa",
+      "description": "Diseño y desarrollo de un portafolio web estático utilizando HTML5, CSS y Bootstrap.",
+      "technologies": ["html5", "css", "bootstrap"],
+      "url": ""
+    },
+    {
+      "name": "SAC Ecommerce",
+      "description": "Diseño y desarrollo desde cero de un sitio web de comercio electrónico interactivo, utilizando React.js y Firebase.",
+      "technologies": ["html5", "css", "bootstrap", "react-dot-js", "jsx", "firebase"],
+      "url": ""
+    },
+    {
+      "name": "Wild Capital Ecommerce",
+      "description": "Diseño y desarrollo desde cero de un sitio web de comercio electrónico interactivo, implementando JavaScript y LocalStorage.",
+      "technologies": ["html5", "css", "bootstrap", "javascript"],
+      "url": ""
+    },
+    {
+      "name": "Gestor de artículos",
+      "description": "APP de escritorio que simula ser un gestor de artículos de un E-commerce, construida con .NET framework, SQL y C#.",
+      "technologies": ["dot-net-framework", "c#", "sql"],
+      "url": ""
+    },
+    {
+      "name": "Web Pokémon",
+      "description": "Diseño y desarrollo de una web construida en .NET framework con C# para ver y administrar Pokémons.",
+      "technologies": ["dot-net-framework", "c#", "asp-dot-net", "css", "bootstrap", "sql", "sql-server"],
+      "url": ""
+    },
+    {
+      "name": "SAC-NET | Catálogo de artículos",
+      "description": "Diseño y desarrollo de una web para ver y administrar artículos electrónicos, construida en .NET framework con C#.",
+      "technologies": ["dot-net-framework", "c#", "asp-dot-net", "css", "bootstrap", "sql", "sql-server"],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Medio"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

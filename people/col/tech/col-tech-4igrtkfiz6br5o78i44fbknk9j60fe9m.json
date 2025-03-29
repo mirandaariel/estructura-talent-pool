@@ -1,0 +1,151 @@
+{
+  "personal_info": {
+    "first_name": "Juan Camilo",
+    "last_name": "Aragón García",
+    "email": "aragon.juan@correounivalle.edu.co",
+    "phone": "+57 3122796522",
+    "location": {
+      "country": "Colombia",
+      "city": "Guadalajara de Buga",
+      "state": "Valle del Cauca"
+    },
+    "linkedin": "https://www.linkedin.com/in/juan-camilo-aragon-garcia-b02558209/",
+    "website": "",
+    "portfolio": "https://github.com/algorritmo",
+    "summary": "Soy un ingeniero en sistemas con habilidades personales y profesionales sólidas para trabajar en equipo, enfocado en el análisis y desarrollo de software."
+  },
+  "work_experience": [
+    {
+      "job_title": "Auxiliar y Monitor de Cómputo",
+      "company": "Universidad Antonio Nariño",
+      "location": "Guadalajara de Buga, Valle del Cauca",
+      "start_date": "2016-01-01",
+      "end_date": "2016-06-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Mantener y ampliar la red interna de la universidad, asegurando su óptimo funcionamiento y velando por su seguridad.",
+        "Apoyar en la instalación y mantenimiento preventivo y correctivo de sistemas, cumpliendo con las funciones asignadas por el rector.",
+        "Proporcionar soluciones tecnológicas a administrativos, profesores y estudiantes en casos específicos relacionados con problemas de cómputo."
+      ],
+      "achievements": [
+        "Diseñar e implementar una nueva red LAN para los edificios A y B de la Universidad Antonio Nariño en Buga, garantizando conectividad en todas las áreas de la universidad.",
+        "Creación de los planos y documentación de la infraestructura de la red en el software Vision Art."
+      ],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador de Software Backend",
+      "company": "Neex Corp",
+      "location": "Cali, Valle del Cauca",
+      "start_date": "2022-05-01",
+      "end_date": "2024-01-31",
+      "currently_working": true,
+      "responsibilities": [
+        "Programar reuniones con los clientes de la plataforma de cobranzas I Agree para el levantamiento de nuevos requerimientos.",
+        "Brindar soporte, corregir bugs e incidencias reportadas por los clientes en el aplicativo web",
+        "Desarrollar requerimientos e integraciones de software, actualizaciones y despliegue en producción en el aplicativo.",
+        "Realizar reportes, funciones y mantenimientos en las bases de datos de cada cliente en el aplicativo.",
+        "Mantener en óptimas condiciones la arquitectura en el Google Cloud del aplicativo con GKE."
+      ],
+      "achievements": [
+        "Implementación de seguridad en roles del aplicativo, incluyendo restricción de roles y protección de información según cada rol.",
+        "Reducción del 20% en costos de facturación de hosting en Google Cloud, mediante depuración y aplicación de ingeniería inversa en la arquitectura.",
+        "Reducción del 70% en costos de facturación del servicio de Atlassian, mediante la depuración del aplicativo, funcionalidades y eliminación de usuarios inactivos.",
+        "Desarrollo de integración para el envío de mensajes de texto a través de una API RESTful.",
+        "Traducción del aplicativo al inglés, facilitando su internacionalización.",
+        "Implementación y despliegue del aplicativo 'ACUERDOS YA' para la autogestión de clientes y carteras en el sistema IAgree."
+      ],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Técnico en Instalación de Redes de Computación",
+      "institution": "SENA",
+      "location": "Guadalajara de Buga, Valle del Cauca",
+      "start_date": "2016-01-01",
+      "end_date": "2016-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Tecnología en Sistemas de Información",
+      "institution": "Universidad del Valle",
+      "location": "Guadalajara de Buga, Valle del Cauca",
+      "start_date": "2016-01-01",
+      "end_date": "2019-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Ingeniería en Sistemas",
+      "institution": "Universidad del Valle",
+      "location": "Tuluá, Valle del Cauca",
+      "start_date": "2019-01-01",
+      "end_date": "2024-01-01",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "java",
+        "java-spring-boot",
+        "python",
+        "javascript",
+        "angular",
+        "html",
+        "css",
+        "git"
+      ],
+      "soft": [],
+      "tools": [
+        "github",
+        "sourcetree",
+        "postgresql",
+        "sql",
+        "mongodb",
+        "google-cloud",
+        "kubernets"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "alto"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "medio"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": [
+    {
+      "name": "Martha Cecilia Garcia",
+      "relationship": "Comerciante",
+      "contact": "3182971247"
+    },
+    {
+      "name": "Jaime Alberto Aragon",
+      "relationship": "Director comercial de Aguas de Buga",
+      "contact": "3183594093"
+    },
+    {
+      "name": "Jaun David Rincon Cuadros",
+      "relationship": "Ingeniero de sistemas",
+      "contact": "3158145347"
+    },
+    {
+      "name": "Eduardo Marroquin",
+      "relationship": "Desarrollador de software Senior",
+      "contact": "3153462910"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+    "personal_info": {
+        "first_name": "Diego",
+        "last_name": "Molinero",
+        "email": "molinerodiego5@gmail.com",
+        "phone": "+54 2364 698293",
+        "location": {
+            "country": "Argentina",
+            "city": "Junín",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://linkedin.com/in/diego-molinero/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy desarrollador con experiencia en Java con Spring Boot, HTML y JavaScript. Disfruto resolver problemas complejos y trabajar en equipo para crear soluciones eficientes. Busco seguir creciendo con nuevos desafíos, aprendiendo más allá de la universidad y mejorando constantemente mis habilidades."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Licenciatura en Sistemas",
+            "institution": "Universidad Nacional del Noroeste de la Provincia de Buenos Aires",
+            "location": "Junín, Buenos Aires",
+            "start_date": "2020-03-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "sql",
+                "postgreSQL",
+                "spring-boot",
+                "java",
+                "react",
+                "python",
+                "git",
+                "github",
+                "gitlab",
+                "apis",
+                "restful"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "colaboración-remota",
+                "capacidad-para-aprender",
+                "comunicación-efectiva",
+                "resolución-de-problemas"
+            ],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Tienda Web para Servidor de Roleplay",
+            "description": "Desarrollé una tienda web para un servidor de roleplay utilizando HTML, JavaScript y PHP, con integración de base de datos. Implementé un sistema de autenticación con Steam y una API de pagos con Mercado Pago y PayPal.",
+            "technologies": ["HTML", "JavaScript", "PHP", "Steam", "Mercado Pago", "PayPal"],
+            "url": ""
+        },
+        {
+            "name": "Aplicación de Música",
+            "description": "Desarrollé una API utilizando Spring Boot y PostgreSQL para gestionar la aplicación. Utilicé React para el front-end, permitiendo que los usuarios se registren e inicien sesión y gestionen playlists.",
+            "technologies": ["Spring Boot", "PostgreSQL", "React"],
+            "url": ""
+        },
+        {
+            "name": "Sistema de Gestión de Ventas y Control de Stock",
+            "description": "Desarrollé un sistema de gestión de ventas y control de stock utilizando Spring Boot, PostgreSQL, HTML y JavaScript. Incluye módulos para gestionar proveedores, vendedores, clientes y productos.",
+            "technologies": ["Spring Boot", "PostgreSQL", "HTML", "JavaScript"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Nivel B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

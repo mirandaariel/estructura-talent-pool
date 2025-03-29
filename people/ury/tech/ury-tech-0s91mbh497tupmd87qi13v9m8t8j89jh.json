@@ -1,0 +1,130 @@
+{
+    "personal_info": {
+        "first_name": "Facundo",
+        "last_name": "San Andrea",
+        "email": "sanandrea.f@gmail.com",
+        "phone": "+59891400868",
+        "location": {
+            "country": "Uruguay",
+            "city": "Montevideo",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/facundo-san-andrea-vilaro-59563919a/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full-Stack con formación en desarrollo web, automatización de procesos y ciberseguridad. Experiencia en la optimización de plataformas digitales y mantenimiento de sistemas en entornos empresariales. Enfoque analítico y orientado a la resolución de problemas, con habilidades para el trabajo en equipo y la innovación tecnológica. Comprometido con el aprendizaje continuo y la excelencia en el desarrollo de software."
+    },
+    "work_experience": [
+        {
+            "job_title": "Web Platform Team",
+            "company": "BASF",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestioné la infraestructura en la nube de Azure, desplegando y manteniendo aplicaciones web.",
+                "Implementé Terraform para automatizar la infraestructura como código (IaC), reduciendo la configuración manual.",
+                "Configuré y mantuve servidores IIS y certificados SSL/TLS para un alojamiento web seguro.",
+                "Colaboré con desarrolladores para asegurar un despliegue fluido de la canalización CI/CD.",
+                "Monitoreé y optimicé el rendimiento del sistema."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Soporte al Cliente",
+            "company": "TeleSur",
+            "location": "",
+            "start_date": "2021-02-01",
+            "end_date": "2021-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Proporcioné soporte técnico y resolución de problemas para los clientes.",
+                "Resolución eficiente de problemas técnicos y administrativos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Estudiante de Licenciatura de Sistemas",
+            "institution": "Universidad ORT",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Full-Stack",
+            "institution": "Holberton School",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Universidad de Animación y Desarrollo de Videojuegos",
+            "institution": "ORT",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "microsoft-azure",
+                "terraform",
+                "iis",
+                "docker",
+                "linux",
+                "ansible",
+                "c",
+                "python",
+                "javascript",
+                "bash",
+                "java",
+                "html",
+                "css",
+                "node.js"
+            ],
+            "soft": [
+                "flexibilidad",
+                "toma-de-decisiones",
+                "creatividad",
+                "autonomía",
+                "pensamiento-analítico"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "ci/cd",
+                "mysql"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Diego Caggiano",
+            "relationship": "Senior Specialist Digitalization at BASF",
+            "contact": "TEL 096272006"
+        },
+        {
+            "name": "Otto Sterling",
+            "relationship": "Senior System Admin at BASF",
+            "contact": "TEL 097305635"
+        }
+    ]
+}

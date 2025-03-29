@@ -1,43 +1,84 @@
 {
     "personal_info": {
         "first_name": "Jesús",
-        "last_name": "Gonzalez Higuera",
+        "last_name": "González Higuera",
         "email": "jeesuus.28101992@gmail.com",
-        "phone": "+34 685 975 090",
+        "phone": "",
         "location": {
             "country": "España",
-            "city": "Añover de Tajo",
+            "city": "",
             "state": ""
         },
         "linkedin": "",
         "website": "",
         "portfolio": "",
-        "summary": "Soy una persona creativa en programación con interés en backend y frontend, y curiosidad por investigar."
+        "summary": ""
     },
     "work_experience": [
         {
-            "job_title": "Auxiliar administrativo",
-            "company": "Servinform",
+            "job_title": "Desarrollador web",
+            "company": "United Sistemas",
             "location": "",
-            "start_date": "2023-04-01",
-            "end_date": "2024-09-01",
+            "start_date": "2025-01-01",
+            "end_date": "2025-03-31",
             "currently_working": false,
             "responsibilities": [
-                "Gestionado becas para la Junta de Comunidades de Castilla La Mancha con un equipo de 5 personas."
+                "Actualización de páginas con Wordpress",
+                "Realización y optimización de proyectos con PHP",
+                "Realización y optimización de proyectos con HTML",
+                "Realización y optimización de proyectos con Javascript",
+                "Tratamiento de datos con SQL"
             ],
             "achievements": [],
             "repository_url": ""
         },
         {
-            "job_title": "Desarrollador web",
-            "company": "Unitel Sistemas de Telecomunicaciones",
+            "job_title": "Auxiliar administrativo",
+            "company": "Servinform",
             "location": "",
-            "start_date": "2022-01-01",
-            "end_date": "2022-03-01",
+            "start_date": "2023-04-01",
+            "end_date": "2024-09-30",
             "currently_working": false,
             "responsibilities": [
-                "Realizado y optimizado proyectos con PHP, HTML y Javascript.",
-                "Actualizado páginas con WordPress."
+                "Gestión de becas para la Junta de Comunidades de Castilla La Mancha mediante su propia plataforma web (FOCO)",
+                "Gestión documental y revisión de cumplimiento de requisitos de los solicitantes",
+                "Contacto con los usuarios para subsanar posibles problemáticas",
+                "Realización de cuestionarios de satisfacción de los alumnos",
+                "Contacto con delegaciones provinciales para coordinación"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Auxiliar administrativo",
+            "company": "Metratir S.L.",
+            "location": "",
+            "start_date": "2022-06-01",
+            "end_date": "2022-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Registro de multas y facturas en Excel",
+                "Atención telefónica e informática a conductores",
+                "Solicitud telemática y entrega de tarjetas de repostaje",
+                "Solicitud telemática y entrega de dispositivos de peaje",
+                "Atender vía mail a diferentes proveedores",
+                "Elaborar hoja de entrega de dispositivos mediante Word"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Auxiliar administrativo",
+            "company": "Wharelectric",
+            "location": "",
+            "start_date": "2020-09-01",
+            "end_date": "2020-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Informatizar facturas en programa NAVISION",
+                "Atención telefónica con clientes",
+                "Recepcionar pedidos y transportistas",
+                "Archivo de documentos"
             ],
             "achievements": [],
             "repository_url": ""
@@ -45,41 +86,27 @@
     ],
     "education": [
         {
-            "degree": "Curso superior en programación de páginas web",
+            "degree": "CFGS en desarrollo web",
             "institution": "MasterD",
-            "location": "Toledo, España",
-            "start_date": "2023-01-24",
-            "end_date": "2024-10-01",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "CFGM Auxiliar administrativo",
+            "institution": "IES San Blas",
+            "location": "",
+            "start_date": "",
+            "end_date": "2020-01-01",
             "hours": 0
         }
     ],
     "skills": {
         "keywords": {
-            "technical": [
-                "html",
-                "css",
-                "javascript",
-                "bootstrap",
-                "angular",
-                "react",
-                "vue.js",
-                "material-ui",
-                "apache",
-                "base-de-datos",
-                "php",
-                "python",
-                "kotlin"
-            ],
-            "soft": [
-                "empatía",
-                "trabajo-en-equipo",
-                "trabajo-por-objetivos"
-            ],
-            "tools": [
-                "wordpress",
-                "redes-sociales",
-                "posicionamiento-web"
-            ]
+            "technical": [],
+            "soft": [],
+            "tools": []
         },
         "detailed": {
             "technical": {},
@@ -89,10 +116,6 @@
     "certifications": [],
     "projects": [],
     "languages": [
-        {
-            "language": "Español",
-            "proficiency": "Native"
-        },
         {
             "language": "Inglés",
             "proficiency": "B2"
