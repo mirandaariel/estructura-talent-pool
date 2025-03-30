@@ -1,0 +1,198 @@
+{
+  "personal_info": {
+    "first_name": "Pablo",
+    "last_name": "Guzmán M.",
+    "email": "pablocorporativa@gmail.com",
+    "phone": "",
+    "location": {
+      "country": "Chile",
+      "city": "",
+      "state": ""
+    },
+    "linkedin": "",
+    "website": "",
+    "portfolio": "",
+    "summary": "Soy un ingeniero en informática especializado y apasionado por el desarrollo web y nuevas tecnologías. Altamente capacitado en la creación, diseño y mantenimiento de sitios web y aplicaciones web. Poseo un profundo conocimiento de lenguajes de programación como JavaScript y de estructura web con estilo (HTML, CSS, BOOTSTRAP). Conozco frameworks y bibliotecas populares como TypeScript, React.js y Vue.Js Actualmente estoy terminando un bootcamp para especializarme como Fullstack JavaScript."
+  },
+  "work_experience": [
+    {
+      "job_title": "Jefe Área TICS",
+      "company": "Colegio El Alba de Macul",
+      "location": "",
+      "start_date": "2015-01-01",
+      "end_date": "2023-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Administración de plataformas Google Workspace Educacional y Webclass.",
+        "Gestión de proyectos informáticos para mejoras continuas relacionadas a la conectividad y acceso a la información.",
+        "Integración de software educacionales como Webclass, Lirmi, Google G-Suite y Soluciones Arquimed.",
+        "Implementación de CCTV para la seguridad del establecimiento.",
+        "Soporte de Hardware y Software locales para el área administrativa, profesores y alumnos."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Asistente Departamento T.I",
+      "company": "Streetmachine S.A",
+      "location": "",
+      "start_date": "2013-01-01",
+      "end_date": "2015-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Soporte a usuarios administrativos y en tiendas físicas.",
+        "Administrador de credenciales y permisos desde Windows Server 2008.",
+        "Soporte de usuarios y perfiles en SAP Business One."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Operador Plataforma Mensajería SMS",
+      "company": "Spincorp",
+      "location": "",
+      "start_date": "2012-01-01",
+      "end_date": "2013-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Responsable de la inyección, descarga y edición de mensajes SMS para distintas instituciones utilizando software diseñado especialmente para ese requerimiento."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Operador Gráficas Interactivas Canal 13, TVN, MEGA",
+      "company": "Spincorp",
+      "location": "",
+      "start_date": "2011-01-01",
+      "end_date": "2013-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Responsable de las gráficas interactivas y generador de caracteres para distintos programas de TV."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Asistente de Dirección",
+      "company": "RED Televisión",
+      "location": "",
+      "start_date": "2009-01-01",
+      "end_date": "2011-12-31",
+      "currently_working": false,
+      "responsibilities": [],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Operador Gráficas 3D, \"Tiempo en La Red\"",
+      "company": "RED Televisión",
+      "location": "",
+      "start_date": "2009-01-01",
+      "end_date": "2010-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Responsable de la configuración, implementación y uso de tecnologías de animación 3D."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Analista Programador",
+      "company": "Tegra Informática",
+      "location": "",
+      "start_date": "2005-01-01",
+      "end_date": "2008-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Responsable de las validaciones para proyecto de mejoras y nuevas funcionalidades web del cliente EQUIFAX usando el IDE Eclipse con el lenguaje Java."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ingeniería en Informática",
+      "institution": "Universidad Tecnológica de Chile",
+      "location": "",
+      "start_date": "2015-01-01",
+      "end_date": "2020-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Ingeniería Civil",
+      "institution": "Universidad Andrés Bello",
+      "location": "",
+      "start_date": "2001-01-01",
+      "end_date": "2003-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Educación Secundaria",
+      "institution": "Colegio Liceo Alemán",
+      "location": "Santiago, Región Metropolitana",
+      "start_date": "1998-01-01",
+      "end_date": "2000-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Educación Primaria",
+      "institution": "Colegio El Salvador",
+      "location": "San Vicente De T.T, VI Región",
+      "start_date": "1988-01-01",
+      "end_date": "1997-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "windows-7,10,11,server",
+        "office",
+        "google-g-suite",
+        "html",
+        "javaScript",
+        "react",
+        "python",
+        "rest-api",
+        "powerbi",
+        "sql",
+        "nosql",
+        "mysql",
+        "sql-server",
+        "mongodb",
+        "sqlite",
+        "postgress",
+        "sequelize",
+        "wordpress",
+        "google-ads"
+      ],
+      "soft": [],
+      "tools": [
+        "webclass",
+        "active",
+        "lirmi"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Intermedio"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

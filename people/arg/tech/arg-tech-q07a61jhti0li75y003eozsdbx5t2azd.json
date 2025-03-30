@@ -1,0 +1,213 @@
+{
+  "personal_info": {
+    "first_name": "José Ignacio",
+    "last_name": "Tapia",
+    "email": "josignaciot@gmail.com",
+    "phone": "+543875017373",
+    "location": {
+      "country": "Argentina",
+      "city": "Salta",
+      "state": ""
+    },
+    "linkedin": "",
+    "website": "",
+    "portfolio": "",
+    "summary": "Full Stack Developer con orientación en Frontend, con background en administración de empresas, economía. Soy autodidacta y freelancer, trabajo en equipo, poseo una actitud positiva, capacidad de adaptabilidad y resiliencia."
+  },
+  "work_experience": [
+    {
+      "job_title": "Fullstack Engineer",
+      "company": "PARSOM CFK",
+      "location": "",
+      "start_date": "2025-01-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Control de stock de insumos.",
+        "Gestión de compras de insumos.",
+        "Creación de kits para su posterior venta.",
+        "Registro y seguimiento de ventas."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Web Developer",
+      "company": "FAROX Servicios y Consultoría TI",
+      "location": "",
+      "start_date": "2024-08-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Creación de un sitio web con múltiples páginas optimizado para SEO, accesibilidad y rendimiento.",
+        "Diseño responsive para una experiencia fluida en dispositivos móviles y desktop.",
+        "Blog integrado con estructura optimizada para lectura y posicionamiento.",
+        "Formulario de contacto funcional para captación de leads.",
+        "Implementación de animaciones interactivas para mejorar la experiencia del usuario.",
+        "Secciones personalizadas para mostrar proyectos y servicios.",
+        "Diseño enfocado en la experiencia del usuario para aumentar la conversión."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Full Stack Web Developer",
+      "company": "Renovo",
+      "location": "",
+      "start_date": "2023-05-01",
+      "end_date": "2024-05-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo de una tienda online innovadora.",
+        "Desarrollo de una función para crear moodboards personalizados.",
+        "Enfoque centrado en la experiencia del usuario, aumentando la interacción y fidelización.",
+        "Participación en el diseño y optimización de costos y beneficios.",
+        "Implementación de estrategias SEO para mejorar visibilidad y tráfico orgánico."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Full Stack Web Developer",
+      "institution": "Henry Bootcamp",
+      "location": "Buenos Aires, Argentina",
+      "start_date": "2020-01-01",
+      "end_date": "2020-12-31",
+      "hours": 700
+    },
+    {
+      "degree": "Advanced CSS and Sass: Flexbox, Grid, Animations",
+      "institution": "Udemy",
+      "location": "",
+      "start_date": "2021-01-01",
+      "end_date": "2021-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "The Complete JavaScript Course 2020 From Zero to Expert",
+      "institution": "Udemy",
+      "location": "",
+      "start_date": "2021-01-01",
+      "end_date": "2021-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Curso React - La Guía Completa: Hooks Context Redux MERN +15",
+      "institution": "Udemy",
+      "location": "",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Curso Node: De cero a experto",
+      "institution": "Udemy",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "javascript",
+        "typescript",
+        "python",
+        "react",
+        "next",
+        "redux",
+        "express",
+        "tailwind",
+        "bootstrap",
+        "sass",
+        "postgresql",
+        "sequelize",
+        "prisma",
+        "mongodb"
+      ],
+      "soft": [
+        "teamwork",
+        "positive-attitude",
+        "adaptability",
+        "resilience"
+      ],
+      "tools": [
+        "git",
+        "figma",
+        "trello",
+        "github",
+        "slack",
+        "docker"
+      ]
+    },
+    "detailed": {}
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "BookYou",
+      "description": "Diseñar y desarrollar una Red Social para lectores y escritores independientes.",
+      "technologies": [
+        "react",
+        "redux",
+        "styled-component",
+        "tailwind",
+        "node",
+        "express",
+        "mongodb"
+      ],
+      "url": ""
+    },
+    {
+      "name": "GithubFinder",
+      "description": "Desarrollar una aplicación para buscar usuarios de GitHub.",
+      "technologies": [
+        "react",
+        "redux-toolkit",
+        "tailwind",
+        "react-router",
+        "context"
+      ],
+      "url": ""
+    },
+    {
+      "name": "DogApp",
+      "description": "Diseñar y desarrollar una app de razas de perros.",
+      "technologies": [
+        "react",
+        "redux",
+        "css",
+        "node",
+        "express",
+        "postgresql"
+      ],
+      "url": ""
+    },
+    {
+      "name": "News App",
+      "description": "Crear una aplicación que pueda buscar noticias y filtrarlas.",
+      "technologies": [
+        "react",
+        "sass",
+        "javascript"
+      ],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Intermediate"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

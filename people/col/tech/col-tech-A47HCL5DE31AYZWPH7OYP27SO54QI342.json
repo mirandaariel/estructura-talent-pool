@@ -1,0 +1,102 @@
+{
+    "personal_info": {
+        "first_name": "Santiago",
+        "last_name": "Díaz Rojas",
+        "email": "sadiro_0511@outlook.com",
+        "phone": "+57 320 229 3663",
+        "location": {
+            "country": "Colombia",
+            "city": "Mosquera",
+            "state": "Cundinamarca"
+        },
+        "linkedin": "https://www.linkedin.com/in/santiago-diaz-software-engineer",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante de octavo semestre de Ingeniería de Sistemas en la Universidad Escuela Colombiana de Ingeniería Julio Garavito. Bilingüe (español - inglés), con un fuerte interés en ingeniería de software, machine learning, ingeniería de datos e inteligencia artificial. Cuento con experiencia en modelado, implementación y mantenimiento de software y plataformas. Me destaco por mis habilidades en trabajo en equipo, liderazgo, comunicación efectiva y resolución de problemas. Apasionado por la tecnología y la innovación, busco constantemente aprender y aplicar nuevas soluciones para el desarrollo de software inteligente y eficiente."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Tecfianazas SAS",
+            "location": "Bogotá D.C",
+            "start_date": "2024-05-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web responsivas con HTML, CSS y JavaScript, asegurando compatibilidad con múltiples dispositivos.",
+                "Creación de interfaces dinámicas e interactivas con Angular, mejorando la experiencia del usuario.",
+                "Mantenimiento, optimización y consultas avanzadas en SQL Server para mejorar el rendimiento de la base de datos.",
+                "Identificación y corrección de errores en aplicaciones web.",
+                "Pruebas funcionales y depuración de código."
+            ],
+            "achievements": [
+                "Aplicación de buenas prácticas en el ciclo de vida del desarrollo de software, optimizando la gestión de proyectos desde el análisis hasta el despliegue. Esto permitió una mejor organización de tareas y reducción de errores en producción."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Sistemas",
+            "institution": "Universidad Escuela Colombiana de Ingeniería Julio Garavito",
+            "location": "Bogotá D.C",
+            "start_date": "2022-01-01",
+            "end_date": "2026-09-30",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Contable",
+            "institution": "Servicio Nacional de Aprendizaje (SENA)",
+            "location": "",
+            "start_date": "2020-02-01",
+            "end_date": "2021-11-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "java",
+                "c#",
+                "javascript",
+                "angular",
+                "react",
+                "spring-boot"
+            ],
+            "soft": [
+                "teamwork",
+                "leadership",
+                "effective-communication",
+                "problem-solving"
+            ],
+            "tools": [
+                "azure-devops",
+                "azure",
+                "aws",
+                "docker",
+                "bizagi",
+                "sql-server"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

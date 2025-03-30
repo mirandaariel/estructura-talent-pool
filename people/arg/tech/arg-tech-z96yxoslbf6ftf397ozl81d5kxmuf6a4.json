@@ -1,0 +1,126 @@
+
+{
+    "personal_info": {
+        "first_name": "Leonardo",
+        "last_name": "Toledo",
+        "email": "leo.toledo.grams@gmail.com",
+        "phone": "+52-961-178-6931",
+        "location": {
+            "country": "Mexico",
+            "city": "Chiapas",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero de software con experiencia en desarrollo frontend. Creo experiencias digitales escalables, intuitivas y visualmente atractivas. Me apasiona el diseño UX, el desarrollo web, la accesibilidad y la optimización del rendimiento de los sitios web. Soy capaz de unir el diseño y el desarrollo para crear interacciones fluidas para los usuarios. He optimizado plataformas digitales en diferentes sectores. Estoy buscando un puesto a tiempo completo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Web Developer",
+            "company": "DaCodes",
+            "location": "Houston, Texas",
+            "start_date": "2023-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementé middlewares para la gestión eficiente de estados, diseñé hooks personalizados, lo que mejoró la escalabilidad y rendimiento del proyecto en un 25%.",
+                "Desarrollé un proyecto con el objetivo de integrar componentes de alto orden (HOC), optimizar la gestión de ciclos de vida de los componentes y mejorar el consumo de APIs, todo ello dentro de un entorno que facilita el enrutamiento con App Routing en Next 14."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Software",
+            "institution": "Universidad Politécnica de Chiapas",
+            "location": "Chiapas, México",
+            "start_date": "2021-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript",
+                "typescript",
+                "python",
+                "react",
+                "react-native",
+                "next.js",
+                "tailwindcss",
+                "vercel",
+                "aws",
+                "mysql",
+                "redux"
+            ],
+            "soft": [
+                "arquitectura-de-componentes",
+                "gestión-de-estados",
+                "optimización-de-imágenes",
+                "rendimiento-y-optimización",
+                "implementación-continua",
+                "microinteracciones-y-animaciones",
+                "creación-de-prototipos",
+                "desarrollo-á
+gil"
+            ],
+            "tools": [
+                "figma",
+                "framer",
+                "webflow",
+                "miro",
+                "jira",
+                "trello",
+                "notion",
+                "git",
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "ReactJS Development",
+            "issuing_organization": "DaCodes Academy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "UX/UI Design Specialization",
+            "issuing_organization": "Google",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "AWS Academy Cloud Operations",
+            "issuing_organization": "Amazon Web Services",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

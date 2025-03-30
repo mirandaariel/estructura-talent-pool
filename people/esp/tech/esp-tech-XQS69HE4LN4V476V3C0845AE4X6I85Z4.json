@@ -1,0 +1,175 @@
+{
+    "personal_info": {
+        "first_name": "Jorge",
+        "last_name": "Macías Cordobés",
+        "email": "jorgemc1994@hotmail.com",
+        "phone": "+34 608410012",
+        "location": {
+            "country": "España",
+            "city": "Cáceres",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/jorge-macias-cordob%C3%A9s-24aa142ba/",
+        "website": "",
+        "portfolio": "Portfolio",
+        "summary": "Soy un desarrollador Junior Full Stack con una gran pasión por el desarrollo web. He adquirido experiencia práctica en la creación de aplicaciones web modernas utilizando tecnologías como JavaScript, React, Node.js, etc., y me entusiasma seguir aprendiendo y creciendo en este campo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Junior Full-Stack Developer",
+            "company": "OXYGEN Workspace",
+            "location": "Madrid",
+            "start_date": "2024-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de aplicación web de gestión hotelera: sitio web y panel de control (gestión de disponibilidad, reservas, habitaciones y usuarios)"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnico Informático",
+            "company": "",
+            "location": "Navas del Madroño y alrededores",
+            "start_date": "2015-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Montaje de equipos informáticos.",
+                "Puesta a punto de equipos informáticos.",
+                "Instalación de programas o herramientas útiles para locales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Camarero",
+            "company": "Restaurante Casa Chumi",
+            "location": "",
+            "start_date": "2017-03-01",
+            "end_date": "2023-09-30",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnico Informático (Prácticas)",
+            "company": "Speed PC Cáceres",
+            "location": "",
+            "start_date": "2015-03-01",
+            "end_date": "2015-06-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Montaje de equipos informáticos.",
+                "Puesta a punto de equipos informáticos.",
+                "Configuración de redes.",
+                "Configuración de periféricos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Junior Full-Stack Developer (MERN)",
+            "institution": "OXYGEN Academy & Recruiting",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Web Full Stack",
+            "institution": "Arroyo de la Luz",
+            "location": "",
+            "start_date": "2022-05-01",
+            "end_date": "2022-08-01",
+            "hours": 0
+        },
+        {
+            "degree": "Administración Sistemas Informáticos en Red",
+            "institution": "IES ÁGORA",
+            "location": "",
+            "start_date": "2016-09-01",
+            "end_date": "2018-03-01",
+            "hours": 0
+        },
+        {
+            "degree": "Sistemas Microinformáticos y Redes",
+            "institution": "IES SAN PEDRO DE ALCÁNTARA",
+            "location": "",
+            "start_date": "2013-09-01",
+            "end_date": "2015-06-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "redux",
+                "node.js",
+                "express",
+                "mongodb",
+                "sql",
+                "php",
+                "laravel",
+                "aws-lambda",
+                "testing",
+                "jest",
+                "cypress",
+                "devops"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Hotel Miranda",
+            "description": "",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "OXYGEN-Shop",
+            "description": "",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Gallery Photos",
+            "description": "",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Dashboard Miranda",
+            "description": "",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,102 @@
+{
+    "personal_info": {
+        "first_name": "Christopher",
+        "last_name": "Huayhua",
+        "email": "chrisshuayhua@hotmail.com",
+        "phone": "+591-71754190",
+        "location": {
+            "country": "Bolivia",
+            "city": "Cochabamba",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "I am a software developer with 2 years of experience. I would like to learn new technologies to create applications that help people. I enjoy challenges that allow me to improve my skills in problem-solving."
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Developer",
+            "company": "Wiserkronox SRL",
+            "location": "",
+            "start_date": "2021-08-01",
+            "end_date": "2021-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Tested software for bugs and performance optimization.",
+                "Created a web-based application using JavaScript and the Laravel framework.",
+                "Developed a small mobile application using Kotlin."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "Alcaldia de Cochabamba",
+            "location": "Cochabamba, Bolivia",
+            "start_date": "2023-04-01",
+            "end_date": "2024-09-30",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed a Data Storage System for IoT Devices.",
+                "Engineered ETL Processes using the Pentaho platform.",
+                "Implemented Applications and Information Systems.",
+                "Technical Documentation and User Manuals.",
+                "Database Design and Construction using PostgreSQL, MySQL, and MongoDB.",
+                "System Integration through APIs and Web Services.",
+                "Web Application Development using Django, Laravel, Angular, and Java Spring Boot with Kafka Streams.",
+                "Centralized Security Implementation with Keycloak.",
+                "Docker Configuration and Deployment.",
+                "IoT Device Connectivity using a LoRaWAN network."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Systems Engineer",
+            "institution": "Universidad Privada Domingo Savio",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "laravel-framework",
+                "angular-framework",
+                "javascript",
+                "django",
+                "etl",
+                "java",
+                "spring-boot",
+                "typescript",
+                "docker",
+                "git-version-control",
+                "github",
+                "gitlab"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

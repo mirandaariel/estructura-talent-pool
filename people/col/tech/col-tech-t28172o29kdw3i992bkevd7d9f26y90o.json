@@ -1,0 +1,145 @@
+{
+  "personal_info": {
+    "first_name": "Yarod",
+    "last_name": "Bonilla",
+    "email": "yarold_br@outlook.es",
+    "phone": "+57 3134398489",
+    "location": {
+      "country": "Colombia",
+      "city": "Bogota",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/yarod-bonilla-808a24198",
+    "website": "https://github.com/borniz",
+    "portfolio": "",
+    "summary": "Full Stack Developer especializado en Back-end con experiencia en Java SpringBoot, PHP Laravel, Javascript, Typescript, React, Angular 18+, Next.js, Redux, Node.js, Express, PostgreSQL, HTML5, CSS3, Bootstrap, y GIT. Conocimientos en metodologías ágiles, estructura de datos, algoritmos, frameworks, C#, y arquitectura de datos."
+  },
+  "work_experience": [
+    {
+      "job_title": "Full Stack Web Developer",
+      "company": "Profesional Labor Services",
+      "location": "",
+      "start_date": "2024-05-01",
+      "end_date": "2024-06-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrolle la autenticación para el logueo de los usuarios junto con las relaciones respectivas para cada tabla.",
+        "Desarrolle la gestión para la creación de base de datos con PostgreSQL y SQL relacionales.",
+        "Desarrolle el CRUD de las publicaciones y de los usuarios."
+      ],
+      "achievements": [],
+      "repository_url": "https://github.com/borniz/Professional-Labor.git"
+    },
+    {
+      "job_title": "Ingeniero Mecatrónico",
+      "company": "Rover Challenger",
+      "location": "",
+      "start_date": "2019-06-01",
+      "end_date": "2020-04-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Diseño y estudios de materiales.",
+        "Coordinación de estudiantes para las diferentes áreas de construcción.",
+        "Programación en la comunicación."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Full Stack Web Developer",
+      "institution": "Henry Bootcamp",
+      "location": "",
+      "start_date": "2024-01-01",
+      "end_date": "2024-12-31",
+      "hours": 800
+    },
+    {
+      "degree": "Técnico en Programación de Software",
+      "institution": "Sena",
+      "location": "",
+      "start_date": "2015-01-01",
+      "end_date": "2015-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Ingeniería Mecatrónica",
+      "institution": "Universidad ECCI",
+      "location": "",
+      "start_date": "2020-01-01",
+      "end_date": "2024-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "angular-18+",
+        "react",
+        "typescript",
+        "javascript",
+        "html5",
+        "css3",
+        "bootstrap",
+        "redux",
+        "nestjs",
+        "node.js",
+        "java-springboot",
+        "php-laravel",
+        "express.js",
+        "postgresql",
+        "mysql",
+        "mongodb",
+        "aws",
+        "netlify",
+        "heroku",
+        "vercel"
+      ],
+      "soft": [
+        "pensamiento-lógico",
+        "toma-de-decisiones",
+        "pensamiento-crítico"
+      ],
+      "tools": [
+        "git",
+        "jwt",
+        "cloudinary",
+        "tailwind-css"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {},
+      "tools": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Professional Labor Services Platform",
+      "description": "Plataforma web para servicios profesionales que permite publicar y postularse a empleos.",
+      "technologies": ["react", "redux", "tailwind-css", "node.js", "express", "jwt", "cloudinary", "postgresql", "sequelize"],
+      "url": "https://github.com/borniz/Professional-Labor.git"
+    },
+    {
+      "name": "Ecommerce Platform",
+      "description": "Plataforma de comercio electrónico con autenticación de usuarios y gestión de base de datos.",
+      "technologies": ["react", "redux", "tailwind-css", "node.js", "express", "jwt", "cloudinary", "postgresql"],
+      "url": "https://github.com/borniz/Ecommerce.git"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Basic"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}
