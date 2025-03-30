@@ -1,0 +1,102 @@
+{
+    "personal_info": {
+        "first_name": "Giovanni",
+        "last_name": "Ramirez",
+        "email": "gra483120@gmail.com",
+        "phone": "+51940356043",
+        "location": {
+            "country": "Peru",
+            "city": "Ica",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante de Sistemas e Informática con experiencia en desarrollo web, especializado en frontend (Java, HTML, CSS, JavaScript) y bases de datos (SQL). Poseo conocimientos básicos de backend y redes, lo que me permite abordar proyectos integrales. Interesado en soluciones empresariales y sistemas ERP, busco oportunidades para aplicar y perfeccionar mis habilidades."
+    },
+    "work_experience": [
+        {
+            "job_title": "Mantenimiento y Soporte Técnico",
+            "company": "",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2023-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Realización de mantenimiento preventivo y correctivo en equipos de cómputo de diversas instituciones educativas.",
+                "Limpieza física y optimización de software para asegurar el correcto funcionamiento de los sistemas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas e Informática",
+            "institution": "Universidad Tecnológica del Perú",
+            "location": "",
+            "start_date": "2021-08-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "js",
+                "react",
+                "html",
+                "css",
+                "sql"
+            ],
+            "soft": [
+                "resolución-de-problemas",
+                "trabajo-en-equipo",
+                "empatia"
+            ],
+            "tools": [
+                "ccna",
+                "ccnav7"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sistema de Reservas para Restaurante",
+            "description": "Desarrollo de una aplicación web para gestionar reservas y pagos.",
+            "technologies": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Jornada - Agencia de Viajes Ficticia",
+            "description": "Creé una página web para una agencia de viajes ficticia llamada 'Jornada'. Implementé un diseño responsive para asegurar la compatibilidad con dispositivos móviles y mejorar la experiencia del usuario.",
+            "technologies": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Encriptador y Desencriptador de Texto",
+            "description": "Desarrollé una aplicación web que permite encriptar y desencriptar texto utilizando un algoritmo simple, mejorando la seguridad de la información.",
+            "technologies": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

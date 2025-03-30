@@ -1,0 +1,206 @@
+{
+    "personal_info": {
+        "first_name": "Arnau",
+        "last_name": "Romero Hazas",
+        "email": "aromerohazas@gmail.com",
+        "phone": "647 007 335",
+        "location": {
+            "country": "España",
+            "city": "Barcelona",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/arnau-romero-hazas-0128b0200",
+        "website": "https://github.com/arnau-romero-hazas",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack Junior apasionado por la programación y la resolución de problemas. Recientemente completé un bootcamp intensivo en ISDI Coders, consolidando mis habilidades en desarrollo web con HTML, CSS, JavaScript, React y Node.js. Experiencia en la creación de aplicaciones web responsivas, integración de APIs y trabajo colaborativo con metodologías ágiles. Busco un entorno desafiante para seguir creciendo profesionalmente y contribuir con soluciones innovadoras."
+    },
+    "work_experience": [
+        {
+            "job_title": "Técnico Superior de Robótica y Automatización Industrial",
+            "company": "A.I.F. S.L.",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2025-01-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Programación de PLC y HMI con Siemens (TIA Portal, LOGO GO).",
+                "Desarrollo de interfaces HMI y planos eléctricos (EPLAN, SEE ELECTRICAL).",
+                "Programación de robots Kuka y configuración de variadores de frecuencia.",
+                "Comunicaciones industriales (Profinet, Ethernet/IP, Profibus, Modbus).",
+                "Coordinación de proyectos desde diseño hasta puesta en marcha."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnico de Mantenimiento",
+            "company": "Parc del Garraf i Esportiu",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Mantenimiento preventivo y correctivo de sistemas eléctricos y mecánicos.",
+                "Diagnóstico y reparación de equipos industriales.",
+                "Control de consumos y optimización de sistemas de climatización."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Prácticas Técnico Superior",
+            "company": "A.I.F. S.L.",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2020-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Programación de PLC y HMI para automatismos personalizados.",
+                "Fabricación de cuadros eléctricos y configuración de sensores industriales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Gerente A",
+            "company": "Mercadona S.A.",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2020-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión de inventario, atención al cliente y coordinación de tareas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Instalador",
+            "company": "Saysat S.L.",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2017-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Instalación y reparación de sistemas de telecomunicaciones y videovigilancia."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full-Stack Development Bootcamp",
+            "institution": "ISDI CODERS",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-04-30",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Industrial Electrónica y Automática",
+            "institution": "UPC EPSEVG",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ciclo Superior de Robótica y Automatización Industrial",
+            "institution": "F.X. Lluch i Rafecas",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html", 
+                "css", 
+                "javascript", 
+                "react", 
+                "vue", 
+                "redux", 
+                "typescript", 
+                "python", 
+                "node.js", 
+                "express.js", 
+                "mongodb", 
+                "mongoose"
+            ],
+            "soft": [
+                "agile", 
+                "scrum"
+            ],
+            "tools": [
+                "git", 
+                "github", 
+                "sonarqube", 
+                "jest", 
+                "eslint", 
+                "figma", 
+                "trello", 
+                "unity", 
+                "siemens-tia-portal", 
+                "logo-go", 
+                "eplan", 
+                "see-electrical"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Legacy JavaScript Algorithms and Data Structures",
+            "issuing_organization": "freeCodeCamp",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "ITS Python",
+            "issuing_organization": "RECURSOS-MECABIT",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Python Programming Fundamentals",
+            "issuing_organization": "RECURSOS-MECABIT",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Cisco Certified CCNA: Introduction to Networks",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Catalán",
+            "proficiency": "Native"
+        },
+        {
+            "language": "Castellano",
+            "proficiency": "Native"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Advanced"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

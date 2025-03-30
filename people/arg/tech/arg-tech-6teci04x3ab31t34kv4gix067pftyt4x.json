@@ -1,0 +1,142 @@
+{
+    "personal_info": {
+        "first_name": "Ezequiel",
+        "last_name": "Bamio",
+        "email": "dev.bamioezequiel@gmail.com",
+        "phone": "+54 1136457522",
+        "location": {
+            "country": "Argentina",
+            "city": "Quilmes",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy desarrollador Backend con experiencia en la creación de soluciones eficientes utilizando tecnologías como Java, SpringBoot, MySQL y más. Mi enfoque principal es el desarrollo de aplicaciones escalables, con un fuerte énfasis en la optimización de procesos y la creación de sistemas robustos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Ayudante de Panadero",
+            "company": "Panadería Rubén",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2019-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboré en el armado, cocción y presentación de productos de panadería, asegurando altos estándares de calidad.",
+                "Mantuve el área de trabajo limpia y ordenada.",
+                "Apoyé en la organización de insumos y en la gestión del flujo de producción diaria."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Mecánico y Atención al Público",
+            "company": "Taller Mecánico",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Reparación y mantenimiento de vehículos, incluyendo diagnósticos y solución de problemas mecánicos.",
+                "Atención personalizada a clientes, explicando reparaciones realizadas y asesorando sobre el cuidado de sus vehículos.",
+                "Gestión de solicitudes de servicio, coordinando tiempos de entrega y asegurando la satisfacción del cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 700
+        },
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "UTN - Facultad Regional Avellaneda",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "springboot",
+                "javascript",
+                "nodejs",
+                "sequelize",
+                "mongoose",
+                "express",
+                "react",
+                "redux",
+                "mysql",
+                "mongodb",
+                "html",
+                "css",
+                "git",
+                "github",
+                "scrum"
+            ],
+            "soft": [
+                "trabajador-en-equipo",
+                "comunicativo",
+                "creativo",
+                "adaptabilidad",
+                "liderazgo",
+                "cooperativo",
+                "empático",
+                "orientado-a-objetivos",
+                "autodidacta"
+            ],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Dental Clinic Manager",
+            "description": "Desarrollé un sistema web para la gestión de clínicas dentales que permite administrar pacientes, turnos y odontólogos.",
+            "technologies": ["java", "jpa", "hibernate", "jsp", "html", "css", "mysql", "apache-tomcat", "netbeans", "git"],
+            "url": ""
+        },
+        {
+            "name": "Administrador de Login con Roles",
+            "description": "Diseñé y desarrollé un sistema de login con roles para una aplicación de escritorio utilizando Java y JPA con MySQL.",
+            "technologies": ["java", "jpa", "mysql", "netbeans", "git"],
+            "url": ""
+        },
+        {
+            "name": "Videogames Store",
+            "description": "Desarrollé una tienda de videojuegos en línea que permite a los usuarios explorar, buscar y comprar productos de manera eficiente.",
+            "technologies": ["typescript", "node.js", "express", "sequelize", "react", "redux", "css", "postgresql", "mercadopago"],
+            "url": ""
+        },
+        {
+            "name": "Food App",
+            "description": "Diseñar y desarrollar una App de comidas que incluía búsquedas, filtrados, ordenamientos y creación.",
+            "technologies": ["react", "redux", "css", "node.js", "express", "postgresql", "sequelize"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Basic/Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

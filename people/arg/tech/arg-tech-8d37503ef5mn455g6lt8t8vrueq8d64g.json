@@ -1,0 +1,73 @@
+{
+    "personal_info": {
+        "first_name": "Marcos",
+        "last_name": "Malaquias",
+        "email": "malaquiazmarcos@gmail.com",
+        "phone": "+5493755599361",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/marcos-daniel-malaquias-5710a9186",
+        "website": "",
+        "portfolio": "https://github.com/malaquiazmarcos",
+        "summary": "Programador backend con experiencia en desarrollo fullstack y gestión de bases de datos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "Arte Sobre BlondAS",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo completo de un ecommerce para una tienda de cotillón, utilizando Python y Flask para el backend.",
+                "HTML, Bootstrap, y personalizaciones adicionales con CSS para el frontend.",
+                "Gestión de base de datos en MySQL para el manejo de productos, clientes y pedidos.",
+                "Integración de la API de Mercado Pago (Checkout Pro) para procesar pagos de manera segura.",
+                "Implementación de la API de Google Maps para facilitar la ubicación de la tienda y mejorar la experiencia del usuario.",
+                "Control de versiones mediante Git y GitHub, asegurando un flujo de trabajo organizado.",
+                "Despliegue del proyecto en AWS, utilizando EC2 para alojar el servidor y RDS para gestionar la base de datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ayudante de Cátedra (Informática)",
+            "company": "Universidad Nacional de Misiones",
+            "location": "",
+            "start_date": "2021-03-01",
+            "end_date": "2023-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboración en la enseñanza de lógica de programación utilizando Python.",
+                "Soporte en el uso de hojas de cálculo en LibreOffice, abarcando funciones avanzadas y aplicaciones prácticas.",
+                "Instrucción sobre conceptos de Internet, incluyendo protocolos HTTP, DNS y otras tecnologías relacionadas con redes.",
+                "Apoyo a estudiantes en la resolución de problemas y en la comprensión de conceptos técnicos.",
+                "Evaluación de trabajos y exámenes, proporcionando retroalimentación constructiva."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": ["python", "javascript", "c#", "flask", "django", "bootstrap", "html", "css", "mysql", "orm", "mongodb", "git", "github", "programación-orientada-a-objetos", "apis", "aws", "windows", "linux"],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
