@@ -15,16 +15,10 @@ Datos totalmente abiertos para consumo de cualquier entidad que proponga facilit
 ## Cómo participar
 
 Suscribirse en: 
-https://app.estructura.co/initiatives/human-development/subscription
+https://app.estructura.co/initiatives/open-source/subscription
 
 Luego de la suscripción conectar conmigo en LinkedIn para facilitar la comunicación
 https://www.linkedin.com/in/mirandaariel/
 
-Cuando se tenga que enviar el archivo CV, puede enviarse en el formato de archivo que se disponga.
-
-El archivo ingresará a un proceso automático donde se convertirá al formato JSON.
-
-Si se desea ver ejemplos, consultar:
-
-- Archivo output: cv-template.json
+Seguir los pasos que se informan.
 
