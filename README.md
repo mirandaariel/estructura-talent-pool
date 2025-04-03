@@ -24,7 +24,7 @@ Seguir los pasos que se informan.
 
 ## Herramientas
 
-JSON Resume Artistry – Lleva tu CV en JSON al siguiente nivel
-https://json-resume-artistry.lovable.app/
-Jairo Sánchez
-https://www.linkedin.com/in/jairo-sanchez-bejar/
+### JSON Resume Artistry – Lleva tu CV en JSON al siguiente nivel
+- https://json-resume-artistry.lovable.app/
+- Jairo Sánchez
+- https://www.linkedin.com/in/jairo-sanchez-bejar/
