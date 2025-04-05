@@ -1,0 +1,201 @@
+{
+    "personal_info": {
+        "first_name": "Gaston",
+        "last_name": "Pauletti",
+        "email": "gastonpauletti@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/gast%C3%B3n-pauletti-b6479526b/",
+        "website": "",
+        "portfolio": "https://github.com/GAPAULETTI",
+        "summary": "Systems Analyst, full stack web developer specialized in Java back end and DevOps Jr. with experience in configuration, deployment, automation and monitoring of services in AWS."
+    },
+    "work_experience": [
+        {
+            "job_title": "DevOps Trainee & Mentoring",
+            "company": "Fundación Mirgor",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Deployment of applications in containers (Docker - Kubernetes)",
+                "Cloud Infrastructure Design (AWS)",
+                "IaC deployment (AWS CloudFormation - VPC - RDS - EC2 - ECS - Fargate - S3 - EFS - SNS - AWS Lambda - Elastic Load Balancer - Cloudwatch)",
+                "Infrastructure Security (IAM - Security Groups - Secret Manager - VPN)",
+                "CI/CD Pipeline (AWS CodePipeline - CodeBuild - CodeDeploy - CodeCommit - GIT)",
+                "Integration with third-party services (ODOO - Slack - PostgreSQL)",
+                "Systems administration (Linux - Bash - Networking)"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Java Back-End Developer",
+            "company": "Alura (Oracle Next Education)",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Design and development of applications in JAVA and Spring Boot Framework",
+                "API REST - INSOMNIA - POSTMAN",
+                "PostgreSQL - MYSQL - MVC - JPA",
+                "Security - Authentication & Authorization",
+                "GIT - GITHUB - TRELLO",
+                "Best Practices - Scrum - Kanban",
+                "Personal Development and Productivity Training"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "AWS - Cloud Computing",
+            "company": "Alkemy",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "AWS Cloud Essentials",
+                "E-commerce platform design in AWS"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Java Web Developer",
+            "company": "MindHub",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "2023-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "JAVA web application development",
+                "Development and consumption of APIs with database integration",
+                "Agile Scrum methodology"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computer Systems Analyst Graduate",
+            "institution": "Siglo 21 University",
+            "location": "",
+            "start_date": "2019-03-01",
+            "end_date": "2023-07-31",
+            "hours": 0
+        },
+        {
+            "degree": "English as a Foreign Language",
+            "institution": "C.E.P",
+            "location": "",
+            "start_date": "2016-08-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "CCNA Routing & Switching",
+            "institution": "CISCO Certifications - IT College",
+            "location": "",
+            "start_date": "2015-07-01",
+            "end_date": "2015-07-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring-boot",
+                "jpa",
+                "html",
+                "css",
+                "javascript",
+                "mysql",
+                "postgresql",
+                "redis",
+                "docker",
+                "kubernetes",
+                "git",
+                "github",
+                "aws-services",
+                "ci/cd",
+                "networking",
+                "linux",
+                "bash",
+                "scrum",
+                "kanban"
+            ],
+            "soft": [
+                "adaptability",
+                "team-work",
+                "effective-communication",
+                "problem-solving",
+                "flexibility"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "DevOps Trainee & Mentoring",
+            "issuing_organization": "Fundación Mirgor",
+            "issue_date": "2024-03-01",
+            "expiration_date": "2024-08-31",
+            "credential_id": ""
+        },
+        {
+            "name": "JAVA Back-End Developer Specialization",
+            "issuing_organization": "Oracle Next Education",
+            "issue_date": "2024-01-01",
+            "expiration_date": "2024-07-31",
+            "credential_id": ""
+        },
+        {
+            "name": "AWS Cloud Computing Talent acceleration",
+            "issuing_organization": "Alkemy",
+            "issue_date": "2023-10-01",
+            "expiration_date": "2023-12-31",
+            "credential_id": ""
+        },
+        {
+            "name": "JAVA Back-End Web Developer Bootcamp",
+            "issuing_organization": "MindHub",
+            "issue_date": "2024-07-01",
+            "expiration_date": "2024-09-30",
+            "credential_id": ""
+        },
+        {
+            "name": "Front-End Web Developer Bootcamp",
+            "issuing_organization": "MindHub",
+            "issue_date": "2023-01-01",
+            "expiration_date": "2023-03-31",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Upper Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,202 @@
+{
+    "personal_info": {
+        "first_name": "Mauro",
+        "last_name": "Gaston Garro",
+        "email": "maurogarrodev@gmail.com",
+        "phone": "2954371108",
+        "location": {
+            "country": "Argentina",
+            "city": "Santa Rosa",
+            "state": "La Pampa"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy Desarrollador Web Full Stack, con un enfoque en backend, donde he creado APIs REST y proyectos CRUD para diversas aplicaciones. Actualmente, estoy en búsqueda de mi primer empleo en el sector IT, donde pueda adquirir experiencia y especializarme, especialmente en Desarrollo Backend."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador web",
+            "company": "Profesional independiente",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Creación de un sistema que incluye una landing page y un sistema de administración de artículos para un blog.",
+                "Colaboración en equipo con una desarrolladora frontend y una especialista en UX/UI, enfocándome en el desarrollo del backend.",
+                "Implementación de una API para la gestión de artículos con funcionalidades CRUD, así como un sistema de autenticación y autorización que incluye login y rutas protegidas.",
+                "Documentación de la API con Swagger, y pruebas de los endpoints usando Postman."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Administrativo",
+            "company": "Dirección General del Registro Civil y Capacidad de las Personas",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo e implementación de un sistema de digitalización de documentos que optimizó el almacenamiento y acceso a la información.",
+                "Clasificación y organización de documentos digitales, asegurando el acceso y cumplimiento de estándares de seguridad.",
+                "Provisión de asistencia en tareas administrativas diarias, gestionando agendas y coordinando reuniones facilitando la comunicación interna."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Digitalización de documentos",
+            "company": "IntegralDoc",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación de sistema de digitalización eficaz para la conversión de documentos físicos a digitales.",
+                "Realización de entradas y actualizaciones de datos en sistemas digitales garantizando la precisión y la integridad de la información."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachillerato",
+            "institution": "Colegio Ciudad Santa Rosa",
+            "location": "Santa Rosa, La Pampa",
+            "start_date": "2009-01-01",
+            "end_date": "2009-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["node.js", "express", "react", "html", "css", "javascript", "postman", "mongodb", "firebase", "git", "github", "swagger"],
+            "soft": ["teamwork"],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {
+                "node.js": [
+                    {
+                        "name": "API REST",
+                        "repository_url": ""
+                    }
+                ],
+                "express": [
+                    {
+                        "name": "CRUD APIs",
+                        "repository_url": ""
+                    }
+                ],
+                "react": [
+                    {
+                        "name": "Componentes UI",
+                        "repository_url": ""
+                    }
+                ]
+            }
+        }
+    },
+    "certifications": [
+        {
+            "name": "Testing QA Manual",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Programación Backend",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "React Js",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "JavaScript",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo Web",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Carrera de Desarrollo Frontend React",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Carrera de Desarrollo Full Stack",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Diseño Web Responsive - Bootstrap 3",
+            "issuing_organization": "Udemy",
+            "issue_date": "2017-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Landing Page & Blog Admin",
+            "description": "En este proyecto trabajé en la creación de un sistema que incluye una landing page y un sistema de administración de artículos para un blog.",
+            "technologies": ["Node.js", "Express", "MongoDB", "JWT", "Swagger", "Postman"],
+            "url": ""
+        },
+        {
+            "name": "PampaBeer",
+            "description": "Desarrollé un ecommerce dedicado a la venta de cervezas artesanales con React, React Bootstrap y Firebase.",
+            "technologies": ["React", "React Bootstrap", "Firebase"],
+            "url": ""
+        },
+        {
+            "name": "PampaTicket",
+            "description": "Simulación interactiva de compra de entradas para el cine.",
+            "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+            "url": ""
+        },
+        {
+            "name": "Plant Green",
+            "description": "Desarrollé un ecommerce completo con gestión de productos usando Node.js, Express, MongoDB y Swagger.",
+            "technologies": ["Node.js", "Express", "MongoDB", "Handlebars", "Swagger", "Postman"],
+            "url": ""
+        },
+        {
+            "name": "Walker Artesanales",
+            "description": "Desarrollo de las páginas de Productos y Preguntas para una panificadora.",
+            "technologies": ["HTML", "CSS", "Bootstrap", "JavaScript"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

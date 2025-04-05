@@ -1,0 +1,99 @@
+{
+    "personal_info": {
+        "first_name": "Ricardo",
+        "last_name": "Sande",
+        "email": "ricardosande101@gmail.com",
+        "phone": "+5491158315733",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/sande-ricardo/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Web con experiencia en la creación de aplicaciones escalables usando Angular, Spring Boot y bases de datos SQL/NoSQL. Implemento arquitectura limpia (SOLID, Clean Code) y metodologías ágiles (Scrum, Kanban)."
+    },
+    "work_experience": [],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "angular",
+                "typescript",
+                "javascript",
+                "html",
+                "css3",
+                "spring",
+                "java",
+                "jwt",
+                "oauth-2.0",
+                "ruby",
+                "python",
+                "docker",
+                "firefox",
+                "netlify",
+                "clever-cloud",
+                "render"
+            ],
+            "soft": [
+                "proactividad",
+                "capacidad-de-aprendizaje-rápido",
+                "organización-y-metodología-de-trabajo",
+                "retrospectiva-constante"
+            ],
+            "tools": [
+                "inkscape",
+                "adobe-illustrator",
+                "figma",
+                "git",
+                "agile",
+                "scrum",
+                "kanban",
+                "clean-code",
+                "principios-solid",
+                "desarrollo-basado-en-componentes",
+                "poo",
+                "frp"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "MDashboard",
+            "description": "",
+            "technologies": ["Angular", "Spring Boot", "MySQL"],
+            "url": "https://mng-dashboard.netlify.app/"
+        },
+        {
+            "name": "Mess",
+            "description": "",
+            "technologies": ["Angular", "Firefox"],
+            "url": "https://mess-touchy.netlify.app/"
+        },
+        {
+            "name": "Porfodio personal",
+            "description": "",
+            "technologies": ["Angular", "Firefox"],
+            "url": "https://touchiness.netlify.app/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Lengua materna"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (B1)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

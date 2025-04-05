@@ -1,0 +1,119 @@
+{
+    "personal_info": {
+        "first_name": "Nicolas",
+        "last_name": "Quiroga Santini",
+        "email": "nicolasquiroga.santini@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "San Juan",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/nicolas-quiroga-santini-1550a7231/",
+        "website": "https://github.com/NicoQS",
+        "portfolio": "",
+        "summary": "Estudiante de cuarto año de Licenciatura en Ciencias de la Computación y Técnico Universitario en Programación. Tengo conocimientos en Programación Orientada a Objetos, Estructura de Datos y Algoritmos, Bases de Datos Relacionales (PostgreSQL), así como en tecnologías como HTML, CSS (incluyendo Tailwind), Python, y Laravel. Actualmente, mi principal enfoque está en Laravel 11 (PHP), complementado con un nivel básico en Vue 3 y Tailwind CSS. Soy una persona abierta a trabajar en entornos colaborativos donde pueda crecer tanto personal como profesionalmente, buscando aportar valor y mejorar mis habilidades en el desarrollo de software."
+    },
+    "work_experience": [
+        {
+            "job_title": "Soporte Técnico y Testing",
+            "company": "Empresa Proyectoi",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Realicé tareas de soporte para los usuarios de las diferentes aplicaciones web que contaba la empresa.",
+                "Las aplicaciones eran para gestión municipal, app Mi Lugar en el Mundo, y diferentes sistemas de turnos de clínicas y ópticas.",
+                "Realicé testing manual de aplicaciones webs."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Universitario en Programación",
+            "institution": "Universidad Nacional de San Juan - Facultad de Ciencias Exactas, Físicas y Naturales",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Ciencias de la Computación",
+            "institution": "Universidad Nacional de San Juan - Facultad de Ciencias Exactas, Físicas y Naturales",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "php",
+                "python",
+                "javascript",
+                "html",
+                "css"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sistema de turnos",
+            "description": "API desarrollada en Laravel 11 implementando tokens de sesión, roles, CRUDs, envío de mails y más. El objetivo es que los clientes puedan solicitar un turno con algún profesional.",
+            "technologies": ["PHP", "Laravel 11"],
+            "url": ""
+        },
+        {
+            "name": "Manga-Shop",
+            "description": "API desarrollada en Laravel 11 para gestionar el inventario de mangas en una tienda, utilizando Breeze para la autenticación y con CRUDs para diferentes modelos.",
+            "technologies": ["PHP", "Laravel 11"],
+            "url": "https://github.com/NicoQS/manga-shop"
+        },
+        {
+            "name": "E-commerce",
+            "description": "MVP de 4 semanas para todo tipo de productos, realizado con Laravel-Livewire y también diseñado con Laravel-VUE3.",
+            "technologies": ["PHP", "Laravel", "LiveWire", "Vue.js"],
+            "url": "https://github.com/NicoQS/E-Commerce-JAM - https://github.com/NicoQS/E-Commerce-VUE"
+        },
+        {
+            "name": "Expo-Calidad de Vida",
+            "description": "Proyecto para un cliente desarrollado en Vue 3, pagina informativa de un evento de salud con diferentes apartados utilizando Vue-Router.",
+            "technologies": ["Javascript", "Vue.js"],
+            "url": "https://exposanjuan.netlify.app/"
+        },
+        {
+            "name": "Barberia-Tatuajes",
+            "description": "Prototipo desarrollado con Vue 3 para mostrar los diferentes profesionales y trabajos de un local específico.",
+            "technologies": ["Javascript", "Vue.js"],
+            "url": "https://barber-tattoo.netlify.app/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

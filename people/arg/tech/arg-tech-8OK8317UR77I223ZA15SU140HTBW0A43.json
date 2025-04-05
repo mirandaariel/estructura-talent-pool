@@ -1,0 +1,98 @@
+{
+    "personal_info": {
+        "first_name": "Luciano Martin",
+        "last_name": "Rosende",
+        "email": "lucianorosende@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/lucianorosende",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Fullstack con 4 años de experiencia utilizando Javascript/Typescript. Cuento con 3 años de experiencia laboral como Desarrollador Full-Stack en CLS. Me considero una persona muy motivada a aprender lenguajes nuevos y tambien busco tener la posibilidad de aprender de otras personas dentro del rubro para luego trabajar junto con ellos asi puedo crecer como desarrollador"
+    },
+    "work_experience": [
+        {
+            "job_title": "Fullstack Developer",
+            "company": "CLS",
+            "location": "Argentina (Remote)",
+            "start_date": "2021-04-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementar una interfaz privada para gestion de informes dentro de la empresa",
+                "Utilizacion de MongoDB para manejo de datos (noSQL)",
+                "Implementacion de State management con Redux",
+                "Experiencia trabajando con metodologias de gestion de proyectos (Scrum)"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Course, Javascript",
+            "institution": "CoderHouse",
+            "location": "Argentina",
+            "start_date": "2020-02-01",
+            "end_date": "2020-02-01",
+            "hours": 0
+        },
+        {
+            "degree": "Course, React",
+            "institution": "CoderHouse",
+            "location": "Argentina",
+            "start_date": "2020-04-01",
+            "end_date": "2020-04-01",
+            "hours": 0
+        }, 
+        {
+            "degree": "Course, Backend",
+            "institution": "CoderHouse",
+            "location": "Argentina",
+            "start_date": "2021-09-01",
+            "end_date": "2021-09-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "sass",
+                "typescript",
+                "mongodb",
+                "react",
+                "next",
+                "nodejs",
+                "express",
+                "react-native"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native or Bilingual"
+        },
+        {
+            "language": "English",
+            "proficiency": "Full Professional"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

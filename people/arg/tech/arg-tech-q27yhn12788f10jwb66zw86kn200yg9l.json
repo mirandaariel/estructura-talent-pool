@@ -1,0 +1,117 @@
+{
+    "personal_info": {
+        "first_name": "Milagros",
+        "last_name": "Rosales",
+        "email": "milagros4046@hotmail.com",
+        "phone": "+54 2494240053",
+        "location": {
+            "country": "Argentina",
+            "city": "Tandil",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "https://milagros-rosales.vercel.app/",
+        "summary": "Desarrolladora Full Stack con enfoque en el desarrollo front-end, actualmente en búsqueda de nuevos retos y oportunidades para contribuir con un equipo dinámico a través de mis habilidades técnicas y creativas. Me destaco por mi empatía, toma de decisiones y atención a los detalles lo que me permite desarrollar productos intuitivos y centrados en el usuario, optimizando tanto la funcionalidad como la experiencia de uso."
+    },
+    "work_experience": [
+        {
+            "job_title": "Tutora de Curso de Programación Web Full Stack",
+            "company": "Clúster Tecnológico Tandil",
+            "location": "Tandil, Argentina",
+            "start_date": "2024-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Responsable de guiar a estudiantes en su aprendizaje, resolver dudas, supervisar proyectos y revisar trabajos.",
+                "Experiencia en fomentar el desarrollo de habilidades técnicas, el pensamiento lógico y la colaboración en equipo, ofreciendo acompañamiento personalizado y feedback constructivo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Gestión de Proyectos",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una plataforma web utilizando React, React-Bootstrap y CSS para el frontend, Express.js para el backend, y una base de datos SQL.",
+                "Implementación de autenticación con JWT y bcrypt.",
+                "Sistema permite gestionar proyectos y tareas según el rol del usuario."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "MSC Amoblamientos",
+            "location": "",
+            "start_date": "2023-10-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideré la creación de una interfaz moderna y funcional para el proyecto, utilizando React, Redux, CSS y Bootstrap.",
+                "Implementé soluciones innovadoras para mejorar la experiencia y la estética de la plataforma."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry",
+            "location": "Online",
+            "start_date": "",
+            "end_date": "",
+            "hours": 800
+        },
+        {
+            "degree": "Next.js",
+            "institution": "Udemy",
+            "location": "Online",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "next.js",
+                "react.js",
+                "redux",
+                "node.js",
+                "tailwindcss",
+                "postgresql",
+                "sequalize"
+            ],
+            "soft": [
+                "empatía", 
+                "toma-de-decisiones", 
+                "atención-a-los-detalles"
+            ],
+            "tools": [
+                "figma"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Ingles",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

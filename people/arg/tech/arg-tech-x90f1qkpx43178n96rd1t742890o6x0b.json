@@ -1,0 +1,142 @@
+{
+    "personal_info": {
+        "first_name": "Nicolás",
+        "last_name": "Enciso",
+        "email": "enectrl@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Ezeiza",
+            "state": ""
+        },
+        "linkedin": "www.linkedin.com/in/nicolasenciso",
+        "website": "https://github.com/nicoenciso",
+        "portfolio": "www.nico-portfolio.netlify.app",
+        "summary": "Desarrollador Full-Stack con más de un año de experiencia en React.js, Node.js y PostgreSQL, apasionado por la creación de soluciones escalables y eficientes. Busco formar parte de un equipo dinámico donde pueda aplicar mis conocimientos en frontend y backend, contribuir con buenas prácticas de desarrollo y seguir creciendo en un entorno ágil y colaborativo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Lawcase",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé y optimicé el frontend con React.js y Material UI.",
+                "Gestioné la planificación de tareas y sprints en JIRA.",
+                "Diseñé y mejoré la experiencia de usuario (UI/UX).",
+                "Implementé componentes reutilizables y optimización del rendimiento en el frontend.",
+                "Coordiné el equipo de desarrollo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full stack Developer",
+            "company": "No-Country",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "2024-11-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una aplicación web con React.js, Node.js y PostgreSQL.",
+                "Integré la API de Google Calendar en el backend con Node.js.",
+                "Lideré el equipo con Scrum y gestioné el backlog con JIRA.",
+                "Creé y optimicé APIs en Express.js.",
+                "Colaboré en la definición de buenas prácticas de desarrollo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura superior en desarrollo de software",
+            "institution": "ISTEA",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Economía y Gestión de las Organizaciones",
+            "institution": "Instituto Cultural Tristán Suárez",
+            "location": "",
+            "start_date": "2009-01-01",
+            "end_date": "2009-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript", 
+                "python", 
+                "c#", 
+                "java", 
+                "react", 
+                "nextjs", 
+                "nodejs", 
+                "expressjs", 
+                "react-native", 
+                "django", 
+                "spring", 
+                "net", 
+                "postgresql", 
+                "mongodb", 
+                "mysql", 
+                "sql"
+            ],
+            "soft": [],
+            "tools": [
+                "jira",
+                "trello",
+                "git",
+                "github",
+                "docker",
+                "figma",
+                "slack",
+                "microsoft-teams"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "MVP de Apuestas",
+            "description": "Propuesta de aplicación de SportsTech para WAKI, dentro del marco del Hackathon de No Country.",
+            "technologies": ["react", "vite", "typescript", "material-ui"],
+            "url": "https://github.com/No-Country-simulation/h2-03-csharp-react"
+        },
+        {
+            "name": "E-commerce Tickets",
+            "description": "Página web de comercio electrónico destinada a la venta de entradas para espectáculos deportivos, conciertos musicales y obras teatrales, incluye pasarela de compras seguras con Stripe.",
+            "technologies": ["nextjs","typescript", "stripe", "tailwind"],
+            "url": "https://github.com/nicoenciso/Ecommerce-Tickets"
+        },
+        {
+            "name": "Issue Reporting App",
+            "description": "Aplicación para reporte de problemas con sistema de roles.",
+            "technologies": ["react.js", "node.js", "mongodb", "auth0"],
+            "url": "https://github.com/nicoenciso/issue-reporting-app"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

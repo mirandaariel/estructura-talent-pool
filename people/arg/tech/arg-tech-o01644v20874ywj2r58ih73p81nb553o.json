@@ -1,0 +1,145 @@
+{
+    "personal_info": {
+        "first_name": "Matías",
+        "last_name": "Rodríguez Cárdenas",
+        "email": "matiasrodriguezc01@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Tandil",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "LinkedIn",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un Ingeniero en Sistemas con una sólida formación en desarrollo backend y frontend. Tengo experiencia en la creación e implementación de soluciones escalables, adquirida a través de un bootcamp de Java y un curso especializado de frontend en Udemy. Poseo un nivel C1 de inglés, lo que me permite comunicarme eficazmente en entornos internacionales. Me destaco en equipos multidisciplinarios y en entornos de alto crecimiento, donde aporto habilidades técnicas y una mentalidad orientada al producto para optimizar el desarrollo de software."
+    },
+    "work_experience": [
+        {
+            "job_title": "FullStack Developer",
+            "company": "Abaco Informatica",
+            "location": "Tandil, Argentina",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Migré el proyecto de Create React App a Vite, reduciendo significativamente los tiempos de carga y mejorando el rendimiento en desarrollo.",
+                "Evalué la viabilidad de Next.js para mejorar el SEO y el rendimiento general del proyecto.",
+                "Implementé AG Grid para una gestión avanzada de tablas, permitiendo mayor personalización, manejo eficiente de datos y mejorando la experiencia del usuario.",
+                "Mejoré la accesibilidad y usabilidad, haciendo la aplicación más intuitiva y cumpliendo con estándares de accesibilidad.",
+                "Realicé un análisis comparativo de bibliotecas de gráficos, seleccionando la mejor opción en función de costo, rendimiento y flexibilidad.",
+                "Configuré un entorno de desarrollo local optimizado para agilizar los flujos de trabajo y aumentar la productividad del equipo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas",
+            "institution": "Universidad Nacional del Centro de la Provincia de Buenos Aires",
+            "location": "Tandil, Argentina",
+            "start_date": "2020-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bootcamp - Desarrollador Java Backend",
+            "institution": "Lamansys",
+            "location": "Tandil, Argentina",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso - Desarrollador Frontend Web",
+            "institution": "Udemy",
+            "location": "Argentina",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "postgresql",
+                "java",
+                "jpa",
+                "c++",
+                "python",
+                "scrum",
+                "github",
+                "rasa",
+                "springboot",
+                "maven",
+                "liquibase",
+                "api-rest",
+                "html",
+                "css",
+                "javascript",
+                "angular",
+                "vite",
+                "dart",
+                "docker",
+                "flutter",
+                "react",
+                "next",
+                "php",
+                "jquery"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "First Certificate Exam",
+            "issuing_organization": "Cambridge University",
+            "issue_date": "2018-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Advanced English Certificate",
+            "issuing_organization": "EF SET",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Blog App con Next.js",
+            "description": "Desarrollé una aplicación de gestión de publicaciones utilizando Next.js y MongoDB. Implementé autenticación de usuarios con bcrypt y JWT, permitiendo registro, inicio de sesión y protección de rutas. La aplicación permite a los usuarios crear, editar y eliminar sus propios posts, mientras que pueden visualizar los posts de otros sin modificar ni eliminarlos. Se utilizó Tailwind CSS para el diseño, NextAuth.js para autenticación simplificada y se estructuró el backend con una API RESTful en Next.js.",
+            "technologies": ["Next.js", "MongoDB", "bcrypt", "JWT", "Tailwind CSS", "NextAuth.js"],
+            "url": ""
+        },
+        {
+            "name": "Lamansys Bootcamp Backend",
+            "description": "Desarrollé una API REST para un sistema de comercio electrónico utilizando Spring Boot, PostgreSQL y Docker, siguiendo una arquitectura hexagonal. Implementé operaciones CRUD para la gestión de carritos de compra, incluyendo la creación, modificación, eliminación y finalización de compras. Se manejaron validaciones de stock y precio en tiempo real, asegurando la integridad de las transacciones. La API fue diseñada para permitir la integración con múltiples módulos del sistema, optimizando la escalabilidad y el mantenimiento.",
+            "technologies": ["Spring Boot", "PostgreSQL", "Docker"],
+            "url": ""
+        },
+        {
+            "name": "Flutter Photo App",
+            "description": "Aplicación desarrollada en Flutter que permite a los usuarios registrarse, iniciar sesión y acceder a su galería de fotos. Se implementó funcionalidad CRUD para gestionar imágenes y los datos se almacenan en Firebase.",
+            "technologies": ["Flutter", "Firebase"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "C1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

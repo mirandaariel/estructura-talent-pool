@@ -1,0 +1,106 @@
+{
+    "personal_info": {
+        "first_name": "Francisco",
+        "last_name": "Pedrosa",
+        "email": "franpedrosa04@gmail.com",
+        "phone": "+5492234541211",
+        "location": {
+            "country": "Argentina",
+            "city": "Mar del Plata",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un técnico en programación recientemente egresado con una sólida base en desarrollo de aplicaciones web y gestión de bases de datos. Estoy motivado por aprender y crecer profesionalmente, aportando entusiasmo y compromiso en cada proyecto que emprendo. Mi objetivo es unirme a un equipo dinámico donde pueda poner en práctica mis conocimientos, mientras continúo desarrollando nuevas habilidades y afrontando desafíos innovadores."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Electromecánica (12 materias)",
+            "institution": "Universidad Nacional de Mar del Plata",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller con orientación en Ciencias Naturales",
+            "institution": "Colegio FASTA, Mar del Plata",
+            "location": "",
+            "start_date": "2013-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "c",
+                "sql",
+                "javascript",
+                "typescript",
+                "angular",
+                "express",
+                "knex",
+                "nodejs",
+                "sql-workbench"
+            ],
+            "soft": [
+                "proactivo",
+                "autogestión",
+                "comunicación-efectiva",
+                "trabajo-en-equipo",
+                "adaptabilidad",
+                "mejora-continua",
+                "liderazgo",
+                "resiliencia"
+            ],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Home Banking",
+            "description": "",
+            "technologies": ["Angular", "Express", "Knex", "SQL"],
+            "url": ""
+        },
+        {
+            "name": "Gestor de turnos médicos",
+            "description": "",
+            "technologies": ["Java"],
+            "url": ""
+        },
+        {
+            "name": "Gestión de biblioteca musical",
+            "description": "",
+            "technologies": ["C"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

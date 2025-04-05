@@ -1,0 +1,183 @@
+{
+    "personal_info": {
+        "first_name": "Santiago",
+        "last_name": "Smania",
+        "email": "santiago.smania@gmail.com",
+        "phone": "3515721549",
+        "location": {
+            "country": "",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/santiago-smania",
+        "website": "",
+        "portfolio": "",
+        "summary": "Apasionado por la tecnología. Desde chico aspiro con desarrollarme profesionalmente en áreas en las que la tecnología sea protagonista; la programación, el desarrollo web y de software. Me apasiona aprender cosas nuevas y enfrentarme a nuevos desafíos. Considero que con la tecnología pueden lograrse grandes cambios en beneficio de las personas y la sociedad."
+    },
+    "work_experience": [
+        {
+            "job_title": "Backend Developer",
+            "company": "Veterinaria Full Campo",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Alta baja clientes/pacientes",
+                "Manejo de Historial Clínico",
+                "Registro de turnos, modificación de sesión y bot de asistencia"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Backend Developer",
+            "company": "Cámara de Mandatarios y Gestores",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Alta y modificación stock y clientes",
+                "Visualización de ingresos y proveedores"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Backend Developer",
+            "company": "AlphaGroup",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Alta/modificación órdenes compra",
+                "Visualización de órdenes compra",
+                "Sincronización de datos"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Web Page Designer",
+            "company": "Cámara de Mandatarios y Gestores",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Actualización y mantenimiento de páginas web",
+                "Organización de archivos",
+                "Carga de datos"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachiller en Ciencias Sociales y Humanidades",
+            "institution": "Colegio Santo Tomás",
+            "location": "",
+            "start_date": "",
+            "end_date": "2019-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Analista de Sistemas de Computación",
+            "institution": "Colegio Universitario IES 21",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en Software",
+            "institution": "Universidad Siglo 21",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "net",
+                "django",
+                "python",
+                "c#",
+                "php",
+                "typescript",
+                "nocle.js",
+                "java",
+                "apache-net-beans",
+                "sql-server",
+                "mysql"
+            ],
+            "soft": [
+                "organizado-y-ordenado",
+                "sumamente-responsable",
+                "facilidad-y-capacidad-de-aprendizaje",
+                "curioso",
+                "perseverante"
+            ],
+            "tools": [
+                "visual-studio",
+                "visual-code"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Desarrollo Web",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "JavaScript",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Python",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Sistema de Gestión de Veterinaria",
+            "description": "Sistema de gestión que realiza alta baja clientes/pacientes, manejo de Historial Clínico, registro de turnos, modificación de sesión y un bot de asistencia.",
+            "technologies": [],
+            "url": "https://github.com/santiagosmania/Tesis-GestionVeterinaria.git"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

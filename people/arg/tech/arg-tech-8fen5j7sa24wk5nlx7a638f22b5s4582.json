@@ -1,0 +1,75 @@
+{
+    "personal_info": {
+        "first_name": "Luciano Ezequiel",
+        "last_name": "Arias",
+        "email": "lucianoarias1997@gmail.com",
+        "phone": "+54 1130299845",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/luciano-arias/",
+        "website": "",
+        "portfolio": "https://portfolio-dev-gray-vercel.app/",
+        "summary": "Desarrollador de software con más de 1 año de experiencia en desarrollo de aplicaciones, especializado en Next.js y aprendiendo Salesforce. Responsable, dinámico y proactivo."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Fullstack Developer",
+            "institution": "Nucba",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "next.js",
+                "express",
+                "react",
+                "node.js",
+                "tailwindcss",
+                "mongodb",
+                "sql",
+                "github",
+                "java",
+                "salesforce"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Fake Trello",
+            "description": "Aplicación web de gestión de tareas inspirada en 'Trello'.",
+            "technologies": ["next.js", "postgresql", "tailwindcss"],
+            "url": ""
+        },
+        {
+            "name": "Weather App",
+            "description": "Aplicación del clima que proporciona pronósticos locales y mundiales.",
+            "technologies": ["next.js", "tailwindcss"],
+            "url": ""
+        },
+        {
+            "name": "Alexa App",
+            "description": "Plataforma de inteligencia artificial creada con Next.js y OpenAI.",
+            "technologies": ["next.js", "tailwindcss"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

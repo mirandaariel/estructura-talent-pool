@@ -1,0 +1,150 @@
+{
+    "personal_info": {
+        "first_name": "Hernán",
+        "last_name": "Escobar",
+        "email": "guidohernanescobar@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Garin",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/hernan-escobar/",
+        "website": "https://hernanescobar12.github.io/Portafolio/",
+        "portfolio": "",
+        "summary": "Desarrollador Backend .NET | C# | ASP.NET | Entity Framework | SQL Server | Web Services | Integraciones | API REST | POO. Cuento con experiencia en ASP.NET, C#, .NET Framework, SQL Server, HTML, CSS y JavaScript, además de conocimientos en Entity Framework, LINQ y pruebas con Postman. Actualmente, estoy finalizando la Tecnicatura en Programación en la UTN, donde he aprobado todas las materias del primer año. Me especializo en desarrollo backend y sigo capacitándome de manera autodidacta en APIs y arquitecturas de software."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador",
+            "company": "HGestión",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de una aplicación web completa para la gestión integral de productos, desde la compra con proveedores hasta la venta con clientes.",
+                "Diseño y construcción de bases de datos en SQL Server 2019.",
+                "Implementación de ASP.NET MVC y Entity Framework para asegurar escalabilidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador",
+            "company": "Agenda de Servicios",
+            "location": "",
+            "start_date": "2023-05-01",
+            "end_date": "2023-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de una aplicación web para la gestión de turnos conectada a una base de datos SQL Server.",
+                "Uso de ASP.NET Core MVC, Bootstrap y JavaScript.",
+                "Validación de datos y manejo de dependencias con Entity Framework."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador",
+            "company": "CompraClick",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una aplicación e-commerce para gestión de productos.",
+                "Tecnologías utilizadas: ASP.NET WebForms, Bootstrap, SQL Server 2019.",
+                "Implementación de procedimientos almacenados, validaciones y manejo de errores."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador",
+            "company": "Gestión de Artículos",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "2023-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una aplicación de escritorio para gestión de inventarios.",
+                "Uso de ADO.NET y Arquitectura en Capas.",
+                "Creación de interfaces con funcionalidades específicas y validaciones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Programación",
+            "institution": "Universidad Tecnológica Nacional (UTN)",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Economía y Administración",
+            "institution": "Instituto José Manuel Estrada",
+            "location": "",
+            "start_date": "2010-01-01",
+            "end_date": "2015-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Profesorado de Inglés",
+            "institution": "Jaun’s Institute [ICADI]",
+            "location": "",
+            "start_date": "2010-03-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                "python",
+                "java",
+                "ado.net",
+                ".net-framework",
+                "asp.net-mvc",
+                "net-core",
+                "ef",
+                "blazor",
+                "winforms",
+                "sql-server",
+                "mysql",
+                "html",
+                "css",
+                "javaScript",
+                "bootstrap",
+                "jquery"
+            ],
+            "soft": [],
+            "tools": [
+                "entity-framework",
+                "linq",
+                "git",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

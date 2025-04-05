@@ -1,0 +1,112 @@
+{
+    "personal_info": {
+        "first_name": "José",
+        "last_name": "Farelo",
+        "email": "jose.farelo@hotmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/josefarelo/",
+        "website": "https://github.com/josefarelo",
+        "portfolio": "https://josefarelo.github.io/my-portfolio/",
+        "summary": "Desarrollador Web en formación con conocimientos en HTML, CSS, JavaScript, React.js, SASS, Node.js y SQL. Me apasiona crear aplicaciones web interactivas y bien diseñadas, aplicando buenas prácticas de desarrollo, diseño responsivo, mobile first y consumo de APIs. Busco una oportunidad para crecer profesionalmente, sumar mis habilidades a un equipo y seguir aprendiendo en un entorno real de trabajo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Tapicería Automotriz",
+            "company": "Tapicería José Farelo",
+            "location": "Av. Juan B. Justo 2486",
+            "start_date": "2017-07-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Trabajé en equipo en el diseño, reparación y fabricación de interiores de vehículos, cuidando cada detalle para mejorar el confort y la estética, con el objetivo de lograr la satisfacción del cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas de Información",
+            "institution": "Universidad Tecnológica Nacional - Facultad Regional Buenos Aires",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Mecánico Electricista",
+            "institution": "Escuela Técnica N°34 - Ing. Enrique Martin Hermitte",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2011-03-01",
+            "end_date": "2017-11-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "sass",
+                "node.js",
+                "sql",
+                "git",
+                "github",
+                "vs code"
+            ],
+            "soft": [
+                "Resolución de problemas",
+                "Trabajo en equipo",
+                "Gestión del tiempo",
+                "Aprendizaje rápido",
+                "Adaptabilidad",
+                "Creatividad"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        "Foundational C# with Microsoft - FreeCodeCamp (2024)",
+        "Back End Development and APIs - FreeCodeCamp (2024)",
+        "Relational Database - FreeCodeCamp (2024)",
+        "Data Visualization - FreeCodeCamp (2024)",
+        "Front End Development Libraries - FreeCodeCamp (2024)",
+        "Curso de Introducción al Desarrollo Web: HTML y CSS (1/2 y 2/2) - Google (2024)",
+        "JavaScript Algorithms and Data Structures - FreeCodeCamp (2023)",
+        "Responsive Web Design - FreeCodeCamp (2023)"
+    ],
+    "projects": [
+        {
+            "name": "TrainForge",
+            "description": "Plataforma para la planificación de entrenamientos personalizados, con registro de datos, seguimiento en tiempo real y control de peso. Optimizada para UX/UI y responsive design.",
+            "technologies": ["react", "node.js", "mysql", "sass"],
+            "url": "https://github.com/josefarelo/trainforge"
+        },
+        {
+            "name": "La Batata",
+            "description": "Juego de dados multijugador con funciones especiales y sistema de puntuación detallado. Diseño dinámico y atractivo.",
+            "technologies": ["react", "javascript", "sass"],
+            "url": "https://github.com/josefarelo/la-batata"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "level": "Intermedio (B1)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

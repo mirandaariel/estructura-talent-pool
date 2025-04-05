@@ -1,0 +1,100 @@
+{
+    "personal_info": {
+        "first_name": "Carlos",
+        "last_name": "Hernández",
+        "email": "",
+        "phone": "+58 424-911-5550",
+        "location": {
+            "country": "Venezuela",
+            "city": "Puerto Ordaz",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador web autodidacta con 1+ año de experiencia práctica creando aplicaciones responsivas y centradas en el usuario. Dominio de HTML, CSS, JavaScript, TypeScript, React y Next.js. Apasionado por optimizar flujos de trabajo, resolver desafíos técnicos y contribuir al éxito de equipos mediante código limpio y soluciones innovadoras. Motivado por crecer en entornos colaborativos y ofrecer resultados medibles."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Técnico Superior en Electricidad",
+            "institution": "Fundación La Salle",
+            "location": "",
+            "start_date": "2015-09-01",
+            "end_date": "2019-05-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript-(es6+)",
+                "typescript",
+                "react",
+                "next.js",
+                "tailwindcss",
+                "express",
+                "rest-apis",
+                "prisma"
+            ],
+            "soft": [
+                "resolución-de-problemas",
+                "atención-al-detalle",
+                "adaptabilidad"
+            ],
+            "tools": [
+                "github",
+                "react-query",
+                "react-router",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "React y TypeScript Avanzado",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": "CERTIFICADO DE COMPLETACIÓN EN REACT Y TYPESCRIPT"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Plataforma E-commerce",
+            "description": "Optimización del flujo de pago y rendimiento de la base de datos, colaborando con diseñadores UX/UI.",
+            "technologies": ["prisma", "figma"],
+            "url": ""
+        },
+        {
+            "name": "Herramienta de Gestión de Tareas",
+            "description": "Función de gestión de proyectos con actualización en tiempo real y diseño responsivo.",
+            "technologies": [
+                "react-query",
+                "typescript",
+                "react-router",
+                "tailwindcss"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

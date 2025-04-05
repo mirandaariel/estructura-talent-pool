@@ -1,0 +1,132 @@
+{
+    "personal_info": {
+        "first_name": "Noelia",
+        "last_name": "Vioni",
+        "email": "nvioni@gmail.com",
+        "phone": "+54.9.11.5375-1559",
+        "location": {
+            "country": "Argentina",
+            "city": "CABA",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/noelia-vioni-a10a4722",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desde hace 16 años soy Contadora y en este momento estoy cursando la carrera de Analista de Sistemas. Esta nueva etapa se presenta como un camino natural en mi trayectoria profesional. Creo que la resolución de problemas es un aspecto fundamental de mi labor. Actualmente, estoy en la búsqueda de mi primer empleo en el área de Análisis de Datos que me ofrezca la oportunidad de desarrollar y fortalecer mis conocimientos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Contadora Pública",
+            "company": "Independiente",
+            "location": "CABA",
+            "start_date": "2008-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Realización de tareas contables, Auditorias, Presupuesto, Impuestos, Societario, Requerimientos y Auditorias AFIP, Soluciones Financieras y empresariales para brindar soluciones a Pymes y Estudios contables."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Senior Contable y Liquidación de Sueldos",
+            "company": "Iteco SRL",
+            "location": "CABA",
+            "start_date": "2005-01-01",
+            "end_date": "2008-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión de cuentas, Liquidación de sueldos en DOS, Registración de asientos, carga y control de asientos contable, liquidación de Impuestos provinciales y nacionales, atención telefónica a clientes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Contabilidad",
+            "institution": "Facultad de Ciencias Económicas (UBA)",
+            "location": "",
+            "start_date": "2000-01-01",
+            "end_date": "2007-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Analista de Sistemas",
+            "institution": "Facultad de Ciencias Económicas (UBA)",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["python", "javascript", "power-bi", "sql"],
+            "soft": [],
+            "tools": ["jira"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Power BI",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "2024-12-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Fundamentos del networking profesional",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "2025-01-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Introducción al Análisis de datos con Python",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "2025-02-28",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Trabajo de Testing",
+            "description": "Diseño y ejecucion de casos de pruebas, reporte de Bugs y reporte de resultados",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermediate"
+        },
+        {
+            "language": "Japonés",
+            "proficiency": "Basic"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Secretaria de Comisión Directiva",
+            "organization": "Colegio Argentino Japones Nichia Gakuin Asociación Civil sin fines de Lucro",
+            "location": "",
+            "start_date": "2014-05-01",
+            "end_date": "2023-12-31",
+            "responsibilities": [
+                "Se formaron grupos de trabajos con distintos referentes de área y trabajamos en conjunto para dar soluciones.",
+                "Logramos superar la pandemia, incluyendo servicios de plataforma educativa y reforzando el plantel docente.",
+                "Coordinamos entrevistas con asociaciones y logramos solventar inversiones edilicias.",
+                "Transformar y actualizar la página web e incorporar un Logo y diseño de marca logrando posicionar a la institución a nivel educativo como referente."
+            ]
+        }
+    ],
+    "publications": [],
+    "references": []
+}

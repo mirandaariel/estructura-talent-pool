@@ -1,0 +1,111 @@
+{
+    "personal_info": {
+        "first_name": "Valentín",
+        "last_name": "Pagura",
+        "email": "paguravalentin@gmail.com",
+        "phone": "+54 9 11 6600-6861",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/valent%C3%ADn-pagura-b86abb27b",
+        "website": "",
+        "portfolio": "",
+        "summary": "Con un perfil analítico y una sólida formación en desarrollo de software, me especializo en la gestión y optimización de información, asegurando eficiencia y calidad en cada proyecto. Mi enfoque está orientado al análisis y diseño de soluciones tecnológicas, aplicando metodologías que faciliten la toma de decisiones y la mejora continua."
+    },
+    "work_experience": [
+        {
+            "job_title": "Prácticas Finales",
+            "company": "UTN",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión eficiente de productos con funcionalidades como agregar, eliminar, actualizar y buscar productos.",
+                "Filtrar productos por categoría (Ropa, Alimento, Electrónico).",
+                "Exportar datos a formatos como JSON, CSV y TXT.",
+                "Verificar fecha de vencimiento en productos alimenticios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Freelance",
+            "company": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de un organizador de archivos en Java que clasifica automáticamente archivos en subcarpetas.",
+                "Implementación de algoritmos de clasificación para optimizar la organización de archivos.",
+                "Colaboración en el diseño de una arquitectura modular."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura universitaria en programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "Avellaneda",
+            "start_date": "2023-09-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "python",
+                "html",
+                "css",
+                "javascript",
+                "mysql",
+                "mongodb",
+                "docker",
+                "linux"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Password-Generator",
+            "description": "Programa realizado en Python que permite a los usuarios crear contraseñas seguras personalizadas.",
+            "technologies": ["Python"],
+            "url": ""
+        },
+        {
+            "name": "TO-DO-LIST",
+            "description": "Aplicación de consola en Java para gestionar una lista de tareas pendientes.",
+            "technologies": ["Java"],
+            "url": ""
+        },
+        {
+            "name": "Preguntados",
+            "description": "Proyecto en Python para desafiar conocimientos en múltiples áreas, usando JSON para puntuaciones.",
+            "technologies": ["Python", "JSON"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,107 @@
+{
+    "personal_info": {
+        "first_name": "Matías Agustín",
+        "last_name": "Tosi",
+        "email": "matiasagustintosi@gmail.com",
+        "phone": "11 5011 4622",
+        "location": {
+            "country": "Argentina",
+            "city": "Monte Grande",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Tengo como propósito desarrollar mi carrera profesional, teniendo la oportunidad de implementar y llevar adelante los conocimientos adquiridos en mi formación académica. Busco establecerme en un puesto de trabajo que me permita aportar mis aptitudes para alcanzar los objetivos propuestos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Soporte Técnico",
+            "company": "Municipalidad Esteban Echeverría",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Mantenimiento de PC de escritorio y notebooks, instalación de sistema Windows, cambios de hardware.",
+                "Instalación de aplicativos, Adobe, AutoDesk, Office, Corel Draw, Rafam.",
+                "Configuración de impresoras por puerto USB e IP. Asistencia remota o desde la impresora.",
+                "Asistencia a diferentes problemáticas, monitores sin imagen, pc tildados, recuperación de archivos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Operador Mesa de Ayuda",
+            "company": "AreaIT / Correo Argentino",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Soporte de aplicaciones vía remoto, configuración de impresoras y office 365, en Windows y Linux.",
+                "Atención al usuario vía teléfono.",
+                "Utilización de la aplicación Service Manager para la generación de tickets y categorización."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Sistemas",
+            "institution": "Universidad Nacional de Lanús",
+            "location": "Lanús, Buenos Aires",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller con orientación en Ciencias Sociales y Humanidades",
+            "institution": "Colegio La Anunciación",
+            "location": "Buenos Aires",
+            "start_date": "",
+            "end_date": "2015-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c",
+                "java",
+                "python",
+                "kotlin",
+                "html",
+                "css",
+                "mysql"
+            ],
+            "soft": [
+                "orientación-a-resultados",
+                "aprendizaje-continuo",
+                "trabajo-en-equipo",
+                "atención-a-los-detalles",
+                "análisis-de-información",
+                "vocación-de-servicio"
+            ],
+            "tools": [
+                "adobe",
+                "autodesk",
+                "office",
+                "corel-draw",
+                "rafam",
+                "service-manager"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

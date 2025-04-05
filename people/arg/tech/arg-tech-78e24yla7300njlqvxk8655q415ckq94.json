@@ -1,0 +1,120 @@
+{
+    "personal_info": {
+        "first_name": "Favio",
+        "last_name": "Manrrubia",
+        "email": "manrrubiaf@gmail.com",
+        "phone": "+54 9 11-3203-6570",
+        "location": {
+            "country": "Argentina",
+            "city": "San Martin",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/favio-manrrubia/",
+        "website": "https://favio-manrrubia.com.ar",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack, orientado a back end, con un enfoque claro en seguridad y en entregar un código limpio y legible."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Licenciatura en Sistemas",
+            "institution": "Facultad de Ingeniería (UBA)",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Full Stack",
+            "institution": "Bootcamp SoyHenry",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "2023-08-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "express.js",
+                "node.js",
+                "postgresql",
+                "sequelize",
+                "react",
+                "redux",
+                "typescript",
+                "python",
+                "oauth2"
+            ],
+            "soft": [
+                "pensamiento-analitico",
+                "capacidad-resolutiva",
+                "vision-objetiva",
+                "perseverancia",
+                "dedicacion"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Proyecto Individual",
+            "description": "Aplicación destinada a la búsqueda de actividades turísticas en determinados paises, registro abierto de actividades, filtros combinados por continentes, actividades y población.",
+            "technologies": [],
+            "url": "https://github.com/ManrrubiaF/PI-COUNTRIES"
+        },
+        {
+            "name": "Proyecto Grupal - HotelHunt",
+            "description": "Un proyecto grupal realizado en un equipo de trabajo, donde se creó una plataforma de reservas con sistemas de seguridad, resguardando la integridad de usuarios finales y administradores de hoteles.",
+            "technologies": [],
+            "url": "https://github.com/ManrrubiaF/PF_HOSTEL",
+            "repository_url": "https://hotelhunt.com.ar"
+        },
+        {
+            "name": "Plantilla Server E-Commerce",
+            "description": "Esta es una plantilla de servidor para un E-Commerce o tienda virtual diseñada con TS, postgress, express, sequelize.",
+            "technologies": [],
+            "url": "https://github.com/ManrrubiaF/Plantilla_server"
+        },
+        {
+            "name": "Plantilla de Front E-Commerce",
+            "description": "Plantilla de diseño básico y funcional para una tienda virtual. Diseñada con React, Redux, Toolkit, CSS, cloudinary.",
+            "technologies": [],
+            "url": "https://github.com/ManrrubiaF/TemplateFront1/",
+            "repository_url": "https://template-front1-es.vercel.app/"
+        },
+        {
+            "name": "Surenia IT",
+            "description": "Sitio estático hecho con React y CSS.",
+            "technologies": [],
+            "url": "https://github.com/ManrrubiaF/SureniaIT",
+            "repository_url": "https://surenia-it.vercel.app/"
+        },
+        {
+            "name": "Luthien Pet Travels",
+            "description": "Luthien Pet Travels, porque tu mascota también puede pedir un uber. Hecho con react-redux, express y sequelize.",
+            "technologies": [],
+            "url": "https://github.com/ManrrubiaF/Luthien-Travels-front",
+            "repository_url": "https://luthien-pet-travels.vercel.app/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,98 @@
+{
+    "personal_info": {
+        "first_name": "Edison",
+        "last_name": "Reinoso Medina",
+        "email": "edison1282015@gmail.com",
+        "phone": "+593 993217495",
+        "location": {
+            "country": "Ecuador",
+            "city": "Guayaquil",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/edison-reinoso-medina-583831122",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Siigo",
+            "location": "Popayan, Colombia",
+            "start_date": "2020-11-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Mejora de microservicio (Net Core 6) para obtener información detallada sobre documentos contables.",
+                "Desarrollo de una nueva vista de reportería adaptada para un país específico utilizando Angular y DevExpress.",
+                "Participación en la creación de reportería, vistas y store procedures en SQL Server."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Prosegur",
+            "location": "Guayaquil, Ecuador",
+            "start_date": "2024-01-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de un portal de pago integrando sistemas de recaudación.",
+                "Desarrollo de un sistema de notificaciones push con Firebase, Angular + PrimeNG.",
+                "Implementación de API's con Domain Driven Design en Spring Boot utilizando RabbitMQ."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computer Science Engineering",
+            "institution": "Escuela Superior Politécnica del Litoral",
+            "location": "Guayaquil, Ecuador",
+            "start_date": "",
+            "end_date": "2024-01-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "sql-server",
+                "oracle-db",
+                "postgresql",
+                "c#",
+                "python",
+                "javascript",
+                "net-core",
+                "asp.net-core",
+                "angular",
+                "devexpress",
+                "react"
+            ],
+            "soft": [],
+            "tools": [
+                "sql-server-management-studio",
+                "postman",
+                "visual-studio-code",
+                "docker",
+                "github",
+                "application-insights",
+                "jira",
+                "azure-boards",
+                "swagger"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

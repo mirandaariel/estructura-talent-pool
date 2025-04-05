@@ -1,0 +1,111 @@
+{
+    "personal_info": {
+        "first_name": "Brenda Celia",
+        "last_name": "Godoy",
+        "email": "brendaceliagodoy@gmail.com",
+        "phone": "+54 9 3364 681151",
+        "location": {
+            "country": "Argentina",
+            "city": "Rosario",
+            "state": "Santa Fe"
+        },
+        "linkedin": "https://linkedin.com/in/brendagodoy-",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy Ingeniera en Sistemas graduada de la UTN, apasionada por la tecnología y el desarrollo de software. Me destaco por mi disciplina, perseverancia y compromiso con la excelencia. Soy dinámica, proactiva y con muchas ganas de aprender y crecer profesionalmente. Mi mentalidad analítica y orientación a resultados me permiten aportar soluciones innovadoras en cada proyecto."
+    },
+    "work_experience": [
+        {
+            "job_title": "Adm. de Desarrollo de Sistemas - Pasantía",
+            "company": "Avalian",
+            "location": "",
+            "start_date": "2023-06-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñar y mantener aplicaciones utilizando PL/SQL, Oracle Forms, Python y Django, automatizando procesos que reducen el trabajo manual en un 30%.",
+                "Optimizar los procesos de control de versiones con Git, mejorando la colaboración del equipo y minimizando conflictos en el código.",
+                "Implementar metodologías ágiles (Scrum y Agile) para aumentar la productividad del equipo, entregando características clave dentro de plazos ajustados.",
+                "Participar en la gestión de tareas a través de Jira, facilitando el seguimiento de proyectos y logrando una mejora del 20% en la tasa de finalización de tareas asignadas.",
+                "Depurar y optimizar procesos backend, mejorando el rendimiento del sistema y asegurando tiempos de respuesta más rápidos y mayor confiabilidad para los usuarios finales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Especialista en Soporte IT Bilingüe",
+            "company": "Accenture",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Gestionar tickets y soporte en ServiceNow, garantizando resoluciones rápidas y satisfacción del usuario.",
+                "Colaborar con equipos técnicos para minimizar tiempos de inactividad.",
+                "Analizar datos para identificar tendencias y mejorar procesos mediante artículos en la base de conocimiento."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas de Información",
+            "institution": "Universidad Tecnológica Nacional, FRRO",
+            "location": "Rosario, Santa Fe, Argentina",
+            "start_date": "2019-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "django",
+                "sql",
+                "mysql",
+                "pl/sql",
+                "vue.js",
+                "pytorch",
+                "desarrollo-de-apis",
+                "html",
+                "css"
+            ],
+            "soft": [
+                "resolución-de-problemas",
+                "análisis-de-datos"
+            ],
+            "tools": [
+                "github",
+                "bitbucket",
+                "jira",
+                "metodologías-ágiles"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Microsoft Certified: Azure Fundamentals (AZ-900)",
+            "issuing_organization": "Microsoft",
+            "issue_date": "2024-11-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Advanced (C1)"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

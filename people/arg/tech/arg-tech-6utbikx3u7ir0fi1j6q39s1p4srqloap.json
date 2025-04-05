@@ -1,0 +1,128 @@
+{
+    "personal_info": {
+        "first_name": "Americo Leandro",
+        "last_name": "Mortarini",
+        "email": "leandromortarini2@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/leandro-mortarini/",
+        "website": "https://github.com/leandromortarini2",
+        "portfolio": "https://mortacode.vercel.app/",
+        "summary": "Desarrollador Frontend con experiencia en JavaScript, TypeScript, React y Angular, enfocado en crear aplicaciones web eficientes y visualmente atractivas. Mi trabajo se centra en implementar soluciones bien pensadas, mejorando la experiencia del usuario y optimizando procesos mediante buenas prácticas de desarrollo. Me destaco por mi autonomía, atención al detalle y mi habilidad para colaborar en equipo, convencido de que los mejores resultados provienen del esfuerzo conjunto y la comunicación efectiva."
+    },
+    "work_experience": [
+        {
+            "job_title": "Front-end React",
+            "company": "Inflatrack",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño e implementación de interfaces",
+                "Optimización de rendimiento",
+                "Colaboración con equipos multidisciplinarios",
+                "Atención al detalle"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Front-end Angular",
+            "company": "Innevo",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2024-09-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una plataforma interna para Servismart utilizando Angular, Angular Material y SCSS",
+                "Diseñé e implementé servicios compartidos para optimizar la gestión y acceso a datos",
+                "Implementé componentes modulares reutilizables que mejoraron la escalabilidad del proyecto"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Oficial de policía",
+            "company": "Policia de la provincia de Buenos Aires",
+            "location": "",
+            "start_date": "2016-12-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desempeñé el rol de Jefe de Unidad en un grupo antitumulto y allanamientos",
+                "Patrullaje urbano y resolución de conflictos",
+                "Jerarquía Sargento de policía"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diplomatura en programación web full stack con Php y MySQL",
+            "institution": "Universidad Tecnológica Nacional Facultad Regional Resistencia Chaco - UTN FRRe",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Full stack developer",
+            "institution": "Henry",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "redux",
+                "angular",
+                "next.js"
+            ],
+            "soft": [
+                "autonomía",
+                "atención-al-detalle",
+                "colaboración-en-equipo",
+                "comunicación-efectiva"
+            ],
+            "tools": [
+                "tailwind-css",
+                "shadcn-ui",
+                "styled-components",
+                "scss",
+                "material-ui",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "A2"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

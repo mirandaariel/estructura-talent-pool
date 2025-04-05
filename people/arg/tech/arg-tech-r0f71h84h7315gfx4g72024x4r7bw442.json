@@ -1,0 +1,112 @@
+{
+    "personal_info": {
+        "first_name": "Juan Gabriel",
+        "last_name": "Garay",
+        "email": "juangaray463@gmail.com",
+        "phone": "+54 11 3854-5719",
+        "location": {
+            "country": "Argentina",
+            "city": "Rafael Calzada",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/juan-garay-554350184",
+        "website": "",
+        "portfolio": "https://github.com/JuanG10",
+        "summary": "Me gustaría formar parte de una empresa en la que crecer tanto profesional como personalmente. Estoy en búsqueda de nuevos desafíos y metas a lograr, dónde aportar todas mis habilidades."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "E-Planning",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Optimicé consultas de bases de datos relacionales, asegurando la integridad de los datos y solucionando bugs.",
+                "Desarrollé frontend tanto para uso interno como para los clientes en aplicaciones relacionadas al manejo de distintas monedas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Front-end",
+            "company": "Practia",
+            "location": "",
+            "start_date": "2022-12-01",
+            "end_date": "2023-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Trabajé con los equipos de diseño para desarrollar frontend para clientes, como una aplicación de chat o mostrar generaciones de autos 2D controladas por IA."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación Informática / Licenciatura en Informática",
+            "institution": "Universidad Nacional de Quilmes (UNQ)",
+            "location": "Quilmes, Buenos Aires",
+            "start_date": "2017-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Inglés Intermedio (Intermediate 1)",
+            "institution": "EATELL",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "mysql",
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "perl",
+                "python",
+                "docker",
+                "nodejs"
+            ],
+            "soft": [
+                "metodologías-ágiles",
+                "gestión-de-equipos"
+            ],
+            "tools": [
+                "postman",
+                "git",
+                "gnu/linux",
+                "bootstrap",
+                "react-js",
+                "material-ui",
+                "api-rest"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

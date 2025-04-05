@@ -1,0 +1,104 @@
+{
+    "personal_info": {
+        "first_name": "Jorge Eliecer",
+        "last_name": "Fontalvo Bonett",
+        "email": "jorgefontalvo17@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Colombia",
+            "city": "Santa Marta",
+            "state": "Magdalena"
+        },
+        "linkedin": "http://linkedin.com/in/jorge-fontalvo17",
+        "website": "",
+        "portfolio": "https://github.com/jorgef17",
+        "summary": "Soy ingeniero electrónico apasionado por el desarrollo de software, especialmente en el uso de Python, cuya versatilidad y aplicabilidad se destacan en múltiples campos profesionales. Además, cuento con experiencia en otros lenguajes de programación como C y poseo conocimientos básicos en JavaScript, lo que me permite abordar desafíos técnicos desde diversas perspectivas."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Ingeniero Electrónico",
+            "institution": "Universidad del Magdalena",
+            "location": "Santa Marta, CO",
+            "start_date": "2017-08-03",
+            "end_date": "2024-09-20",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "javascript",
+                "c",
+                "c++",
+                "flask",
+                "aws"
+            ],
+            "soft": [
+                "resolución-de-problemas",
+                "trabajo-en-equipo",
+                "comunicación-efectiva",
+                "disciplina",
+                "organización"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "visual-studio-code",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Machine Learning, ciencia de datos y visualización con Python",
+            "issuing_organization": "MINTIC - IBM",
+            "issue_date": "2024-01-01",
+            "expiration_date": ""
+        },
+        {
+            "name": "Visión artificial con Python",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-01-01",
+            "expiration_date": ""
+        },
+        {
+            "name": "Escuela de desarrollo de software",
+            "issuing_organization": "Platzi",
+            "issue_date": "2023-01-01",
+            "expiration_date": ""
+        },
+        {
+            "name": "Carrera de Internet de las Cosas",
+            "issuing_organization": "Platzi",
+            "issue_date": "2022-01-01",
+            "expiration_date": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Construcción de un dron esparcidor de semillas para aplicación en la agricultura de precisión",
+            "description": "Colaboración en la investigación y desarrollo de tecnologías aplicadas a la agricultura.",
+            "technologies": ["Python", "Flask", "OpenCV", "Ardupilot"],
+            "url": "https://repositorio.unimagdalena.edu.co/items/266ca6ed-2286-48b0-bdce-f2498b1881d9"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Basic"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

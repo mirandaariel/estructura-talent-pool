@@ -1,0 +1,121 @@
+{
+    "personal_info": {
+        "first_name": "Melvin Eduardo",
+        "last_name": "Mora Aguilar",
+        "email": "melvinad2004@gmail.com",
+        "phone": "+58 4124392152",
+        "location": {
+            "country": "Venezuela",
+            "city": "Guacara",
+            "state": "Edo Carabobo"
+        },
+        "linkedin": "https://www.linkedin.com/in/melvin-mora-aguilar-491378298/",
+        "website": "https://github.com/Vein22",
+        "portfolio": "",
+        "summary": "Soy un FullStack Developer con un año de experiencia en el desarrollo y aprendizaje de aplicaciones web, especializado en tecnologías backend como Node.js, Nest.js, Express y PostgreSQL. Con sólidos conocimientos en la construcción y gestión de bases de datos, y habilidades avanzadas en TypeScript y JavaScript, me enfoco en escribir código limpio, robusto y mantenible. Además de mi experiencia técnica, mi formación en roles fuera del ámbito de la tecnología ha fortalecido mis capacidades de resolución de problemas, trabajo en equipo y gestión de proyectos, lo que me permite adaptarme a diversas situaciones y contribuir significativamente a equipos multidisciplinarios."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollo de Cuentas y Adquisición de Recursos en OSRS",
+            "company": "Alianza Gaming Zone",
+            "location": "",
+            "start_date": "2022-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Optimización de Cuentas: Mejora de las habilidades de las cuentas de clientes en OSRS.",
+                "Cumplimiento de Misiones: Completación de misiones específicas en nombre de los clientes.",
+                "Recolección de Recursos: Farmear items y recursos valiosos dentro del juego.",
+                "Participación en Minijuegos y Tareas: Realización de tareas y minijuegos para obtener artículos raros.",
+                "Trabajo en Equipo: Colaboración con compañeros para optimizar el proceso de desarrollo de cuentas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Supervisor Analista",
+            "company": "P.C.P Protección y Control de Pérdidas",
+            "location": "",
+            "start_date": "2021-09-01",
+            "end_date": "2022-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Supervisión y seguridad en instalaciones comerciales.",
+                "Inspección y generación de reportes de irregularidades.",
+                "Control de acceso y verificación de mercancía.",
+                "Atención al cliente y manejo de personal.",
+                "Resolución de problemas y toma de decisiones bajo presión."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "Bachiller en Ciencias",
+            "institution": "José Gregorio Guitian",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "javascript",
+                "node.js",
+                "nest.js",
+                "express",
+                "postgresql"
+            ],
+            "soft": [
+                "problem-solving",
+                "team-work",
+                "project-management"
+            ],
+            "tools": [
+                "git",
+                "render",
+                "slack",
+                "dockerhub",
+                "dbeaver"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Hotel Elysium",
+            "description": "Aplicación de gestión de reservaciones para una página temática hotelera.",
+            "technologies": ["node.js", "nestjs", "postgresql", "typescript", "swagger"],
+            "url": "https://github.com/Vein22/PFhenrypt21b---Hotel-Elysium-"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Native"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "C1 - Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

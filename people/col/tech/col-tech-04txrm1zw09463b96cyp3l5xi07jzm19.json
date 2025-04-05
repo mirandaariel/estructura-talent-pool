@@ -1,0 +1,189 @@
+{
+    "personal_info": {
+        "first_name": "Kevin",
+        "last_name": "Bolaños Narváez",
+        "email": "im.kevinbolanos.dev@gmail.com",
+        "phone": "(+57) 3137751645",
+        "location": {
+            "country": "Colombia",
+            "city": "Candelaria",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador web en proceso de formación constante, especializado en la creación y soluciones digitales en el campo de desarrollo web full stack creación de sitios y de aplicaciones web, empleando mis habilidades en HTML, CSS, JavaScript, y también usando librerías como React y Tailwind CSS para abordar las necesidades cambiantes del mercado tecnológico. En el backend tengo conocimientos desarrollando bases de datos, servidores, construyendo Api’s, creando rutas eficientes e implementando autenticaciones de registro e inicio de sesión."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Auxiliar Técnico en Programación de Software",
+            "institution": "Politécnico PIO",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bootcamp Talento Digital - Habilidades Socioemocionales",
+            "institution": "Pro Talento",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2023-11-30",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo Web Full Stack Javascript MERN",
+            "institution": "Bootcamp Ada School",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2023-11-30",
+            "hours": 0
+        },
+        {
+            "degree": "Diseño gráfico",
+            "institution": "Politécnico Superior de Occidente",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "git",
+                "javascript",
+                "react",
+                "tailwindcss",
+                "bootstrap",
+                "nodejs",
+                "express",
+                "postgresql",
+                "mongodb",
+                "nestjs",
+                "prisma"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Introducción al desarrollo de front-end",
+            "issuing_organization": "Coursera",
+            "issue_date": "2023-11-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Fundamentos de la ciberseguridad",
+            "issuing_organization": "Coursera - Google Career Certificates",
+            "issue_date": "2023-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Fundamentos del desarrollo web: Full Stack o Front-end",
+            "issuing_organization": "LinkedIn",
+            "issue_date": "2023-08-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Introducción a las habilidades profesionales en análisis de datos",
+            "issuing_organization": "LinkedIn",
+            "issue_date": "2023-07-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Protege tu Negocio: Ciberseguridad en el Teletrabajo",
+            "issuing_organization": "Google",
+            "issue_date": "2023-07-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Creación base de datos Aerolínea con MongoDB",
+            "description": "Desarrollar una base de datos para una aplicación de aerolínea, desarrollado con MongoDB creando tablas no relacionales y registros.",
+            "technologies": ["mongodb", "nodejs", "express"],
+            "url": ""
+        },
+        {
+            "name": "Creación del frontend para una Aerolínea",
+            "description": "Desarrollar una aplicación web para la parte del frontend con Reactjs y Tailwindcss, conectada a una base de datos de postgresql.",
+            "technologies": ["reactjs", "tailwindcss", "postgresql", "express", "nodejs"],
+            "url": ""
+        },
+        {
+            "name": "Desarrollar un portafolio web",
+            "description": "Construir un portafolio con diferentes secciones mostrando información, proyectos, servicios y forma de contacto.",
+            "technologies": ["html", "bootstrap", "css", "javascript"],
+            "url": ""
+        },
+        {
+            "name": "Creación base de datos Aerolínea con Postgresql",
+            "description": "Desarrollar una base de datos para una aplicación de aerolínea con Postgresql creando tablas relacionales y registros.",
+            "technologies": ["postgresql", "nodejs", "express"],
+            "url": ""
+        },
+        {
+            "name": "Desarrollo de Ecommerce útiles escolares",
+            "description": "Desarrollar una página web de ecommerce sobre productos estudiantiles permitiendo compras rápidas.",
+            "technologies": ["html", "bootstrap", "javascript"],
+            "url": ""
+        },
+        {
+            "name": "Desarrollo de un Blog de Fotografía",
+            "description": "Crear un blog de fotografía con menú, banner y múltiples secciones sobre trabajos y proyectos realizados.",
+            "technologies": ["html", "css", "bootstrap", "javascript"],
+            "url": ""
+        },
+        {
+            "name": "Calculadora con HTML, CSS y Javascript",
+            "description": "Desarrollar una calculadora simple para operaciones básicas con lógica en Javascript.",
+            "technologies": ["html", "css", "javascript"],
+            "url": ""
+        },
+        {
+            "name": "Aplicación Front End To do list con React",
+            "description": "Crear una aplicación de lista de tareas con React, usando Chakra UI para la interfaz de usuario.",
+            "technologies": ["react", "chakra-ui"],
+            "url": ""
+        },
+        {
+            "name": "Aplicación Notes con Bootstrap",
+            "description": "Crear un servidor en Node para manejar notas conectadas a MongoDB con CRUD en el front-end usando handlebars.",
+            "technologies": ["node", "mongodb", "bootstrap", "handlebars"],
+            "url": ""
+        },
+        {
+            "name": "Crear servidor en Node y Express",
+            "description": "Crear servidores con Node y Express con implementación de diversas bibliotecas.",
+            "technologies": ["node", "express"],
+            "url": ""
+        },
+        {
+            "name": "Lista de tareas en consola con Node",
+            "description": "Diseñar una lista de tareas en consola usando Node con funcionalidades básicas.",
+            "technologies": ["node"],
+            "url": ""
+        },
+        {
+            "name": "Hoja de vida con HTML y CSS",
+            "description": "Construir un CV básico interactuando con el front end de página web.",
+            "technologies": ["html", "css"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

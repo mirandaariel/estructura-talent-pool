@@ -1,0 +1,129 @@
+{
+    "personal_info": {
+        "first_name": "Carlos",
+        "last_name": "Arteaga",
+        "email": "dakaricarlos@gmail.com",
+        "phone": "011-1544387318",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/charlidev",
+        "website": "https://github.com/charlidev89",
+        "portfolio": "",
+        "summary": "Me considero un apasionado Desarrollador de Software, actualmente cursando la carrera de Analista en Sistemas. Mi entusiasmo por la tecnología me llevó a especializarme en desarrollo backend con Spring Boot y Java, complementando mi formación académica con aprendizaje autodidacta continuo. Disfruto enfrentando nuevos desafíos técnicos y aprendiendo las últimas tecnologías. Busco una oportunidad para crecer profesionalmente en un equipo dinámico donde pueda aportar soluciones innovadoras mientras expando mis habilidades."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Analista en sistemas",
+            "institution": "Instituto Tecnologico ORT",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnico Electrónico",
+            "institution": "ESCUELA DE EDUCACION TECNICA N°1 DE MERLO",
+            "location": "Merlo, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "poo",
+                "lambdas",
+                "streams",
+                "springboot",
+                "maven",
+                "jpa-hibernate",
+                "mockito",
+                "jwt",
+                "javascript",
+                "html",
+                "css",
+                "git",
+                "github",
+                "scrum",
+                "postman"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Desarrollo de Api SpringBoot",
+            "issuing_organization": "TodoCode",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Java + React",
+            "issuing_organization": "Neoris Lab",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Estructuras de Datos y Algoritmos",
+            "issuing_organization": "TodoCode",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso Profesional de Java",
+            "issuing_organization": "CodigoFacilito",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Programacion Orientada a Objetos",
+            "issuing_organization": "Educación IT",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Java Basico",
+            "issuing_organization": "Todo Code",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Universidad Java",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Spring Boot Backend Development",
+            "description": "Creación de un conjunto completo de servicios REST para gestionar registro de ventas de productos, control de niveles de inventario y actualización de datos de clientes.",
+            "technologies": ["java", "spring-boot", "sql", "jpa", "mockito", "junit"],
+            "url": "https://github.com/charlidev89"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Upper Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

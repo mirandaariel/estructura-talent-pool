@@ -1,0 +1,165 @@
+{
+    "personal_info": {
+        "first_name": "Hernán Luis",
+        "last_name": "Lang",
+        "email": "hernanluislang@gmail.com",
+        "phone": "+54 9 2923 507118",
+        "location": {
+            "country": "Argentina",
+            "city": "Guatraché",
+            "state": "La Pampa"
+        },
+        "linkedin": "https://linkedin.com/in/hernan-lang",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador de software con experiencia en Python, Java y .NET, especializado en la creación de aplicaciones web y de escritorio. Amplio conocimiento en diseño, desarrollo y mantenimiento de sistemas escalables. Apasionado por la resolución de problemas complejos mediante soluciones tecnológicas innovadoras y por el aprendizaje continuo en el sector IT."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Proyectos Freelance",
+            "location": "",
+            "start_date": "2020-07-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño y desarrollo de aplicaciones web utilizando Python, Django y JavaScript.",
+                "Desarrollo de soluciones backend en Java y .NET para integración con bases de datos.",
+                "Implementación de APIs RESTful para plataformas multiusuario.",
+                "Mantenimiento y optimización de código en aplicaciones existentes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fundador",
+            "company": "Uno y Ceros, Soluciones IT",
+            "location": "",
+            "start_date": "2016-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de sitios web y tiendas e-commerce utilizando WordPress, HTML, CSS y JavaScript.",
+                "Creación de sistemas personalizados de gestión empresarial con .NET y MySQL.",
+                "Automatización de procesos mediante scripts en Python."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Auxiliar de Soporte Informático",
+            "company": "Cooperativa y Mutual La Emancipación",
+            "location": "Darregueira, Bs.As.",
+            "start_date": "2021-01-01",
+            "end_date": "2022-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de herramientas internas para automatización de tareas administrativas.",
+                "Mantenimiento de sistemas en entornos Windows y Linux."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Python Full Stack",
+            "institution": "Codo a Codo",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomado en Desarrollo de Sitios Web y Aplicaciones Móviles",
+            "institution": "Fundación Slim",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomado en Big Data",
+            "institution": "Fundación Slim",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Analista de Sistemas",
+            "institution": "Instituto Superior de Informática Virasoro",
+            "location": "",
+            "start_date": "2010-01-01",
+            "end_date": "2010-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "java",
+                "c#",
+                "asp.net",
+                "html",
+                "css",
+                "javascript"
+            ],
+            "soft": [
+                "pensamiento-analítico",
+                "resolución-de-problemas",
+                "atención-al-detalle",
+                "comunicación-efectiva"
+            ],
+            "tools": [
+                "django",
+                "flask",
+                "spring",
+                ".net-framework",
+                "vue.js",
+                "mysql",
+                "sql-server",
+                "sqlite",
+                "git",
+                "visual-studio",
+                "intellij-idea",
+                "pycharm"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Plataforma de Gestión Empresarial",
+            "description": "Desarrollo de un sistema ERP utilizando .NET y MySQL, integrando módulos de inventario, ventas y reportes.",
+            "technologies": ["net", "mysql"],
+            "url": ""
+        },
+        {
+            "name": "E-commerce Multilenguaje",
+            "description": "Creación de una tienda online escalable con Python y Django.",
+            "technologies": ["python", "django"],
+            "url": ""
+        },
+        {
+            "name": "Sistema de Automatización Interna",
+            "description": "Desarrollo de scripts en Python para optimizar procesos administrativos en una cooperativa.",
+            "technologies": ["python"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Lectura avanzada, nivel intermedio hablado y escrito"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

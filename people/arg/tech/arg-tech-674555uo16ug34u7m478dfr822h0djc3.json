@@ -1,0 +1,225 @@
+
+{
+    "personal_info": {
+        "first_name": "Joams",
+        "last_name": "Mogro Gomez",
+        "email": "joamsmg@gmail.com",
+        "phone": "+5493874824225",
+        "location": {
+            "country": "Argentina",
+            "city": "Salta",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/joams-mogro",
+        "website": "https://github.com/jom3",
+        "portfolio": "",
+        "summary": "Desarrollador de software con experiencia en Angular, React, Astro, Node.js, NestJS, JavaScript y TypeScript. Competente en el desarrollo de aplicaciones web de alto rendimiento y en la construcción de sistemas backend robustos. Un gran interés por las mejores prácticas en el desarrollo de software. Dedicado al aprendizaje continuo y a mantenerse actualizado con las últimas tendencias de la industria y versiones de las diferentes tecnologías. Abierto a nuevas oportunidades en el mundo tecnológico que me permitan aportar mi experiencia e impulsar la innovación."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Centro Boliviano Americano",
+            "location": "",
+            "start_date": "2014-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño e implementación de un sistema integral para gestionar y controlar proyectos en diversas áreas (sociales, económicos, etc.).",
+                "Uso de tecnologías como Angular, Nestjs, PostgreSQL.",
+                "Sistema cuyas funcionalidades incluyen la planificación de proyectos, seguimientos de tareas, generación de informes.",
+                "Integración de herramientas para una mejor administración y seguimiento de los recursos de estos proyectos.",
+                "Optimización de las entregas de los diferentes proyectos y la reducción de errores mediante la automatización."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Freelance",
+            "location": "Bolivia",
+            "start_date": "2014-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño de sistemas en diversas áreas.",
+                "Uso de tecnologías como Angular, React, Astro, Express, Nestjs, PostgreSQL, MongoDB, MySQL.",
+                "Optimización y reducción de errores mediante la automatización."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FrontEnd",
+            "company": "Evento Virtual (Devathon)",
+            "location": "Remote",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboración en un equipo multidisciplinario para el desarrollo de un MVP para dar una solución innovadora mediante el uso de las mejores técnicas o prácticas profesionales.",
+                "Contribución en el desarrollo de este MVP utilizando tecnologías Angular, Docker, Nestjs, Prisma, PostgreSQL.",
+                "Adquisición de nuevas habilidades gracias al trabajo bajo presión, colaboración, mentoría a demás miembros y resolución de errores."
+            ],
+            "achievements": [
+                "Reconocimiento en LinkedIn y validación de conocimientos."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FrontEnd",
+            "company": "Evento Virtual",
+            "location": "Remote",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboración en un equipo multidisciplinario para el desarrollo de un MVP mediante el uso de las mejores técnicas o prácticas profesionales.",
+                "Contribución en el desarrollo de este MVP utilizando Astro, Nanostore, CSS puro.",
+                "Adquisición de nuevas habilidades por la colaboración, mentoría a demás miembros y resolución de errores."
+            ],
+            "achievements": [
+                "Reconocimiento con certificado de participación."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería Informática",
+            "institution": "Universidad Autónoma Juan Misael Saracho",
+            "location": "",
+            "start_date": "2014-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Proficiency in English",
+            "institution": "Centro Boliviano Americano",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "java",
+                "sql",
+                "nosql",
+                "nodejs",
+                "nestjs",
+                "express",
+                "angular",
+                "react",
+                "astro",
+                "tailwindcss",
+                "nextjs",
+                "spring",
+                "postgresql",
+                "mongodb",
+                "mysql"
+            ],
+            "soft": [],
+            "tools": [
+                "docker",
+                "git",
+                "trello",
+                "jest",
+                "swagger"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Angular: De cero a experto",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "The Complete JavaScript Course 2022: From Zero to Expert!",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Nest: Desarrollo backend escalable con Node",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Node: De cero a experto",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "React: De cero a experto (Hooks y Mern)",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso CSS3 [Aprende y DOMINA CSS3 desde cero a avanzado]",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Zustand: Gestor de estado para React",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Docker - Guía practica de uso de para desarrolladores",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Node.Js: De cero a experto",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Qwik: Introducción al framework",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio/Avanzado - B1/B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

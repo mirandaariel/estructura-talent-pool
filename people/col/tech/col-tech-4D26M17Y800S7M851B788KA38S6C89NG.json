@@ -1,0 +1,186 @@
+{
+    "personal_info": {
+        "first_name": "Yeiler Andrés",
+        "last_name": "Simón Romero",
+        "email": "yeller2209@gmail.com",
+        "phone": "(300) 519-9147",
+        "location": {
+            "country": "Colombia",
+            "city": "Santa Marta",
+            "state": "Magdalena"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un desarrollador web con experiencia en frontend y full stack, especializado en Vue.js, Angular, React y NestJS, con conocimientos en JavaScript, HTML, CSS, Bootstrap y bases de datos PostgreSQL y AWS. Me apasiona la tecnología en la nube y me mantengo actualizado con las últimas tendencias en desarrollo. He trabajado en Global Technology Online SAS, Uno y Cero Digital y M&T Consulting, participando en el diseño e implementación de software, estimación de entregables, seguimiento de proyectos y desarrollo de funcionalidades en aplicaciones. Me caracterizo por ser proactivo, adaptable y con gran capacidad de análisis. Actualmente, curso noveno semestre de Ingeniería de Sistemas en la Universidad del Magdalena y busco seguir creciendo en el mundo del desarrollo web."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "Uno y Cero Digital SAS",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de un sistema de autenticación con Python utilizando OAuth2.",
+                "Implementación de JWT con tiempos de expiración configurables para acceso seguro a las APIs.",
+                "Creación de un mecanismo de renovación de tokens en caso de expiración.",
+                "Desarrollo de un mini backend aplicado a una aseguradora que no contaba con este servicio.",
+                "Creación de un foro para la aseguradora utilizando Angular.",
+                "Apoyo en proyectos desarrollados con C# y Java Spring Boot."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "M&T Consulting SAS",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "2025-02-07",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo Frontend con Vue 3.",
+                "Gestión del estado con Pinia.",
+                "Manejo de peticiones HTTP con Axios.",
+                "Desarrollo Backend con NestJS.",
+                "Uso de Git para el control de versiones y colaboración en equipo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Consultor de Desarrollo - Frontend Developer Mid-Senior",
+            "company": "IkiTech Solutions SAS",
+            "location": "",
+            "start_date": "2025-01-02",
+            "end_date": "2025-02-07",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo Frontend con Next.js (React).",
+                "Manejo de estado y consultas asincronas con TanStack Query.",
+                "Implementación de internacionalización con i18n.",
+                "Uso de Git para control de versiones en diferentes ambientes.",
+                "Implementación y mantenimiento de una librería de componentes propia de la empresa.",
+                "Estilización y manejo de diseño con SASS."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador de Software",
+            "company": "Global Technology Online SAS",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2024-09-15",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo Frontend con Vue 2 y la librería VueBootstrap para componentes UI.",
+                "Manejo de peticiones HTTP con Axios.",
+                "Implementación de internacionalización con i18n para soportar múltiples idiomas.",
+                "Control de versiones y colaboración en equipo con Git.",
+                "Implementación de soluciones en AWS: S3, Lambdas, CloudFront, Lightsail, Route 53.",
+                "Configuración y administración de Nginx para distribución de peticiones.",
+                "Uso de CLI de Linux para la gestión de servidores y automatización.",
+                "Revisión y mantenimiento de servidores de integración con Mirth."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Engineering in Systems",
+            "institution": "Universidad del Magdalena",
+            "location": "Santa Marta, Magdalena",
+            "start_date": "2018-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller Académico con especialización en Informática Aplicada a la Administración y Finanzas",
+            "institution": "Institución Educativa Distrital Quinto Centenario",
+            "location": "Santa Marta, Magdalena",
+            "start_date": "",
+            "end_date": "2017-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "vue.js",
+                "angular",
+                "react",
+                "nestjs",
+                "javascript",
+                "html",
+                "css",
+                "bootstrap",
+                "postgresql",
+                "aws",
+                "python",
+                "c#",
+                "java spring boot",
+                "fastapi",
+                "git",
+                "next.js"
+            ],
+            "soft": [
+                "planificación-y-gestión-de-proyectos",
+                "comunicación-efectiva",
+                "resolución-de-conflictos"
+            ],
+            "tools": [
+                "jest",
+                "i18n",
+                "sass",
+                "axios",
+                "pinia",
+                "tanstack-query",
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico (A2)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Paula Gisell Puello Díaz",
+            "relationship": "Personal",
+            "contact": "paula.puellodiaz@hotmail.com"
+        },
+        {
+            "name": "Edna Romero",
+            "relationship": "Personal",
+            "contact": "(317) 702-8819"
+        },
+        {
+            "name": "Kevin Álvarez",
+            "relationship": "Laboral - Jefe Inmediato en M&T Consulting SAS",
+            "contact": "(304) 654-2084"
+        },
+        {
+            "name": "Fabio Palmieri",
+            "relationship": "Laboral - Arquitecto de Software en GLOBAL TEGHNOLOGY ONLINE SAS",
+            "contact": "(301) 370-9222"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "personal_info": {
+        "first_name": "Ignacio",
+        "last_name": "Audero",
+        "email": "auderoignacio@gmail.com",
+        "phone": "+54 261 2180176",
+        "location": {
+            "country": "Argentina",
+            "city": "Mendoza",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/ignacioaudero/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Poseo amplias habilidades vinculadas al liderazgo y trabajo en equipo, con una rápida capacidad de aprendizaje e intereses en seguir aprendiendo y ampliando mi formación como programador."
+    },
+    "work_experience": [
+        {
+            "job_title": "Network Content Manager",
+            "company": "Ferretería Herramen",
+            "location": "Mendoza, Argentina",
+            "start_date": "2023-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Manejo de redes sociales.",
+                "Elaboración de contenido para las publicaciones.",
+                "Análisis y elaboración de informes de Google Analytics.",
+                "Edición de imágenes y videos para publicaciones.",
+                "Control de stock y actualización de precios en planilla de Excel.",
+                "Venta de productos online (Facebook Marketplace)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fiber Optic Network Technician",
+            "company": "Subcontrata Movistar",
+            "location": "",
+            "start_date": "2022-12-01",
+            "end_date": "2023-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Impacto de tendido de red fibra óptica en sistema de diseño (Simil Autocad).",
+                "Trabajo de campo (relevamiento).",
+                "Vuelco en el sistema de Movistar de canalización, tendido de fibra óptica, colocación de cajas de fibra y habilitación para su futura venta."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "UTN FRM",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomatura en Programación Web Full Stack",
+            "institution": "UTN FRR",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "2023-10-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "javascript",
+                "sql",
+                "php",
+                "react",
+                "springboot",
+                "tailwind"
+            ],
+            "soft": [
+                "leadership",
+                "teamwork",
+                "fast-learning"
+            ],
+            "tools": [
+                "git",
+                "material-ui",
+                "bootstrap"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

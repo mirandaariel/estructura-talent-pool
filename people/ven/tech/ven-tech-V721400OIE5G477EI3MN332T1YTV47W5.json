@@ -1,0 +1,145 @@
+{
+    "personal_info": {
+        "first_name": "Nayarith",
+        "last_name": "Jiménez",
+        "email": "nayarith070@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Venezuela",
+            "city": "",
+            "state": "Miranda"
+        },
+        "linkedin": "https://www.linkedin.com/in/nayarith-jim%C3%A9nez/",
+        "website": "",
+        "portfolio": "Ver Mi Portafolio",
+        "summary": "Web developer apasionada por las nuevas tecnologías, con pensamiento analítico y arraigado en la lógica, orientada a la resolución de problemas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Back-End Developer",
+            "company": "The Centria Group",
+            "location": "Remoto",
+            "start_date": "2023-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Crear, refactorizar, mantener y testear el código de los proyectos para su óptimo desempeño",
+                "Planificar y ejecutar planes de creación de nuevas features"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Backend Developer",
+            "company": "Freelance",
+            "location": "Remoto",
+            "start_date": "2024-06-01",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Construcción de la parte básica de una api para un servicio de chats interactivos",
+                "Creación de las bases y los primeros servicios de dicho proyecto"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full stack Developer",
+            "company": "Freelance",
+            "location": "Remoto",
+            "start_date": "2022-12-01",
+            "end_date": "2023-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Mantenimiento de la interfaz gráfica",
+                "Uso de la librería de la empresa",
+                "Manejo de Api Rest"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "Servicios Topogeofísica 2025 C.A.",
+            "location": "Miranda, Venezuela",
+            "start_date": "2022-03-01",
+            "end_date": "2022-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño, desarrollo e implementación de un software para la gestión empresarial y el cálculo de la depreciación de equipos"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full stack Developer",
+            "company": "Junta de Condominio Conjunto Residencial Capri",
+            "location": "Miranda, Venezuela",
+            "start_date": "2022-01-01",
+            "end_date": "2022-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una aplicación de escritorio que facilita los procesos contables y administrativos"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería Mecatrónica",
+            "institution": "Universidad Nacional Experimental Politécnica Antonio José de Sucre (UNEXPO)",
+            "location": "Miranda, Venezuela",
+            "start_date": "2017-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "nodejs",
+                "nestjs",
+                "graphql",
+                "typeorm",
+                "docker",
+                "expressjs",
+                "sequelize",
+                "inversify",
+                "react.js",
+                "tailwind-css",
+                "api-rest",
+                "sql",
+                "postman",
+                "unit-testing",
+                "e2e-testing",
+                "git"
+            ],
+            "soft": ["autodidacta", "lógica", "resolución-de-problemas", "responsable", "trabajo-en-equipo", "scrum"],
+            "tools": ["vs-code", "linux"]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "English for Developers & IT Professionals",
+            "issuing_organization": "",
+            "issue_date": "2024-06-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Backend con NestJS",
+            "issuing_organization": "",
+            "issue_date": "2023-06-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

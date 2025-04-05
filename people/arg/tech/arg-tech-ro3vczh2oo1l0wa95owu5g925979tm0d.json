@@ -1,0 +1,210 @@
+{
+    "personal_info": {
+        "first_name": "Jorge",
+        "last_name": "Mathez",
+        "email": "jorgemathez14@gmail.com",
+        "phone": "+54 92604224940",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/jorge-mathez-598597260",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Web Full Stack con experiencia en la creación de sitios web mediante herramientas sin código y tecnologías como HTML, CSS, JavaScript, TypeScript y Solidity. Experto en bases de datos, inteligencia artificial, metodologías ágiles, GIT, estructuras de datos y algoritmos. Especializado en contratos inteligentes con Ethereum, siempre esforzándose por ampliar habilidades para aportar valor único a cada proyecto. Ha liderado proyectos de desarrollo web y cuenta con una sólida formación académica y práctica."
+    },
+    "work_experience": [
+        {
+            "job_title": "BlockChain Developer Junior",
+            "company": "BlockChainBites",
+            "location": "",
+            "start_date": "2023-10-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollar y desplegar Smart Contracts para la creación de NFTs y criptomonedas.",
+                "Implementar y administrar bases de datos Blockchain, incluyendo Ethereum.",
+                "Crear un pool de liquidez en Uniswap V2.",
+                "Explorar operaciones Cross-Chain para pagos en una cadena y acuñación en otra.",
+                "Identificar y mitigar vulnerabilidades comunes en contratos inteligentes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Back-End Web Developer Junior",
+            "company": "Henry Upskilling Back-End",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2023-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementar y administrar bases de datos MongoDB para aplicaciones de alto rendimiento y escalabilidad.",
+                "Utilizar contenedores Docker para empaquetar y distribuir aplicaciones de manera eficiente.",
+                "Configurar y gestionar máquinas virtuales para desarrollar y probar en entornos aislados, asegurando la estabilidad y rendimiento de las aplicaciones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Web Developer Junior",
+            "company": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2022-10-01",
+            "end_date": "2023-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollar y mantener landing pages, dashboards y aplicaciones web con tecnologías como HTML, CSS, ChakraUI, JavaScript, React, Redux, Node.js, Express, SQL, Sequelize, Supabase y Next.js.",
+                "Diseñar interfaces y elementos frontend para optimizar la experiencia del usuario y mejorar la navegación en sitios web e interfaces existentes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Cerámicas",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Liderar la creación de la página web 'CeramicasSR' para una empresa que vende cerámicas y otros productos.",
+                "Utilice tecnologías como Chakra UI, DaisyUI, Tailwind y Next.js 13 para el front-end, y Supabase para gestionar el back-end."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Frio Mundo",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Liderar la creación de la página web 'Frio Mundo' para una empresa de venta de equipos frigoríficos.",
+                "Utilice tecnologías como Chakra UI, DaisyUI, Tailwind y Next.js 13 para el front-end, y Supabase para gestionar el back-end."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Patio-Padel",
+            "location": "",
+            "start_date": "2024-12-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y desarrollé una página web para la gestión de reservas de canchas de pádel.",
+                "Implementé tecnologías como React, Tailwind CSS, Next.js."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Programación",
+            "institution": "Universidad Tecnológica Nacional (UTN)",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "solidity",
+                "mongodb",
+                "docker",
+                "react",
+                "redux",
+                "node.js",
+                "express",
+                "sql",
+                "sequelize",
+                "supabase",
+                "next.js",
+                "chakraui",
+                "tailwind",
+                "hardhat",
+                "openzeppelin"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "gestión-de-proyectos",
+                "adaptabilidad",
+                "comunicación-efectiva",
+                "organización",
+                "liderazgo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "BlockChain Developer",
+            "issuing_organization": "BlockChainBites Bootcamp",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Upskilling Back-End",
+            "issuing_organization": "Henry Bootcamp",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Full Stack Web Developer",
+            "issuing_organization": "Henry Bootcamp",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Trading y análisis de mercado",
+            "issuing_organization": "IM Academy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de diseño asistido por computadora (CAD)",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Portugués",
+            "proficiency": "A2 (Nivel Básico)"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2 - Primario"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

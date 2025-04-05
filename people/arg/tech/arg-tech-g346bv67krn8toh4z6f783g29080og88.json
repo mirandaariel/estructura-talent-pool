@@ -1,0 +1,108 @@
+{
+  "personal_info": {
+    "first_name": "Lautaro",
+    "last_name": "Muiño",
+    "email": "lautaromuino2003@gmail.com",
+    "phone": "+54 112 245 7824",
+    "location": {
+      "country": "",
+      "city": "",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/lautaro-muiño-079240257/",
+    "website": "",
+    "portfolio": "https://lautaromuino03.github.io/Portfolio/",
+    "summary": "Tengo 22 años, estudiante de Tecnicatura en Programación y desarrollador web. Me motiva la dificultad, trabajo muy bien en equipo, buena organización y tengo un fuerte compromiso en mejorar y aprender nuevas tecnologías."
+  },
+  "work_experience": [
+    {
+      "job_title": "Full Stack Developer",
+      "company": "",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Developed front-end and full-stack projects using ReactJS, Next.js, and TailwindCSS.",
+        "Implemented an e-commerce platform using ReactJS for front-end and Node.js with Express for back-end.",
+        "Worked with MongoDB as a database to store product information."
+      ],
+      "achievements": [],
+      "repository_url": "https://github.com/LautaroMuino03"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Tecnicatura en Informática",
+      "institution": "Universidad Tecnológica Nacional",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "Desarrollador Full Stack",
+      "institution": "Universidad Tecnológica Nacional",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2024-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "full-stack-developer",
+        "reactjs",
+        "express",
+        "nodejs",
+        "html",
+        "css",
+        "tailwindcss",
+        "javascript",
+        "typescript",
+        "next.js",
+        "sql",
+        "mysql",
+        "nosql",
+        "mongo-db",
+        "git",
+        "postman"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Proyectos Front End y Full Stack",
+      "description": "Página principal para un cliente en el centro de gastroenterología que permite a los pacientes ver información sobre el centro y los servicios ofrecidos.",
+      "technologies": ["Next.js", "TailwindCSS", "TypeScript"],
+      "url": ""
+    },
+    {
+      "name": "Plataforma e-commerce",
+      "description": "Un e-commerce funcional utilizando ReactJS en el front-end y Node.js con Express y MongoDB en el back-end.",
+      "technologies": ["ReactJS", "Node.js", "Express", "MongoDB"],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Ingles",
+      "proficiency": "Intermedio"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

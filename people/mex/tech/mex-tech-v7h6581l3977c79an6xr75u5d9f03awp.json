@@ -1,0 +1,160 @@
+{
+    "personal_info": {
+        "first_name": "Eduardo",
+        "last_name": "Cruz García",
+        "email": "DevCruGa@protonmail.com",
+        "phone": "",
+        "location": {
+            "country": "México",
+            "city": "Toluca",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/eduardo-cruz-garcia-x000404",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un entusiasta del desarrollo de software con conocimientos en Programación Orientada a Objetos (POO), desarrollo web y conceptos fundamentales en administración y mantenimiento en informática. Siempre en busca de nuevos desafíos y aprendizajes en el mundo de la tecnología, abierto a oportunidades que me permitan aplicar y expandir mis conocimientos, mientras contribuyo con entusiasmo y compromiso al equipo en el que me desarrolle."
+    },
+    "work_experience": [
+        {
+            "job_title": "Runner/Ayudante de Mesero",
+            "company": "Italiannis",
+            "location": "",
+            "start_date": "2022-04-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Atender las peticiones del cliente y dar soluciones rápidas",
+                "Apoyar en a recibir ordenes en la línea",
+                "Uso de PDV como usuario final al comandar ordenes",
+                "Entrenar otros ayudantes/runner's"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Mesero",
+            "company": "Toks",
+            "location": "",
+            "start_date": "2020-04-01",
+            "end_date": "2021-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Manejo de PDV como usuario final",
+                "Soluciones rápidas y sencillas para las necesidades del cliente",
+                "Conocimiento del producto y servicio, con constante actualización sobre el mismo para saber ofrecerlo(s)"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Servicio Social/Practicas Soporte Técnico",
+            "company": "IMIFE",
+            "location": "",
+            "start_date": "2018-04-01",
+            "end_date": "2018-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Encargado de los reportes por parte de los usuarios",
+                "Mantenimiento preventivo y correctivo de los equipos",
+                "Verificar que los equipos tuvieran conectividad en red"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Ciencias de la Computación",
+            "institution": "CNCI Universidad Virtual",
+            "location": "Toluca",
+            "start_date": "2023-06-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en Informática",
+            "institution": "Universidad Politécnica del Valle de Toluca",
+            "location": "",
+            "start_date": "2018-09-01",
+            "end_date": "2022-05-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "java",
+                "sql",
+                "mysql",
+                "nosql",
+                "mongodb",
+                "javascript"
+            ],
+            "soft": [
+                "autodidacta",
+                "manejo-de-estres",
+                "colaborativo",
+                "creatividad",
+                "resolución-de-conflictos",
+                "adaptabilidad",
+                "pensamiento-crítico",
+                "resolución-de-problemas",
+                "habilidades-de-comunicación",
+                "liderazgo",
+                "trabajo-en-equipo",
+                "empatía"
+            ],
+            "tools": [
+                "soporte-técnico",
+                "windows",
+                "linux",
+                "android"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Microsoft Certified: Azure Fundamentals",
+            "issuing_organization": "Microsoft",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Introduction to CyberSecurity",
+            "issuing_organization": "Cisco",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Servlet",
+            "description": "Proyecto personal iniciado en la carrera",
+            "technologies": ["Tomcat", "JSP", "VS Code", "IntelliJ"],
+            "url": ""
+        },
+        {
+            "name": "Pagina Web Personal",
+            "description": "Proyecto de Personal de curso en CódigoFacilito.com",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Native"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Advanced"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

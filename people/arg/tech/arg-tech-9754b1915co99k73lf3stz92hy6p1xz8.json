@@ -1,0 +1,152 @@
+{
+    "personal_info": {
+        "first_name": "Eduardo",
+        "last_name": "Cabrejas",
+        "email": "educabre8991@gmail.com",
+        "phone": "+54-2266-545426",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/eduardo-cabrejas",
+        "website": "",
+        "portfolio": "Eduardo A. Cabrejas",
+        "summary": "Desarrollador Web Full Stack con experiencia en Front-end y Back-end. Especializado en HTML5, CSS3, JavaScript, TypeScript, React, y más. Experiencia en e-commerce, reparación de equipos, atención al cliente, trabajo en equipo, y capacitación de empleados."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer Junior",
+            "company": "Freelancer",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Creación de sitios web y aplicaciones web utilizando HTML, CSS, JavaScript, .NET y C#.",
+                "Diseño de páginas web interactivas y responsivas.",
+                "Implementación de funcionalidades a través de JavaScript.",
+                "Maquetación del diseño del proyecto en Figma.",
+                "Depuración, prueba y optimización del rendimiento."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 800
+        },
+        {
+            "degree": "Bachiller Agrario",
+            "institution": "Centro Educativo de Producción Total N° 20",
+            "location": "",
+            "start_date": "2011-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript",
+                "typescript",
+                "react",
+                "redux",
+                "next.js",
+                "nest.js",
+                "prisma",
+                "node.js",
+                "vite.js",
+                "postgresql",
+                "mongodb",
+                "microsoft-sql-server-management"
+            ],
+            "soft": [
+                "adaptabilidad",
+                "creatividad",
+                "resolucion-de-problemas",
+                "pensamiento-critico"
+            ],
+            "tools": [
+                "git",
+                "jira",
+                "slack",
+                "figma",
+                "canva"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Networking Profesional",
+            "issuing_organization": "Linkedin",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Manejo Office 365",
+            "issuing_organization": "Unvery",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Técnico en Reparación de Portátiles",
+            "issuing_organization": "Aprende.org",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Técnico en Reparación de Computadoras",
+            "issuing_organization": "Aprende.org",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Stream Games Tournaments",
+            "description": "Desarrollé una plataforma de streaming dedicada a torneos de E-sports, incluyendo componentes interactivos, filtros, gráficos, y secciones administrativas.",
+            "technologies": [
+                "TypeScript",
+                "React",
+                "Next.Js",
+                "Redux",
+                "Tailwind CSS",
+                "Nest.Js",
+                "Prisma",
+                "PostgreSQL",
+                "Sequelize"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

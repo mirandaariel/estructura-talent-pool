@@ -1,0 +1,198 @@
+{
+    "personal_info": {
+        "first_name": "Sebastian",
+        "last_name": "Cereto",
+        "email": "sebastiancereto@gmail.com",
+        "phone": "1131894563",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Aspiro ayudar desde mi experiencia, a determinar las necesidades y gestión estratégica TI y sistemas informáticos con gran aptitud, pero sobre todo actitud, para la resolución de conflictos y optimización de proyectos, cumpliendo así con los objetivos que demande la empresa donde me desempeñe."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador .NET/ SQL",
+            "company": "Servicios Integrales Remiseria",
+            "location": "",
+            "start_date": "2019-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Gestión de proyectos y diagramas",
+                "Interfaz de login"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "DBA SQL",
+            "company": "DXC Technology",
+            "location": "",
+            "start_date": "2022-03-01",
+            "end_date": "2022-05-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión de tickets.",
+                "Manejo de ticketeras de los diferentes clientes.",
+                "Gestión de reportes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "DBA SQL",
+            "company": "Boston Seguros",
+            "location": "",
+            "start_date": "2021-10-01",
+            "end_date": "2022-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión y documentación de la base de datos.",
+                "Manejo de Clausulas (Select, Insert into, Update, delete)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "DBA SQL (DB2)",
+            "company": "Servicios Integrales de Archivos",
+            "location": "",
+            "start_date": "2016-11-01",
+            "end_date": "2019-05-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Mantenimiento de la base de datos.",
+                "Manejo Backup y restore.",
+                "Uso de Joins.",
+                "Uso de Sistema ERP",
+                "Instalación, configuración y optimización de motores de base de datos relacionales.",
+                "Manejo, monitoreo y mantenimiento de Oracle.",
+                "Manipulación de los datos.",
+                "Configuración, y monitoreo de Jobs.",
+                "Detección, diagnóstico y resolución de errores en ambientes corporativos de maquinas virtuales.",
+                "Migración de motores de base de datos a versiones recientes.",
+                "Uso de la herramienta Power Bi."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Soporte Técnico",
+            "company": "Servicios Integrales de Archivos",
+            "location": "",
+            "start_date": "2010-04-01",
+            "end_date": "2016-11-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Uso de sistemas operativos (Windows y Android).",
+                "Dar soporte presencial, remoto a los diferentes clientes.",
+                "Configuración, instalación de routers, impresoras, software ERP.",
+                "Armado y detección de fallas a nivel Hardware y Software.",
+                "Uso de Trello.",
+                "Uso de office 365.",
+                "Uso de ticketera (Service Now)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciado en Gestión Tecnológica",
+            "institution": "Universidad de La Matanza",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Analista de Sistemas",
+            "institution": "Instituto Santa María",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Auxiliar Tango Gestión - Nivel Avanzado",
+            "institution": "Centro de Capacitación de Tecnología Informática",
+            "location": "",
+            "start_date": "2009-01-01",
+            "end_date": "2009-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Operador de PC - Nivel Avanzado",
+            "institution": "Centro de Capacitación de Tecnología Informática",
+            "location": "",
+            "start_date": "2006-01-01",
+            "end_date": "2006-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "mysql",
+                "c++",
+                ".net",
+                "java",
+                "asp.net",
+                "c#",
+                "linq",
+                ".net-core",
+                "python",
+                "windows-server",
+                "linux",
+                "ubuntu",
+                "microsoft-sql-server",
+                "azure"
+            ],
+            "soft": [
+                "adaptabilidad",
+                "resolutivo",
+                "comunicación",
+                "proactividad"
+            ],
+            "tools": [
+                "visual-studio-2019",
+                "power-bi",
+                "trello",
+                "office-365",
+                "service-now"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Edgardo Martin",
+            "relationship": "Gerente Sistemas en Boston Seguros",
+            "contact": "54 9 11 5752-5517"
+        },
+        {
+            "name": "Jorge Font",
+            "relationship": "Manager en DXC Technology",
+            "contact": "54 9 1148880232"
+        }
+    ]
+}

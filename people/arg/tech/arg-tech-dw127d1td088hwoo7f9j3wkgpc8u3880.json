@@ -1,0 +1,112 @@
+{
+    "personal_info": {
+        "first_name": "Agustin Gerardo",
+        "last_name": "Haag Letterucci",
+        "email": "agustin-haag@hotmail.com",
+        "phone": "+54 3548604817",
+        "location": {
+            "country": "Argentina",
+            "city": "La Falda",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/agustin-haag/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con experiencia en frontend, backend y bases de datos, especializado en tecnologías modernas y metodologías ágiles."
+    },
+    "work_experience": [
+        {
+            "job_title": "Fullstack Developer",
+            "company": "SG-Redes informáticas",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Registro y autenticación de usuarios",
+                "Integración con el microservicio IspCube para gestión de clientes",
+                "Envío masivo de mensajes mediante Wablas",
+                "Desarrollo de dashboard de administración y funcionalidades adicionales"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Thaskify",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Implementación de cambios estéticos y adaptabilidad",
+                "Resolución de bugs en colaboración con el equipo",
+                "Optimización de procesos de desarrollo"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Plataforma de Gestión de Talleres Automotrices",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y desarrollo de una aplicación web para gestionar talleres automotrices",
+                "Implementación de registro/login con Google",
+                "Integración de pasarela de pagos y geolocalización"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "Tecnicatura superior en programación",
+            "institution": "Instituto Técnico Superior",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript", "node", "typescript", "sql", "nosql", "git"
+            ],
+            "soft": [
+                "teamwork", "problem-solving", "communication"
+            ],
+            "tools": [
+                "git", "github", "postman", "slack", "discord", "office", "figma", "bootstrap", "tailwind"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2 - Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,124 @@
+{
+    "personal_info": {
+        "first_name": "Michael Yesid",
+        "last_name": "Castro Daza",
+        "email": "michael17ycd@gmail.com",
+        "phone": "3227173488",
+        "location": {
+            "country": "Colombia",
+            "city": "Bogotá",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/michael-castro-98489a322/",
+        "website": "",
+        "portfolio": "https://mike-ki17.github.io/Portafolio/",
+        "summary": "Técnico en Integración de Contenidos Digitales y estudiante de Tecnología en Desarrollo de Software, con experiencia en frontend y backend, utilizando tecnologías como JavaScript, Flask y MySQL."
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Developer",
+            "company": "Open Source – Red Social de Tatuajes",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de funcionalidades en backend con Flask.",
+                "Diseño y optimización de base de datos en tercera forma normal (3NF).",
+                "Implementación de JWT para seguridad en autenticación."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/mike-ki17"
+        },
+        {
+            "job_title": "Web Developer",
+            "company": "Tienda Online de Comida Rápida",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicación web con SQLite en producción.",
+                "Integración de formulario de pedidos con React."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/mike-ki17"
+        },
+        {
+            "job_title": "Digital Presence Creator",
+            "company": "Instalación de Tanques Australianos – Página Empresarial",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación y configuración de presencia digital en redes sociales."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/mike-ki17"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico en Integración de Contenidos Digitales",
+            "institution": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Estudiante de Tecnología en Desarrollo de Software",
+            "institution": "Universidad de San Buenaventura Bogotá",
+            "location": "Bogotá",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "python",
+                "flask",
+                "react",
+                "mysql",
+                "sqlite"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "aws",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Open Source Contribution",
+            "description": "Participación en el desarrollo de Red Social de Tatuajes con Flask y JWT.",
+            "technologies": ["flask", "jwt", "mysql"],
+            "url": "https://github.com/mike-ki17"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

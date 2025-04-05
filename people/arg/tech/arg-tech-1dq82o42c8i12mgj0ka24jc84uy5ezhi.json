@@ -1,0 +1,142 @@
+{
+    "personal_info": {
+        "first_name": "Federico",
+        "last_name": "Pardo",
+        "email": "pardofede04@gmail.com",
+        "phone": "1155693798",
+        "location": {
+            "country": "Argentina",
+            "city": "Bella Vista",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "http://www.linkedin.com/in/federico-pardo-885ab0230",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un recién egresado de la tecnicatura universitaria en informática, con experiencia acumulada en diversos proyectos. Domino el desarrollo en Java y la gestión integral de proyectos, y mi labor en atención al cliente me ha permitido afinar mis habilidades interpersonales. Durante mi formación, he participado en distintos proyectos que me han brindado conocimientos en programación, análisis de requerimientos, elaboración de documentación y coordinación de actividades. Con disponibilidad a tiempo completo, estoy entusiasmado por iniciar mi carrera como desarrollador backend en un entorno profesional retador y dinámico."
+    },
+    "work_experience": [
+        {
+            "job_title": "Vendedor de comercio",
+            "company": "Atención al cliente",
+            "location": "Bella Vista",
+            "start_date": "2018-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Ventas, reposición de stock y manejo efectivo del local."
+            ],
+            "achievements": [
+                "Skills desarrolladas: Comunicación, Resolución de problemas, Responsabilidad, Paciencia, Perseverancia."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico universitario en informática",
+            "institution": "Universidad Nacional de General Sarmiento",
+            "location": "Polvorines, Buenos Aires",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en administración de empresas",
+            "institution": "Escuela secundaria San Pio",
+            "location": "Bella Vista, Buenos Aires",
+            "start_date": "2012-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "programación-orientada-a-objetos",
+                "spring",
+                "spring-boot",
+                "spring-security",
+                "jwt",
+                "microservicios",
+                "rest-api",
+                "testing-unitario",
+                "hibernate",
+                "jpa",
+                "maven",
+                "open-api",
+                "swagger",
+                "docker",
+                "bases-de-datos-relacionales",
+                "bases-de-datos-no-relacionales",
+                "postgresql",
+                "mysql",
+                "springcloud",
+                "eureka",
+                "api-gateway",
+                "config-server",
+                "load-balancer",
+                "patrones-de-diseño",
+                "arquitectura-multicapas",
+                "dto",
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "git",
+                "linux"
+            ],
+            "soft": [
+                "comunicación",
+                "resolución-de-problemas",
+                "responsabilidad",
+                "paciencia",
+                "perseverancia"
+            ],
+            "tools": [
+                "scrum",
+                "kanban",
+                "gestión-de-proyectos",
+                "uml",
+                "jira",
+                "relevamiento-de-requerimientos",
+                "documentación",
+                "junit",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Luxe Haven",
+            "description": "Participé como desarrollador backend en la creación de Luxe Heaven, una plataforma integral para la administración de habitaciones en hoteles de lujo. El sistema optimiza procesos de reserva, check-in/check-out y envía notificaciones automáticas.",
+            "technologies": ["Java 17", "Spring Boot", "Spring Security", "Hibernate", "JPA", "PostgreSQL", "React", "TypeScript", "Swagger", "Lombok", "H2", "Tailwind", "Vite"],
+            "url": "https://github.com/No-Country-simulation/Equipo-c24-64-Webapp"
+        },
+        {
+            "name": "GIFA",
+            "description": "Desarrollado en la última materia de la tecnicatura, proyecto para la gestión y control de flotas de vehículos (GIFA), involucrando seguimiento en tiempo real.",
+            "technologies": ["Java 17", "Spring Boot", "Spring Security", "Hibernate", "JPA", "MySQL", "React", "Swagger", "Lombok", "H2", "Tailwind", "Vite"],
+            "url": "https://github.com/MicaBelle/FlotaDeVehiculosBackGrupo1"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Native"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

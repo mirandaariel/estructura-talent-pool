@@ -1,0 +1,138 @@
+{
+    "personal_info": {
+        "first_name": "Raúl",
+        "last_name": "Arroyo González",
+        "email": "raul.arrgon@outlook.es",
+        "phone": "+34 603 470 573",
+        "location": {
+            "country": "Spain",
+            "city": "Granada",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/raul-arrgon",
+        "website": "",
+        "portfolio": "https://raulxag.github.io/portafolio-react/",
+        "summary": "Recién graduado en CFGS en Desarrollo de Aplicaciones Web, con experiencia en tecnologías modernas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Web",
+            "company": "E-sistemas.net",
+            "location": "Alfacar, Granada",
+            "start_date": "2024-04-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Participé en un proyecto de software ERP desarrollado en Django utilizando Python, HTML, CSS y JS."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnico Informático",
+            "company": "Inforconecta2 S.L.",
+            "location": "Atarfe, Granada",
+            "start_date": "2022-03-01",
+            "end_date": "2022-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Mantenimiento, montaje, reparación e instalación de redes.",
+                "Formatear e instalar S.O."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "CFGS en Desarrollo de Aplicaciones Web",
+            "institution": "IES Ilíberis",
+            "location": "Granada",
+            "start_date": "",
+            "end_date": "2024-01-01",
+            "hours": 0
+        },
+        {
+            "degree": "CFGM en Sistemas Microinformáticos y Redes",
+            "institution": "IES Ilíberis",
+            "location": "Granada",
+            "start_date": "",
+            "end_date": "2022-01-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "sass",
+                "symfony",
+                "docker",
+                "mysql",
+                "django",
+                "css",
+                "git",
+                "figma",
+                "java",
+                "aws",
+                "php",
+                "python",
+                "react",
+                "html"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Cloud Developing",
+            "issuing_organization": "Amazon Web Services",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Cloud Data Pipeline Builder",
+            "issuing_organization": "Amazon Web Services",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Cloud Foundations",
+            "issuing_organization": "Amazon Web Services",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Introducción a Docker",
+            "issuing_organization": "OpenWebinars",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Networking Essentials",
+            "issuing_organization": "CISCO",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

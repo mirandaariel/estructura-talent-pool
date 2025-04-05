@@ -1,0 +1,286 @@
+{
+  "personal_info": {
+    "first_name": "Rammer",
+    "last_name": "Gómez",
+    "email": "rammer@rammerbot.com",
+    "phone": "+584148013873",
+    "location": {
+      "country": "Venezuela",
+      "city": "Ciudad Bolívar",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/rammer-gomez/",
+    "website": "",
+    "portfolio": "https://serviexpo.rammerbot.com",
+    "summary": "Soy Científico de Datos con un sólido conocimiento en el área tecnológica. Mi pasión por la tecnología me llevó a adentrarme en el mundo de la programación y la Ciencia de Datos, donde he adquirido habilidades en Python como Data Engineer, Data Analysis, Machine Learning, Big Data utilizando herramientas como Pyspark, scikit-learn, FastAPI, Django, SQL, Pandas, Power BI, entre otras tecnologías clave para el desarrollo de software, carrera que complemento con mi background como Mecanico Industrial en la industria petrolera."
+  },
+  "work_experience": [
+    {
+      "job_title": "Lead Data",
+      "company": "SharpPixAI",
+      "location": "Argentina",
+      "start_date": "2024-12-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Liderar el diseño, desarrollo y despliegue de modelos de machine learning, asegurando su integración exitosa en sistemas productivos.",
+        "Guiar la recolección, limpieza y preparación de datos, asegurando su calidad y disponibilidad para análisis.",
+        "Dirigir análisis exploratorios de datos (EDA) para identificar patrones y relaciones clave.",
+        "Crear y mantener pipelines de datos (ETL/ELT) eficientes para optimizar procesos de datos.",
+        "Colaborar con equipos técnicos y de negocio para traducir necesidades en soluciones basadas en datos.",
+        "Desarrollar y mantener dashboards y reportes para comunicar insights estratégicos.",
+        "Explorar y aplicar nuevas herramientas, técnicas y algoritmos para mejorar modelos y procesos.",
+        "Asegurar el cumplimiento de normativas y buenas prácticas en el manejo de datos."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador Python Freelance",
+      "company": "Developing Lab",
+      "location": "Colombia",
+      "start_date": "2024-10-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollo de modulos en Django usando python.",
+        "Implementación de soluciones con metodologías agiles.",
+        "Integracion de servicios dentro de diferentes plataformas.",
+        "Diseño de Templates usando bootstrap.",
+        "Programación en Python para diferentes componentes.",
+        "Optimización de sistemas de procesamiento de datos en la nube."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador",
+      "company": "Rammerbot",
+      "location": "Bolívar, Venezuela",
+      "start_date": "2024-01-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollo y automatización de procesos ETL y análisis de datos.",
+        "Implementación de soluciones Big Data con PySpark.",
+        "Exploración y análisis de datos (EDA) para la toma de decisiones.",
+        "Creación de dashboards interactivos con Power BI.",
+        "Programación en Python para diferentes componentes (Web, Automatizacion, WebScraping, APIs).",
+        "Optimización de sistemas de procesamiento de datos en la nube."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Departamento de Desarrollo IT",
+      "company": "Alonso Apuestas Deportivas",
+      "location": "Lima, Perú",
+      "start_date": "2022-01-01",
+      "end_date": "2023-08-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Diseño y desarrollo de elementos web (apps, páginas y sistemas de control).",
+        "Servicio de mantenimiento para el equipo de la compañía.",
+        "Servicio y configuración de redes y servidor."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Conexiones y Redes",
+      "company": "SkyNet5G",
+      "location": "Lima, Perú",
+      "start_date": "2021-01-01",
+      "end_date": "2022-01-01",
+      "currently_working": false,
+      "responsibilities": [
+        "Conexiones y redes para telecomunicaciones.",
+        "Sistemas de vigilancia remota.",
+        "Manejo de aplicaciones y desarrollo de interfaces."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Técnico Superior Universitario en Mecánica Industrial",
+      "institution": "Instituto Universitario del Estado Bolívar (IUTEB)",
+      "location": "Bolívar, Venezuela",
+      "start_date": "2013-06-01",
+      "end_date": "2013-06-01",
+      "hours": 0
+    },
+    {
+      "degree": "Ciencia de Datos",
+      "institution": "Academia Soy Henry",
+      "location": "Argentina",
+      "start_date": "",
+      "end_date": "2024-08-01",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "python",
+        "ciencia-de-datos",
+        "ingeniería-de-datos",
+        "análisis-de-datos",
+        "big-data",
+        "django",
+        "fastapi",
+        "nosql",
+        "sql",
+        "mlops",
+        "pandas",
+        "numpy",
+        "matplotlib",
+        "power-bi",
+        "html",
+        "css",
+        "bootstrap",
+        "ubuntu"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {
+        "python": [],
+        "django": [],
+        "fastapi": []
+      },
+      "soft": {},
+      "tools": {}
+    }
+  },
+  "certifications": [
+    {
+      "name": "Master en Python: Python 3, Django, Flask y Tkinter",
+      "issuing_organization": "Udemy",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Curso: Django y Django RestFramework de básico a profesional",
+      "issuing_organization": "Udemy",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Python 101 para Ciencia de Datos",
+      "issuing_organization": "Udemy",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Python 101 for Data Science",
+      "issuing_organization": "IBM",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Data Science Methodology",
+      "issuing_organization": "IBM",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Data Visualization using Python",
+      "issuing_organization": "IBM",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Python (Basic)",
+      "issuing_organization": "HackerRank",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "SQL (Basic)",
+      "issuing_organization": "HackerRank",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "SQL (Intermediate)",
+      "issuing_organization": "HackerRank",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "SQL (Advanced)",
+      "issuing_organization": "HackerRank",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Software Engineer",
+      "issuing_organization": "HackerRank",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Desarrollo de plataforma de almacenamiento y optimización de archivos",
+      "description": "Desarrollo de plataforma de almacenamiento y optimización de archivos",
+      "technologies": [],
+      "url": "https://sharppixai.com/"
+    },
+    {
+      "name": "Científico de Datos | Desarrollo de plataforma financiera CashinBot",
+      "description": "Desarrollo de plataforma financiera CashinBot",
+      "technologies": [],
+      "url": "https://test.cashinbot.com/"
+    },
+    {
+      "name": "Análisis de mercado de restaurantes y sistema de recomendación USA",
+      "description": "Analisis de mercado de restaurantes y sistema de recomendacion USA",
+      "technologies": [],
+      "url": "https://recommendations-f4re.onrender.com/"
+    },
+    {
+      "name": "Conexiones a Internet en Argentina",
+      "description": "Conexiones a Internet en Argentina",
+      "technologies": [],
+      "url": "https://apacuana.rammerbot.com"
+    },
+    {
+      "name": "Control de Personal",
+      "description": "Control de Personal",
+      "technologies": [],
+      "url": "https://employee.rammerbot.com/"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "B1"
+    },
+    {
+      "language": "Portugués",
+      "proficiency": "A1"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

@@ -1,0 +1,149 @@
+{
+    "personal_info": {
+        "first_name": "Juan",
+        "last_name": "Laspiur",
+        "email": "laspiurperezjuan@gmail.com",
+        "phone": "+54 291-4045485",
+        "location": {
+            "country": "Argentina",
+            "city": "Bahía Blanca",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/laspiurperezjuan/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack especializado en React.js y Node.js, con experiencia en la creación de aplicaciones web escalables y de alto rendimiento. Apasionado por el desarrollo de software, con habilidades en APIs REST, GraphQL, bases de datos SQL/NoSQL y despliegue en la nube. Enfoque en arquitectura limpia, buenas prácticas y metodologías ágiles."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Heiche",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de interfaces dinámicas con React.js y Next.js.",
+                "Creación de APIs REST y GraphQL con Node.js y Express.js.",
+                "Implementación de APIs RESTful seguras con JWT y OAuth2.",
+                "Optimización del rendimiento con memoization y lazy loading.",
+                "Integración de pagos con Stripe y Mercado Pago.",
+                "DevOps con SSH, VPN, NGINX, consola de Linux."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Branak",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación de SSR y SSG en Next.js.",
+                "Creación de pruebas unitarias con Jest y React Testing Library.",
+                "Utilización y conexión con servicios de AWS (Cognito, Amplify, Lambda, DynamoDB, S3).",
+                "Participación en el desarrollo y mantenimiento de Branak, una aplicación web enfocada en el aprendizaje."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollo Full Stack Java",
+            "institution": "Universidad de La Punta",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo Full Stack Java",
+            "institution": "Codo a Codo",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Reparación y mantenimiento de sistemas informáticos",
+            "institution": "",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react.js",
+                "next.js",
+                "redux",
+                "context-api",
+                "js",
+                "css",
+                "html",
+                "boostrap",
+                "tailwind",
+                "nginx",
+                "mongodb",
+                "postgresql",
+                "mysql",
+                "firebase",
+                "aws-services",
+                "jwt",
+                "oauth2",
+                "firebase-auth"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Mantenimiento de red social y creación de su versión móvil",
+            "description": "",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Sistema de gestión de usuarios departamento policial",
+            "description": "",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Invitaciones masivas y confirmación de asistencia QR",
+            "description": "",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "App móvil venta y compra de herramientas, integración Mercado Pago",
+            "description": "",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Castellano",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Nivel Medio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

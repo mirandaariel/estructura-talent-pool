@@ -1,0 +1,94 @@
+{
+    "personal_info": {
+        "first_name": "João Victor",
+        "last_name": "Ferreira",
+        "email": "joaovictorferrer@gmail.com",
+        "phone": "+34643885663",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/joaovicto riferreira96",
+        "website": "https://github.com/JogoVictorEerter",
+        "portfolio": "",
+        "summary": "Soy un full-stack developer resolutivo, proactivo y adaptable, enfocado en aportar valor a los proyectos y ayudar al crecimiento de la organización mientras desarrollo mi carrera en el sector tecnológico."
+    },
+    "work_experience": [
+        {
+            "job_title": "",
+            "company": "",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Uptask: Aplicación para gestión de proyectos tanto de manera individual como en colaboración. Desarrollada con un stack MERN, utilizando TypeScript, ReactQuery, TailwindCss, JWT, Nodemailer, Axios.",
+                "CocktailApp: App que consume una API de bebidas para buscar diversas recetas y guardarlas en favoritos, utilizando TypeScript, React, Zustand para controlar estados globales y ZOD para validaciones.",
+                "MeetDancing: App para buscar parejas de baile según tu ubicación, utilizando un Stack MERN, JS, ContextAPI para estados en React, WebSockets para sesiones, y consumiendo API como mapBox.",
+                "StoreGuitar: App para vender instrumentos simulando un carrito de compra, realizada con React usando el hook de UseReducer para los estados de la aplicación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Development",
+            "institution": "Nuclio Digital School",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-03-01",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Alimentaria",
+            "institution": "ETISAAB Universidad Politecnica de Madrid",
+            "location": "Madrid",
+            "start_date": "2019-09-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react.js",
+                "node.js",
+                "express",
+                "mongodb",
+                "diseño-y-ui/ux",
+                "material-u",
+                "tailwind-css"
+            ],
+            "soft": [
+                "gestionar-y-trabajar-en-equipo",
+                "pensamiento-creativo",
+                "facilidad-para-desarrollar-y-aprender"
+            ],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Portugués",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "82"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

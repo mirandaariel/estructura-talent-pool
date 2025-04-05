@@ -1,0 +1,142 @@
+{
+    "personal_info": {
+        "first_name": "Edison",
+        "last_name": "Jacome Hidalgo",
+        "email": "xavijacome02@outlook.es",
+        "phone": "+593989524959",
+        "location": {
+            "country": "Ecuador",
+            "city": "Guayaquil",
+            "state": "Guayas"
+        },
+        "linkedin": "https://linkedin.com/in/edison-jacome-hidalgo-788441280",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy estudiante de Ingeniería Mecatrónica con conocimientos en mantenimiento industrial, automatización y desarrollo de software. Tengo experiencia en el uso de herramientas de diseño y simulación como AutoCAD, Inventor, LabVIEW, FluidSIM y TIA Portal. Además, he desarrollado habilidades en programación con tecnologías como HTML, CSS, JavaScript, Java, SQL, Node.js y React Native. Me interesa seguir ampliando mis conocimientos en automatización, control de procesos y desarrollo de software para la industria, aplicando soluciones tecnológicas innovadoras que optimicen los procesos industriales."
+    },
+    "work_experience": [
+        {
+            "job_title": "Pasante",
+            "company": "PAPELERA NACIONAL S.A.",
+            "location": "Coronel Marcelino Maridueña, Guayas, Ecuador",
+            "start_date": "2023-09-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Ejecuté mantenimiento preventivo y correctivo de válvulas industriales, garantizando su óptimo funcionamiento y prolongando su vida útil.",
+                "Configuré y calibré termómetros digitales y manuales, optimizando la precisión de las mediciones en procesos críticos.",
+                "Instalé y realicé la conexión de paneles de control, asegurando el cumplimiento de normativas de seguridad y operatividad.",
+                "Brindé apoyo en el diagnóstico y solución de fallas en transmisores y sistemas de control, contribuyendo a la continuidad operativa de la planta.",
+                "Utilicé Simatic Step 7 (S7) y PSC7 para la configuración y programación de sistemas de automatización industrial.",
+                "Realicé el inventario y control de repuestos, asegurando la disponibilidad de los componentes necesarios para el mantenimiento de los equipos.",
+                "Participé activamente en un equipo multidisciplinario, fortaleciendo habilidades en resolución de problemas, atención al detalle y trabajo en equipo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería Mecatrónica",
+            "institution": "Universidad Tecnológica ECOTEC",
+            "location": "Samborondón, Ecuador",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Ciencias",
+            "institution": "Unidad Educativa FAE*3 \"Taura\"",
+            "location": "Ecuador",
+            "start_date": "2016-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "automatización",
+                "tia-portal-de-siemens",
+                "java",
+                "javascript",
+                "postgresql",
+                "instrumentación",
+                "pcs7",
+                "fluidsim",
+                "html5",
+                "css3",
+                "react-native",
+                "node.js"
+            ],
+            "soft": [
+                "resolución-de-problemas",
+                "trabajo-en-equipo"
+            ],
+            "tools": [
+                "autocad",
+                "inventor",
+                "labview",
+                "factory-io",
+                "word",
+                "excel",
+                "powerpoint",
+                "publisher",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Automatización y Control en Sistemas de Refrigeracion",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Office Intermedio",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollador de Software",
+            "issuing_organization": "Escuela de Programación Krakedev",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Basic"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Ing. Jhonatan Portugal",
+            "relationship": "Reference",
+            "contact": "+593996978826, jportugal@panasa.com.ec"
+        },
+        {
+            "name": "Ing. Ivan Hidalgo",
+            "relationship": "Reference",
+            "contact": "+593959566856, ihidalgo@panasa.com.ec"
+        },
+        {
+            "name": "Ing. Brew Cobos",
+            "relationship": "Reference",
+            "contact": "+593993163307, brew_47@hotmail.com" 
+        }
+    ]
+}

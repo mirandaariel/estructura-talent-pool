@@ -1,0 +1,106 @@
+{
+    "personal_info": {
+        "first_name": "Juliana",
+        "last_name": "Camiolo",
+        "email": "julianacamiolo@hotmail.com",
+        "phone": "+54-9-1157949240",
+        "location": {
+            "country": "Argentina",
+            "city": "CABA",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy una programadora backend especializada en Python, con una sólida experiencia en el desarrollo de APIs escalables y robustas utilizando tecnologías como FastAPI, Flask y Django. Me apasiona enfrentar el desafío constante de incorporar nuevos requerimientos y soluciones a medida que las tecnologías evolucionan."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollo Backend",
+            "company": "Academia Musical",
+            "location": "",
+            "start_date": "2020-07-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "API servicio para alumnos de academia musical.",
+                "Gestión de la comunicación digital.",
+                "Reserva y concreción de cursos y clases."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollo Backend",
+            "company": "Servicio Médico",
+            "location": "",
+            "start_date": "2021-05-01",
+            "end_date": "2023-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Mantenimiento y mejora de web.",
+                "Generación de turnos y consultas para atención médica personalizada."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollo Backend",
+            "company": "",
+            "location": "",
+            "start_date": "2022-09-01",
+            "end_date": "2023-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Turnos médicos.",
+                "Gestión de solicitudes en prestaciones.",
+                "Interconsultas médicas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Máster",
+            "institution": "Platzi",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "django",
+                "fastapi",
+                "python",
+                "flask"
+            ],
+            "soft": [
+                "trabajo-en-equipo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

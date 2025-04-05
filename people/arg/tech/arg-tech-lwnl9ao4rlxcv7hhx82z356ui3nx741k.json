@@ -1,0 +1,103 @@
+{
+    "personal_info": {
+        "first_name": "Iván",
+        "last_name": "Chamenko",
+        "email": "ivanalexischanenko@gmail.com",
+        "phone": "+54-11-57c7-8827",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/ivan-chanenko",
+        "website": "",
+        "portfolio": "ivanalexisc",
+        "summary": "Profesional responsable y eficiente en busca de un puesto como desarrollador. Aspiro a poner en valor mis aptitudes técnicas y habilidades blandas dentro del sector IT"
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Web Front-end",
+            "company": "Imagine Design-AR",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo del Sitio Web del Colegio de MusicoTerapeutas de Entre Rios utilizando HTML, CSS, Vue y PHP."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web Fullstack",
+            "company": "Digital House",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una aplicación web (e-commerce) utilizando HTML para la estructura, CSS para el diseño y JavaScript para las interacciones y validaciones del lado del cliente.",
+                "El backend y la API REST fueron desarrolladas con SEQUELIZE y MySQL utilizando MVC."
+            ],
+            "achievements": [
+                "El proyecto fue realizado siguiendo las pautas de Metodologías Ágiles (SCRUM) y se gestionó utilizando GIT para el control de versiones."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Sistemas",
+            "institution": "Universidad Autónoma De Entre Rios",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Web Fullstack",
+            "institution": "Digital House",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "nodejs",
+                "mysql",
+                "react",
+                "php",
+                "mongodb"
+            ],
+            "soft": [],
+            "tools": [
+                "git"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Castellano",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,99 @@
+{
+    "personal_info": {
+        "first_name": "Lautaro Mateo",
+        "last_name": "Delgado",
+        "email": "lautaromdelgado@gmail.com",
+        "phone": "+5493482 29-8756",
+        "location": {
+            "country": "Argentina",
+            "city": "Avellaneda",
+            "state": "Santa Fe"
+        },
+        "linkedin": "https://linkedin.com/in/lautaromdelgado/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Backend especializado en Golang, con experiencia en desarrollo Full Stack y migración de proyectos a nuevas tecnologías. Apasionado por la tecnología y el emprendimiento, busco desarrollar ideas innovadoras y crear soluciones disruptivas en el mundo IT. Me destaco por mi capacidad de adaptación, trabajo en equipo y compromiso con la calidad del código."
+    },
+    "work_experience": [
+        {
+            "job_title": "Backend Developer",
+            "company": "INFOSOFT",
+            "location": "Avellaneda, Santa Fe",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de APIs RESTful utilizando Laravel y Filament, mejorando la consistencia y eficiencia del código existente.",
+                "Realización de migraciones de bases de datos, asegurando una transición fluida y sin errores.",
+                "Implementación de nuevas funcionalidades siguiendo el patrón de diseño Model-View-Controller (MVC).",
+                "Comunicación eficiente con el equipo de desarrollo backend y frontend, asegurando una colaboración fluida.",
+                "Provisión de documentación completa y soporte para facilitar la integración y continuidad del desarrollo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "IP SISTEMAS S.R.L.",
+            "location": "Avellaneda, Santa Fe",
+            "start_date": "2024-06-01",
+            "end_date": "2025-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé e implementé nuevas funcionalidades desde cero, mejorando la experiencia del usuario y la funcionalidad del sistema.",
+                "Refactoricé código existente para optimizar su rendimiento, logrando una reducción significativa en tiempos de ejecución.",
+                "Solucioné errores críticos tanto en el Frontend como en el Backend, asegurando la continuidad operativa de la plataforma.",
+                "Desarrollé APIs RESTful utilizando Go, facilitando una comunicación eficiente entre servicios.",
+                "Implementé interfaces interactivas y dinámicas en React, mejorando la usabilidad y accesibilidad para los usuarios finales.",
+                "Diseñé lógica de negocio robusta para el Backend, asegurando la integridad y eficacia de los procesos internos.",
+                "Integré y mantuve conexiones fluidas entre el Backend en Go y el Frontend en React, garantizando un flujo de datos estable.",
+                "Gestioné y optimicé bases de datos MySQL, asegurando alta disponibilidad y consistencia de la información.",
+                "Participé de manera activa con gran comunicación y organización con los seis desarrolladores que forman parte del equipo de desarrollo.",
+                "Diseñé y desarrollé lógica de negocio escalable y eficiente, asegurando el crecimiento futuro del sistema sin comprometer su rendimiento.",
+                "Implementé una API RESTful completa para facilitar la comunicación efectiva entre el Backend y el Frontend.",
+                "Creé y gestioné una base de datos relacional en MySQL, altamente normalizada y optimizada para escalabilidad futura.",
+                "Desarrollé el Backend desde cero, incluyendo rutas (endpoints), middlewares y un sistema de autenticación básica para proteger rutas específicas.",
+                "Implementé vistas interactivas limitadas en React para usuarios finales, con un enfoque puntual en requerimientos clave del Frontend.",
+                "Mantuve una comunicación clara y efectiva con los desarrolladores del equipo, delegando y dividiendo tareas de manera eficiente para cumplir los plazos del proyecto."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "Reconquista, Argentina",
+            "start_date": "",
+            "end_date": "2024-11-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "programación-orientada-a-objetos",
+                "api-restful"
+            ],
+            "soft": [
+                "análisis-y-resolución-de-problemas",
+                "organización",
+                "capacidad-de-comunicación",
+                "aprendizaje-rápido"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

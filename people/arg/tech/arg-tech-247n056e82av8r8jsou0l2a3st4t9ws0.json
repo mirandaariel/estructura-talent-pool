@@ -1,0 +1,134 @@
+{
+    "personal_info": {
+        "first_name": "Thomas",
+        "last_name": "Bretschneider",
+        "email": "ThomasBrets1999@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Mar del Plata",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Hello, I am Thomas, 25 years old. I was a Business Administration student in the city of Mar del Plata until 2020 when I started studying programming along with my degree. In 2021, I left my career to enroll in a full-time Coding Bootcamp with over 800 hours of study. This course gave me the technical and soft skills to work in the IT industry and helped me develop my self-learning skills."
+    },
+    "work_experience": [
+        {
+            "job_title": "Freelancer",
+            "company": "BITECH",
+            "location": "",
+            "start_date": "2021-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed frontend and backend of websites.",
+                "Collaborated with a partner in a small business setting."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Coding Bootcamp",
+            "company": "Plataforma 5",
+            "location": "",
+            "start_date": "2021-09-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Received over 1000 hours of training in the latest technologies.",
+                "Engaged in projects proposed by real companies."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Introductory programming course",
+            "company": "Plataforma 5",
+            "location": "",
+            "start_date": "2020-05-01",
+            "end_date": "2020-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Designed my first Full Stack website.",
+                "Studied for the coding Bootcamp entrance exam.",
+                "Understood the theoretical bases of Web programming.",
+                "Solved medium complexity exercises and challenges using JavaScript.",
+                "Created a Full Stack web page with a CRUD project."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Programming",
+            "institution": "Plataforma 5 Coding Bootcamp",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "Secondary Education",
+            "institution": "Instituto Humboldt",
+            "location": "",
+            "start_date": "2001-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "English Studies",
+            "institution": "Instituto New Lincoln",
+            "location": "",
+            "start_date": "2007-01-01",
+            "end_date": "2008-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "node.js",
+                "express.js",
+                "sql",
+                "postgresql",
+                "sequelize",
+                "mongodb",
+                "mongoose",
+                "passport.js",
+                "jwt",
+                "react.js",
+                "redux",
+                "tailwindcss",
+                "framer-motion"
+            ],
+            "soft": [
+                "metodologias-agiles-(scrum)",
+                "buena-predisposicion-para-el-trabajo-en-equipo",
+                "agile-methodologies-(scrum)",
+                "good-predisposition-for-work-team-up"
+            ],
+            "tools": [
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Fluent"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

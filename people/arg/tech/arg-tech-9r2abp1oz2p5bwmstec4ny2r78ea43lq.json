@@ -1,0 +1,159 @@
+{
+  "personal_info": {
+    "first_name": "Alexander",
+    "last_name": "Amenta",
+    "email": "amentacarp@gmail.com",
+    "phone": "+541128484432",
+    "location": {
+      "country": "",
+      "city": "Buenos Aires",
+      "state": ""
+    },
+    "linkedin": "",
+    "website": "https://alexamenta.tech",
+    "portfolio": "",
+    "summary": ""
+  },
+  "work_experience": [
+    {
+      "job_title": "Desarrollador Freelance",
+      "company": "",
+      "location": "",
+      "start_date": "2024-06-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Personalicé la plantilla de Tienda Nube con CSS avanzado y diseños personalizados creados en Figma y Canva.",
+        "Implementé mejoras visuales para optimizar la experiencia de usuario y conversión de ventas.",
+        "Optimizé el SEO mediante la implementación de meta tags dinámicos, estructura semántica y optimización de imágenes a formato webp.",
+        "Configuré Google Search Console para mejorar la indexación y visibilidad en motores de búsqueda.",
+        "Desarrollé una landing page con Next.js y TypeScript, optimizando rendimiento y escalabilidad.",
+        "Implementé una sección de menú interactivo con precios dinámicos, gestionados desde un archivo JSON para facilitar actualizaciones rápidas.",
+        "Implementé funcionalidades de carga rápida de imágenes utilizando Cloudinary, optimizando el rendimiento de la página web.",
+        "Configuré QR en las mesas para acceso instantáneo al menú digital sin necesidad de aplicaciones externas.",
+        "Desarrollé un dashboard administrativo para el control de stock y gastos de insumos, utilizando React en el frontend y Node.js con Express en el backend.",
+        "Implementé una base de datos MongoDB, gestionada con Mongoose, asegurando esquemas estructurados y consultas eficientes.",
+        "Diseñé una interfaz intuitiva para agregar, editar y monitorear el consumo de insumos, optimizando la gestión de costos.",
+        "Aseguré una experiencia fluida mediante actualización en tiempo real y una API REST optimizada."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador Full Stack",
+      "company": "Proyectos",
+      "location": "",
+      "start_date": "2024-06-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Aplicación de pronóstico del tiempo con geolocalización (Expo Location) y datos en tiempo real.",
+        "UI intuitiva con Nativewind y Styled Components.",
+        "Configuré notificaciones push con Expo Notifications para alertas meteorológicas.",
+        "App de control de gastos con gráficos interactivos y persistencia de datos con AsyncStorage.",
+        "Acortador de URLs con estadísticas en tiempo real y autenticación segura.",
+        "CRUD eficiente con Server Actions y análisis de tráfico con gráficos.",
+        "Ecommerce de cómics, liderando un equipo de 5 personas.",
+        "Panel de administración con gráficos y gestión avanzada de stock."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Desarrollador Full Stack",
+      "institution": "Soy Henry",
+      "location": "Buenos Aires, ARG",
+      "start_date": "2023-04-01",
+      "end_date": "2023-11-30",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "react",
+        "react-native",
+        "expo",
+        "javascript",
+        "typescript",
+        "next.js",
+        "android/ios",
+        "mysql",
+        "node",
+        "express",
+        "redux",
+        "tailwindcss",
+        "git",
+        "auth",
+        "api-rest"
+      ],
+      "soft": [
+        "adaptabilidad",
+        "comunicación-efectiva",
+        "liderazgo",
+        "trabajo-en-equipo",
+        "aprendizaje-continuo",
+        "colaboración-y-feedback-constructivo"
+      ],
+      "tools": [
+        "scrum",
+        "ux-ui",
+        "figma",
+        "jest",
+        "vitest",
+        "unit-testing",
+        "oop",
+        "linux",
+        "componentes-ui",
+        "jira",
+        "trello"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "WEATHERY",
+      "description": "Aplicación de pronóstico del tiempo con geolocalización y datos en tiempo real.",
+      "technologies": ["React Native", "Expo", "OpenWeather API"],
+      "url": ""
+    },
+    {
+      "name": "SPENDWISE",
+      "description": "App de control de gastos con gráficos interactivos y persistencia de datos.",
+      "technologies": ["React Native", "Zustand", "React Native Charts"],
+      "url": ""
+    },
+    {
+      "name": "SLEEKLINK",
+      "description": "Acortador de URLs con estadísticas en tiempo real y autenticación segura.",
+      "technologies": ["Next.js", "MySQL", "NextAuth", "Chart.js"],
+      "url": ""
+    },
+    {
+      "name": "KAPOWVERSE",
+      "description": "Ecommerce de cómics, liderando un equipo de 5 personas.",
+      "technologies": ["React", "Redux Toolkit", "PostgreSQL", "Cloudinary"],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Competente"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Competente"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

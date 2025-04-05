@@ -1,0 +1,218 @@
+{
+    "personal_info": {
+        "first_name": "Javier",
+        "last_name": "Brizuela",
+        "email": "jbrizuela1976@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Mendoza",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/javier-brizuela1976",
+        "website": "",
+        "portfolio": "https://javier1976.pythonanywhere.com",
+        "summary": "Desarrollador backend Python y TypeScript con más de 4 años de experiencia en programación y 20 años en la industria gráfica. Especializado en el desarrollo de APIs y aplicaciones web utilizando Django, Flask y NestJs. Con conocimiento en bases de datos relacionales y no relacionales, y experiencia en el uso de herramientas como Git, Postman, Docker y Jira. Con capacidad de trabajo en equipo aplicando metodologías ágiles."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "TrainIT",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de plataforma para realizar exámenes (challenge) para calificar candidatos.",
+                "Desarrollo con NestJs, Angular y Prisma.",
+                "Resolución de bugs y despliegue de front, back y DBs."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/Programa-TrainIT-Ar/challenge-be.git"
+        },
+        {
+            "job_title": "Backend Developer",
+            "company": "FooTalent Group",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de sistema de gestión hotelera.",
+                "Desarrollo de API completa con DRF.",
+                "Implementación de autenticación por sesiones."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/FooTalent/team-21.git"
+        },
+        {
+            "job_title": "Backend Developer",
+            "company": "NoCountry",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-02-29",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de solución para gestión de proyectos.",
+                "Desarrollo de endpoints de usuarios.",
+                "Implementación de JWT y Spectacular."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/No-Country/s13-20-n-python-django"
+        },
+        {
+            "job_title": "Backend Developer",
+            "company": "NoCountry",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de plataforma para el gremio de criadores de conejos.",
+                "Desarrollo de endpoints de perfiles.",
+                "Implementación de Spectacular para documentación."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/No-Country/s11-17-n-python-react"
+        },
+        {
+            "job_title": "Backend Developer",
+            "company": "NoCountry",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2023-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de plataforma de gestión de recetas médicas.",
+                "Desarrollo de API completa con Flask."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/JavierBrizuela/DigiMed"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diseño gráfico y publicitario",
+            "institution": "Instituto Superior Manuel Belgrano",
+            "location": "",
+            "start_date": "2010-01-01",
+            "end_date": "2013-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en informática y programación",
+            "institution": "",
+            "location": "",
+            "start_date": "1989-01-01",
+            "end_date": "1996-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "typescript",
+                "bash",
+                "sql",
+                "html",
+                "css",
+                "django",
+                "flask",
+                "fastapi",
+                "angular",
+                "nestjs",
+                "postgresql",
+                "mongodb",
+                "mysql"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "vsc",
+                "postman",
+                "swagger",
+                "docker",
+                "kubernetes",
+                "jira",
+                "trello"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Python",
+            "issuing_organization": "HackerRank",
+            "issue_date": "2022-06-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Scrum Foundation Professional Certificate",
+            "issuing_organization": "",
+            "issue_date": "2022-09-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Relational Database PostgreSQL",
+            "issuing_organization": "FreeCodeCamp",
+            "issue_date": "2022-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Postman API Fundamentals Student Expert",
+            "issuing_organization": "",
+            "issue_date": "2023-05-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "NoCountry certificación experience developer",
+            "issuing_organization": "",
+            "issue_date": "2024-03-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Adopta un Junior Rol Backend",
+            "issuing_organization": "",
+            "issue_date": "2024-06-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "FooTalent Rol Backend",
+            "issuing_organization": "",
+            "issue_date": "2024-07-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "TrainIT Rol Fullstack",
+            "issuing_organization": "",
+            "issue_date": "2024-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Nivel A2"
+        },
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,191 @@
+{
+    "personal_info": {
+        "first_name": "Lucas Aldo",
+        "last_name": "Fava Ruiz",
+        "email": "contacto@favalucas.ar",
+        "phone": "+54 9 221 621 2552",
+        "location": {
+            "country": "Argentina",
+            "city": "Olavarría",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://linkedin.com/in/FavaLucas",
+        "website": "https://favalucas.netlify.app",
+        "portfolio": "https://favalucas.netlify.app",
+        "summary": "Desarrollador Web Full Stack con experiencia en Frontend y Backend, especializado en tecnologías como React.js, Node.js y Docker. Busco aportar mis habilidades en una empresa innovadora y participar en proyectos de impacto. Estoy disponible para trabajar de forma remota o híbrida y me adapto fácilmente a las necesidades del equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista de datos",
+            "company": "Instituto Médico Olavarría S.A.",
+            "location": "Olavarría, Buenos Aires, Argentina",
+            "start_date": "2015-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Referente para la resolución de casos complejos relacionados a Facturación e Internaciones.",
+                "Promovido a Analista de Datos donde actualmente me encargo de la elaboración de informes y reportes para la toma de decisiones.",
+                "Logrando minimizar costos operativos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Administrador de Sistemas ABM",
+            "company": "SAT Medica S.A.",
+            "location": "",
+            "start_date": "2013-01-01",
+            "end_date": "2015-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Altas, Bajas y Modificaciones del sistema de gestión.",
+                "Recertificación de Norma ISO 9001 / 14001."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ejecutivo de Cuentas",
+            "company": "Tecsycom S.A.",
+            "location": "",
+            "start_date": "2009-01-01",
+            "end_date": "2013-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Supervisé campañas de ventas y atención al cliente para grandes empresas: Claro, LoJack, Liberty Seguros, etc.",
+                "Certificación desde cero de Norma ISO 9001.",
+                "Calificando como Proveedor A - Nota Objetiva.",
+                "Coordiné un equipo de +50 colaboradores."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Desarrollo Web Full Stack",
+            "institution": "CEPIT - Cluster Tecnológico Tandil",
+            "location": "Tandil, Buenos Aires, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en Sistemas de Información",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "react.js",
+                "vue.js",
+                "next.js",
+                "bootstrap",
+                "tailwind-css",
+                "node.js",
+                "nest.js",
+                "mysql",
+                "python",
+                "spring-boot",
+                "mongodb",
+                "netbeans",
+                "java",
+                "typeorm",
+                "mongoose",
+                "docker",
+                "git",
+                "gitflow",
+                "github",
+                "jest",
+                "postman",
+                "rest-apis"
+            ],
+            "soft": [],
+            "tools": [
+                "docker",
+                "git",
+                "gitflow",
+                "github",
+                "jest",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Aplicación de Cotizaciones de Empresas",
+            "description": "Creación de una solución web para la visualización de datos bursátiles mediante gráficos interactivos, facilitando el análisis y la toma de decisiones financieras para los usuarios. Sistema multilenguaje (Ingles/Español).",
+            "technologies": [
+                "react.js",
+                "nest.js",
+                "docker",
+                "mysql",
+                "typeorm",
+                "recharts",
+                "chart.js",
+                "rest-api",
+                "i18next",
+                "env",
+                "task-scheduling",
+                "cron",
+                "moment-timezone"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Gestor de Turnos - Club Atlético Estudiantes de Olavarría",
+            "description": "Implementación de un sistema de gestión de turnos que permite a los usuarios reservar turnos en línea, optimizando la administración de usuarios y reduciendo la carga de trabajo del personal. Roles de Usuario, Profesor y Admin con validaciones por bcrypt.",
+            "technologies": [
+                "react.js",
+                "nest.js",
+                "node.js",
+                "axios",
+                "mysql",
+                "jwt",
+                "moment.js"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Web de Empleos - Municipio de Olavarría",
+            "description": "Desarrollo de una plataforma integral de búsqueda de empleo que conecta a postulantes con empresas locales, facilitando el proceso de contratación y mejorando la visibilidad de las oportunidades laborales.",
+            "technologies": ["react.js", "node.js", "axios", "bootstrap", "flexbox"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "C1 Advanced (Reading y Listening)"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Socio y Tesorero",
+            "organization": "Rotary Club Olavarría",
+            "location": "Olavarría, Buenos Aires, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "responsibilities": []
+        }
+    ],
+    "publications": [],
+    "references": []
+}

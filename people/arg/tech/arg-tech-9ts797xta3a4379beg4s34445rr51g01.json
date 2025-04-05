@@ -1,0 +1,124 @@
+{
+    "personal_info": {
+        "first_name": "Joaquin Ariel",
+        "last_name": "Zabala",
+        "email": "joaquinzabala118@gmail.com",
+        "phone": "3512372455",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/joaquinzabala",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un Desarrollador Full Stack con experiencia en Java con Spring Boot, .NET, C#, Angular, entre otras. Apasionado por la tecnología y la resolución de problemas. Me motiva el aprendizaje constante y el trabajo en equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "Bromus Software S.A.S",
+            "location": "Córdoba, Argentina",
+            "start_date": "2024-02-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Participé en el desarrollo de una aplicación de software industrial, implementando soluciones tecnológicas tanto en frontend con Angular 16, como en backend con .Net.",
+                "Implementé la lógica de negocio y servicios en .NET con C#, optimizando el rendimiento y escalabilidad de la aplicación.",
+                "Gestioné bases de datos en SQL Server mediante Entity Framework.",
+                "Trabajé en equipo bajo la metodología Scrum, colaborando en revisiones de código y mejora continua del proyecto."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Mozo y Cajero",
+            "company": "Chéz café & deli",
+            "location": "Córdoba, Argentina",
+            "start_date": "2024-01-01",
+            "end_date": "2024-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Atendí a los clientes, gestionando pedidos y manejando cobros en caja."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Superior en Programación",
+            "institution": "Universidad Tecnológica Nacional Córdoba",
+            "location": "Córdoba, Argentina",
+            "start_date": "2023-03-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Educación Física",
+            "institution": "Instituto salesiano Domingo Savio",
+            "location": "Córdoba, Argentina",
+            "start_date": "2017-03-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Salesforce Development I",
+            "institution": "Academia Guayerd",
+            "location": "",
+            "start_date": "2022-09-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring-boot",
+                "junit",
+                "c#",
+                "sql",
+                "html",
+                "css",
+                "javascript",
+                "bootstrap",
+                "patrones-de-diseño",
+                "angular",
+                "maven",
+                "mockito",
+                ".net",
+                "entity-framework",
+                "arquitectura-de-microservicios",
+                "git"
+            ],
+            "soft": [
+                "metodologias-agiles"
+            ],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Aplicación web para consorcio 'Villa del Condor'",
+            "description": "Desarrollé junto a 5 compañeros el microservicio de Accesos en Java 17, Spring boot y Docker en una arquitectura de microservicios.",
+            "technologies": ["java", "spring-boot", "docker"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Castellano",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

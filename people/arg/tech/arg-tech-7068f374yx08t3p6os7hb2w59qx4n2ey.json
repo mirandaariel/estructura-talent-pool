@@ -1,0 +1,105 @@
+{
+    "personal_info": {
+        "first_name": "Jeremias",
+        "last_name": "Garcia",
+        "email": "garciajeremias97@gmail.com",
+        "phone": "3404-516793",
+        "location": {
+            "country": "Argentina",
+            "city": "López",
+            "state": "Santa Fe"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Referente Técnico",
+            "company": "I2T S.A",
+            "location": "",
+            "start_date": "2021-12-01",
+            "end_date": "2022-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de páginas web usando WordPress y PHP para añadir funcionalidades CRUD junto con una base de datos MySQL.",
+                "Desarrollo de componentes React para maquetado de interfaces de usuario.",
+                "Integración de frameworks de AWS en páginas web.",
+                "Análisis técnico de casos de uso, asistencia técnica a un grupo de programadores, estimación de horas de tareas, asignación de tareas a los programadores.",
+                "Análisis de los requerimientos del cliente para armar propuestas de desarrollo a medida para un eCommerce."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Programador Full Stack",
+            "company": "I2T S.A",
+            "location": "",
+            "start_date": "2020-11-01",
+            "end_date": "2021-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicaciones híbridas, usando una plataforma low-code para la maquetación y prototipado, en conjunto con JavaScript y consumiendo servicios API:REST.",
+                "Desarrollo de aplicaciones y servicios web usando PHP Laravel."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Analista de Sistemas de Computación",
+            "institution": "Instituto de Estudios Superiores (Santa Fe)",
+            "location": "Santa Fe, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react.js",
+                "javascript",
+                "wordpress",
+                "php",
+                "html",
+                "css",
+                "mysql",
+                "aws",
+                "git",
+                "laravel",
+                "java"
+            ],
+            "soft": [
+                "capacidad-de-análisis",
+                "proactividad",
+                "autodidacta",
+                "trabajo-en-equipo"
+            ],
+            "tools": [
+                "bootstrap"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Expo-Carreras 2018",
+            "description": "Integré un grupo de trabajo en el cual se construyeron dos aplicaciones Android desarrolladas en Java para la 'Expo-Carreras 2018'.",
+            "technologies": [
+                "java"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

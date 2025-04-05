@@ -1,0 +1,213 @@
+{
+    "personal_info": {
+        "first_name": "Isabel",
+        "last_name": "Mesina",
+        "email": "isabelmesina@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full stack web developer proficient in JavaScript. Experienced with Node.js, Express, React, and multiple databases including MongoDB and PostgreSQL. Passionate about continuous learning and collaboration."
+    },
+    "work_experience": [
+        {
+            "job_title": "",
+            "company": "ATML",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Worked with React, Redux, ExpressJS, Git/GitHub, Node.js, JavaScript, Postgres, and MongoDB.",
+                "Utilized design tools like Corel Draw, Photoshop, and Illustrator.",
+                "Focused on teamwork and collaboration."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Fundamentos del Diseño UX UI",
+            "institution": "Talento Tech, Ministerio de Educación Gob. Ciudad de Buenos Aires",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer JavaScript",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "Full Stack Web Developer Python",
+            "institution": "Codo A Codo",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 60
+        },
+        {
+            "degree": "Web Design",
+            "institution": "CFP 401",
+            "location": "",
+            "start_date": "2018-03-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Graphic Design",
+            "institution": "CFP 401",
+            "location": "",
+            "start_date": "2018-03-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Digital Marketing",
+            "institution": "Educación IT",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2018-02-28",
+            "hours": 0
+        },
+        {
+            "degree": "Philosophy Teacher",
+            "institution": "Universidad de Buenos Aires",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "node.js",
+                "express",
+                "react",
+                "redux",
+                "html",
+                "css",
+                "bootstrap",
+                "sequelize",
+                "postgres",
+                "mysql",
+                "mariadb",
+                "mongodb",
+                "cloudinary",
+                "git",
+                "docker-compose",
+                "flask",
+                "vuejs",
+                "typescript"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "creatividad",
+                "habilidades-interpersonales",
+                "inteligencia-emocional",
+                "comunicación",
+                "autonomía",
+                "resiliencia"
+            ],
+            "tools": [
+                "github",
+                "corel-draw",
+                "photoshop",
+                "illustrator",
+                "indesign",
+                "trello",
+                "slack",
+                "scrum",
+                "agile"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {
+                "trabajo-en-equipo": [],
+                "creatividad": [],
+                "habilidades-interpersonales": [],
+                "inteligencia-emocional": [],
+                "comunicación": [],
+                "autonomía": [],
+                "resiliencia": []
+            }
+        }
+    },
+    "certifications": [
+        {
+            "name": "Upskilling Microservices con Docker",
+            "issuing_organization": "Henry",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Azure Data Fundamentals",
+            "issuing_organization": "Microsoft",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Javascript desde cero",
+            "issuing_organization": "Freecodecamp",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "PHP, Desarrollo Web con PHP",
+            "issuing_organization": "Domestika",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Henry's Merch",
+            "description": "An e-commerce developed during Henry Bootcamp to sell merchandising, utilizing SCRUM. Involved backend database creation, GitHub repository setup, and front-end enhancements.",
+            "technologies": ["React", "Redux Toolkit", "TypeScript", "CSS", "MongoDB", "NodeJS", "Express", "SCRUM"],
+            "url": ""
+        },
+        {
+            "name": "Videogames SPA",
+            "description": "Single Page Application consuming a videogame API, featuring landing page, genre-based game presentation, pagination, filtering, and creation form.",
+            "technologies": ["JavaScript", "React", "Redux", "Sequelize", "Postgres"],
+            "url": "https://github.com/isamess/Videogames_SPA"
+        },
+        {
+            "name": "Buenos Aires Tur",
+            "description": "Site promoting Buenos Aires' tourist spots with a homepage carousel, tour pages, and contact form.",
+            "technologies": ["JavaScript", "Python", "VueJS", "Flask", "MySQL", "HTML", "CSS", "Bootstrap"],
+            "url": "https://mar-rusher.github.io/FrontEnd-TP/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "C1",
+            "certification_url": "https://www.efset.org/cert/kQcmm3"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

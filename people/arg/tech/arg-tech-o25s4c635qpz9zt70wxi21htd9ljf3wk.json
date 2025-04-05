@@ -1,0 +1,125 @@
+{
+    "personal_info": {
+        "first_name": "Alejo Ezequiel",
+        "last_name": "Vilches",
+        "email": "alejoevilches@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "www.alejovilches.com.ar",
+        "portfolio": "",
+        "summary": "Desarrollador de software con experiencia en el trabajo en equipo utilizando metodologías ágiles. Estudiante de la Tecnicatura en Análisis de Sistemas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Developer",
+            "company": "Tinkin Tech Partner",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de MVPs para startups de América Latina.",
+                "Implementación de prácticas de Test Driven Development (TDD) para asegurar la calidad del código.",
+                "Optimización del rendimiento y experiencia del usuario en las aplicaciones desarrolladas.",
+                "Resolución eficiente de tickets y problemas críticos para el mantenimiento de sistemas existentes.",
+                "Colaboración activa en el diseño de arquitecturas escalables para nuevos proyectos.",
+                "Optimización del rendimiento de la aplicación mediante prácticas avanzadas de desarrollo frontend y backend.",
+                "Diseño de flujos eficientes de comunicación entre frontend y backend utilizando APIs robustas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico en Análisis de Sistemas",
+            "institution": "Instituto Superior de Formación Docente y Técnica N° 24",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Abogado",
+            "institution": "Universidad Abierta Interamericana",
+            "location": "",
+            "start_date": "2014-04-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "react",
+                "nextjs",
+                "tailwindcss",
+                "zustand",
+                "node.js",
+                "nestjs",
+                "postman",
+                "git",
+                "github",
+                "sql",
+                "mysql",
+                "postgresql",
+                "supabase",
+                "jest",
+                "react-testing-library",
+                "php",
+                "apache-server",
+                "linux",
+                "macos"
+            ],
+            "soft": [],
+            "tools": [
+                "jira",
+                "trello",
+                "notion",
+                "slack",
+                "metodologías-ágiles"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "1Mentor",
+            "description": "Plataforma de inteligencia artificial que permite a los estudiantes e instituciones de educación superior entender cómo está evolucionando el mercado laboral.",
+            "technologies": ["TypeScript", "React", "Node", "Styled Components", "MaterialUI"],
+            "url": ""
+        },
+        {
+            "name": "Balance",
+            "description": "App para realizar journaling y poder llevar un control de pensamientos y salud mental. Disponible en balance-theapp.vercel.app",
+            "technologies": ["TypeScript", "React", "Zustand", "React Router"],
+            "url": "https://balance-theapp.vercel.app"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Native"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "C2 Proficient (EF Set)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

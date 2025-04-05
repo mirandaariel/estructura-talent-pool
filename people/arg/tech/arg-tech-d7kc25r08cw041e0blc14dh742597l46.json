@@ -1,0 +1,119 @@
+{
+    "personal_info": {
+        "first_name": "Ivo Javier",
+        "last_name": "Pascal Rios",
+        "email": "pascalIvoDev@gmail.com",
+        "phone": "299 413 7609",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": "Río Negro"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Siempre he tenido mucha curiosidad por aprender cosas nuevas, lo cual me llevó a convertirme en programador, donde he combinado mi amor por la tecnología con mis habilidades en desarrollo de software para crear soluciones robustas y eficientes."
+    },
+    "work_experience": [
+        {
+            "job_title": "FullStack Developer",
+            "company": "MindHub LA",
+            "location": "",
+            "start_date": "2022-06-01",
+            "end_date": "2022-07-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé un ecommerce grupal con tecnologías tales como HTML, CSS, JavaScript, Vue JS, Axios, JAVA y Spring Boot.",
+                "Utilicé metodologías agile tanto para el Frontend como la API REST en Backend."
+            ],
+            "achievements": [
+                "Creación de un sistema de loggeo, carrito de compras completo y mapeo de productos entre otras funcionalidades."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "FullStack Developer",
+            "company": "MindHub LA",
+            "location": "",
+            "start_date": "2020-04-01",
+            "end_date": "2021-06-21",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé un homebank utilizando HTML, CSS, JavaScript, Vue JS, Axios, JAVA y Spring Boot.",
+                "Enfoque en la experiencia de usuario y autenticación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "MindHub LA",
+            "location": "",
+            "start_date": "2020-04-14",
+            "end_date": "2020-04-19",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé el Frontend de un PetShop utilizando HTML, CSS, JavaScript y Vue JS.",
+                "Se enfocó en una interfaz gráfica responsive y metodologías agile."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Ciencias de la Computación",
+            "institution": "Universidad Nacional del COMAHUE",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bootcamp Full Stack JAVA",
+            "institution": "MindHub LA Cohort 24",
+            "location": "",
+            "start_date": "2022-03-01",
+            "end_date": "2022-07-01",
+            "hours": 0
+        },
+        {
+            "degree": "Bachillerato en Informática",
+            "institution": "ESRN N°17",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring-boot",
+                "postgresql",
+                "javascript",
+                "react"
+            ],
+            "soft": [],
+            "tools": [
+                "git"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Nivel A2 + Lectura de documentación"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

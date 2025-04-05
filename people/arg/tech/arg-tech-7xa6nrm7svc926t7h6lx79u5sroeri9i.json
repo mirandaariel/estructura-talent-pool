@@ -1,0 +1,152 @@
+{
+    "personal_info": {
+        "first_name": "Jonathan Andrés",
+        "last_name": "Muchewicz",
+        "email": "Jonathanandres.dev@gmail.com",
+        "phone": "+54 3764-842498",
+        "location": {
+            "country": "Argentina",
+            "city": "Posadas",
+            "state": "Misiones"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Me apasiona crear soluciones tecnológicas funcionales y atractivas, siempre enfocadas en mejorar la experiencia del usuario. Mi enfoque combina creatividad, habilidades técnicas y un compromiso constante con el aprendizaje. Estoy abierto a colaborar en proyectos que impulsen la innovación tecnológica."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "MindHub + Rappi",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé e implementé aplicaciones web utilizando React y Tailwind CSS para el Front-End y Node.js con Express en el Back-End.",
+                "Integré bases de datos MongoDB para almacenar y gestionar información de usuarios y operaciones.",
+                "Colaboré en equipos ágiles bajo la metodología Scrum, utilizando herramientas como Git y GitHub para control de versiones."
+            ],
+            "achievements": [
+                "Proyecto destacado: Minga - Aplicación para la visualización de mangas y comics."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Front End",
+            "company": "MindHub + Rappi",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé e implementé aplicaciones web utilizando Vue.js y Bootstrap.",
+                "Integré bases de datos de terceros para almacenar y gestionar información de usuarios y operaciones.",
+                "Colaboré en equipos ágiles bajo la metodología Scrum, utilizando herramientas como Git y GitHub para control de versiones."
+            ],
+            "achievements": [
+                "Proyecto destacado: Harry Potter Github - Web orientada al mundo de Harry Potter."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Administración y Venta",
+            "company": "Litoral Serigrafía S.A.",
+            "location": "Posadas, Misiones",
+            "start_date": "2021-04-01",
+            "end_date": "2023-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestioné procesos administrativos, incluyendo facturación y control de inventarios con TodoSoft.",
+                "Diseñe contenido digital y material impreso, mejorando la presencia de la marca en redes sociales.",
+                "Implementé estrategias de atención al cliente, mejorando la satisfacción del cliente en un 15%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certificación en Desarrollo Front-End",
+            "institution": "MindHub + Rappi",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Certificación en Desarrollo Full Stack",
+            "institution": "MindHub + Rappi",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Curso de Diseño Gráfico",
+            "institution": "CorelDraw",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html5",
+                "css3",
+                "react",
+                "redux",
+                "express",
+                "vue",
+                "mongodb",
+                "node.js",
+                "scrum"
+            ],
+            "soft": [
+                "resolucion-de-problemas",
+                "soporte"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "figma",
+                "bootstrap",
+                "tailwind-css",
+                "coreldraw",
+                "todoSoft"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "MyTinerary",
+            "description": "Aplicación de gestión de viajes con autenticación de usuarios y base de datos en MongoDB.",
+            "technologies": ["react", "node.js", "express", "tailwind-css"],
+            "url": ""
+        },
+        {
+            "name": "Minga",
+            "description": "Aplicación para la visualización de mangas y comics.",
+            "technologies": ["react", "node.js", "express", "tailwind-css", "jwt"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "A1"
+        },
+        {
+            "language": "Portugues",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

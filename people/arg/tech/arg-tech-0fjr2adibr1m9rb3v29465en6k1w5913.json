@@ -1,0 +1,131 @@
+{
+    "personal_info": {
+        "first_name": "Guillermo",
+        "last_name": "Guardia",
+        "email": "guillermoguardia24.dev@gmail.com",
+        "phone": "+54 11 5914 9165",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "https://github.com/gul24xr",
+        "portfolio": "",
+        "summary": "Desarrollador full stack con un enfoque principalmente en backend, experiencia en Node.js, React, Next.js, Java y Python. Interesado en mantener una arquitectura sólida y escalable, optimizando rendimiento y garantizando protección de recursos."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Incomplete Bachelor's in Computer Engineering",
+            "institution": "Facultad Ingeniería UBA",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2006-01-01",
+            "end_date": "2009-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Development Career",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "node.js",
+                "react.js",
+                "next.js",
+                "react-native",
+                "python",
+                "django",
+                "pygame",
+                "java",
+                "spring-boot",
+                "c++",
+                "pascal",
+                "postgresql",
+                "mysql",
+                "sqlite",
+                "mongodb",
+                "firefoxe",
+                "docker",
+                "oauth-2.0",
+                "openid-connect",
+                "auth0",
+                "jwt"
+            ],
+            "soft": [
+                "comunicación-efectiva",
+                "trabajo-en-equipo",
+                "resolución-de-problemas",
+                "capacidad-de-aprendizaje-continuo"
+            ],
+            "tools": [
+                "postman",
+                "thunder-client",
+                "git",
+                "github",
+                "swagger",
+                "cors",
+                "axios",
+                "zustand",
+                "ant-design",
+                "redux-toolkit",
+                "sequelize",
+                "passport.js"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "E-commerce Full Stack",
+            "description": "Desarrollo de un e-commerce full stack con manejo de usuarios, carritos, compras, ventas y envíos, con integración de Auth0 y OAuth 2.0.",
+            "technologies": ["node.js", "express", "react", "vite", "mongodb", "mongoose", "zustand", "axios", "ant-design"],
+            "url": ""
+        },
+        {
+            "name": "Administración de Consultorio Médicos en Next.js",
+            "description": "Sistema para administración de pacientes, citas y médicos con backend en Next.js API Routes y base de datos PostgreSQL.",
+            "technologies": ["next.js", "postgresql", "sequelize", "zustand", "axios"],
+            "url": ""
+        },
+        {
+            "name": "Juego Multijugador con WebSockets (En desarrollo)",
+            "description": "Recreación de juegos con C++ en multijugador, gestionando comunicación mediante WebSockets.",
+            "technologies": ["c++", "websockets"],
+            "url": ""
+        },
+        {
+            "name": "Sistema de Reservas SaaS (En desarrollo)",
+            "description": "Sistema de reservas para pequeñas empresas con integración de Auth0 y OAuth 2.0.",
+            "technologies": ["mongodb", "auth0", "oauth-2.0"],
+            "url": ""
+        },
+        {
+            "name": "Sistema de Gestión Comercial en JAVA",
+            "description": "Desarrollo en Java con Spring Boot para gestión de ventas, stock y productos con APIs RESTful.",
+            "technologies": ["java", "spring-boot"],
+            "url": ""
+        },
+        {
+            "name": "Desarrollo Mobile - Simulador de Cliente de Monedero Digital",
+            "description": "App móvil en React Native simulando un cliente de monedero digital con Firefoxe para base de datos y geolocalización con Google Maps API.",
+            "technologies": ["react-native", "expo", "firefoxe", "google-maps-api"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

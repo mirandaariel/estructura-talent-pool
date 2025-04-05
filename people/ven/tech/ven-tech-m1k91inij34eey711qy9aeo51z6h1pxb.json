@@ -1,0 +1,126 @@
+{
+    "personal_info": {
+        "first_name": "Jose",
+        "last_name": "Velasquez",
+        "email": "velasquezdenorajose@gmail.com",
+        "phone": "+584121942352",
+        "location": {
+            "country": "Venezuela",
+            "city": "Monagas",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/jdvd01",
+        "website": "https://github.com/Jdvd01",
+        "portfolio": "",
+        "summary": "Desarrollador web full stack, especializado en crear aplicaciones con código limpio, eficiente y escalable. Cuento con 2 años de experiencia trabajando con tecnologías como JavaScript, Python. Aprendo rápido y soy un apasionado por mejorar mis habilidades cada día para ser un mejor profesional."
+    },
+    "work_experience": [
+        {
+            "job_title": "Profesor asistente de programación",
+            "company": "4Geeks Academy",
+            "location": "",
+            "start_date": "2022-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Responsable de guiar y apoyar a los estudiantes en su aprendizaje, proporcionando retroalimentación constructiva y resolviendo dudas de forma individual.",
+                "Realizar revisiones exhaustivas para garantizar que los proyectos cumplen los requisitos establecidos y siguen las mejores prácticas.",
+                "Fomentar un entorno de colaboración y motivación, promoviendo el crecimiento continuo de los estudiantes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Programador web Frontend",
+            "company": "Bluelight Tech",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Experiencia en el desarrollo de interfaces de usuario responsivas y atractivas, optimizadas para numerosos dispositivos y tamaños de pantalla.",
+                "Capacidad para identificar y resolver problemas técnicos con eficacia, garantizando el correcto funcionamiento de las aplicaciones.",
+                "Codificación limpia y bien documentada, siguiendo las directrices del sector para facilitar el mantenimiento y la colaboración en equipo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollo de software Full-stack",
+            "institution": "4Geeks Academy",
+            "location": "",
+            "start_date": "2022-02-01",
+            "end_date": "2022-06-30",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería de sistemas",
+            "institution": "Universidad de Oriente (UDO)",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "tailwind",
+                "bootstrap",
+                "chakraui",
+                "react",
+                "axios",
+                "redux",
+                "flask",
+                "sqlalchemy",
+                "mysql",
+                "postgresql",
+                "nodejs",
+                "expressjs",
+                "git",
+                "github"
+            ],
+            "soft": [
+                "resolución-de-problemas",
+                "trabajo-en-equipo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Dev corner",
+            "description": "En desarrollo",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Portfolio",
+            "description": "Presente",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "B2, upper intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

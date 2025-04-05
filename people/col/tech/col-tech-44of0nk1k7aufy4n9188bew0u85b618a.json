@@ -1,0 +1,108 @@
+{
+    "personal_info": {
+        "first_name": "Diana Melissa",
+        "last_name": "Londoño Celis",
+        "email": "melissa9608@gmail.com",
+        "phone": "+57 316 2834053",
+        "location": {
+            "country": "Colombia",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/melissalondono-datascientist/",
+        "website": "",
+        "portfolio": "https://github.com/melissa9608",
+        "summary": "Científica de Datos con experiencia en análisis de datos, machine learning y optimización de procesos. Enfocada en convertir datos en insights estratégicos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista Web y CRM",
+            "company": "WOW Remote Teams",
+            "location": "Arizona, USA (Remoto)",
+            "start_date": "2024-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Lideré un proyecto para reenfocar la industria de la empresa",
+                "Diseñé y optimicé una nueva página web",
+                "Incrementé la tasa de respuesta de clientes en un 60% mediante estrategias de email marketing",
+                "Desarrollé reportes y análisis de métricas clave con Power BI"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bootcamp de Ciencia de Datos",
+            "institution": "TripleTen",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-10-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnología en Desarrollo de Software (En curso)",
+            "institution": "Universidad Nacional Abierta y a Distancia (Colombia)",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Química Industrial",
+            "institution": "Universidad Tecnológica de Pereira (Colombia)",
+            "location": "",
+            "start_date": "",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python", "sql", "pandas", "numpy", "scikit-learn", "power-bi", "zoho-crm", "wordpress", "elementor"
+            ],
+            "soft": [
+                "critical-thinking", "problem-solving", "communication", "teamwork", "data-driven-decision-making"
+            ],
+            "tools": [
+                "power-bi", "zoho-crm", "wordpress", "elementor"]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Predicción de Pérdida de Clientes",
+            "description": "Modelo de machine learning para predecir pérdida de clientes basado en XGBoost.",
+            "technologies": ["python", "scikit-learn", "pandas", "xgboost"],
+            "url": "https://github.com/melissa9608/customer-_churn_prediction_model"
+        },
+        {
+            "name": "Modelo de Verificación de Edad",
+            "description": "Modelo de visión artificial basado en ResNet50 para validar edad en la venta de alcohol.",
+            "technologies": ["python", "tensorflow", "resnet50"],
+            "url": "https://github.com/melissa9608/vision_artificial"
+        },
+        {
+            "name": "Segmentación de Clientes y Análisis de Sentimientos",
+            "description": "Análisis de clientes y clasificación de reseñas usando técnicas NLP y modelos avanzados.",
+            "technologies": ["python", "lightgbm", "bert", "nlp"],
+            "url": "https://github.com/melissa9608/Aprendizaje_autom-tico_para_textos"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

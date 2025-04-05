@@ -1,0 +1,163 @@
+{
+    "personal_info": {
+        "first_name": "Victor Manuel",
+        "last_name": "Gomez Zarama",
+        "email": "victormanuel272791@gmail.com",
+        "phone": "+57 3127111708",
+        "location": {
+            "country": "Colombia",
+            "city": "Cali",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/victormanuelgomez-backend/",
+        "website": "https://github.com/victorm27",
+        "portfolio": "",
+        "summary": "Ingeniero de Informática en formación con experiencia en desarrollo Backend, creación y consumo de APIs Restful, y manejo de bases de datos SQL y NOSQL. Habilidades en trabajo en equipo, comunicación asertiva y atención al detalle."
+    },
+    "work_experience": [
+        {
+            "job_title": "Pasante Desarrollador Backend",
+            "company": "Easydata",
+            "location": "En remoto",
+            "start_date": "2022-08-01",
+            "end_date": "2023-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Contribuir en la creación de lógica y APIs en el Backend de diversas aplicaciones web.",
+                "Mantener un enfoque completo y colaborativo durante todo el ciclo de desarrollo en aplicaciones, utilizando lenguajes como Python, JavaScript, contenedores Docker y Git.",
+                "Colaborar estrechamente con equipos multifuncionales, asegurando una comunicación fluida y la alineación de objetivos.",
+                "Participar activamente en sesiones de revisión de código, aportando sugerencias y mejoras para garantizar la calidad del código y la eficiencia del proceso."
+            ],
+            "achievements": [
+                "Desempeñé un papel clave en la finalización exitosa de 6 proyectos, contribuyendo a su entrega puntual y a la satisfacción del cliente.",
+                "Diseñé y desarrollé APIs RESTful utilizando FastAPI, MySQL y MongoDB, optimizando los tiempos de respuesta en un 20%.",
+                "Implementé mejoras en la eficiencia del desarrollo, reduciendo el tiempo de desarrollo y pruebas en un 15%.",
+                "Colaboré en la resolución de desafíos técnicos complejos, mejorando la escalabilidad y la estabilidad de las aplicaciones en un 30% en términos de rendimiento."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "Fundación Comedogs Colitas del Distrito",
+            "location": "En remoto",
+            "start_date": "2022-06-01",
+            "end_date": "2023-11-30",
+            "currently_working": true,
+            "responsibilities": [
+                "Gestionar la conexión y sincronización del backend con el frontend y la base de datos.",
+                "Desarrollar desde cero toda la lógica del backend para el sitio web, incluyendo la conexión con el frontend y la base de datos.",
+                "Desarrollar e integrar APIs para mejorar la funcionalidad y la interactividad del sitio web y micrositio.",
+                "Trabajar bajo la metodología Scrum, participando en reuniones diarias, sprints y retrospectivas."
+            ],
+            "achievements": [
+                "Desarrollé e integré APIs RESTful en Node.js, logrando un aumento del 40% en la eficiencia del sistema y una reducción del 30% en los tiempos de respuesta.",
+                "Implementé un sistema de manejo de datos robusto, mejorando la integridad de los datos en un 50% y reduciendo errores en un 20%.",
+                "Participé en la revisión y mejora continua del código, alcanzando un incremento del 35% en la calidad del código y en la eficiencia del proceso de desarrollo.",
+                "Colaboré en la resolución de desafíos técnicos complejos, mejorando la escalabilidad y la estabilidad de las aplicaciones en un 20% en términos de rendimiento."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería Informática",
+            "institution": "Universidad Autónoma de Occidente",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-08-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "javascript",
+                "typescript",
+                "java",
+                "c#",
+                "node.js",
+                "fastapi",
+                "django",
+                "mysql",
+                "mongodb"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "comunicación-asertiva",
+                "atención-al-detalle"
+            ],
+            "tools": [
+                "git",
+                "docker"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Curso de Fundamentos de Python",
+            "issuing_organization": "Platzi",
+            "issue_date": "2022-09-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Docker",
+            "issuing_organization": "Platzi",
+            "issue_date": "2022-09-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Fundamentos de MongoDB",
+            "issuing_organization": "Platzi",
+            "issue_date": "2022-09-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Fundamentos de Git y Github",
+            "issuing_organization": "Platzi",
+            "issue_date": "2022-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Angular",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Fundamentos de JavaScript",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de React",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de fundamentos de NodeJs",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

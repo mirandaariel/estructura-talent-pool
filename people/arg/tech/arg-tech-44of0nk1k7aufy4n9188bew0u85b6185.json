@@ -1,0 +1,107 @@
+{
+    "personal_info": {
+        "first_name": "Claudio Paul",
+        "last_name": "Bustos Rodríguez",
+        "email": "claudiobustos.sk2000@gmail.com",
+        "phone": "343-507-7663",
+        "location": {
+            "country": "Argentina",
+            "city": "Paraná",
+            "state": "Entre Ríos"
+        },
+        "linkedin": "",
+        "website": "http://claudio-bustos-dev.com",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Fullstack Freelancer",
+            "company": "You Send We Print",
+            "location": "Miami, FA, USA",
+            "start_date": "2024-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño y desarrollo de nuevas secciones y controladores ajustados a las necesidades específicas de los clientes.",
+                "Trabajo sobre un sistema hecho en PHP utilizando un framework personalizado y arquitectura MVC para soluciones eficientes y escalables."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Pasante",
+            "company": "Ministerio Público Fiscal",
+            "location": "Paraná, ER, Argentina",
+            "start_date": "2017-04-01",
+            "end_date": "2018-04-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de nuevas funcionalidades e interfaces y componentes genéricos funcionales con React js + Mui Component Library + Json Forms.",
+                "Integración dentro del sistema principal comunicándose con microservicios utilizando Graphql y un servidor Nest Js.",
+                "Configuración de un servicio de login con Keycloak y almacenamiento de archivos con MinioJS."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Fullstack Freelancer",
+            "company": "Librería Gloria Montoya",
+            "location": "Paraná, ER, Argentina",
+            "start_date": "2024-02-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de un sitio web para visualizar trabajos artísticos y libros de un museo, e información sobre artistas y autores.",
+                "Utilización de Laravel + Livewire para el desarrollo del sitio."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista de Sistemas",
+            "institution": "Universidad Autónoma de Entre Ríos",
+            "location": "Oro Verde, Argentina",
+            "start_date": "2019-02-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "php",
+                "react-js",
+                "laravel",
+                "astro",
+                "zustand",
+                "react-router",
+                "bootstrap",
+                "mysql",
+                "livewire-3"
+            ],
+            "soft": [
+                "frontend",
+                "desarrollador-frontend",
+                "inglés"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

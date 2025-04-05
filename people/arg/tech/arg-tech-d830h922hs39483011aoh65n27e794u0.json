@@ -1,0 +1,117 @@
+{
+    "personal_info": {
+        "first_name": "Ignacio",
+        "last_name": "Aguirre",
+        "email": "ignacioaguirre.dev@gmail.com",
+        "phone": "+54 2281 58 87 14",
+        "location": {
+            "country": "Argentina",
+            "city": "Tapalqué",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/ignacioaguirre-dev",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desde 2021 he estado desarrollando habilidades en programación web de forma autodidacta, trabajando en proyectos personales y académicos. Tengo 6 meses de experiencia laboral como Desarrollador Fullstack, liderando el equipo frontend en Fundación Calma y creando soluciones innovadoras para mejorar la experiencia de usuario. Actualmente desarrollo una aplicación de reservas de alojamientos utilizando Next.js y Supabase, gestionando tanto el frontend como el backend y realizando tareas de UX/UI y documentación técnica."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Fullstack & UX/UI Designer",
+            "company": "Freelance",
+            "location": "Lima, Perú",
+            "start_date": "2024-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo integral de una aplicación web para reservas de alojamiento utilizando Next.js (última versión), Supabase, Typescript, y Tailwind CSS.",
+                "Implementación de autenticación y gestión de usuarios con Supabase, mejorando la seguridad y usabilidad del sistema.",
+                "Diseño UX/UI y creación de interfaces intuitivas y atractivas.",
+                "Documentación técnica.",
+                "Automatización de procesos de despliegue utilizando herramientas como GitHub Actions para garantizar entregas rápidas y confiables."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Líder de Equipo Front-end",
+            "company": "Fundación Calma",
+            "location": "Tapalqué, Argentina",
+            "start_date": "2024-10-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Liderazgo del equipo front-end en el desarrollo de una plataforma web utilizando PHP y MySQL.",
+                "Diseño e implementación de interfaces responsive con HTML5, CSS3, JavaScript, mejorando la experiencia del usuario en un 20%.",
+                "Optimización del rendimiento del sitio mediante técnicas de carga diferida y minificación de recursos, y eliminación de peticiones duplicadas o innecesarias.",
+                "Implementación de la metodología Scrum para optimizar el flujo de trabajo del equipo, reduciendo los tiempos de entrega en un 25% y mejorando la colaboración entre los miembros del equipo.",
+                "Mentoría al equipo en mejores prácticas de desarrollo y uso de herramientas como Trello para la gestión ágil de proyectos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "Universidad Tecnológica Nacional de General Pacheco",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "next.js",
+                "typescript",
+                "javascript",
+                "tailwind-css",
+                "material-ui",
+                "styled-components",
+                "sass",
+                "bootstrap",
+                "html5",
+                "css3",
+                "supabase",
+                "springboot",
+                "php",
+                "postgresql",
+                "mysql"
+            ],
+            "soft": [],
+            "tools": [
+                "gitlab",
+                "github",
+                "githubaction",
+                "trello",
+                "jira",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Catalán",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A1.1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

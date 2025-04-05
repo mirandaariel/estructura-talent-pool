@@ -1,0 +1,110 @@
+{
+    "personal_info": {
+        "first_name": "Paula",
+        "last_name": "Moyano",
+        "email": "pmoyano497@gmail.com",
+        "phone": "03404-15446842",
+        "location": {
+            "country": "Argentina",
+            "city": "López",
+            "state": "Santa Fe"
+        },
+        "linkedin": "https://www.linkedin.com/in/paula-moyano-94ab75252/",
+        "website": "",
+        "portfolio": "https://github.com/PMoyanoAiraldi",
+        "summary": "FullStack Developer especializada en tecnologías frontend y backend como React, HTML, CSS, JavaScript, TypeScript, NestJS, PostgreSQL. Además, poseo una sólida experiencia como analista de sistemas administrativos, lo que me ha permitido entender en profundidad los procesos de negocio. Mantengo relaciones laborales basadas en el respeto y la comunicación asertiva, fomentando un ambiente de trabajo colaborativo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Empleada administrativa",
+            "company": "Maferagro S.A",
+            "location": "",
+            "start_date": "2018-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Responsable de emitir y registrar facturas de ventas y compras, colaborando con el contador para la presentación de impuestos y mantenimiento de la documentación.",
+                "Control del inventario en la administración de ganado vacuno, incluyendo nacimientos, compras, ventas y bajas.",
+                "Gestión logística de las transacciones comerciales relacionadas con el ganado."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "Analista de Sistemas Administrativos",
+            "institution": "Escuela Superior de Comercio N°44",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "nestjs",
+                "typescript",
+                "react",
+                "express",
+                "postgresql",
+                "redux",
+                "scrum",
+                "node"
+            ],
+            "soft": [
+                "comunicación-asertiva",
+                "trabajo-colaborativo"
+            ],
+            "tools": [
+                "cloudinary",
+                "tailwindcss",
+                "maptiler",
+                "nextauth",
+                "stripe",
+                "nodemailer",
+                "oauth2",
+                "jwt"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "ForgeFit",
+            "description": "Aplicación web integral para la gestión de gimnasios, con funcionalidades diseñadas para clientes, profesores y administradores.",
+            "technologies": ["nextjs", "nextauth", "react", "tailwindcss", "typescript", "maptiler", "nestjs", "cloudinary", "stripe", "nodemailer", "oauth2", "jwt", "postgresql"],
+            "url": ""
+        },
+        {
+            "name": "E-commerce de productos tecnológicos",
+            "description": "Ecommerce de productos tecnológicos que permite la creación, actualización y eliminación de productos así como la gestión de usuarios y órdenes de compra.",
+            "technologies": ["nestjs", "cloudinary", "jwt", "typescript", "postgresql"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "A2 - Elementary"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

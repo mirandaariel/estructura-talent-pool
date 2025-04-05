@@ -1,0 +1,124 @@
+{
+    "personal_info": {
+        "first_name": "Camila Agustina",
+        "last_name": "Montechiani",
+        "email": "Cmontechiani2@gmail.com",
+        "phone": "+54 9341722 3578",
+        "location": {
+            "country": "Argentina",
+            "city": "Rosario",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/camila-montechiani",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrolladora Full Stack con orientación a Front-End y 2 años de experiencia en JavaScript. Experiencia en desarrollo y mantenimiento de aplicaciones web con React, Redux, Node.js, Express, PostgreSQL, TypeScript, Next.js y Tailwind CSS. Enfoque en la creación de interfaces escalables, optimización del rendimiento y buenas prácticas de desarrollo. Acostumbrada a trabajar en entornos ágiles, colaborando en equipos multidisciplinarios y aportando soluciones innovadoras."
+    },
+    "work_experience": [
+        {
+            "job_title": "Manual QA Tester",
+            "company": "Nubbo.io",
+            "location": "Barcelona, España",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño y ejecución de casos de prueba para garantizar la calidad y funcionalidad del software.",
+                "Validación de datos en bases de datos con MySQL para asegurar la integridad de la información.",
+                "Creación y ejecución de tests en Postman para validar endpoints, analizar respuestas y garantizar la correcta integración de servicios"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Teaching Assistant",
+            "company": "Soy Henry",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2023-12-01",
+            "end_date": "2025-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Explicación y enseñanza de conceptos de programación en JavaScript, TypeScript, React, Node.js, Express y PostgreSQL.",
+                "Control de versiones con Git y GitHub para la gestión de código y colaboración en proyectos.",
+                "Aplicación de metodologías ágiles como Scrum y Kanban en la gestión de flujo de trabajo.",
+                "Manejo de bases de datos SQL y NoSQL en proyectos prácticos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Developer",
+            "institution": "Soy Henry Academy",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Software Tester QA Certificación",
+            "institution": "Edutin",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "E-commerce y gestion de finanzas",
+            "institution": "Banco Santander Rio Academy",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "redux",
+                "node.js",
+                "express",
+                "next.js",
+                "nest-js",
+                "zustand",
+                "typeorm",
+                "postgresql",
+                "mysql"
+            ],
+            "soft": [
+                "scrum",
+                "kanban"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "postman",
+                "thunder-client",
+                "tailwind-css"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        },
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

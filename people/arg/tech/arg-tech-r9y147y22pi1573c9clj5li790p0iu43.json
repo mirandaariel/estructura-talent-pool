@@ -1,0 +1,190 @@
+{
+    "personal_info": {
+        "first_name": "Dylan",
+        "last_name": "Navarro",
+        "email": "dylanrubennavarro@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Gregorio de Laferrere",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/dylan-navarro/",
+        "website": "https://github.com/DylanNavarro97",
+        "portfolio": "https://dylan-navarro.netlify.app",
+        "summary": "Soy un desarrollador web junior con 2 años de experiencia en proyectos, tanto personales como en equipo, utilizando metodologías ágiles. Actualmente, estoy cursando la carrera de ingeniería informática y formé parte de cursos online, en donde profundicé mis conocimientos adquiridos de manera independiente. Me considero una persona con habilidades técnicas y creativa, capaz de resolver problemas, comprender nuevas herramientas y proponer nuevas ideas para un proyecto."
+    },
+    "work_experience": [
+        {
+            "job_title": "Prof. Particular Desarrollo Web",
+            "company": "Autonomo",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Brindo clases personalizadas de programación, adaptadas a las necesidades de cada estudiante.",
+                "Enseñanza del stack M.E.R.N (MongoDB, Express, React, Node.js) y Java.",
+                "Explicación de fundamentos de programación en JavaScript y Java.",
+                "Aplicación de programación orientada a objetos (POO) en Java.",
+                "Resolución de dudas específicas sobre ejercicios y conceptos teóricos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FullStack (Alumno)",
+            "company": "Rolling Code",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "2024-04-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web completas utilizando tecnologías modernas.",
+                "Desarrollo del frontend utilizando React.js como framework principal.",
+                "Implementación de diseños responsivos y accesibles con Bootstrap.",
+                "Creación y consumo de APIs REST utilizando Node.js y Express.",
+                "Gestión de datos mediante MongoDB como base de datos NoSQL.",
+                "Aplicación de metodologías ágiles Scrum, trabajando con el equipo a través de Trello."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Front-end",
+            "company": "No Country",
+            "location": "",
+            "start_date": "2023-04-18",
+            "end_date": "2023-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de la interfaz de usuario.",
+                "Desarrollo Front-End utilizando React.js como framework principal.",
+                "Estilado de componentes con CSS, Styled Components y Bootstrap.",
+                "Implementación de solicitudes HTTP utilizando Redux Toolkit Async Thunk y Axios.",
+                "Uso de Cloudinary para la gestión y optimización de imágenes en la aplicación.",
+                "Aplicación de la metodología ágil SCRUM para la planificación y seguimiento del progreso."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Front-end",
+            "company": "ID for Ideas",
+            "location": "",
+            "start_date": "2023-03-14",
+            "end_date": "2023-05-16",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo Front-End de una aplicación de delivery responsive.",
+                "Creación de la landing page y menú interactivo para la visualización de productos.",
+                "Implementación de solicitudes HTTP con Axios.",
+                "Desarrollo de la función de añadir productos al carro de compras, asegurando una experiencia de usuario intuitiva.",
+                "Implementación de un Deep Link personalizado para pedidos a través de WhatsApp."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería Informática",
+            "institution": "Universidad Nacional de La Matanza",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Fullstack Web Developer",
+            "institution": "Rolling Code",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Fullstack Developer Java",
+            "institution": "Codo a Codo",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "java",
+                "sql",
+                "react",
+                "next.js",
+                "express",
+                "spring-boot",
+                "mysql",
+                "mongodb"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "docker",
+                "postman",
+                "cypress",
+                "nodemailer",
+                "vercel",
+                "cloudinary",
+                "mercado-pago-api",
+                "jira",
+                "trello",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Gestión de Restaurante",
+            "description": "Aplicación para la gestión de un restaurante donde los usuarios pueden realizar pedidos en línea.",
+            "technologies": ["ReactJs", "Bootstrap", "React Leaflet", "NodeJs", "Express", "MongoDB"],
+            "url": "https://lotusrestaurante.netlify.app/"
+        },
+        {
+            "name": "Proyecto de Pagos con Mercado Pago",
+            "description": "Integración con Mercado Pago Checkout Pro en una aplicación Next.js para pagos en línea.",
+            "technologies": ["Next.js", "MP Checkout Pro"],
+            "url": "https://mp-checkout-int.vercel.app/"
+        },
+        {
+            "name": "Backend para Envío de Correos",
+            "description": "Proyecto para enviar correos electrónicos personalizados desde una aplicación web.",
+            "technologies": ["Google Oauth2", "Nodemailer", "Node.js", "Express"],
+            "url": "https://github.com/DylanNavarro97/portfolioBack"
+        },
+        {
+            "name": "Blog de Recetas",
+            "description": "Blog de práctica CRUD basado en recetas culinarias con gestión por administrador.",
+            "technologies": ["ReactJs", "Bootstrap", "Node.js", "Express", "MongoDB"],
+            "url": "https://blog-de-recetas-dn.netlify.app/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,209 @@
+{
+    "personal_info": {
+        "first_name": "Denis Alexander",
+        "last_name": "Kawata",
+        "email": "kawatadenis@gmail.com",
+        "phone": "+541156203147",
+        "location": {
+            "country": "Argentina",
+            "city": "Burzaco",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://linkedin.com/in/deniskawata",
+        "website": "",
+        "portfolio": "https://porfoliodev.netlify.app/",
+        "summary": "Más de 1 año de experiencia como desarrollador Front-end y estudiante en la carrera de Ingeniería en Informática. Mis objetivos a corto plazo, me gustaría adquirir experiencia práctica en el desarrollo de aplicaciones web y móviles, así como el diseño de interfaces de usuario."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Web",
+            "company": "FIVERR",
+            "location": "",
+            "start_date": "2023-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé sitios web profesionales y funcionales utilizando HTML, CSS, JavaScript y Bootstrap.",
+                "Creé diseños responsivos, rápidos y fáciles de navegar.",
+                "Cumplí con los estándares de calidad de W3C."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Informática",
+            "institution": "Universidad Nacional Arturo Jauretche",
+            "location": "Florencio Varela, Buenos Aires",
+            "start_date": "2024-03-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Universitario en Logística",
+            "institution": "Universidad Nacional de Lanús",
+            "location": "Lanús, Buenos Aires",
+            "start_date": "2020-01-01",
+            "end_date": "2023-01-31",
+            "hours": 9
+        },
+        {
+            "degree": "Técnico en informática Profesional y Personal",
+            "institution": "E.E.T. N°8 Almafuerte",
+            "location": "Lanús, Buenos Aires",
+            "start_date": "2003-03-01",
+            "end_date": "2011-10-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript",
+                "sass",
+                "python",
+                "ruby",
+                "node.js",
+                "sqlite",
+                "bootstrap",
+                "material-ui",
+                "astro",
+                "tailwindcss",
+                "react",
+                "git",
+                "gitlab",
+                "github",
+                "excel",
+                "word",
+                "outlook"
+            ],
+            "soft": [
+                "comunicacion-efectiva",
+                "colaboracion-activa",
+                "organizacion",
+                "gestion",
+                "resolucion-de-problemas",
+                "precision"
+            ],
+            "tools": [
+                "photoshop",
+                "illustrator",
+                "adobe-premiere",
+                "vegas",
+                "cap-cut"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Desarrollador Mobile",
+            "issuing_organization": "Argentina Programa 4.0",
+            "issue_date": "2023-07-01",
+            "expiration_date": "2023-09-30",
+            "credential_id": ""
+        },
+        {
+            "name": "ChatGPT Prompt Engineering for Developers",
+            "issuing_organization": "DeepLearning.AI",
+            "issue_date": "2023-05-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollador Full Stack",
+            "issuing_organization": "Open Bootcamp",
+            "issue_date": "2022-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollador Front-end",
+            "issuing_organization": "Argentina Programa 4.0",
+            "issue_date": "2022-09-01",
+            "expiration_date": "2023-03-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Cloud Computing",
+            "issuing_organization": "Google Actívate",
+            "issue_date": "2022-11-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo de Apps Móviles",
+            "issuing_organization": "Google Actívate",
+            "issue_date": "2022-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Introducción al Desarrollo Web HTML y CSS",
+            "issuing_organization": "Google Actívate",
+            "issue_date": "2022-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Cajero Bancario",
+            "issuing_organization": "CETAE",
+            "issue_date": "2015-05-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Especialista en Gastronomía y Alta Cocina",
+            "issuing_organization": "IGA",
+            "issue_date": "2012-11-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Porfolio.dev",
+            "description": "En mi porfolio encontrarás una selección de trabajos que reflejan mi dedicación y habilidades en el desarrollo web. A través de mis proyectos, he demostrado mi capacidad para crear sitios web atractivos y funcionales utilizando tecnologías como HTML, CSS, JavaScript y más.",
+            "technologies": ["astro", "html", "css", "tailwindcss"],
+            "url": "https://porfoliodev.netlify.app/"
+        },
+        {
+            "name": "Shala prana yoga",
+            "description": "Sitio web adaptable a dispositivos móviles en el rubro de YOGA con tarjetas de paquetes de clases y descripciones de distintas disciplinas, con conexiones a redes sociales, mail, Google maps, WhatsApp.",
+            "technologies": ["html", "css", "javascript"],
+            "url": "https://deniskawata.github.io/Shalapranayoga/"
+        },
+        {
+            "name": "Tetris",
+            "description": "El popular juego Tetris usando HTML5 Canvas API. El jugador puede mover los bloques a izquierda y derecha, rotarlos y hacerlos caer más rápido utilizando las teclas de flecha y la barra espaciadora.",
+            "technologies": ["html5", "css3", "javascript"],
+            "url": "https://tetris-rush-game.netlify.app/"
+        },
+        {
+            "name": "Tienda",
+            "description": "JavaScript diseñado para gestionar la funcionalidad del carrito de la compra en un sitio web. Obtiene los datos de los productos de un archivo JSON, muestra los productos y permite a los usuarios añadir, eliminar y ajustar la cantidad de productos en su cesta de la compra.",
+            "technologies": ["html5", "css3", "javascript"],
+            "url": "https://deniskawata.github.io/Tienda/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2 - Básico"
+        },
+        {
+            "language": "Portugués",
+            "proficiency": "A2 - Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,82 @@
+{
+    "personal_info": {
+        "first_name": "Celeste",
+        "last_name": "Ghirardotti",
+        "email": "cghirardotti9@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/c-ghirardotti",
+        "website": "",
+        "portfolio": "",
+        "summary": "Tengo 21 años, disponibilidad fulltime y muchas ganas de comenzar a aprender y crecer en el mundo de la tecnología. No tengo problemas con trabajar en equipo, soy una persona analítica, tengo pensamiento crítico y fácil adaptación. Me considero una persona honesta, con compromiso y capacidades para enfrentarme y resolver cualquier problema."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Tecnicatura en Programación",
+            "institution": "UTN Regional San Francisco",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "vue.js",
+                "javascript",
+                "css",
+                "c#"
+            ],
+            "soft": [
+                "pensamiento-analitico",
+                "pensamiento-critico",
+                "adaptabilidad",
+                "honestidad",
+                "compromiso",
+                "resolucion-de-problemas"
+            ],
+            "tools": [
+                "git-hub",
+                "vs-code"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Inmobiliaria Virtual",
+            "description": "Diseñada usando C#, ASP.NET y SQL Server.",
+            "technologies": ["C#", "ASP.NET", "SQL Server"],
+            "url": ""
+        },
+        {
+            "name": "Página web de compraventa de CryptoMonedas",
+            "description": "Utilicé Vue.js, CSS, HTML y JavaScript. Practiqué la integración de APIs en el proyecto.",
+            "technologies": ["Vue.js", "CSS", "HTML", "JavaScript"],
+            "url": ""
+        },
+        {
+            "name": "Página de Restaurante",
+            "description": "Práctica para entender React.",
+            "technologies": ["React"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

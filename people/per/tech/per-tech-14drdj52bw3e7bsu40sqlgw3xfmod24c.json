@@ -1,0 +1,159 @@
+{
+  "personal_info": {
+    "first_name": "Mary Laura Carolina",
+    "last_name": "Limay Oliva",
+    "email": "limayolivamary@gmail.com",
+    "phone": "+51 941337692",
+    "location": {
+      "country": "Peru",
+      "city": "Pacasmayo",
+      "state": ""
+    },
+    "linkedin": "https://linkedin.com/in/carolina-limay-oliva/",
+    "website": "https://github.com/Lunisa202",
+    "portfolio": "",
+    "summary": "Graduada de la carrera de Ing. Informática (grado bachiller), me he especializado en el área de desarrollo web frontend. Actualmente, me sigo formando de manera autodidacta en el área del Backend con Java, y estoy buscando oportunidades laborales que me permitan crecer profesionalmente."
+  },
+  "work_experience": [
+    {
+      "job_title": "Desarrolladora Frontend",
+      "company": "FOO TALENT",
+      "location": "Argentina",
+      "start_date": "2024-12-01",
+      "end_date": "2025-02-28",
+      "currently_working": false,
+      "responsibilities": [
+        "Creé componentes reutilizables con React, JavaScript y Tailwind CSS para la aplicación FastLab.",
+        "Programé parte del store de la aplicación usando Redux toolkit y realicé conexiones a los endpoints del backend.",
+        "Creé rutas protegidas y públicas usando React Router Dom.",
+        "Programé alertas usando la librería React Toastify."
+      ],
+      "achievements": [],
+      "repository_url": "https://github.com/Lunisa202/FastLab-Team-16"
+    },
+    {
+      "job_title": "Desarrolladora Frontend",
+      "company": "NO COUNTRY",
+      "location": "Argentina",
+      "start_date": "2023-10-01",
+      "end_date": "2024-04-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Green IX: Programé componentes reutilizables y llamados a endpoints usando Axios.",
+        "Trucking: Programé la página de registro de usuario con validaciones de React Hook Forms y el componente de cards de vehículos.",
+        "ServiHogar: Programé la página de registro y login de usuario y creé componentes reutilizables."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ingeniería de Informática (Grado de Bachiller)",
+      "institution": "Universidad Nacional de Trujillo",
+      "location": "Trujillo, Peru",
+      "start_date": "2017-02-01",
+      "end_date": "",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "javascript",
+        "react",
+        "tailwind",
+        "redux-toolkit",
+        "react-hook-forms",
+        "java",
+        "html",
+        "css",
+        "python",
+        "mysql"
+      ],
+      "soft": [
+        "comunicación-efectiva",
+        "trabajo-en-equipo",
+        "responsable-en-la-entrega-de-trabajos"
+      ],
+      "tools": [
+        "figma",
+        "trello",
+        "notion",
+        "microsoft-office",
+        "scrum"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [
+    {
+      "name": "Curso de Diseño UX-UI",
+      "issuing_organization": "CODO A CODO, Municipalidad de Buenos Aires",
+      "issue_date": "2024-07-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Cursos de desarrollo web Frontend",
+      "issuing_organization": "PROGRAMA ONE (ORACLE NEXT EDUCATION)",
+      "issue_date": "2024-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Certificación de Responsive Web Design",
+      "issuing_organization": "FreeCodeCamp",
+      "issue_date": "2022-07-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Certificación de JavaScript Algorithm and Data Structures",
+      "issuing_organization": "FreeCodeCamp",
+      "issue_date": "2022-09-01",
+      "expiration_date": "",
+      "credential_id": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Green IX",
+      "description": "MVP de un e-commerce con diseño responsive para la venta de productos sustentables.",
+      "technologies": ["react", "javascript", "html", "css", "tailwind", "redux-toolkit", "axios"],
+      "url": "https://github.com/Lunisa202/GreenIX-t-node-react"
+    },
+    {
+      "name": "Trucking",
+      "description": "MVP de una app para la gestión de la flota de vehículos de una empresa.",
+      "technologies": ["react", "javascript", "redux-toolkit", "axios"],
+      "url": "https://github.com/Lunisa202/Trucking-t-java-react"
+    },
+    {
+      "name": "ServiHogar",
+      "description": "MVP de una aplicación para ofrecer servicios de mano de obra para el hogar.",
+      "technologies": ["react", "javascript", "redux-toolkit"],
+      "url": "https://github.com/Lunisa202/Proyecto-simulacion-2-noCountry"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Basic"
+    },
+    {
+      "language": "Portuguese",
+      "proficiency": "Basic"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

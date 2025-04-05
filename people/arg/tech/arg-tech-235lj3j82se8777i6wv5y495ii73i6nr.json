@@ -1,0 +1,227 @@
+{
+  "personal_info": {
+    "first_name": "Pablo",
+    "last_name": "Monge Benavente",
+    "email": "pablomonge55@gmail.com",
+    "phone": "+54 9 2617269180",
+    "location": {
+      "country": "",
+      "city": "",
+      "state": ""
+    },
+    "linkedin": "https://linkedin.com/in/pablo-esteban-monge-benavente",
+    "website": "",
+    "portfolio": "https://portfolio-pablo-monge.netlify.app",
+    "summary": "Desarrollador motivado, adaptable y apasionado, con enfoque proactivo, sólida ética de trabajo y destacadas habilidades interpersonales. Ansioso por aportar entusiasmo y contribuir al éxito de proyectos desafiantes. Además, enfocado en la importancia de la calidad y el testing de software."
+  },
+  "work_experience": [
+    {
+      "job_title": "Desarrollador Full-Stack",
+      "company": "Python Man",
+      "location": "",
+      "start_date": "2024-01-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollo de sitios web y software para PyMES con Reacts JS, Django y SQL.",
+        "Colaboración en el impulso del Holobit realizado en Python.",
+        "Colaboración del desarrollo de lenguaje de programación propio en base a Python.",
+        "Elaboración de documentación, UML, Drawio."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador Full-Stack",
+      "company": "Desarrollo Web",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollo de sitios web con Front-End en ReactJS o Vue3 con estilos en CSS modularizados.",
+        "Back-End desarrollado en Django Rest."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Administrador de Base de Datos",
+      "company": "Universitas Estudios Superiores",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Confección de encuestas, modelado en UML, diagramación BD.",
+        "Confección del Diccionario de datos, documentar las consultas utilizando un DBMS.",
+        "Creación de las tablas y vinculaciones, CRUD, backups y migraciones."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador Full-Stack",
+      "company": "Universitas Estudios Superiores",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Proyecto de implementación de sistema informático en una empresa.",
+        "Confección de Documento de Requerimientos, organigrama, análisis de factibilidad técnica.",
+        "Front-End: HTML, Bootstrap, Django. Back-End: Django, SQL."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Oficial de Ejército",
+      "company": "Ejército Argentino",
+      "location": "",
+      "start_date": "2010-01-01",
+      "end_date": "2024-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Seguimiento de agenda, presentaciones. Revisión de idoneidad de documentos.",
+        "Administración de personal y material susceptible.",
+        "Confección de inventarios, control de existencias, FIFO, LIFO, FILO."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Tramo de Formación Pedagógica para Profesionales",
+      "institution": "Universidad FASTA",
+      "location": "",
+      "start_date": "2024-01-01",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "Desarrollador Profesional",
+      "institution": "Digital House",
+      "location": "",
+      "start_date": "2024-01-01",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "Testing QA y Automatización",
+      "institution": "Ministerio de Educación - Agencia de Aprendizaje",
+      "location": "",
+      "start_date": "2024-01-01",
+      "end_date": "2024-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Técnico Universitario en Programación",
+      "institution": "Universitas Estudios Superiores",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Desarrollador Full-Stack",
+      "institution": "Ministerio de Educación - Agencia de Aprendizaje",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Desarrollador Web",
+      "institution": "Universidad Tecnológica Nacional",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Desarrollador Full-Stack",
+      "institution": "Universidad de Buenos Aires",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Licenciado en Conducción y Gestión Operativa",
+      "institution": "Instituto Universitario del Ejército",
+      "location": "",
+      "start_date": "",
+      "end_date": "2010-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "sql",
+        "nosql",
+        "html",
+        "css",
+        "javascript",
+        "react",
+        "vue3",
+        "python",
+        "django",
+        "api"
+      ],
+      "soft": [
+        "metodologías-áGiles",
+        "soft-skills"
+      ],
+      "tools": [
+        "trello",
+        "jira",
+        "uml",
+        "spiraplan",
+        "rapise",
+        "jmeter",
+        "lighthouse",
+        "git",
+        "github",
+        "postman",
+        "thunder-client",
+        "drawio",
+        "figma",
+        "uml",
+        "gimp-2"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Proyecto Aplicación Alimenta Forma",
+      "description": "Proyecto impulsado por la firma Estudio Silveria. Front-End en ReactJS con estilos en CSS modularizados. Back-End: API desarrollada en Django Rest, con PostgreSQL.",
+      "technologies": ["reactjs", "css", "django-rest", "postgresql"],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Avanzado"
+    },
+    {
+      "language": "Italiano",
+      "proficiency": "Básico"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

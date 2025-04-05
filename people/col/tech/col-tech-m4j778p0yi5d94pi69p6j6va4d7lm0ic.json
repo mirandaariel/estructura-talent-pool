@@ -1,0 +1,115 @@
+{
+    "personal_info": {
+        "first_name": "Kevin",
+        "last_name": "Mora Casanova",
+        "email": "juniorfrias2120@gmail.com",
+        "phone": "+57 3116226417",
+        "location": {
+            "country": "Colombia",
+            "city": "San Juan de Pasto",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Profesional apasionado por la tecnología, con especial interés en el desarrollo de software y la programación. Me especializo en diseñar e implementar soluciones tecnológicas que optimizan la eficiencia de aplicaciones y sitios web, mejorando la experiencia del usuario y garantizando altos estándares de calidad, funcionalidad y adaptabilidad."
+    },
+    "work_experience": [
+        {
+            "job_title": "Asistente de Desarrollo",
+            "company": "Cognitios",
+            "location": "San Juan de Pasto, Colombia",
+            "start_date": "2023-11-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Participé en la creación de una página web para una boutique de ropa infantil con WordPress.",
+                "Diseñé y desarrollé las interfaces de Tienda, Actualidad, Quiénes Somos, Contacto y Carrito, utilizando herramientas como WooCommerce y estilos CSS.",
+                "Subí la información de todos los productos de la temporada de invierno de ese año mediante un archivo CSV (Nombre, Código, Descripción, Precio y Precio con Descuento)."
+            ],
+            "achievements": [],
+            "repository_url": "https://amoredimammaboutique.com/"
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Memotika",
+            "location": "San Juan de Pasto, Colombia",
+            "start_date": "2024-09-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé las interfaces visuales de la página con React y Tailwind CSS, asegurando su responsividad para dispositivos móviles y de escritorio.",
+                "Implementé un panel de administrador con Django que permite modificar, agregar y eliminar módulos con texto e imágenes, todo en una base de datos en PostgreSQL.",
+                "Me encargué de la gestión y monitoreo de los servicios alojados en el servidor web, además de desplegar el proyecto en el servicio de hosting."
+            ],
+            "achievements": [],
+            "repository_url": "https://memotika.com"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Sistemas",
+            "institution": "Universidad de Nariño",
+            "location": "San Juan de Pasto, Colombia",
+            "start_date": "2019-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "angular",
+                "python",
+                "django",
+                "php",
+                "laravel",
+                "node.js",
+                "mysql",
+                "postgresql",
+                "git",
+                "docker"
+            ],
+            "soft": [],
+            "tools": [
+                "github",
+                "gitlab"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Eficiencia de Inglés",
+            "issuing_organization": "Universidad de Nariño",
+            "issue_date": "2023-09-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Bootcamp Programación Nivel Básico",
+            "issuing_organization": "Universidad Tecnológica de Pereira",
+            "issue_date": "2024-08-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

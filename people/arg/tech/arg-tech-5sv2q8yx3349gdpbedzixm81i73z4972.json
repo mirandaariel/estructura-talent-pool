@@ -1,0 +1,123 @@
+{
+    "personal_info": {
+        "first_name": "Verónica",
+        "last_name": "Castillo",
+        "email": "veronicalcastillo153@gmail.com",
+        "phone": "11-319-40518",
+        "location": {
+            "country": "Argentina",
+            "city": "Lanús Oeste",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "https://github.com/VGdC15",
+        "portfolio": "",
+        "summary": "Soy estudiante de la Tecnicatura en Programación en la Universidad Tecnológica Nacional, focalizada en desarrollo web. Cuento con conocimientos en JavaScript, Node.js, Express.js y bases de datos relacionales. Me destaco por mi compromiso con el aprendizaje continuo, mi enfoque proactivo y mi capacidad para resolver problemas de manera eficiente en entornos colaborativos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Profesional en laboratorio de tejidos",
+            "company": "Armada Argentina",
+            "location": "",
+            "start_date": "2021-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Investigación y análisis de tejidos e indumentaria.",
+                "Desarrollo de informes detallados y optimización de procesos de laboratorio."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Asistente de dirección",
+            "company": "Arte y Diseño SRL",
+            "location": "",
+            "start_date": "2019-11-01",
+            "end_date": "2021-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión de agenda, manejo de correos y control de inventarios.",
+                "Implementación de sistemas de organización para reducir tiempos administrativos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Encargada de taller y Asistente de diseño",
+            "company": "Bellyclothes.IND",
+            "location": "",
+            "start_date": "2012-05-01",
+            "end_date": "2017-08-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Coordinación de equipo de 3 personas para reducir tiempos de entrega.",
+                "Desarrollo de estrategias de marketing para ampliar la cartera de clientes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Diseño de Indumentaria",
+            "institution": "Universidad de Buenos Aires",
+            "location": "",
+            "start_date": "2009-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html",
+                "css",
+                "sql",
+                "node.js",
+                "express.js",
+                "mysql",
+                "workbench"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "vs-code",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Full Stack - Java",
+            "issuing_organization": "Codo a Codo",
+            "issue_date": "2022-12-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Professional Working Proficiency"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

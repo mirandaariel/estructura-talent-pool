@@ -1,0 +1,150 @@
+{
+    "personal_info": {
+        "first_name": "Agustina",
+        "last_name": "Fernandez",
+        "email": "agustinafer29@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrolladora Full Stack, con una sólida experiencia en desarrollo front-end y UX/UI. Experta en JavaScript, React, Node.js y Python. Hábil para trabajar en equipo, resolver problemas y garantizar software de alta calidad. Posee fuertes habilidades de comunicación y dominio del inglés (C2). Siempre dispuesta a aprender y contribuir a proyectos impactantes."
+    },
+    "work_experience": [
+        {
+            "job_title": "QA",
+            "company": "Outlier",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Identifico y reporto errores, mejorando la confiabilidad del producto."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "AI Training",
+            "company": "Remotasks",
+            "location": "",
+            "start_date": "2023-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Entreno modelos de IA para generación de código y software.",
+                "Proporciono retroalimentación para mejorar la precisión y el rendimiento del modelo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Development Bootcamp",
+            "institution": "Henry",
+            "location": "",
+            "start_date": "2023-05-01",
+            "end_date": "2023-08-31",
+            "hours": 0
+        },
+        {
+            "degree": "Profesorado de formación superior de ciencias naturales, especializado en Biologia",
+            "institution": "Instituto Superior de Formación Docente y Técnica N 24",
+            "location": "",
+            "start_date": "2020-03-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingenieria en Informatica",
+            "institution": "UADE (Universidad Argentina de la empresa)",
+            "location": "",
+            "start_date": "2025-03-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react",
+                "node.js",
+                "python",
+                "java",
+                "html",
+                "css",
+                "tailwind-css",
+                "postgresql",
+                "mongodb"
+            ],
+            "soft": [
+                "resolución-de-problemas",
+                "pensamiento-crítico",
+                "comunicación-efectiva",
+                "trabajo-en-equipo",
+                "liderazgo",
+                "planificación-de-proyectos",
+                "adaptabilidad",
+                "aprendizaje-continuo"
+            ],
+            "tools": [
+                "git",
+                "agile/scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "EF SET English Certificate (C2 Proficient)",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "CS50's Introduction to Programming with Scratch",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "CS50's Introduction to Computer Science",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Full Stack Web Developer Certification",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Full Professional"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

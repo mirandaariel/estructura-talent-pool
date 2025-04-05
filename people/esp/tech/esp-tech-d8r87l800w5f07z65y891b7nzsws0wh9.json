@@ -1,0 +1,163 @@
+{
+    "personal_info": {
+        "first_name": "Julia",
+        "last_name": "Leuenberger",
+        "email": "leuenberger2101@gmail.com",
+        "phone": "+34 625 614 963",
+        "location": {
+            "country": "Spain",
+            "city": "Barcelona",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/julia-leuenberger/",
+        "website": "",
+        "portfolio": "https://github.com/julialeu",
+        "summary": "Full Stack Developer con más de 2 años de experiencia práctica en Laravel, Vue.js, MySQL y APIs RESTful. Experta en desarrollar sistemas backend robustos, diseñar experiencias de usuario fluidas y entregar software de alta calidad en entornos ágiles. Experiencia probada en optimización de sistemas legacy, diseño de arquitectura escalable y rápida adaptación a nuevas tecnologías como FastAPI (Python) y visualización de datos con Plotly.js. Apasionada por el desarrollo backend, el clean code y las arquitecturas modernas como DDD y diseño hexagonal."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Saalg Geomechanics",
+            "location": "Barcelona",
+            "start_date": "2023-08-01",
+            "end_date": "2025-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de sistema de reporte de incidencias para operadores de tuneladoras.",
+                "Creación de APIs RESTful con Laravel, usando middlewares, validaciones y respuestas JSON estructuradas.",
+                "Visualización de datos interactivos con Vue.js y Plotly.js.",
+                "Mejora del rendimiento de funcionalidades existentes.",
+                "Desarrollo de API con FastAPI para generación de informes en Excel."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Junior Backend Developer",
+            "company": "Webcargo by Freightos",
+            "location": "Barcelona",
+            "start_date": "2022-05-01",
+            "end_date": "2023-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Comenzó como becaria y fue promovida a desarrolladora backend junior.",
+                "Desarrollo de nuevas funcionalidades con PHP (Laravel), MySQL, React y JavaScript.",
+                "Refactorización de código legacy con principios SOLID y arquitectura hexagonal.",
+                "Resolución de incidencias críticas y mejora del rendimiento."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "CFGS en Desarrollo de Aplicaciones Web",
+            "institution": "Ilerna",
+            "location": "",
+            "start_date": "2020-09-01",
+            "end_date": "2022-06-01",
+            "hours": 0
+        },
+        {
+            "degree": "Máster en Derecho Empresarial",
+            "institution": "UAB",
+            "location": "",
+            "start_date": "2017-09-01",
+            "end_date": "2018-06-01",
+            "hours": 0
+        },
+        {
+            "degree": "Grado en Derecho",
+            "institution": "Universidad de Granada",
+            "location": "",
+            "start_date": "2008-09-01",
+            "end_date": "2013-06-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "php",
+                "laravel",
+                "python",
+                "javascript",
+                "html/css",
+                "mysql",
+                "vue.js",
+                "fastapi",
+                "plotly.js",
+                "docker",
+                "aws-s3",
+                "gestión-de-dns",
+                "github",
+                "bitbucket",
+                "scrum"
+            ],
+            "soft": [
+                "comunicación-efectiva",
+                "resolución-de-problemas",
+                "adaptabilidad",
+                "atención-al-detalle",
+                "aprendizaje-rápido",
+                "proactividad"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Google IT Automation with Python",
+            "issuing_organization": "Google",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "CFGS en Desarrollo de Aplicaciones Web",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Hosting de sitio estático con AWS S3 y dominio personalizado",
+            "description": "Proyecto de alojamiento y gestión de DNS para un sitio web estático.",
+            "technologies": ["aws-s3", "squarespace"],
+            "url": ""
+        },
+        {
+            "name": "Aprendizaje continuo con proyectos en Laravel, scraping y exploración de tecnologías backend",
+            "description": "Proyectos personales enfocados en el aprendizaje de Laravel y tecnologías backend.",
+            "technologies": ["laravel", "scraping"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Francés",
+            "proficiency": "DALF C1"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado"
+        },
+        {
+            "language": "Catalán",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

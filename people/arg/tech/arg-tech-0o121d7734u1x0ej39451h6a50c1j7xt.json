@@ -1,0 +1,98 @@
+{
+    "personal_info": {
+        "first_name": "Gonzalo",
+        "last_name": "Haag",
+        "email": "gonzalohaag13@gmail.com",
+        "phone": "+54 3425111071",
+        "location": {
+            "country": "Argentina",
+            "city": "Santa Fe",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/gonzalo-haag",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Fullstack con experiencia en tecnologías web y móviles. Especializado en PHP (Symfony), React.js (Next.js) y bases de datos SQL. Desarrollo soluciones escalables y optimizadas, asegurando integración eficiente de APIs y gestión de servidores con Docker. Mi enfoque se centra en la creación de aplicaciones dinámicas y eficientes, tanto en el frontend como en el backend, con un fuerte énfasis en la calidad del código y la experiencia del usuario."
+    },
+    "work_experience": [
+        {
+            "job_title": "Programador Fullstack",
+            "company": "NTSS s.a.s",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2023-03-01",
+            "end_date": "2025-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé soluciones backend robustas utilizando Symfony y PHP, asegurando un código limpio, mantenible y escalable, lo que permitió reducir los tiempos de respuesta de las APIs en un 25% y mejorar la experiencia del usuario final.",
+                "Lideré la optimización de bases de datos SQL, realizando ajustes en consultas, índices y estructuras de datos, lo que resultó en una reducción del 40% en el tiempo de ejecución de consultas críticas y un mejor rendimiento general de las aplicaciones.",
+                "Encargado de configurar y desplegar entornos de desarrollo con Docker, facilitando la integración continua y reduciendo el tiempo de configuración de entornos en un 30%, lo que aceleró el proceso de desarrollo y despliegue.",
+                "Implementación de scripts y herramientas de automatización para tareas repetitivas, como la generación de reportes y la ejecución de pruebas, lo que liberó tiempo del equipo para enfocarse en tareas de mayor valor."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Freelance",
+            "company": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo sistemas web a medida utilizando tecnologías como Next.js, PHP, Symfony, Laravel y PostgreSQL, seleccionando la tecnología más adecuada para cada proyecto según sus requisitos y escalabilidad.",
+                "Optimizo el rendimiento de aplicaciones, reduciendo los tiempos de carga en un 30% mediante la optimización de consultas SQL, caching y ajustes en el código backend.",
+                "Diseño e integro APIs robustas para conectar sistemas externos y mejorar la funcionalidad de las aplicaciones, asegurando una comunicación eficiente y segura entre servicios.",
+                "Trabajo estrechamente con los clientes para entender sus necesidades y entregar soluciones que cumplan con sus expectativas, asegurando una comunicación clara y una entrega puntual."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Informática",
+            "institution": "Universidad Nacional del Litoral",
+            "location": "Santa Fe, Argentina",
+            "start_date": "2020-03-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "next.js",
+                "react.js",
+                "tailwind-css",
+                "bootstrap",
+                "symfony",
+                "php",
+                "sql",
+                "postgresql",
+                "docker",
+                "git",
+                "github"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "liderazgo",
+                "comunicación-verbal",
+                "adaptabilidad",
+                "resolución-de-problemas"
+            ],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

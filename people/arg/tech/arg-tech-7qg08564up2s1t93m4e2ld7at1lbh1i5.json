@@ -1,0 +1,86 @@
+{
+    "personal_info": {
+        "first_name": "Julian",
+        "last_name": "Cancelo",
+        "email": "juliancancelo@gmail.com",
+        "phone": "1171631886",
+        "location": {
+            "country": "Argentina",
+            "city": "Lanús Oeste",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/juliancancelo",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante de último año de la Tecnicatura Superior en Análisis de Sistemas en el Instituto Beltrán, con formación en el diseño, desarrollo y optimización de sistemas informáticos. Poseo sólidos conocimientos en análisis de requerimientos, bases de datos, desarrollo de software y gestión de proyectos tecnológicos. Me destaco por mi capacidad para resolver problemas y diseñar soluciones eficientes."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Técnico Superior en Análisis de Sistemas",
+            "institution": "Instituto Beltrán",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "php",
+                "c#",
+                "mysql",
+                "html",
+                "css",
+                "bootstrap",
+                "tailwind-css",
+                "java-swing",
+                "c#-.net"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "comunicación-efectiva",
+                "adaptabilidad",
+                "gestión-del-tiempo"
+            ],
+            "tools": [
+                "git",
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sistema de Gestión de Usuarios",
+            "description": "Análisis de requerimientos y diseño de un sistema de autenticación y administración de usuarios. Implementación de control de acceso mediante códigos QR. Desarrollo en Java y PHP, con integración de MySQL.",
+            "technologies": ["java", "php", "mysql"],
+            "url": ""
+        },
+        {
+            "name": "Aplicación de Gestión de Datos",
+            "description": "Creación de una plataforma para la gestión de clientes y productos. Desarrollo de una interfaz gráfica amigable. Implementación de consultas optimizadas en MySQL.",
+            "technologies": ["java", "mysql"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

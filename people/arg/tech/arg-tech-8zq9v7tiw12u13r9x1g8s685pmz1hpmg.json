@@ -1,0 +1,94 @@
+{
+    "personal_info": {
+        "first_name": "Santiago",
+        "last_name": "Dietrich",
+        "email": "santydietrich@gmail.com",
+        "phone": "+54 9 2284-624232",
+        "location": {
+            "country": "Argentina",
+            "city": "Olavarria",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://linkedin.com/in/Santiagodietrich",
+        "website": "",
+        "portfolio": "https://portfolio-delta-bay-53.vercel.app/",
+        "summary": "Soy Desarrollador Front End, me caracterizo por mi responsabilidad y organización. Siempre estoy en la búsqueda de nuevos desafíos que me permitan expandir mi perfil profesional y adquirir conocimientos adicionales. Mi entusiasmo por la programación se complementa con sólidas habilidades para las relaciones interpersonales, lo que me capacita para colaborar eficazmente en equipos y enfrentar con agilidad los retos que se presenten. Mi objetivo principal es centrarme en construir interfaces digitales sofisticadas y altamente eficientes que mejoren la experiencia del usuario."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Front End",
+            "company": "Moments Events",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Creé diversos componentes y funciones para la interfaz de usuario, mejorando la interactividad y optimizando la experiencia del mismo.",
+                "Implementé la funcionalidad de paginación para cada tipo de evento.",
+                "Realicé los bocetos detallados de cada componente en Figma, creando maquetas visuales para validar la experiencia del usuario antes del desarrollo.",
+                "Implementé la integración de Google Calendly para permitir la programación de reuniones directamente desde la página web."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/MicaListe/Moments"
+        },
+        {
+            "job_title": "Desarrollador Front End",
+            "company": "Olimpus Shop",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de sistema de reviews para los productos.",
+                "Creación de la barra de búsqueda junto con su respectiva página de resultados de productos.",
+                "Creación de la página de perfil de usuario, la cual presenta de manera detallada los datos personales pertinentes una vez que el usuario ha iniciado sesión en el sistema."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/michiqueli/olimpus_front"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 800
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react.js",
+                "next.js",
+                "vite",
+                "css",
+                "html5",
+                "redux-thunk",
+                "redux-toolkit",
+                "tailwind-css",
+                "boostrap"
+            ],
+            "soft": [],
+            "tools": [
+                "figma",
+                "jira",
+                "trello"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Intermediate - B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

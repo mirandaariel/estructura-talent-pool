@@ -1,0 +1,97 @@
+{
+  "personal_info": {
+    "first_name": "Ruben Isaias",
+    "last_name": "Ramos",
+    "email": "isaiasruben1987@gmail.com",
+    "phone": "",
+    "location": {
+      "country": "Argentina",
+      "city": "Cordoba",
+      "state": "Provincia Cordoba"
+    },
+    "linkedin": "https://www.linkedin.com/in/isaiasruben4912/",
+    "website": "",
+    "portfolio": "xxxxxx",
+    "summary": "Soy Técnico Superior en Desarrollo de Software y Aplicaciones cursado en el Instituto Superior Politecnico de Cordoba, recibido en 2024. También realice varios cursos y proyectos implementando varios lenguajes tanto individualmente como en grupales. Me gustaría reinsertarme en el mundo IT, ya sea como Desarrollador Back End, Front End, o como Analista de Datos. Tengo ganas de aprender, estoy abierto a posibilidades de trabajo remoto. También dispuesto a viajar una vez al mes a oficinas si es necesario."
+  },
+  "work_experience": [
+    {
+      "job_title": "QA Tester y Software Developer",
+      "company": "",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "currently_working": false,
+      "responsibilities": [
+        "Colaboracion en el desarrollo y mantenimiento de funcionalidades como principiante en aprendizaje autodidacta empleando: HTML, CSS, JavaScript, Angular y Java 17"
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Técnico Superior en Desarrollo de Software y Aplicaciones",
+      "institution": "Instituto Superior Politecnico de Cordoba",
+      "location": "Cordoba, Argentina",
+      "start_date": "",
+      "end_date": "2024-01-01",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "java17",
+        "angular18",
+        "react",
+        "javascript",
+        "html",
+        "css",
+        "springboot",
+        "hibernate",
+        "bootstrap",
+        "ms-sql-server",
+        "mysql",
+        "postgres-sql"
+      ],
+      "soft": [],
+      "tools": [
+        "vscode",
+        "intellij-idea",
+        "git",
+        "github",
+        "scrum",
+        "agile"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "java-creando-api-y-conectando-al-frontend",
+      "description": "Creación de una aplicación en la cual podemos ver frases de películas, creando una API y conectándola al Front End. Utilicé el Framework Spring, comprendí la estructura MVC en el desarrollo de aplicaciones web, y utilicé anotaciones de Spring para mapear rutas. Aplicación de buenas prácticas con el uso de DTO y otros conceptos, conectando los datos del back-end a una aplicación front-end y manejo de errores de CORS en la disponibilización de datos.",
+      "technologies": [],
+      "url": ""
+    },
+    {
+      "name": "app-presupuesto-angular-18",
+      "description": "Esta aplicación web utiliza Angular 18 para crear experiencias de usuario modernas y dinámicas, aprovechando características como la inyección de dependencias, pipes personalizados y predefinidos, flujo de actualización optimizado, directivas estructurales, property binding y two-way binding.",
+      "technologies": [],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Ingles",
+      "proficiency": "A1"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

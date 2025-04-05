@@ -1,0 +1,118 @@
+{
+    "personal_info": {
+        "first_name": "Jazziel",
+        "last_name": "Puente",
+        "email": "jazziel.puente.v@gmail.com",
+        "phone": "+52 668-112-6311",
+        "location": {
+            "country": "México",
+            "city": "Los Mochis",
+            "state": "Sinaloa"
+        },
+        "linkedin": "",
+        "website": "https://jazziel.dev/",
+        "portfolio": "",
+        "summary": "Soy Ingeniero de Software con +9 años de experiencia y +1 de especialización en desarrollo frontend. He desarrollado páginas web estáticas y aplicaciones interactivas, además de crear software para optimizar los procesos operativos de empresa con giro agrícola."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Claris Filemaker Pro",
+            "company": "Frutelli S.A de C.V",
+            "location": "",
+            "start_date": "2016-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño e implementación de 12 aplicaciones personalizadas en Claris Filemaker Pro para optimizar procesos operativos, gestionando más de 1,900 empleados en 3 sucursales y generando más de 20 reportes mensuales.",
+                "Automatización de pagos semanales y descarga de más de 1,000 facturas mensuales desde el SAT, mejorando la eficiencia en la gestión financiera.",
+                "Lideré la implementación de soluciones tecnológicas, desde la planificación hasta la ejecución, asegurando que los proyectos se completaran dentro del plazo y presupuesto establecidos.",
+                "Capacité a más de 50 empleados en el uso de las aplicaciones desarrolladas, proporcionando soporte técnico continuo y resolviendo incidencias para garantizar la adopción efectiva de las herramientas.",
+                "Colaboración con los equipos de finanzas, recursos humanos y operaciones para entender sus necesidades y desarrollar soluciones personalizadas que mejoraran la eficiencia y redujeran costos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de software",
+            "institution": "Universidad Autónoma de Sinaloa",
+            "location": "",
+            "start_date": "2010-09-01",
+            "end_date": "2015-05-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador web frontend con React",
+            "institution": "Platzi",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "node.js",
+                "redux",
+                "express",
+                "javascript",
+                "typescript"
+            ],
+            "soft": [],
+            "tools": [
+                "vite",
+                "npm",
+                "jest",
+                "vitest",
+                "tailwind-css",
+                "git",
+                "github",
+                "zustand",
+                "redux-toolkit"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Juego de Tic-Tac-Toe",
+            "description": "Desarrollo de un juego interactivo utilizando React y JavaScript, con manejo de estado y componentes reutilizables.",
+            "technologies": ["React", "JavaScript"],
+            "url": ""
+        },
+        {
+            "name": "Todo App",
+            "description": "Aplicación de gestión de tareas con TypeScript, implementando Zustand para el manejo del estado.",
+            "technologies": ["React", "TypeScript"],
+            "url": ""
+        },
+        {
+            "name": "Skilled e-learning",
+            "description": "Plataforma de aprendizaje en línea construida con Astro y Tailwind CSS, optimizada para rendimiento y responsive design.",
+            "technologies": ["Astro", "Tailwind CSS"],
+            "url": ""
+        },
+        {
+            "name": "API con Node.js y Express",
+            "description": "Desarrollo de una API para integración con aplicaciones frontend, manejando rutas, middlewares y conexión a bases de datos.",
+            "technologies": ["Node.js", "Express"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

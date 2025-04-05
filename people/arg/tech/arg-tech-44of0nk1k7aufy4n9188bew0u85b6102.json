@@ -1,0 +1,134 @@
+{
+    "personal_info": {
+        "first_name": "Joel",
+        "last_name": "Valencia",
+        "email": "valenciajoel0@gmail.com",
+        "phone": "+54 91131447823",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy Joel, Analista de Sistemas con experiencia en el desarrollo e implementación de soluciones tecnológicas que optimizan procesos empresariales. Actualmente lidero el desarrollo de un ERP Web en Maria Chucena, donde he transformado herramientas en VBA Excel en soluciones modernas y escalables, aplicando metodologías como Clean Architecture y prácticas de desarrollo ágil."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista de Sistemas / Backend Dev",
+            "company": "Maria Chucena",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Lideré el proyecto de migración de herramientas en VBA Excel a un ERP Web, consolidando las mejoras operativas en una única plataforma.",
+                "Desarrollé una API REST robusta, definiendo la estructura del proyecto, modelando diagramas de clases y bases de datos, e implementando prácticas de desarrollo escalable (Clean Architecture).",
+                "Implementé autenticación, validaciones mediante Pipes y Middlewares, y documentación de la API (Swagger).",
+                "Realicé el despliegue de la API utilizando Docker y Railway."
+            ],
+            "achievements": [],
+            "technologies": ["TypeScript", "PostgreSQL", "NestJS", "Prisma", "Express", "Git", "JWT", "Swagger", "npm"],
+            "tools": ["Visual Studio Code", "Draw.io", "Railway"],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Maria Chucena",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Colaboré en el diseño y desarrollo de una aplicación web, entrevistando a gerentes y empleados para definir una experiencia de usuario óptima.",
+                "Diseñé las interfaces y desarrollé la aplicación aplicando el patrón Composite y las mejores prácticas de desarrollo.",
+                "Implementé funciones elementales y aseguré la integración con el backend."
+            ],
+            "achievements": [],
+            "technologies": ["React", "React Router", "Tanstack Table", "Tailwind", "Shadcn", "Bun", "TypeScript"],
+            "tools": ["Visual Studio Code", "Figma"],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Análisis de Sistemas",
+            "institution": "Instituto de Tecnología ORT",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2022-03-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Análisis de Datos",
+            "institution": "Coursera en Asociación con Comunidad IT",
+            "location": "",
+            "start_date": "2022-09-01",
+            "end_date": "2023-01-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "java-21",
+                "c#",
+                "vba",
+                ".net",
+                "node.js",
+                "python",
+                "react",
+                "flutter",
+                "vue",
+                "nestjs",
+                "prisma",
+                "swagger",
+                "tailwind",
+                "bootstrap",
+                "spring-3.2.3",
+                "javafx",
+                "postgresql",
+                "mysql",
+                "firebase",
+                "sql-server"
+            ],
+            "soft": [],
+            "tools": [
+                "visual-studio-code",
+                "android-studio",
+                "intellij-idea"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Gestión de talleres",
+            "description": "Diseñé y desarrollé un Libro de Excel con Macros para la gestión de cortes en la fábrica, automatizando la creación de rótulos y el envío de mensajes.",
+            "technologies": ["VBA", "Selenium"],
+            "url": ""
+        },
+        {
+            "name": "Planilla de corte",
+            "description": "Desarrollé un sistema en Excel para administrar datos críticos del corte, utilizando Macros para automatizar planillas de calidad y cálculos de avíos.",
+            "technologies": ["VBA", "Selenium"],
+            "url": ""
+        },
+        {
+            "name": "Formulario Web",
+            "description": "Creé un formulario web para mejorar la captación de datos de clientes potenciales, integrando Google Sheets mediante una API personalizada desarrollada con Google Apps Script.",
+            "technologies": ["Bootstrap 4.1.1", "JavaScript", "HTML", "CSS", "Visual Studio Code", "NodeJS", "Git", "Google Apps Script"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

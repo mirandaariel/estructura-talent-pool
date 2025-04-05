@@ -1,0 +1,146 @@
+{
+    "personal_info": {
+        "first_name": "Michael Rómulo",
+        "last_name": "Luna Abad",
+        "email": "lydoived@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Peru",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/michael-luna-abad/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un desarrollador de software comprometido con la creación de soluciones tecnológicas innovadoras y eficientes. Tengo experiencia en desarrollo full stack, empleando frameworks como Django, Spring Boot, FastAPI y Flutter. He desarrollado software desde cero, comenzando por comprender la necesidad del problema, evaluando y seleccionando las tecnologías más adecuadas para cada proyecto. Planifico arquitecturas, diseño las relaciones de bases de datos, implemento el backend, consumo APIs y presento una interfaz de frontend completamente funcional. Mi enfoque está siempre en aportar excelencia técnica y creatividad en cada proyecto, avanzando continuamente en mis habilidades y construyendo una carrera sólida en el desarrollo de software."
+    },
+    "work_experience": [
+        {
+            "job_title": "Programador",
+            "company": "JPingeniería",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "2025-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollar, gestionar, mantener y desplegar proyectos según las necesidades de la empresa.",
+                "Completar cuatro proyectos, tres desplegados y uno en desarrollo.",
+                "Implementar un servicio de instalación de un servidor NAS para la empresa."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador de Sistemas",
+            "company": "Ttransporto",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Integrar el equipo de desarrollo para crear un sistema de optimización de rutas y seguimiento en tiempo real de camiones de delivery.",
+                "Aportar habilidades de programación en Django y Angular para mejorar la eficiencia logística."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diseño y Desarrollo de Software",
+            "institution": "CERTUS",
+            "location": "",
+            "start_date": "2021-03-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Programa Internacional de Alta Especialización Big Data",
+            "institution": "GEM",
+            "location": "",
+            "start_date": "2021-03-01",
+            "end_date": "2024-02-28",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "python",
+                "go",
+                "ruby",
+                "dart",
+                "javascript"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "postman",
+                "vim",
+                "docker",
+                "arch-linux"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Certificado Modular, Diseño y Desarrollo de Software",
+            "issuing_organization": "CERTUS",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desing Thinking Certificado",
+            "issuing_organization": "Conecta Empleo",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Microsoft technology associate security fundamentals certification",
+            "issuing_organization": "Microsoft",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificación Participación Hackaton Entel",
+            "issuing_organization": "Entel",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio B2"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Administrador de Sistemas",
+            "organization": "Ubuntu Jóvenes Voluntarios Perú",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "2024-01-31",
+            "responsibilities": [
+                "Migrar la página web de PHP a Microsoft SharePoint.",
+                "Colaborar técnicamente para asegurar una transición exitosa."
+            ]
+        }
+    ],
+    "publications": [],
+    "references": []
+}

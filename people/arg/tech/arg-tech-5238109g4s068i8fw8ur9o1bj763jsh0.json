@@ -1,0 +1,122 @@
+{
+   "personal_info": {
+      "first_name": "Francisco",
+      "last_name": "Slepoy",
+      "email": "slepoyfrancisco@gmail.com",
+      "phone": "",
+      "location": {
+         "country": "Argentina",
+         "city": "Buenos Aires",
+         "state": ""
+      },
+      "linkedin": "https://www.linkedin.com/in/franciscoslepoy/",
+      "website": "https://franciscoslepoy.sinestesia-lab.com/",
+      "portfolio": "https://sinestesia-lab.com/",
+      "summary": ""
+   },
+   "work_experience": [
+      {
+         "job_title": "Front-end Developer",
+         "company": "Byron",
+         "location": "",
+         "start_date": "2024-09-01",
+         "end_date": "",
+         "currently_working": true,
+         "responsibilities": [
+            "Development of web applications.",
+            "Implementation of new features.",
+            "Bug resolution.",
+            "Code maintenance and optimization."
+         ],
+         "achievements": [],
+         "repository_url": ""
+      },
+      {
+         "job_title": "Freelance Developer",
+         "company": "Sinestesia",
+         "location": "",
+         "start_date": "2022-12-01",
+         "end_date": "",
+         "currently_working": true,
+         "responsibilities": [
+            "Worked on websites and applications for companies and entrepreneurs.",
+            "Explored creation of 3D scenes and animations."
+         ],
+         "achievements": [],
+         "repository_url": ""
+      }
+   ],
+   "education": [],
+   "skills": {
+      "keywords": {
+         "technical": [
+            "java-script",
+            "typescript",
+            "react-js",
+            "html",
+            "css",
+            "material-ui",
+            "bootstrap",
+            "styled-component",
+            "chakra-ui",
+            "firebase",
+            "three-js",
+            "react-three-fiber",
+            "node-js",
+            "express",
+            "sql"
+         ],
+         "soft": [],
+         "tools": [
+            "figma"
+         ]
+      },
+      "detailed": {}
+   },
+   "certifications": [
+      {
+         "name": "Full Stack",
+         "issuing_organization": "Digital House",
+         "issue_date": "",
+         "expiration_date": "",
+         "credential_id": ""
+      },
+      {
+         "name": "Front-end con Javascript",
+         "issuing_organization": "Argentina Programa 4.0",
+         "issue_date": "",
+         "expiration_date": "",
+         "credential_id": ""
+      }
+   ],
+   "projects": [
+      {
+         "name": "B-Life",
+         "description": "Institutional website with product catalog filters.",
+         "technologies": ["reactjs", "react-router-dom", "materialui", "javascript"],
+         "url": "https://b-life.com.ar/"
+      },
+      {
+         "name": "Tyme Consulting",
+         "description": "Institutional website with complex design details and animations.",
+         "technologies": ["react-js", "react-router-dom", "material-ui", "javascript", "framer-motion", "react-scroll-parallax"],
+         "url": "https://www.tyme-consulting.com/"
+      },
+      {
+         "name": "Ordoñez Wenzke",
+         "description": "Project gallery with animations and design details, and Firebase integration.",
+         "technologies": ["reactjs", "react-router-dom", "materialui", "javascript", "firebase", "context", "axios", "formik", "yup"],
+         "url": "https://ordonezwenzke.com/"
+      },
+      {
+         "name": "Franca",
+         "description": "E-commerce site with filter, catalog, shopping cart, and Firebase integration.",
+         "technologies": ["reactjs", "react-router-dom", "materialui", "javascript", "firebase", "redux-toolkit", "axios", "formik", "yup"],
+         "url": ""
+      }
+   ],
+   "languages": [],
+   "volunteer_experience": [],
+   "publications": [],
+   "references": []
+}

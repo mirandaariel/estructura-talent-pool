@@ -1,0 +1,145 @@
+{
+    "personal_info": {
+        "first_name": "Yanet",
+        "last_name": "Choque Cayo",
+        "email": "sol3127g@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Isidro Casanova",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/yanetchoque",
+        "website": "https://portfolio-choque.vercel.app/",
+        "portfolio": "https://github.com/yanet279",
+        "summary": "Me gusta la tecnología y el desarrollo web. Me enfoco en crear soluciones eficientes y que sean fáciles de escalar. Disfruto aprender nuevas herramientas, trabajar en equipo y encontrar la mejor manera de resolver problemas de forma rápida y efectiva."
+    },
+    "work_experience": [
+        {
+            "job_title": "Pasantía - Frontend Developer",
+            "company": "Kiura",
+            "location": "",
+            "start_date": "2023-06-01",
+            "end_date": "2023-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una página web desde cero, asegurando una estructura modular y escalable.",
+                "Implementé un diseño responsive para diferentes dispositivos.",
+                "Maqueté y estilice la interfaz siguiendo estándares de UX/UI.",
+                "Gestioné el consumo de API y manejo de estados en la aplicación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Informática",
+            "institution": "Universidad Nacional de La Matanza",
+            "location": "La Matanza, Buenos Aires, Argentina",
+            "start_date": "2018-08-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bootcamp Full Stack Engineer",
+            "institution": "Educación IT",
+            "location": "",
+            "start_date": "2022-03-01",
+            "end_date": "2022-09-30",
+            "hours": 0
+        },
+        {
+            "degree": "React.js",
+            "institution": "Educación IT",
+            "location": "",
+            "start_date": "2022-12-01",
+            "end_date": "2023-02-28",
+            "hours": 0
+        },
+        {
+            "degree": "Introducción a UX",
+            "institution": "Educación IT",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2023-04-30",
+            "hours": 0
+        },
+        {
+            "degree": "Scrum Fundamentos",
+            "institution": "Educación IT",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "2023-05-31",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack PHP",
+            "institution": "Codo a Codo",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2023-07-31",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Python",
+            "institution": "Codo a Codo",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html/css",
+                "javascript",
+                "typescript",
+                "react.js",
+                "node.js",
+                "php",
+                "python",
+                "c",
+                "tailwind",
+                "boost.op",
+                "sass",
+                "vue.js",
+                "sql",
+                "mongodb",
+                "github",
+                "git-flow"
+            ],
+            "soft": [
+                "scrum",
+                "crud",
+                "autodidacta-y-aprendizaje-rápido",
+                "gestión-de-proyectos-y-responsabilidad",
+                "atención-al-detalle",
+                "gestión-de-apis",
+                "resolución-de-problemas"
+            ],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Proyecto Integrador - Educación IT | E-Commerce",
+            "description": "Diseñé y desarrollé una tienda en línea full stack, incluyendo frontend y backend. Implementé autenticación y gestión de usuarios. Configuré una base de datos en MongoDB y desarrollé la lógica del servidor con Node.js y Express. Apliqué buenas prácticas de desarrollo, control de versiones con Git, y metodologías Scrum.",
+            "technologies": [
+                "MongoDB",
+                "Node.js",
+                "Express",
+                "Git",
+                "Scrum"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

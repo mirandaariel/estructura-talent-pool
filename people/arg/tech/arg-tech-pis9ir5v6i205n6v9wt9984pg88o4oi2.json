@@ -1,0 +1,140 @@
+{
+    "personal_info": {
+        "first_name": "Pablo",
+        "last_name": "Rivas",
+        "email": "rivaspablo1172000@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Tandil",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/pablo-rivas-45b214211/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy estudiante avanzado de Ingeniería de Sistemas con experiencia en el desarrollo de aplicaciones y software. Me destaco por mi capacidad para trabajar en equipo y mi compromiso con la mejora continua. Aspiro a profundizar mis conocimientos en IT y ganar experiencia en un entorno profesional que me permita crecer tanto técnica como personalmente."
+    },
+    "work_experience": [
+        {
+            "job_title": "",
+            "company": "UNICEN",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Aplicación diseñada para analizar y generar reportes detallados sobre habilidades cognitivas y sociales, con un enfoque específico en funciones ejecutivas como atención, memoria de trabajo, inhibición y flexibilidad cognitiva."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "",
+            "company": "",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Aplicación en Flutter con sincronización en tiempo real mediante Firebase. Facilita la administración de rutinas, pagos, membresías y asistencia de usuario."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "",
+            "company": "Sistema de Gestión para Proveedor de Internet",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de un sistema para administrar clientes, facturación y equipos, con automatización de procesos usando PostgreSQL, MongoDB y SQL."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo con React.js, Next.js y Tailwind CSS, con autenticación de usuario, diseño responsivo y animaciones interactivas.",
+                "Desarrollada para un negocio de cafés con PHP, Laravel y MySQL, con diseño responsivo y optimización para usuarios.",
+                "Desarrollo de una plataforma de comercio electrónico completa, con Node.js en el backend, implementando APIs RESTful para gestionar productos y compras. Utilización de MongoDB para el almacenamiento de datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Secundaria",
+            "institution": "Secundaria N°8",
+            "location": "",
+            "start_date": "",
+            "end_date": "2018-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en Sistemas",
+            "institution": "Universidad Nacional del Centro de la Provincia de Buenos Aires",
+            "location": "",
+            "start_date": "2019-02-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "pascal",
+                "java",
+                "c++",
+                "python",
+                "ruby",
+                "dart",
+                "javascript",
+                "flutter",
+                "angular",
+                "rasa",
+                "firebase",
+                "sql",
+                "nosql",
+                "html",
+                "css",
+                "programación-orientada-a-objetos",
+                "git",
+                "jira",
+                "azure"
+            ],
+            "soft": [],
+            "tools": [
+                "coreldraw",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Native"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

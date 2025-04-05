@@ -1,0 +1,91 @@
+{
+    "personal_info": {
+        "first_name": "Alejandro",
+        "last_name": "González",
+        "email": "alegon2772@gmail.com",
+        "phone": "2241527649",
+        "location": {
+            "country": "",
+            "city": "La Plata",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador web entusiasta en busca de mi primera experiencia profesional, con enfoque back-end y aprendizaje continuo. Busco integrarme en un equipo dinámico para contribuir y crecer."
+    },
+    "work_experience": [
+        {
+            "job_title": "Back-end Developer",
+            "company": "IGROWKER - Acelerando Juniors IT",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Formé parte del equipo backend en una aplicación fintech para creadores de contenido, enfocada en la gestión de ingresos, pagos e impuestos.",
+                "Contribuí con soluciones técnicas en Django y Django REST Framework, optimizando la productividad y la escalabilidad de la plataforma mediante colaboración continua en la resolución de problemas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web Full Stack",
+            "company": "Jumpstore",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollar un e-commerce con HTML, CSS y JavaScript en el front-end, aplicando diseño responsive.",
+                "Utilicé PHP con Laravel y MVC, diseñando la base de datos en MySQL a partir de un UML.",
+                "El proyecto se desarrolló con metodologías ágiles (Scrum) y gestión colaborativa en Git."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachiller en Administración de Empresas",
+            "institution": "Instituto Corazón de María",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en Sistemas",
+            "institution": "UTN",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Programación Full Stack: Desarrollo de Aplicaciones Web",
+            "institution": "Digital House",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["django", "python", "apis-restful", "sqlite", "postgresql", "html", "css", "javascript"],
+            "soft": ["espíritu-de-trabajo-en-equipo", "aprendizaje-dinámico", "interés-en-nuevas-tecnologías"],
+            "tools": ["git"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

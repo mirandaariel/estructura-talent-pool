@@ -1,0 +1,98 @@
+{
+    "personal_info": {
+        "first_name": "Lucía",
+        "last_name": "Jallés Lamas",
+        "email": "luciajalles04@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/luciajalles/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante de Ingeniería en Informática (3er año) con experiencia en desarrollo web, análisis de datos y diseño UX/UI. Apasionada por crear soluciones innovadoras con distintas tecnologías y el aprendizaje continuo. Me destaco por mi capacidad de trabajo en equipo, comunicación efectiva, habilidades para la resolución de problemas y habilidades en gestión de proyectos, edición de contenido y análisis estadístico. Busco oportunidades para aportar creatividad y habilidades técnicas en equipos desafiantes."
+    },
+    "work_experience": [
+        {
+            "job_title": "Gestión de Redes Sociales",
+            "company": "Negocio Local - Gustavo Marconi Flyshop",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y ejecuté una estrategia de contenidos que incrementó el engagement de 300 a 500 interacciones mensuales.",
+                "Edité gráficos y videos promocionales con herramientas como Canva y Adobe Photoshop, mejorando la estética de la marca."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Análisis de Datos",
+            "company": "Proyecto de Investigación: Análisis del Tiempo en Pantalla - Universidad UCASAL",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideré un equipo de 2 personas para recolectar y analizar datos obtenidos a partir de encuestas sobre el tiempo de estudio en 40 usuarios y cómo afectaba en sus promedios.",
+                "Apliqué modelos estadísticos (regresión lineal, distribuciones de probabilidad) para identificar patrones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachiller en Economía y Administración",
+            "institution": "UZZI College",
+            "location": "",
+            "start_date": "2007-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["javascript", "python", "html/css", "wordpress", "flask", "react"],
+            "soft": ["trabajo-en-equipo", "comunicación-efectiva", "adaptabilidad", "proactividad", "responsabilidad", "autodidacta"],
+            "tools": ["figma", "git/github", "canva", "adobe-photoshop"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "First Certificate in English (FCE)",
+            "issuing_organization": "Cambridge International College",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Proyecto Web Autónomo",
+            "description": "Diseño y desarrollo integral de mi portfolio profesional usando WordPress, implementando un tema personalizado para destacar mis proyectos y habilidades técnicas. Implementé media queries en CSS y estructuras flexibles para garantizar una visualización óptima.",
+            "technologies": ["wordpress", "css", "flexbox", "grid"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2 / C1 - Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

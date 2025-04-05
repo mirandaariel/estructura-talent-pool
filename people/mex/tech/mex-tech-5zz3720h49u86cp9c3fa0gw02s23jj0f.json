@@ -1,0 +1,116 @@
+{
+    "personal_info": {
+        "first_name": "Ari Alexander",
+        "last_name": "Campos Montes",
+        "email": "aricampos.work@gmail.com",
+        "phone": "+522221157416",
+        "location": {
+            "country": "Mexico",
+            "city": "Cholula",
+            "state": "Puebla"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "Github",
+        "summary": "Desarrollador Fullstack apasionado por la tecnología y el desarrollo web, con sólida formación en tecnologías como React.js, JavaScript, Node.js, Express.js, y MongoDB. He completado proyectos personales en los que he aplicado estos conocimientos para crear aplicaciones web interactivas y eficientes."
+    },
+    "work_experience": [
+        {
+            "job_title": "Representante de Servicio al Cliente Bilingüe",
+            "company": "Teleperformance",
+            "location": "Remote",
+            "start_date": "2023-05-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Resolví problemas complejos con un índice de resolución en la primera llamada (FCR) del 93% y tiempos menores a 6 minutos, gracias a habilidades avanzadas de multitarea, escucha activa y dominio digital.",
+                "Superé KPIs clave, mejorando un 31% el tiempo de resolución al colaborar en equipos virtuales y compartir mejores prácticas.",
+                "Coordiné eficazmente con equipos y clientes, logrando un 95% de satisfacción (CSAT) mediante comunicación empática y soluciones rápidas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Desarrollo de Software",
+            "institution": "Universidad Virtual del Estado de Guanajuato (UVEG)",
+            "location": "Guanajuato, Mexico",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Programa Web Developer",
+            "institution": "Bootcamp TripleTen",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "2024-11-30",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en Tecnologías de la Información",
+            "institution": "Universidad Politécnica de Puebla",
+            "location": "Puebla, Mexico",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react.js",
+                "angular",
+                "javascript",
+                "python",
+                "djangorest",
+                "html",
+                "css",
+                "tailwindcss",
+                "node.js",
+                "express.js",
+                "mongodb",
+                "google-cloud"
+            ],
+            "soft": [],
+            "tools": [
+                "figma",
+                "jest",
+                "webpack"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "News Explorer",
+            "description": "Un sitio web que permite a los usuarios explorar noticias de diversas fuentes, buscar contenido por palabras clave y guardar artículos como favoritos si inician sesión.",
+            "technologies": ["react", "css", "html", "javascript", "node.js", "express", "mongodb", "jwt", "winston"],
+            "url": ""
+        },
+        {
+            "name": "Blog De Viaje",
+            "description": "Un blog interactivo donde los usuarios pueden gestionar sus perfiles, agregar publicaciones sobre sus viajes, y mostrar imágenes con opciones para interactuar, como \"me gusta\".",
+            "technologies": ["react", "css", "html", "javascript", "node.js", "express", "mongodb", "jwt", "winston"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Bilingual"
+        },
+        {
+            "language": "English",
+            "proficiency": "Bilingual"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

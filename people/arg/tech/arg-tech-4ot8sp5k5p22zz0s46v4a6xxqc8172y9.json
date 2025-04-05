@@ -1,0 +1,150 @@
+{
+  "personal_info": {
+    "first_name": "Alonso",
+    "last_name": "Cáceres Gonzales",
+    "email": "alonzotoricaceres@gmail.com",
+    "phone": "+51968509004",
+    "location": {
+      "country": "",
+      "city": "",
+      "state": ""
+    },
+    "linkedin": "https://linkedin.com/in/alonso-caceresdev67",
+    "website": "https://github.com/DarkShadow76",
+    "portfolio": "",
+    "summary": ""
+  },
+  "work_experience": [
+    {
+      "job_title": "IT Operations Intern",
+      "company": "Viettel Peru S.A.C.",
+      "location": "",
+      "start_date": "2024-06-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Monitoreé y administré aplicaciones en servidores Linux (CentOs), asegurando la continuidad operativa de servicios web críticos.",
+        "Aseguré la continuidad de servicio de aplicaciones (Crontab, Logs, Scripts).",
+        "Redacté documentación técnica sobre la gestión y resolución de incidencias frecuentes en servicios web, facilitando la estandarización de procesos."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "IT Support Intern",
+      "company": "Consatel S.A.C",
+      "location": "",
+      "start_date": "2023-08-01",
+      "end_date": "2024-01-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Realicé mantenimiento preventivo y correctivo del hardware y software.",
+        "Brindé apoyo en la implementación de cableado estructurado y configuraciones de PCs con Windows y Linux.",
+        "Instalé y configuré programas, logrando una reducción del tiempo de inactividad del sistema en un 15%."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ingeniería de Sistemas (Egresado)",
+      "institution": "Universidad de Lima",
+      "location": "",
+      "start_date": "2018-01-01",
+      "end_date": "2024-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Inglés (Intermedio)",
+      "institution": "Asociación Cultural Peruano Británica",
+      "location": "Lima, Perú",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "java",
+        "python",
+        "c/c++",
+        "javascript",
+        "vba-macros",
+        "react",
+        "express",
+        "next.js",
+        "node.js",
+        "spring",
+        "postgresql",
+        "oracle",
+        "docker",
+        "linux",
+        "git",
+        "sap",
+        "scrum"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [
+    {
+      "name": "Red Hat System Administration I (RH124)",
+      "issuing_organization": "Red Hat Academy",
+      "issue_date": "2023-09-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Macros y Visual Basic",
+      "issuing_organization": "Universidad de Lima",
+      "issue_date": "2022-08-01",
+      "expiration_date": "",
+      "credential_id": ""
+    }
+  ],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "Intermedio"
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "role": "Voluntario",
+      "organization": "UGEL N° 03 : programa 'Voluntarios por la Educación'",
+      "location": "",
+      "start_date": "2022-03-01",
+      "end_date": "2022-04-30",
+      "responsibilities": [
+        "Brindé 40 horas de tutoría personalizada a estudiantes de secundaria, logrando que más del 80% de los alumnos mejoraran su comprensión en matemáticas y ciencias.",
+        "Apliqué técnicas de enseñanza adaptativa y seguimiento personalizado para maximizar la comprensión de los temas.",
+        "Desarrollé materiales educativos digitales y ejercicios interactivos, facilitando el aprendizaje autónomo y reforzando los conocimientos adquiridos en las tutorías."
+      ]
+    }
+  ],
+  "publications": [],
+  "references": [],
+  "extracurricular_activities": [
+    {
+      "name": "Hackathon Belcorp",
+      "date": "2023-09-01",
+      "participation": "Participante",
+      "description": "Competí con 262 participantes de 19 países, alcanzando el 13vo lugar con una solución basada en IA para la transformación digital."
+    },
+    {
+      "name": "Innovathon ULIMA",
+      "start_date": "2023-08-01",
+      "end_date": "2023-09-30",
+      "participation": "Participante",
+      "description": "Desarrollé un prototipo de aplicación web para fomentar el turismo, abordando desafíos de movilidad y moda sostenible."
+    }
+  ]
+}

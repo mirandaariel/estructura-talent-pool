@@ -1,0 +1,83 @@
+{
+    "personal_info": {
+        "first_name": "Cristian Esteban",
+        "last_name": "Maida",
+        "email": "cristianmaida@outlook.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/cristian-esteban-maida",
+        "website": "https://github.com/CristianEstMaida",
+        "portfolio": "https://portafolio-web-tau-six.vercel.app/",
+        "summary": "Desarrollador web full stack con 1 año de experiencia profesional en desarrollo en los lenguajes de programación JavaScript, C# y SQL Server con los frameworks Poncho, Bootstrap, ASP.NET Core y Entity Framework. Me entusiasma lo que puede lograr la tecnología. Tengo interés por aprender soluciones innovadoras y eficientes. Busco trabajar en equipo en el sector tecnológico, donde pueda tanto aportar mis conocimientos como escuchar a mis compañeros."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador de .NET",
+            "company": "UNSA",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé formularios web de registro de datos para administración y estadísticas.",
+                "Creé validaciones específicas para el ingreso correcto y seguro de los datos.",
+                "Gestioné y migré datos antiguos a una base de datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico en computación",
+            "institution": "Otto Krause",
+            "location": "",
+            "start_date": "",
+            "end_date": "2017-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                "javascript",
+                "poncho",
+                "bootstrap",
+                "asp.net-core",
+                "entity-framework",
+                "sql-server"
+            ],
+            "soft": [],
+            "tools": [
+                "metodologías-ágiles"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Amigo Secreto",
+            "description": "Juego de sortear y determinar el amigo",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "url": "https://cristianestmaida.github.io/sorteo-amigo/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

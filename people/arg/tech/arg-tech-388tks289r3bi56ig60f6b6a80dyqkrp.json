@@ -1,0 +1,94 @@
+{
+    "personal_info": {
+        "first_name": "Federico",
+        "last_name": "Farina",
+        "email": "farinafederico01@gmail.com",
+        "phone": "+54 112345 2517",
+        "location": {
+            "country": "Argentina",
+            "city": "Lanús Este",
+            "state": "Bs.As"
+        },
+        "linkedin": "https://www.linkedin.com/in/farinafederico",
+        "website": "",
+        "portfolio": "",
+        "summary": "Busco la oportunidad para poner a prueba y expandir los conocimientos adquiridos en mi carrera universitaria en un entorno real de trabajo que me permita evolucionar como profesional. Me motiva el cumplimiento de objetivos, la oportunidad de aprendizaje y estoy dispuesto a ejercer y capacitarme tanto en las areas de Backend, Frontend como de Testing."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Tecnicatura en Programación Informática",
+            "institution": "Universidad Tecnológica Nacional (UTN)",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Ciencias Naturales",
+            "institution": "Escuela Normal Superior Próspero Alemandri",
+            "location": "",
+            "start_date": "",
+            "end_date": "2018-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso Desarrollo Web",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "pygame",
+                "poo",
+                "sql",
+                "html",
+                "css",
+                "sass",
+                "bootstrap",
+                "linux"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "moqups",
+                "virtual-box"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Pygame Sudoku",
+            "description": "Desarrollé un sudoku completamente funcional utilizando Python para la lógica y su librería Pygame para las visuales.",
+            "technologies": [
+                "python",
+                "pygame"
+            ],
+            "url": "https://github.com/FedericoFarina01/SUDOKU_python"
+        },
+        {
+            "name": "Aldana Ferreyra Propiedades - Página Web",
+            "description": "Página web en desarrollo.",
+            "technologies": [],
+            "url": "https://federicofarina01.github.io/AF_Propiedades/index.html"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

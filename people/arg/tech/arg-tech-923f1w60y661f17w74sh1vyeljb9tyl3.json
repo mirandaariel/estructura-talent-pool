@@ -1,0 +1,129 @@
+{
+    "personal_info": {
+        "first_name": "Fabrizio",
+        "last_name": "Andrade",
+        "email": "fabrizioandrade9898@gmail.com",
+        "phone": "1166625985",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/fabrizio-andrade/",
+        "website": "",
+        "portfolio": "",
+        "summary": "23 años. Mi fuerte está en el backend, aunque también me siento cómodo con el frontend. Mis lenguajes favoritos son JavaScript/TypeScript, y en un futuro me gustaría adentrarme en el desarrollo de videojuegos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador web",
+            "company": "Henry",
+            "location": "Argentina",
+            "start_date": "2024-09-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Participé en workshops.",
+                "Desarrollé dos proyectos clave.",
+                "Construí un backend completo en el primer proyecto.",
+                "Colaboré en el desarrollo de una aplicación, trabajando tanto en el frontend como en el backend."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Camarero",
+            "company": "Hotel Alvear",
+            "location": "Argentina",
+            "start_date": "2024-03-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Servicio de atención al cliente",
+            "company": "KFC Argentina",
+            "location": "Argentina",
+            "start_date": "2022-05-01",
+            "end_date": "2023-11-30",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ciencias de la computación",
+            "institution": "University of Buenos Aires (UBA)",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Fullstack Web Development Bootcamp",
+            "institution": "SoyHenry",
+            "location": "Argentina",
+            "start_date": "2024-07-01",
+            "end_date": "2025-01-31",
+            "hours": 0
+        },
+        {
+            "degree": "Guardavidas, LifeGuard",
+            "institution": "Sugara (escuela de guardavidas)",
+            "location": "Argentina",
+            "start_date": "2024-02-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Enseñanza del idioma inglés",
+            "institution": "Instituto de Ingles",
+            "location": "Argentina",
+            "start_date": "2010-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Secundario Completo",
+            "institution": "Escuela Secundaria William C. Morris",
+            "location": "Argentina",
+            "start_date": "2013-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["javascript", "typescript", "nextjs", "react", "tailwind-css", "nestjs", "moongose", "supabase"],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Active",
+            "description": "Plataforma para gestionar centros deportivos, y reservas de canchas.",
+            "technologies": ["nextjs", "typescript", "react", "tailwind-css"],
+            "url": "https://frontend-4oaddifv9-actives-projects-11ce1f6a.vercel.app"
+        },
+        {
+            "name": "Active API",
+            "description": "API RESTful que permite gestionar usuarios, centros deportivos y reservas de canchas.",
+            "technologies": ["nestjs", "typescript", "moongose", "supabase"],
+            "url": "https://backend-ri4f.onrender.com/api"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

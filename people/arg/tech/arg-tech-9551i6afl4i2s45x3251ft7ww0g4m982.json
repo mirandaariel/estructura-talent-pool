@@ -1,0 +1,252 @@
+
+{
+    "personal_info": {
+        "first_name": "Nicolas",
+        "last_name": "Cuello",
+        "email": "nicocuello7@gmail.com",
+        "phone": "3516575438",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un full stack developer en Javascript formado mediante un bootcamp de 800 horas y con 3 proyectos que me permitieron la práctica necesaria sobre los contenidos adquiridos, además de otros en forma autodidacta. Con una trayectoria como líder y asesor en el área de atención al cliente dentro de una empresa que ofrece servicios de outsourcing, tercerización de procesos y soluciones tecnológicas. Actualmente trabajando para el área de soporte de Tecnología. Esta experiencia me ha permitido desarrollar habilidades clave del trabajo en equipo y análisis de datos masivos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Auxiliar tecnológico",
+            "company": "Konecta Argentina",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Comunicación con clientes, negociación y soporte para el uso de las herramientas de software que comercializa la empresa.",
+                "Seguimiento de proyectos.",
+                "Alta de pedidos de los clientes por JIRA.",
+                "Implementación en las herramientas con las decisiones de negocios de cada cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Referente de líder",
+            "company": "Konecta Argentina",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Programación, manejo de equipo, cumplimiento de horarios.",
+                "Seguimiento de KPIs.",
+                "Control de demanda",
+                "Renta"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Atención al cliente para el equipo de CX",
+            "company": "Konecta Argentina",
+            "location": "",
+            "start_date": "2022-11-01",
+            "end_date": "2023-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención por chat mediante botmaker, y sistema de tickets por freshdesk. Gestión a promociones, pagos y comercios estratégicos.",
+                "Propuestas para la mejora en herramientas y sistema de atención."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Operador de atención por canales digitales",
+            "company": "Movistar",
+            "location": "",
+            "start_date": "2014-05-01",
+            "end_date": "2022-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Representante de atención al cliente, soporte técnico y comercial.",
+                "Speech Analytic como reductor de demanda, para mejora de procesos de atención y servicio."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Operador de atención Telefónica",
+            "company": "Telefónica",
+            "location": "",
+            "start_date": "2011-12-01",
+            "end_date": "2014-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención al cliente, soporte técnico."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura superior en desarrollo de software",
+            "institution": "Buenos Aires aprende",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Full stack web developer",
+            "institution": "Henry bootcamp",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "Primeros pasos en frontend",
+            "institution": "Argentina programa",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Procesamiento de datos",
+            "institution": "Academia BA emprende",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnicatura superior en seguridad e higiene en el trabajo",
+            "institution": "",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller orientado en economía y gestión de las organizaciones",
+            "institution": "",
+            "location": "",
+            "start_date": "2011-01-01",
+            "end_date": "2011-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "nodejs",
+                "postgresql",
+                "react",
+                "redux",
+                "sequelize",
+                "visual-studio-code",
+                "git",
+                "github",
+                "html",
+                "css",
+                "tailwind",
+                "bootstrap",
+                "jquery",
+                "express.js",
+                "typescript"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "liderazgo",
+                "organización",
+                "comunicación-efectiva",
+                "resiliencia",
+                "metodologías-ágiles",
+                "estructura-de-datos-y-algoritmos"
+            ],
+            "tools": [
+                "visual-studio-code",
+                "git",
+                "github",
+                "trello",
+                "cloudinary",
+                "slack",
+                "google-tools",
+                "excel",
+                "power-bi"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Animaladas",
+            "description": "Proyecto en react js realizado en equipo para la fundación animaladas de Argentina. El proyecto tiene manejo de base de datos relacionales, geolocalización, filtros, búsquedas, pasarela de pagos con mercado pago, borrado lógico, OAuth 2.0, manejo de roles, incluye diseño responsive.",
+            "technologies": [
+                "Redux",
+                "Cloudinary",
+                "Bootstrap",
+                "Chartjs",
+                "Google Api",
+                "NodeJs",
+                "Express",
+                "Javascript",
+                "Jsonwebtoken",
+                "Nodemailer",
+                "PostgreSQL",
+                "Sequelize"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Drivers App",
+            "description": "Proyecto en react js realizado individualmente durante el bootcamp de Henry. Creación de una base de datos relacional para gestionar conductores con validaciones y almacenamiento en Redux.",
+            "technologies": [
+                "React JSX",
+                "Redux",
+                "CSS puro",
+                "NodeJs",
+                "Express",
+                "Javascript",
+                "PostgreSQL",
+                "Sequelize"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Movie App",
+            "description": "Single Page Application (SPA) desarrollada para los amantes del cine que desean buscar y explorar películas. Permite a los usuarios buscar películas, filtrar por géneros, ver sus trailer y gestionar una lista de favoritos. Autenticación segura implementada.",
+            "technologies": [
+                "React",
+                "Javascript",
+                "CSS puro",
+                "Bootstrap",
+                "auth0",
+                "SweatAlert",
+                "React router dom",
+                "React player",
+                "Framer motion",
+                "axios"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Básico (A2)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

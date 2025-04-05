@@ -1,0 +1,165 @@
+{
+    "personal_info": {
+        "first_name": "Ignacio",
+        "last_name": "Amatt",
+        "email": "ignacioamatt@gmail.com",
+        "phone": "+54 11-3110-7615",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Profesional con experiencia en el sector EdTech, especializado en la optimización de procesos y el desarrollo de soluciones tecnológicas internas. Tengo conocimientos en JavaScript, TypeScript, React, Node.js, Express, Nest, MongoDB y PostgreSQL, así como en metodologías ágiles como Scrum. A lo largo de mi carrera, he desarrollado herramientas y aplicaciones que mejoran la eficiencia operativa y la experiencia educativa. Actualmente, busco oportunidades en IT como Desarrollador Web Full-Stack, donde pueda aplicar mis habilidades técnicas y seguir creciendo en el área."
+    },
+    "work_experience": [
+        {
+            "job_title": "Learning Products Lead",
+            "company": "Henry (EdTech)",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Líder de área responsable de la creación y mantenimiento de los productos educativos (cursos y carreras).",
+                "Enfoque en la mejora continua de los contenidos para adaptarse a la evolución tecnológica y a las necesidades del negocio y los usuarios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Quality Lead",
+            "company": "Henry (EdTech)",
+            "location": "",
+            "start_date": "2023-10-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Responsable de garantizar la calidad educativa mediante estrategias didácticas y un sólido sistema de evaluación.",
+                "Contribución clave a la empleabilidad de los graduados mejorando la estructura y efectividad de los programas educativos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Learning Consultants Lead",
+            "company": "Henry (EdTech)",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "2023-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideré un equipo de desarrolladores enfocado en la optimización de procesos internos y herramientas de back-office.",
+                "Creé aplicaciones internas que mejoraron significativamente el trabajo del equipo docente, los alumnos y el personal administrativo.",
+                "Brindé apoyo en tareas educativas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Lab Analyst",
+            "company": "Henry (EdTech)",
+            "location": "",
+            "start_date": "2022-06-01",
+            "end_date": "2023-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Rol generalista dentro de Learning, reportando directo al manager del área, aportando en la estrategia educativa, mejora de procesos y herramientas internas a través del desarrollo de aplicaciones propias.",
+                "Supervisé y guié proyectos finales y grupales de estudiantes avanzados en la carrera de Desarrollo Web Full-Stack.",
+                "Desempeñé roles como Scrum Master, Product Owner y soporte técnico como Tech Lead.",
+                "Formé parte de un equipo de desarrollo enfocado en la innovación, creando aplicaciones para estudiantes y uso interno."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Teaching Assistant",
+            "company": "Henry (EdTech)",
+            "location": "",
+            "start_date": "2021-08-01",
+            "end_date": "2021-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Ayudante de bootcamp para alumnos de Desarrollo Full-Stack"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "FullStack Web Developer",
+            "institution": "Soy Henry",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "CCNA Certificado",
+            "institution": "Cisco Networking Academy",
+            "location": "",
+            "start_date": "2002-01-01",
+            "end_date": "2002-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en Informática",
+            "institution": "Universidad de Belgrano",
+            "location": "",
+            "start_date": "2001-01-01",
+            "end_date": "2002-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html/css",
+                "javascript",
+                "typescript",
+                "python",
+                "react",
+                "redux",
+                "node.js",
+                "express",
+                "nest.js",
+                "mongodb",
+                "postgresql",
+                "mysql",
+                "sequelize",
+                "typeorm"
+            ],
+            "soft": [],
+            "tools": [
+                "scrum",
+                "kanban",
+                "gitflow",
+                "ci/cd",
+                "jira",
+                "trello",
+                "ora",
+                "git",
+                "github",
+                "aws"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Intermediate (B2)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,107 @@
+{
+    "personal_info": {
+        "first_name": "Vicente",
+        "last_name": "Duch Moreno",
+        "email": "vhduch@gmail.com",
+        "phone": "696354925",
+        "location": {
+            "country": "Spain",
+            "city": "Valencia",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "GitHub",
+        "summary": "I'm a Front-End Developer who enjoys building intuitive, responsive web applications. After finishing an intensive web development bootcamp with Ironhack, I transitioned into tech to merge my creativity and problem-solving capabilities with technology. All my previous work experiences across different fields helped me build strong collaboration, communication, and adaptability skills before diving into coding. These taught me to work under pressure and deliver meaningfully, which I now bring to my work in development."
+    },
+    "work_experience": [
+        {
+            "job_title": "Freelance Entrepreneur",
+            "company": "MagitekWorks",
+            "location": "",
+            "start_date": "2022-02-01",
+            "end_date": "2024-02-29",
+            "currently_working": false,
+            "responsibilities": [
+                "Designed and developed a range of 3D-printed video game merchandise.",
+                "Managed the full production process, including inventory management and customer relations, achieving a 5-star rating across 1,000+ sales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Web development bootcamp",
+            "institution": "Ironhack",
+            "location": "Valencia",
+            "start_date": "2024-09-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachelor's Degree in Audiovisual Communication",
+            "institution": "University of Valencia",
+            "location": "Valencia",
+            "start_date": "2024-09-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "agile-development-methods",
+                "git",
+                "html5",
+                "css3",
+                "javascript",
+                "react"
+            ],
+            "soft": [
+                "collaboration",
+                "communication",
+                "adaptability"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Cave of the Typomancer",
+            "description": "Developed a browser-based game where players complete sequences to defeat enemies while progressing through increasing difficulty.",
+            "technologies": ["javascript", "html", "css"],
+            "url": "Deployed on GitHub Pages"
+        },
+        {
+            "name": "Arcadia Games",
+            "description": "A platform to post, rate, and review games with a fully responsive design.",
+            "technologies": ["react.js"],
+            "url": "Deployed on GitHub Pages"
+        },
+        {
+            "name": "Whisker Watchers",
+            "description": "A full-stack web application connecting pet owners with local pet sitters.",
+            "technologies": ["react", "express.js", "mongodb"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": ""
+        },
+        {
+            "language": "English",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

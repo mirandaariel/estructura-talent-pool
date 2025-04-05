@@ -1,0 +1,145 @@
+{
+    "personal_info": {
+        "first_name": "Dilan de Jesús",
+        "last_name": "Lucio Sustaita",
+        "email": "dilan.lucio26@gmail.com",
+        "phone": "8421089453",
+        "location": {
+            "country": "Mexico",
+            "city": "Parras de la Fuente",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador de software con experiencia en .NET, incluyendo ASP.NET Core, Blazor y Entity Framework. Enfocado en crear soluciones escalables y eficientes aplicando SOLID, DRY y KISS. Especializado en desarrollo de aplicaciones web y API RESTful con LINQ, SQL Server y JSON/REST, siguiendo patrones como MVC y Clean Architecture."
+    },
+    "work_experience": [
+        {
+            "job_title": "Administrador de Servicios",
+            "company": "Arellatura",
+            "location": "",
+            "start_date": "2025-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Gestión y administración de correos empresariales.",
+                "Implementación y configuración de servidores de correo para optimizar la comunicación corporativa.",
+                "Asesoría y soporte en la configuración de cuentas en dispositivos móviles y equipos de escritorio."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "OCV Parras",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creé una plataforma web con .NET y Blazor para promover el turismo en Parras de la Fuente.",
+                "Añadí recorridos virtuales 360° y un concierge digital para mejorar la experiencia del usuario.",
+                "Implementé autenticación con Identity y optimicé el rendimiento con Entity Framework Core."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollo de Software",
+            "company": "Hotel Los Balcones",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé un sistema de reservas online utilizando .NET y SQL Server.",
+                "Implementé funcionalidades administrativas y de e-commerce para optimizar la gestión de habitaciones y reservas.",
+                "Integré un sistema de notificaciones por correo con .NET MailKit para confirmar reservas, notificar al administrador y enviar recordatorios a clientes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Superior Universitario",
+            "institution": "Universidad Tecnológica de Parras",
+            "location": "Parras de la Fuente",
+            "start_date": "2022-08-01",
+            "end_date": "2024-06-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                ".net",
+                "c#",
+                "asp.net-core",
+                "blazor",
+                "entity-framework",
+                "sql-server",
+                "linq",
+                "mvc",
+                "clean-architecture",
+                "restful-apis"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Fudamentos .Net",
+            "issuing_organization": "Platzi",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Programacion Orientada a Objetos",
+            "issuing_organization": "Platzi",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "APIs .Net",
+            "issuing_organization": "Platzi",
+            "issue_date": "2025-02-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Fundamentos Entity Framework",
+            "issuing_organization": "Platzi",
+            "issue_date": "2025-02-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "GIT-GitHub",
+            "issuing_organization": "Azul School",
+            "issue_date": "2024-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Aplicaciones web con blazor webAssembly y .Net",
+            "issuing_organization": "Platzi",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

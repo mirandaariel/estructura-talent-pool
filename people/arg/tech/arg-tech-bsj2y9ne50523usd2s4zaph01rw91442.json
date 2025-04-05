@@ -1,0 +1,114 @@
+{
+    "personal_info": {
+        "first_name": "Luciano",
+        "last_name": "De La Rubia",
+        "email": "delarubialuciano@gmail.com",
+        "phone": "+543515990024",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador con enfoque en React, especializado en desarrollo web y mobile. Cuento con amplia experiencia en React Native y un sólido historial en la creación de aplicaciones web dinámicas y responsivas. Mi expertise abarca el manejo avanzado de rutas, la gestión global del estado y la integración eficiente de APIs, siempre enfocado en desarrollar soluciones escalables y de alto rendimiento."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Explender SRL",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Migración de una PWA de Angular a React Native.",
+                "Desarrollo de componentes reutilizables y optimización del rendimiento.",
+                "Implementación de autenticación de usuarios y seguridad en la app.",
+                "Integración de APIs REST para consumo y gestión de datos.",
+                "Uso de React Navigation y gestión de estado con Zustand.",
+                "Interfaces en react privadas, como admin panels para gestión interna."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Criteria Studio SAS",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo e implementación de funcionalidades para sitios web en React.",
+                "Creación de formularios dinámicos y sistemas de autenticación.",
+                "Aplicación de filtrado de datos avanzado para mejorar la experiencia de usuario.",
+                "Diseño y maquetación responsiva con HTML, CSS presentado desde Figma."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Programación",
+            "institution": "UTN",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "Facultad de Lenguas UNC",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "react-native",
+                "angular",
+                "typescript",
+                "javascript",
+                "swift",
+                "html",
+                "css",
+                "node.js",
+                "sql-server",
+                "firefoxe"
+            ],
+            "soft": [],
+            "tools": [
+                "github",
+                "vite",
+                "expo",
+                "postman",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

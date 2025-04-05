@@ -1,0 +1,126 @@
+{
+  "personal_info": {
+    "first_name": "Giovanna",
+    "last_name": "Michelotti",
+    "email": "giovannamichelotti31@gmail.com",
+    "phone": "",
+    "location": {
+      "country": "Argentina",
+      "city": "CABA",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/giovanna-michelotti-3b4437200/",
+    "website": "https://github.com/giovannamichelotti/",
+    "portfolio": "",
+    "summary": "Recién recibida de la Diplomatura en Programación Web Full Stack en la UTN, con muchas ganas de crecer en el mundo laboral en una ambiente que me brinde oportunidades de desarrollo personal y profesional constante. También me dedico a diseñar de manera freelance. Me considero una persona creativa, resolutiva, detallista y organizada."
+  },
+  "work_experience": [
+    {
+      "job_title": "Diseñadora Gráfica",
+      "company": "Freelance",
+      "location": "CABA, Argentina",
+      "start_date": "2023-01-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Diseñadora Gráfica",
+      "company": "Re Chupete",
+      "location": "",
+      "start_date": "2022-03-01",
+      "end_date": "2023-01-01",
+      "currently_working": false,
+      "responsibilities": [],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Administrativa RRHH",
+      "company": "Fuentes Hermanos S.R.L",
+      "location": "",
+      "start_date": "2021-07-01",
+      "end_date": "2022-12-31",
+      "currently_working": false,
+      "responsibilities": [],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Secretaria Legal Administrativa",
+      "company": "Michelotti & Asociados",
+      "location": "",
+      "start_date": "2018-02-01",
+      "end_date": "2020-12-31",
+      "currently_working": false,
+      "responsibilities": [],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Diplomatura en Programación Web Full Stack",
+      "institution": "Universidad Tecnologica Nacional",
+      "location": "",
+      "start_date": "",
+      "end_date": "2024-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "html",
+        "css",
+        "javascript",
+        "typescript",
+        "react",
+        "bootstrap",
+        "node.js",
+        "mysql",
+        "mongodb"
+      ],
+      "soft": [],
+      "tools": [
+        "github",
+        "figma",
+        "diseño-ux/ui"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "WhatsApp Web - Front End",
+      "description": "Este proyecto es una imitación de WhatsApp Web con diseño responsivo, desarrollado como trabajo final en la UTN. Incluye las siguientes funcionalidades: Gestión de contactos: Lista, búsqueda y visualización de perfiles. Mensajería: Envío, recepción y búsqueda de mensajes.",
+      "technologies": ["html", "css", "react", "bootstrap"],
+      "url": "https://mensajeria-six.vercel.app/"
+    },
+    {
+      "name": "WhatsApp Web - Full Stack",
+      "description": "Este proyecto es una imitación de WhatsApp Web con diseño responsivo, desarrollado como trabajo final de Full Stack en la UTN. Incluye las siguientes funcionalidades: Autenticación: Registro, verificación por correo, inicio de sesión y recuperación de contraseña. Gestión de contactos: Lista, búsqueda, agregado y edición de contactos. Mensajería: Envío, recepción y búsqueda de mensajes en tiempo real.",
+      "technologies": ["html", "css", "node.js", "express"],
+      "url": "https://gmdev.website/"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "B1"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

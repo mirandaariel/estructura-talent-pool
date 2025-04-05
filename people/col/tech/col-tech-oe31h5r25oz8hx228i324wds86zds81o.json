@@ -1,0 +1,183 @@
+{
+    "personal_info": {
+        "first_name": "Víctor",
+        "last_name": "Vargas Diaz",
+        "email": "victor19vargas2018@gmail.com",
+        "phone": "+57 3233812937",
+        "location": {
+            "country": "Colombia",
+            "city": "San Bernardo del Viento",
+            "state": "Córdoba"
+        },
+        "linkedin": "",
+        "website": "https://github.com/190799-vargas",
+        "portfolio": "",
+        "summary": "Soy VÍCTOR ALFONSO VARGAS DIAZ, me considero una persona capaz de ejercer diferentes cargos tanto individual como en equipo, por lo tanto, soy tolerante amigable de muy buenas ideas, me gusta ser competente, innovador y también desarrollo las habilidades comunicativas. He trabajado desarrollando el cargo de Analista de datos y de ciberseguridad, Soporte Usuario Final, he participado en diferentes proyectos de Programación Front-end y Back-end, en el campo del Desarrollo web, he logrado participar en el desarrollo de aplicaciones avanzadas y CRUD con ReactJS con sus tecnologías, NodeJS con sus tecnologías y MySQL, he programado varias APIs con varios Frameworks. Todas estas prácticas y experiencias, en mi campo de Desarrollo, me hacen un desarrollador fuerte, con conocimientos amplios y con ganas de descubrir nuevas tecnologías de desarrollo para estar en constante actualización en este campo de la tecnología. Por último, pero no menos importante, tengo conocimiento en configuración de redes, protocolos de redes y subredes, enrutamiento estático y dinámico y además cuento con dominio en las herramientas Ofimáticas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Ingeniero de Análisis de Datos",
+            "company": "INCUBAAP Proyecto CONCERT PLAZA",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Investigación de APIs para la petición de la información requerida.",
+                "Recolección, limpieza, organización y unificación de código para la información requerida.",
+                "Diseño e implementación de todos los datos recolectados para ser analizados.",
+                "Visualización de datos extraídos y analizados, verificar el correcto análisis para luego presentarse al grupo del proyecto y compartir ideas.",
+                "Ayudar en la toma de decisiones con base en los datos que se tienen y sus patrones de tendencia."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista Junior de Ciberseguridad",
+            "company": "TODO EN ELECTRO JOSÉ",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Revisión diariamente de todos los equipos de cómputo de la empresa.",
+                "Identificar los factores o razones que alteran o disminuyen el funcionamiento del computador en revisión.",
+                "Tomar medida y acción para evitar fuga o perdida de datos mediante herramientas que identifican las vulnerabilidades del computador.",
+                "Mantener activos consolas antivirus y demás autenticaciones para hacer más segura la máquina.",
+                "Presentar reporte de cada uno de los equipos de cómputo para que la empresa esté informada de lo que pasa en los equipos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero de Sistemas",
+            "institution": "Universidad de Córdoba",
+            "location": "Córdoba, Colombia",
+            "start_date": "2011-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomado en desarrollo avanzado de aplicaciones web y en la nube",
+            "institution": "Universidad de Córdoba",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "reactjs",
+                "nodejs",
+                "express",
+                "axios",
+                "sequelize",
+                "quarkus",
+                "bootstrap",
+                "tailwind",
+                "jwt",
+                "python",
+                "java",
+                "javascript",
+                "html",
+                "css",
+                "mysql",
+                "postgresql",
+                "sql",
+                "mongodb",
+                "pandas",
+                "matplotlib",
+                "numpy",
+                "seaborn",
+                "csv",
+                "excel",
+                "jupyter",
+                "google-collab",
+                "power-bi",
+                "linux",
+                "windows",
+                "scrapy",
+                "git",
+                "kali-linux",
+                "burp-suite",
+                "cisco-packet-tracer"
+            ],
+            "soft": [
+                "disciplina",
+                "comunicación",
+                "trabajo-en-equipo",
+                "perseverancia",
+                "adaptación",
+                "liderazgo",
+                "proactividad",
+                "versatilidad",
+                "resiliencia",
+                "empatía",
+                "innovación",
+                "analítica"
+            ],
+            "tools": [
+                "github",
+                "postman",
+                "docker"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Curso Ciberseguridad",
+            "issuing_organization": "MinTIC y la Universidad Distrital Francisco José de Caldas",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso Analista de Datos con Python",
+            "issuing_organization": "FreeCodeCamp",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso Desarrollo web con ReactJS y NodeJS",
+            "issuing_organization": "Udemy, Youtube, Documentos Web",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Bueno"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Angel Darío Pinto Mangones",
+            "relationship": "Director del Doctorado en Tecnologías de la Información",
+            "contact": "+57 3137447400"
+        },
+        {
+            "name": "Jesús David Villadiego Arteaga",
+            "relationship": "Administrador industrial",
+            "contact": "+57 3015741642"
+        },
+        {
+            "name": "Ana Victoria Hernández Ochoa",
+            "relationship": "Auxiliar de Cocina",
+            "contact": "+57 3206428557"
+        }
+    ]
+}

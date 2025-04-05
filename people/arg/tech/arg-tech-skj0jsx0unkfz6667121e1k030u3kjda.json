@@ -1,0 +1,112 @@
+{
+    "personal_info": {
+        "first_name": "Valentin",
+        "last_name": "Maneiro",
+        "email": "valenmaneiro10@gmail.com",
+        "phone": "+541130990779",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/valentin-maneiro-7088b9224",
+        "website": "https://github.com/valenmaneiro",
+        "portfolio": "",
+        "summary": "Estudiante de informática en busca de sus primeros pasos dentro del mundo laboral de las tecnologías de la información. Interés especial en la programación backend y análisis de datos pero que no se cierra a diversas oportunidades. Siempre en búsqueda de nuevos conocimientos y desarrollo personal."
+    },
+    "work_experience": [
+        {
+            "job_title": "Encargado de revisionar scripts",
+            "company": "EY",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Revisionar scripts de sistemas operativos Windows/Linux y de bases de datos SQL/Oracle en busca de riesgos de brecha de seguridad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Informática",
+            "institution": "Universidad Nacional de Quilmes",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en Informática",
+            "institution": "Universidad Abierta Interamericana",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Ciencias Sociales",
+            "institution": "Instituto Proyeccion XXI",
+            "location": "",
+            "start_date": "2011-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "django",
+                "pandas/numpy",
+                "seaborn/matplotlib",
+                "scikit-learn",
+                "programacion-c",
+                "bases-de-datos",
+                "sql",
+                "oracle"
+            ],
+            "soft": [],
+            "tools": [
+                "paquete-office",
+                "windows/linux"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Curso de Python",
+            "issuing_organization": "Coder House",
+            "issue_date": "2023-01-01",
+            "expiration_date": "2024-12-31",
+            "credential_id": ""
+        },
+        {
+            "name": "C1 English Level (Anglia Examinations)",
+            "issuing_organization": "The Bridge School",
+            "issue_date": "2012-01-01",
+            "expiration_date": "2019-12-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso Data Science 1; Fundamentos para la Ciencia de Datos",
+            "issuing_organization": "Coder House",
+            "issue_date": "2024-01-01",
+            "expiration_date": "2024-12-31",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "C1 Level"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

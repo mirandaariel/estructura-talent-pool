@@ -1,0 +1,136 @@
+{
+  "personal_info": {
+    "first_name": "Pablo Agustin",
+    "last_name": "Guerreño",
+    "email": "guerre.pablo.agustin@gmail.com",
+    "phone": "3765365116",
+    "location": {
+      "country": "Argentina",
+      "city": "Posadas",
+      "state": "Misiones"
+    },
+    "linkedin": "https://www.linkedin.com/in/guerre-pablo-agustin/",
+    "website": "",
+    "portfolio": "",
+    "summary": "Técnico Superior en Programación y Análisis de Sistemas con experiencia como Desarrollador Full Stack, especializado en Frontend. Trabajado con tecnologías como React.js, Next.js, y Node.js, desarrollando soluciones eficientes y de alta calidad que optimizan la experiencia del usuario."
+  },
+  "work_experience": [
+    {
+      "job_title": "Freelancer",
+      "company": "Portfolio",
+      "location": "",
+      "start_date": "2022-01-01",
+      "end_date": "2023-12-31",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollo de aplicaciones web usando React.js, Next.js, Tailwind CSS, Node.js y MongoDB.",
+        "Implementación de sistemas de autenticación, gestión de usuarios y bases de datos.",
+        "Diseño de interfaces responsive, asegurando una experiencia de usuario intuitiva y atractiva.",
+        "Desarrollo de aplicaciones con funcionalidades avanzadas como manejo de estados y rutas protegidas."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Vendedor",
+      "company": "Local 13, Terminal de ómnibus de Posadas",
+      "location": "Posadas, Misiones",
+      "start_date": "2017-01-01",
+      "end_date": "2018-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Venta de pasajes para viajes de larga distancia.",
+        "Envío de encomiendas."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Capacitación Calílegua",
+      "institution": "",
+      "location": "",
+      "start_date": "2024-01-01",
+      "end_date": "2024-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Bootcamp Programador Full Stack",
+      "institution": "Henry",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Técnico Superior en Programación y Análisis de Sistemas",
+      "institution": "INCADE",
+      "location": "",
+      "start_date": "2019-01-01",
+      "end_date": "2022-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "javascript",
+        "typescript",
+        "html",
+        "css",
+        "react.js",
+        "next.js",
+        "vite",
+        "node.js",
+        "mysql",
+        "postgresql",
+        "mongodb"
+      ],
+      "soft": [
+        "problem-solving",
+        "teamwork",
+        "self-learning"
+      ],
+      "tools": [
+        "tailwind-css",
+        "bootstrap",
+        "git",
+        "slack",
+        "scrum"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Ecowood",
+      "description": "Proyecto de Ecommerce para la venta de productos artesanales de madera.",
+      "technologies": ["react.js", "tailwind-css", "localStorage", "paypal"],
+      "url": ""
+    },
+    {
+      "name": "App de Tareas con Tablero Kanban",
+      "description": "Aplicación de tareas con diseño y funcionalidad avanzados.",
+      "technologies": ["next.js", "zustand", "tailwind-css"],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "B2 (Lectura y escritura técnica)"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

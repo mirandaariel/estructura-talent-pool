@@ -1,0 +1,102 @@
+{
+    "personal_info": {
+        "first_name": "Orbet",
+        "last_name": "Lozada",
+        "email": "orbetjose@gmail.com",
+        "phone": "+573147907482",
+        "location": {
+            "country": "Colombia",
+            "city": "Medellín",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/orbet-lozada",
+        "website": "",
+        "portfolio": "",
+        "summary": "Más de 3 años de experiencia como Desarrollador Web. Actualmente formo parte del equipo que gestiona y desarrolla componentes web para el portal Claro Colombia, también me encargo de dar solución a problemas/propuestas que el equipo nos comparte. Conocimiento en tecnologías web modernas como HTML, CSS, Javascript y frameworks como React, Next.js y Tailwind."
+    },
+    "work_experience": [
+        {
+            "job_title": "Webmaster",
+            "company": "Havas Media Colombia",
+            "location": "Medellín, Colombia",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé componentes web utilizando Javascript para complementar la funcionalidad de diversas interfaces web.",
+                "Colaboré en la optimización y tiempos de carga del portal, optimizando el código Javascript existente y creando nuevos componentes con mayor reutilización.",
+                "Mejoré la estructuración de código del 70% de las secciones productivas del portal.",
+                "Participé en la optimización de código CSS del portal implementando el concepto de clases utilities.",
+                "Aporté soluciones pioneras como usar Ship/Show/Ask como estrategia de trabajo en GitHub, el uso de Rust para acelerar las compilaciones, paralelizar trabajos en CI para el ahorro de tiempo y costes además de explorar soluciones en AWS para una mejorar escalabilidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web Freelance",
+            "company": "Agencia Iccana",
+            "location": "Medellín, Colombia",
+            "start_date": "2020-07-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé proyectos web integrando Wordpress como Headless CMS, priorizando la optimización de código y SEO saludable evitando el uso de plugins.",
+                "Implementé diversas librerías como animXYZ, animate, owl carousel, entre otras. Para cumplir los requerimientos gráficos e interactivos.",
+                "Optimicé código CSS y Javascript de proyectos Wordpress con temas ya predefinidos, utilizando Lighthouse como escáner de rendimiento."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Fullcontact Publicidad",
+            "location": "Lima, Perú",
+            "start_date": "2019-08-01",
+            "end_date": "2021-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestioné y administré sitios web en Wordpress priorizando el tamaño de los recursos que se cargaban al portal.",
+                "Colaboré en mantenimiento y optimización de código PHP de numerosos proyectos web.",
+                "Participé en el equipo de maquetación de HTML para campañas de correo electrónico."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Informática",
+            "institution": "Universidad Marítima del Caribe",
+            "location": "Caracas, Venezuela",
+            "start_date": "2016-09-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["html", "css", "javascript", "react", "next.js", "tailwind"],
+            "soft": ["adaptability", "teamwork", "commitment"],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Basic"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

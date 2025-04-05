@@ -1,0 +1,171 @@
+{
+  "personal_info": {
+    "first_name": "Randy",
+    "last_name": "León Charinga",
+    "email": "rcharinwolf@gmail.com",
+    "phone": "+54 9 1134852313",
+    "location": {
+      "country": "Argentina",
+      "city": "Morón",
+      "state": "Buenos Aires"
+    },
+    "linkedin": "",
+    "website": "",
+    "portfolio": "",
+    "summary": "Desarrollador Full Stack con formación en React.js, Node.js, Angular y Nest.js. Apasionado por la creación de aplicaciones web eficientes y escalables, con experiencia en proyectos académicos y profesionales que demuestran mi capacidad para trabajar con los stacks MERN (MongoDB, Express, React, Node.js) y MEAN (MongoDB, Express, Angular, Node.js)."
+  },
+  "work_experience": [
+    {
+      "job_title": "Desarrollador Full Stack Freelance",
+      "company": "",
+      "location": "",
+      "start_date": "2022-05-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollo de aplicaciones con el stack MERN, implementando mejores prácticas de desarrollo web.",
+        "Trabajo en diversos proyectos, creando interfaces de usuario dinámicas y responsivas con React.js.",
+        "Implementación de APIs RESTful con Node.js y Express, asegurando una comunicación eficiente entre el front-end y el back-end.",
+        "Uso de MongoDB para la gestión de bases de datos, enfocándome en la integridad y seguridad de los datos.",
+        "Colaboración con clientes para recopilar requisitos y ofrecer soluciones técnicas, garantizando la alineación de los proyectos con los objetivos empresariales.",
+        "Utilización de Git para el control de versiones, manteniendo un código organizado y facilitando la colaboración con otros desarrolladores."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador FrontEnd",
+      "company": "Igrowker",
+      "location": "",
+      "start_date": "2024-09-01",
+      "end_date": "2024-10-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo de una aplicación web que permitiría a los usuarios streamers realizar el pago de impuestos de una manera más fácil.",
+        "Diseño y funcionalidad del módulo 'Register', formulario con Angular 18 para el registro de usuarios.",
+        "Diseño y funcionalidad del módulo 'Login', ingreso de usuarios con correo y password."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador BackEnd",
+      "company": "TrainIT",
+      "location": "",
+      "start_date": "2024-09-01",
+      "end_date": "2024-10-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Diseño y desarrollo de servicios backend con operaciones CRUD para sistemas de gestión de formularios.",
+        "Creación de tablas relacionales utilizando la librería Prisma."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Full Stack Web Developer",
+      "institution": "SoyHenry",
+      "location": "",
+      "start_date": "2021-01-01",
+      "end_date": "2022-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Licenciado en Ciencias Económicas y Sociales",
+      "institution": "Universidad Central de Venezuela",
+      "location": "",
+      "start_date": "2002-01-01",
+      "end_date": "2007-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "",
+      "institution": "Udemy",
+      "location": "",
+      "start_date": "2019-01-01",
+      "end_date": "2023-01-01",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "react.js",
+        "angular.js",
+        "node.js",
+        "html5",
+        "css3",
+        "javascript"
+      ],
+      "soft": [
+        "metodologías-ágiles",
+        "scrum",
+        "comunicación"
+      ],
+      "tools": [
+        "git"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Blog App Angular",
+      "description": "Desarrollé una aplicación web utilizando Angular, que permite a los usuarios registrarse, iniciar sesión y gestionar sus propios artículos mediante operaciones completas de CRUD.",
+      "technologies": ["angular", "typescript", "html5", "css3", "node.js", "mongodb"],
+      "url": ""
+    },
+    {
+      "name": "De Viaje (E-Commerce)",
+      "description": "Desarrollé una aplicación de comercio electrónico que permite a los usuarios registrarse, iniciar sesión y gestionar sus propias compras mediante operaciones completas de CRUD.",
+      "technologies": ["react.js", "express.js", "redux", "node.js", "mui", "bootstrap", "postgresql"],
+      "url": ""
+    },
+    {
+      "name": "Netflix App",
+      "description": "Clon de la interfaz de Netflix que permite a los usuarios poder registrarse, iniciar sesión, agregar y quitar películas de una lista de favoritos.",
+      "technologies": ["react.js", "express.js", "node.js", "mongodb"],
+      "url": ""
+    },
+    {
+      "name": "Blog App",
+      "description": "Desarrollé una aplicación web que permite a los usuarios registrarse, iniciar sesión y gestionar sus propios artículos mediante operaciones completas de CRUD.",
+      "technologies": ["react.js", "express.js", "node.js", "mongodb"],
+      "url": ""
+    },
+    {
+      "name": "YouTube Clone",
+      "description": "Clon de la interfaz de YouTube utilizando React y API de YouTube.",
+      "technologies": ["react.js"],
+      "url": ""
+    },
+    {
+      "name": "Weather App",
+      "description": "Aplicación de clima utilizandon React.js y APIs externas.",
+      "technologies": ["react.js"],
+      "url": ""
+    },
+    {
+      "name": "Luxury Project",
+      "description": "Trabajé en el desarrollo de un sitio web de lujo utilizando HTML, CSS3 y Bootstrap.",
+      "technologies": ["html", "css3", "bootstrap"],
+      "url": ""
+    },
+    {
+      "name": "Bootstrap Project",
+      "description": "Desarrollé una página web utilizando HTML y Bootstrap para la estructura y el diseño.",
+      "technologies": ["html", "bootstrap"],
+      "url": ""
+    }
+  ],
+  "languages": [],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

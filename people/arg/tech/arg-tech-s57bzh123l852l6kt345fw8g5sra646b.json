@@ -1,0 +1,105 @@
+{
+    "personal_info": {
+        "first_name": "Reyna Oriana",
+        "last_name": "Contreras Casanova",
+        "email": "reynaocontrerasc@gmail.com",
+        "phone": "+58 414 5601337",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/reyna-contreras-da/",
+        "website": "https://github.com/reynacon-git",
+        "portfolio": "",
+        "summary": "Mi pasión por el Business Intelligence, sumada a mi formación en Psicología, me permite ofrecer una perspectiva única en el análisis de datos. Me enfoco en comprender a profundidad las necesidades y preferencias de los consumidores para diseñar soluciones de datos que generen un verdadero impacto en el negocio. Mi objetivo es construir puentes entre los datos y las personas."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Data Analyst",
+            "institution": "TripleTen (Bootcamp)",
+            "location": "Online",
+            "start_date": "2024-05-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Psicología",
+            "institution": "",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2019-04-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "pandas",
+                "plotly",
+                "seaborn",
+                "matplotlib",
+                "numpy",
+                "streamlit",
+                "tableau",
+                "dash",
+                "power-bi",
+                "sql",
+                "machine-learning",
+                "sci-kit-learn",
+                "google-sheets",
+                "excel",
+                "spss-software",
+                "html",
+                "css",
+                "pruebas-a/b"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "proactividad",
+                "atención-al-detalle",
+                "iniciativa",
+                "honestidad",
+                "puntualidad",
+                "comunicación-asertiva",
+                "resolución-de-problemas",
+                "estratega",
+                "gestión-de-tiempo",
+                "flexibilidad",
+                "pensamiento-crítico"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "CallMeMaybe",
+            "description": "Identifiqué operadores ineficientes para un call center. Plan de acción para la mejora de rendimiento de los operadores. Creación de un dashboard interactivo en Tableau para visualizar los resultados.",
+            "technologies": ["numpy", "pandas", "seaborn", "matplotlib", "scipy", "tableau"],
+            "url": ""
+        },
+        {
+            "name": "Showz",
+            "description": "Analicé los datos para optimizar los gastos de marketing y obtuve patrón de consumo de los clientes.",
+            "technologies": ["pandas", "numpy", "seaborn", "matplotlib"],
+            "url": ""
+        },
+        {
+            "name": "Tienda Online",
+            "description": "Apliqué frameworks (ICE, RICE) para un listado de hipótesis. Analicé resultados de una prueba A/B y realicé recomendaciones basadas en datos.",
+            "technologies": ["pandas", "numpy", "matplotlib", "seaborn", "scipy"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

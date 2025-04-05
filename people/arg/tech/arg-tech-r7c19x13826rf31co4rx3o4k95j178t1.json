@@ -1,0 +1,152 @@
+{
+    "personal_info": {
+        "first_name": "Kevin",
+        "last_name": "Mamani Capuma",
+        "email": "kevin72309@gmail.com",
+        "phone": "+54 9 1133660190",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": "C.A.B.A"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador web Full Stack con un enfoque en la calidad y mantenibilidad del código para llegar a soluciones eficientes y escalables. Como un apasionado por el aprendizaje constante, poseo una gran autonomía y, a la vez, disfruto del valor que aporta la colaboración en equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador web Full Stack",
+            "company": "FisiomFulness",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "2024-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Construcción de la API, garantizando su seguridad implementando validaciones, autenticación y autorización basado en roles con middlewares.",
+                "Implementar vistas responsivas siguiendo los diseños del Figma, utilizando TailwindCSS/NextUI y aplicando la metodología mobile-first.",
+                "Integrar diferentes secciones del front-end con la base de datos MongoDB / Mongoose.",
+                "Contribuí activamente en un equipo multidisciplinario, implementando prácticas ágiles como reuniones diarias, revisiones de código y cumpliendo con entregas predefinidas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador web Full Stack",
+            "company": "SportZone",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "2023-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Contribuir en el desarrollo y optimización de la API RESTful.",
+                "Construir los distintos formularios de creación/edición y el carrito de compras.",
+                "Integrar Cloudinary como servicio en la nube para la carga de imágenes.",
+                "Implementar la autenticación de terceros a través de Google utilizando Firebase.",
+                "Desarrollar diferentes secciones en el panel de administrador y la barra de búsqueda avanzada."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador web Frontend",
+            "company": "GameDex",
+            "location": "",
+            "start_date": "2023-06-01",
+            "end_date": "2023-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Integrar una API de terceros para obtener y mostrar información fiable y segura.",
+                "Diseñar y desarrollar el cliente totalmente responsivo, utilizando tecnologías como: Figma, JavaScript, React y CSS Modules.",
+                "Implementar un manejador de estado como Redux para aplicar filtros y ordenamiento."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Informática",
+            "institution": "Universidad Nacional de La Matanza",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Web Full Stack",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2023-08-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Superior en Programación (Incompleto)",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2021-08-01",
+            "end_date": "2023-06-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "c",
+                "react.js",
+                "next.js",
+                "nextauth",
+                "redux",
+                "tailwindcss",
+                "node.js",
+                "express.js",
+                "sequelize",
+                "mongoose",
+                "socket.io",
+                "jwt",
+                "bcrypt",
+                "formik",
+                "zod",
+                "postgresql",
+                "mongodb"
+            ],
+            "soft": [
+                "autonomía",
+                "colaboración",
+                "aprendizaje-constante"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "postman",
+                "figma",
+                "slack",
+                "trello",
+                "vscode",
+                "eclipse",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

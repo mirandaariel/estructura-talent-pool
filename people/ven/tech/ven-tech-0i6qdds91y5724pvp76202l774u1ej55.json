@@ -1,0 +1,112 @@
+{
+    "personal_info": {
+        "first_name": "Ricardo",
+        "last_name": "Iriarte",
+        "email": "reiriartef@gmail.com",
+        "phone": "+584120665122",
+        "location": {
+            "country": "Venezuela",
+            "city": "Maracaibo",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "https://github.com/reiriartef",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador de Software",
+            "company": "Palacio de Justicia, TSJ",
+            "location": "Maracaibo, VE",
+            "start_date": "2022-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Mantenimiento de aplicaciones existentes basadas en Java, VB, PHP como sus bases de datos en MS SQL Server.",
+                "Diseño e implementación de soluciones como Gestor de Servicios Administrativos, Aplicación Móvil para controlar los casos del departamento de IT, Sistema de Encuestas para la captación de datos de interés administrativo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Informática",
+            "institution": "Universidad Privada Dr. Rafael Belloso Chacin",
+            "location": "Maracaibo, VE",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "python",
+                "dart",
+                "c++",
+                "java",
+                "c#",
+                "express",
+                "nestjs",
+                "react",
+                "react-native",
+                "flask",
+                "django",
+                "flutter",
+                "postgresql",
+                "mysql",
+                "ms-sql-server",
+                "mongodb"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "postman",
+                "scrum",
+                "kanban"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sistema de Gestión de Inmuebles",
+            "description": "Proyecto desarrollado como parte de la evaluación final de la materia Bases de Datos I, implementando un patrón modular.",
+            "technologies": ["react", "tailwindcss", "expressjs", "postgresql"],
+            "url": ""
+        },
+        {
+            "name": "Sistema de Gestión de Ventas",
+            "description": "Aplicación móvil desarrollada como freelancer para llevar el registro de Clientes, Empleados, Compras, Ventas e Inventario.",
+            "technologies": ["react-native", "nestjs", "mysql"],
+            "url": ""
+        },
+        {
+            "name": "Aplicación Móvil Fitness",
+            "description": "Proyecto personal en desarrollo, solución para entrenadores personales que atienden clientes de manera remota.",
+            "technologies": ["flutter", "nestjs", "postgresql"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Advanced"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

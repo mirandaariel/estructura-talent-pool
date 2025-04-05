@@ -1,0 +1,142 @@
+{
+  "personal_info": {
+    "first_name": "Patricio",
+    "last_name": "Veras Carrara",
+    "email": "patricioverasc@gmail.com",
+    "phone": "",
+    "location": {
+      "country": "Argentina",
+      "city": "Córdoba Capital",
+      "state": "Córdoba"
+    },
+    "linkedin": "https://www.linkedin.com/in/patricio-veras",
+    "website": "https://github.com/patoveras7",
+    "portfolio": "",
+    "summary": "Soy un Abogado y ex-tenista apasionado por el increible mundo IT, habiéndome especializado en el Desarrollo Web y en constante formación. Estoy graduado y experimentado en una gran cantidad de rubros, lo cual refleja mi responsabilidad, disciplina y optimismo al aprender nuevas habilidades y desenvolverme laboralmente."
+  },
+  "work_experience": [
+    {
+      "job_title": "Full Stack Developer (pasante)",
+      "company": "FisioThera",
+      "location": "Perú",
+      "start_date": "2024-12-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollo Full Stack del proyecto Fullness: Un sitio web interactivo que ofrece servicios de medicina no farmacológica.",
+        "Frontend: JavaScript, React, Next, Tailwind.",
+        "Backend y Base de datos: Node Js., Express, MongoDB, Mongoose."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Secretario de Actuaciones Sumariales",
+      "company": "Poder Judicial de la Provincia de Córdoba",
+      "location": "Córdoba, Argentina",
+      "start_date": "2020-08-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Instrucción general de causas penales desde la recepción inicial de prueba hasta elevaciones a juicio."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "JAVA Back-End Developer",
+      "institution": "Soy Henry",
+      "location": "",
+      "start_date": "2025-01-01",
+      "end_date": "2025-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Full Stack Web Developer",
+      "institution": "Alura Latam – Oracle Next Education",
+      "location": "",
+      "start_date": "2025-01-01",
+      "end_date": "2025-12-31",
+      "hours": 400
+    },
+    {
+      "degree": "Full Stack Web Developer",
+      "institution": "Soy Henry Bootcamp",
+      "location": "",
+      "start_date": "2024-01-01",
+      "end_date": "2024-12-31",
+      "hours": 800
+    },
+    {
+      "degree": "Desarrollo Web Back-End con Node Js",
+      "institution": "Universidad Tecnológica Nacional",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Escribano",
+      "institution": "Universidad Siglo XXI",
+      "location": "",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Abogado",
+      "institution": "Universidad Nacional de Córdoba",
+      "location": "",
+      "start_date": "2013-01-01",
+      "end_date": "2021-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "java",
+        "javascript",
+        "react",
+        "next",
+        "tailwind-css",
+        "mongodb",
+        "mongoose",
+        "postgre"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {}
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Rompiendo Barreras",
+      "description": "Plataforma destinada a la enseñanza de todo tipo de idiomas conforme a la necesidad del usuario.",
+      "technologies": ["javascript", "typescript", "react", "next", "tailwind", "node-js", "express", "nest", "postgresql"],
+      "url": ""
+    },
+    {
+      "name": "AppleBe",
+      "description": "Sitio e-commerce destinado a la venta de dispositivos electrónicos centrado en productos Apple.",
+      "technologies": ["javascript", "typescript", "react", "next", "tailwind", "node-js", "express", "postgresql"],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "B2 UPPER INTERMEDIATE"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

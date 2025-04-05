@@ -1,0 +1,149 @@
+{
+    "personal_info": {
+        "first_name": "Augusto",
+        "last_name": "Riquelme",
+        "email": "augusto.nicolas.riquelme@gmail.com",
+        "phone": "261-363-0952",
+        "location": {
+            "country": "Argentina",
+            "city": "Mendoza",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/augusto-riquelme-6801b0289/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy una persona responsable, disciplinada y comprometida con el logro de mis objetivos. Tengo habilidades para colaborar eficazmente en equipo y me motiva aprender continuamente nuevas tecnologías."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Web",
+            "company": "UTN Mendoza",
+            "location": "Mendoza",
+            "start_date": "2023-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Modificación y actualización de la página de gestión tecnológica según los requerimientos.",
+                "Implementación de cambios utilizando HTML, CSS, Python y Django.",
+                "Colaboración con el equipo académico y administrativo para garantizar funcionalidad y accesibilidad.",
+                "Optimización de la experiencia de usuario y mejoras en diseño y rendimiento del sitio web."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Front-End",
+            "company": "Proyecto E-commerce Universitario",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de un e-commerce para una tienda de comida rápida ficticia.",
+                "Implementación de inicio de sesión, procesamiento de pagos y visualización de pedidos.",
+                "Contribución al diseño e interacción de la sección de administrador.",
+                "Desarrollo de la interfaz de usuario utilizando HTML, CSS y JavaScript."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador de Sistemas Automatizados",
+            "company": "Mendoza Futura",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboración en el diseño y construcción de un invernadero automatizado.",
+                "Desarrollo de un sistema basado en Arduino con un sensor de humedad.",
+                "Programación de respuestas automáticas para el manejo de cultivos.",
+                "Implementación de soluciones para mejorar la eficiencia en entornos controlados."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Profesor Particular de Python",
+            "company": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Impartición de clases presenciales y personalizadas en programación básica con Python.",
+                "Adaptación del contenido a las necesidades de aprendizaje de una persona adulta.",
+                "Introducción a variables, estructuras de control, funciones y manipulación de datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "UTN FRM",
+            "location": "Mendoza",
+            "start_date": "2023-08-01",
+            "end_date": "2025-08-01",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "Escuela De programación - Municipalidad de Godoy Cruz",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "javascript",
+                "python",
+                "arduino",
+                "html",
+                "css",
+                "java",
+                "wordpress",
+                "github",
+                "git"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "dedicado",
+                "responsable",
+                "proactivo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

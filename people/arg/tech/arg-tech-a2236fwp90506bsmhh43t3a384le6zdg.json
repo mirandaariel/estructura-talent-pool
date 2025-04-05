@@ -1,0 +1,121 @@
+{
+    "personal_info": {
+        "first_name": "Facundo",
+        "last_name": "Ramirez",
+        "email": "ramirezfacundoe@hotmail.com",
+        "phone": "+54 911 6118 8415",
+        "location": {
+            "country": "Argentina",
+            "city": "San Isidro",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full Stack Developer with experience in mobile and web application development using React Native, Expo.js, and React.js."
+    },
+    "work_experience": [
+        {
+            "job_title": "Intern",
+            "company": "No Country",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed mobile applications using React Native and Expo.js.",
+                "Created web applications using React.js.",
+                "Utilized web design frameworks like Bootstrap and Tailwind.",
+                "Managed states with libraries like Zustand and Redux.",
+                "Implemented security architectures with JWT interceptors.",
+                "Configured and connected REST API developed by Backend with various tools.",
+                "Created scalable and reusable Hooks and components.",
+                "Handled errors and exceptions to notify users about issues.",
+                "Implemented UX/UI designs."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnico Universitario en Programacion",
+            "institution": "Universidad Tecnologica Nacional",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Java - Cero a Experto",
+            "institution": "Udemy",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "",
+            "hours": 150
+        },
+        {
+            "degree": "Carrera de Ingenieria en Informatica",
+            "institution": "UBA",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-10-31",
+            "hours": 0
+        },
+        {
+            "degree": "Carrera de Desarrollo Frontend React",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2022-03-01",
+            "end_date": "2023-01-31",
+            "hours": 0
+        },
+        {
+            "degree": "Professional Front End Developer",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2021-07-01",
+            "end_date": "2022-02-28",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react-native",
+                "expo.js",
+                "react.js",
+                "bootstrap",
+                "tailwind",
+                "zustand",
+                "redux",
+                "jwt"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Servicio de Acortamiento de URLs",
+            "description": "Desarrollo de API REST utilizando JDBC para conexión a bases de datos SQL y ORM con Hibernate.",
+            "technologies": ["jdbc", "sql", "hibernate", "spring"],
+            "url": ""
+        },
+        {
+            "name": "Sistema de Gestion de Clientes",
+            "description": "Software informático para Windows/Linux para gimnasios utilizando MVC y Swing.",
+            "technologies": ["mvc", "swing", "relational databases"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

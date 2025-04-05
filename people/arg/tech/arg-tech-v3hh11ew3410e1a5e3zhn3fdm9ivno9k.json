@@ -1,0 +1,116 @@
+{
+    "personal_info": {
+        "first_name": "José",
+        "last_name": "Ajuriagogeascoa D'Amico",
+        "email": "joseajuriagogeascoa@gmail.com",
+        "phone": "+54 11 67934543",
+        "location": {
+            "country": "Argentina",
+            "city": "Benavidez",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/joseajuriagogeascoa/",
+        "website": "https://www.github.com/Joseajuria00",
+        "portfolio": "",
+        "summary": "Técnico superior en desarrollo de software con sólidos conocimientos en Backend. Busco desarrollar mi carrera contribuyendo con mis habilidades en JAVA, diseño de software y gestión de bases de datos, entre otras. Entusiasmado por aplicar mis conocimientos en un entorno profesional, contribuir a proyectos desafiantes y seguir aprendiendo y creciendo dentro de esta área."
+    },
+    "work_experience": [
+        {
+            "job_title": "Front of House",
+            "company": "Vail Resorts",
+            "location": "Breckenridge, Colorado, USA",
+            "start_date": "2023-12-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Mozo, host, cajero y otros relacionados con atención al cliente.",
+                "Destacado por trabajo en equipo, manejo del idioma inglés en situaciones de alta demanda y presión."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Superior en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "Benavidez, Buenos Aires",
+            "start_date": "2022-07-01",
+            "end_date": "2024-07-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Industrial",
+            "institution": "Universidad de Buenos Aires",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2020-03-01",
+            "end_date": "2022-06-30",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Exactas con Proyecto Bilingüe",
+            "institution": "Colegio Los Molinos",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2008-03-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "javascript",
+                "c++",
+                "c#",
+                "html",
+                "css",
+                "spring",
+                "node.js",
+                "react.js",
+                "mysql",
+                "postgresql",
+                "firebase"
+            ],
+            "soft": [],
+            "tools": [
+                "spring-boot",
+                "spring-security",
+                "postman",
+                "git",
+                "github",
+                "hibernate",
+                "scrum"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Curso de Full Stack Node JS",
+            "description": "Desarrollo de una página web para una tienda de Funkos.",
+            "technologies": ["html", "css", "bootstrap", "javascript", "git", "databases", "node.js"],
+            "url": ""
+        },
+        {
+            "name": "Especialización en React",
+            "description": "Desarrollo de una página web de Recetas utilizando React JS y Firebase.",
+            "technologies": ["react.js", "firebase"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio/Alto"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

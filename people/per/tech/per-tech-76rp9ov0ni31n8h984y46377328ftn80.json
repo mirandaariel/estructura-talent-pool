@@ -1,0 +1,169 @@
+{
+  "personal_info": {
+    "first_name": "Renzo",
+    "last_name": "Benites Alvarado",
+    "email": "alrrebe@gmail.com",
+    "phone": "+51 941 312 876",
+    "location": {
+      "country": "Perú",
+      "city": "San Miguel",
+      "state": "Lima"
+    },
+    "linkedin": "https://www.linkedin.com/in/renzo-benites-alvarado-85860b245/",
+    "website": "",
+    "portfolio": "https://github.com/NeoPuzzle",
+    "summary": "Desarrollador Full Stack con experiencia en desarrollo de aplicaciones web y móviles, especializado en JavaScript, TypeScript, React, NestJS y Kotlin. He trabajado en el diseño e implementación de ERPs y plataformas bancarias, optimizando procesos y garantizando alta calidad mediante pruebas automatizadas (Jest, Playwright) y despliegues con Docker."
+  },
+  "work_experience": [
+    {
+      "job_title": "Dev Fullstack Web Jr",
+      "company": "Maxillaris, Laboratorio Dental",
+      "location": "Perú",
+      "start_date": "2024-11-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollo de un ERP administrativo con React (frontend) y NestJS, Express, PostgreSQL y MongoDB (backend).",
+        "Implementación de WebSocket para actualización en tiempo real en sistemas de citas y notificaciones.",
+        "Uso de Docker y pruebas automatizadas (Jest, Playwright) para mejorar estabilidad.",
+        "Optimización de procesos internos y eficiencia operativa de la clínica."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Junior Android Engineer",
+      "company": "NTTDATA SAC",
+      "location": "Perú",
+      "start_date": "2022-06-01",
+      "end_date": "2024-01-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo y mantenimiento de funcionalidades en aplicaciones de banca móvil con Java y Kotlin (Android SDK).",
+        "Corrección de errores y soporte técnico siguiendo buenas prácticas de arquitectura y seguridad.",
+        "Colaboración con equipos multidisciplinarios para garantizar integración y calidad en plataformas bancarias."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Operador NOC",
+      "company": "Fiberlux SAC",
+      "location": "Perú",
+      "start_date": "2018-08-01",
+      "end_date": "2022-05-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Monitoreo de redes a nivel nacional con PRTG, asegurando estabilidad del servicio.",
+        "Diagnóstico y resolución de incidencias en redes LAN, WAN y GAN.",
+        "Configuración de redes según requerimientos de clientes, optimizando rendimiento y seguridad."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Asistente TI",
+      "company": "DHEMPRESAS (CasaIdeas)",
+      "location": "Perú",
+      "start_date": "2015-01-01",
+      "end_date": "2017-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Soporte y capacitación a usuarios en tecnologías de la información.",
+        "Participación en la implementación de nuevos proyectos TI y aperturas de sucursales."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Full Stack Web Development",
+      "institution": "Henry",
+      "location": "",
+      "start_date": "2024-01-01",
+      "end_date": "2024-06-30",
+      "hours": 0
+    },
+    {
+      "degree": "Front-End Mobile Dev. Android Intermedio",
+      "institution": "Udemy",
+      "location": "",
+      "start_date": "2023-05-01",
+      "end_date": "2023-08-31",
+      "hours": 0
+    },
+    {
+      "degree": "Front-End Mobile Dev. Android",
+      "institution": "Bootcamp NTTDATA",
+      "location": "",
+      "start_date": "2022-06-01",
+      "end_date": "2022-09-30",
+      "hours": 0
+    },
+    {
+      "degree": "Técnico en Redes y Telecomunicaciones",
+      "institution": "CIBERTEC",
+      "location": "",
+      "start_date": "2017-03-01",
+      "end_date": "2017-03-01",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "javascript-(es6+)",
+        "typescript",
+        "kotlin",
+        "java",
+        "react",
+        "nestjs",
+        "node.js",
+        "express",
+        "postgresql",
+        "mongodb",
+        "typeorm",
+        "firebase",
+        "websocket"
+      ],
+      "soft": [
+        "comunicación-efectiva",
+        "trabajo-en-equipo",
+        "resolución-de-problemas",
+        "aprendizaje-rápido"
+      ],
+      "tools": [
+        "git",
+        "docker",
+        "jest",
+        "playwright",
+        "agile-(jira)",
+        "solid-principles"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Intermedio"
+    },
+    {
+      "language": "Alemán",
+      "proficiency": "Básico"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

@@ -1,0 +1,150 @@
+{
+  "personal_info": {
+    "first_name": "Marcos",
+    "last_name": "Riarte",
+    "email": "mriarte@fi.uba.ar",
+    "phone": "+5481126329053",
+    "location": {
+      "country": "Argentina",
+      "city": "Merlo",
+      "state": "Buenos Aires"
+    },
+    "linkedin": "https://linkedin.com/in/roberto-riarte-704a541ba",
+    "website": "",
+    "portfolio": "",
+    "summary": "Soy una persona responsable y dinámica. Proactivo, con buen desempeño trabajando bajo presión. Tengo habilidad para el trabajo en equipo y la búsqueda de resultados. Busco incorporarme a una empresa que me permita seguir creciendo y aportar mis conocimientos para alcanzar los objetivos fijados. Soy vegetariano y trabajo con responsabilidad con el medio ambiente y los espacios de trabajo."
+  },
+  "work_experience": [
+    {
+      "job_title": "Full Stack Developer",
+      "company": "ITR-Cliente COMAFI",
+      "location": "C.A.B.A.",
+      "start_date": "2024-03-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollador Full Stack con amplia experiencia en Java 1.7, JSP, Spring y Hibernate, especializado en la creación de interfaces dinámicas con JavaServer Faces (JSF).",
+        "Gestión de bases de datos SQL utilizando DbVisualizer, optimizando la interacción y persistencia de datos.",
+        "Dominio del entorno de desarrollo Eclipse Luna, facilitando la escritura, depuración y mantenimiento de código eficiente y de alta calidad.",
+        "Habilidad para coordinar proyectos y flujos de trabajo mediante Trello, mejorando la colaboración y seguimiento de tareas en equipos de desarrollo.",
+        "Uso sistemas de control de versiones con SVN y uso de redes privadas virtuales (VPN)."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Full Stack Developer",
+      "company": "ITR-Cliente NAPSE GLOBAL",
+      "location": "C.A.B.A.",
+      "start_date": "2022-07-01",
+      "end_date": "2024-03-01",
+      "currently_working": false,
+      "responsibilities": [
+        "Full Stack Developer especializado en Java/Grails (3.x, 2.x), GSP, NodeJS, TypeScript, JavaScript, CSS, HTML5, JQuery, con experiencia en bases de datos Microsoft SQL, Mongo (4.0, 3.5), Oracle SQL y herramientas de integración continua como RabbitMQ, Jenkins, SVN y GitHub.",
+        "Uso de VPN (FortiClient), y manejo de metodologías ágiles con Jira, Kanban y Microsoft Teams.",
+        "Desarrollo y mantenimiento (bug fixing) para 23 verticales y 3 productos clave (Bridge API, Bridge Manager, Promo), utilizando herramientas de desarrollo como IntellU IDEA, Studio 3T y Postman.",
+        "Contribución al área de Producto, enfocado en Proyectos/Proyectos Especiales, entregando soluciones efectivas para clientes destacados como Farmacity, Chacomer, Duty, Daewoo, Grupo Efe, Diarco, Esmax, Renner, Divino, Grido, Rapnui, Icesa, Kibel, YPF y Pae."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Independiente",
+      "company": "Memo",
+      "location": "",
+      "start_date": "2019-05-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollador Independiente especializado en Software Engineering desde mayo de 2019, con amplia experiencia en la creación de proyectos autónomos.",
+        "Experto en diseño y desarrollo de plataformas de contenidos, utilizando tecnologías de vanguardia como Python, FastAPI, Node.js, Firebase, Expo, React, Trello y API Gateway.",
+        "Profundo conocimiento en la integración de sistemas con VTEX y manejo avanzado de bases de datos tanto NoSQL (MongoDB) como SQL, garantizando soluciones eficientes y escalables."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Full Stack Developer",
+      "company": "Jakarta",
+      "location": "C.A.B.A.",
+      "start_date": "2016-03-01",
+      "end_date": "2018-09-01",
+      "currently_working": false,
+      "responsibilities": [
+        "Gestión y optimización del ERP corporativo, atendiendo a múltiples clientes nacionales, mediante el dominio de Delphi 5, Java, Tomcat, Informix, Oracle y SQL.",
+        "Implementación de herramientas avanzadas como QuantumDB para la administración de bases de datos en Eclipse.",
+        "Aplicación de técnicas de programación modernas en Java, incluyendo Collections, el patrón MVC, el patrón Observador-Observado, así como la manipulación de clases String, map y desarrollo de clases especializadas para el framework y la lógica de negocio.",
+        "Superación de retos significativos al adquirir conocimiento acelerado en una plataforma altamente personalizada con integraciones complejas a diversas bases de datos.",
+        "Logro destacado en la rápida integración y colaboración efectiva dentro de un equipo de desarrollo ya establecido."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ingeniero en Informática",
+      "institution": "Universidad de Córdoba",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "Licenciatura en Sistemas",
+      "institution": "Universidad de Córdoba",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "Curso Dev Ops",
+      "institution": "Universidad de Córdoba",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "python",
+        "grails",
+        "node-js",
+        "java",
+        "microservices",
+        "go",
+        "django",
+        "fast-api",
+        "c#",
+        "project-manager",
+        "aws",
+        "react",
+        "no-sql",
+        "sql",
+        "big-data",
+        "desging-patterns",
+        "scrum",
+        "kanbam",
+        "testing-tools",
+        "devops"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {}
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": ""
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

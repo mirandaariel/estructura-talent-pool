@@ -1,0 +1,92 @@
+{
+    "personal_info": {
+        "first_name": "Jaider Esteban",
+        "last_name": "Espinosa Mesa",
+        "email": "esteban076m@gmail.com",
+        "phone": "+57 3022592002",
+        "location": {
+            "country": "",
+            "city": "Pereira",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/jaiderespinosa/",
+        "website": "https://estebandev.tech/",
+        "portfolio": "",
+        "summary": "Desarrollador de software con experiencia en PHP, Laravel y .NET, especializado en el desarrollo de aplicaciones web y de escritorio. Apasionado por la optimización de sistemas y la automatización de procesos con Bash en entornos Linux. Enfocado en desarrollo ágil, buenas prácticas y mejora continua."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Junior .Net",
+            "company": "Abai Group",
+            "location": "Pereira",
+            "start_date": "2024-04-01",
+            "end_date": "2024-10-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Integré un sistema de inicio de sesión con autenticación basada en el dominio de la empresa, utilizando Microsoft Active Directory.",
+                "Mejoré la experiencia del usuario con un sistema intuitivo y optimizado para agilizar la gestión de referidos y consultas.",
+                "Implementé técnicas de almacenamiento en caché para reducir la carga en la base de datos y mejorar la velocidad del sistema."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack (Freelance)",
+            "company": "Tinta Records",
+            "location": "Remoto",
+            "start_date": "2024-12-01",
+            "end_date": "2025-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé la landing page corporativa utilizando AstroJS y TailwindCSS, optimizando el rendimiento y la experiencia del usuario.",
+                "Integré la API de SonoSuite para obtener información detallada y actualizada de los artistas, mejorando la precisión de los datos mostrados.",
+                "Desarrollé una nueva interfaz para la aplicación de distribución musical con Angular y TailwindCSS, haciéndola más intuitiva para los artistas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnólogo Análisis y Desarrollo de Software",
+            "institution": "Servicio Nacional de Aprendizaje",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "php",
+                "c#",
+                "javascript",
+                "sql",
+                "laravel",
+                ".net",
+                "angular",
+                "nestjs",
+                "tailwindcss",
+                "react",
+                "nodejs"
+            ],
+            "soft": [],
+            "tools": [
+                "sql-server",
+                "mysql",
+                "postgresql"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,151 @@
+{
+    "personal_info": {
+        "first_name": "Joaquín",
+        "last_name": "Larrivey",
+        "email": "joaqlarrivey@gmail.com",
+        "phone": "+5492215255393",
+        "location": {
+            "country": "Argentina",
+            "city": "La Plata",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/joaquin-larrivey-803327212",
+        "website": "",
+        "portfolio": "https://larridev.netlify.app",
+        "summary": "Adept Freelance Fullstack Developer with a proven track record at La Fuente Del Sol S.a., enhancing team productivity by mastering new technologies and languages. Excelled in debugging, significantly improving product stability, and leveraged expertise in JavaScript/Typescript and project management to exceed development goals. Demonstrated ability to meet tight deadlines in fast-paced environments, ensuring high-quality software solutions."
+    },
+    "work_experience": [
+        {
+            "job_title": "Freelance Fullstack Developer",
+            "company": "",
+            "location": "ARG",
+            "start_date": "2021-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Worked on several projects including Booknity and Prisma Noticias."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Developer",
+            "company": "Booknity",
+            "location": "ARG",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Backend Architecture",
+                "Data Base Management",
+                "Testing",
+                "Cross-Functional Collaboration"
+                
+            ],
+            "achievements": [               
+                "Controlled Forms implementation.",
+                "Authentication/Authorization (JWT, Oauth).",
+                "External API integration.",
+                "Creation of the Booknity API using NestJS and full documentation on Swagger.",
+                "Collaborated on the implementation of frontend components using React and NextJS.",
+                "Conducted tests with React Testing Library, Jest, Jasmine, and Typescript.",
+                "Applied Scrum methodology using Trello.",
+                "Applied GIT workflow."
+            ],
+            "repository_url": "https://github.com/JTlarrivey/PF-BACK"
+        },
+        {
+            "job_title": "Developer",
+            "company": "Prisma Noticias",
+            "location": "ARG",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "FullStack, End to End Development"
+            ],
+            "achievements": [
+                "Developed an app with React / NodeJS.",
+                "Implemented carousels and frontend animations.",
+                "Implemented Supabase as the Project's Database.",
+                "Containerized the app and a DB instance using Docker.",
+                "Implemented unit and integration tests using Jest, Jasmine, and Typescript.",
+                "Adhered to agile development practices and collaborative work methodologies."
+            ],
+            "repository_url": "https://github.com/JTlarrivey/NewsPortal"
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "institution": "Sagrado Corazón de Jesús",
+            "location": "ARG",
+            "start_date": "2007",
+            "end_date": "2010",
+            "hours": 0
+        },
+        {
+            "degree": "FULLSTACK DEVELOPER",
+            "institution": "Henry Code Bootcamp",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "api-integration",
+                "linux",
+                "aws",
+                "docker",
+                "javascript",
+                "typescript",
+                "python",
+                "nestjs",
+                "typeorm",
+                "prisma",
+                "mongodb",
+                "software-architecture",
+                "c#",
+                "sql-integration",
+                "postgresql",
+                "react",
+                "redux"
+            ],
+            "soft": ["Problem-Solving",
+                "Critical Thinking",
+                "Communication",
+                "Collaboration",
+                "Adaptability",
+                "Time Management",
+                "Attention to Detail",
+                "Creativity",
+                "Continuous Learning",
+                "Resilience"
+            ],
+           
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "C2 Proficient"
+        }
+    ],
+    "volunteer_experience": [Ariel Miranda's Open Source Shopify Project],
+    "publications": [],
+    "references": []
+}

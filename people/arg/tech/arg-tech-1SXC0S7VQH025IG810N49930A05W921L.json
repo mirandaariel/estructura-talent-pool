@@ -1,0 +1,165 @@
+{
+    "personal_info": {
+        "first_name": "Nicolás",
+        "last_name": "Resnizky",
+        "email": "nres98@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/nicol%C3%A1s-resnizky-25a052245",
+        "website": "",
+        "portfolio": "",
+        "summary": "Software Engineer"
+    },
+    "work_experience": [
+        {
+            "job_title": "QA Analyst",
+            "company": "Huawei Technologies Co., Ltd.",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Client requirements analysis",
+                "Test case execution",
+                "API testing"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Backend Developer",
+            "company": "Convergence Mining",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Design and development of backend applications",
+                "API development",
+                "KPI definition and reporting",
+                "Development of alarm system"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "CYBERTEC",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2018-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Database maintenance",
+                "Optimization of existing queries, functions, and improvement of execution performance",
+                "Database optimization: indexing, analysis, and cleanup",
+                "Incident management"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computer Engineering",
+            "institution": "Universidad de Buenos Aires, Facultad de Ingeniería",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Higher Technician in Journalism with Sports Orientation",
+            "institution": "Tea y Deportea",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "High school bilingual diploma spanish-german",
+            "institution": "International Baccalaureate",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bilingual Bachelor in Science and Humanities with German Language",
+            "institution": "Colegio Pestalozzi",
+            "location": "",
+            "start_date": "2011-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "ruby",
+                "c",
+                "c++",
+                "java",
+                "sql",
+                "postgresql",
+                "mysql",
+                "dynamodb",
+                "amazon-redshift",
+                "ruby-on-rails",
+                "spring-boot",
+                "flask",
+                "django",
+                "sqlalchemy",
+                "aws",
+                "docker",
+                "tdd",
+                "bdd",
+                "ddd",
+                "junit",
+                "cucumber",
+                "pytest",
+                "jwt",
+                "spring-security",
+                "github-actions",
+                "jenkins",
+                "pandas",
+                "numpy",
+                "matplotlib",
+                "apache-spark",
+                "jupyter-notebook"
+            ],
+            "soft": [
+                "agile-methodologies"
+            ],
+            "tools": [
+                "git",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "German",
+            "proficiency": "Goethe-Zertifikat C1"
+        },
+        {
+            "language": "English",
+            "proficiency": "First Certificate Exam (B2+)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

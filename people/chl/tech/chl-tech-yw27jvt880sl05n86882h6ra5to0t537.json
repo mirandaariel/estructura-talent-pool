@@ -1,0 +1,93 @@
+{
+    "personal_info": {
+        "first_name": "Benjamin",
+        "last_name": "Gutiérrez",
+        "email": "Gutierrezcisterna13@gmail.com",
+        "phone": "+56 966978630",
+        "location": {
+            "country": "Chile",
+            "city": "Santiago",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Analista programador con una sólida formación en desarrollo de software y análisis de sistemas con tecnologías actuales. Me destaco por ser una persona autodidacta, proactivo, capaz de trabajar en equipo y resolutiva, para así contribuir en cada uno de los proyectos que se presenten."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador JavaScript",
+            "company": "Consorcio",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Mantención y evolución de microservicios desplegados en AWS y versionados en bitbucket en el equipo de arquitectura."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista programador",
+            "institution": "INACAP",
+            "location": "",
+            "start_date": "2022-03-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico nivel superior telecomunicaciones, conectividad y redes",
+            "institution": "INACAP",
+            "location": "",
+            "start_date": "2019-03-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "python",
+                "sql-server",
+                "mongodb",
+                "react"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Block de notas",
+            "description": "Herramienta web que permite organizar notas de manera intuitiva",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Barbería",
+            "description": "Sitio Web para toma de horas, desarrollado en JavaScript",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Sitio de noticias",
+            "description": "Desarrollo de un portal web de noticias con múltiples secciones temáticas",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

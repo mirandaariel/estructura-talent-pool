@@ -1,0 +1,138 @@
+{
+  "personal_info": {
+    "first_name": "Mahicol Alejandro",
+    "last_name": "Gallego Valencia",
+    "email": "maicolgallego14@gmail.com",
+    "phone": "+57 317 562 9476",
+    "location": {
+      "country": "Colombia",
+      "city": "Medellín",
+      "state": "Antioquia"
+    },
+    "linkedin": "",
+    "website": "",
+    "portfolio": "https://github.com/maicolgallego",
+    "summary": "Soy un desarrollador web apasionado y entusiasta de la programación, con experiencia en Backend usando TypeScript, JavaScript, Node.js y Nest.js, y en el diseño de API RESTful. También cuento con conocimientos en bases de datos SQL y Frontend utilizando React y React Native para soluciones web y móviles. Mi enfoque está en crear aplicaciones robustas, escalables y eficientes. Me apasiona aprender nuevas tecnologías y aplicar soluciones innovadoras. Trabajo bien en equipo utilizando metodologías ágiles y siempre busco enfrentar desafíos con creatividad y proactividad para alcanzar los mejores resultados."
+  },
+  "work_experience": [
+    {
+      "job_title": "Practicante de Tecnólogo en Producción Multimedia (SENA)",
+      "company": "Tecnoparques Nodo Medellín",
+      "location": "Medellín, Antioquia",
+      "start_date": "2020-09-01",
+      "end_date": "2021-02-28",
+      "currently_working": false,
+      "responsibilities": [
+        "Análisis de información para definir la tipología y los objetivos de los proyectos multimediales.",
+        "Diseño y desarrollo de soluciones multimediales según los requerimientos del cliente, incluyendo creación de piezas gráficas, maquetación web y edición de imágenes y videos.",
+        "Trabajo en equipo y Comunicación constante con los clientes para garantizar sus expectativas y correcta implementación de proyectos."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Desarrollo de Software",
+      "institution": "RIWI",
+      "location": "",
+      "start_date": "",
+      "end_date": "2024-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Ingeniería Informática",
+      "institution": "Fundación Universitaria Católica del Norte",
+      "location": "",
+      "start_date": "2021-01-01",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "Tecnólogo en Diseño e Integración de Multimedia",
+      "institution": "SENA",
+      "location": "",
+      "start_date": "2018-01-01",
+      "end_date": "2021-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Bachillerato",
+      "institution": "LE Alcaldía De Medellín",
+      "location": "",
+      "start_date": "2005-01-01",
+      "end_date": "2018-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "html",
+        "css",
+        "javascript",
+        "typescript",
+        "node.js",
+        "express",
+        "nestjs",
+        "typeorm",
+        "prisma",
+        "react",
+        "react-native"
+      ],
+      "soft": [
+        "gestion-del-tiempo",
+        "trabajo-en-equipo",
+        "adaptabilidad",
+        "resolucion-de-problemas",
+        "autoaprendizaje",
+        "atencion-al-detalle"
+      ],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Safe Budget",
+      "description": "Desarrollo de aplicación web de gestión de presupuestos mensuales utilizando en el Backend NestJS, que incluye autenticación de usuarios con JWT, CRUD, tareas programadas, entre otras. Frontend para usuarios realizado con React e implementación de componentes estilizados Ant Design.",
+      "technologies": ["nestjs", "react", "jwt", "crud", "ant-design"],
+      "url": ""
+    },
+    {
+      "name": "Close To You",
+      "description": "Desarrollo de aplicación móvil para gestión de contactos utilizando en el Backend NestJS, que incluye autenticación de usuarios con JWT, CRUD. Frontend para usuarios realizado con React Native con persistencia de sesión y funcionalidades de agregar fotografías, ubicación e indicar el clima (por medio de API externa) en las ubicaciones de los contactos.",
+      "technologies": ["nestjs", "react-native", "jwt", "crud"],
+      "url": ""
+    },
+    {
+      "name": "Appointments API",
+      "description": "Desarrollo de API para la programación y gestión de citas médicas utilizando NestJS, autenticación de usuarios con funcionalidades JWT, autorización basada en roles, operaciones CRUD y tareas programadas.",
+      "technologies": ["nestjs", "jwt", "crud", "roles"],
+      "url": ""
+    },
+    {
+      "name": "Collaborat API",
+      "description": "Desarrollo de API para aplicación de gestión de tareas y proyectos utilizando NestJS, Prisma y PostgreSQL, e incluye autenticación de usuarios con funcionalidades JWT, autorización basada en roles y operaciones CRUD.",
+      "technologies": ["nestjs", "prisma", "postgresql", "jwt", "crud", "roles"],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Basic"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

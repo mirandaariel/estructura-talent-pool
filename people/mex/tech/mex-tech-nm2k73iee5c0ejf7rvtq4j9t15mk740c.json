@@ -1,0 +1,93 @@
+{
+    "personal_info": {
+        "first_name": "Jennifer",
+        "last_name": "Romero",
+        "email": "jennifer.romero.navarrete@gmail.com",
+        "phone": "+52 16621328425",
+        "location": {
+            "country": "Mexico",
+            "city": "Hermosillo",
+            "state": "Sonora"
+        },
+        "linkedin": "https://linkedin.com/in/jennifer-romero",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Software Engineer",
+            "institution": "Universidad Estatal de Sonora (UES)",
+            "location": "Sonora, Mexico",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "c#",
+                "java",
+                "python",
+                "mysql",
+                "angular",
+                "api",
+                "git",
+                "bootstrap",
+                "html",
+                "css"
+            ],
+            "soft": [
+                "effective-communication",
+                "strategic-thinking",
+                "rapid-adaptation",
+                "team-collaboration"
+            ],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Jelly Belly",
+            "description": "Conceptualized and engineered an interactive web application in Angular to customize Jelly Belly candies, integrating the official API to offer updated data and an immersive experience. Included functionalities such as real-time editing of colors in the canvas and the generation of personalized cards for users.",
+            "technologies": ["angular", "typescript", "html", "scss", "angular-material"],
+            "url": ""
+        },
+        {
+            "name": "Academic API",
+            "description": "Spearheaded the creation of a complete RESTful API using Laravel to manage academic data of students, courses, and teachers. Enabled CRUD operations, providing an efficient and secure access point for external integrations.",
+            "technologies": ["laravel", "php", "mysql", "rest-api"],
+            "url": ""
+        },
+        {
+            "name": "Flicker",
+            "description": "Designed and built a movie synopsis page that attracted over 500 users in its first month. Orchestrated an API to ensure seamless integration.",
+            "technologies": ["html", "css", "javascript"],
+            "url": ""
+        },
+        {
+            "name": "Kantech",
+            "description": "Development of an interactive website for technology sales, which increased the average session time of users by 50%, reaching an average of 5 minutes per visit.",
+            "technologies": ["html", "css", "javascript"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

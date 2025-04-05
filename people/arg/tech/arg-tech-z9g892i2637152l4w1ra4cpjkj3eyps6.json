@@ -1,0 +1,131 @@
+{
+    "personal_info": {
+        "first_name": "Joaquín",
+        "last_name": "Palacios",
+        "email": "palaciosjoaquin2002@gmail.com",
+        "phone": "+54 11 3842 6707",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": "La Matanza"
+        },
+        "linkedin": "",
+        "website": "https://github.com/joaquinxtomas",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Asistente contable",
+            "company": "CP Estudio Contable",
+            "location": "Buenos Aires",
+            "start_date": "2023-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Carga de facturas de compra y venta de clientes en ERP contable (Catedral Software).",
+                "Análisis de las facturas y transacciones de los clientes.",
+                "Preparación de Libros IVA y declaraciones juradas ante AFIP.",
+                "Liquidaciones de sueldo.",
+                "Declaraciones juradas en SIAP (obsoleto)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Administrativo",
+            "company": "Netway",
+            "location": "Buenos Aires",
+            "start_date": "2022-12-01",
+            "end_date": "2023-03-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Registro, eliminación y modificación de usuarios en Sistema de gestión empresarial (área administrativa y de cobranzas).",
+                "Control de pagos con Excel.",
+                "Proveer soporte en lo posible y en última instancia derivar al área técnica.",
+                "Control de stock de equipamiento (módem, cables y herramientas)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en informática",
+            "institution": "Universidad Nacional de La Matanza",
+            "location": "Buenos Aires",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en ciencias sociales",
+            "institution": "Instituto Madre Maria Luisa Clarac",
+            "location": "Buenos Aires",
+            "start_date": "",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring-framework",
+                "spring-boot",
+                "spring-security",
+                "spring-mvc",
+                "jpa",
+                "hibernate",
+                "sql",
+                "mysql",
+                "postgresql",
+                "git",
+                "docker",
+                "swagger",
+                "jwt",
+                "javascript",
+                "astro",
+                "c",
+                "html",
+                "css",
+                "tailwindcss",
+                "microsoft-excel",
+                "microsoft-word"
+            ],
+            "soft": [],
+            "tools": [
+                "trello",
+                "slack"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "API de gestión inmobiliaria",
+            "description": "API de gestión inmobiliaria con arquitectura de microservicios.",
+            "technologies": ["microservicios"],
+            "url": "https://github.com/joaquinxtomas"
+        },
+        {
+            "name": "API con seguridad",
+            "description": "API implementando seguridad.",
+            "technologies": [],
+            "url": "https://github.com/joaquinxtomas"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

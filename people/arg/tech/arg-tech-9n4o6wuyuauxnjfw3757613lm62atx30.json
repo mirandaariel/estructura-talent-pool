@@ -1,0 +1,143 @@
+{
+    "personal_info": {
+        "first_name": "Nahuel",
+        "last_name": "Castilla",
+        "email": "nahuelcastilla22@gmail.com",
+        "phone": "+54-3816319655",
+        "location": {
+            "country": "Argentina",
+            "city": "Tucumán",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/nahuel-castilla",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un desarrollador Fullstack de 27 años con experiencia en el diseño, desarrollo y mantenimiento de aplicaciones web. Tengo habilidades en múltiples lenguajes de programación y herramientas, lo que me permite trabajar en las capas de frontend y backend. Soy colaborativo y orientado a resultados, siempre buscando soluciones y mejoras en la usabilidad."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Web Developer",
+            "company": "Organización de autoconvocados ambientalistas",
+            "location": "Bs As/Argentina",
+            "start_date": "2024-01-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Trabajo remoto como desarrollador web voluntario.",
+                "Stack: React-Redux, Node-Express, MySql"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA Analyst",
+            "company": "Scale.ai",
+            "location": "Remote",
+            "start_date": "2024-01-01",
+            "end_date": "2024-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Trabajo remoto en una plataforma llamada remotask.",
+                "Comparaba 2 modelos de respuestas generadas por LLM con consultas en varios lenguajes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "Resistance SAS",
+            "location": "Remote",
+            "start_date": "2023-08-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Trabajo remoto como desarrollador de juegos con javascript y la librería phaser3."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Bot Developer",
+            "company": "Aetti trading",
+            "location": "",
+            "start_date": "2021-10-01",
+            "end_date": "2022-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Miembro de un equipo de desarrollo de bots utilizando Python."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnico universitario en programación",
+            "institution": "UTN - FRT (Universidad Tecnologica Nacional)",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Bootcamp soyHenry",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                "dotnet-core",
+                "angular",
+                "php",
+                "ionic",
+                "transact-sql",
+                "phpmyadmin",
+                "mysql",
+                "react-redux",
+                "node-express",
+                "react",
+                "redux",
+                "node",
+                "express",
+                "javascript",
+                "python",
+                "phaser3"
+            ],
+            "soft": [
+                "colaborativo",
+                "orientado-a-resultados"
+            ],
+            "tools": [
+                "npm",
+                "github",
+                "gsap",
+                "svg"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
