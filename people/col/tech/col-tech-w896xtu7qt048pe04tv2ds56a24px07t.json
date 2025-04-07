@@ -1,0 +1,148 @@
+{
+    "personal_info": {
+        "first_name": "Victor Manuel",
+        "last_name": "Mosquera Gutierrez",
+        "email": "victormmosquerag@gmail.com",
+        "phone": "+573157477944",
+        "location": {
+            "country": "Colombia",
+            "city": "Cali",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/mosqueravictorm/",
+        "website": "https://github.com/VictorMMosqueraG",
+        "portfolio": "",
+        "summary": "Desarrollador de software con conocimiento en tecnologías como Java, Spring Boot, TypeScript, Nest.js, Docker, Angular ,bases de datos relacionales y no relacionales, AWS, Git y metodologías ágiles. Soy una persona muy colaborativa, con capacidad de trabajar en equipo y dispuesto a aprender cada día algo nuevo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Developer",
+            "company": "Dreamcode",
+            "location": "Cali, Colombia",
+            "start_date": "2023-04-01",
+            "end_date": "2024-04-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé aplicaciones backend escalables utilizando TypeScript y NestJS.",
+                "Frontend con Angular, optimizando el enrutamiento y la gestión de estado.",
+                "Maneje bases de datos PostgreSQL y Oracle, optimizando consultas SQL.",
+                "Implementé soluciones en la nube con AWS y automatización con Terraform y CloudFormation.",
+                "Desarrollé microservicios con Java 8/17 y Spring Boot, gestionando contenedores con Docker."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "BM SOFTWARE TECH",
+            "location": "Cali, Colombia",
+            "start_date": "2022-12-01",
+            "end_date": "2023-05-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé múltiples aplicaciones utilizando Java 8 y Spring Boot, implementando microservicios y APIs RESTful.",
+                "Trabajé con bases de datos relacionales como MariaDB, MySQL y SQL Server.",
+                "Utilicé Spring Data JPA para la persistencia eficiente de datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Freelance Developer",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de aplicaciones backend y frontend escalables con .NET Core, C#, Angular y contenedores Docker.",
+                "Manejo de bases de datos como PostgreSQL y Oracle.",
+                "Implementación de soluciones en la nube con AWS.",
+                "Automatización de infraestructura con Terraform y CloudFormation.",
+                "Desarrollo de microservicios con Spring Boot y despliegue de sistemas en entornos productivos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnologo en sistemas",
+            "institution": "Cecep",
+            "location": "Cali, Colombia",
+            "start_date": "2021-08-01",
+            "end_date": "2024-05-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "springboot",
+                "typescript",
+                "javascript",
+                "nest.js",
+                "jest",
+                "docker",
+                "aws",
+                "c#",
+                ".net",
+                "angular",
+                "jwt",
+                "junit",
+                "spring-security",
+                "mokito",
+                "php",
+                "laravel",
+                "nodejs"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "E-commerce",
+            "description": "Desarrollé una aplicación empresarial utilizando Java 8 y Spring Boot, implementando una arquitectura de microservicios con JWT para la autenticación. Usé Docker y PostgreSQL.",
+            "technologies": ["Java", "Spring Boot", "Docker", "JWT", "PostgreSQL"],
+            "url": ""
+        },
+        {
+            "name": "Website",
+            "description": "Desarrollé un sitio web corporativo interactivo utilizando Angular. Implementé formularios de contacto, pruebas unitarias con Jest y mejoré el rendimiento del sitio.",
+            "technologies": ["Angular", "EmailJS", "Jest"],
+            "url": ""
+        },
+        {
+            "name": "Microservice",
+            "description": "Desarrollé un sistema de microservicios utilizando Python y Flask/Django con RabbitMQ. Usé Docker para contenerizar y garantizar alta disponibilidad.",
+            "technologies": ["Python", "Flask", "Django", "RabbitMQ", "Docker"],
+            "url": ""
+        },
+        {
+            "name": "Gestor de Tareas",
+            "description": "Desarrollé un gestor de tareas utilizando ASP.NET Core y Razor Pages. Implementé JWT, Swagger y PostgreSQL.",
+            "technologies": ["ASP.NET Core", "JWT", "Swagger", "PostgreSQL"],
+            "url": ""
+        },
+        {
+            "name": "Pagina de Apuestas",
+            "description": "Desarrollé una plataforma de apuestas deportivas utilizando PHP y Laravel, optimizando con PHPUnit y MariaDB.",
+            "technologies": ["PHP", "Laravel", "PHPUnit", "MariaDB", "Docker"],
+            "url": ""
+        },
+        {
+            "name": "Registro de Horas",
+            "description": "Desarrollé un sistema para registrar horas de trabajo utilizando TypeScript y NestJS con JWT y PostgreSQL. Desplegado en AWS.",
+            "technologies": ["TypeScript", "NestJS", "JWT", "PostgreSQL", "AWS"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

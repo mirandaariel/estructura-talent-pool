@@ -1,0 +1,144 @@
+{
+    "personal_info": {
+        "first_name": "Manuel",
+        "last_name": "Arzuaga",
+        "email": "marzuagag@gmail.com",
+        "phone": "1122830792",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full-stack con experiencia en React.js, HTML, CSS, JavaScript, Microsoft .NET Framework, ASP.NET, WebForms, ADO.NET, y familiarizado con Git/GitHub."
+    },
+    "work_experience": [
+        {
+            "job_title": "Jr. Engineer",
+            "company": "EY Argentina",
+            "location": "Buenos Aires",
+            "start_date": "2024-04-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y análisis de datos en entornos cuantitativos.",
+                "Manejo de herramientas tecnológicas y programación en entornos de negocio."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas",
+            "institution": "Universidad CAECE",
+            "location": "Buenos Aires",
+            "start_date": "2017-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso de Programación Web NET Core",
+            "institution": "EducaciónIT",
+            "location": "",
+            "start_date": "2025-02-01",
+            "end_date": "2025-03-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Informática",
+            "institution": "Universidad de Buenos Aires",
+            "location": "Buenos Aires",
+            "start_date": "2014-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html",
+                "css",
+                "react.js",
+                "react-router",
+                "microsoft-.net-framework",
+                "asp.net",
+                "webforms",
+                "ado.net",
+                "bootstrap",
+                "styled-components"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "visual-studio-code",
+                "react-developer-tools"
+            ]
+        },
+        "detailed": {
+            "technical": {
+                "javascript": [],
+                "react.js": [],
+                "asp.net": []
+            },
+            "soft": [],
+            "tools": {
+                "git": [],
+                "github": [],
+                "visual-studio-code": []
+            }
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "AppArCar",
+            "description": "Desarrollo de una aplicación web y mobile para búsqueda y reserva de estacionamientos.",
+            "technologies": [
+                "react.js",
+                "react-router",
+                "git",
+                "github"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Simulación de Autómatas en Escenarios de Tráfico",
+            "description": "Desarrollo de una página web interactiva para simulaciones.",
+            "technologies": [
+                "html",
+                "css",
+                "javascript",
+                "react.js",
+                "react-router"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Brazo Robótico",
+            "description": "Programación en lenguaje similar a C++ con Arduino y ensamblaje de hardware.",
+            "technologies": [
+                "arduino",
+                "3d-printing"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate (First Certificate in English)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

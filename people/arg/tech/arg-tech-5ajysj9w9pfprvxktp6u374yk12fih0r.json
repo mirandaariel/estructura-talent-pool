@@ -1,0 +1,170 @@
+{
+    "personal_info": {
+        "first_name": "Cesar",
+        "last_name": "Vera",
+        "email": "cesar.vera.dev@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "unnctermdenbimed.com",
+        "portfolio": "",
+        "summary": "Full-Stack Developer specialized in Data Science and Machine Learning, with expertise in web development, AI model deployment, and cloud computing. Experienced in building scalable APIs, ETL pipelines, and real-time analytics."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full-Stack & Data Science Developer",
+            "company": "Freelance",
+            "location": "Remote",
+            "start_date": "2023-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed full-stack applications integrating AI-powered analytics and predictive modeling.",
+                "Built automated ETL pipelines for structured and unstructured data processing using Apache Airflow.",
+                "Designed and deployed APIs to serve machine learning models for real-time predictions with FastAPI & TensorFlow Serving.",
+                "Optimized SQL queries and database indexing.",
+                "Implemented containerized microservices architecture, enhancing availability and fault tolerance."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Customer Support Specialist",
+            "company": "All Constructivons",
+            "location": "Incentive, Paraguay",
+            "start_date": "2023-03-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Provided technical assistance and managed CRM analytics to optimize operations.",
+                "Developed data-driven dashboards to enhance business intelligence and decision-making using Power BI and SQL-based reporting.",
+                "Partnered with sales and product teams to translate customer needs into actionable features, contributing to the development of new product enhancements.",
+                "Maintained records of customer interactions using CRM tools, ensuring data integrity and accessibility for service improvement."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Industrial Technical Bachelor in Electronics",
+            "institution": "National Technical College (Colegio Nacional Técnico)",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "machine-learning",
+                "data-engineering",
+                "supervised-learning",
+                "unsupervised-learning",
+                "regression",
+                "classification",
+                "clustering",
+                "deep-learning",
+                "python",
+                "node.js",
+                "express.js",
+                "rest-apis"
+            ],
+            "soft": [],
+            "tools": [
+                "unit-testing",
+                "animation",
+                "debugging",
+                "git",
+                "gitlab",
+                "agile",
+                "scrum",
+                "jira"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Penguin Academy - Full-Stack Development",
+            "issuing_organization": "Penguin Academy",
+            "issue_date": "2024-05-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Introduction to Quality Assurance and Automation",
+            "issuing_organization": "LOR Delegation",
+            "issue_date": "2024-08-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Bostramp 20 - Introduction to Python, Backend, and Frontend Development",
+            "issuing_organization": "Penguin Academy",
+            "issue_date": "2023-11-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Sign Language Translator",
+            "description": "Developed a real-time sign language translator integrating computer vision and deep-learning models.",
+            "technologies": [
+                "python",
+                "tensorflow",
+                "keras",
+                "flask"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Real Estate Market Analysis (California)",
+            "description": "Explored factors influencing housing prices, analyzing large datasets and forecasting housing prices with models.",
+            "technologies": [
+                "python",
+                "pandas",
+                "scikit-learn",
+                "xgboost"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Breast Cancer Detection",
+            "description": "Developed a classification model to detect early signs of breast cancer using medical imaging data.",
+            "technologies": [
+                "python",
+                "tensorflow",
+                "keras",
+                "scikit-learn"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "C2"
+        },
+        {
+            "language": "French",
+            "proficiency": "Intermediary"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

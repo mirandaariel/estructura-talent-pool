@@ -1,0 +1,130 @@
+{
+    "personal_info": {
+        "first_name": "Mauro",
+        "last_name": "Ayala",
+        "email": "mmau.ayala14@gmail.com",
+        "phone": "+5491170806136",
+        "location": {
+            "country": "Argentina",
+            "city": "Avellaneda",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://linkedin.com/in/mauro-patricio-ayala/",
+        "website": "https://github.com/mmauayala",
+        "portfolio": "",
+        "summary": "Técnico en programación, con experiencia en participación activa en proyectos de equipo y con una sólida formación en informática. Me destaco por mi capacidad de análisis, la resolución y mi adaptación ante cualquier situación, con facilidad para integrarme y trabajar en equipo al comunicarme de manera eficaz. Organizado, con gran adaptabilidad y absorción ante nuevos conocimientos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Prácticas Profesionalizantes",
+            "company": "",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de proyectos, diseño, codificación, actualización y mantenimiento de Software con JavaScript, PHP, HTML y CSS.",
+                "Administración y desarrollo de Bases de Datos SQL.",
+                "Organización de Proyectos, documentales técnicas y presentación de proyecto."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollo de Sistema de Gestión de Negocio",
+            "company": "",
+            "location": "",
+            "start_date": "2025-02-01",
+            "end_date": "2025-03-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de CRUD de productos, gestor de Stock, promociones del negocio, y punto de venta.",
+                "Lógica de negocio desarrollada con Spring Boot 6, Spring Security, JWT, Data JPA, Api Gateway, Eureka Server, Lombok, Base de datos MySQL y uso de Postman para las pruebas API.",
+                "Interfaz de usuario diseñada con ReactJS, uso de Material UI, React Router, Axios para consumir el Backend, y CSS Module."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/mmauayala/miup"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnicatura en Programación",
+            "institution": "E. E. S. T. N7 'José Hernández'",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Sistemas",
+            "institution": "Universidad Nacional de Lanus",
+            "location": "",
+            "start_date": "2025-02-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "javascript",
+                "php",
+                "html",
+                "css",
+                "spring-boot",
+                "java",
+                "postgreSQL",
+                "mySQL",
+                "aws",
+                "rest",
+                "postman",
+                "uml"
+            ],
+            "soft": [
+                "comunicativo",
+                "proactivo",
+                "autodidacta",
+                "resolutivo",
+                "capacidad-analítica",
+                "trabajo-en-equipo"
+            ],
+            "tools": [
+                "git",
+                "scrum",
+                "paquete-office"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Project Manager",
+            "issuing_organization": "CoderHouse",
+            "issue_date": "2024-05-01",
+            "expiration_date": "2024-07-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Spring Framework 6 y Spring Boot 3 desde cero a experto",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-08-01",
+            "expiration_date": "2024-12-31",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Bruno Vazquez",
+            "relationship": "Dueño de negocio",
+            "contact": "11 2807-5896"
+        }
+    ]
+}

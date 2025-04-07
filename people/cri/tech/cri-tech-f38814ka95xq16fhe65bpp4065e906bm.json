@@ -1,0 +1,173 @@
+{
+    "personal_info": {
+        "first_name": "Alberto",
+        "last_name": "Martínez Quesada",
+        "email": "betomqcr@gmail.com",
+        "phone": "+506-72233767",
+        "location": {
+            "country": "Costa Rica",
+            "city": "San Isidro de Tejar",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Analista y desarrollador de software con más de 6 años de experiencia optimizando las operaciones de organizaciones mediante soluciones de sistemas de información. Cuento con un historial comprobado en la transformación de objetivos comerciales en crecimiento y mejoras de eficiencia a través del diseño e implementación de nuevos sistemas. Destaco por mi capacidad innovadora y mi profundo conocimiento tecnológico, lo que me permite recomendar e integrar nuevas tecnologías para mejorar los sistemas existentes e introducir soluciones más eficientes. Soy una persona autocrítica, en constante capacitación y con una mentalidad autodidacta, siempre buscando el crecimiento técnico para aportar el máximo valor a la empresa."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista y desarrollador de software",
+            "company": "MBC Developers",
+            "location": "",
+            "start_date": "2010-12-01",
+            "end_date": "2024-09-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollador de software .net framework y .net core",
+                "Mejoras a proyecto de MVC con apsx, jquery, javascript y css",
+                "Trabajando en un proyecto para BAC San Jose",
+                "Trabajo con metodología SCRUM",
+                "Conocimientos y trabajo en DevOps",
+                "Desarrollo y implementación de pruebas unitarias.",
+                "Mantenimiento de aplicación en banca",
+                "Creación y normalización de objetos en bases de datos SQL Server.",
+                "Optimización de scripts de consultas, procedimientos almacenados y funciones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista y desarrollador de software",
+            "company": "Palantir S.A.",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Encargado y líder de equipo de soporte para Centro América y El Caribe.",
+                "Planificación y desarrollo de facturación electrónica para Costa Rica, Guatemala, Panamá y República Dominicana.",
+                "Encargado de integraciones con la plataforma API hacia los clientes de la región.",
+                "Competencia en control de versiones (GIT)",
+                "Experiencia en integración de API",
+                "Desarrollo en .NET FrameWork y Core",
+                "Gestión de servidores",
+                "Trabajo con Metodología Agiles (SCRUM)",
+                "Manejo básico de plataforma AWS con máquinas virtuales (EC2) y correo saliente con Simple Mail Service (SES).",
+                "Manejo de AZURE, creación de ambientes para APIs, Bases de datos y directorios de archivos.",
+                "Manejo herramientas para la toma de decisiones, como Power BI y Tableau.",
+                "Optimización de consultas existentes y mejoras en el rendimiento de los listados actuales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador De Software (Outsourcing)",
+            "company": "GRUPO SUVESA",
+            "location": "Liberia, Provincia de Guanacaste",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Encargado convertir una aplicación de escritorio en visual basic a plataforma web.",
+                "Creación de microservicios (Minimals API'S) para compartir pequeños servicios a diferentes plataformas.",
+                "Líder de equipo de trabajo los desarrollos a nivel de backend y frontend.",
+                "Se actualizaron las bases de código antiguas a los estándares de desarrollo modernos.",
+                "Mejora de la eficiencia del software mediante la resolución de problemas.",
+                "Uso de .net Core 6, con base de datos de SQL de MSSQL y con interfaz gráfica en React."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Soporte técnico",
+            "company": "IENASAJ",
+            "location": "Alajuela, Costa Rica",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Soporte a usuario final en herramienta de Contabilidad y Facturación.",
+                "Manejo de base de datos en MSSQL, MYSQL y Sqlite.",
+                "Desarrollo de Query para reportes especializados.",
+                "Generación de script para plantillas de impresión."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "institution": "Universidad UNED",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Educación Técnico/Profesional",
+            "institution": "Colegio Universitario Cartago",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2022-04-30",
+            "hours": 0
+        },
+        {
+            "degree": "Educación Básica Secundaria",
+            "institution": "Calle Fallas",
+            "location": "",
+            "start_date": "2001-01-01",
+            "end_date": "2005-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                "java",
+                "jquery",
+                "javascript",
+                "nodejs",
+                "mysql",
+                "sql",
+                ".net-framework",
+                ".net-core",
+                "sql-server",
+                "azure",
+                "aws",
+                "power-bi",
+                "tableau",
+                "crystal-reports",
+                "react"
+            ],
+            "soft": [
+                "innovadora",
+                "autocrítica",
+                "mentalidad-autodidacta",
+                "analitica",
+                "cumplimiento-de-plazos"
+            ],
+            "tools": [
+                "git",
+                "scrum"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Native"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Basic"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,135 @@
+{
+    "personal_info": {
+        "first_name": "Leonardo",
+        "last_name": "Montes",
+        "email": "lefemoga@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/lfmg1993",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador de Software altamente adaptable y proactivo, con sólida experiencia en desarrollo frontend y backend. Poseo una fuerte capacidad para aprender y adaptarme a nuevas tecnologías, lo que me permite aportar valor en proyectos innovadores y desafiantes. Mi compromiso con la calidad del código y la optimización de procesos me posiciona como un recurso valioso para equipos que buscan crecimiento y eficiencia."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Web",
+            "company": "SENA - CEDRUM",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de múltiples aplicaciones web utilizando PHP, JavaScript, Bootstrap y Laravel.",
+                "Generación de reportes y documentos dinámicos con FPDF y optimización de bases de datos en MySQL.",
+                "Implementación de entornos basados en Linux y contenedores Docker para la mejora de la eficiencia operativa y la escalabilidad de soluciones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrolladora Frontend",
+            "company": "TECNOPARQUE - NODO CUCUTA",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Participación en el desarrollo de interfaces de usuario utilizando React, Bootstrap, Tailwind, HTML, CSS y JavaScript.",
+                "Aplicación de metodologías MVC y control de versiones con Git/GitHub.",
+                "Contribución en proyectos multidisciplinarios, enfocándome en la experiencia del usuario y la optimización del rendimiento de las aplicaciones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador de Aplicaciones Móviles",
+            "company": "PROYECTO SECTOR AVICULTOR",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "2024-05-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una aplicación móvil con Flutter y Firefoxe para la gestión y control de productos en el sector avicultor.",
+                "Integración de funcionalidades que mejoraron la trazabilidad y manejo de datos, optimizando los procesos operativos del sector."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnologo en Analisis y Desarrollo de Software",
+            "institution": "",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "html5",
+                "css3",
+                "javascript",
+                "bootstrap",
+                "tailwind",
+                "php",
+                "laravel",
+                "mysql",
+                "firefoxe",
+                "flutter"
+            ],
+            "soft": [],
+            "tools": [
+                "github",
+                "mvc",
+                "docker",
+                "linux"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Certificación en Ciberseguridad de Google",
+            "issuing_organization": "Google",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Diseño Web con Adobe Dreamweaver",
+            "issuing_organization": "",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo de Apps Móviles",
+            "issuing_organization": "",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Pre-intermedio (A2)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

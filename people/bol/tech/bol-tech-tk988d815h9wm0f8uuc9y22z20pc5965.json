@@ -1,0 +1,103 @@
+{
+    "personal_info": {
+        "first_name": "Aldo",
+        "last_name": "Torrez Menchaca",
+        "email": "adlotorrez91@gmail.com",
+        "phone": "+591 63701686",
+        "location": {
+            "country": "Bolivia",
+            "city": "Sucre",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un Desarrollador Web Autodidacta, experto en tecnologías como JavaScript, React, Node, PostgreSQL, etc. Destaco en el diseño de interfaces atractivas, creación de APIs robustas y resolución eficiente de proyectos. Mantengo mi conocimiento actualizado con las últimas tendencias y comprometido con el aprendizaje continuo."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript",
+                "typescript",
+                "react",
+                "redux",
+                "node",
+                "express",
+                "postgresql",
+                "mongodb",
+                "python",
+                "git",
+                "github",
+                "scrum",
+                "java",
+                "tailwind"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Videogames Web App",
+            "description": "Desarrolle una Página Web de Videojuegos donde los usuarios pueden encontrar información sobre distintos videojuegos, las funcionalidades que desarrolle fueron un sistema de búsqueda por nombre, filtrado de videojuegos por género y Origen y también ordenamiento de videojuegos según el nombre, formulario de creación para un nuevo Videojuego y un paginado para mejorar la eficiencia al presentar la información.",
+            "technologies": [
+                "javascript",
+                "css",
+                "react",
+                "redux",
+                "node",
+                "express",
+                "postgresql"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Ecommerce Platform",
+            "description": "Junto con un equipo desarrolle una Tienda online de venta de Celulares y auriculares donde tenían las funcionalidades de filtrado, sistema de búsqueda, sistema de inicio de sesión, carrito de compras, sistema de pago, y un sistema de administración de productos y usuarios etc.",
+            "technologies": [
+                "javascript",
+                "css",
+                "react",
+                "redux",
+                "node",
+                "express",
+                "postgresql",
+                "stripe",
+                "auth0",
+                "bootstrap"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        },
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

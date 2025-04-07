@@ -1,0 +1,146 @@
+{
+  "personal_info": {
+    "first_name": "Ivo",
+    "last_name": "Piccinini",
+    "email": "ivopiccinini02@gmail.com",
+    "phone": "2234371755",
+    "location": {
+      "country": "Argentina",
+      "city": "Mar del Plata",
+      "state": "Buenos Aires"
+    },
+    "linkedin": "Ivo Piccinini",
+    "website": "",
+    "portfolio": "https://ivo-picciónl.netlify.app",
+    "summary": "Fullstack Developer con experiencia en ReactJS, JavaScript, Django y MySQL. Estudiante de la Tecnicatura en Programación en la UTN (Mar del Plata). Apasionado por el desarrollo web y en constante búsqueda de nuevos desafíos."
+  },
+  "work_experience": [
+    {
+      "job_title": "Fullstack Developer",
+      "company": "Criptomix",
+      "location": "",
+      "start_date": "2024-05-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Diseñé y desarrollé interfaces dinámicas y responsivas con ReactJS, JavaScript, Vite y Sass, mejorando la experiencia de usuario.",
+        "Implementé Vite para optimizar tiempos de construcción y rendimiento, reduciendo los tiempos de carga en un 30%.",
+        "Mejoré la mantenibilidad del código CSS mediante Sass, optimizando la organización y reutilización de estilos.",
+        "Desarrollé funcionalidades backend con Django y MySQL, gestionando la lógica de negocio y autenticación de usuarios para una integración fluida con la base de datos.",
+        "Colaboré en la optimización de consultas SQL, mejorando la eficiencia del sistema."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "",
+      "institution": "UTN Mar del Plata",
+      "location": "Mar del Plata, Buenos Aires",
+      "start_date": "2024-01-01",
+      "end_date": ""
+    },
+    {
+      "degree": "",
+      "institution": "",
+      "location": "",
+      "start_date": "2019-01-01",
+      "end_date": "2020-12-31"
+    },
+    {
+      "degree": "",
+      "institution": "",
+      "location": "",
+      "start_date": "2013-01-01",
+      "end_date": "2018-12-31"
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "reactjs",
+        "javascript",
+        "html",
+        "css",
+        "saas",
+        "boostrap",
+        "tailwindcss",
+        "vite"
+      ],
+      "soft": [],
+      "tools": [
+        "git",
+        "github",
+        "api-rest",
+        "scrum"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [
+    {
+      "name": "Master-ReactJS",
+      "issuing_organization": "Udemy",
+      "issue_date": "2022-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Curso de desarrollo web fullstack con PHP, MySQL y Codeigniter",
+      "issuing_organization": "Hilet",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Curso de Python intensivo",
+      "issuing_organization": "Hilet",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Cripto-React",
+      "description": "Calculador de precios de criptomonedas en tiempo real.",
+      "technologies": ["ReactJS"],
+      "url": ""
+    },
+    {
+      "name": "Sistema de gestión de tienda ficticio",
+      "description": "",
+      "technologies": [],
+      "url": ""
+    },
+    {
+      "name": "Money Manager",
+      "description": "Aplicación de gestión de gastos.",
+      "technologies": [],
+      "url": ""
+    },
+    {
+      "name": "Vet-Vite",
+      "description": "Sistema de gestión de pacientes para una clínica veterinaria ficticia.",
+      "technologies": [],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "B2"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

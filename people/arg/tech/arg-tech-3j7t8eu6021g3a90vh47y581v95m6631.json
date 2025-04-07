@@ -1,0 +1,103 @@
+{
+    "personal_info": {
+        "first_name": "Benjamin",
+        "last_name": "Beccari",
+        "email": "benjaminbeccari.1@gmail.com",
+        "phone": "+542613744195",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "Benjamin Beccari",
+        "website": "",
+        "portfolio": "https://github.com/beccaribenjamin",
+        "summary": "Soy desarrollador junior enfocado en backend, con experiencia en Node.js, bases de datos SQL y NoSQL, y testing tanto manual como automático. Busco aplicar mis habilidades para crear soluciones eficientes y de alta calidad."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Orbit Work",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Implementé funcionalidades claves, como la gestión de empleados (información personal, puesto, área, etc) y la gestión de licencias (vacaciones, enfermedad, maternidad, etc).",
+                "Desarrollé la interfaz de usuario utilizando React, proporcionando una experiencia interactiva y dinámica.",
+                "Construí el backend con Node.js y Express, manejando la lógica del servidor y la integración.",
+                "Gestioné la base de datos con MongoDB, creando estructuras eficientes para almacenar y gestionar la información de empleados y licencias.",
+                "Implementé la funcionalidad de firma digital de documentos, facilitando la validación de documentos dentro del sistema."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico en Programación",
+            "institution": "Teclab",
+            "location": "",
+            "start_date": "2022-03-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "python",
+                "html",
+                "css",
+                "java",
+                "react",
+                "tailwind-css",
+                "bootstrap",
+                "node.js",
+                "express",
+                "django",
+                "jwt",
+                "sql",
+                "firefox",
+                "mongodb"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "resolución-de-problemas",
+                "gestión-del-tiempo",
+                "adaptabilidad"
+            ],
+            "tools": [
+                "postman",
+                "vite",
+                "git"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "React De Cero a Experto (Hooks y MERN)",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-06-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "JavaScript Moderno: Guía para dominar el lenguaje",
+            "issuing_organization": "Udemy",
+            "issue_date": "2022-05-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

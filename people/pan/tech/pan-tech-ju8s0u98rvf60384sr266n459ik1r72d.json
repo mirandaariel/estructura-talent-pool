@@ -1,0 +1,123 @@
+{
+    "personal_info": {
+        "first_name": "Amarilis",
+        "last_name": "Alveo",
+        "email": "amariveth@gmail.com",
+        "phone": "68486735",
+        "location": {
+            "country": "Panama",
+            "city": "Chorrera",
+            "state": "Panama Oeste"
+        },
+        "linkedin": "https://www.linkedin.com/in/amarilis-alveo/",
+        "website": "https://portafolio-amarilisalveo.netlify.app/",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Consultora de Operaciones de Desarrollo",
+            "company": "Brain Factor Group",
+            "location": "Colón",
+            "start_date": "2022-08-01",
+            "end_date": "2023-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Administrador de base de datos SQL, HeidiSQL",
+                "Gestionar los procesos del Oracle Integration Cloud"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista Programador",
+            "company": "Banco Delta",
+            "location": "Panamá",
+            "start_date": "2021-03-01",
+            "end_date": "2021-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Administrar bases de datos SQL Server.",
+                "Crear y actualizar aplicaciones creadas en Genexus."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Programador Junior",
+            "company": "Veritas Digital S,A",
+            "location": "Panamá",
+            "start_date": "2018-03-01",
+            "end_date": "2021-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Actualizar componentes del sitio web creado en React.js.",
+                "Crear páginas web en Wordpress utilizando themes.",
+                "Realizar pruebas de testing utilizando Browserstack"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Operador de Laboratorios de computo",
+            "company": "Universidad Tecnológica de Panamá",
+            "location": "Penonomé",
+            "start_date": "2014-03-01",
+            "end_date": "2017-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Encargada de laboratorios de cómputo y atención al cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciado en Desarrollo de Software",
+            "institution": "Universidad Tecnológica de Panamá",
+            "location": "",
+            "start_date": "2013-03-01",
+            "end_date": "2020-05-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "sql",
+                "oracle-integration-cloud",
+                "sql-server",
+                "genexus",
+                "react.js",
+                "wordpress",
+                "browserstack"
+            ],
+            "soft": [],
+            "tools": [
+                "heidisql"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Fernando Solis",
+            "relationship": "",
+            "contact": "6237 - 8148"
+        },
+        {
+            "name": "Luz Rodríguez",
+            "relationship": "",
+            "contact": "6515 - 7859"
+        }
+    ]
+}

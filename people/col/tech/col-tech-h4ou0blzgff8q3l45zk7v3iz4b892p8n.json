@@ -1,0 +1,210 @@
+{
+    "personal_info": {
+        "first_name": "Carlos Mauricio",
+        "last_name": "Rodriguez Chisco",
+        "email": "cmrodriguez67@ucatolica.edu.co",
+        "phone": "+573002133962",
+        "location": {
+            "country": "Colombia",
+            "city": "Cumaral",
+            "state": "Meta"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Profesional en Ingeniería de Sistemas con más de 5 años de experiencia en la implementación de proyectos de BPM, desarrollo, soporte y mantenimiento de flujos automatizados."
+    },
+    "work_experience": [
+        {
+            "job_title": "Especialista IBM BPM",
+            "company": "Broers S.a.s",
+            "location": "Medellín, Colombia",
+            "start_date": "2024-10-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Evaluar y validar los requerimientos técnicos mediante IBM BPM.",
+                "Garantizar la calidad y cohesión entre procesos.",
+                "Coordinar la integración de IBM BPM con otros sistemas.",
+                "Documentar y mantener especificaciones técnicas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Especialista IBM BPM",
+            "company": "Dacartec",
+            "location": "Bogotá, Colombia",
+            "start_date": "2022-09-01",
+            "end_date": "2024-10-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaborar con los clientes para analizar y presentar alternativas de solución.",
+                "Garantizar la calidad de los desarrollos de IBM BPM.",
+                "Diseñar y desarrollar flujos de trabajo avanzados.",
+                "Documentar y mantener manuales operativos y especificaciones técnicas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Especialista IBM BPM",
+            "company": "BPS Group",
+            "location": "Bogotá, Colombia",
+            "start_date": "2022-02-01",
+            "end_date": "2022-09-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Entregar a través del ciclo de vida de aplicaciones.",
+                "Revisar el código para resolver defectos o mejorarlo.",
+                "Configurar la integración de IBM BPM con sistemas externos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Development",
+            "company": "Sophos Solutions S.A.S",
+            "location": "Bogotá, Colombia",
+            "start_date": "2019-08-01",
+            "end_date": "2022-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Entregar a través del ciclo de vida de aplicaciones.",
+                "Mantener las aplicaciones productivas y corregir errores.",
+                "Cumplir con las entregas según las estimaciones de tiempo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Omega Soluciones Web",
+            "location": "Bogotá, Colombia",
+            "start_date": "2019-05-01",
+            "end_date": "2019-08-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Mantenimiento y creación de páginas web.",
+                "Cumplir con las entregas según las estimaciones de tiempo realizadas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Practicante Universitario",
+            "company": "Banco de la Republica",
+            "location": "Bogotá, Colombia",
+            "start_date": "2018-03-01",
+            "end_date": "2018-06-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de herramientas tecnológicas para procesos operativos.",
+                "Hacer seguimiento de tareas asociadas a proyectos tecnológicos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero de Sistemas y Computación",
+            "institution": "Universidad Católica de Colombia",
+            "location": "Colombia",
+            "start_date": "2020-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller Técnico en programación de software",
+            "institution": "Sena",
+            "location": "Colombia",
+            "start_date": "2013-01-01",
+            "end_date": "2013-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachillerato Académico",
+            "institution": "Colegio José Antonio Galán",
+            "location": "Colombia",
+            "start_date": "2013-01-01",
+            "end_date": "2013-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "java",
+                "php",
+                "javascript",
+                "sql",
+                "db2",
+                "bpm",
+                "css",
+                "bootstrap",
+                "html5",
+                "xml",
+                "json"
+            ],
+            "soft": [
+                "comunicación",
+                "proactividad",
+                "capacidad-de-escucha"
+            ],
+            "tools": [
+                "eclipse",
+                "netbeans",
+                "soap-ui",
+                "postman",
+                "jira"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Gestión de Comunicaciones oficiales BPS Group",
+            "description": "",
+            "technologies": ["IBM BPM"],
+            "url": ""
+        },
+        {
+            "name": "Proceso Autoplazo Afirme",
+            "description": "Flujo Radicación Canales No Presenciales",
+            "technologies": ["IBM BPM"],
+            "url": ""
+        },
+        {
+            "name": "Proceso Pago Pagos Ya Fiduciaria",
+            "description": "Auxilio Funerario y Invalidez Porvenir",
+            "technologies": ["IBM BPM"],
+            "url": ""
+        },
+        {
+            "name": "Módulo de Documentación Fedeaa",
+            "description": "",
+            "technologies": ["Web Development"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "A1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,130 @@
+{
+    "personal_info": {
+        "first_name": "María Camila",
+        "last_name": "Montilla Orozco",
+        "email": "camimontilla20242@gmail.com",
+        "phone": "3135032225",
+        "location": {
+            "country": "Colombia",
+            "city": "Armenia",
+            "state": "Quindío"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniera con un fuerte interés en el desarrollo de software, especialmente en el área de Frontend. He estudiado y desarrollado proyectos utilizando HTML, CSS, JavaScript, React, TypeScript y Tailwind CSS. Ahora soy estudiante de ingeniería de software, busco una oportunidad como junior Developer para aplicar mis conocimientos y seguir creciendo profesionalmente en el mundo del desarrollo web."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Ingeniera civil",
+            "institution": "Universidad del Quindío",
+            "location": "Armenia, Quindío, Colombia",
+            "start_date": "2019-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Certificación bilingüe",
+            "institution": "American School Way",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Estudiante ingeniería de software",
+            "institution": "Institución Universitaria EAM",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "sql",
+                "java"
+            ],
+            "soft": [
+                "gran-capacidad-de-aprendizaje-y-adaptación",
+                "pasión-por-el-desarrollo-web-y-la-resolución-de-problemas",
+                "habilidades-de-trabajo-en-equipo-y-comunicación"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "vite",
+                "react.js",
+                "tailwind-css",
+                "zustand"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Liderazgo creativo",
+            "issuing_organization": "Crehana",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de React.js y typescript",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de desarrollo con HTML, CSS y JavaScript",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Bootcamp de programación",
+            "issuing_organization": "MinTic, Universidad de Caldas y Universidad de Antioquia",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "GuitarLa",
+            "description": "Tienda online de guitarras donde se tiene la funcionalidad de agregar ítems al carrito. Desde el carrito se pueden agregar o disminuir cantidad de cada producto, eliminar el producto o vaciar el carrito.",
+            "technologies": ["React.js", "Typescript", "hooks de React", "custom hooks"],
+            "url": "https://guitarlacmo.netlify.app/"
+        },
+        {
+            "name": "Contador de Calorías",
+            "description": "Aplicación que permite llevar un control de las calorías consumidas y quemadas, permite ingresar cada uno de los alimentos consumidos y el ejercicio realizado para así, realizar un balance de calorías.",
+            "technologies": ["React.js", "Typescript", "hooks de React", "useReducer", "TailwindCss"],
+            "url": "https://contador-calorias-cmo.netlify.app/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,152 @@
+{
+    "personal_info": {
+        "first_name": "Jorge Alejandro",
+        "last_name": "Betancur Jaramillo",
+        "email": "jabetancur12@gmail.com",
+        "phone": "+57 3138124282",
+        "location": {
+            "country": "Colombia",
+            "city": "Pereira",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/jabetancur12",
+        "website": "",
+        "portfolio": "",
+        "summary": "A dedicated Account Manager specializing in web development, API integration, and project management. Experienced in managing client relationships and providing technical solutions with exceptional problem-solving and communication skills. Proficient in leveraging API technologies to drive seamless integrations and enhance user experiences. Committed to optimizing onboarding processes, providing technical guidance, and ensuring client success in a dynamic environment."
+    },
+    "work_experience": [
+        {
+            "job_title": "Publisher Account Manager",
+            "company": "Teads",
+            "location": "",
+            "start_date": "2020-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Manage publisher accounts across LATAM, optimizing ad revenue and script integrations.",
+                "Troubleshoot technical issues related to script implementation, infrastructure blocks, and ad performance.",
+                "Provide data-driven recommendations to improve script efficiency and ad visibility."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Development Analyst",
+            "company": "El Espectador",
+            "location": "",
+            "start_date": "2019-11-01",
+            "end_date": "2020-12-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed and optimized the new website using ReactJS, improving UI/UX.",
+                "Integrated AMP technology, enhancing mobile accessibility and site speed.",
+                "Improved SEO ranking through structured metadata and optimized content strategies.",
+                "Reduced website loading times by 30% through performance enhancements."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Support Engineer",
+            "company": "Automatización y Control",
+            "location": "",
+            "start_date": "2014-10-01",
+            "end_date": "2017-09-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Led industrial automation projects, including PLC and SCADA programming.",
+                "Managed the complete automation of a cement factory from design to execution.",
+                "Provided technical support and troubleshooting for production systems."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Specialization in Project Management",
+            "institution": "Universidad Piloto de Colombia",
+            "location": "",
+            "start_date": "",
+            "end_date": "2019-11-01",
+            "hours": 0
+        },
+        {
+            "degree": "Degree in Electronic Engineering",
+            "institution": "Universidad Tecnológica de Pereira",
+            "location": "",
+            "start_date": "",
+            "end_date": "2013-06-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "node.js",
+                "python",
+                "ruby"
+            ],
+            "soft": [
+                "problem-solving",
+                "communication"
+            ],
+            "tools": [
+                "react.js",
+                "express.js",
+                "mongoose",
+                "ruby-on-rails",
+                "postgresql",
+                "mongodb",
+                "nginx",
+                "rest-apis",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Metromedics Platform",
+            "description": "Developed the landing page for metromedics.com.co and a platform for tracking calibration certificates and quality management system for the metrology laboratory.",
+            "technologies": ["React", "Express.js", "Nginx", "Material UI", "REST APIs", "PostgreSQL"],
+            "url": ""
+        },
+        {
+            "name": "Environmental Monitoring Platform - Smaf",
+            "description": "Developed a monitoring platform for environmental variables in crops, allowing users to visualize data trends through interactive graphs over different time periods.",
+            "technologies": ["React", "Express.js", "MongoDB", "MQTT", "Nginx", "REST APIs"],
+            "url": ""
+        },
+        {
+            "name": "Web app leposti.com",
+            "description": "Developed an application to order legal publications using NextJS and integrated with Strapi and PAYU.",
+            "technologies": ["Next.js", "Express.js", "Strapi", "REST APIs", "Ant Design", "CSS3", "HTML5", "PostgreSQL"],
+            "url": ""
+        },
+        {
+            "name": "El Espectador UI Redesign",
+            "description": "Contributed to the UI redesign, developing reusable React components.",
+            "technologies": ["React.js", "Rest APIs", "Storybook", "SASS", "HTML5"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Advanced"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

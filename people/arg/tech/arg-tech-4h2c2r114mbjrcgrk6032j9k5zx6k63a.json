@@ -1,0 +1,251 @@
+
+{
+    "personal_info": {
+        "first_name": "Javier Jonathan",
+        "last_name": "Solis Flores",
+        "email": "javiersoliscontact@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Peru",
+            "city": "Lima",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/android-developer-peru/",
+        "website": "https://www.behance.net/Javier/Solis",
+        "portfolio": "",
+        "summary": "Ingeniero de Sistemas con más de 10 años de experiencia en desarrollo de aplicaciones móviles y backend, también proyectos freelance, propios y optimización de procesos BackOffice. He trabajado en proyectos freelance y optimización de procesos internos, con amplia adaptación a entornos ágiles y colaborativos. Habilidad para coordinar con equipos multidisciplinarios y experiencia en diversas tecnologías."
+    },
+    "work_experience": [
+        {
+            "job_title": "FullStack Developer",
+            "company": "Ripley",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé un sistema de scraping para tiendas retail, extrayendo datos de búsqueda de productos, modificación del carrito y checkout, para su análisis en Power BI.",
+                "Diseñé y orquesté una arquitectura en AWS utilizando Laravel, AWS Lambda, S3, EC2 y MySQL como base de datos.",
+                "Implementé una aplicación web con Laravel, Bootstrap y Vue.js para monitorear en tiempo real el progreso del scraping.",
+                "Utilicé Zety para obtener IPs dedicadas de ubicaciones específicas, evitando bloqueos y asegurando el acceso a las tiendas target.",
+                "Analicé los logs de CloudWatch para monitorear y analizar el rendimiento del servidor.",
+                "Realicé pruebas automatizadas para cada tienda."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Android Developer Senior",
+            "company": "El Universal",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé y mantuve el cliente Android, aplicando mejoras para hacerlo más fácil de escalar y mantener.",
+                "Diseñé una arquitectura escalable multimodular.",
+                "Implementé mejoras de seguridad que resolvieron el 100% de las observaciones de SonarQube."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "FullStack Android/Python/Php Developer",
+            "company": "DoItEasy",
+            "location": "",
+            "start_date": "2021-06-01",
+            "end_date": "2023-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé un sistema de logística y logística inversa para gestionar entregas y devoluciones.",
+                "Fui responsable del desarrollo integral de aplicaciones Android para diversos usuarios.",
+                "Coordiné y colaboré en la lógica backend."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Freelance FullStack Developer",
+            "company": "Santillana S.A.C.",
+            "location": "",
+            "start_date": "2017-09-01",
+            "end_date": "2018-07-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero de sistemas",
+            "institution": "Universidad Nacional Mayor de San Marcos",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "kotlin",
+                "php",
+                "python",
+                "java",
+                "swift",
+                "objective-c",
+                "javascript",
+                "c#",
+                "laravel",
+                "android-sdk",
+                "gwt",
+                "wpf",
+                "wcf",
+                "vue",
+                "jetpack-compose",
+                "picasso",
+                "glide",
+                "lottie",
+                "hilt",
+                "koin",
+                "gson",
+                "json",
+                "moshi",
+                "room",
+                "pub/sub",
+                "notificationes-fcm",
+                "apple-push-notifications",
+                "sns",
+                "mvp",
+                "mvvm",
+                "restful",
+                "sqlite",
+                "databinding",
+                "lifecycle",
+                "livedata",
+                "viewmodel",
+                "google-maps",
+                "polilíneas",
+                "modular",
+                "monolito",
+                "mysql",
+                "sql-server",
+                "oracle",
+                "mongodb",
+                "postgresql",
+                "mariadb",
+                "aws",
+                "gcp",
+                "docker",
+                "firebase"
+            ],
+            "soft": [],
+            "tools": [
+                "android-studio",
+                "xcode",
+                "phpstorm",
+                "pycharm",
+                "webstorm",
+                "custom-view",
+                "xml",
+                "bootstrap",
+                "homestead",
+                "supervisor",
+                "github",
+                "gitlab",
+                "bitbucket",
+                "firebase",
+                "scrum",
+                "rup",
+                "sentry",
+                "sendgrid",
+                "emarsys",
+                "logrocket",
+                "scraping",
+                "google-play-store",
+                "apple-store"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Api Testing",
+            "issuing_organization": "Postman",
+            "issue_date": "2024-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Google Cloud: Core Infrastructure",
+            "issuing_organization": "Google",
+            "issue_date": "2024-09-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "ChatGpt Prompt Engineering",
+            "issuing_organization": "DeepLearning.Ai",
+            "issue_date": "2024-08-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Generative AI for Project Managers",
+            "issuing_organization": "Pmi.org",
+            "issue_date": "2024-05-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "AWS Practitioner",
+            "issuing_organization": "AWS",
+            "issue_date": "2023-03-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Scrum Master",
+            "issuing_organization": "Scrum.org",
+            "issue_date": "2019-02-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Android Arquitectura Kotlin para Android",
+            "issuing_organization": "Udemy",
+            "issue_date": "2019-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "IOS WooComerce configuración CheckoutPro",
+            "issuing_organization": "JetBrains",
+            "issue_date": "2024-09-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "Intermedio"
+        },
+        {
+            "language": "Italiano",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

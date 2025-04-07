@@ -1,0 +1,142 @@
+{
+    "personal_info": {
+        "first_name": "David",
+        "last_name": "Izquierdo Baine",
+        "email": "isaacizquierdo06@gmail.com",
+        "phone": "(302) 279-6067",
+        "location": {
+            "country": "Colombia",
+            "city": "Soledad",
+            "state": "Atlántico"
+        },
+        "linkedin": "https://linkedin.com/in/isaac-david-izquierdo-baine-b63144230/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Tecnólogo en Análisis y Desarrollo de Software con experiencia en soporte técnico, desarrollo backend con Java y manejo de bases de datos SQL Server y MySQL."
+    },
+    "work_experience": [
+        {
+            "job_title": "Soporte de Software / Consultor IT",
+            "company": "NTT DATA",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "2025-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Brindé soporte técnico en facturación electrónica para TERPEL.",
+                "Gestioné bases de datos SQL Server y realice generación de reportes automatizados.",
+                "Atendí incidencias técnicas, mejorando tiempos de respuesta y reduciendo errores en un 15%.",
+                "Documenté procedimientos y asistí en implementación de soluciones en entorno empresarial."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador de Software",
+            "company": "SENA (Sucre)",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2025-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Participé en el diseño de arquitectura de software y desarrollo de soluciones orientadas a la gestión de información.",
+                "Implementé pruebas funcionales y colabore en la definición de requisitos técnicos.",
+                "Programé Front-end y Back end del software.",
+                "Apoyé propuestas técnicas y documentación para proyectos de tecnología."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Instalador de Redes",
+            "company": "Prosalmin",
+            "location": "",
+            "start_date": "2018-06-01",
+            "end_date": "2019-06-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Instalación y mantenimiento de redes de telecomunicaciones (fibra óptica, cable coaxial, etc.).",
+                "Coordinación de tareas en campo y pruebas básicas de línea para diagnóstico de fallas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnólogo en Análisis y Desarrollo de Sistemas de Software",
+            "institution": "SENA Sucre",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Instalación de Redes",
+            "institution": "SENA Antioquia",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller Académico",
+            "institution": "IEI San Antonio - IEAAC",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["java", "python", "javascript", "php", "mysql", "sql-server", "jsp", "spring-boot", "gson", "apis-rest", "json"],
+            "soft": ["comprometido", "orientado-a-resultados", "resolución-de-problemas-técnicos"],
+            "tools": ["intellij-idea", "git", "postman", "scrum", "kanban"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "API REST de STARWARS",
+            "description": "",
+            "technologies": [],
+            "url": "https://github.com/isaacizq/Alura_Cursos_API_STARWARS"
+        },
+        {
+            "name": "Spring JPA Challenge",
+            "description": "",
+            "technologies": [],
+            "url": "https://github.com/isaacizq/challenge_string_JPA"
+        },
+        {
+            "name": "API REST - FORO (Alura)",
+            "description": "",
+            "technologies": [],
+            "url": "https://github.com/isaacizq/alura_curso_API-REST-FORO"
+        },
+        {
+            "name": "Sistema de Dotación de ropa de trabajo (Proyecto SENA)",
+            "description": "",
+            "technologies": [],
+            "url": "https://github.com/isaacizq/Dotacion_SENA"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (lectura y escritura), Básico (habla)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

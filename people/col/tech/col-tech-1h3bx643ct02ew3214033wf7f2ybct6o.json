@@ -1,0 +1,132 @@
+{
+    "personal_info": {
+        "first_name": "Juan Esteban",
+        "last_name": "Narvaez Carvajal",
+        "email": "juesnaca99@gmail.com",
+        "phone": "+573176748714",
+        "location": {
+            "country": "Colombia",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero electrónico con una sólida formación académica y una fuerte orientación hacia el desarrollo de software. Poseo un conocimiento profundo en lenguajes de programación como JavaScript, Java y Python y he trabajado en el desarrollo de aplicaciones web y de escritorio. Soy un profesional autodidacta y proactivo, con una capacidad comprobada para resolver problemas complejos y aprender nuevas tecnologías rápidamente. Busco una oportunidad para aplicar mis conocimientos en un entorno dinámico y desafiante, donde pueda contribuir al desarrollo de soluciones innovadoras y mejorar continuamente mis habilidades técnicas."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Formación en Tecnología y Programación",
+            "institution": "Oracle Next Education",
+            "location": "Virtual",
+            "start_date": "2024-06-01",
+            "end_date": "2025-01-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Electrónica",
+            "institution": "Universidad Surcolombiana",
+            "location": "Neiva, Colombia",
+            "start_date": "2017-02-01",
+            "end_date": "2024-04-30",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomado en Programación, MISIÓN TIC 2022",
+            "institution": "Universidad El Bosque",
+            "location": "Virtual",
+            "start_date": "2021-04-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "java",
+                "node.js",
+                "react.js",
+                "angular",
+                "spring-boot",
+                "python",
+                "sql",
+                "nosql"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "mysql",
+                "postgresql",
+                "mongodb",
+                "excel"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [
+        {
+            "name": "Scrum Fundamentals Certified (SFC)",
+            "issuing_organization": "SCRUMstudy",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "EF SET English Certificate 73/100 (C2 Advanced)",
+            "issuing_organization": "EF Standard English Test (EF SET)",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Excel - Básico, Intermedio y Avanzado",
+            "issuing_organization": "Udemy Universidad",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Javascript - De Cero a Experto",
+            "issuing_organization": "Udemy Universidad",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Java - De Cero a Experto",
+            "issuing_organization": "Udemy Universidad",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Interfaz Gráfica para la Detección de Enfermedades usando Python",
+            "description": "En este proyecto se desarrolló un programa capaz de detectar posibles enfermedades coronarias a través de la extracción de características de las ondas P, Q, R, S y T de un electrocardiograma realizado por el dispositivo Kardia 6L de un paciente. El usuario o paciente, por medio de una interfaz gráfica realizada con Tkinter cargaba el resultado médico en formato PDF para posteriormente ser analizado con OpenCV y Numpy y finalmente recibir un diagnostico.",
+            "technologies": [
+                "Python",
+                "Tkinter",
+                "OpenCV",
+                "Numpy"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "C1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

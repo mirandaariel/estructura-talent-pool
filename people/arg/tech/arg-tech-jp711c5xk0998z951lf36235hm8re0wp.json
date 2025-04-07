@@ -1,0 +1,80 @@
+{
+    "personal_info": {
+        "first_name": "Gaspar",
+        "last_name": "Gomez",
+        "email": "gaspargomez2000@outlook.com",
+        "phone": "+543876056178",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "https://ggomez.tech",
+        "portfolio": "",
+        "summary": "Backend Developer with experience in developing RESTful APIs, microservices, and cloud architectures on AWS. Specialized in Python, JavaScript (Node.js), and relational/non-relational databases. Skilled in CI/CD, automation, and agile methodologies (Scrum, Kanban). Focused on building scalable, efficient, and secure solutions."
+    },
+    "work_experience": [
+        {
+            "job_title": "FullStack Developer",
+            "company": "OpenScreens",
+            "location": "Remote",
+            "start_date": "2024-02-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed a real-time WebSocket chat system using Python and JavaScript.",
+                "Processed 300 TB of data for poker predictions with response times under 3 seconds.",
+                "Automated bots for multiple platforms.",
+                "Managed infrastructure on AWS (EC2, ALB, SSL certificates).",
+                "Collaborated on Scrum-based projects in English."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree in Computer Engineering",
+            "institution": "Universidad Católica de Salta (UCASAL)",
+            "location": "Salta, Argentina",
+            "start_date": "2019-02-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "python",
+                "sql",
+                "react",
+                "astro",
+                "tailwindcss",
+                "flask",
+                "restful-apis",
+                "microservices",
+                "aws",
+                "ci/cd",
+                "docker",
+                "postgresql",
+                "mysql",
+                "mongodb"
+            ],
+            "soft": [
+                "agile-methodologies",
+                "scrum",
+                "kanban"
+            ],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

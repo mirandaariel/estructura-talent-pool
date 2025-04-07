@@ -1,0 +1,195 @@
+{
+    "personal_info": {
+        "first_name": "Ramiro Ignacio",
+        "last_name": "Lizarraga",
+        "email": "ramiroignacio_14@hotmail.com",
+        "phone": "+5491157605311",
+        "location": {
+            "country": "Argentina",
+            "city": "Quilmes",
+            "state": "Don Bosco"
+        },
+        "linkedin": "https://linkedin.com/in/ramiro-ignacio-lizarraga-3a9b0311a/",
+        "website": "",
+        "portfolio": "https://github.com/ramiabbott",
+        "summary": "Desarrollador back-end con conocimientos en Node.js y Nest utilizando Javascript y Typescript, comprometido con el trabajo en equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Back-end",
+            "company": "Flexwork",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Manejo de base de datos relacional",
+                "Prueba y desarrollo de APIs con postman",
+                "Armado de rutas, servicios y servidor",
+                "Implementación de token con JWT",
+                "Envios automatizados con Resend"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Back-end",
+            "company": "Esencia IA",
+            "location": "",
+            "start_date": "2023-10-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Manejo de base de datos relacional",
+                "Prueba y desarrollo de APIs con postman",
+                "Armado de rutas, servicios y servidor",
+                "Implementación de token con JWT",
+                "Implementaciones de APIs recibidas de Data science"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "Holidays App",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2023-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Armado de la base de datos",
+                "Implementación de una arquitectura limpia",
+                "Armado de rutas, middleware services",
+                "Implementar token",
+                "Testeos"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "Consultora educativa",
+            "location": "Lima, Perú",
+            "start_date": "2023-07-01",
+            "end_date": "2023-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Armado de la base de datos",
+                "Implementación de una arquitectura limpia",
+                "Armado de rutas, middleware services"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "Bachiller en Ingeniería de Sistemas",
+            "institution": "Universidad Mayor de San Marcos",
+            "location": "",
+            "start_date": "2010-01-01",
+            "end_date": "2015-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tercer año de Computación",
+            "institution": "Universidad Alas del Sur",
+            "location": "",
+            "start_date": "2009-01-01",
+            "end_date": "2009-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "python",
+                "node",
+                "nest",
+                "mysql",
+                "mongodb",
+                "postgres"
+            ],
+            "soft": [
+                "compromiso",
+                "solidaridad",
+                "comunicativo",
+                "abierto-a-opiniones"
+            ],
+            "tools": [
+                "git",
+                "slack",
+                "trello",
+                "monday",
+                "readme.md"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "FLEXWORKLATAM",
+            "description": "Plataforma de trabajo enfocado a profesionales que brindan sus servicios.",
+            "technologies": [
+                "sequelize",
+                "jwt",
+                "dotenv",
+                "resend",
+                "express",
+                "mysql"
+            ],
+            "url": ""
+        },
+        {
+            "name": "EWAFFLE",
+            "description": "Aplicación que facilita un diagnóstico eficaz a un Scrum Master implementando IA.",
+            "technologies": [
+                "sequelize",
+                "jwt",
+                "dotenv",
+                "resend",
+                "express",
+                "socket",
+                "mysql",
+                "mongodb"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Holidays",
+            "description": "Aplicación Mobile para organizar eventos nocturnos orientado a un público joven.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "EducaAgil",
+            "description": "Proyecto de capacitación docente mediante encuestas.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "A2 - B1"
+        },
+        {
+            "language": "Portugués",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

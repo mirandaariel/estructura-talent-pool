@@ -1,0 +1,141 @@
+{
+    "personal_info": {
+        "first_name": "Eliana",
+        "last_name": "Suancha Guzman",
+        "email": "elianitasuanguz@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Colombia",
+            "city": "Cajicá",
+            "state": "Cundinamarca"
+        },
+        "linkedin": "",
+        "website": "https://github.com/elianisdev",
+        "portfolio": "",
+        "summary": "Desarrolladora Frontend enfocada en la creación de aplicaciones web SPA con un sólido dominio de React.js. Destacada en el diseño de interfaces modernas, responsivas y atractivas usando HTML5, CSS3, SASS, Bootstrap, Material UI y JavaScript. Experiencia en la integración y consumo de APIs REST, aprovechando el potencial de TypeScript para crear código más robusto, legible y fácil de mantener. Conocimientos en el desarrollo backend con Node.js y Express.js, bases de datos como MongoDB y MySQL, y servicios en la nube. Habilidad para el versionamiento de código usando Git y plataformas como GitHub y Bitbucket. Familiarizada con metodologías ágiles como SCRUM, participando activamente en proyectos que optimizan procesos y mejoran la eficiencia de sistemas digitales. Comprometida con la innovación, el aprendizaje continuo y el trabajo en equipo para entregar soluciones efectivas y de calidad."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador frontend",
+            "company": "TechyWe",
+            "location": "San Salvador, El Salvador",
+            "start_date": "2022-12-01",
+            "end_date": "2023-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé e implementé interfaces de usuario para aplicaciones SPA usando React.js, creando experiencias interactivas y eficientes.",
+                "Servicios integrados en la nube con aws S3 y AdobePDF, mejorando la eficiencia en la gestión de documentos digitales.",
+                "Gestioné el versionamiento de código usando Git y plataformas como GitHub.",
+                "Participé en metodologías ágiles SCRUM."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrolladora de Front-End",
+            "company": "CasaToro Automotriz",
+            "location": "Bogotá, Distrito Capital, Colombia",
+            "start_date": "2022-04-01",
+            "end_date": "2022-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboración en aplicaciones Web SPA con: Framework VueJs, Consumo de Apis Rest, Diseño de interfases con CSS y SASS, Despliegues continuos, Metodología SCRUM, Versionamiento con Git."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web Front-end",
+            "company": "Software Corporation",
+            "location": "Bogotá, Distrito Capital, Colombia",
+            "start_date": "2021-01-01",
+            "end_date": "2022-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé plataformas web usando HTML5, CSS, JavaScript y frameworks como React.js.",
+                "Colaboré en la creación de APIs REST con Node.js y Express.js, mejorando la conectividad entre el frontend y backend.",
+                "Aseguré el diseño web responsive bajo metodologías SCRUM.",
+                "Utilicé Git para el versionamiento de código, asegurando buenas prácticas en colaboración y despliegues."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Tongo Design",
+            "location": "Bogotá, Distrito Capital, Colombia",
+            "start_date": "2020-05-01",
+            "end_date": "2020-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Migración de aplicaciones a diferentes compañías cliente, proyectos de React Js a Vue Js, basados en la gestión de usuarios e informes.",
+                "Diseño responsive con SCSS y frameworks Bootstrap."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Software",
+            "institution": "Universidad Manuela Beltrán",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["react.js", "typescript", "html9", "api-rest", "javascript", "git", "node.js", "bootstrap", "material-ui", "tailwind", "vue-js", "sass", "mongodb", "mysql"],
+            "soft": ["scrum", "metodologias-agiles"],
+            "tools": ["github", "aws"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Curso Profesional de Git y GitHub",
+            "issuing_organization": "Platzi",
+            "issue_date": "2023-03-01",
+            "expiration_date": "2023-04-01",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de React, TypeScript y Material UI",
+            "issuing_organization": "Ademass",
+            "issue_date": "2024-03-01",
+            "expiration_date": "2024-05-01",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso Profesional de React.js y Redux",
+            "issuing_organization": "Platzi",
+            "issue_date": "2023-09-01",
+            "expiration_date": "2023-10-01",
+            "credential_id": ""
+        },
+        {
+            "name": "Backend con Node.js: API REST con Express.js",
+            "issuing_organization": "Platzi",
+            "issue_date": "2023-09-01",
+            "expiration_date": "2023-10-01",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Fundamentos de TypeScript",
+            "issuing_organization": "Platzi",
+            "issue_date": "2023-09-01",
+            "expiration_date": "2023-10-01",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

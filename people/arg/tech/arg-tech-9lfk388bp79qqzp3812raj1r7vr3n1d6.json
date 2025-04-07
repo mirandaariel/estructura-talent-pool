@@ -1,0 +1,116 @@
+{
+    "personal_info": {
+        "first_name": "Franco",
+        "last_name": "Roldan",
+        "email": "ingordillo2@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy estudiante de Redes Informáticas en la UNSAM. Cuento con certificaciones en Ciberseguridad y Python. Tengo especial interés en la automatización de tareas vinculadas a la seguridad informática."
+    },
+    "work_experience": [
+        {
+            "job_title": "Profesor de Literatura",
+            "company": "Instituto San Telmo",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Profesor a cargo de los cursos de Lengua y Literatura para los ingresos al CNBA y Carlos Pellegrini"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Profesor de Literatura",
+            "company": "Instituto Rayuela",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Profesor a cargo de los cursos de Lengua y Literatura para los ingresos al CNBA y Carlos Pellegrini"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Encargado de E-commerce",
+            "company": "Carrefour",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Encargado de la logística y armado de pedidos en el sector de e-commerce en Carrefour"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Letras",
+            "institution": "Universidad de Buenos Aires",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnicatura en Redes Informáticas",
+            "institution": "Universidad de San Martin",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "html",
+                "css",
+                "kali-linux"
+            ],
+            "soft": [
+                "resolucion-de-problemas",
+                "optimizacion-de-codigo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Certificación en Ciberseguridad",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificación en Python",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

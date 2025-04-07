@@ -1,0 +1,185 @@
+{
+    "personal_info": {
+        "first_name": "Ricardo",
+        "last_name": "Molina Coronel",
+        "email": "ridumoli@espol.edu.ec",
+        "phone": "0988975302",
+        "location": {
+            "country": "Ecuador",
+            "city": "Guayaquil",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Actualmente soy Ingeniero en Ciencias de la Computación. He evolucionado desde que empecé a programar a los 15 años en C hasta mi pasión actual por la inteligencia artificial y su capacidad de resolver problemas complejos que ninguna otra tecnología es capaz de abordar en un sinnúmero de áreas. Tengo experiencia verificable en el desarrollo y despliegue de proyectos de software nativo y multiplataforma (Móvil, Escritorio y Web), para varias empresas nacionales, incluyendo entidades del sistema financiero, así como en el diseño e implementación de modelos de machine learning, logrando modelos de hasta un 99% de exactitud de predicción. Me distingo por mi compromiso con el aprendizaje y fortalecimiento constante de mis habilidades. Puedo colaborar con eficacia, responsabilidad y proactividad, así como trabajar en equipo con empatía, adaptabilidad y aprendizaje rápido."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador de aplicaciones",
+            "company": "RetailPoint Del Ecuador S.A",
+            "location": "Guayaquil, Ecuador",
+            "start_date": "2021-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador de aplicaciones",
+            "company": "Contabilly S.A",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de versión móvil de aplicativo web con React Native.",
+                "Desarrollo de frontend y backend con API Rest, de aplicativo web de sistema de ventas, oferta y demanda con React.js y Express.js"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de Datos e Ingeniero de Machine Learning",
+            "company": "Lab. Bioingeniería y Neuroimagen - ESPOL",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Procesamiento y análisis de datos de señales electrofisiológicas para la optimización y entrenamiento de modelos de Inteligencia Artificial.",
+                "Diseño y desarrollo de modelos de Machine Learning y Deep Learning para detección de Enfermedad de Parkinson.",
+                "Redacción de artículo científico en proceso de publicación en IEEE Xplore basado en los hallazgos del estudio."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ayudante de investigación",
+            "company": "Escuela Superior Politécnica del Litoral",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "2024-09-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Preprocesamiento y análisis de datos clínicos tabulares, aplicando técnicas de limpieza y selección de características.",
+                "Desarrollo e implementación de modelos de Machine Learning para la predicción del riesgo de infarto al miocardio, optimizando el rendimiento de las métricas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero en Ciencias de la Computación",
+            "institution": "Escuela Superior Politécnica del Litoral",
+            "location": "Guayaquil, Ecuador",
+            "start_date": "2020-02-01",
+            "end_date": "2025-01-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Sistemas",
+            "institution": "U.E José Domingo de Santistevan",
+            "location": "Guayaquil, Ecuador",
+            "start_date": "2017-02-01",
+            "end_date": "2020-02-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "python",
+                "javascript",
+                "kotlin",
+                "c",
+                "tensorflow",
+                "pytorch",
+                "keras",
+                "scikit-learn",
+                "spacy",
+                "nltk",
+                "transformers",
+                "llms",
+                "android-sdk",
+                "flutter",
+                "react-native",
+                "react.js",
+                "angular.js",
+                "express.js",
+                "aws",
+                "mysql",
+                "sqlite",
+                "dynamodb",
+                "firestore",
+                "godot-engine",
+                "unity-2d"
+            ],
+            "soft": [
+                "compromiso",
+                "aprendizaje-constante",
+                "eficacia",
+                "responsabilidad",
+                "proactividad",
+                "trabajo-en-equipo",
+                "empatía",
+                "adaptabilidad",
+                "aprendizaje-rápido"
+            ],
+            "tools": [
+                "scrum",
+                "git"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "AWS Academy Data Engineering",
+            "issuing_organization": "AWS Academy",
+            "issue_date": "2025-01-01",
+            "expiration_date": "2028-01-01",
+            "credential_id": ""
+        },
+        {
+            "name": "C1 or above English level",
+            "issuing_organization": "CELEX/ESPOL",
+            "issue_date": "2025-03-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Fluido"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "César Cruz",
+            "relationship": "Gerente General",
+            "contact": "cesar.cruz@retailpointdelecuador.com"
+        },
+        {
+            "name": "Jorge San Lucas",
+            "relationship": "Jefe de Sistemas y Proyectos",
+            "contact": "sistemas@retailpointdelecuador.com"
+        },
+        {
+            "name": "Fernando Molina",
+            "relationship": "Programador de Sistemas",
+            "contact": "fmolina@inti-moda.com"
+        }
+    ]
+}
