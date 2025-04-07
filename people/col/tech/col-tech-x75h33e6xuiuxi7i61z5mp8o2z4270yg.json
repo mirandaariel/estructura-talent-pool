@@ -1,0 +1,150 @@
+{
+    "personal_info": {
+        "first_name": "Santiago",
+        "last_name": "Vallejo Salazar",
+        "email": "Santivasa74@hotmail.com",
+        "phone": "+57 3004535675",
+        "location": {
+            "country": "Colombia",
+            "city": "Cali",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Systems engineer with over 8 years of experience in the software development cycle, from understanding a problem and creating a solution, engaging with clients, to developing and delivering the solution. I have worked in both the public and private sectors, including entrepreneurial endeavors. As a Product Manager, Full Stack Developer, and often a QA with agile methodologies, I've had the opportunity to support the entire software development process by coordinating internal and external teams. As a Product Manager and entrepreneur, I place a strong emphasis on developing strategic agility, planning, and building strong relationships to help achieve our goals. In development, I am well-versed in tools like Node, React, JS, Java, Python, and CR, as well as databases like MySQL, Oracle, and SQL Server. I've found that promoting self-management and long-term thinking within my team is key to optimizing time and efficiency, ultimately leading to better results."
+    },
+    "work_experience": [
+        {
+            "job_title": "Product Manager and Senior Developer",
+            "company": "Secretariat of Economic Development - Mayor's Office of Cali",
+            "location": "Cali",
+            "start_date": "2021-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Requirements gathering, design, development, and monitoring the implementation of the TalentoTIC, Dinamiza, and Cali Circular applications.",
+                "Talento TIC: Responsible for gathering software requirements and creating documentation according to government guidelines.",
+                "Dinamiza: Product Manager and software developer working with Node, React, and MySQL.",
+                "Cali Circular: Coordinating a small team, overseeing development, software testing, and maintenance."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Developer",
+            "company": "BikeFit Studio Cali",
+            "location": "Cali",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed software with a Java backend to analyze videos in a simulator for joint range of motion to improve performance."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Developer and QA",
+            "company": "DevBot Studio",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2020-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Senior developer working with pure JS. Expanded the base project by creating new modules for the web portal, app, and client portal, leading a team of 5 developers.",
+                "Designed and developed unit, functional, performance, and integration tests."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Developer and QA",
+            "company": "Ensamble Metalmecánicos Juan S. Munera",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2019-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Created the architecture for accounting software (desktop app) developed in Java using MySQL.",
+                "Worked to make the user experience as intuitive as possible due to Java's poor libraries.",
+                "Designed and developed unit, functional, performance, and integration tests.",
+                "Requirements gathering.",
+                "Post-creation maintenance and module expansion."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Developer",
+            "company": "Club RunMax Triathlon",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2017-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Created and developed a website and application for athletes in PHP."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Systems Engineering",
+            "institution": "Pontificia Universidad Javeriana",
+            "location": "",
+            "start_date": "2012-01-01",
+            "end_date": "2012-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "node",
+                "react",
+                "js",
+                "java",
+                "python",
+                "cr",
+                "mysql",
+                "oracle",
+                "sql-server"
+            ],
+            "soft": [
+                "strategic-agility",
+                "planning",
+                "building-relationships",
+                "self-management",
+                "long-term-thinking"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Programming in HTML5 with JavaScript and CSS3 Specialist",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Artificial Intelligence Course EDX",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

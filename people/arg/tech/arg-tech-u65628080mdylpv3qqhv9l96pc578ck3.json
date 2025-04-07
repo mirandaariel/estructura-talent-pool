@@ -1,0 +1,105 @@
+{
+    "personal_info": {
+        "first_name": "Lucas",
+        "last_name": "Mella",
+        "email": "mellalucas.v@gmail.com",
+        "phone": "+56 9 81314078",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Programador FullStack con más de 6 meses de experiencia en desarrollo web con Javascript, React, NodeJs, PostgreSQL, HTML y CSS. He conseguido una experiencia competente en el desarrollo de aplicaciones, API's, OAuth2 para inicio de sesión con Google, pasarela de pagos. Culminar mis estudios me dio una noción de los desafíos y problemáticas que enfrento hoy en día como desarrollador. Lo que busco a nivel laboral es constantemente mejorar mis habilidades y explotar mis conocimientos adquiridos del rubro."
+    },
+    "work_experience": [
+        {
+            "job_title": "Fullstack Developer",
+            "company": "CorteWorld",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "2024-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Página web E-Commerce (Nest y Next).",
+                "Modelar base de datos y sus relaciones con TypeORM. Base de datos MySQL.",
+                "Inicio de sesión con Google (Firebase), pasarela de pago WebPay, llamada de info. a API, form con validaciones, filtros y búsqueda de productos."
+            ],
+            "achievements": [],
+            "repository_url": "https://corteworld.vercel.ago"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Fullstack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 800
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "nestjs",
+                "typescript",
+                "javascript",
+                "react",
+                "redux-toolkit",
+                "nodejs",
+                "express",
+                "sequelize",
+                "postgresql",
+                "mysql",
+                "tailwindcss",
+                "html",
+                "css",
+                "git",
+                "github"
+            ],
+            "soft": [],
+            "tools": [
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "TasKIFy",
+            "description": "Página web organizadora de tareas personales.",
+            "technologies": [
+                "TypeScript",
+                "React",
+                "Redux Toolkit",
+                "TailwindCSS",
+                "NodeJs",
+                "NestJs",
+                "TypeORM",
+                "PostgreSQL"
+            ],
+            "url": "https://taskifv-three-mu.vercel.ago/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "CI",
+            "certification": "EFSET: https://cert.efset.org/invo13"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

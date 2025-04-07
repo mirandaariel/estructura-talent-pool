@@ -1,0 +1,250 @@
+{
+    "personal_info": {
+        "first_name": "Dennys",
+        "last_name": "Tierra",
+        "email": "dennismarlon14@gmail.com",
+        "phone": "+593 993096567",
+        "location": {
+            "country": "Ecuador",
+            "city": "Duran",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/dennys-marlon-tierra-alvarado-7764b22a6/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un profesional apasionado y altamente motivado a las implementaciones Tecnológicas, especializado en el diseño y desarrollo de soluciones innovadoras y escalables, con experiencias en el campo de la tecnología y mi objetivo es contribuir al desarrollo de proyectos que impulsen eficiencia e innovación tecnológica"
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollo Web",
+            "company": "Elitelogis S.A",
+            "location": "",
+            "start_date": "2022-09-01",
+            "end_date": "2023-09-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y desarrollé una Landing page en WordPress optimizada para conversión e interacción.",
+                "Mantuve y mejoré una plataforma de educación online, asegurando su rendimiento y escalabilidad.",
+                "Gestioné un CRM creando flujos y plantillas de correos para la comunicación comercial.",
+                "Supervisé el mantenimiento y actualización de equipos tecnológicos, garantizando su óptimo funcionamiento."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Pasante de Infraestructura",
+            "company": "ARCACONTINENTAL",
+            "location": "",
+            "start_date": "2023-09-15",
+            "end_date": "2024-08-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestioné el mantenimiento preventivo y correctivo de equipos de cómputo para la empresa y centros de distribución, minimizando el tiempo de inactividad.",
+                "Proporcioné soporte técnico integral a usuarios, tanto de forma remota como presencial, para resolver problemas de hardware y software.",
+                "Configuré y ajusté equipos tecnológicos según las necesidades de cada área.",
+                "Optimizé el uso de herramientas ofimáticas, mejorando la eficiencia y productividad de los usuarios.",
+                "Desarrollé el sitio web para la Asociación de Empleados de Asoace, cumpliendo con los requerimientos y aplicando mejoras continuas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Pasante de Aplicaciones Financieras",
+            "company": "Banco Guayaquil",
+            "location": "",
+            "start_date": "2024-09-31",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Software",
+            "institution": "Universidad de Guayaquil",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "bootstrap",
+                "js",
+                "css",
+                "jquery",
+                "ajax",
+                "tailwind-css",
+                "angular-17",
+                "angular-18",
+                "angular-16",
+                "c#-mvc",
+                "consumo-de-api",
+                "php",
+                "asp.net",
+                "appis",
+                "kotlin",
+                "flutter",
+                "blazor-webassembly",
+                "sql-server",
+                "tsql",
+                "phpmyadmin",
+                "mysql"
+            ],
+            "soft": [],
+            "tools": [
+                "html5",
+                "css3",
+                "wordpress",
+                "phpmyadmin",
+                "crm",
+                "aws",
+                "api-rest",
+                "postman",
+                "azure",
+                "git",
+                "oracle"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Certificación Udemy PHP",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificación Udemy Power BI",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificación Master en C# MVC",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificación en Consumo de REST API en .NET8",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de APIs con .NET",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Consumo de APIs REST con Angular",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Autenticación con Angular",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Asoace Administrador y Ecommerce",
+            "description": "E-commerce de productos de ropa para gestionar transacciones, reportes de ventas, carga de usuarios y administración del sitio web.",
+            "technologies": [
+                "php",
+                "sql-server",
+                "jquery",
+                "bootstrap",
+                "html",
+                "css",
+                "javascript",
+                "ajax"
+            ],
+            "url": "https://asoace.com/"
+        },
+        {
+            "name": "Sistema de Balrusc",
+            "description": "Desarrollado con Tecnología de Laravel y Bootstrap con Mysql",
+            "technologies": [
+                "laravel",
+                "bootstrap",
+                "mysql"
+            ],
+            "url": "https://github.com/Dennys-27/Balrusc.git"
+        },
+        {
+            "name": "Sistema de Ventas Multisucursal",
+            "description": "Sistema para gestionar ventas y compras en múltiples sucursales. Utiliza PHP, Bootstrap y SQL Server",
+            "technologies": [
+                "php",
+                "bootstrap",
+                "sql-server"
+            ],
+            "url": "https://github.com/Dennys-27/Sistema-de-Venta-Multisucursal.git"
+        },
+        {
+            "name": "Proyecto Sistema de Ventas",
+            "description": "",
+            "technologies": [
+                "angular-14",
+                "aspnet",
+                "sql-server",
+                "angular-material"
+            ],
+            "url": "https://github.com/Dennys-27/Fronted_Angular.git"
+        },
+        {
+            "name": "Blog C# ASP.NET MVC 8",
+            "description": "",
+            "technologies": [
+                "aspnet",
+                "sql-server-2019",
+                "blazor-webassembly",
+                "css",
+                "javascript",
+                "bootstrap"
+            ],
+            "url": "https://github.com/Dennys-27/BlogCore.git"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Julio Vicente Lindao Salguero",
+            "relationship": "Jefe Directo",
+            "contact": "0999524061"
+        },
+        {
+            "name": "Karen Diana Tóala Salinas",
+            "relationship": "Analista Soporte",
+            "contact": "0983863646"
+        },
+        {
+            "name": "Mario Parada Patiño",
+            "relationship": "Analista Soporte",
+            "contact": "0979193561"
+        }
+    ]
+}

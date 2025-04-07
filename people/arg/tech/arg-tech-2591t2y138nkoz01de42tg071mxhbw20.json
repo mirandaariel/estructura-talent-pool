@@ -1,0 +1,113 @@
+{
+    "personal_info": {
+        "first_name": "Diego",
+        "last_name": "Rondán Martín",
+        "email": "martinrondan92@gmail.com",
+        "phone": "+54 1173629743",
+        "location": {
+            "country": "Argentina",
+            "city": "Quilmes",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy una persona proactiva, excelente compañero de equipo, organizado y responsable. Disfruto mucho aprender cosas nuevas, por lo que mi objetivo es un puesto desafiante y dinámico donde poder compartir mi experiencia y a su vez sumar nuevos conocimientos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Soporte a Usuarios",
+            "company": "Municipalidad de Campana",
+            "location": "Campana, Buenos Aires",
+            "start_date": "2010-01-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Mantenimiento Preventivo de equipos",
+                "Instalación de Software y Hardware",
+                "Instalación de Sistema operativo Windows y Linux",
+                "Administrador Windows y Linux",
+                "Instalación de impresoras locales y en red",
+                "Sistema de cableado estructurado en oficinas",
+                "Mesa de ayuda informática"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Soporte Onsite Nivel 1 y 2",
+            "company": "KYNDRYL Argentina",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Soporte Técnico de sistemas operativos a usuarios finales",
+                "Instalación y configuración (Detección de problemas y solución) de Software de usuario final",
+                "Formateo y respaldo de información",
+                "Diagnóstico y reparación a nivel de hardware",
+                "Manejo básico de redes",
+                "Instalación y Configuración de Perfiles Corporativos (Microsoft Intune) en dispositivos Móviles",
+                "Uso de Microsoft Endpoint Manager",
+                "Manejo de Active Directory"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Electromecánico",
+            "institution": "Escuela de Educación Secundaria Técnica N° 1 'Luciano Reyes'",
+            "location": "Campana, Buenos Aires",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "html",
+                "css",
+                "sql",
+                "linux",
+                "windows"
+            ],
+            "soft": [
+                "proactiva",
+                "organizado",
+                "responsable"
+            ],
+            "tools": [
+                "microsoft-intune",
+                "microsoft-endpoint-manager",
+                "active-directory"
+            ]
+        },
+        "detailed": {
+            "technical": {
+                "python": [],
+                "html": [],
+                "sql": []
+            },
+            "soft": {
+                "proactiva": [],
+                "organizado": [],
+                "responsable": []
+            }
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

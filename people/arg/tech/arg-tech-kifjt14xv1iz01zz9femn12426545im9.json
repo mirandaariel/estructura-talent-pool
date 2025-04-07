@@ -1,0 +1,185 @@
+{
+    "personal_info": {
+        "first_name": "Isaac",
+        "last_name": "Alfonso",
+        "email": "ifa24991@gmail.com",
+        "phone": "+54 3624017093",
+        "location": {
+            "country": "Argentina",
+            "city": "Resistencia",
+            "state": "Chaco"
+        },
+        "linkedin": "https://www.linkedin.com/in/isaacalfonso/",
+        "website": "https://github.com/IsF-Alf",
+        "portfolio": "",
+        "summary": "Cuento con experiencia como Desarrollador Full Stack en la creación de aplicaciones web escalables y seguras. Especializado en el desarrollo frontend con JavaScript y Vue.js. En el backend con Java y Spring Boot, diseñando APIs RESTful eficientes, integrando seguridad con Spring Security y PostgreSQL. Uso metodologías ágiles (Scrum y Kanban), optimizando flujos de trabajo en equipos de desarrollo. Busco aportar mis habilidades en proyectos desafiantes con enfoque en rendimiento, seguridad y escalabilidad."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador",
+            "company": "Velvet Fragances",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé una interfaz que permite filtrar productos y añadirlos al carrito, con confirmación por correo.",
+                "Implementé la lógica con autenticación JWT y Spring Boot.",
+                "Gestioné la seguridad con Spring Security y PostgreSQL.",
+                "Uso de metodologías ágiles como Scrum y Kanban."
+            ],
+            "achievements": [
+                "Reducción del tiempo de búsqueda en un 40%.",
+                "Reducción del tiempo de carga en un 15%.",
+                "Reducción de vulnerabilidades en un 30%."
+            ],
+            "repository_url": "https://github.com/IsF-Alf"
+        },
+        {
+            "job_title": "Desarrollador",
+            "company": "Brothers Banks",
+            "location": "",
+            "start_date": "2023-10-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una plataforma de homebanking que permite transferencias, gestión de préstamos y administración de tarjetas.",
+                "Diseñé la lógica con Java y Spring Boot.",
+                "Integré Spring Security con roles de usuarios.",
+                "Optimización y personalización de autorizaciones usando Docker."
+            ],
+            "achievements": [
+                "Mejora de la experiencia de usuario en un 30%.",
+                "Aceleración del procesamiento de transacciones en un 25%."
+            ],
+            "repository_url": "https://github.com/IsF-Alf"
+        },
+        {
+            "job_title": "Desarrollador",
+            "company": "Pet Shop DoLittle",
+            "location": "",
+            "start_date": "2023-10-01",
+            "end_date": "2023-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una interfaz responsive con Bootstrap para más de 50 productos.",
+                "Implementación de filtros en tiempo real usando Axios y Vue.js."
+            ],
+            "achievements": [
+                "Reducción de la carga del servidor en un 30%."
+            ],
+            "repository_url": "https://github.com/IsF-Alf"
+        },
+        {
+            "job_title": "Desarrollador",
+            "company": "Amazing Events",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2023-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé una plataforma web para eventos con integración de datos dinámicos.",
+                "Desarrollo de interfaz de usuario con Vue.js y SweetAlert."
+            ],
+            "achievements": [
+                "Incremento en la interacción del usuario en un 50%."
+            ],
+            "repository_url": "https://github.com/IsF-Alf"
+        },
+        {
+            "job_title": "Administrativo y Coordinación de Proyectos",
+            "company": "Universidad Popular, Blessing Diseños, SIRE, Palacios Hnos.",
+            "location": "",
+            "start_date": "2011-02-01",
+            "end_date": "2023-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementé flujos de trabajo con Tango Gestión y AutoCAD.",
+                "Lideré la planificación y ejecución de más de 15 proyectos de construcción.",
+                "Modelé proyectos arquitectónicos en AutoCAD y automaticé reportes financieros con Excel."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas de Información",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2022-03-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Maestro Mayor de Obras",
+            "institution": "Escuela de Educación Técnica N²1",
+            "location": "",
+            "start_date": "2004-03-01",
+            "end_date": "2010-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Web Full Stack Java",
+            "institution": "MINDHUB",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2023-12-31",
+            "hours": 700
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "astro",
+                "bootstrap",
+                "tailwind",
+                "react",
+                "vue.js",
+                "java",
+                "spring-boot",
+                "spring-security",
+                "docker",
+                "node.js",
+                "postgresql",
+                "sql"
+            ],
+            "soft": [
+                "comunicación-efectiva",
+                "resolución-de-problemas",
+                "gestión-del-tiempo",
+                "capacidad-de-aprender-de-manera-autónoma"
+            ],
+            "tools": [
+                "postman",
+                "github",
+                "visual-studio-code",
+                "intellij-idea",
+                "agile",
+                "scrum",
+                "kanban"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

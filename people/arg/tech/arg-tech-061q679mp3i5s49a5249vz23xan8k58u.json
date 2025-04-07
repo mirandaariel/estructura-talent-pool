@@ -1,0 +1,108 @@
+{
+    "personal_info": {
+        "first_name": "",
+        "last_name": "",
+        "email": "Valentindizeo@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Graduado en Física con sólida formación matemática y experiencia práctica en aprendizaje automático, análisis de datos y computación científica. Habilidades avanzadas en Python, SQL y análisis estadístico con experiencia aplicando técnicas de deep learning a problemas complejos. Busco aplicar mi enfoque analítico y experiencia en programación en roles de Ingeniero de IA, Científico de Datos o Analista de Datos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Ayudante de Cátedra",
+            "company": "Universidad Nacional de La Plata",
+            "location": "",
+            "start_date": "2023-10-01",
+            "end_date": "2025-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Introducción a fundamentos de programación en Python y técnicas de análisis de datos en cursos de física experimental",
+                "Desarrollo de materiales didácticos para explicar conceptos estadísticos complejos y aplicaciones de programación",
+                "Guía a estudiantes en proyectos de análisis de datos, enfatizando buenas prácticas en computación científica.",
+                "Evaluación y retroalimentación de informes experimentales, con énfasis en calidad de datos y métodos estadísticos"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Programador Estadístico",
+            "company": "Parexel",
+            "location": "Vicente Lopez, Buenos Aires",
+            "start_date": "2023-03-01",
+            "end_date": "2023-05-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de algoritmos y herramientas estadísticas para recolección y análisis de datos usando SAS y SQL",
+                "Implementación de pipelines de procesamiento de datos para información de ensayos clínicos",
+                "Realización de análisis estadísticos y generación de visualizaciones de conjuntos de datos complejos"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Física",
+            "institution": "Universidad Nacional de La Plata",
+            "location": "",
+            "start_date": "2018-03-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "numpy",
+                "pandas",
+                "scikit-learn",
+                "keras",
+                "scipy",
+                "matplotlib",
+                "seaborn",
+                "sql",
+                "c/c++",
+                "julia",
+                "fortran",
+                "aprendizaje-profundo",
+                "redes-neuronales",
+                "modelado-estadístico",
+                "análisis-de-series-temporales"
+            ],
+            "soft": [],
+            "tools": [
+                "jupyter-notebooks",
+                "git",
+                "docker",
+                "sas"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado/C2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

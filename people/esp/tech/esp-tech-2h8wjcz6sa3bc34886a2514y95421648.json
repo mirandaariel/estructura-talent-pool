@@ -1,0 +1,179 @@
+{
+    "personal_info": {
+        "first_name": "Miguel",
+        "last_name": "Durán",
+        "email": "miguel.386984@gmail.com",
+        "phone": "+34 600938502",
+        "location": {
+            "country": "España",
+            "city": "Madrid",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/miguel-duran-romero",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero de Sistemas con experiencia en programación y electrónica, especializado en la gestión de proyectos. Habilidades destacadas en trabajo en equipo y resolución de problemas a cualquier escala. Apasionado por el aprendizaje continuo y comprometido con el éxito del equipo y los proyectos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Solutions Analyst",
+            "company": "NTT DATA",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollar APIs en AWS y Google Cloud Platform.",
+                "Desarrollar APIs utilizando Node.js (JavaScript) y FastAPI (Python).",
+                "Realizar pruebas unitarias y cobertura de código con Jest, Pytest y SonarQube.",
+                "Utilizar Azure DevOps para despliegue de código.",
+                "Desarrollar aplicaciones web con React JS.",
+                "Realizar ingeniería inversa de código fuente con JavaScript (Node.js)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Impulse Growth Partner",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de página web, blog y landing page en HubSpot.",
+                "Utilización avanzada de HubDB en HubSpot.",
+                "Desarrollo de página ecommerce en VTEX.",
+                "Creación y desarrollo de API's en Node.js."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "IT Systems Analyst",
+            "company": "Footloose - Inversiones Rubin's SAC",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Administración del servidor de aplicaciones on-premises.",
+                "Desarrollo de API en Node.js.",
+                "Implementación de sistema OMS (Order Management System).",
+                "Desarrollo de página ecommerce en VTEX.",
+                "Implementación de tienda virtual para ventas por catálogo.",
+                "Integración con pasarelas de pago como Izipay, Payme y PagoEfectivo.",
+                "Implementación de módulos de gestión para diversas áreas de la empresa."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero de Sistemas",
+            "institution": "Universidad Tecnológica Del Perú (UTP)",
+            "location": "",
+            "start_date": "2013-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Electrónica Industrial",
+            "institution": "SENATI",
+            "location": "",
+            "start_date": "2009-01-01",
+            "end_date": "2012-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Especialización Business Process Management",
+            "institution": "Universidad Peruana de Ciencias aplicadas (UPC)",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomado en gerencia y gestión de proyectos",
+            "institution": "Universidad Nacional de Ingeniería (UNI)",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "node-js",
+                "express-js",
+                "react-js",
+                "redux-toolkit",
+                "fastapi",
+                "javascript",
+                "typescript",
+                "python",
+                "php",
+                "aws",
+                "google-cloud-platform",
+                "sql-server",
+                "mysql",
+                "postgresql",
+                "azure-devops",
+                "docker",
+                "git",
+                "jest",
+                "sonarqube",
+                "jquery",
+                "html",
+                "css",
+                "sass"
+            ],
+            "soft": [
+                "comunicación-efectiva",
+                "trabajo-en-equipo",
+                "resolución-de-problemas",
+                "pensamiento-crítico",
+                "gestión-del-tiempo"
+            ],
+            "tools": [
+                "aws-lambda",
+                "aws-api-gateway",
+                "aws-s3",
+                "apigee",
+                "cloud-run",
+                "cloud-functions",
+                "firestore",
+                "cloud-storage"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [
+        {
+            "name": "OKR",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "SCRUM",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés Técnico",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

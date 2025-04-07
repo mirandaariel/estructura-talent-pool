@@ -1,0 +1,105 @@
+{
+    "personal_info": {
+        "first_name": "Sebastián",
+        "last_name": "Iribarren",
+        "email": "siribarrena@gmail.com",
+        "phone": "(+56) 932684440",
+        "location": {
+            "country": "Chile",
+            "city": "La Serena",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full-Stack Developer with experience in cybersecurity and a high ability to adapt to new technologies and challenges. Focused on React, Java, and Node.js, with experience in building scalable solutions, optimizing performance, and ensuring code quality standards."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full-Stack Developer",
+            "company": "Colas y Patas",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed and managed a web platform for management and reservations, including features such as inventory control, appointment scheduling, record tracking, and a login system.",
+                "Built an intuitive and responsive user interface using Next.js, TypeScript, Redux, Tailwind, and CSS Module.",
+                "Developed the back-end using NestJS and TypeORM, integrating real-time data management and operations.",
+                "Implemented PostgreSQL as the database to securely store reservation data, inventory information, and user records.",
+                "Managed the full project lifecycle, from planning and implementation to ongoing maintenance, ensuring optimal performance and scalability."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full-Stack Developer",
+            "company": "Codify",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2024-04-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Established work guidelines based on Clean Code and Clean Architecture to optimize the development and maintainability of the existing front-end.",
+                "Developed and optimized front-end functionalities using Next.js, Redux, Tailwind, Zustand, and Axios, contributing to an 80% increase in the customer base.",
+                "Improved user experience by collaborating with designers in Figma, achieving a drop-out rate reduction to 2%.",
+                "Developed and optimized key functionalities in the back-end using Java, Hibernate, Lombok, and PostgreSQL, achieving a 30% reduction in response times.",
+                "Supervised the code developed by the team through thorough reviews, ensuring quality and adherence to standards.",
+                "Trained new team members, facilitating their integration and aligning them with best development practices.",
+                "Used Docker for application containerization.",
+                "Utilized management tools such as Git, GitLab, Azure DevOps, Confluence, Swagger, and Asana."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full-Stack Developer",
+            "company": "GeoVictoria",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-10-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed user interfaces with JavaScript, HTML, and CSS, ensuring a responsive and optimized user experience.",
+                "Designed and implemented APIs using C# and SQL Server.",
+                "Built microservices and managed their deployment in the cloud."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Cybersecurity Analyst",
+            "company": "KPMG",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2020-04-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed scripts to automate internal processes.",
+                "Led static code analyses, identifying vulnerabilities and applying security controls to ensure application quality and protection.",
+                "Implemented security practices in the software development lifecycle, enhancing data protection and contributing to application resilience.",
+                "Collaborated on ISO 27001 compliance, helping maintain high standards of information security."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

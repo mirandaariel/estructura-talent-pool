@@ -1,0 +1,124 @@
+{
+    "personal_info": {
+        "first_name": "Agustin",
+        "last_name": "Conde",
+        "email": "alfredogasparf33@gmail.com",
+        "phone": "11-3507-1407",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Programador junior con conocimientos en Java, MySQL y Spring Boot. Estudiante de Sistemas, con gran interés en el desarrollo de software y la optimización de bases de datos. Busco mi primera oportunidad en el área de sistemas para aplicar y seguir ampliando mis conocimientos, aportando soluciones efectivas mientras aprendo y enfrento nuevos desafíos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Operario de Deposito",
+            "company": "AgroMotors",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Control y organización del stock de herramientas y materiales.",
+                "Manejo de software de inventario para el registro y control de productos.",
+                "Coordinación con otros departamentos para la recepción y distribución de mercadería.",
+                "Optimización de procesos de almacenamiento y logística interna."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Atención al Público",
+            "company": "Bazar GyL",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Atención al cliente, asesoramiento sobre productos y manejo de caja.",
+                "Registro y actualización de productos en el sistema informático.",
+                "Creación e impresión de códigos de barras para mejorar la gestión de inventario.",
+                "Ingreso y control de códigos en el programa de gestión.",
+                "Organización del stock y apoyo en la reposición de mercadería."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Sistemas",
+            "institution": "Facultad Nacional de Lanus",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring-boot",
+                "mysql",
+                "postgresql"
+            ],
+            "soft": [],
+            "tools": [
+                "microsoft-excel",
+                "microsoft-word",
+                "windows"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Certificacion como Programador full stack jr",
+            "issuing_organization": "Plataforma Egg",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Aplicación de contratación de servicios",
+            "description": "Desarrollo de una aplicación de contratación de servicios utilizando Java y Spring Boot.",
+            "technologies": [
+                "java",
+                "spring-boot"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Sistema de gestión para kioscos y supermercados",
+            "description": "Desarrollo de una aplicación para la administración de productos, ventas y stock utilizando Java y MySQL.",
+            "technologies": [
+                "java",
+                "mysql"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Nivel Bajo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

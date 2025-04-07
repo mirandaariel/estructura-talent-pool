@@ -1,0 +1,208 @@
+{
+    "personal_info": {
+        "first_name": "Paulo",
+        "last_name": "Tintaya",
+        "email": "pau.tintaya.code@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Bolivia",
+            "city": "La Paz",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/paulotintaya/",
+        "website": "",
+        "portfolio": "https://github.com/tintayadev",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Jala University Bootcamp",
+            "location": "Remoto",
+            "start_date": "2024-12-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé y mantuve una aplicación web utilizando .NET Core y Angular 19.",
+                "Implementé APIs RESTful, integrando autenticación y servicios de bases de datos.",
+                "Apliqué principios SOLID, clean code y patrones de diseño para escalabilidad.",
+                "Desplegué aplicaciones utilizando AWS EC2 y GitHub Actions workflows."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Consultor Estudiantil",
+            "company": "The Consulting Academy",
+            "location": "La Paz, Bolivia",
+            "start_date": "2024-03-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Proporcioné servicios de consultoría a empresas, aplicando análisis de datos y web scraping.",
+                "Colaboré con equipos multidisciplinarios para desarrollar soluciones basadas en datos.",
+                "Lideré y gestioné proyectos para clientes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador de Software",
+            "company": "Coroutines",
+            "location": "EE.UU.",
+            "start_date": "2024-05-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Trabajé como contratista en una aplicación de reconocimiento de placas vehiculares.",
+                "Mantuvé y mejoré el backend utilizando Django Rest Framework.",
+                "Optimicé el rendimiento y la confiabilidad de las APIs para Easy ALPR."
+            ],
+            "achievements": [],
+            "repository_url": "https://easyalpr.com"
+        },
+        {
+            "job_title": "Djangonaut",
+            "company": "Djangonaut Space",
+            "location": "Remoto",
+            "start_date": "2024-10-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Contribuí a Django CMS como parte de un programa de mentoría de 8 semanas.",
+                "Colaboré con mentores experimentados para resolver problemas y mejorar la documentación.",
+                "Adquirí experiencia práctica en el código de Django, gestión de issues y workflows de pull requests."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Pasante de Investigación",
+            "company": "Datapath",
+            "location": "Perú Online",
+            "start_date": "2024-01-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Realicé investigaciones en profundidad sobre IA, ciencia de datos y aprendizaje automático.",
+                "Creé contenido educativo, incluyendo blogs y videos, para mejorar la accesibilidad en IA."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Pasante de Desarrollo de Software",
+            "company": "Open Science Labs",
+            "location": "Online",
+            "start_date": "2023-11-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Contribuí a proyectos de código abierto dentro del ecosistema conda-forge.",
+                "Colaboré con desarrolladores de otros países, mejorando habilidades en control de versiones y revisión de código e interacción en equipo.",
+                "Guié a estudiantes en fundamentos de Python y Django para desarrollo backend.",
+                "Diseñé y apliqué un currículum interactivo de desarrollo fullstack."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Sistemas",
+            "institution": "Universidad Aquino Bolivia",
+            "location": "La Paz, Bolivia",
+            "start_date": "2021-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Idioma Francés",
+            "institution": "Universidad Mayor de San Andrés",
+            "location": "La Paz, Bolivia",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Idioma Inglés",
+            "institution": "Programa Inglés.Yes",
+            "location": "El Alto, Bolivia",
+            "start_date": "2018-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bootcamp Full Stack de Jalasoft",
+            "institution": "Jalasoft",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Especialización en Backend",
+            "institution": "Alura, Oracle Next Education (ONE) Program",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "django",
+                "fastapi",
+                ".net-core",
+                "asp.net-8.0",
+                "mongodb",
+                "postgresql",
+                "ef-core",
+                "angular",
+                "typescript",
+                "javascript",
+                "tailwind",
+                "react"
+            ],
+            "soft": [
+                "metodologías-ágiles",
+                "principios-solid",
+                "comunicación",
+                "trabajo-en-equipo"
+            ],
+            "tools": [
+                "pytest",
+                "postman",
+                "docker",
+                "docker-hub",
+                "aws-ec2",
+                "github-actions",
+                "karma",
+                "jasmine",
+                "husky",
+                "git"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "C1 Avanzado"
+        },
+        {
+            "language": "Francés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

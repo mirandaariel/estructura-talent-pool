@@ -1,0 +1,135 @@
+{
+    "personal_info": {
+        "first_name": "Ezequiel",
+        "last_name": "Figueroa",
+        "email": "ezequiel.hernan.figueroa@gmail.com",
+        "phone": "+541137927910",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "https://ezequielcreador.com",
+        "portfolio": "",
+        "summary": "Proactivo Desarrollador Java con más de 3 años de experiencia en programación y desarrollo web. Cuento con formación en desarrollo Full Stack y una sólida trayectoria en la gestión de equipos en entornos comerciales."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de microservicios con Spring Boot y Spring Cloud (Eureka).",
+                "Creación de APIs RESTfull con autenticación y seguridad.",
+                "Implementación de CRUD full-stack, integrando Spring Boot (backend) con JavaScript (frontend) y AJAX para peticiones asíncronas.",
+                "Manejo de bases de datos.",
+                "Contenerización con Docker y despliegue en la nube.",
+                "Integración de Spring WebFlux para programación reactiva."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Jefe",
+            "company": "Carrefour",
+            "location": "",
+            "start_date": "2012-04-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Dirección del equipo de trabajo y supervisión de su desempeño.",
+                "Implementación de políticas internas y procedimientos de trabajo.",
+                "Logro de los objetivos y cumplimiento de las metas mensuales establecidas.",
+                "Control de la calidad y eficiencia de las operaciones bajo mi responsabilidad.",
+                "Implementación de estrategias para fidelización de clientes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Encargardo",
+            "company": "EKI Discount",
+            "location": "",
+            "start_date": "2003-02-01",
+            "end_date": "2012-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión operativa del establecimiento - apertura y cierre, organización, control del orden y limpieza, y la renovación de cartelería.",
+                "Administración de inventarios y proveedores - gestión de stock, contacto con proveedores.",
+                "Supervisión del personal, asignación de tareas y aseguramiento de estándares de atención al cliente.",
+                "Control financiero y reportes - elaboración de informes de ventas, operaciones de caja y manejo de quejas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollador Web Full Stack",
+            "institution": "Instituto Nacional Tecnológico Industrial (INTI)",
+            "location": "Buenos Aires",
+            "start_date": "2021-02-01",
+            "end_date": "2023-06-30",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Economía y Gestión",
+            "institution": "Instituto Dr. Tristán Achával Rodríguez",
+            "location": "Buenos Aires",
+            "start_date": "2000-03-01",
+            "end_date": "2002-11-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "javaScript",
+                "python",
+                "kotlin",
+                "spring-boot",
+                "webflux",
+                "feign",
+                "eureka",
+                "angular",
+                "bootstrap",
+                "html",
+                "css3",
+                "sql",
+                "mysql",
+                "postgresql",
+                "nosql",
+                "mongodb"
+            ],
+            "soft": [
+                "liderazgo",
+                "gestión",
+                "organización",
+                "proactividad",
+                "comunicación",
+                "negociación"
+            ],
+            "tools": [
+                "docker",
+                "postman",
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

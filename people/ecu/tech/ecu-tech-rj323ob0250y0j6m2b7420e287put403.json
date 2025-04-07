@@ -1,0 +1,162 @@
+{
+    "personal_info": {
+        "first_name": "Gabriel",
+        "last_name": "Monsalve",
+        "email": "gabrielmonsalvedevwork@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Ecuador",
+            "city": "Quito",
+            "state": "Pichincha"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "https://github.com/Gabrieldev-web-coder",
+        "summary": "Experienced Full-stack and Salesforce Developer with over 2 years of expertise in developing and optimizing web applications and CRM solutions."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "SLONCORP CRIFA CIA. LTDA",
+            "location": "Quito, Pichincha, Ecuador",
+            "start_date": "2023-04-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Leveraged Microsoft Visual Studio to develop robust web applications using PHP.",
+                "Engineered responsive frontend solutions with React 18+, Material UI, Tailwind CSS, jQuery, and Bootstrap.",
+                "Implemented backend services with Laravel Breeze and Inertia, ensuring seamless application performance.",
+                "Designed and structured relational databases, optimizing data integrity with SQL."
+            ],
+            "achievements": [
+                "Contributed to build a software used in the Central University of Ecuador."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Salesforce Developer",
+            "company": "Automated Decision",
+            "location": "Remote",
+            "start_date": "2022-01-01",
+            "end_date": "2023-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Contributed to the MCS360 application by developing and customizing Salesforce solutions tailored to enhance property management services.",
+                "Developed and customized Salesforce solutions using Apex and Lightning components.",
+                "Implemented custom objects and dynamic fields, optimizing data management processes.",
+                "Automated workflows through flows and triggers, and implemented email alerts."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's degree in Science",
+            "institution": "Luis Ulpiano De La Torre",
+            "location": "Cotacachi, Ecuador",
+            "start_date": "2024-03-12",
+            "end_date": "2024-03-31",
+            "hours": 1
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript",
+                "es6+",
+                "sass",
+                "bootstrap",
+                "tailwind-css",
+                "material-ui",
+                "react+18",
+                "nodejs",
+                "jquery",
+                "php",
+                "laravel-breeze",
+                "sql",
+                "docker",
+                "git"
+            ],
+            "soft": [
+                "communication-skills",
+                "problem-solving",
+                "teamwork",
+                "adaptability",
+                "time-management",
+                "critical-thinking",
+                "proactivity",
+                "dedication",
+                "ability-to-work-under-pressure"
+            ],
+            "tools": [
+                "visual-studio",
+                "jira-software"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Master en JavaScript",
+            "issuing_organization": "",
+            "issue_date": "2022-07-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Asincronismo con JavaScript",
+            "issuing_organization": "",
+            "issue_date": "2021-11-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Fundamentos de Node.js",
+            "issuing_organization": "",
+            "issue_date": "2021-11-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso Práctico de JavaScript",
+            "issuing_organization": "",
+            "issue_date": "2021-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de ECMAScript 6+",
+            "issuing_organization": "",
+            "issue_date": "2021-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Fundamentos de Ingeniería de Software",
+            "issuing_organization": "",
+            "issue_date": "2021-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

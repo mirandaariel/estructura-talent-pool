@@ -1,0 +1,122 @@
+{
+    "personal_info": {
+        "first_name": "Ethan Matias",
+        "last_name": "Aliaga Aguirre",
+        "email": "matiasaliagaaguirre@gmail.com",
+        "phone": "+51 980805285",
+        "location": {
+            "country": "Perú",
+            "city": "Lima",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/matias-aliaga-aguirre-5332b020a",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante de Ingeniería de Software con experiencia en desarrollo web y bases de datos. Apasionado por la innovación tecnológica, la resolución de problemas y la optimización de sistemas. Conocimientos en desarrollo full-stack, estructuras de datos y algoritmos con enfoque en arquitecturas robustas y optimización de experiencia de usuario."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Ingeniería de Software",
+            "institution": "Universidad Peruana de Ciencias Aplicadas",
+            "location": "Lima, Perú",
+            "start_date": "2023-03-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c++",
+                "java",
+                "html/css",
+                "javaScript",
+                "react.js",
+                "node.js",
+                "tailwind-css",
+                "bootstrap",
+                "spring-framework",
+                "sql",
+                "postgreSQL",
+                "mySQL",
+                "sql-server",
+                "mongodb"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "visual-studio-code",
+                "photoshop",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Meeti",
+            "description": "Desarrollé una plataforma para la creación y gestión de eventos utilizando Node.js, EJS y MySQL. Implementé funcionalidades de inscripción y categorización avanzada e integré autenticación segura mediante el envío de correos electrónicos.",
+            "technologies": [
+                "Node.js",
+                "EJS",
+                "MySQL"
+            ],
+            "url": "https://github.com/ethan/Meeti"
+        },
+        {
+            "name": "Inmolinking",
+            "description": "Desarrollé una plataforma para agentes inmobiliarios y pequeñas empresas que permite gestionar propiedades, clientes y anuncios. Implementé un sistema de búsqueda optimizado y herramientas avanzadas de administración.",
+            "technologies": [
+                "Node.js",
+                "Express",
+                "MySQL",
+                "Sequelize",
+                "Pug",
+                "Tailwind CSS"
+            ],
+            "url": "https://github.com/ethan/Inmolinking"
+        },
+        {
+            "name": "Mentorly",
+            "description": "Creé una plataforma enfocada en conectar desarrolladores, diseñadores y profesionales tech con oportunidades laborales. Implementé funcionalidades de gestión de vacantes y creación/edición de perfiles profesionales.",
+            "technologies": [
+                "Node.js",
+                "Express",
+                "Handlebars",
+                "MongoDB",
+                "Mongoose"
+            ],
+            "url": "https://github.com/ethan/Mentorly"
+        },
+        {
+            "name": "CRM",
+            "description": "Construí un CRM para gestionar clientes, productos y pedidos, optimizando la administración de ventas. Implementé un sistema de inventario inteligente y gestión avanzada de pedidos.",
+            "technologies": [
+                "MongoDB",
+                "Express",
+                "React",
+                "Node.js"
+            ],
+            "url": "https://github.com/ethan/CRM"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,184 @@
+{
+    "personal_info": {
+        "first_name": "Ivan Camilo",
+        "last_name": "Holguin Perdomo",
+        "email": "ivan2000chp@gmail.com",
+        "phone": "+57 3188997384",
+        "location": {
+            "country": "Colombia",
+            "city": "Cali",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/ivanholguin",
+        "website": "",
+        "portfolio": "https://drive.google.com/drive/u/0/folders/1d9wdI8szFfCtEKTIeHW_tCjfFMNGdiYw",
+        "summary": "Electronic and Telecommunications Engineer with expertise in software development and data analysis, experienced in the aerospace education field and currently focused on Python programming for computer vision and data analysis."
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Engineer and Data Analyst",
+            "company": "Manticora Corp",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Designed and implemented software and hardware solutions in Python for data analysis and active target detection using computer vision.",
+                "Developed a functional model of an interactive satellite with operational sensors and payload, remotely controlled via wireless communication."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software and Hardware Engineer",
+            "company": "Innhealth",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Implemented Python algorithms for the development and deployment of biomedical simulators, integrating signal processing modules and hardware control using sensors and actuators.",
+                "Developed a Python application for data integration into AWS S3 by implementing Buckets, utilizing efficient memory management techniques to optimize data collection in cloud environments."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Data Engineer Analyst",
+            "company": "Innhealth",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed business intelligence models using Qlik Sense for data analysis and provided support for ETL processes in Python, as well as generating SQL queries from OneDrive documents.",
+                "Provided technical support for information updates, optimizing processes through local data analysis and in Azure or AWS cloud environments for visualization in Power BI."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software and Hardware Developer",
+            "company": "Centro de Investigacion y Desarrollo en Tecnología Aeroespacial FAC",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Applied European Space Agency methodologies to optimize the design and configuration of the FACSAT-3A engineering model, performing power calculations and channel allocation.",
+                "Collected, analyzed, and organized information to facilitate the assembly of a parabolic antenna in Antarctic territory based on an existing construction manual.",
+                "Programmed and designed the Python code for the engineering satellite model for a Ministry of Defense exhibition, ensuring functionality at both hardware and software levels.",
+                "Designed telemetry and remote ignition systems for a non-guided sounding rocket, programmed in C++, to monitor meteorological variables for scientific purposes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software and Hardware Developer",
+            "company": "Universidad Autónoma de Occidente",
+            "location": "Cali, Colombia",
+            "start_date": "2019-01-01",
+            "end_date": "2020-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Designed electronic solutions at the software and hardware levels for remotely operated robotic structures, programmed in C++ through a microcontroller.",
+                "Developed motorized systems with automated sequences to simulate industrial process optimization, with Python applications enabling access to their functions."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero Electronico y Telecomunicaciones",
+            "institution": "Universidad Autonoma de Occidente",
+            "location": "Cali, Colombia",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller Académico",
+            "institution": "Liceo Ciudad de Santander",
+            "location": "Santander de Quilichao, Colombia",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                ".net8",
+                "c#",
+                "micropython",
+                "html",
+                "sql",
+                "mysql",
+                "phPmyadmin",
+                "oracle-sql",
+                "github",
+                "postman",
+                "packet-tracer",
+                "api"
+            ],
+            "soft": [
+                "innovación",
+                "creatividad",
+                "aprendizaje-activo",
+                "trabajo-en-equipo",
+                "contundencia",
+                "acertividad"
+            ],
+            "tools": [
+                "excel",
+                "tableau",
+                "power-bi",
+                "matplotlib",
+                "qlik-sense",
+                "aws",
+                "azure"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Data Science Python",
+            "issuing_organization": "University of Yonsei | Secretaria TIC",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Devops Cloud (Azure)",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Azure Fundamentals",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Data Science",
+            "issuing_organization": "University Johns Hopkins",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
