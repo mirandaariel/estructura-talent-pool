@@ -7,7 +7,7 @@
         "location": {
             "country": "Argentina",
             "city": "San Luis",
-            "state": ""
+            "state": "San Luis"
         },
         "linkedin": "https://www.linkedin.com/in/santiago-jose-lopez-mendes",
         "website": "https://github.com/smlopezsm",
@@ -18,10 +18,10 @@
         {
             "job_title": "Freelancer",
             "company": "Self-employed",
-            "location": "",
+            "location": "San Luis, Argentina",
             "start_date": "2024-07-01",
             "end_date": "2024-12-31",
-            "currently_working": true,
+            "currently_working": false,
             "responsibilities": [],
             "achievements": [],
             "repository_url": ""
@@ -32,7 +32,7 @@
             "degree": "",
             "institution": "Universidad Nacional de San Luis",
             "location": "San Luis, Argentina",
-            "start_date": "",
+            "start_date": "01/03/2023",
             "end_date": "",
             "hours": 0
         }
@@ -61,7 +61,7 @@
         "detailed": {
             "technical":{
                 "javaScript": [
-                      {
+                    {
                         "id": 1001,
                         "title": "Variables and Data Types",
                         "description": "Declaración de variables usando var, let y const, y comprensión de tipos primitivos y objetos.",
@@ -72,7 +72,7 @@
                         "title": "Control Flow",
                         "description": "Uso de instrucciones condicionales y bucles (if, else, switch, for, while).",
                         "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/controlFlow.js"
-                    },
+                    }
                 ]
             }
         }
