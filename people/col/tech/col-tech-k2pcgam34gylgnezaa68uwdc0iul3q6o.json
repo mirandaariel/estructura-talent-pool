@@ -1,0 +1,178 @@
+{
+    "personal_info": {
+        "first_name": "Juan Diego",
+        "last_name": "Calle G",
+        "email": "juandiegocalleg@gmail.com",
+        "phone": "+57 3157350513",
+        "location": {
+            "country": "Colombia",
+            "city": "Medellin",
+            "state": "Antioquia"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy Juan Diego, desarrollador web/software y diseñador gráfico con más de un año de experiencia como freelancer, además de seis meses como analista de datos y bases de datos. Mi última experiencia laboral fue en Confenalco como analista de datos. Actualmente, estoy cursando Ingeniería en Software, con el objetivo de generar un impacto positivo en la evolución tecnológica de mi ciudad. Me apasiona seguir desarrollando proyectos innovadores y fortalecer mis habilidades para convertirse en un programador altamente competente."
+    },
+    "work_experience": [
+        {
+            "job_title": "Gestión y Análisis de Proyectos TI",
+            "company": "Sincenso",
+            "location": "Medellin, Colombia",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Asesoría en planificación y ejecución de proyectos tecnológicos.",
+                "Análisis de viabilidad y optimización de recursos en proyectos TI.",
+                "Propuestas estratégicas para mejorar la gestión de tecnología en la empresa."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web y Diseñador Gráfico",
+            "company": "Freelancer",
+            "location": "Medellin, Colombia",
+            "start_date": "2024-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de sitios web optimizados y responsivos para clientes de diversos sectores.",
+                "Diseño de identidad visual y material gráfico para marcas y emprendimientos.",
+                "Implementación de estrategias de UX/UI para mejorar la experiencia del usuario."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Docente de Programación",
+            "company": "Institución Educativa Felipe de Restrepo",
+            "location": "Medellin, Colombia",
+            "start_date": "2024-08-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Clases personalizadas de programación para estudiantes con diferentes niveles de conocimiento.",
+                "Desarrollo de material didáctico y ejercicios prácticos enfocados en lógica de programación.",
+                "Implementación de metodologías interactivas para mejorar la comprensión de conceptos clave."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de Datos",
+            "company": "Comfenalco (Sector Educación)",
+            "location": "Medellin, Colombia",
+            "start_date": "2024-01-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Análisis de PQRs para identificar patrones y tendencias en la calidad del servicio.",
+                "Generación de informes estratégicos para la toma de decisiones en la mejora educativa.",
+                "Automatización de procesos de análisis de datos para optimizar tiempos y precisión."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Software",
+            "institution": "Tecnológico de Antioquia",
+            "location": "Medellin, Colombia",
+            "start_date": "2024-01-01",
+            "end_date": "2028-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Desarrollo y Programación de Software",
+            "institution": "SENA",
+            "location": "Medellin, Colombia",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "desarrollo-web",
+                "html",
+                "css",
+                "javascript",
+                "python",
+                "sql",
+                "diseño-gráfico",
+                "illustrator",
+                "photoshop",
+                "análisis-de-datos",
+                "gestión-de-bases-de-datos",
+                "pensamiento-computacional",
+                "desarrollo-de-apps",
+                "gestión-y-análisis-de-proyectos-ti"
+            ],
+            "soft": [
+                "liderazgo",
+                "toma-de-decisiones",
+                "pensamiento-crítico",
+                "resolución-de-problemas",
+                "trabajo-en-equipo",
+                "colaboración",
+                "comunicación-efectiva",
+                "adaptabilidad",
+                "aprendizaje-continuo",
+                "gestión-del-tiempo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Certificación en Análisis de Datos",
+            "issuing_organization": "Google & Comfenalco",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Competencias y Habilidades Socioemocionales para un Entorno Laboral",
+            "issuing_organization": "International Youth Foundation",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Taller Teórico de Pensamiento Computacional - Desarrollo de Apps",
+            "issuing_organization": "U. EAFIT",
+            "issue_date": "2019-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Taller Teórico de Pensamiento Computacional - Makers",
+            "issuing_organization": "U. EAFIT",
+            "issue_date": "2019-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1 - Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

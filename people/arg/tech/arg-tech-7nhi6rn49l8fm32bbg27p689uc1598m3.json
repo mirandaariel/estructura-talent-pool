@@ -1,0 +1,90 @@
+{
+    "personal_info": {
+        "first_name": "Matías",
+        "last_name": "Vicino",
+        "email": "vicinomatias@gmail.com",
+        "phone": "+5492634248433",
+        "location": {
+            "country": "",
+            "city": "Mendoza",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/matías-vicino",
+        "website": "",
+        "portfolio": "vicino-matías",
+        "summary": "Desarrollador Backend Junior con experiencia práctica en proyectos personales utilizando Go (Golang), enfocado en el diseño e implementación de APIs RESTful, escritura de código limpio y la resolución eficiente de problemas técnicos."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Técnico superior en Desarrollo de Software",
+            "institution": "IES 9-021 Tecnológico Junin",
+            "location": "Junin, Mendoza",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "go-(golang)",
+                "javascript",
+                "python",
+                "postgresql",
+                "sqlite",
+                "mysql",
+                "apis-restful",
+                "concurrencias-en-go",
+                "manejo-de-errores",
+                "modularidad-en-el-código",
+                "pruebas-unitarias"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "postman",
+                "docker"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "API RESTful de Gestión de Tareas (ToDo App)",
+            "description": "Desarrolle una API para gestionar tareas (CRUD) con Go y PostgreSQL. Implemente validación de datos, manejo de errores y endpoints funcionales para crear, leer, actualizar y eliminar tareas. Documenté y probé la API utilizando Postman.",
+            "technologies": [
+                "Go",
+                "PostgreSQL"
+            ],
+            "url": "https://github.com/vicino-matías/todo-api"
+        },
+        {
+            "name": "Servicio de Short URL",
+            "description": "Proyecto para crear un servicio de acortamiento de URLs con Go. Planificación de lógica de generación de URLs únicas, almacenamiento en base de datos y redirección. Uso de Docker para contenedores y despliegue.",
+            "technologies": [
+                "Go",
+                "Docker"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (B2)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

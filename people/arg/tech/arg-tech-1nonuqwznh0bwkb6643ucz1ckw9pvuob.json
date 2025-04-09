@@ -1,0 +1,95 @@
+{
+    "personal_info": {
+        "first_name": "José",
+        "last_name": "Moisés",
+        "email": "Cuhelojose@gmail.com",
+        "phone": "931-208-459",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "http://www.linkedin.com/in/josemoisesgrados",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Desarrollo de Sistemas de información",
+            "institution": "Instituto Sise",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "c#",
+                "sql-server",
+                "mysql",
+                "mongodb",
+                "linux",
+                "git",
+                "html",
+                "css"
+            ],
+            "soft": [
+                "analista-y-diseño-de-sistemas",
+                "marketing-personal"
+            ],
+            "tools": []
+        },
+        "detailed": []
+    },
+    "certifications": [
+        {
+            "name": "Participación en el HackAton de Tecnologia – Desarrollo de ChatBot con IA",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Sistema Gestión de Empleados",
+            "description": "Implementé un sistema CRUD para gestionar registros en una base de datos utilizando JAVA y SQL.",
+            "technologies": [
+                "java",
+                "sql"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Aplicación CRUD para Manejo de Datos",
+            "description": "Desarrollé un proyecto CRUD utilizando procedimientos almacenados en C# y SQL Server.",
+            "technologies": [
+                "c#",
+                "sql-server"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Optimización de Tareas Repetitivas",
+            "description": "Implementé soluciones avanzadas de automatización de tareas en SQL Server.",
+            "technologies": [
+                "sql-server"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,109 @@
+{
+    "personal_info": {
+        "first_name": "Jesús Álvaro",
+        "last_name": "Barrientos Sotelo",
+        "email": "Alvarobs1906@gmail.com",
+        "phone": "+51 929337361",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/jesus-barrientos1906/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Egresado de la carrera de Arquitectura de plataformas y servicios de la tecnología de la información. Especializado en desarrollo backend con .NET/Java/Nodejs, bases de datos SQL Server/PostgreSQL y buenas prácticas de seguridad en software. Conocimientos en integración y despliegue continuo con herramientas como Git."
+    },
+    "work_experience": [
+        {
+            "job_title": "Soporte Técnico",
+            "company": "Instituto Juan Velasco Alvarado",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Instalé y configuré sistemas operativos Windows y Linux, incluyendo software especializado para docentes y personal administrativo.",
+                "Diagnostiqué y reparé fallas en hardware y software.",
+                "Realice tareas de diagnóstico, reparación y mantenimiento preventivo de equipos de cómputo."
+            ],
+            "achievements": [
+                "Incorporar Equipos nuevos y poner en disposición equipos con fallas de software."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Prácticas",
+            "company": "Totem Travels",
+            "location": "",
+            "start_date": "2022-07-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboré con equipos multidisciplinarios para implementar soluciones gráficas en campañas publicitarias digitales.",
+                "Diseñé prototipos interactivos con Figma, mejorando la eficiencia en la revisión y aprobación de propuestas de diseño."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Egresado de Arquitectura de plataformas y servicios de la tecnología de la información",
+            "institution": "Instituto Juan Velasco Alvarado",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                ".net",
+                "java",
+                "nodejs",
+                "sql-server",
+                "postgresql",
+                "mysql"
+            ],
+            "soft": [
+                "sentido-de-urgencia",
+                "disposición",
+                "ganas-de-aprender"
+            ],
+            "tools": [
+                "git",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "SOFTWARE DE CONTROL DE RECURSOS EN EL AREA TI (CII)",
+            "description": "Diseñé interfaces con Figma y desarrollé las funciones de las acciones que usualmente cumple el trabajador.",
+            "technologies": ["Figma", "MYSQL"],
+            "url": ""
+        },
+        {
+            "name": "SOFTWARE DE CONTROL DE USUARIOS BACKEND-REST API (NODEIS)",
+            "description": "Ejecute un software del lado del back-end de control de acceso de usuarios con frameworks como Express.",
+            "technologies": ["Express", "Nodejs"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Ingles",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

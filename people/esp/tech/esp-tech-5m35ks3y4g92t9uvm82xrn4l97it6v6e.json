@@ -1,0 +1,157 @@
+{
+    "personal_info": {
+        "first_name": "Axel",
+        "last_name": "Hobrecht",
+        "email": "axelhob88@gmail.com",
+        "phone": "+34614406277",
+        "location": {
+            "country": "Spain",
+            "city": "Barcelona",
+            "state": "Catalonia"
+        },
+        "linkedin": "https://www.linkedin.com/in/axel-hobrecht",
+        "website": "",
+        "portfolio": "https://github.com/Arabath",
+        "summary": "Results-driven IT professional with extensive experience in web development (both backend and frontend), administration, and accounting."
+    },
+    "work_experience": [
+        {
+            "job_title": "Web Developer",
+            "company": "Municipalidad de Campana",
+            "location": "Campana, Argentina",
+            "start_date": "2022-04-01",
+            "end_date": "2025-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Optimized code in existing systems and developed new applications to enhance operational efficiency.",
+                "Provided technical support to internal users of the developed applications.",
+                "Created management systems to enable municipal officials to perform tasks more efficiently."
+            ],
+            "achievements": [
+                "Developed a tax payment system for taxpayers.",
+                "Implemented a satellite tracking platform for waste containers.",
+                "Created an appointment scheduling system for driver's license issuance.",
+                "Developed a registry for potentially dangerous animals.",
+                "Built a vehicle registration payment system."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Web Developer",
+            "company": "MyTaskPanel Consulting",
+            "location": "Spain",
+            "start_date": "2023-03-01",
+            "end_date": "2024-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Maintained and optimized the internal cargo ship geolocation system for Global Candace.",
+                "Improved performance optimizations and code maintenance.",
+                "Contributed to Localside, enhancing tourism-related activities platform."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Manager",
+            "company": "Hotel Roma CMP SA",
+            "location": "Campana, Buenos Aires, Argentina",
+            "start_date": "2018-02-01",
+            "end_date": "2021-05-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Managed comprehensive hotel operations including administrative, accounting, and tax tasks.",
+                "Led customer consumption certification, supplier management, and electronic invoicing.",
+                "Collaborated with accountants for tax preparation and submission.",
+                "Ensured regulatory compliance and optimized resource allocation."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Treasury Assistant",
+            "company": "Supermercados Mayoristas Yaguar S.A.",
+            "location": "Belén de Escobar, Buenos Aires, Argentina",
+            "start_date": "2013-02-01",
+            "end_date": "2017-04-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Managed treasury and accounting administration focusing on supplier payment and financial analysis.",
+                "Coordinated payments, issued payment orders, and performed bank reconciliations.",
+                "Prepared balance sheets for the tax department and managed lapos and Posnet terminals."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico superior universitario en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2020-04-01",
+            "end_date": "2022-11-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "desarrollo-web-back-end",
+                "mern-stack",
+                "typescript",
+                "nodejs",
+                "nestjs",
+                "express",
+                "sql",
+                "nosql",
+                "docker",
+                "react.js",
+                "next.js",
+                "mysql",
+                "python",
+                "aws"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "React MERN Responsive Web Design",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Vue.js: De cero a experto",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "React avanzado 1",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Next.js Framework",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

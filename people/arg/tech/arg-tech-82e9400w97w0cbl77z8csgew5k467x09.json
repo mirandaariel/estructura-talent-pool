@@ -1,0 +1,285 @@
+
+{
+  "personal_info": {
+    "first_name": "Dalia Esmeralda",
+    "last_name": "Diaz Fajardo",
+    "email": "daliadiaz11@gmail.com",
+    "phone": "+502 58234696",
+    "location": {
+      "country": "Guatemala",
+      "city": "",
+      "state": ""
+    },
+    "linkedin": "",
+    "website": "",
+    "portfolio": "",
+    "summary": "Desarrolladora de software con más de 6 años de experiencia en la creación de aplicaciones web y móviles, especializada en JavaScript, TypeScript, React.js, React Native, Next.js, y Node.js. He liderado proyectos complejos, combinando desarrollo frontend y backend para ofrecer soluciones optimizadas y escalables."
+  },
+  "work_experience": [
+    {
+      "job_title": "Front End Developer",
+      "company": "Capital Valley Tech",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollo de software para aplicaciones web utilizando Next.js, HTML, y CSS.",
+        "Colaboración con equipos multidisciplinarios para crear soluciones personalizadas según las especificaciones del cliente."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Full Stack Developer",
+      "company": "MeltStudio",
+      "location": "",
+      "start_date": "2022-01-01",
+      "end_date": "2023-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo de software para aplicaciones móviles y web utilizando ReactJS, React Native y TypeScript.",
+        "Implementación tanto de frontend como de backend, mejorando la eficiencia del desarrollo mediante la automatización de procesos."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrolladora de Software",
+      "company": "Macizo",
+      "location": "",
+      "start_date": "2021-01-01",
+      "end_date": "2022-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo y soporte de software en backend y frontend utilizando ReactJS, React Native, C# y NodeJS.",
+        "Implementación de bases de datos SQL Server para mejorar el control interno de la empresa."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Programadora",
+      "company": "HummingbirdIT",
+      "location": "",
+      "start_date": "2018-01-01",
+      "end_date": "2021-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo de software en frontend y backend con ReactJS, PHP, y Python.",
+        "Desarrollo de aplicaciones móviles utilizando ReactNative, y gestión de bases de datos MySQL."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Programadora Junior",
+      "company": "Fraktal Solutions",
+      "location": "",
+      "start_date": "2018-01-01",
+      "end_date": "2018-05-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo de software utilizando ReactJS, participando en proyectos que requerían rápida adaptación a nuevas tecnologías."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrolladora",
+      "company": "Aumenta",
+      "location": "",
+      "start_date": "2022-01-01",
+      "end_date": "2022-06-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Apoyé y completé el desarrollo de una aplicación web para el control de parqueos, trabajando en el backend con PHP Laravel y en el frontend utilizando ReactJS."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "QA Tester",
+      "company": "BigAnalytics",
+      "location": "",
+      "start_date": "2022-07-01",
+      "end_date": "2022-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Apoyé en el departamento de QA, asegurando la correcta documentación y realización de pruebas en aplicaciones web en desarrollo.",
+        "Gestioné historias de usuario y criterios de aceptación."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Maestría en Seguridad Informática",
+      "institution": "Universidad Mariano Gálvez",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Ingeniería en Ciencia de la Computación",
+      "institution": "Universidad Mariano Gálvez",
+      "location": "",
+      "start_date": "2021-01-01",
+      "end_date": "2021-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Bachiller en Ciencia y Letras con Orientación en Computación",
+      "institution": "Instituto",
+      "location": "",
+      "start_date": "2011-01-01",
+      "end_date": "2011-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "javascript",
+        "python",
+        "php",
+        "typescript",
+        "mysql",
+        "sql-server",
+        "firefoxe",
+        "postgresql",
+        "mongodb",
+        "reactjs",
+        "react-native",
+        "nextjs",
+        "django",
+        "html5",
+        "css3",
+        "bootstrap"
+      ],
+      "soft": [
+        "comunicación-efectiva",
+        "liderazgo-de-proyectos",
+        "resolución-de-problemas",
+        "adaptabilidad",
+        "trabajo-en-equipo"
+      ],
+      "tools": [
+        "git/github",
+        "jenkins",
+        "gitlab-ci",
+        "github-actions",
+        "trello",
+        "asana",
+        "jira",
+        "google-analytics"
+      ]
+    },
+    "detailed": {
+      "technical": {
+        "restful-api": [
+          {
+            "name": "Diseño e implementación de APIs RESTful",
+            "repository_url": ""
+          }
+        ],
+        "graphql": [
+          {
+            "name": "Desarrollo de APIs con GraphQL",
+            "repository_url": ""
+          }
+        ],
+        "unit-testing": [
+          {
+            "name": "Creación de pruebas unitarias utilizando Jest",
+            "repository_url": ""
+          }
+        ],
+        "owasp": [
+          {
+            "name": "Mitigación de riesgos de seguridad según OWASP",
+            "repository_url": ""
+          }
+        ],
+        "oauth2": [
+          {
+            "name": "Implementación de OAuth2, JWT",
+            "repository_url": ""
+          }
+        ]
+      },
+      "soft": {
+        "comunicación-efectiva": [
+          {
+            "name": "Comunicación clara de conceptos técnicos",
+            "description": ""
+          }
+        ],
+        "liderazgo-de-proyectos": [
+          {
+            "name": "Gestión y liderazgo de equipos de desarrollo",
+            "description": ""
+          }
+        ]
+      }
+    }
+  },
+  "certifications": [
+    {
+      "name": "Curso Práctico de JavaScript",
+      "issuing_organization": "Platzi",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": "",
+      "url": "https://platzi.com/p/dalia-esmeralda-diaz-fajardo/curso/2327-javascript-practico/diploma/detalle/"
+    },
+    {
+      "name": "Asincronismo con JavaScript",
+      "issuing_organization": "Platzi",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": "",
+      "url": "https://platzi.com/p/dalia-esmeralda-diaz-fajardo/curso/1789-asincronismo-js/diploma/detalle/"
+    },
+    {
+      "name": "Project Management con PMBOK",
+      "issuing_organization": "Platzi",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": "",
+      "url": "https://platzi.com/p/dalia-esmeralda-diaz-fajardo/course/1974-proyectos-pmbok/diploma/detalle/"
+    },
+    {
+      "name": "Fundamentos de Project Management",
+      "issuing_organization": "Platzi",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": "",
+      "url": "https://platzi.com/p/dalia-esmeralda-diaz-fajardo/course/2654-gestion/diploma/detalle/"
+    },
+    {
+      "name": "Curso Profesional de Scrum",
+      "issuing_organization": "Platzi",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": "",
+      "url": "https://platzi.com/p/dalia-esmeralda-diaz-fajardo/curso/1750-scrum/diploma/detalle/"
+    }
+  ],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Técnico (Básico-Intermedio)"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

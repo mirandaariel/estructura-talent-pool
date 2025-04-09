@@ -1,0 +1,154 @@
+{
+    "personal_info": {
+        "first_name": "Estéfano",
+        "last_name": "Quiriconi",
+        "email": "estefanoquiriconi@gmail.com",
+        "phone": "3856405864",
+        "location": {
+            "country": "Argentina",
+            "city": "La Banda",
+            "state": "Santiago del Estero"
+        },
+        "linkedin": "",
+        "website": "https://estefanoquiriconi.com",
+        "portfolio": "https://github.com/estefanoquiriconi",
+        "summary": "Desarrollador Full Stack con experiencia en el diseño y desarrollo de aplicaciones web. Especializado en la creación de soluciones escalables y eficientes, desde el modelado y optimización de bases de datos hasta la construcción de API robustas y seguras. Con capacidad para gestionar todo el ciclo de desarrollo, asegurando alto rendimiento, mantenibilidad y buenas prácticas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Área de Soporte Técnico",
+            "company": "UNSE",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Administré servidores Linux, asegurando su estabilidad, seguridad y actualización.",
+                "Gestioné y optimicé entornos de producción, incluyendo la configuración de bases de datos PostgreSQL y la administración de sistemas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "TechStore",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una API REST para un e-commerce con Node.js, Express y MySQL.",
+                "Implementé autenticación con JWT, gestión de productos, cupones, pedidos, pagos, y documenté la API con Swagger."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ayudante Estudiantil",
+            "company": "UNSE",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Asistí a los alumnos en prácticas de laboratorio, proporcionando soporte en el uso de Linux, máquinas virtuales y Docker.",
+                "Impartí clases sobre programación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Práctica Profesional",
+            "company": "Penitenciaría",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una aplicación web full stack para la gestión de internos en un sistema penitenciario.",
+                "Implementé autenticación, roles de usuario y optimización de consultas a la base de datos para mejorar el rendimiento."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Programador Universitario en Informática",
+            "institution": "Universidad Nacional de Santiago del Estero",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Digital House",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Data Analytics",
+            "institution": "Digital House",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Software Developer",
+            "institution": "ApxSchool",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "node.js",
+                "express.js",
+                "react.js",
+                "nest",
+                "docker",
+                "mysql",
+                "postgresql",
+                "mongodb",
+                "javascript",
+                "html",
+                "css",
+                "git",
+                "github",
+                "swagger"
+            ],
+            "soft": [],
+            "tools": [
+                "trello",
+                "postman",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Software Developer",
+            "issuing_organization": "ApxSchool",
+            "issue_date": "2024-01-01",
+            "expiration_date": "2025-12-31",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

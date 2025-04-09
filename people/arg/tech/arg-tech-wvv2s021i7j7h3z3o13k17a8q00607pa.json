@@ -1,0 +1,174 @@
+{
+    "personal_info": {
+        "first_name": "Jorge Ezequiel",
+        "last_name": "Lescano",
+        "email": "ezequiel.lesca@gmail.com",
+        "phone": "+541121901280",
+        "location": {
+            "country": "Argentina",
+            "city": "Lanús",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un programador Full Stack con experiencia en el desarrollo de aplicaciones web, especializado en el back-end. Manejo tecnologías como HTML, CSS, JavaScript, Node.js, React, Redux, Sequelize y Express. Me apasiona crear sistemas eficientes, escalables y seguros."
+    },
+    "work_experience": [
+        {
+            "job_title": "Digitalizador en AutoCad",
+            "company": "BL Telecomunicaciones",
+            "location": "",
+            "start_date": "2024-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Digitalizo relevamientos de planos en Autocad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Conductor de App's",
+            "company": "Uber, Cabify, Didi",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Teaching Assistant",
+            "company": "Henry Bootcamp",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "2023-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Coordinar a un grupo de estudiantes para lograr la integración al equipo de estudio.",
+                "Asistir a la resolución de ejercicios y promover la colaboración grupal (Pair Programming).",
+                "Proponer ideas para la mejora de los procesos del Bootcamp."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Conductor de Transporte Público",
+            "company": "Línea 505, Transporte del Sur Srl.",
+            "location": "Alte. Brown, Buenos Aires",
+            "start_date": "2011-04-01",
+            "end_date": "2022-09-30",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Depósito",
+            "company": "Creaciones Nathan",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2010-06-01",
+            "end_date": "2011-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Control de Stock"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Sistemas",
+            "institution": "Universidad Nacional de Lanus",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "",
+            "end_date": "2023-12-31",
+            "hours": 700
+        },
+        {
+            "degree": "Técnico en Informática Personal y Profesional",
+            "institution": "E.E.T n5 5 John F. Kennedy",
+            "location": "",
+            "start_date": "1999-01-01",
+            "end_date": "2001-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "redux",
+                "redux-toolkit",
+                "nodejs",
+                "express",
+                "postgresql",
+                "mongodb",
+                "react",
+                "php",
+                "laravel"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "jira",
+                "confluence",
+                "slack",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Proyecto Marvel",
+            "description": "Diseño y desarrollo de SPA, con API de Marvel Comic.",
+            "technologies": [
+                "javascript",
+                "react",
+                "html",
+                "css",
+                "redux",
+                "bootstrap",
+                "express",
+                "postgresql"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Urban Club",
+            "description": "Diseñar y desarrollar una App que registra artistas de toda categoria que ofrecen servicios, incluyendo búsquedas, filtrados, y creación.",
+            "technologies": [
+                "react",
+                "redux-toolkit",
+                "css",
+                "nodejs",
+                "express",
+                "postgresql",
+                "sequelize"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

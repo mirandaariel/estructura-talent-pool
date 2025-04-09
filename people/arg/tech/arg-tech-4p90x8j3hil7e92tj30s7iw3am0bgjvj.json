@@ -1,0 +1,97 @@
+{
+    "personal_info": {
+        "first_name": "",
+        "last_name": "",
+        "email": "fede_10_92@hotmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Backend con experiencia en NestJS, TypeScript y PostgreSQL. Autodidacta e interesado por la tecnología, con habilidades en Node.js, Express y GitHub. Capacidad para resolver problemas, optimizar código y desarrollar aplicaciones escalables. Trabajo en equipo, atención al detalle y creatividad para la implementación de soluciones eficientes. Buscando una oportunidad para aplicar y seguir ampliando mis conocimientos en el mundo del desarrollo backend y full stack"
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Proyecto Académico - SoyHenry",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una plataforma e-commerce en equipo.",
+                "Implementación de funcionalidades backend con NestJS y PostgreSQL.",
+                "Creación de componentes reutilizables y optimización del código frontend en Next.js."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "nestjs",
+                "typescript",
+                "postgresql",
+                "node.js",
+                "express",
+                "github",
+                "react",
+                "next.js",
+                "tailwindcss"
+            ],
+            "soft": [
+                "resolucion-de-problemas",
+                "trabajo-en-equipo",
+                "atencion-al-detalle",
+                "creatividad"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {
+                "nestjs": [],
+                "typescript": [],
+                "postgresql": [],
+                "node.js": [],
+                "express": [],
+                "github": [],
+                "react": [],
+                "next.js": [],
+                "tailwindcss": []
+            },
+            "soft": {
+                "resolucion-de-problemas": [],
+                "trabajo-en-equipo": [],
+                "atencion-al-detalle": [],
+                "creatividad": []
+            }
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Ink3D",
+            "description": "Ink3D es un e-commerce especializado en moda Asian Style, dirigido al sector textil. Actualmente, muchas marcas dependen de redes sociales convencionales para interactuar con su audiencia. Ink3D busca cambiar esto, creando una plataforma donde los usuarios no solo compren, sino que también formen una comunidad, compartan tendencias y opiniones sin necesidad de depender de redes externas.",
+            "technologies": [
+                "nestjs",
+                "typescript",
+                "postgresql",
+                "node.js",
+                "react",
+                "next.js",
+                "tailwindcss"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

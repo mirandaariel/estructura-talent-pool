@@ -1,0 +1,115 @@
+{
+    "personal_info": {
+        "first_name": "Jorge",
+        "last_name": "Jaramillo",
+        "email": "jorgealveiro49@gmail.com",
+        "phone": "3216777598",
+        "location": {
+            "country": "Colombia",
+            "city": "Cartagena",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/jorge-jaramillo",
+        "website": "",
+        "portfolio": "",
+        "summary": "Como Ingeniero de Software con más de 5 años de experiencia, he demostrado un profundo compromiso con la transformación digital y contribuir al crecimiento de la organizacion. Siempre dispuesto a aprender cada día. Con experiencia en soporte a equipos tecnológicos hardware y software, administración de bases de datos SQL Server y PostgreSQL, experiencia en redes LAN en aplicar y mantener los protocolos de interconexión."
+    },
+    "work_experience": [
+        {
+            "job_title": "Coordinador de Tecnología",
+            "company": "Envia Colvanes SAS",
+            "location": "Cartagena",
+            "start_date": "2019-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Implementé programa desarrollado en Java para la gestión de consultas mas recurrentes de las otras áreas de trabajo.",
+                "Gestione múltiples consultas de la base de datos SQL Server solicitado por el grupo de trabajo, procesos DML.",
+                "Administre el inventarios de los activos electrónicos de la empresa.",
+                "Garantice la buena conectividad en la infraestructura de red interna de datos.",
+                "Genere informes con Power BI para analizar datos mensuales relevantes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Servicio al Cliente Dedicado",
+            "company": "Colserlog SAS",
+            "location": "Cartagena",
+            "start_date": "2015-04-01",
+            "end_date": "2019-09-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Ejecute idea para solucionar un problema de rótulos de mercancía usando combinación de correspondencia con Word y Excel.",
+                "Implementé informes de seguimiento a los clientes en Excel.",
+                "Trabajé teniendo en cuenta la idea de la satisfacción del cliente.",
+                "Organicé y di prioridad al trabajo para completar las tareas de manera oportuna y eficiente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero de Software",
+            "institution": "Universidad de Cartagena",
+            "location": "Cartagena",
+            "start_date": "2018-01-01",
+            "end_date": "2023-05-01",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnólogo en Gestión Portuaria",
+            "institution": "SENA",
+            "location": "Cartagena",
+            "start_date": "2016-04-01",
+            "end_date": "2017-09-01",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Operaciones Portuarias Comerciales",
+            "institution": "SENA",
+            "location": "Cartagena",
+            "start_date": "2011-06-01",
+            "end_date": "2012-11-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "soporte-hardware-y-software",
+                "sql-server",
+                "power-bi",
+                "postgresql",
+                "java",
+                "javascript"
+            ],
+            "soft": [
+                "empatía",
+                "comunicación-asertiva",
+                "trabajo-en-equipo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Fluido"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

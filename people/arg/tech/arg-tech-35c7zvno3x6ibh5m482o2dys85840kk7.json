@@ -1,0 +1,234 @@
+{
+  "personal_info": {
+    "first_name": "Federico Maximiliano",
+    "last_name": "Fernández",
+    "email": "fedefernandez218@gmail.com",
+    "phone": "+54 3435230349",
+    "location": {
+      "country": "Argentina",
+      "city": "Paraná",
+      "state": "Entre Ríos"
+    },
+    "linkedin": "https://linkedin.com/in/fedefer",
+    "website": "",
+    "portfolio": "",
+    "summary": "Developer with over 5 years of experience building scalable SPAs, PWAs, mobile applications and RESTful APIs using modern technologies. Passionate about writing clean and efficient code. Experience working in agile teams and mentoring colleagues."
+  },
+  "work_experience": [
+    {
+      "job_title": "Frontend Lead",
+      "company": "Adoclic",
+      "location": "Remote",
+      "start_date": "2024-02-01",
+      "end_date": "2025-03-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Refactor and maintain a backoffice using Angular with MaterialUI for a dropshipping system.",
+        "Create tools to improve team's development processes, optimize performance up to 80%.",
+        "Participate in decisions on frontend processes."
+      ],
+      "achievements": [
+        "Implemented a Proof Of Concept using Module Federation to modularize the application into micro frontends."
+      ],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Full-Stack Developer / Tech Lead",
+      "company": "BeTheDriver",
+      "location": "Paraná, Entre Ríos, Argentina",
+      "start_date": "2022-11-01",
+      "end_date": "2024-01-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Implemented features in Ionic/Angular application for a financial institution.",
+        "Develop backoffice with Angular/PrimeNG and backend with NodeJS/Express APIs.",
+        "Developed desktop application with Angular/Electron and Python backend.",
+        "Lead PWA development for government system using React/NextJS/Redux.",
+        "Develop system for container rental company using Angular, ReactJS, NodeJS and AWS."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Backend Developer",
+      "company": "MercadoLibre",
+      "location": "Remote",
+      "start_date": "2021-03-01",
+      "end_date": "2023-02-28",
+      "currently_working": false,
+      "responsibilities": [
+        "Developed Java library for API consumption.",
+        "Fixed vulnerabilities in Golang, Java and Groovy projects.",
+        "Developed Golang/gin wapper for API management.",
+        "Lead API development for seller statistics using Java/SpringBoot."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Full-Stack Developer",
+      "company": "Grupo ASSA",
+      "location": "Remote",
+      "start_date": "2019-11-01",
+      "end_date": "2021-02-28",
+      "currently_working": false,
+      "responsibilities": [
+        "Developed Golang/gin API for tickets project.",
+        "Implemented microservice architecture for role service.",
+        "Developed frontend for internal systems using React/Redux.",
+        "Developed API with Golang/echo and PostgreSQL."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Higher Programming Technician",
+      "institution": "Universidad Tecnológica Nacional (UTN)",
+      "location": "Paraná, Entre Ríos, Argentina",
+      "start_date": "2017-03-01",
+      "end_date": "2019-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "javascript",
+        "typescript",
+        "golang",
+        "nodejs",
+        "java",
+        "c#",
+        "python",
+        "php",
+        "html",
+        "html5",
+        "css",
+        "css3",
+        "sass",
+        "angular",
+        "rxjs",
+        "ngrx",
+        "reactjs",
+        "nextjs",
+        "redux",
+        "express",
+        "sequelize",
+        "nestjs",
+        "bootstrap",
+        "tailwindcss",
+        "materialui",
+        "primeng",
+        "webpack",
+        "module-federation",
+        "single-spa",
+        "ionic",
+        "electron",
+        "gin",
+        "echo",
+        "fiber",
+        "gorm",
+        "flask",
+        "springboot",
+        "hibernate",
+        ".net",
+        "laravel",
+        "jest",
+        "jasmine",
+        "karma",
+        "mockito",
+        "testify",
+        "cypress",
+        "e2e",
+        "mysql",
+        "postgresql",
+        "oracle-db",
+        "dynamodb",
+        "redis",
+        "mongodb",
+        "document-search",
+        "datadog",
+        "elastic-search",
+        "kibana",
+        "new-relic",
+        "vercel",
+        "aws",
+        "gcp",
+        "clean-architecture",
+        "hexagonal-architecture",
+        "mvc",
+        "serverless",
+        "monolithic",
+        "micro-servicios",
+        "micro-frontends",
+        "facade",
+        "injection",
+        "singleton",
+        "oop",
+        "fp",
+        "lp",
+        "rp",
+        "eop",
+        "cop",
+        "solid",
+        "kiss",
+        "dry",
+        "soc",
+        "scrum",
+        "kanban",
+        "jira",
+        "odoo",
+        "trello",
+        "zohoo",
+        "ms-teams",
+        "slack",
+        "cliq",
+        "git",
+        "docker",
+        "kubernetes",
+        "http",
+        "websocket",
+        "github-actions",
+        "jenkins",
+        "tdd",
+        "nginx",
+        "webview",
+        "owasp",
+        "ssr",
+        "graphql",
+        "ui-ux-sense"
+      ],
+      "soft": [
+        "teamwork",
+        "effective-comunication",
+        "problem-solving",
+        "critical-thinking",
+        "adaptability",
+        "leadership",
+        "flexibility"
+      ],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Conversational (B2)"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

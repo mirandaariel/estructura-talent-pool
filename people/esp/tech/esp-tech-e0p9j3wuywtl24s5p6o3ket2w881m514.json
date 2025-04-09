@@ -1,0 +1,122 @@
+{
+    "personal_info": {
+        "first_name": "Diego",
+        "last_name": "Miras",
+        "email": "diegomiras93@gmail.com",
+        "phone": "+34 678838804",
+        "location": {
+            "country": "Spain",
+            "city": "Cangas",
+            "state": "Pontevedra"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Me considero un apasionado de la tecnología, aunque ha sido una puesta en práctica algo tardía. En los últimos dos años he redirigido mi carrera profesional hacia el sector tecnológico. Mi especialización está orientada al backend tanto en Java como en Python, y al desarrollo en base a microservicios y API REST. Recientemente, he ampliado mi enfoque al desarrollo de aplicaciones basadas en inteligencia artificial, trabajando en un proyecto propio con modelos LLM. Estoy buscando activamente oportunidades laborales que me permitan aplicar y ampliar mis conocimientos técnicos, contribuir a proyectos innovadores en el sector tecnológico"
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador FullStack",
+            "company": "Campus Dual / Imatía",
+            "location": "",
+            "start_date": "2024-09-23",
+            "end_date": "2025-02-04",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web con Java (Spring Boot) en backend y Angular en frontend.",
+                "Implementación de bases de datos SQL y creación de API REST.",
+                "Trabajo en equipos multidisciplinarios con metodologías ágiles (Scrum).",
+                "Uso de herramientas de gestión como Jira.",
+                "Participación en todas las fases del ciclo de vida del software."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Becario Programacion Web",
+            "company": "ViewNext",
+            "location": "Ourense",
+            "start_date": "2024-04-01",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo backend con Java y Spring Boot.",
+                "Implementación de persistencia de datos con DAO, JDBC y Spring JPA.",
+                "Creación de microservicios basados en contratos Swagger y exposición de API REST con Spring Boot.",
+                "Uso de JavaBeans y patrón repositorio de acceso a datos.",
+                "Trabajo en equipo siguiendo metodologías ágiles."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "FP Desarrollo Web (DAW) Dual",
+            "institution": "CIFP A Carballeira",
+            "location": "Ourense",
+            "start_date": "2022-09-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "springboot",
+                "apirest",
+                "mysql",
+                "postgresql",
+                "html",
+                "css",
+                "js",
+                "angular",
+                "python",
+                "streamlit",
+                "fastapi",
+                "git",
+                "docker",
+                "scrum"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "FacturIA",
+            "description": "Web app para extracción y análisis de facturas con IA.",
+            "technologies": [
+                "python",
+                "fastapi",
+                "supabase",
+                "streamlit",
+                "openai-api"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "B2 - Certificado Oxford 2024"
+        },
+        {
+            "language": "Gallego",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

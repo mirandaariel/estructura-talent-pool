@@ -1,0 +1,82 @@
+{
+    "personal_info": {
+        "first_name": "Guido",
+        "last_name": "Salazar Vargas",
+        "email": "guidosalazardev@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Bolivia",
+            "city": "Santa Cruz",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con más de 3 años de experiencia en el desarrollo web, especializado en tecnologías modernas como React, NestJS y Node.js. Estudiante de último año de Ingeniería en Sistemas, con un historial probado de éxito en hackathones y competencias de desarrollo. Apasionado por crear soluciones tecnológicas innovadoras y escalables que generen impacto real."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Backend - Pasantía",
+            "company": "SubAlcaldía del Distrito 7",
+            "location": "Santa Cruz, Bolivia",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé completamente el Backend de una Emeroteca Digital para la iniciativa 'Santa Cruz Inteligente', utilizando NestJS y PostgreSQL, creando una guía interactiva para residentes y turistas.",
+                "Diseñé e implementé una arquitectura de base de datos robusta para gestionar información geolocalizada de puntos turísticos, estaciones policiales y centros de salud, incluyendo detalles de contacto y niveles de atención.",
+                "Desarrollé un REST API para la integración con servicios de mapas y gestión de datos geoespaciales, facilitando la visualización de puntos de interés en la ciudad.",
+                "Implementé un sistema de categorización y búsqueda avanzada que permite a los usuarios encontrar rápidamente servicios esenciales en su área.",
+                "Colaboré en la creación de una solución que beneficia diariamente a miles de ciudadanos y visitantes de Santa Cruz, mejorando el acceso a servicios públicos e información turística."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas",
+            "institution": "Universidad Autónoma Gabriel René Moreno",
+            "location": "Santa Cruz, Bolivia",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Programación y Desarrollo Web",
+            "institution": "Fundación INFOCAL",
+            "location": "Santa Cruz, Bolivia",
+            "start_date": "2017-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "nextjs",
+                "tailwind-css",
+                "sql",
+                "postgresql",
+                "nestjs",
+                "typeorm",
+                "node.js",
+                "docker",
+                "git/github"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,113 @@
+{
+    "personal_info": {
+        "first_name": "Hernán",
+        "last_name": "Vergara Viana",
+        "email": "zarksoad@gmail.com",
+        "phone": "+57 301 743 2082",
+        "location": {
+            "country": "Colombia",
+            "city": "Medellín",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/hern%EF%BF%BD%EF%BF%BDn-dar%EF%BF%BD%EF%BF%BDo-vergara-viana-51b93920b/",
+        "website": "",
+        "portfolio": "https://github.com/zarksoad",
+        "summary": "Resilient and adaptable Full Stack Developer with 1 year of hands-on experience designing and implementing dynamic web and mobile applications."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer Intern",
+            "company": "Riwi.io",
+            "location": "Medellín, Colombia",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Selected to join a student team at Riwi.io based on excellent performance during software development studies.",
+                "Contributed to the development of a Project Management platform using React, TypeScript, Node, CSS, Figma, and GitHub/Gitflow.",
+                "Worked under a Scrum framework and utilized Jira DevOps for project management."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Software Developer",
+            "institution": "Riwi.io",
+            "location": "Medellín",
+            "start_date": "2024-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Technical Degree in Administrative Assistance",
+            "institution": "",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "javascript",
+                "typescript",
+                "nest.js",
+                "react",
+                "react-native",
+                "sql",
+                "postgresql",
+                "mysql"
+            ],
+            "soft": [
+                "resilience",
+                "adaptability",
+                "collaboration",
+                "problem-solving"
+            ],
+            "tools": [
+                "css",
+                "figma",
+                "github",
+                "gitflow",
+                "jira"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "CloseToYou",
+            "description": "A full-stack contact management application developed with React Native (frontend) and NestJS (backend). Enables complete CRUD operations on contact information, integrates a weather API, and uses interactive maps for geographic visualization.",
+            "technologies": [
+                "react-native",
+                "nestjs",
+                "postgresql",
+                "mysql"
+            ],
+            "url": "https://github.com/zarksoad/closeToYouReactNativeFront"
+        },
+        {
+            "name": "Learning Platform",
+            "description": "A full-stack web application for creating and managing online courses, developed using NestJS and TypeScript. Features user authentication and authorization with JSON Web Tokens (JWT), enabling secure login and registration.",
+            "technologies": [
+                "nestjs",
+                "typescript",
+                "postgresql",
+                "mysql"
+            ],
+            "url": "https://github.com/zarksoad/magic-academy-backend"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

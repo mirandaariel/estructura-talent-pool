@@ -1,0 +1,127 @@
+{
+    "personal_info": {
+        "first_name": "Alex",
+        "last_name": "Agüero",
+        "email": "agueroalex122000@gmail.com",
+        "phone": "+54 3571547626",
+        "location": {
+            "country": "",
+            "city": "Barrio General Paz",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/alex-agüero312490268",
+        "website": "",
+        "portfolio": "https://alex-aguero-portfolio.vercel.app/",
+        "summary": "Estudiante avanzado de Ingeniería en Sistemas de Información, con experiencia en desarrollo web, administración de redes sociales y gestión de bases de datos. Con habilidades en trabajo en equipo y adaptabilidad a entornos dinámicos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Web & Administrador de Redes Sociales",
+            "company": "Agencia Freelance",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Creación y mantenimiento de sitios web utilizando HTML, CSS, JavaScript, React.js y Astro.",
+                "Diseño de contenido y estrategias para redes sociales en diversas plataformas.",
+                "Implementación de optimización SEO para mejorar la visibilidad online de clientes.",
+                "Gestión de bases de datos en SQL Server y PL/SQL."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Moderador de Redes Sociales",
+            "company": "Empresa ERSA",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Monitoreo y administración de interacciones en redes sociales.",
+                "Análisis de tendencias y elaboración de informes sobre engagement y alcance."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Administrador de Recursos Informáticos (Pasantía)",
+            "company": "Escuela Remedios Escalada de San Martín",
+            "location": "",
+            "start_date": "2018-10-01",
+            "end_date": "2018-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Mantenimiento y configuración de equipos informáticos.",
+                "Soporte técnico a usuarios y resolución de incidencias en sistemas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Estudiante avanzado de Ingeniería en Sistemas de Información",
+            "institution": "",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Analista en Sistemas",
+            "institution": "",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "phyton",
+                "c#",
+                "typescript",
+                "html",
+                "css",
+                "react.js",
+                "node.js",
+                "astro",
+                "sql-server"
+            ],
+            "soft": [],
+            "tools": [
+                "github",
+                "gitlab",
+                "wordpress",
+                "visual-studio-code",
+                "autocad",
+                "paquete-office"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Nivel básico (Lectura y comprensión)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Contacto de referencia en ERSA",
+            "relationship": "",
+            "contact": "info.portalampara@gmail.com"
+        }
+    ]
+}

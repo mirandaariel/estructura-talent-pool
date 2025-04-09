@@ -1,0 +1,173 @@
+{
+    "personal_info": {
+        "first_name": "Antonio",
+        "last_name": "Román Delgado",
+        "email": "antonioromndelgado@gmail.com",
+        "phone": "+34 648821017",
+        "location": {
+            "country": "Spain",
+            "city": "Cádiz",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/antonioromandelgado",
+        "website": "",
+        "portfolio": "https://github.com/antonioromdel",
+        "summary": "Profesional con más de 7 años de experiencia en el sector IT como soporte técnico, actualmente enfocado al desarrollo de software. Recientemente formado y con experiencia en creación y gestión de aplicaciones web utilizando tecnologías como JavaScript, Node.js, React, Java, SpringBoot y bases de datos como MySQL y MongoDB. Con mi experiencia en soporte y atención al cliente, junto con mis conocimientos en desarrollo de software, puedo aportar soluciones que beneficien tanto al equipo como a los clientes, añadiendo valor a cada proyecto."
+    },
+    "work_experience": [
+        {
+            "job_title": "Soporte Técnico Back Office N2",
+            "company": "ORANGE",
+            "location": "Jerez de la Frontera",
+            "start_date": "2020-08-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión, resolución y escalado de incidencias técnicas relacionadas con la infraestructura de la red de fibra, conexión a internet, servidores DNS, configuración IP y configuración de redes LAN.",
+                "Gestión de incidencias a través de Remedy y uso de Office 365."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Teleoperador Soporte Técnico N1",
+            "company": "ORANGE",
+            "location": "Jerez de la Frontera",
+            "start_date": "2016-11-01",
+            "end_date": "2020-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Soporte y atención al cliente en primera línea, abordando consultas técnicas, administrativas y resolviendo problemas técnicos relacionados con el servicio de Internet, la conexión de los dispositivos y escalado de incidencias.",
+                "Realización de venta cruzada de servicios extras que ofrece la empresa para mejorar el servicio y la satisfacción del cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Grado Superior en Desarrollo de Aplicaciones Multiplataforma",
+            "institution": "ILERNA",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Grado Superior en Administración de Sistemas Informáticos en Red",
+            "institution": "IES PABLO RUIZ PICASSO",
+            "location": "Chiclana de la Frontera",
+            "start_date": "2013-09-01",
+            "end_date": "2016-03-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "java",
+                "javascript",
+                "typescript",
+                "python"
+            ],
+            "soft": [],
+            "tools": [
+                "react",
+                "astro",
+                "tailwind",
+                "node.js",
+                "express",
+                "springboot",
+                "mysql",
+                "mongodb",
+                "postgresql"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Curso Spring Boot, Spring Data JPA, Spring MVC, Hibernate, Spring Security",
+            "issuing_organization": "OpenWebinars",
+            "issue_date": "2025-01-31",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso Full Stack: React, Node.js, Express y MongoDB para Desarrolladores Web",
+            "issuing_organization": "UDEMY",
+            "issue_date": "2024-12-31",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso Docker: Imágenes, Contenedores y Orquestación Básica",
+            "issuing_organization": "OpenWebinars",
+            "issue_date": "2024-11-30",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Software Testing: Conceptos Básicos y Automatización con Cypress y Selenium",
+            "issuing_organization": "UDEMY",
+            "issue_date": "2024-09-30",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso Completo de Desarrollo Web: HTML, CSS y JavaScript",
+            "issuing_organization": "UDEMY",
+            "issue_date": "2024-06-30",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso Python: Fundamentos y Aplicaciones Prácticas",
+            "issuing_organization": "UDEMY",
+            "issue_date": "2024-01-31",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "antonioromanilusionista.com",
+            "description": "Desarrollo de web con Astro, Tailwind para los estilos y un dashboard privado en React para gestionar y revisar mensajes y reseñas de la web. API REST en Node.js en el backend para manejo de datos y consultas, con base de datos MySQL para la persistencia de la información. Implementación de contenedores Docker para desplegar el Backend y la base de datos.",
+            "technologies": ["Astro", "Tailwind", "React", "Node.js", "MySQL", "Docker"],
+            "url": ""
+        },
+        {
+            "name": "tallerplazazapata.netlify.app",
+            "description": "Web realizada para la empresa Taller Plaza Zapata en Medina Sidonia. Desarrollada con el framework Astro en el frontend y NodeJs, express y Nodemailer en el backend para el manejo de formulario y envío de datos por email.",
+            "technologies": ["Astro", "Node.js", "Express", "Nodemailer"],
+            "url": ""
+        },
+        {
+            "name": "myworkschedule.netlify.app",
+            "description": "Aplicación web en React para la organización de turnos laborales.",
+            "technologies": ["React"],
+            "url": ""
+        },
+        {
+            "name": "planificadoragastos.netlify.app",
+            "description": "Aplicación web desarrollada en React, haciendo uso de useContext y useReducer y TailwindCss para los estilos, donde nos permite gestionar los gastos a partir de un presupuesto.",
+            "technologies": ["React", "useContext", "useReducer", "TailwindCss"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

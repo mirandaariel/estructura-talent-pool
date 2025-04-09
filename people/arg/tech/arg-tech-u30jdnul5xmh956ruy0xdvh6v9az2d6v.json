@@ -1,0 +1,113 @@
+{
+    "personal_info": {
+        "first_name": "Romina",
+        "last_name": "Rivera Cáceres",
+        "email": "rdrivera@uc.cl",
+        "phone": "956861011",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "https://github.com/romirivera",
+        "summary": "Desarrolladora Full Stack Javascript con conocimientos en React, Node, PostgreSQL y MongoDB. Con experiencia en proyecto de almacenamiento de datos. Me destaco por mi excelente capacidad de trabajo en equipo y resolución de problemas. Mi enfoque está en crear soluciones innovadoras y funcionales, tanto en el front-end como en el back-end, y estoy en constante aprendizaje para dominar las mejores prácticas del desarrollo web. Egresada de la UC con distinción."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrolladora Full Stack Javascript",
+            "company": "Chelenko Lodge",
+            "location": "Santiago",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y modelé una base de datos para transacciones de stock y reservas, diferenciando datos históricos y transaccionales.",
+                "Desarrollé controles de duplicidad para garantizar integridad de datos y evitar sobreventa.",
+                "Creé una API con control de acceso, filtros y paginación para análisis estratégico.",
+                "Diseñé mecanismos de purga y almacenamiento secundario para optimizar costos y rendimiento.",
+                "Colaboré en el desarrollo de un frontend en React para la administración y visualización de datos.",
+                "Logré establecer de forma eficiente un almacenamiento de la data no relacional para Chelenko Lodge."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Cirujana Dentista",
+            "company": "Clínica OdontoArt",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2024-03-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención integral odontológica de adultos y niños.",
+                "Desarrollo de habilidades blandas y de trato con personas en el tratamiento, prevención y promoción de salud oral.",
+                "Eduqué y mejoré la salud bucal de mis pacientes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bootcamp Desarrolladora Full Stack Javascript",
+            "institution": "Generation Chile",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "2025-02-01",
+            "hours": 0
+        },
+        {
+            "degree": "Cirujana Dentista",
+            "institution": "Pontificia Universidad Católica de Chile (PUC)",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react",
+                "node",
+                "postgresql",
+                "express",
+                "html",
+                "css",
+                "git",
+                "mongodb",
+                "bootstrap",
+                "python"
+            ],
+            "soft": [
+                "flexibilidad",
+                "resolución-de-problemas",
+                "comunicación",
+                "trabajo-en-equipo",
+                "adaptabilidad"
+            ],
+            "tools": [
+                "jira",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,109 @@
+{
+    "personal_info": {
+        "first_name": "Edson Orlando",
+        "last_name": "Castañeda Urrego",
+        "email": "dedsoncasta07@gmail.com",
+        "phone": "+57 3166286118",
+        "location": {
+            "country": "Colombia",
+            "city": "Bogotá",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/edsoncasta/",
+        "website": "https://github.com/EdsonCasta",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack especializado en el desarrollo tanto Front-end como Back-end, combinando un enfoque centrado en el usuario con soluciones técnicas robustas. Experiencia en metodologías ágiles y gestión de versiones con Git."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Fullstack (Freelance)",
+            "company": "Repuestos en Línea",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñó e implementó la estructura de frontend usando React y Next.js.",
+                "Implementó un sistema de carrusel y un widget de chat de WhatsApp.",
+                "Desarrolló un diseño responsivo con Tailwind CSS."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Frontend (UX)",
+            "institution": "Colsubsidio y Cymetria Group S.A.S",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2024-10-31",
+            "hours": 80
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "Tecnólogo Mecánico Industrial",
+            "institution": "Universidad ECCI",
+            "location": "",
+            "start_date": "2014-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "node.js",
+                "react",
+                "express.js",
+                "postgresql"
+            ],
+            "soft": [
+                "communication",
+                "adaptability",
+                "teamwork"
+            ],
+            "tools": [
+                "git",
+                "slack",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Ebookspalace",
+            "description": "Plataforma de e-commerce dedicada a la venta de libros digitales, integrada con varias tecnologías para mejorar la experiencia del usuario.",
+            "technologies": ["react", "redux", "node.js", "express", "postgresql", "sequelize", "stripe", "auth0", "cloudinary", "localStorage", "toastify"],
+            "url": "https://ebooks-palace.vercel.app"
+        },
+        {
+            "name": "PI-Countries",
+            "description": "Aplicación web que permite explorar información detallada sobre países del mundo con filtros y funcionalidades interactivas.",
+            "technologies": ["react", "redux", "node.js", "express", "postgresql", "sequelize"],
+            "url": "https://pi-countries-t4qu.onrender.com"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B2 - Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

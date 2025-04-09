@@ -1,0 +1,126 @@
+{
+    "personal_info": {
+        "first_name": "Jeison",
+        "last_name": "Guerrero Sanchez",
+        "email": "jeison.g.s@hotmail.com",
+        "phone": "+573002997853",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/jeison-guerrero-sanchez/",
+        "website": "https://www.github.com/JeisonGuerrero",
+        "portfolio": "",
+        "summary": "Full Stack Web Developer with experience in JavaScript, specializing in building dynamic and scalable applications using React.js, Redux.js, and Node.js. My background as an Industrial Engineer with a diploma in Quality Management and Administration gives me an analytical and structured approach to optimizing processes in software development. Passionate about technology, I have strong communication skills, enjoy teamwork, and embrace continuous learning, always striving for improvement and delivering efficient solutions."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Web Developer",
+            "institution": "Talenta Tech Bootcamp - Universidad Libre de Barranquilla",
+            "location": "",
+            "start_date": "2028-01-01",
+            "end_date": "2028-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry's Bootcamp",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diploma in Quality Management",
+            "institution": "Politécnico de Colombia",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diploma in Comprehensive Quality Management",
+            "institution": "Universidad de la Costa CUC",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Industrial Engineer",
+            "institution": "Universidad de la Costa CUC",
+            "location": "",
+            "start_date": "2012-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html5",
+                "css3",
+                "postgresql",
+                "reactjs",
+                "reduxjs",
+                "express",
+                "nodejs",
+                "axios",
+                "bootstrap",
+                "material-ui",
+                "taildwindcss",
+                "sql"
+            ],
+            "soft": [
+                "communication",
+                "teamwork",
+                "continuous-learning"
+            ],
+            "tools": [
+                "figma",
+                "trello",
+                "slack",
+                "discord",
+                "git",
+                "github",
+                "thunder-client",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Individual Project Countries",
+            "description": "Individual project carried out at the bootcamp Henry. It consists of a SPA which consumes the information of restcountries API, to obtain the data and manipulate it from the database with the help of express, axios and SQL, in addition to rendering the information of the API in the frontend with the help of react and redux.",
+            "technologies": ["express", "axios", "sql", "react", "redux"],
+            "url": "https://www.github.com/JeisonGuerrero/PICOUNTRIES"
+        },
+        {
+            "name": "Grupal Project Countries",
+            "description": "Grupal project carried out at the bootcamp Henry. It consists of a SPA which consumes the information of restcountries API, to obtain the data and manipulate it from the database with the help of express, axios and SQL, in addition to rendering the information of the API in the frontend with the help of react and redux.",
+            "technologies": ["express", "axios", "sql", "react", "redux"],
+            "url": "https://www.github.com/jorgebritos/PF---Henry---LatamCom"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "B2 level"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

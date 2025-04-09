@@ -1,0 +1,130 @@
+{
+    "personal_info": {
+        "first_name": "Natalia Giselle",
+        "last_name": "Curia",
+        "email": "nataliagiselle.c@gmail.com",
+        "phone": "+54 11 55722648",
+        "location": {
+            "country": "Argentina",
+            "city": "Villa Ballester",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "/nataliacuría-dev",
+        "summary": "Desarrolladora web con formación en frontend y en proceso de ampliación hacia backend para un enfoque integral en la creación de soluciones. Busco oportunidades para aplicar y potenciar mis habilidades técnicas y creativas en el desarrollo de experiencias digitales innovadoras. Cuento con experiencia en trabajo en equipo y atención al cliente, lo que me ha permitido desarrollar habilidades de comunicación efectiva, empatía y resolución de problemas. Estas experiencias me han enseñado a adaptarme a distintos entornos, liderar de manera colaborativa y mantener un enfoque centrado en el usuario, clave para crear soluciones tecnológicas eficientes."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrolladora Frontend",
+            "company": "Distribuidora Darrona",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñé e implementé una plataforma de gestión de pedidos para optimizar el flujo de trabajo, eliminando hojas de cálculo manuales.",
+                "Reducción de errores y tiempos de procesamiento, eliminando la dependencia de métodos manuales.",
+                "Visualización dinámica de precios según tipo de cliente.",
+                "Automatización del flujo de pedidos con notificaciones instantáneas y generación de reportes en Excel.",
+                "Optimización de la gestión administrativa, con carga masiva de productos vía CSV y ajustes dinámicos en las condiciones de compra."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrolladora Frontend",
+            "company": "Luz Interior | Fábrica de luminarias de diseño",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñé y desarrollé Luz Interior, una plataforma web que optimiza la gestión de pedidos mayoristas que facilita la gestión de pedidos y comunicación con clientes.",
+                "Mejora en la experiencia del usuario, con registro seguro y seguimiento en tiempo real.",
+                "Mejora en la comunicación, con notificaciones automáticas vía email para aprobaciones de cuenta, cambios de estado de pedidos y recuperación de contraseña.",
+                "Aumento de la productividad administrativa, permitiendo a los gestores modificar productos, aprobar cuentas y gestionar pedidos.",
+                "Mayor eficiencia administrativa, con la implementación de librerías para la edición avanzada de contenido y gestión optimizada de imágenes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Curso React JS",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "2024-04-30",
+            "hours": 0
+        },
+        {
+            "degree": "Curso JavaScript",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "2024-04-30",
+            "hours": 0
+        },
+        {
+            "degree": "Curso Desarrollo Web",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "2024-01-31",
+            "hours": 0
+        },
+        {
+            "degree": "Java Full Stack",
+            "institution": "Universidad de la Punta",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-03-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "php",
+                "html",
+                "css",
+                "react-js",
+                "bootstrap",
+                "mysql"
+            ],
+            "soft": [
+                "comunicación-efectiva",
+                "empatía",
+                "resolución-de-problemas"
+            ],
+            "tools": [
+                "git",
+                "figma",
+                "photoshop"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2-B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

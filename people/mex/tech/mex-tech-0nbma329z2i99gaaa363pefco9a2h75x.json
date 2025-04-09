@@ -1,0 +1,415 @@
+{
+    "personal_info": {
+        "first_name": "Guadalupe",
+        "last_name": "Quintal Varguez",
+        "email": "guadalupe.quintal@gmail.com",
+        "phone": "+52 99 9243-2207",
+        "location": {
+            "country": "Mexico",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/gquintal09/",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Experienced Developer",
+            "company": "Neoris",
+            "location": "",
+            "start_date": "2022-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Análisis, diseño de la solución y desarrollo de nuevos requerimientos y mantenimientos de Base de Datos.",
+                "Optimización de Stored Procedures, funciones y vistas.",
+                "Asegurar la calidad de los desarrollos, la aplicación y cumplimiento de estándares, así como de mejores prácticas.",
+                "Control y gestión de código fuente en Bitbucket y GitHub.",
+                "Administración y monitoreo de Bases de Datos Azure SQL.",
+                "Documentación técnica.",
+                "Generación de plan de pruebas.",
+                "Pipeline de CI/CD para despliegues en Bases de Datos Azure SQL.",
+                "Creación, configuración y administración de VM en Azure para pruebas locales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Líder de Desarrollo de SW | Arquitecto de Datos",
+            "company": "Banco Regional",
+            "location": "",
+            "start_date": "2020-03-01",
+            "end_date": "2022-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Planeación, gestión y seguimiento a proyectos de desarrollo de SW.",
+                "Análisis, Diseño de la solución y Desarrollo de nuevos requerimientos y mantenimientos.",
+                "Asegurar la calidad de los desarrollos, la aplicación y cumplimiento de estándares, así como de mejores prácticas.",
+                "Revisiones de Código.",
+                "Integración y documentación de entregables, seguimiento y participación en la ejecución de pruebas en ambiente de calidad, así como en la liberación a producción.",
+                "Elaboración de Plan de Pruebas.",
+                "Revisión de Diseños Técnicos presentados al Comité.",
+                "Aplicar y revisar exámenes técnicos para candidatos y empleados del Banco.",
+                "Elaboración de evaluaciones técnicas para aplicar a candidatos de nuevo ingreso.",
+                "Diseño y Modelado de Datos (modelo relacional y entidad relación).",
+                "Optimización de Stored Procedures."
+            ],
+            "achievements": [
+                "Diseñar y Modelar un Sistema para la Gestión de Talentos de BancoRegional.",
+                "Diseñar y formar el Comité de Diseño.",
+                "Diseñar y poner en marcha el programa de Formación para Desarrolladores JR.",
+                "Proyecto: Otorgamiento de Apoyos por Contingencia Covid19.",
+                "Proyecto de Pronóstico para Dotar Cajeros.",
+                "Proyecto Mercado de Capitales en App Hey Banco.",
+                "Participación en el Comité de Estándares de Base de Datos y Comité de Evaluaciones Técnicas."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Líder | Scrum Master",
+            "company": "Code4U, Soluciones Integrales",
+            "location": "",
+            "start_date": "2019-09-01",
+            "end_date": "2020-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Planeación, gestión y seguimiento a proyectos de desarrollo de SW.",
+                "Asegurar la calidad del desarrollo, la aplicación y cumplimiento de estándares, así como de mejores prácticas.",
+                "Desarrollo de nuevos requerimientos y mantenimientos.",
+                "Integración y documentación de entregables, seguimiento y participación en la ejecución de pruebas en ambiente de calidad, así como en la liberación a producción.",
+                "Capacitación al equipo sobre la metodología Scrum.",
+                "Dirigir ceremonias.",
+                "Reportes de avances de los proyectos, generar métricas y KPIs."
+            ],
+            "achievements": [
+                "Implementación de la metodología Scrum en la consultora.",
+                "Entrega en tiempo de los desarrollos solicitados por el cliente."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Líder Sr de Desarrollo",
+            "company": "Grupo Fundación Rafael Dondé",
+            "location": "",
+            "start_date": "2016-10-01",
+            "end_date": "2019-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Planeación, gestión y seguimiento a proyectos de desarrollo de SW del equipo.",
+                "Revisar y dar seguimiento al desarrollo del Plan de Capacitación del personal.",
+                "Desarrollo de nuevos requerimientos y mantenimientos.",
+                "Asegurar la calidad del desarrollo, la aplicación y cumplimiento de estándares, así como de mejores prácticas.",
+                "Integración y documentación de entregables, seguimiento y participación en la ejecución de pruebas en ambiente de calidad, así como en la liberación a producción.",
+                "Gestión de la capacidad de la Dirección de Desarrollo.",
+                "Elaboración de presupuesto de la Dirección de Desarrollo.",
+                "Coordinar al equipo técnico (aprox 60 personas).",
+                "Apoyar en la preparación de las auditorías programadas (CNBV, BANXICO, IPAB).",
+                "Administración de servidores de base de datos del ambiente de Desarrollo.",
+                "Atención a requerimientos de PLD."
+            ],
+            "achievements": [
+                "Participación en Diseño de Lago de Datos.",
+                "Liderar proyecto PYME.",
+                "Líder del Área de Gobierno TI."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Coordinador de desarrollo y mantenimiento de Software",
+            "company": "GRUPO CDA",
+            "location": "",
+            "start_date": "2009-09-01",
+            "end_date": "2016-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Coordinar área de desarrollo de sistemas del grupo a nivel península.",
+                "Mantenimiento al sistema in-house del grupo a nivel penínsular.",
+                "Programación de Jobs, Stored Procedure y Triggers en SQL Server.",
+                "Configuración y administración de servidores citrix y máquinas virtuales en la plataforma vmware.",
+                "Administración de servidores de base de datos SQL Server.",
+                "Elaboración de reportes en Crystal Reports.",
+                "Análisis de reportes para Alta Dirección (BI).",
+                "Desarrollo de nuevos requerimientos y mantenimiento a lo existente.",
+                "Migración del sistema DMS (Dealer Management System) in-house a uno comercial (Análisis, plan de trabajo, elaboraciones de interfaces para la migración, capacitación, extracción de información, cifras control, puesta en producción del nuevo Sistema).",
+                "Alta, cambios, accesos y privilegios a terminales de usuarios en el sistema de empresas del grupo.",
+                "Instalación, configuración y mantenimiento de redes LAN, creación y manejo de grupos de trabajo y dominios de red, active directory."
+            ],
+            "achievements": [
+                "Liderar Migración del sistema DMS in-house a Business Pro.",
+                "Liderar el desarrollo del Sistema de Facturación Digital.",
+                "Desarrollo del Módulo de Prevención de Lavado de Dinero."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciada en Computación y Sistemas",
+            "institution": "Universidad Mesoamericana de San Agustín",
+            "location": "",
+            "start_date": "2007-01-01",
+            "end_date": "2007-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "ms-sql-server",
+                "azure-sql",
+                "mysql",
+                "sybase",
+                "postgresql",
+                "python",
+                "java",
+                "spring-boot",
+                "c-sharp",
+                "php",
+                "laravel",
+                "azure",
+                "gcp",
+                "aws",
+                "pyspark",
+                "sql-server-integration-services",
+                "sql-server-reporting-services",
+                "powerbi",
+                "pentaho",
+                "databricks",
+                "devops",
+                "fabric",
+                "azure data factory"
+            ],
+            "soft": [
+                "liderazgo",
+                "proactividad",
+                "trabajo-en-equipo",
+                "orientación-a-objetivos",
+                "comunicación-efectiva",
+                "empatía",
+                "toma-de-decisiones",
+                "organización",
+                "creatividad-e-innovación",
+                "gestión-del-tiempo",
+                "capacidad-de-adaptación"
+            ],
+            "tools": [
+                "github",
+                "azure devops",
+                "jupyter",
+                "jira",
+                "bitbucket",
+                "confluence",
+                "trello",
+                "patrones-de-diseño",
+                "patrones-de-arquitectura",
+                "arquitectura-de-microservicios",
+                "modelado-c4",
+                "microsoft-project",
+                "drawio",
+                "microsoft-visio",
+                "lucidchart",
+                "swagger",
+                "soapui",
+                "postman",
+                "api-rest",
+                "dockers",
+                "sonarqube",
+                "ci/cd",
+                "api-management"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Microsoft Certified: Azure Fundamentals",
+            "issuing_organization": "Microsoft",
+            "issue_date": "2025-03-30",
+            "expiration_date": "",
+            "credential_id": "16117DF09A6CEA"
+        },
+        {
+            "name": "Cybersecurity & IA for the CISO",
+            "issuing_organization": "EPIC Lab ITAM",
+            "issue_date": "2024-12-01",
+            "expiration_date": "",
+            "credential_id": "8590ed92-9190-40fa-9a3e-662359757496"
+        },
+        {
+            "name": "Ciberseguridad de Google Specialization",
+            "issuing_organization": "",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certified in Cybersecurity (CC)",
+            "issuing_organization": "",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "GitHub Copilot",
+            "issuing_organization": "",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Taller SQL con Apache Spark",
+            "issuing_organization": "",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "AI Fundamentals",
+            "issuing_organization": "",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Fundamentos de Cloud, Data e IA con Azure",
+            "issuing_organization": "",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Inmersión en Datos con Python",
+            "issuing_organization": "",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Bootcamp Ciencia de Datos con Python",
+            "issuing_organization": "",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Cloud Engineer ON AWS",
+            "issuing_organization": "",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Arquitectura de Microservicios I",
+            "issuing_organization": "",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Spring Framework Core 5",
+            "issuing_organization": "CertificaTic",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Arquitecto en Apigee y Microservicios Cloud Native",
+            "issuing_organization": "CertificaTic",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Modelado C4",
+            "issuing_organization": "",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Scrum Foundation Professional Certificate (SFPC)",
+            "issuing_organization": "CertiProf",
+            "issue_date": "2020-06-01",
+            "expiration_date": "2022-08-01",
+            "credential_id": "81591322083447"
+        },
+        {
+            "name": "DevOps Essentials Professional Certificate",
+            "issuing_organization": "",
+            "issue_date": "2020-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Data Day",
+            "issuing_organization": "Software Guru",
+            "issue_date": "2019-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Workshop - DevOps and Value Stream Mapping",
+            "issuing_organization": "Enevasys",
+            "issue_date": "2019-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Scrum",
+            "issuing_organization": "Enevasys",
+            "issue_date": "2019-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Jira",
+            "issuing_organization": "Enevasys",
+            "issue_date": "2019-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Confluence",
+            "issuing_organization": "Enevasys",
+            "issue_date": "2019-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificación MCSA: SQL SERVER 2014",
+            "issuing_organization": "ASTER",
+            "issue_date": "2015-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificación MCSA: SQL SERVER 2012",
+            "issuing_organization": "ASTER",
+            "issue_date": "2015-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Tableau",
+            "issuing_organization": "CDA",
+            "issue_date": "2015-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "60%"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

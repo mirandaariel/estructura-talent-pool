@@ -1,0 +1,81 @@
+{
+    "personal_info": {
+        "first_name": "Carla",
+        "last_name": "Nadalig",
+        "email": "carnadalig99@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "Rio Cuarto",
+            "state": "Cordoba"
+        },
+        "linkedin": "https://www.linkedin.com/in/carla-nadalig-",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante de Desarrollo de Software con una fuerte motivación por aprender y crecer en el ámbito de la programación. Cuento con habilidades como trabajo en equipo, organización de proyectos, resolución de problemas y comunicación asertiva. Busco una oportunidad en donde pueda aportar mis conocimientos y seguir aprendiendo en un entorno colaborativo y dinámico."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrolladora",
+            "company": "Proyecto de software de la Institución",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé una aplicación web utilizando Python y SQLite para gestionar reservas de canchas de pádel.",
+                "Implementé interfaces de usuario intuitivas con NiceGUI, mejorando la experiencia del usuario.",
+                "Colaboré en un equipo aplicando metodologías ágiles para asegurar una entrega eficiente del proyecto."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Liderazgo y planificación",
+            "company": "Club Gorriones R.C",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Coordinación de equipos y planificación de actividades.",
+                "Desarrollo de habilidades de organización y comunicación efectiva."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Desarrollo de Software",
+            "institution": "ITEC Rio Cuarto",
+            "location": "Rio Cuarto, Cordoba",
+            "start_date": "2024-02-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["python", "html", "css", "js", "nicegui", "reflex", "modelos-relacionales"],
+            "soft": ["trabajo-en-equipo", "organización-de-proyectos", "resolución-de-problemas", "comunicación-asertiva"],
+            "tools": ["visual-studio-code", "linux"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Intermediate (A2/B1)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

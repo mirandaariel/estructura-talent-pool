@@ -1,0 +1,132 @@
+{
+    "personal_info": {
+        "first_name": "José Alfredo",
+        "last_name": "Gaspar Flores",
+        "email": "alfredogasparf33@gmail.com",
+        "phone": "2361106609",
+        "location": {
+            "country": "Mexico",
+            "city": "Tehuacán",
+            "state": "Puebla"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "https://github.com/Alfre33",
+        "summary": "Estudiante de Ingeniería en Gestión y Desarrollo de Software. Apasionado por el desarrollo backend y fullstack, con experiencia práctica en proyectos personales utilizando NestJS, Next.js y bases de datos relacionales y no relacionales."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador web",
+            "company": "Envelope",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una plataforma tipo Linktree para crear perfiles con enlaces personalizados.",
+                "Integración de Google Wallet y Apple Wallet para la generación de pases digitales.",
+                "Implementación de autenticación y almacenamiento en Firebase."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "E-commerce",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de tienda en línea con manejo de usuarios, productos, órdenes y pagos.",
+                "Validación de pagos vía backend mediante integración con PayPal.",
+                "Backend con server actions y Prisma conectado a base de datos PostgreSQL.",
+                "Integración de autenticación mediante NextAuth y autorización mediante roles."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador de Plataforma de Trueques",
+            "company": "Trueq.Net",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Sistema de trueques entre usuarios con lógica de ofertas, validación y negociación.",
+                "Backend con NestJS y consumo de endpoints mediante Server Actions.",
+                "Arquitectura escalable con autenticación, seguridad y administración básica."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Gestión y Desarrollo de Software",
+            "institution": "Universidad Tecnológica de Tehuacán",
+            "location": "Tehuacán, Puebla",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Superior Universitario en Tecnologías de la Información - Área Desarrollo de Software",
+            "institution": "Universidad Tecnológica de Tehuacán",
+            "location": "Tehuacán, Puebla",
+            "start_date": "2022-09-01",
+            "end_date": "2024-08-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "javascript",
+                "next.js",
+                "react",
+                "tailwind-css",
+                "nestjs",
+                "express",
+                "passport.js",
+                "nextauth",
+                "jwt",
+                "postgresql",
+                "mysql",
+                "mongodb",
+                "prisma",
+                "typeorm",
+                "mongoose"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "postman",
+                "firebase",
+                "docker-basico"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

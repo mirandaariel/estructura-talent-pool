@@ -1,0 +1,331 @@
+
+{
+    "personal_info": {
+        "first_name": "Adolfo",
+        "last_name": "Villanueva Paravicino",
+        "email": "avillanueva198x@gmail.com",
+        "phone": "+51931871964",
+        "location": {
+            "country": "Peru",
+            "city": "Ayacucho",
+            "state": ""
+        },
+        "linkedin": "http://pe.linkedin.com/in/adoflovillanueva",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero de Sistemas con 15+ años de experiencia en desarrollo de software, microservicios, integración de servicios y optimización de aplicaciones empresariales. Especializado en Java (8, 11, 17), Spring Boot 3, AWS, Azure, Kafka y Redis. Experiencia en banca, pagos digitales, telecomunicaciones y gobierno, asegurando sistemas de alta disponibilidad y escalabilidad."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Backend Senior",
+            "company": "Veriinfo",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño e implementación de servicios backend resilientes integrados con Azure Service Bus, aplicando patrones de mensajería asincrónica y desacoplamiento entre microservicios.",
+                "Aplicación del patrón CQRS (Command Query Responsibility Segregation) en la separación lógica de comandos y consultas, mejorando el rendimiento y la escalabilidad del sistema.",
+                "Optimización de queries SQL y procesos de negocio críticos, logrando una reducción notable en los tiempos de respuesta de APIs y procesos batch.",
+                "Implementación de patrones de resiliencia como reintentos con backoff, fallback handlers, y manejo de errores no destructivos en escenarios asincrónicos.",
+                "Refactor y rediseño de contadores distribuidos y APIs de alto uso para asegurar consistencia eventual y tolerancia a fallos en entornos productivos.",
+                "Configuración y monitoreo de flujos con herramientas de observabilidad como New Relic y Azure Monitor, asegurando trazabilidad end-to-end de eventos e indicadores clave del sistema.",
+                "Generación de documentación técnica clara y detallada, así como soporte activo en pases a producción, validaciones, y coordinación con DevOps para despliegues controlados en Azure."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista Backend Java",
+            "company": "Ministerio Público - Fiscalía",
+            "location": "",
+            "start_date": "2023-05-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo e implementación de microservicios escalables y resilientes en OpenShift utilizando Spring Boot 3 y arquitectura orientada a eventos.",
+                "Integración de microservicios con Apache Kafka para el procesamiento asincrónico de notificaciones y eventos institucionales.",
+                "Configuración avanzada de productores y consumidores Kafka con acks, batch.size y retries, asegurando entrega garantizada de mensajes.",
+                "Aplicación de patrones como Retry, Dead Letter Queue (DLQ) y control de offset manual para garantizar tolerancia a fallos.",
+                "Migración y modernización de aplicaciones legacy a Spring Boot 3, mejorando rendimiento, trazabilidad y mantenibilidad.",
+                "Optimización del sistema de Central de Notificaciones, reduciendo tiempos de respuesta mediante desacoplamiento con colas Kafka.",
+                "Resolución de incidencias críticas en entornos productivos, con foco en análisis de offset, métricas de latencia y fallos de consumo.",
+                "Desarrollo del módulo de Mesa de Turnos, desacoplado mediante eventos y mensajería asincrónica para mejorar la gestión institucional.",
+                "Mejora continua del código mediante refactorización, alcanzando un 90% de cobertura en SonarQube y cumplimiento de estándares de calidad.",
+                "Automatización de despliegues y documentación técnica completa para facilitar escalabilidad y mantenimiento en entornos OpenShift."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista Técnico de Sistemas",
+            "company": "Culqi",
+            "location": "",
+            "start_date": "2022-05-01",
+            "end_date": "2023-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Mantenimiento y ampliación de funcionalidades críticas en microservicios desplegados sobre AWS, enfocados en transacciones de pagos digitales.",
+                "Desarrollo y despliegue de componentes serverless en AWS Lambda, aplicando lógica reactiva para procesamiento eficiente bajo demanda.",
+                "Diseño basado en eventos y desacoplamiento lógico usando disparadores asincrónicos (API Gateway → Lambda → SQS), asegurando baja latencia y escalabilidad automática.",
+                "Implementación de patrones de eventos (Event Notification & Event Carried State Transfer) para propagar transacciones y respuestas entre módulos de forma desacoplada.",
+                "Encargado del módulo de tokenización de tarjetas y credenciales, mejorando la seguridad mediante almacenamiento cifrado y control granular de acceso.",
+                "Integración exitosa con plataformas como Yape, habilitando pagos instantáneos en miles de comercios en línea.",
+                "Reducción de fallos en producción mediante mejoras en el diseño defensivo, gestión de errores y logging estructurado.",
+                "Participación en refactor de servicios críticos para soportar cargas concurrentes y escenarios de retry asincrónico."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Líder Técnico",
+            "company": "Canvia",
+            "location": "",
+            "start_date": "2019-10-01",
+            "end_date": "2020-02-29",
+            "currently_working": false,
+            "responsibilities": [
+                "Uso de arquitectura de microservicios basada en Dropwizard + Java 8, orientada a integración de sistemas de pago en un entorno de alta transaccionalidad.",
+                "Configuración e implementación de Apache Kafka como canal de eventos entre microservicios: diseño de topics, manejo de particiones, y estrategias de consumo escalables.",
+                "Desarrollo de productores y consumidores Kafka utilizando API nativa, aplicando configuración avanzada: acks, batch.size, linger.ms, max.poll.records, asegurando entregas eficientes y tolerancia a fallos.",
+                "Aplicación de patrones como DLQ (Dead Letter Queue), retry asincrónico y control de offset manual, permitiendo resiliencia ante eventos malformados o caídas temporales de servicios downstream.",
+                "Rediseño del módulo de pagos (Visa, bancos, NPS), desacoplado mediante eventos, optimizando la fiabilidad y trazabilidad del proceso.",
+                "Diagnóstico y resolución de incidentes en producción con enfoque en latencia, pérdida de offset y rendimiento de flujos Kafka, utilizando métricas e insights desde ELK Stack (Logstash, Kibana).",
+                "Gestión de infraestructura y despliegue con Kubernetes, Redis y Nginx, asegurando disponibilidad continua de los servicios.",
+                "Migración estructurada de datos desde MongoDB a Informix, manteniendo consistencia e integridad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Backend Senior",
+            "company": "Henkcorp",
+            "location": "",
+            "start_date": "2020-02-01",
+            "end_date": "2020-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de microservicios en AWS, asegurando la estabilidad y escalabilidad del sistema.",
+                "Implementación de Spring Boot y programación reactiva para mejorar el rendimiento de los servicios backend.",
+                "Colaboración en el desarrollo e integración de funcionalidades en Angular y Spring Boot.",
+                "Uso y configuración de AWS RDS, API Gateway y Lambda para optimizar procesos backend.",
+                "Optimización del backend, mejorando tiempos de respuesta y estabilidad.",
+                "Colaboración en el mantenimiento y mejoras en la arquitectura existente.",
+                "Refactorización de código para alinearlo con mejores prácticas de desarrollo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Líder Técnico",
+            "company": "Global Hitss",
+            "location": "",
+            "start_date": "2018-06-01",
+            "end_date": "2019-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Liderazgo técnico de los equipos EAI para Portales y Motor de Pagos, trabajando bajo metodología Scrum.",
+                "Implementación y mantenimiento de microservicios en entornos AWS y Docker.",
+                "Desarrollo y optimización de servicios REST, SOAP y OSB para mejorar la comunicación entre sistemas.",
+                "Integraciones con Visa, bancos y portales externos, asegurando una interoperabilidad eficiente y segura.",
+                "Configuración y gestión de WebLogic, DataPower y APIM, garantizando seguridad y alto rendimiento.",
+                "Automatización de procesos de migración mediante Shell Scripts.",
+                "Automatización y optimización de despliegues, reduciendo tiempos de producción.",
+                "Gestión de logs y monitoreo con ELK Stack (Logstash, Kibana)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista Programador Java",
+            "company": "CSTI - Qnet",
+            "location": "",
+            "start_date": "2016-07-01",
+            "end_date": "2017-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Liderazgo técnico en el desarrollo del sistema ICFlex, bajo metodología Scrum, coordinando backlog, entregables funcionales y mejoras continuas.",
+                "Migración de sistemas legados monolíticos hacia una arquitectura de microservicios basada en Spring Boot, con gestión centralizada de configuración mediante Spring Cloud ConfigServer.",
+                "Desarrollo de APIs REST seguras utilizando Spring Boot, Spring Security, Spring Data JPA y orquestación de flujos con Spring Integration, promoviendo un diseño desacoplado.",
+                "Manejo de transacciones masivas mediante colas MQ (mensajería síncrona y asíncrona), garantizando confiabilidad y resiliencia en el procesamiento batch de alto volumen.",
+                "Diseño de flujos tolerantes a fallos con lógica idempotente, reintentos y estrategias de recuperación parcial ante errores en el procesamiento de colas.",
+                "Implementación de prácticas DevOps: integración y entrega continua (CI/CD) mediante pipelines automatizados, acelerando despliegues y reduciendo errores operativos.",
+                "Uso de ELK Stack (Logstash, Kibana) para trazabilidad, análisis de eventos y monitoreo del rendimiento de microservicios en entornos productivos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ingeniero de Sistemas",
+            "company": "Provraem",
+            "location": "",
+            "start_date": "2015-11-01",
+            "end_date": "2016-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y gestión de la página web institucional (provraem.gob.pe/web).",
+                "Configuración y mantenimiento de servidores adquiridos para garantizar estabilidad operativa.",
+                "Implementación y despliegue del SIGA, asegurando su correcta operatividad en la institución.",
+                "Desarrollo y configuración de una intranet interna para optimizar la comunicación y gestión de información.",
+                "Instalación de un chat institucional para mejorar la interacción entre áreas.",
+                "Cableado estructurado en toda la sede y sus zonales, asegurando conectividad eficiente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista Programador Java",
+            "company": "Inexxo",
+            "location": "",
+            "start_date": "2013-10-01",
+            "end_date": "2015-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Liderazgo técnico en el mantenimiento y migración de los 5 Sites de Scotiabank: Scotiabank, Crediscotia, SCI, Scotiapuntos e Inversiones.",
+                "Definición e implementación de arquitectura de aplicaciones web.",
+                "Desarrollo e implementación del Sistema para Media Network, incluyendo soporte y mejoras continuas.",
+                "Creación del Sistema Móvil Fractal, optimizando la gestión y seguridad del producto, con lanzamiento exitoso en Android."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista Senior",
+            "company": "Accenture",
+            "location": "",
+            "start_date": "2012-11-01",
+            "end_date": "2013-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Análisis, desarrollo e implementación de procesos ETL para la integración y transformación de datos.",
+                "Migración de datos desde Acsel/x hacia Guidewire, asegurando la correcta integración con los sistemas de seguros.",
+                "Recopilación y transformación de datos para los módulos de Data Warehousing.",
+                "Desarrollo y consumo de Web Services y APIs, utilizando Oracle Wallet para gestión segura de credenciales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero de Cómputo y Sistemas",
+            "institution": "Universidad Inca Garcilaso de la Vega",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring-boot",
+                "aws",
+                "azure",
+                "kafka",
+                "redis",
+                "microservicios",
+                "api-restful",
+                "graphql",
+                "angular",
+                "hibernate",
+                "jpa",
+                "micronaut",
+                "dropwizard",
+                "jsf",
+                "struts",
+                "thymeleaf",
+                "oracle-database",
+                "postgresql",
+                "mysql",
+                "sql-server",
+                "mongodb",
+                "h2",
+                "db2",
+                "informix",
+                "azure-service-bus",
+                "azure-event-grid",
+                "datapower",
+                "apim",
+                "ibm-api-connect",
+                "openshift-api-management",
+                "docker",
+                "kubernetes",
+                "gitlab",
+                "github-actions",
+                "azure-devops",
+                "jenkins",
+                "bamboo",
+                "git",
+                "bitbucket",
+                "svn",
+                "junit",
+                "mockito",
+                "jmeter",
+                "soapui",
+                "sonarqube",
+                "sonarcloud",
+                "hp-fortify",
+                "owasp-dependency-check",
+                "snyk",
+                "jfrog-xray",
+                "new-relic",
+                "azure-monitor",
+                "swagger",
+                "openapi",
+                "gradle",
+                "maven",
+                "intellij-idea",
+                "vsc",
+                "eclipse"
+            ],
+            "soft": [
+                "leadership",
+                "problem-solving",
+                "communication"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Scrum Master Professional Certificate (SMPC®)",
+            "issuing_organization": "CertiProf",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Scrum Developer Professional Certification (SDPC)",
+            "issuing_organization": "CertiProf",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Java Architect Application Developer",
+            "issuing_organization": "CIBERTEC",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Arquitectura en AWS",
+            "issuing_organization": "MITOCODE",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,129 @@
+{
+    "personal_info": {
+        "first_name": "Franco",
+        "last_name": "Lencioni",
+        "email": "franco.lencionijacome@gmail.com",
+        "phone": "+54 11 3886-5011",
+        "location": {
+            "country": "Argentina",
+            "city": "Villa del Parque, Caba",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/franco-aquatin-lencioni-iacome-668b061b8",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy estudiante avanzado de Analista de Sistemas con experiencia en desarrollo de software y creación de soluciones web. Apasionado por la programación y la lógica, busco continuamente mejorar mis habilidades y adaptarme a nuevas tecnologías. Trabajo bien en equipo, con enfoque en atención al cliente y capacidad de liderazgo en proyectos tecnológicos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Encargado de barra",
+            "company": "Zabala Paz Eventos",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Supervisé un equipo de bartenders, gestionando el stock y garantizando un servicio eficiente de hasta 200 clientes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Administrativo",
+            "company": "INET",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Registro de ingresos y trabajo con el paquete de Office, mejorando mis habilidades organizativas y de manejo de datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachiller",
+            "institution": "Carlos Pellegrini",
+            "location": "",
+            "start_date": "2011-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Analista de sistemas",
+            "institution": "Universidad Da Vinci",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "html",
+                "css",
+                "php",
+                "javascript",
+                "sql"
+            ],
+            "soft": [
+                "resolución-de-conflictos",
+                "trabajo-en-equipo",
+                "liderazgo",
+                "adaptabilidad",
+                "aprendizaje-continuo"
+            ],
+            "tools": [
+                "github",
+                "photoshop",
+                "paquete-office"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Desarrollo de juegos en Java",
+            "description": "Implementé varios juegos interactivos con interfaz gráfica, permitiendo la interacción del usuario y la competencia contra la CPU.",
+            "technologies": [
+                "java"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Página web de hotel",
+            "description": "Diseñé y desarrollé una página web completamente responsive utilizando HTML y CSS.",
+            "technologies": [
+                "html",
+                "css"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Sistema de registro de usuarios",
+            "description": "Creé una página web en PHP con un sistema de registro y almacenamiento de datos en SQL.",
+            "technologies": [
+                "php",
+                "sql"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

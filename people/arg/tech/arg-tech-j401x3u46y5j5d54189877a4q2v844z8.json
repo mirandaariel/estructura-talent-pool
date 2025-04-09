@@ -1,0 +1,125 @@
+{
+    "personal_info": {
+        "first_name": "Jorge Antonio",
+        "last_name": "Portada Luna",
+        "email": "antonio_portada25@hotmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador java full-stack: Experiencia desarrollando aplicaciones con java8, 17, JSP, JSF, Spring framework, Bootstrap, CSS, JavaScript, tiles, myBatis, Jersey, Retrofit, Lombok, participando en algunos proyectos con Angular17. Base de datos con DBMS como Oracle, MySql, SQLServer, uso de comandos DDL y DML para manipular datos, crear y actualizar triggers, procedimientos almacenados y funciones, uso de jobs para programar tareas. Manejo de git y svn para administrar las versiones del código para mantener una versión estable. Despliegue de wars y configuración de servidor Tomcat. Uso de GCP para conectarse con algunas API. Uso de Azure para administrar y configurar servidores remotos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Java",
+            "company": "GRUPO PAKAR",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Participar en el análisis de los requerimientos que demanda la empresa, utilizando Spring Boot, creando APIs para conectar con apps (Android e iOS) y web con angular y JSF.",
+                "Trabajando en equipos para entregar los productos a tiempo.",
+                "Crear los datos necesarios para la base de datos.",
+                "Desplegarlos en servidores Apache."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Líder de desarrollo y full-stack",
+            "company": "CALIFICAPP",
+            "location": "",
+            "start_date": "2021-10-01",
+            "end_date": "2024-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Liderar el proceso de desarrollo, analizando los requerimientos del área y desarrollarlos con JSP, Spring Framework.",
+                "Conectar y consumir APIs, incluidas algunas de google.",
+                "Configuración de Apache tomcat y despliegue de la aplicación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador iOS",
+            "company": "TECHYWE",
+            "location": "",
+            "start_date": "2022-11-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Mantenimiento de la aplicación iOS, adición y modificación de código.",
+                "Modificación de la interfaz de usuario para cumplir nuevos requisitos del cliente o actualizaciones de iOS."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador java full-stack",
+            "company": "SECRETARÍA DE PLANEACIÓN Y FINANZAS",
+            "location": "",
+            "start_date": "2020-10-01",
+            "end_date": "2021-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web con java, Spring boot, Thymeleaf, html, css y JavaScript."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java8",
+                "java17",
+                "jsp",
+                "jsf",
+                "spring-framework",
+                "bootstrap",
+                "css",
+                "javascript",
+                "tiles",
+                "mybatis",
+                "jersey",
+                "retrofit",
+                "lombok",
+                "angular17",
+                "oracle",
+                "mysql",
+                "sqlserver",
+                "ddl",
+                "dml",
+                "git",
+                "svn",
+                "tomcat",
+                "gcp",
+                "azure"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

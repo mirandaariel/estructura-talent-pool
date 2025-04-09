@@ -1,0 +1,165 @@
+{
+    "personal_info": {
+        "first_name": "Laura",
+        "last_name": "Melero Gutierrez",
+        "email": "melgutlau@gmail.com",
+        "phone": "634401892",
+        "location": {
+            "country": "Spain",
+            "city": "Málaga",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/laura-melero-gutierrez/",
+        "website": "https://github.com/lauramelgut",
+        "portfolio": "",
+        "summary": "Soy una profesional dedicada y responsable, con una fuerte ética de trabajo y una notable capacidad para el trabajo en equipo. Mi pasión por la tecnología me impulsa a mantenerme en constante aprendizaje, buscando siempre innovar y mejorar en mi campo. Estoy comprometida con el desarrollo de soluciones eficientes y la excelencia en cada proyecto que emprendo."
+    },
+    "work_experience": [
+        {
+            "job_title": "GA Tester - Frontend Developer Jr",
+            "company": "Aratech",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2025-01-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Analicé y documenté los requisitos funcionales y no funcionales de nuevas características, asegurando la alineación con las expectativas del usuario final.",
+                "Diseñé y ejecuté casos de prueba basados en GWT (Given-When-Then), logrando una cobertura de pruebas eficientes y precisas.",
+                "Implementé pruebas funcionales, regresión y validación de pases a producción, garantizando la estabilidad del producto en entregas continuas.",
+                "Definí y documenté procesos de testing.",
+                "Participé activamente en ceremonias SCRUM (dailys, plannings, reviews y retrospectives), promoviendo una comunicación fluida y la mejora continua dentro del equipo.",
+                "Mejoré la calidad del producto al reportar y hacer seguimiento de incidencias, proporcionando soluciones detalladas y priorizando correcciones según su impacto."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Web Developer Jr",
+            "company": "Zonox",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "2023-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo e implementación de interfaces modernas y funcionalidades avanzadas utilizando Vue.js, en un entorno ágil bajo la metodología Scrum."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Web Developer Jr",
+            "company": "Colorai",
+            "location": "",
+            "start_date": "2023-05-01",
+            "end_date": "2023-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicación de estudio de Colorimetría",
+                "Implementación de funcionalidades clave.",
+                "Colaboración en diseño y planificación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "GA Tester",
+            "company": "SaraWorld",
+            "location": "",
+            "start_date": "2022-02-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Análisis de requisitos de nuevas funcionalidades.",
+                "Estructuración y adaptación (refining) de funcionalidades desde la perspectiva del testing y del usuario final.",
+                "Definición de criterios de aceptación concisos.",
+                "Soporte al equipo de automatización en la elección de escenarios críticos para el negocio.",
+                "Diseño de procesos de testing y su documentación.",
+                "Testing funcional, regresión y pases a producción.",
+                "Definición de casos de pruebas utilizando la estructura GWT (Given-When-Then).",
+                "Trabajar en un proyecto y un equipo siguiendo metodologías ágiles (SCRUM)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bootcamp Full Stack Web Developer",
+            "institution": "Socratech",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "flexbox",
+                "grid",
+                "diseño-web-responsive",
+                "sass",
+                "bootstrap",
+                "javascript-es6",
+                "typescript",
+                "react",
+                "nodejs",
+                "express",
+                "mysql",
+                "mariadb",
+                "git"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "comunicación",
+                "aprendizaje-continúo"
+            ],
+            "tools": [
+                "vscode",
+                "terminal",
+                "consola",
+                "github",
+                "teams",
+                "discord",
+                "slack"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "API Testing con Postman",
+            "issuing_organization": "Udemy",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Software Testing desde Cero (QA)",
+            "issuing_organization": "Udemy",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
