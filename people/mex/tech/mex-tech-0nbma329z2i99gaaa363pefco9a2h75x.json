@@ -2,7 +2,7 @@
     "personal_info": {
         "first_name": "Guadalupe",
         "last_name": "Quintal Varguez",
-        "email": "guadalupe.quintalv@gmail.com",
+        "email": "guadalupe.quintal@gmail.com",
         "phone": "+52 99 9243-2207",
         "location": {
             "country": "Mexico",
@@ -176,7 +176,10 @@
                 "sql-server-reporting-services",
                 "powerbi",
                 "pentaho",
-                "databricks"
+                "databricks",
+                "devops",
+                "fabric",
+                "azure data factory"
             ],
             "soft": [
                 "liderazgo",
@@ -193,7 +196,7 @@
             ],
             "tools": [
                 "github",
-                "devops",
+                "azure devops",
                 "jupyter",
                 "jira",
                 "bitbucket",
@@ -224,11 +227,18 @@
     },
     "certifications": [
         {
-            "name": "Women CISO",
-            "issuing_organization": "",
-            "issue_date": "2024-01-01",
+            "name": "Microsoft Certified: Azure Fundamentals",
+            "issuing_organization": "Microsoft",
+            "issue_date": "2025-03-30",
             "expiration_date": "",
-            "credential_id": ""
+            "credential_id": "16117DF09A6CEA"
+        },
+        {
+            "name": "Cybersecurity & IA for the CISO",
+            "issuing_organization": "EPIC Lab ITAM",
+            "issue_date": "2024-12-01",
+            "expiration_date": "",
+            "credential_id": "8590ed92-9190-40fa-9a3e-662359757496"
         },
         {
             "name": "Ciberseguridad de Google Specialization",
@@ -248,13 +258,6 @@
             "name": "GitHub Copilot",
             "issuing_organization": "",
             "issue_date": "2024-01-01",
-            "expiration_date": "",
-            "credential_id": ""
-        },
-        {
-            "name": "Microsoft Azure Fundamentals Curso AZ-900",
-            "issuing_organization": "",
-            "issue_date": "2023-01-01",
             "expiration_date": "",
             "credential_id": ""
         },
@@ -301,13 +304,6 @@
             "credential_id": ""
         },
         {
-            "name": "Lider Altamente Valorado",
-            "issuing_organization": "",
-            "issue_date": "2022-01-01",
-            "expiration_date": "",
-            "credential_id": ""
-        },
-        {
             "name": "Arquitectura de Microservicios I",
             "issuing_organization": "",
             "issue_date": "2022-01-01",
@@ -337,10 +333,10 @@
         },
         {
             "name": "Scrum Foundation Professional Certificate (SFPC)",
-            "issuing_organization": "",
-            "issue_date": "2020-01-01",
-            "expiration_date": "",
-            "credential_id": ""
+            "issuing_organization": "CertiProf",
+            "issue_date": "2020-06-01",
+            "expiration_date": "2022-08-01",
+            "credential_id": "81591322083447"
         },
         {
             "name": "DevOps Essentials Professional Certificate",
@@ -385,27 +381,6 @@
             "credential_id": ""
         },
         {
-            "name": "Scrum Master",
-            "issuing_organization": "Udemy",
-            "issue_date": "2019-01-01",
-            "expiration_date": "",
-            "credential_id": ""
-        },
-        {
-            "name": "DevOps",
-            "issuing_organization": "Udemy",
-            "issue_date": "2019-01-01",
-            "expiration_date": "",
-            "credential_id": ""
-        },
-        {
-            "name": "ITIL",
-            "issuing_organization": "",
-            "issue_date": "2019-01-01",
-            "expiration_date": "",
-            "credential_id": ""
-        },
-        {
             "name": "Certificación MCSA: SQL SERVER 2014",
             "issuing_organization": "ASTER",
             "issue_date": "2015-01-01",
@@ -431,7 +406,7 @@
     "languages": [
         {
             "language": "Inglés",
-            "proficiency": "50%"
+            "proficiency": "60%"
         }
     ],
     "volunteer_experience": [],
