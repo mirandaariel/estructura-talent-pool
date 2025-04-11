@@ -1,0 +1,120 @@
+{
+    "personal_info": {
+        "first_name": "JSolerrosas",
+        "last_name": "",
+        "email": "cuevasjuanfrancisco@gmail.com",
+        "phone": "+57 3115761443",
+        "location": {
+            "country": "Colombia",
+            "city": "Bogotá D.C",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Data-driven Systems Engineer with expertise in cloud computing, data warehousing, and ETL processes. Proven track record of improving data processing efficiency and implementing robust data solutions."
+    },
+    "work_experience": [
+        {
+            "job_title": "Application Engineer",
+            "company": "Heel Colombia",
+            "location": "Bogotá D.C",
+            "start_date": "2023-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Architected and maintained enterprise Data Warehouse solutions, improving data processing efficiency by 50%.",
+                "Develop and optimize ETL pipelines using AWS Glue.",
+                "Implemented serverless integrations using AWS Lambda and API Gateway.",
+                "Collaborated with cross-functional teams to design and implement API solutions for system interconnectivity.",
+                "Established monitoring and alerting systems to ensure 99.9% uptime for critical data processes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Application Support Analyst",
+            "company": "Masiv",
+            "location": "Bogotá D.C",
+            "start_date": "2022-10-01",
+            "end_date": "2023-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Develop AWS Lambda functions to export customized clients reports based on product data.",
+                "Maintain and monitor AWS infrastructure to ensure proper product performance.",
+                "Support technical issues on email product, manage and resolve reported issues in the helpdesk."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Systems Engineer",
+            "institution": "Corporación Unificada Nacional",
+            "location": "Bogotá D.C",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "ADSI, Technologist",
+            "institution": "SENA",
+            "location": "Bogotá D.C",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                "python",
+                "postgres",
+                "mysql",
+                "sql-server",
+                "mongo",
+                "dynamodb",
+                "aws-lambda",
+                "aws-ec2",
+                "aws-api-gateway",
+                "java",
+                "javascript",
+                "react",
+                "git",
+                "google-cloud-platform",
+                "azure"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "AWS Data Analytics Specialty",
+            "issuing_organization": "AWS",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

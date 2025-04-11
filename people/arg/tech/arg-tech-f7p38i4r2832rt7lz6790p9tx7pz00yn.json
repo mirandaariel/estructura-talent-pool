@@ -1,0 +1,166 @@
+{
+    "personal_info": {
+        "first_name": "Favio",
+        "last_name": "Olivera",
+        "email": "jfgc2000@gmail.com",
+        "phone": "+54 3574402319",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador con experiencia en backend y desarrollo de chatbots, con conocimientos en Python, JavaScript y herramientas de IA. He trabajado con bases de datos SQL y NoSQL, integraciones en la nube (AWS), y metodologías ágiles. Me destaco por mi capacidad de resolución de problemas, trabajo en equipo y adaptabilidad a nuevas tecnologías"
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollo de Chatbots",
+            "company": "Fiverr",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño y desarrollo de bots con integración de IA.",
+                "Uso de herramientas como Botpress, BuilderBot, Python, Node.js y Make.",
+                "Implementación de respuestas automatizadas y optimización de flujos conversacionales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Líder de Backend - Proyecto Hotelero",
+            "company": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2023-12-01",
+            "end_date": "2024-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Organización del equipo y delegación de tareas con Jira.",
+                "Diseño, creación y despliegue de base de datos (PostgreSQL), optimización de consultas.",
+                "Integración de AWS S3 para almacenamiento de imágenes y gestión de permisos.",
+                "Implementación de autenticación con JWT.",
+                "Desarrollo de sistema de chat en tiempo real con Socket.IO.",
+                "Creación de operaciones CRUD con Node.js y Express.",
+                "Colaboración en frontend y pruebas automatizadas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Customer Experience Service",
+            "company": "Apex America",
+            "location": "",
+            "start_date": "2019-11-01",
+            "end_date": "2023-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Resolución de problemas técnicos complejos.",
+                "Comunicación efectiva y trabajo en equipo con distintos departamentos.",
+                "Adaptabilidad y aprendizaje de nuevas herramientas y procesos (CRM, bases de datos)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Programación",
+            "institution": "Universidad Tecnológica Nacional (UTN)",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Ciencias de la Computación",
+            "institution": "Universidad Nacional de Córdoba",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "python",
+                "node.js",
+                "express",
+                "react",
+                "next",
+                "postgresql",
+                "mongodb",
+                "mysql",
+                "aws",
+                "docker"
+            ],
+            "soft": [
+                "problem-solving",
+                "teamwork",
+                "adaptability"
+            ],
+            "tools": [
+                "botpress",
+                "builderbot",
+                "make",
+                "dialogflow",
+                "botmaker",
+                "n8n",
+                "git",
+                "github",
+                "postman",
+                "jest",
+                "agile",
+                "scrum",
+                "jira"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Desarrollo de Chatbots para Automatización de Servicios",
+            "description": "Creación de chatbots personalizados para distintos clientes. Integraciones con API, procesamiento de lenguaje natural y optimización de respuestas automáticas.",
+            "technologies": [
+                "Python",
+                "Node.js",
+                "Botpress",
+                "AWS"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        },
+        {
+            "language": "Portugués",
+            "proficiency": "A1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

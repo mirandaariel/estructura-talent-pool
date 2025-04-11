@@ -1,50 +1,93 @@
 {
     "personal_info": {
-        "first_name": "Giovanny",
-        "last_name": "Curahua Albujar",
+        "first_name": "Domingo Eduardo",
+        "last_name": "Bobó",
         "email": "giovanny_cual@hotmail.com",
-        "phone": "",
+        "phone": "+543425082978",
         "location": {
-            "country": "",
-            "city": "",
-            "state": ""
+            "country": "Argentina",
+            "city": "Mercedes",
+            "state": "Corrientes"
         },
-        "linkedin": "",
+        "linkedin": "https://linkedin.com/in/domingobobo",
         "website": "",
         "portfolio": "",
-        "summary": "Analista encargado del control de calidad de software"
+        "summary": "Profesional en gestión de proyectos y procesos con sólida experiencia como Project Manager, Product Owner y Account Manager en entornos digitales e industriales. Líder en iniciativas de transformación digital con foco en eficiencia, automatización e innovación tecnológica."
     },
     "work_experience": [
         {
-            "job_title": "Analista QA",
-            "company": "Valtx",
+            "job_title": "Gerente Asistente de Producción",
+            "company": "Eramine Sudamérica S.A.",
             "location": "",
-            "start_date": "2023-01-01",
+            "start_date": "2024-06-01",
             "end_date": "",
             "currently_working": true,
             "responsibilities": [
-                "Encargado de las pruebas funcionales de acuerdo a los casos de pruebas.",
-                "Evidenciar las pruebas y errores encontrados.",
-                "Informes de avance de pruebas.",
-                "Pruebas en entorno móvil y web.",
-                "Construcción de casos de prueba.",
-                "Elaboración de plan de pruebas.",
-                "Ejecución de casos de prueba.",
-                "Ejecución de pruebas de regresión.",
-                "Reporte de defectos.",
-                "Evidencia de pruebas funcionales.",
-                "Elaboración de casos de prueba.",
-                "Ejecución de pruebas de componentes e integración de sistema.",
-                "Capacitación al personal de caja Huancayo sobre la herramienta de gestión comercial.",
-                "Ejecución de pruebas estáticas en el proyecto de herramienta de gestión Comercial.",
-                "Revisión y evaluación de código para asegurar las buenas prácticas de programación.",
-                "Elabore el manual de usuario.",
-                "Elaboración de casos de prueba requeridos.",
-                "Revisión de requisitos de sistema.",
-                "Despliegue en ambientes de control de calidad.",
-                "Ejecución e informe de casos de pruebas",
-                "Evidencias de pruebas funcional.",
-                "Coordinación de despliegue en los ambientes productivos."
+                "Acompañé la puesta en marcha de una planta de carbonato de litio, gestionando múltiples stakeholders.",
+                "Introduje herramientas de mejora continua, automatización y metodologías ágiles.",
+                "Participé como Product Owner en diseño de soluciones digitales para seguimiento de producción.",
+                "Rol de Account Manager al coordinar entre áreas técnicas y comerciales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Gestión de Proyectos y Procesos",
+            "company": "DEB Consultores",
+            "location": "",
+            "start_date": "2018-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Lideré proyectos como Project Manager, Product Owner y Account Manager para empresas industriales y tecnológicas.",
+                "Implementación de blockchain en sistemas de gestión de calidad, logrando una mejora del 25% en trazabilidad y reducción del 20% en errores operativos.",
+                "Relevamiento y rediseño de procesos para implementar IA en mejora de productividad y reducción de costos.",
+                "Coordinación con equipos de desarrollo, stakeholders y usuarios para asegurar entregas ágiles, efectivas y remotas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ingeniero de Procesos y Proyectos",
+            "company": "Zijin Mining Group",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Coordiné el montaje y la puesta en marcha de una planta piloto con capacidad de producción de 20,000 toneladas anuales.",
+                "Implementé metodologías Lean y Six Sigma, logrando una reducción del 20% en los tiempos de ciclo y una optimización de costos del 25%.",
+                "Diseñé e implementé manuales operativos, instructivos y procedimientos estandarizados."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Jefe de Planta",
+            "company": "Nutricorrientes",
+            "location": "",
+            "start_date": "2020-08-01",
+            "end_date": "2022-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestioné operaciones con más de 60 colaboradores a cargo, liderando equipos.",
+                "Implementé estrategias de optimización en producción y logística, logrando una reducción del 25% en los tiempos de producción.",
+                "Diseñé y administré presupuestos operativos, alineando los recursos con los objetivos estratégicos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Jefe de Operaciones",
+            "company": "Minera Exar",
+            "location": "",
+            "start_date": "2017-10-01",
+            "end_date": "2020-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideré operaciones y proyectos de gran escala coordinando equipos y procesos clave.",
+                "Implementé metodologías Lean y aseguré el cumplimiento de los estándares STP de seguridad.",
+                "Supervisé KPIs productivos, logrando una mejora del 30% en la eficiencia de extracción."
             ],
             "achievements": [],
             "repository_url": ""
@@ -52,84 +95,96 @@
     ],
     "education": [
         {
-            "degree": "Desarrollo de Sistemas",
-            "institution": "Instituto SISE",
+            "degree": "Diplomatura en Project Management",
+            "institution": "Academia Numen",
             "location": "",
-            "start_date": "2020-09-01",
-            "end_date": "2023-10-31",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomatura en Metodologías Ágiles",
+            "institution": "Academia Numen",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Química",
+            "institution": "Universidad Nacional del Litoral",
+            "location": "",
+            "start_date": "2007-01-01",
+            "end_date": "2013-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Industrial (No Finalizada)",
+            "institution": "Universidad Nacional del Litoral",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomatura en Buenas Prácticas Aplicadas",
+            "institution": "UCEL",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2015-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Programa Producción de Litio",
+            "institution": "Universidad Austral Argentina",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2019-12-31",
             "hours": 0
         }
     ],
     "skills": {
         "keywords": {
             "technical": [
-                "java",
-                "react",
-                "selenium",
-                "node",
-                "power-by",
-                "sql-server",
-                "mysql",
-                "oracle"
+                "gestión-de-proyectos",
+                "product-ownership",
+                "account-management",
+                "transformación-digital",
+                "blockchain",
+                "ia-para-procesos",
+                "bpm",
+                "sql"
             ],
-            "soft": [],
+            "soft": [
+                "comunicación-efectiva",
+                "liderazgo-de-equipos"
+            ],
             "tools": [
-                "jira",
+                "microsoft-project",
                 "trello",
-                "office"
+                "trabajo-remoto",
+                "mejora-continua",
+                "metodologías-áiles"
             ]
         },
-        "detailed": {
-            "technical": [],
-            "soft": []
-        }
+        "detailed": []
     },
-    "certifications": [
+    "certifications": [],
+    "projects": [],
+    "languages": [
         {
-            "name": "Tópico de GeneXus",
-            "issuing_organization": "Valtx",
-            "issue_date": "2024-03-01",
-            "expiration_date": "",
-            "credential_id": ""
+            "language": "Español",
+            "proficiency": "Nativo"
         },
         {
-            "name": "Conceptos y Productos Financieros",
-            "issuing_organization": "Valtx",
-            "issue_date": "2024-03-01",
-            "expiration_date": "",
-            "credential_id": ""
+            "language": "Inglés",
+            "proficiency": "Intermedio-Avanzado"
         },
         {
-            "name": "Calidad de Software",
-            "issuing_organization": "Valtx",
-            "issue_date": "2024-03-01",
-            "expiration_date": "",
-            "credential_id": ""
-        },
-        {
-            "name": "Curso de Fundamentos de Node.js",
-            "issuing_organization": "Platzi",
-            "issue_date": "2024-02-01",
-            "expiration_date": "",
-            "credential_id": ""
-        },
-        {
-            "name": "Curso de MySQL y SQL",
-            "issuing_organization": "Platzi",
-            "issue_date": "2024-01-01",
-            "expiration_date": "",
-            "credential_id": ""
-        },
-        {
-            "name": "Curso de Redux React",
-            "issuing_organization": "Platzi",
-            "issue_date": "2023-11-01",
-            "expiration_date": "",
-            "credential_id": ""
+            "language": "Portugués",
+            "proficiency": "Básico"
         }
     ],
-    "projects": [],
-    "languages": [],
     "volunteer_experience": [],
     "publications": [],
     "references": []

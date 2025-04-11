@@ -1,0 +1,131 @@
+{
+    "personal_info": {
+        "first_name": "Daniel Alejandro",
+        "last_name": "Martínez Pérez",
+        "email": "felipillo_gera@hotmail.com",
+        "phone": "9613237685",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Me apasiona el desarrollo de software y la resolución de problemas tecnológicos. Además, cuento con un diplomado en Marketing Digital, lo que me permite combinar habilidades técnicas con estrategias de promoción digital. Poseo experiencia en proyectos académicos y de servicio social, donde adquirí habilidades en desarrollo de aplicaciones, gestión de bases de datos y soporte técnico. Me considero una persona comprometida, proactiva y con interés por seguir aprendiendo para aportar soluciones innovadoras en el ámbito tecnológico."
+    },
+    "work_experience": [
+        {
+            "job_title": "Asistente en conducción y coordinación de procesos administrativos",
+            "company": "Secretaría de Educación",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Apoyo en la organización y seguimiento de procesos administrativos.",
+                "Adquirí habilidades en gestión de documentos y análisis de procesos internos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador de Software Junior",
+            "company": "",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Participé en el desarrollo de un sistema interno para gestión de inventarios utilizando PHP y MySQL.",
+                "Realicé pruebas funcionales y optimicé consultas en la base de datos para mejorar el rendimiento.",
+                "Colaboré en la implementación de mejoras en el sistema de reportes de la empresa."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diplomado en marketing digital",
+            "institution": "Universidad Autónoma de Chiapas",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Sistemas computacionales",
+            "institution": "Universidad Autónoma de Chiapas (UNACH)",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Programación",
+            "institution": "Centro de Estudios Tecnológicos Industrial y de Servicios",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "python",
+                "c#",
+                "c++",
+                "php"
+            ],
+            "soft": [
+                "trabajo-colaborativo",
+                "resolución-de-conflictos",
+                "gestión-de-proyectos",
+                "aprendizaje-rápido",
+                "creatividad-e-innovación",
+                "toma-de-decisiones-bajo-presión",
+                "orientación-a-resultados",
+                "habilidades-de-negociación",
+                "presentaciones-efectivas"
+            ],
+            "tools": [
+                "visual-studio-2022",
+                "visual-studio-code",
+                "mysql",
+                "wamp",
+                "xampp"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sistema de Gestión de Servicios Veterinarios",
+            "description": "Desarrollé una aplicación web para la gestión de clientes y servicios veterinarios.",
+            "technologies": [
+                "php",
+                "mysql",
+                "git",
+                "azure-devops"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Native"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "Intermediate B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

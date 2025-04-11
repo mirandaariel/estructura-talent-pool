@@ -1,0 +1,204 @@
+{
+    "personal_info": {
+        "first_name": "José Antonio",
+        "last_name": "Serrano García",
+        "email": "facundofernandez-@hotmail.com",
+        "phone": "",
+        "location": {
+            "country": "España",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con gran entusiasmo por seguir aprendiendo y creciendo en el mundo del desarrollo de software. Recién graduado en Desarrollo de Aplicaciones Multiplataforma. Tengo experiencia en Java, Python, HTML, CSS, JavaScript, WordPress, Scrum, Kotlin, PHP y SQL. A lo largo de mi formación, trabajé en diversos proyectos, lo que me permitió adquirir habilidades en el desarrollo de aplicaciones móviles y sitios web, además de fortalecer mi capacidad para resolver problemas y colaborar adecuadamente en equipo. Mi enfoque profesional se basa en la mejora continua, enfrentando nuevos desafíos con pasión y determinación."
+    },
+    "work_experience": [
+        {
+            "job_title": "Servicio Técnico en Operaciones y Mantenimiento",
+            "company": "PTV Telecom",
+            "location": "Córdoba, ES",
+            "start_date": "2024-03-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestionar y supervisar el mantenimiento de equipos técnicos de las redes de los clientes.",
+                "Implementar mejoras en los procesos de mantenimiento, aumentando la eficiencia operativa.",
+                "Gestionar incidencias de clientes, resolviéndolas de manera eficiente.",
+                "Asegurar el cumplimiento de los estándares de calidad y seguridad.",
+                "Mantener comunicación efectiva con clientes y partes interesadas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack - Prácticas",
+            "company": "Cordoware",
+            "location": "Córdoba, ES",
+            "start_date": "2023-03-01",
+            "end_date": "2023-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollar y mantener aplicaciones web completas.",
+                "Colaborar con equipos de diseño y backend.",
+                "Implementar mejoras en el rendimiento de aplicaciones web.",
+                "Participar en revisiones de código y asegurar el cumplimiento de estándares de calidad.",
+                "Aprender y aplicar nuevas tecnologías y herramientas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnico Informático",
+            "company": "Ayuntamiento de Castro del Río",
+            "location": "Castro del Río, ES",
+            "start_date": "2025-03-01",
+            "end_date": "2025-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestionar la administración de equipos tecnológicos.",
+                "Instalar y mantener redes informáticas.",
+                "Implementar soluciones tecnológicas.",
+                "Realizar diagnósticos y reparaciones de hardware y software.",
+                "Administrar y gestionar tickets de incidencias."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Máster en Programación Full-Stack",
+            "institution": "Tokio School",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo de Aplicaciones Multiplataforma",
+            "institution": "Salesianos",
+            "location": "Córdoba, ES",
+            "start_date": "2025-09-01",
+            "end_date": "2025-08-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ciclo Formativo de Grado Medio",
+            "institution": "IES Inca Garcilaso",
+            "location": "Montilla, ES",
+            "start_date": "2019-09-01",
+            "end_date": "2021-06-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "python",
+                "javascript",
+                "php",
+                "kotlin",
+                "html5",
+                "css3",
+                "bootstrap",
+                "wordpress",
+                "sql",
+                "react",
+                "swing",
+                "android",
+                "spring",
+                "node.js",
+                "git",
+                "scrum"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "resolución-de-problemas",
+                "adaptabilidad",
+                "comunicación",
+                "gestión-del-tiempo"
+            ],
+            "tools": [
+                "jira",
+                "trello"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Introduction to Cybersecurity",
+            "issuing_organization": "Cisco",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Introduction to Web Development",
+            "issuing_organization": "MindLuster",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Android",
+            "issuing_organization": "Open Webinar",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Programación con Java Standard",
+            "issuing_organization": "Telefonica",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Python Essentials",
+            "issuing_organization": "Cisco",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "CCNA Routing and Switching: Introducción a redes",
+            "issuing_organization": "Cisco",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Responsive Web Design",
+            "issuing_organization": "FreeCodeCamp",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Bootcamp Python",
+            "issuing_organization": "NETT Digital School",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "JavaScript Algorithms and Data",
+            "issuing_organization": "FreeCodeCamp",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

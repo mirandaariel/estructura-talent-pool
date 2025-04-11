@@ -1,0 +1,99 @@
+{
+    "personal_info": {
+        "first_name": "Isaac",
+        "last_name": "Álvarez",
+        "email": "mauroquirogasl@gmail.com",
+        "phone": "+584121762163",
+        "location": {
+            "country": "Venezuela",
+            "city": "Aragua",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/is-alvarez",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero de Sistemas con experiencia práctica en soporte técnico de primer y segundo nivel. Apasionado por el desarrollo web, con conocimientos en HTML, CSS, JavaScript y React. Entusiasmado por la oportunidad de aplicar y expandir mis conocimientos en un entorno laboral dinámico, aportando creatividad, trabajo en equipo y resolución de problemas. Me caracterizo por mi comunicación efectiva, adaptabilidad y capacidad para aprender rápidamente nuevas tecnologías."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador frontend",
+            "company": "Proyecto personal: Aplicación del clima",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Integré la API del clima de Meteosource con la interfaz de usuario, mostrando los datos meteorológicos en tiempo real.",
+                "Diseñé una interfaz de usuario intuitiva y agradable, siendo accesible y usable en dispositivos con diferentes resoluciones.",
+                "Utilicé bootstrap-icons para mejorar el aspecto visual y la experiencia del usuario, incluyó el modo claro y oscuro.",
+                "Automatizé el proceso de desarrollo utilizando herramientas como pnpm para la gestión de dependencias y git para el control de versiones.",
+                "Añadí una ventana de ajustes para decidir el sistema de mediciones, adecuándose al sistema métrico de cada país."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador frontend",
+            "company": "Proyecto personal: Catálogo de proyectos de Frontend Mentor",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementé HTML, CSS y JavaScript para la estructura, el diseño y la funcionalidad básica de la página.",
+                "Desarrollé interfaces de usuario responsivas y accesibles para diferentes dispositivos, además de los modos claro y oscuro.",
+                "Optimicé el cargado de la página en un 20% gracias a la compresión de imágenes y aplicando lazy loading.",
+                "Agregué la funcionalidad necesaria en proyectos que lo requerían para crear experiencias dinámicas y responsivas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Sistemas",
+            "institution": "Universidad Bicentenaria de Aragua",
+            "location": "San Joaquín, Turmero",
+            "start_date": "",
+            "end_date": "2024-03-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "git",
+                "react",
+                "tailwind-css"
+            ],
+            "soft": [
+                "comunicación",
+                "adaptabilidad",
+                "capacidad-para-aprender-rápidamente"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
