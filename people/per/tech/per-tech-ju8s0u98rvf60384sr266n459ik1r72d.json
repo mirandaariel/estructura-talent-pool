@@ -1,0 +1,148 @@
+{
+    "personal_info": {
+        "first_name": "Robert",
+        "last_name": "Perez Arica",
+        "email": "amariveth@gmail.com",
+        "phone": "+947964773",
+        "location": {
+            "country": "Peru",
+            "city": "Chiclayo",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "https://robertperezarica.site/",
+        "portfolio": "",
+        "summary": "Titulado de la Carrera de Ingeniería de Sistemas de la Universidad Señor de Sipán, con destacadas habilidades para el trabajo en equipo y entusiasmo constante por aprender y compartir conocimientos. Experiencia en desarrollo web, abarcando frontend y backend, contribuyendo con dedicación en proyectos como programador junior."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador junior Full Stack",
+            "company": "Ayarcode Consulting SAC",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Migración del proyecto web Calidad Agua de Odoo v10 a una versión moderna.",
+                "Desarrollo del frontend usando React JS, implementando componentes dinámicos.",
+                "Diseño de reportes personalizados orientados a roles específicos.",
+                "Implementación de un dashboard público para información clave sobre calidad del agua.",
+                "Liderazgo en desarrollo frontend promoviendo una arquitectura Hexagonal.",
+                "Contribución a la mejora continua mediante revisiones de código y uso de herramientas como Git."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FullStack",
+            "project": "Verano Saludable",
+            "company": "",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Migración del aplicativo móvil Verano Saludable a una versión actualizada utilizando Flutter y Dart.",
+                "Implementación de nuevas características y funcionalidades.",
+                "Diseño de componentes dinámicos y reutilizables para plataformas móviles."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FullStack",
+            "project": "ERP Contable",
+            "company": "",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "2024-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de módulos para ERP en Recursos Humanos utilizando .NET y React JS.",
+                "Mejora del rendimiento del sistema al optimizar flujos críticos.",
+                "Colaboración en la creación y diseño de la base de datos.",
+                "Implementación del patrón Repository para mejorar modularidad y mantenibilidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Carrera de Ingeniería de Sistemas",
+            "institution": "Universidad Señor de Sipán",
+            "location": "Chiclayo, Peru",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Carrera de Computación e Informática",
+            "institution": "Instituto Tecnológico Privado IDAT CHICLAYO",
+            "location": "Chiclayo, Peru",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "blazor",
+                "react-js",
+                "ts",
+                "jquery",
+                "css",
+                "boostrap",
+                "tailwind",
+                "html",
+                ".net-core",
+                "python(django-rest-framework)",
+                "sql-server",
+                "postgresql",
+                "flutter"
+            ],
+            "soft": [
+                "liderazgo",
+                "comunicación-efectiva",
+                "trabajo-en-equipo",
+                "adaptabilidad",
+                "pensamiento-crítico",
+                "capacidad-de-aprendizaje-continuo"
+            ],
+            "tools": [
+                "git",
+                "docker"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [
+        {
+            "name": "Curso Flutter - Móvil: De cero a experto",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-06-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso Profesional de Git y GitHub",
+            "issuing_organization": "Platzi",
+            "issue_date": "2024-05-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso React PRO: Lleva tus bases al siguiente nivel",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-12-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

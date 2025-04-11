@@ -1,0 +1,159 @@
+{
+    "personal_info": {
+        "first_name": "Lucero",
+        "last_name": "Gonzales",
+        "email": "ledezma.wilberk@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Peru",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "I'm a Frontend Developer from Peru with B1 English. I have experience building modern web applications and bring a strong foundation in web design and development using technologies like React, Vue, Next, TypeScript, and Nuxt. Additionally, I have expertise in testing to guarantee seamless user experiences. I also have outstanding interpersonal skills in communication and collaboration in multidisciplinary environments."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "PROMART",
+            "location": "Peru",
+            "start_date": "2022-04-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Developing custom components, like carousels, to enhance user engagement.",
+                "Refactor existing code into high-quality code and Implement automated e2e testing with cypress.",
+                "Maintain project quality contributing to team guidelines.",
+                "Rewrote quotation module from internal CRM from scratch."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "OCEAN SRL",
+            "location": "Peru",
+            "start_date": "2020-02-01",
+            "end_date": "2021-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Conducted usability testing to ensure system efficiency and user satisfaction.",
+                "Implemented custom designs and layouts to enhance user experience.",
+                "Developed visual content with Illustrator and photoshop."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "System Engineering",
+            "institution": "Private University of Tacna",
+            "location": "Peru",
+            "start_date": "2018-07-01",
+            "end_date": "2018-07-01",
+            "hours": 0
+        },
+        {
+            "degree": "Frontend Developer",
+            "institution": "Laboratoria Bootcamp",
+            "location": "Peru",
+            "start_date": "2022-03-01",
+            "end_date": "2022-03-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react",
+                "vue",
+                "next",
+                "nuxt",
+                "tailwind",
+                "redux-toolkit",
+                "typescript",
+                "html5",
+                "xhtml",
+                "css",
+                "firebase",
+                "nodejs",
+                "sql",
+                "postgresql",
+                "linux",
+                "git",
+                "github",
+                "google-analytics"
+            ],
+            "soft": [
+                "multi-tasking",
+                "result-driven",
+                "problem-solving",
+                "strong-work-ethic",
+                "attention-to-detail",
+                "ability-to-collaborate"
+            ],
+            "tools": [
+                "figma",
+                "illustrator",
+                "firebase"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [
+        {
+            "name": "AWS for Frontend Engineers",
+            "issuing_organization": "Frontend Masters",
+            "issue_date": "2024-11-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Api Client",
+            "description": "Develop a project implementing all CRUD operations for managing orders and managing different access permissions and routes depending on roles.",
+            "technologies": [
+                "react",
+                "react-router",
+                "react-hooks",
+                "material-ui",
+                "firebase",
+                "figma",
+                "responsive-design"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Social Network",
+            "description": "Manage different access registration and login, and store and retrieve data using an API connected through Firebase using promises and React hooks.",
+            "technologies": [
+                "javascript",
+                "html",
+                "css",
+                "firebase",
+                "mobile-first-design",
+                "figma",
+                "responsive-design"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

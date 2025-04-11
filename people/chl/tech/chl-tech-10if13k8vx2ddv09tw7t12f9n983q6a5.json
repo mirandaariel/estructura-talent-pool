@@ -1,0 +1,127 @@
+{
+    "personal_info": {
+        "first_name": "Franco Enrique",
+        "last_name": "Alvarez Muñoz",
+        "email": "william.bernal@gmail.com",
+        "phone": "+56959112147",
+        "location": {
+            "country": "Chile",
+            "city": "Rancagua",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/fgamester",
+        "website": "",
+        "portfolio": "https://fgamester.netlify.app",
+        "summary": "Desarrollador Fullstack con experiencia en desarrollo backend utilizando Python y Flask, y en frontend con JavaScript y React. Me entusiasma obtener nuevos conocimientos sobre tecnologías y herramientas que me permitan mejorar mis habilidades y afrontar proyectos cada vez más complejos. Me considero una persona proactiva, con una mentalidad de crecimiento constante, dispuesta a adaptarme a las nuevas tendencias y desafíos del área. Estoy comprometido con mi desarrollo profesional y busco aportar valor en cada proyecto en el que participo, con un enfoque en mejorar cada día y alcanzar mis metas a largo plazo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Control Inventario",
+            "company": "Santa Isabel Administradora S.A.",
+            "location": "Puerto Varas, Chile",
+            "start_date": "2022-12-01",
+            "end_date": "2023-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Encargado de gestionar y supervisar los inventarios diarios y periódicos del establecimiento.",
+                "Proponer soluciones y herramientas nuevas para una mejor ejecución de las labores.",
+                "Presentar informes respecto a los resultados de inventarios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Control Caja/Tesorero",
+            "company": "Santa Isabel Administradora S.A.",
+            "location": "Puerto Varas, Chile",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": "",
+            "responsibilities": [
+                "Gestionar personal y recursos para una mejor entrega de servicio.",
+                "Solucionar problemas generales e individuales del público.",
+                "Proponer nuevas herramientas para mejorar la eficiencia en las labores."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bootcamp Desarrollador Fullstack",
+            "institution": "4GeeksAcademy",
+            "location": "Santiago, Chile",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "python",
+                "sql",
+                "typescript",
+                "html",
+                "css",
+                "bootstrap",
+                "react",
+                "tailwindcss",
+                "flask",
+                "sqlalchemy",
+                "mongodb",
+                "docker",
+                "cloudinary"
+            ],
+            "soft": [],
+            "tools": [
+                "git"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Flash Jobs",
+            "description": "Desarrollo Fullstack Portal de empleos enfocado en perfiles TI, con funcionalidades para postear y encontrar trabajos, y filtrar por tecnologías y seniority.",
+            "technologies": [
+                "javascript",
+                "python",
+                "react",
+                "bootstrap"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Reproductor de Audio",
+            "description": "Desarrollado en React, haciendo Fetch a la API Playground para obtener el catálogo de canciones. Funciones: reproducir, pausar, adelantar/retroceder y control de volumen.",
+            "technologies": [
+                "react"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Empaquetador Docker para Proyectos de React en Express",
+            "description": "Herramienta para facilitar el empaquetado de proyectos en React.",
+            "technologies": [
+                "docker",
+                "react"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "C2-Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

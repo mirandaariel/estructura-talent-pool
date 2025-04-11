@@ -1,89 +1,116 @@
 {
     "personal_info": {
-        "first_name": "Bryan",
-        "last_name": "Rodriguez",
+        "first_name": "Ignacio",
+        "last_name": "Castillo",
         "email": "mcnudi@gmail.com",
-        "phone": "+1 (829) 647-0829",
+        "phone": "+54 91154839438",
         "location": {
-            "country": "",
-            "city": "",
+            "country": "Argentina",
+            "city": "Ciudad Autónoma de Buenos Aires",
             "state": ""
         },
         "linkedin": "",
         "website": "",
         "portfolio": "",
-        "summary": "Soy desarrollador frontend apasionado por crear interfaces visualmente atractivas y funcionales, actualmente terminando la carrera de Ingeniería en Sistemas Computacionales. Busco integrarme en un equipo dinámico dentro de la Empresa, donde pueda aportar mis habilidades en desarrollo web y contribuir al éxito de proyectos innovadores y de alto impacto."
+        "summary": "I am currently based in Argentina but am actively seeking opportunities abroad. I have experience working remotely with North American companies and am eager to bring my skills and expertise to an international setting. I am always eager to connect with like-minded professionals and explore opportunities that challenge me to grow and contribute to innovative projects."
     },
     "work_experience": [
         {
-            "job_title": "Encargado de Tecnología",
-            "company": "Cereinsa",
+            "job_title": "Tier 2 Support / Back Office / Dispatch Agent",
+            "company": "Get Sauce",
             "location": "",
-            "start_date": "2023-11-01",
-            "end_date": "",
-            "currently_working": true,
-            "responsibilities": [
-                "Creación de artes y diseños gráficos para campañas internas y redes sociales.",
-                "Gestión de redes e internet, administración del sistema de ponche.",
-                "Mantenimiento y reparación de equipos de hardware y software, incluyendo impresoras.",
-                "Optimización de la infraestructura tecnológica.",
-                "Resolución de problemas técnicos."
-            ],
-            "achievements": []
-        },
-        {
-            "job_title": "Soporte Tecnico",
-            "company": "SIMPAPEL",
-            "location": "",
-            "start_date": "2023-01-01",
-            "end_date": "2023-12-31",
+            "start_date": "2022-12-01",
+            "end_date": "2025-03-31",
             "currently_working": false,
             "responsibilities": [
-                "Mantenimiento preventivo y correctivo a impresoras, PCs y escáneres.",
-                "Instalaciones de equipos y solución de problemas técnicos.",
-                "Aseguramiento de la operatividad óptima de los recursos tecnológicos."
+                "Back and Front end solutions.",
+                "Graphic Design",
+                "Real-time tech support",
+                "Participation in testing and developing new features",
+                "Schedule control on a large scale delivery operation"
             ],
-            "achievements": []
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Sales consultant",
+            "company": "Provincia NET",
+            "location": "",
+            "start_date": "2018-08-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Inbound Sales (Rank 1 Sales for multiple months)",
+                "Insurance, Mobile, Cable and Internet sales",
+                "Document digitalization.",
+                "Report preparation and analysis."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Sales consultant",
+            "company": "CAT Technologies",
+            "location": "",
+            "start_date": "2018-08-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Inbound Sales (Rank 1 Sales for multiple months)",
+                "Insurance, Mobile, Cable and Internet sales",
+                "Document digitalization.",
+                "Report preparation and analysis."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Sales consultant",
+            "company": "Covedisa / Atento",
+            "location": "",
+            "start_date": "2016-05-01",
+            "end_date": "2017-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Inbound Sales (Rank 1 Sales for multiple months)",
+                "Insurance, Mobile, Cable and Internet sales",
+                "Document digitalization.",
+                "Report preparation and analysis."
+            ],
+            "achievements": [],
+            "repository_url": ""
         }
     ],
     "education": [
         {
-            "degree": "Ingeniería en Sistemas Computacionales",
-            "institution": "Universidad Tecnologica de Santiago",
+            "degree": "QA Testing",
+            "institution": "Talento Tech",
             "location": "",
-            "start_date": "2016-01-01",
+            "start_date": "",
             "end_date": "",
             "hours": 0
         },
         {
-            "degree": "Programming with JavaScript",
-            "institution": "Coursera | Meta",
+            "degree": "Coursing Python",
+            "institution": "",
             "location": "",
             "start_date": "2024-01-01",
-            "end_date": "2024-12-31",
+            "end_date": "",
             "hours": 0
         },
         {
-            "degree": "Desarrollo web completo con html5, css3, js, ajax, php y mysql",
-            "institution": "Udemy",
+            "degree": "Fullstack Python",
+            "institution": "Codo a Codo",
             "location": "",
-            "start_date": "2023-01-01",
-            "end_date": "2024-12-31",
+            "start_date": "",
+            "end_date": "2022-12-31",
             "hours": 0
         },
         {
-            "degree": "Advanced React",
-            "institution": "Coursera | Meta",
+            "degree": "Bilingual High-School Diploma",
+            "institution": "Colegio Palermo Chico",
             "location": "",
-            "start_date": "2024-01-01",
-            "end_date": "2025-12-31",
-            "hours": 0
-        },
-        {
-            "degree": "Capacitación de Ingeniería en Inteligencia Artificial Aplicada",
-            "institution": "UTESA, OGTIC, General Assembly",
-            "location": "",
-            "start_date": "2024-01-01",
+            "start_date": "",
             "end_date": "",
             "hours": 0
         }
@@ -91,18 +118,25 @@
     "skills": {
         "keywords": {
             "technical": [
+                "html",
+                "css",
                 "javascript",
-                "react",
-                "nextjs",
-                "html5",
-                "css3",
-                "js",
-                "ajax",
-                "php",
-                "mysql"
+                "python",
+                "django",
+                "git"
             ],
-            "soft": [],
-            "tools": []
+            "soft": [
+                "fast-learner",
+                "adaptability",
+                "innovation",
+                "flexibility"
+            ],
+            "tools": [
+                "wix",
+                "wordpress",
+                "slack",
+                "jira"
+            ]
         },
         "detailed": {
             "technical": [],
@@ -113,12 +147,20 @@
     "projects": [],
     "languages": [
         {
-            "language": "Inglés",
-            "proficiency": "Intermedio"
+            "language": "Spanish",
+            "proficiency": "Native"
         },
         {
-            "language": "Español",
-            "proficiency": "Nativo"
+            "language": "English",
+            "proficiency": "C1"
+        },
+        {
+            "language": "French",
+            "proficiency": "Basic"
+        },
+        {
+            "language": "Portuguese",
+            "proficiency": "Basic"
         }
     ],
     "volunteer_experience": [],

@@ -1,0 +1,220 @@
+{
+    "personal_info": {
+        "first_name": "Rony",
+        "last_name": "Ascencio",
+        "email": "martinrondan92@gmail.com",
+        "phone": "+14388729883",
+        "location": {
+            "country": "Canada",
+            "city": "Montréal",
+            "state": "Quebec"
+        },
+        "linkedin": "https://linkedin.com/in/ronnyascencio",
+        "website": "http://www.ronnyascencio.com",
+        "portfolio": "https://github.com/ronnyascencio",
+        "summary": "Python Developer with expertise in VFX, API development, and technical artistry."
+    },
+    "work_experience": [
+        {
+            "job_title": "Independent Python Developer",
+            "company": "",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed Python scripts and tools to optimize project management and automate repetitive tasks in a VFX environment.",
+                "Designed and maintained REST APIs using FastAPI and Flask to support production pipelines.",
+                "Utilized Docker to containerize applications for streamlined deployment and testing."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Paint & Roto Technical Artist",
+            "company": "Cinesite",
+            "location": "Montreal, QC",
+            "start_date": "2024-03-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Supported artists and technicians by troubleshooting workflow issues.",
+                "Developed Python tools to ensure pipeline integration and artist-friendly setup."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Paint Artist & Technical Support",
+            "company": "Framestore",
+            "location": "Montreal, QC",
+            "start_date": "2022-01-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Provided technical troubleshooting for software-related issues in production pipelines.",
+                "Programmed tools according to artist ticket requests and needs related to project or task workflows."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Digital Compositor",
+            "company": "Ingenuity Studios",
+            "location": "Remote to Vancouver HUB",
+            "start_date": "2021-08-01",
+            "end_date": "2022-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Created templates for the compositing department and automation of workflows as an artist."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "General Producer",
+            "company": "Canal 13 Puebla",
+            "location": "Mexico",
+            "start_date": "2020-11-01",
+            "end_date": "2021-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Head of the production department for live TV shows and commercial production, managing staff and on-screen talent."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Multimedia Designer",
+            "company": "Imagen Digital México",
+            "location": "Mexico",
+            "start_date": "2018-05-01",
+            "end_date": "2020-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Designed and edited motion graphics, video content, and VFX for marketing campaigns.",
+                "Provided visual design support for TV commercials and corporate videos.",
+                "Collaborated with teams to ensure high-quality production and timely delivery."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Technical Operations & Post-Production",
+            "company": "TV Azteca",
+            "location": "Puebla, Mexico",
+            "start_date": "2016-05-01",
+            "end_date": "2018-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Provided technical support to TV affiliates and in-house departments through a web-based ticketing system.",
+                "Used FileZilla for secure file transfers between TV stations and external clients.",
+                "Managed post-production workflows, including editing and media asset handling."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Python for Nuke",
+            "institution": "TD Academy",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "IBM Back/End Developer Professional Certificate",
+            "institution": "IBM",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "FastAPI",
+            "institution": "Udemy",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Flask",
+            "institution": "Udemy",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Cinematography Diploma",
+            "institution": "Universidad de las Américas Puebla",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachelor's Degree in TV and Film",
+            "institution": "AsMedia",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "fastapi",
+                "flask",
+                "django-rest",
+                "postgresql",
+                "sql",
+                "windows",
+                "macos",
+                "linux",
+                "rest-api",
+                "nuke",
+                "3d-modeling",
+                "digital-compositing",
+                "pipeline-optimization",
+                "html",
+                "xml",
+                "machine-learning",
+                "pyside",
+                "tkinter",
+                "designer"
+            ],
+            "soft": [],
+            "tools": [
+                "docker",
+                "reflex",
+                "filezilla"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Fluent"
+        },
+        {
+            "language": "French",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

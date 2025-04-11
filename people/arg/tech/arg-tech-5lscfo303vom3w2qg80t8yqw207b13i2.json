@@ -1,145 +1,151 @@
 {
     "personal_info": {
-        "first_name": "Emanuel",
-        "last_name": "Gauna",
+        "first_name": "Pablo",
+        "last_name": "Silvera",
         "email": "lemagauna@gmail.com",
-        "phone": "+5491164571277",
+        "phone": "",
         "location": {
-            "country": "Argentina",
-            "city": "Buenos Aires",
-            "state": "C.A.B.A."
+            "country": "",
+            "city": "San Cristóbal",
+            "state": "Táchira"
         },
-        "linkedin": "https://www.linkedin.com/in/emanuel-gauna",
+        "linkedin": "",
         "website": "",
-        "portfolio": "https://github.com/emanuel-gauna",
-        "summary": "Desarrollador web fullstack con habilidades en React.js, Python, Node.js, y experiencia en testing. Autodidacta y dinámico, abierto a nuevos desafíos."
+        "portfolio": "",
+        "summary": "Business Analyst with extensive experience as SME, PO, QA and more roles in financial systems. Proven ability in leading software testing, managing core banking migrations, analyzing accounting processes, and providing financial systems consulting. Passionate about learning, teaching, and innovating in software solutions."
     },
-    "work_experience": [],
+    "work_experience": [
+        {
+            "job_title": "Senior Quality Analyst",
+            "company": "SOFI Technologies (Galileo/Technisys - remote)",
+            "location": "Remote",
+            "start_date": "2021-05-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Development, evolution, additional manual and automatic testing of all banking products especially loans, general ledger, accounting, accounts, customers, collaterals, guarantees.",
+                "Focus on US and Latam Market."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Senior Business Analyst",
+            "company": "Datapro Inc",
+            "location": "",
+            "start_date": "2009-03-01",
+            "end_date": "2021-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Specialist in implementation of banking system change projects.",
+                "Conducted GAP analysis, PRD, solution designs, development and testing of all banking products."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "HR Analyst, Mortgage Credit Analyst / Head of Mortgage Loans / Functional User Leader",
+            "company": "Banfoandes Universal Bank",
+            "location": "",
+            "start_date": "2002-08-01",
+            "end_date": "2008-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed, tested and implemented new banking products with emphasis on loans and general ledger."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
     "education": [
         {
-            "degree": "AWS Certified Cloud Practitioner",
-            "institution": "Amazon Re/Start",
-            "location": "",
-            "start_date": "",
-            "end_date": "2024-08-31",
+            "degree": "Bachelor's degree in Business Administration",
+            "institution": "Catholic University of Táchira",
+            "location": "San Cristóbal, Vzla",
+            "start_date": "1995-01-01",
+            "end_date": "2000-12-31",
             "hours": 0
         },
         {
-            "degree": "Desarrollador web fullstack Python",
-            "institution": "Cada a Coda",
-            "location": "",
-            "start_date": "2024-02-01",
-            "end_date": "2024-07-31",
+            "degree": "High School of Science",
+            "institution": "U.E. Liceo Aplicación",
+            "location": "San Cristóbal, Vzla",
+            "start_date": "1990-01-01",
+            "end_date": "1995-12-31",
             "hours": 0
-        },
-        {
-            "degree": "QA manual y QA introducción a automation",
-            "institution": "Mindhub. Accenture. Fundación Formar",
-            "location": "",
-            "start_date": "2023-08-01",
-            "end_date": "2023-12-31",
-            "hours": 200
-        },
-        {
-            "degree": "Desarrollador web fullstack con node.js",
-            "institution": "Fundación Formar y Digital House",
-            "location": "",
-            "start_date": "2022-08-01",
-            "end_date": "2023-06-30",
-            "hours": 450
         }
     ],
     "skills": {
         "keywords": {
             "technical": [
-                "react.js",
+                "java",
+                "javascript",
                 "python",
-                "node.js",
-                "aws",
-                "mysql",
-                "git",
-                "html",
-                "css"
+                "sql",
+                "rpg"
             ],
             "soft": [
-                "proactivity",
-                "teamwork",
-                "organization",
-                "responsibility",
-                "positive-communication"
+                "good-speaker",
+                "oral-and-written-communication",
+                "leadership",
+                "innovation",
+                "critical-thinking",
+                "team-worker",
+                "positive",
+                "growing-professional"
             ],
             "tools": [
-                "visual-studio-code",
                 "jira",
+                "confluence",
+                "gitlab",
+                "github",
+                "cypress",
+                "scrum",
                 "postman",
-                "selenium",
-                "mocha",
-                "chai"
+                "dbeaver",
+                "postgres",
+                "mysql",
+                "visual-studio-code",
+                "intellij",
+                "maven"
             ]
         },
         "detailed": {
             "technical": [],
-            "soft": [],
-            "tools": []
+            "soft": []
         }
     },
     "certifications": [
         {
-            "name": "AWS Certified Cloud Practitioner",
-            "issuing_organization": "Amazon Web Services Training and Certification",
-            "issue_date": "2024-08-15",
+            "name": "Product Owner - PSPO I",
+            "issuing_organization": "Scrum.org",
+            "issue_date": "2022-09-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Scrum Master",
+            "issuing_organization": "Scrum.org",
+            "issue_date": "2020-07-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "ITIL Foundations",
+            "issuing_organization": "BCS, The Chartered Institute for IT",
+            "issue_date": "2016-11-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "ISO 9001:2008, ISO 14011:2004, OHSAS 18001:2007",
+            "issuing_organization": "Quality Latam Institute INLAC",
+            "issue_date": "2013-11-01",
             "expiration_date": "",
             "credential_id": ""
         }
     ],
-    "projects": [
-        {
-            "name": "Proyecto Integrador Página web 'dulces LYA'",
-            "description": "Una WEB desarrollada en Python utilizando Flask, Peewee y MySQL. Permite gestionar productos, usuarios, compradores, carritos de compra y listas de favoritos de una pastelería.",
-            "technologies": [
-                "Python",
-                "Flask",
-                "Peewee",
-                "MySQL",
-                "JavaScript"
-            ],
-            "url": "https://github.com/emanuel-gauna/LyA-pastelería"
-        },
-        {
-            "name": "Proyecto final Mindhub 'Finovate-Bank'",
-            "description": "Testeo de aplicación 'Banco Finovate'. Pruebas manuales y automatizadas, de integración de APIs, de base de datos, de accesibilidad y de interfaz de usuario.",
-            "technologies": [
-                "Jira",
-                "Zephyr Scale",
-                "Squad",
-                "Gerkhin",
-                "Selenium",
-                "Postman",
-                "Mocha",
-                "Chai",
-                "Node.js",
-                "Git",
-                "GitHub",
-                "Canvas",
-                "MySQL"
-            ],
-            "url": "https://github.com/emanuel-gauna"
-        },
-        {
-            "name": "Proyecto Integrador E-commerce 'Progammer'",
-            "description": "Creación de página web y e-commerce responsive. Implementación de un dashboard administrativo con React.js.",
-            "technologies": [
-                "JavaScript",
-                "Node.js",
-                "Express",
-                "HTML",
-                "CSS",
-                "MySQL",
-                "React.js"
-            ],
-            "url": "https://github.com/LuqueJuanManuel/Grupo_10_ProGamer"
-        }
-    ],
+    "projects": [],
     "languages": [],
     "volunteer_experience": [],
     "publications": [],

@@ -1,59 +1,97 @@
 {
     "personal_info": {
-        "first_name": "Jeison",
-        "last_name": "Guerrero Sanchez",
+        "first_name": "Emmanuel",
+        "last_name": "Vivas",
         "email": "jeison.g.s@hotmail.com",
-        "phone": "+573002997853",
+        "phone": "+34699165494",
         "location": {
             "country": "",
             "city": "",
             "state": ""
         },
-        "linkedin": "https://www.linkedin.com/in/jeison-guerrero-sanchez/",
-        "website": "https://www.github.com/JeisonGuerrero",
+        "linkedin": "https://linkedin.com/in/emmanuelvivas/",
+        "website": "",
         "portfolio": "",
-        "summary": "Full Stack Web Developer with experience in JavaScript, specializing in building dynamic and scalable applications using React.js, Redux.js, and Node.js. My background as an Industrial Engineer with a diploma in Quality Management and Administration gives me an analytical and structured approach to optimizing processes in software development. Passionate about technology, I have strong communication skills, enjoy teamwork, and embrace continuous learning, always striving for improvement and delivering efficient solutions."
+        "summary": "Desarrollador JR con foco en Frontend. En búsqueda de un entorno desafiante que me permita aplicar mis conocimientos y enriquecerme de la sinergía con el equipo."
     },
-    "work_experience": [],
+    "work_experience": [
+        {
+            "job_title": "",
+            "company": "La Costanera SRL",
+            "location": "",
+            "start_date": "2013-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed sense of self-management and ability to provide expedited solutions with available resources.",
+                "Promoted and eventually responsible for staff management."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "",
+            "company": "Puebla",
+            "location": "Mexico",
+            "start_date": "2012-01-01",
+            "end_date": "2012-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Learned the importance of focus for good results, and the strength of teamwork."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Atención al cliente",
+            "company": "",
+            "location": "",
+            "start_date": "2008-01-01",
+            "end_date": "2008-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Managed a retail store, performed cash closures, stock control, and supplier management."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "",
+            "company": "Viva Contact Center + Promarket",
+            "location": "",
+            "start_date": "2007-01-01",
+            "end_date": "2007-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Stood out for productivity, achieved trainer position."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
     "education": [
         {
-            "degree": "Web Developer",
-            "institution": "Talenta Tech Bootcamp - Universidad Libre de Barranquilla",
+            "degree": "Programación Full Stack",
+            "institution": "Avante - Master D",
             "location": "",
-            "start_date": "2028-01-01",
-            "end_date": "2028-12-31",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
             "hours": 0
         },
         {
-            "degree": "Full Stack Web Developer",
-            "institution": "Henry's Bootcamp",
+            "degree": "Bootcamp Full Stack",
+            "institution": "xAcademy - Santex",
             "location": "",
             "start_date": "2023-01-01",
             "end_date": "2023-12-31",
             "hours": 0
         },
         {
-            "degree": "Diploma in Quality Management",
-            "institution": "Politécnico de Colombia",
+            "degree": "Programación Web Full Stack",
+            "institution": "Digital House",
             "location": "",
-            "start_date": "2019-01-01",
-            "end_date": "2019-12-31",
-            "hours": 0
-        },
-        {
-            "degree": "Diploma in Comprehensive Quality Management",
-            "institution": "Universidad de la Costa CUC",
-            "location": "",
-            "start_date": "2017-01-01",
-            "end_date": "2017-12-31",
-            "hours": 0
-        },
-        {
-            "degree": "Industrial Engineer",
-            "institution": "Universidad de la Costa CUC",
-            "location": "",
-            "start_date": "2012-01-01",
-            "end_date": "2018-12-31",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
             "hours": 0
         }
     ],
@@ -61,63 +99,30 @@
         "keywords": {
             "technical": [
                 "javascript",
-                "html5",
-                "css3",
-                "postgresql",
-                "reactjs",
-                "reduxjs",
-                "express",
-                "nodejs",
-                "axios",
-                "bootstrap",
-                "material-ui",
-                "taildwindcss",
-                "sql"
+                "react",
+                "angular",
+                "mysql",
+                "tailwind"
             ],
             "soft": [
-                "communication",
-                "teamwork",
-                "continuous-learning"
+                "proactividad",
+                "liderazgo",
+                "celeridad"
             ],
-            "tools": [
-                "figma",
-                "trello",
-                "slack",
-                "discord",
-                "git",
-                "github",
-                "thunder-client",
-                "postman"
-            ]
+            "tools": []
         },
-        "detailed": {
-            "technical": {},
-            "soft": {}
-        }
+        "detailed": []
     },
     "certifications": [],
-    "projects": [
-        {
-            "name": "Individual Project Countries",
-            "description": "Individual project carried out at the bootcamp Henry. It consists of a SPA which consumes the information of restcountries API, to obtain the data and manipulate it from the database with the help of express, axios and SQL, in addition to rendering the information of the API in the frontend with the help of react and redux.",
-            "technologies": ["express", "axios", "sql", "react", "redux"],
-            "url": "https://www.github.com/JeisonGuerrero/PICOUNTRIES"
-        },
-        {
-            "name": "Grupal Project Countries",
-            "description": "Grupal project carried out at the bootcamp Henry. It consists of a SPA which consumes the information of restcountries API, to obtain the data and manipulate it from the database with the help of express, axios and SQL, in addition to rendering the information of the API in the frontend with the help of react and redux.",
-            "technologies": ["express", "axios", "sql", "react", "redux"],
-            "url": "https://www.github.com/jorgebritos/PF---Henry---LatamCom"
-        }
-    ],
+    "projects": [],
     "languages": [
         {
-            "language": "English",
-            "proficiency": "B2 level"
+            "language": "French",
+            "proficiency": "B1"
         },
         {
-            "language": "Spanish",
-            "proficiency": "Native"
+            "language": "English",
+            "proficiency": "B1"
         }
     ],
     "volunteer_experience": [],

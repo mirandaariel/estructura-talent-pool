@@ -1,55 +1,71 @@
 {
     "personal_info": {
-        "first_name": "",
-        "last_name": "",
+        "first_name": "Jenny Alejandra",
+        "last_name": "Perez Guzman",
         "email": "jessot@hotmail.com",
-        "phone": "",
+        "phone": "3183984628",
         "location": {
             "country": "Colombia",
-            "city": "Cali",
+            "city": "Barranquilla",
             "state": ""
         },
         "linkedin": "",
         "website": "",
         "portfolio": "",
-        "summary": "Systems engineer with 2 years of experience as a Technological Controls and Risks Specialist. Additionally, I have 1 year of experience in Front-End, developing reusable components in different frameworks and performing test cases as appropriate; and 6 months as Software Developer."
+        "summary": "Ingeniera en sistemas y tecnóloga en Análisis y desarrollo de sistemas de Información con excelentes habilidades interpersonales, adaptabilidad al cambio, trabajo en equipo, y alta capacidad de logro. Creativa e innovadora con un enfoque en modernización y mejora continua."
     },
     "work_experience": [
         {
-            "job_title": "Digital Risk Consultant",
-            "company": "Deloitte",
-            "location": "",
-            "start_date": "2022-10-01",
-            "end_date": "2025-03-31",
+            "job_title": "Soporte Técnico / Sistemas y Ventas",
+            "company": "Inversiones TYH Colombia s.a.s",
+            "location": "Barranquilla, remoto - presencial",
+            "start_date": "2021-12-01",
+            "end_date": "2023-10-31",
             "currently_working": false,
             "responsibilities": [
-                "Actively participate in SOX control and fiscal audit projects, auditing systems such as SAP ERP, Oracle EBS, generic applications and technological infrastructures such as Windows and Linux operating systems and HANA, Oracle and SQL databases."
+                "Soporte técnico en el área de sistemas",
+                "Instalación y actualizaciones requeridas",
+                "Manejo de herramientas ofimáticas",
+                "Base de datos",
+                "Manejo de plataformas digitales de la empresa",
+                "Apoyo al líder del área"
             ],
             "achievements": [],
             "repository_url": ""
         },
         {
-            "job_title": "FrontEnd Developer",
-            "company": "Freelance",
-            "location": "",
-            "start_date": "2021-06-01",
-            "end_date": "2021-12-31",
+            "job_title": "Auxiliar Administrativa",
+            "company": "Digitex servicios BPO&O S.A.",
+            "location": "Ibagué, Tolima - Presencial",
+            "start_date": "2018-05-01",
+            "end_date": "2019-11-30",
             "currently_working": false,
             "responsibilities": [
-                "Provide support to senior developer on Benchprep and Zoovu projects, creating reusable components in Vue and React respectively. Performing test cases as appropriate."
+                "Manejo de base de datos",
+                "Manejo de documentación físico y digital",
+                "Reporte de bajas y terminaciones de contrato",
+                "Manejo de plataformas digitales",
+                "Realización de fichero de vacaciones con control preciso en fechas",
+                "Funciones administrativas / operativas varias que se requieran"
             ],
             "achievements": [],
             "repository_url": ""
         },
         {
-            "job_title": "Software Developer",
-            "company": "Icesi University",
-            "location": "",
-            "start_date": "2020-06-01",
-            "end_date": "2020-12-31",
+            "job_title": "Auxiliar Administrativa",
+            "company": "Tapicería Patiño Guzmán",
+            "location": "Ibagué, Tolima - Presencial",
+            "start_date": "2016-11-01",
+            "end_date": "2017-05-31",
             "currently_working": false,
             "responsibilities": [
-                "Active participation in the UCCare4Schools (UCCARE) project, an application to manage the risk of Covid-19 transmission in educational institutions. Implementing Java, React, SpringBoot, Mockito and JUnit."
+                "Coordinación de visitas a los clientes",
+                "Atención telefónica y recepción de visitas",
+                "Gestión de correspondencia",
+                "Organización y archivo de la documentación",
+                "Redacción de documentos diversos",
+                "Elaboración de cotizaciones y archivo de facturas",
+                "Seguimiento telefónico Post-Venta"
             ],
             "achievements": [],
             "repository_url": ""
@@ -57,49 +73,42 @@
     ],
     "education": [
         {
-            "degree": "Degree in Software Systems Engineering",
-            "institution": "ICESI University",
+            "degree": "Ingeniera en Sistemas",
+            "institution": "Universidad Corporativa Nacional De Educación Superior - CUN",
             "location": "",
-            "start_date": "2019-01-01",
+            "start_date": "2021-01-01",
             "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnóloga en Análisis de Sistemas de Información - ADSI",
+            "institution": "SENA",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller Académico",
+            "institution": "José Joaquín Flórez Hernández",
+            "location": "",
+            "start_date": "",
+            "end_date": "2014-12-31",
             "hours": 0
         }
     ],
     "skills": {
         "keywords": {
-            "technical": [
-                "english-(toelf)",
-                "java",
-                "python",
-                "javascript",
-                "spring-boot",
-                "junit",
-                "mockito",
-                "postgresql",
-                "react",
-                "vue",
-                "git",
-                "scrum"
-            ],
+            "technical": [],
             "soft": [],
             "tools": []
         },
-        "detailed": {
-            "technical": {},
-            "soft": {}
-        }
+        "detailed": []
     },
     "certifications": [],
     "projects": [],
     "languages": [],
     "volunteer_experience": [],
-    "publications": [
-        {
-            "title": "Análisis y extracción de datos digitales e impresos del Comité de Ética de la Fundación Valle de Lili",
-            "publisher": "",
-            "publication_date": "2021-01-01",
-            "url": ""
-        }
-    ],
+    "publications": [],
     "references": []
 }

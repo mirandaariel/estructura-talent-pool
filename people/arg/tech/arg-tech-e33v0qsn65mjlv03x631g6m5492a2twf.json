@@ -1,50 +1,60 @@
 {
     "personal_info": {
-        "first_name": "Natalia Giselle",
-        "last_name": "Curia",
+        "first_name": "Quimey",
+        "last_name": "Lopez",
         "email": "nataliagiselle.c@gmail.com",
-        "phone": "+54 11 55722648",
+        "phone": "+5493415048131",
         "location": {
             "country": "Argentina",
-            "city": "Villa Ballester",
-            "state": "Buenos Aires"
+            "city": "Rosario",
+            "state": ""
         },
         "linkedin": "",
         "website": "",
-        "portfolio": "/nataliacuría-dev",
-        "summary": "Desarrolladora web con formación en frontend y en proceso de ampliación hacia backend para un enfoque integral en la creación de soluciones. Busco oportunidades para aplicar y potenciar mis habilidades técnicas y creativas en el desarrollo de experiencias digitales innovadoras. Cuento con experiencia en trabajo en equipo y atención al cliente, lo que me ha permitido desarrollar habilidades de comunicación efectiva, empatía y resolución de problemas. Estas experiencias me han enseñado a adaptarme a distintos entornos, liderar de manera colaborativa y mantener un enfoque centrado en el usuario, clave para crear soluciones tecnológicas eficientes."
+        "portfolio": "",
+        "summary": "Desarrollador con conocimientos en React.js, NodeJs, JavaScript, TypeScript, HTML y CSS. Además de bases de datos SQL. Apasionado por la tecnología y el aprendizaje continuo, busco una oportunidad para potenciar mis habilidades en desarrollo web en un entorno dinámico y colaborativo."
     },
     "work_experience": [
         {
-            "job_title": "Desarrolladora Frontend",
-            "company": "Distribuidora Darrona",
+            "job_title": "Desarrollador Web",
+            "company": "E-commerce de Juegos Digitales",
             "location": "",
-            "start_date": "2024-01-01",
-            "end_date": "2024-12-31",
+            "start_date": "2024-10-01",
+            "end_date": "",
             "currently_working": true,
             "responsibilities": [
-                "Diseñé e implementé una plataforma de gestión de pedidos para optimizar el flujo de trabajo, eliminando hojas de cálculo manuales.",
-                "Reducción de errores y tiempos de procesamiento, eliminando la dependencia de métodos manuales.",
-                "Visualización dinámica de precios según tipo de cliente.",
-                "Automatización del flujo de pedidos con notificaciones instantáneas y generación de reportes en Excel.",
-                "Optimización de la gestión administrativa, con carga masiva de productos vía CSV y ajustes dinámicos en las condiciones de compra."
+                "Desarrollo de una tienda online para la venta de juegos digitales en React.js con backend en Flask y MySQL.",
+                "Implementación de autenticación de usuarios y pasarela de pagos."
             ],
             "achievements": [],
             "repository_url": ""
         },
         {
-            "job_title": "Desarrolladora Frontend",
-            "company": "Luz Interior | Fábrica de luminarias de diseño",
+            "job_title": "Desarrollador Web",
+            "company": "Info Dólar - Proyecto Universitario",
             "location": "",
             "start_date": "2024-01-01",
             "end_date": "2024-12-31",
-            "currently_working": true,
+            "currently_working": false,
             "responsibilities": [
-                "Diseñé y desarrollé Luz Interior, una plataforma web que optimiza la gestión de pedidos mayoristas que facilita la gestión de pedidos y comunicación con clientes.",
-                "Mejora en la experiencia del usuario, con registro seguro y seguimiento en tiempo real.",
-                "Mejora en la comunicación, con notificaciones automáticas vía email para aprobaciones de cuenta, cambios de estado de pedidos y recuperación de contraseña.",
-                "Aumento de la productividad administrativa, permitiendo a los gestores modificar productos, aprobar cuentas y gestionar pedidos.",
-                "Mayor eficiencia administrativa, con la implementación de librerías para la edición avanzada de contenido y gestión optimizada de imágenes."
+                "Automatización y precisión: A través de una API, obtenemos automáticamente la cotización de divisas extranjeras.",
+                "Gestión eficiente del desarrollo: Aplicamos Scrum y Git para optimizar la organización.",
+                "Experiencia de usuario dinámica: Implementamos una comunicación interactiva con el cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Poke App (Proyecto)",
+            "location": "",
+            "start_date": "2022-10-01",
+            "end_date": "2022-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementé un backend con Node.js y Express que maneja una base de datos en PostgreSQL.",
+                "La aplicación permite consultar y filtrar datos de Pokémon de manera eficiente.",
+                "Utilizamos Git para gestionar el código y facilitar el trabajo en equipo."
             ],
             "achievements": [],
             "repository_url": ""
@@ -52,35 +62,19 @@
     ],
     "education": [
         {
-            "degree": "Curso React JS",
-            "institution": "Coderhouse",
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "UTN",
             "location": "",
-            "start_date": "2024-02-01",
-            "end_date": "2024-04-30",
+            "start_date": "",
+            "end_date": "",
             "hours": 0
         },
         {
-            "degree": "Curso JavaScript",
-            "institution": "Coderhouse",
+            "degree": "Bootcamp Desarrollo Full Stack Web",
+            "institution": "SoyHenry",
             "location": "",
-            "start_date": "2024-02-01",
-            "end_date": "2024-04-30",
-            "hours": 0
-        },
-        {
-            "degree": "Curso Desarrollo Web",
-            "institution": "Coderhouse",
-            "location": "",
-            "start_date": "2023-11-01",
-            "end_date": "2024-01-31",
-            "hours": 0
-        },
-        {
-            "degree": "Java Full Stack",
-            "institution": "Universidad de la Punta",
-            "location": "",
-            "start_date": "2022-01-01",
-            "end_date": "2023-03-31",
+            "start_date": "",
+            "end_date": "2023-12-31",
             "hours": 0
         }
     ],
@@ -89,23 +83,23 @@
             "technical": [
                 "javascript",
                 "typescript",
-                "php",
-                "html",
-                "css",
-                "react-js",
-                "bootstrap",
-                "mysql"
+                "react",
+                "node-js",
+                "python",
+                "flask",
+                "sql",
+                "mysql",
+                "postgresql",
+                "mongodb",
+                "git"
             ],
             "soft": [
-                "comunicación-efectiva",
-                "empatía",
-                "resolución-de-problemas"
+                "resolución-de-problema",
+                "adaptabilidad",
+                "trabajo-en-equipo",
+                "comunicacion-efectiva"
             ],
-            "tools": [
-                "git",
-                "figma",
-                "photoshop"
-            ]
+            "tools": []
         },
         "detailed": {
             "technical": [],
@@ -121,7 +115,7 @@
         },
         {
             "language": "Inglés",
-            "proficiency": "A2-B1"
+            "proficiency": "B1 intermedio"
         }
     ],
     "volunteer_experience": [],

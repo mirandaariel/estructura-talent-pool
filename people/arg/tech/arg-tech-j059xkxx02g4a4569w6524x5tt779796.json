@@ -1,108 +1,87 @@
 {
     "personal_info": {
-        "first_name": "Jesús Álvaro",
-        "last_name": "Barrientos Sotelo",
+        "first_name": "Luis Gabriel",
+        "last_name": "Santillán",
         "email": "Alvarobs1906@gmail.com",
-        "phone": "+51 929337361",
+        "phone": "1131301899",
         "location": {
-            "country": "",
-            "city": "",
+            "country": "Argentina",
+            "city": "Temperley",
             "state": ""
         },
-        "linkedin": "https://www.linkedin.com/in/jesus-barrientos1906/",
+        "linkedin": "",
         "website": "",
         "portfolio": "",
-        "summary": "Egresado de la carrera de Arquitectura de plataformas y servicios de la tecnología de la información. Especializado en desarrollo backend con .NET/Java/Nodejs, bases de datos SQL Server/PostgreSQL y buenas prácticas de seguridad en software. Conocimientos en integración y despliegue continuo con herramientas como Git."
+        "summary": ""
     },
     "work_experience": [
         {
-            "job_title": "Soporte Técnico",
-            "company": "Instituto Juan Velasco Alvarado",
+            "job_title": "Profesor de Matemática",
+            "company": "DGCyE - Educación Secundaria",
             "location": "",
-            "start_date": "2023-04-01",
-            "end_date": "2023-12-31",
-            "currently_working": false,
-            "responsibilities": [
-                "Instalé y configuré sistemas operativos Windows y Linux, incluyendo software especializado para docentes y personal administrativo.",
-                "Diagnostiqué y reparé fallas en hardware y software.",
-                "Realice tareas de diagnóstico, reparación y mantenimiento preventivo de equipos de cómputo."
-            ],
-            "achievements": [
-                "Incorporar Equipos nuevos y poner en disposición equipos con fallas de software."
-            ],
+            "start_date": "2019-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [],
+            "achievements": [],
             "repository_url": ""
         },
         {
-            "job_title": "Prácticas",
-            "company": "Totem Travels",
+            "job_title": "Profesor de Física",
+            "company": "DGCyE - Educación Secundaria",
             "location": "",
-            "start_date": "2022-07-01",
-            "end_date": "2022-12-31",
+            "start_date": "2019-01-01",
+            "end_date": "2020-12-31",
             "currently_working": false,
-            "responsibilities": [
-                "Colaboré con equipos multidisciplinarios para implementar soluciones gráficas en campañas publicitarias digitales.",
-                "Diseñé prototipos interactivos con Figma, mejorando la eficiencia en la revisión y aprobación de propuestas de diseño."
-            ],
+            "responsibilities": [],
             "achievements": [],
             "repository_url": ""
         }
     ],
     "education": [
         {
-            "degree": "Egresado de Arquitectura de plataformas y servicios de la tecnología de la información",
-            "institution": "Instituto Juan Velasco Alvarado",
+            "degree": "Tecnicatura en Análisis de Sistemas",
+            "institution": "Instituto Tecnológico Beltrán sede Avellaneda",
+            "location": "Avellaneda",
+            "start_date": "",
+            "end_date": "2018-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Profesorado de Educación Secundaria en Matemática",
+            "institution": "ISFD N41",
             "location": "",
             "start_date": "",
-            "end_date": "",
+            "end_date": "2018-12-31",
             "hours": 0
         }
     ],
     "skills": {
         "keywords": {
             "technical": [
-                ".net",
                 "java",
-                "nodejs",
-                "sql-server",
-                "postgresql",
-                "mysql"
+                "html",
+                "css",
+                "js",
+                "sql",
+                "diagramas-de-flujo-de-datos",
+                "diagramas-de-entidad-relación",
+                "diccionario-de-datos"
             ],
             "soft": [
-                "sentido-de-urgencia",
-                "disposición",
-                "ganas-de-aprender"
+                "manejo-de-grupos",
+                "habilidades-explicativas"
             ],
-            "tools": [
-                "git",
-                "figma"
-            ]
+            "tools": []
         },
         "detailed": {
-            "technical": {},
-            "soft": {}
+            "technical": [],
+            "soft": []
         }
     },
     "certifications": [],
-    "projects": [
-        {
-            "name": "SOFTWARE DE CONTROL DE RECURSOS EN EL AREA TI (CII)",
-            "description": "Diseñé interfaces con Figma y desarrollé las funciones de las acciones que usualmente cumple el trabajador.",
-            "technologies": ["Figma", "MYSQL"],
-            "url": ""
-        },
-        {
-            "name": "SOFTWARE DE CONTROL DE USUARIOS BACKEND-REST API (NODEIS)",
-            "description": "Ejecute un software del lado del back-end de control de acceso de usuarios con frameworks como Express.",
-            "technologies": ["Express", "Nodejs"],
-            "url": ""
-        }
-    ],
-    "languages": [
-        {
-            "language": "Ingles",
-            "proficiency": "Intermedio"
-        }
-    ],
+    "projects": [],
+    "languages": [],
     "volunteer_experience": [],
     "publications": [],
     "references": []

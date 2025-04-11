@@ -1,49 +1,51 @@
 {
     "personal_info": {
-        "first_name": "Agustin",
-        "last_name": "Conde",
+        "first_name": "Julio Enrique",
+        "last_name": "Huamán Huarcaya",
         "email": "alfredogasparf33@gmail.com",
-        "phone": "11-3507-1407",
+        "phone": "(51) 941229286",
         "location": {
             "country": "",
             "city": "",
             "state": ""
         },
         "linkedin": "",
-        "website": "",
+        "website": "https://gitlab.com/julioenri98",
         "portfolio": "",
-        "summary": "Programador junior con conocimientos en Java, MySQL y Spring Boot. Estudiante de Sistemas, con gran interés en el desarrollo de software y la optimización de bases de datos. Busco mi primera oportunidad en el área de sistemas para aplicar y seguir ampliando mis conocimientos, aportando soluciones efectivas mientras aprendo y enfrento nuevos desafíos."
+        "summary": "Soy una persona que se esfuerza en todo momento por garantizar la satisfacción del cliente con un sólido compromiso con la tecnología y la resolución de problemas. Apasionado por la informática y la programación. Dedicado a aprender y mantenerse actualizado con las últimas tendencias tecnológicas para contribuir al desarrollo y la eficiencia de sistemas y aplicaciones."
     },
     "work_experience": [
         {
-            "job_title": "Operario de Deposito",
-            "company": "AgroMotors",
-            "location": "",
-            "start_date": "2024-05-01",
-            "end_date": "2024-08-31",
-            "currently_working": false,
-            "responsibilities": [
-                "Control y organización del stock de herramientas y materiales.",
-                "Manejo de software de inventario para el registro y control de productos.",
-                "Coordinación con otros departamentos para la recepción y distribución de mercadería.",
-                "Optimización de procesos de almacenamiento y logística interna."
-            ],
+            "job_title": "Analista Programador Full Stack",
+            "company": "Blue Partner / Green Solutions",
+            "location": "Farmacias Peruana - POSU",
+            "start_date": "2024-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [],
             "achievements": [],
             "repository_url": ""
         },
         {
-            "job_title": "Atención al Público",
-            "company": "Bazar GyL",
+            "job_title": "Analista Desarrollador",
+            "company": "COMPLEXLESS SAC",
+            "location": "Proyecto VUCE 2.0 - Componente Portuario",
+            "start_date": "2024-02-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista Desarrollador",
+            "company": "ZZOFT S.R.L",
             "location": "",
-            "start_date": "2024-08-01",
-            "end_date": "",
-            "currently_working": true,
+            "start_date": "2021-11-01",
+            "end_date": "2024-02-29",
+            "currently_working": false,
             "responsibilities": [
-                "Atención al cliente, asesoramiento sobre productos y manejo de caja.",
-                "Registro y actualización de productos en el sistema informático.",
-                "Creación e impresión de códigos de barras para mejorar la gestión de inventario.",
-                "Ingreso y control de códigos en el programa de gestión.",
-                "Organización del stock y apoyo en la reposición de mercadería."
+                "Contribuir al análisis, desarrollo, implementación y mantenimiento de soluciones de software"
             ],
             "achievements": [],
             "repository_url": ""
@@ -51,74 +53,75 @@
     ],
     "education": [
         {
-            "degree": "Licenciatura en Sistemas",
-            "institution": "Facultad Nacional de Lanus",
+            "degree": "Ingeniero de Sistemas",
+            "institution": "UNU",
             "location": "",
-            "start_date": "2025-01-01",
-            "end_date": "",
+            "start_date": "2016-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Ing. Software con IA",
+            "institution": "SENATI",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2023-12-31",
             "hours": 0
         }
     ],
     "skills": {
         "keywords": {
             "technical": [
-                "java",
+                "angular",
                 "spring-boot",
+                "microservicios",
+                "arquitectura-hexagonal",
+                "azure-devops",
+                "oracle",
+                "java-17",
+                "java-swing",
+                "postman",
+                "gitlab",
+                "microfrontend",
+                "postgres",
+                "jenkins",
+                "odoo-comunity",
                 "mysql",
-                "postgresql"
+                "sqlserver",
+                "junit",
+                "mockito",
+                "sonarqube",
+                "aws-ec2",
+                "aws-route-53"
             ],
-            "soft": [],
-            "tools": [
-                "microsoft-excel",
-                "microsoft-word",
-                "windows"
-            ]
+            "soft": [
+                "liderazgo",
+                "comunicación-asertiva",
+                "resolución-de-problemas",
+                "trabajo-en-equipo"
+            ],
+            "tools": []
         },
         "detailed": {
             "technical": [],
             "soft": []
         }
     },
-    "certifications": [
-        {
-            "name": "Certificacion como Programador full stack jr",
-            "issuing_organization": "Plataforma Egg",
-            "issue_date": "",
-            "expiration_date": "",
-            "credential_id": ""
-        }
-    ],
-    "projects": [
-        {
-            "name": "Aplicación de contratación de servicios",
-            "description": "Desarrollo de una aplicación de contratación de servicios utilizando Java y Spring Boot.",
-            "technologies": [
-                "java",
-                "spring-boot"
-            ],
-            "url": ""
-        },
-        {
-            "name": "Sistema de gestión para kioscos y supermercados",
-            "description": "Desarrollo de una aplicación para la administración de productos, ventas y stock utilizando Java y MySQL.",
-            "technologies": [
-                "java",
-                "mysql"
-            ],
-            "url": ""
-        }
-    ],
-    "languages": [
-        {
-            "language": "Español",
-            "proficiency": "Nativo"
-        },
-        {
-            "language": "Inglés",
-            "proficiency": "Nivel Bajo"
-        }
-    ],
+    "certifications": [],
+    "projects": [],
+    "languages": [],
     "volunteer_experience": [],
     "publications": [],
-    "references": []
+    "references": [
+        {
+            "name": "Oswaldo Zamora",
+            "relationship": "Desarrollador Java - DevOps",
+            "contact": "ozamorac@gmail.com"
+        },
+        {
+            "name": "Jhon Larru",
+            "relationship": "Desarrollador - Arquitecto Cloud AWS",
+            "contact": "jlarru93@gmail.com"
+        }
+    ]
 }
