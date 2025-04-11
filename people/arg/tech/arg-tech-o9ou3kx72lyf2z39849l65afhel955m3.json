@@ -1,29 +1,34 @@
 {
     "personal_info": {
-        "first_name": "Jorge Ramon Nicolas",
-        "last_name": "Carrizo",
+        "first_name": "Maria Isabel",
+        "last_name": "Cifuentes",
         "email": "jrncarrizo@gmail.com",
-        "phone": "1138332282",
+        "phone": "+57 3001965392",
         "location": {
             "country": "",
-            "city": "Ciudadela",
-            "state": "Buenos Aires"
+            "city": "",
+            "state": ""
         },
         "linkedin": "",
         "website": "",
         "portfolio": "",
-        "summary": "Desarrollador full Stack JAVA y administrador de bases de datos, con formación técnica y un enfoque orientado a resultados. Especializado en la gestión de sistemas de bases de datos y desarrollo web con tecnologías modernas. Capacidad para adaptarse rápidamente a nuevas herramientas y entornos. Facilidad para el trabajo en equipo."
+        "summary": "Desarrolladora web junior con experiencia en tecnologías backend y frontend, con habilidades en .NET, Angular y SQL Server. Actualmente realizo pasantías en una empresa de tecnología, donde participo en el desarrollo, optimización y mantenimiento de aplicaciones. Apasionada por la tecnología, el aprendizaje continuo y la creación de soluciones eficientes y escalables."
     },
     "work_experience": [
         {
-            "job_title": "Integrante del equipo de desarrollo",
-            "company": "Proyecto Colaborativo: Desarrollo de Sitio Web para Fans de Cine",
+            "job_title": "Pasantías",
+            "company": "Olimpia IT",
             "location": "",
-            "start_date": "",
+            "start_date": "2024-11-05",
             "end_date": "",
             "currently_working": true,
             "responsibilities": [
-                "Desarrollo de funcionalidades avanzadas para un sitio de cine, incluyendo presupuestos y locaciones."
+                "Desarrollo y mantenimiento de aplicaciones web utilizando .NET y Angular.",
+                "Optimización y gestión de bases de datos en SQL Server.",
+                "Integración de validaciones en tiempo real mediante consumo de APIs en Angular y .NET.",
+                "Participación en revisiones de código y aplicación de buenas prácticas.",
+                "Depuración (debugging) y análisis de errores en aplicaciones.",
+                "Colaboración en equipos ágiles bajo metodología Scrum."
             ],
             "achievements": [],
             "repository_url": ""
@@ -31,86 +36,87 @@
     ],
     "education": [
         {
-            "degree": "Especialización Profesional en gestión de Base de Datos",
-            "institution": "Centro de Formación Profesional Nro. 8",
-            "location": "Buenos Aires",
-            "start_date": "2024-03-01",
+            "degree": "Tecnicatura en programación de aplicaciones y servicios para la nube (etapa Productiva)",
+            "institution": "SENA",
+            "location": "",
+            "start_date": "",
             "end_date": "",
             "hours": 0
         },
         {
-            "degree": "Especialización Profesional en Programación Web",
-            "institution": "Centro de Formación Profesional Nro. 8",
-            "location": "Buenos Aires",
-            "start_date": "2024-03-01",
-            "end_date": "2024-12-31",
+            "degree": "Web developer (en progreso)",
+            "institution": "The Odin Project",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
             "hours": 0
         },
         {
-            "degree": "Trayecto Formativo de Programador (Lenguaje Java)",
-            "institution": "Centro de Formación Profesional Nro. 8",
-            "location": "Buenos Aires",
-            "start_date": "2023-08-01",
-            "end_date": "2024-07-31",
+            "degree": "Full stack web developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
             "hours": 0
         },
         {
-            "degree": "Bachiller en Economía y Gestión",
-            "institution": "ESBA",
-            "location": "Buenos Aires",
-            "start_date": "2010-03-01",
-            "end_date": "2010-12-31",
+            "degree": "Diplomado en Java",
+            "institution": "Politecnico Colombiano",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
             "hours": 0
         }
     ],
     "skills": {
         "keywords": {
             "technical": [
-                "mysql",
-                "mariadb",
-                "postgresql",
-                "sql-server",
-                "sqlite",
-                "java",
-                "php",
-                "spring-boot",
-                "laravel",
+                "javascript",
+                "nodejs",
+                ".net-core",
+                ".net-framework",
+                "c#",
+                "asp.net",
+                "entity-framework",
+                "apis-rest",
+                "apis-soap",
+                "angular",
+                "typescript",
                 "html5",
                 "css3",
-                "javascript",
-                "bootstrap"
+                "scss",
+                "bootstrap",
+                "tailwind-css",
+                "sql-server"
             ],
             "soft": [
-                "adaptability",
-                "teamwork"
+                "trabajo-en-equipo",
+                "resolucion-de-problemas",
+                "adaptabilidad",
+                "comunicacion-efectiva"
             ],
             "tools": [
-                "mysql-workbench",
-                "xampp",
-                "excel",
-                "microsoft-office",
-                "word",
-                "power-point"
+                "git",
+                "github",
+                "postman",
+                "swagger",
+                "github-actions",
+                "azure-devops"
             ]
         },
-        "detailed": []
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
     },
     "certifications": [],
-    "projects": [
+    "projects": [],
+    "languages": [
         {
-            "name": "Desarrollo de Sitio Web para Fans de Cine",
-            "description": "Desarrollo de un sitio de cine con funcionalidades avanzadas como presupuestos y locaciones.",
-            "technologies": [
-                "HTML",
-                "Bootstrap",
-                "PHP",
-                "Laravel",
-                "MySQL"
-            ],
-            "url": ""
+            "language": "Ingles",
+            "proficiency": "Intermedio/avanzado"
         }
     ],
-    "languages": [],
     "volunteer_experience": [],
     "publications": [],
     "references": []

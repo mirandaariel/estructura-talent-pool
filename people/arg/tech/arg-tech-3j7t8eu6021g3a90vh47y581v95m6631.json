@@ -1,33 +1,51 @@
 {
     "personal_info": {
-        "first_name": "Benjamin",
-        "last_name": "Beccari",
+        "first_name": "Lautaro",
+        "last_name": "Vergara Amodeo",
         "email": "benjaminbeccari.1@gmail.com",
-        "phone": "+542613744195",
+        "phone": "2615775559",
         "location": {
             "country": "",
             "city": "",
             "state": ""
         },
-        "linkedin": "Benjamin Beccari",
+        "linkedin": "https://linkedin.com/in/lautaro-vergara-amodeo",
         "website": "",
-        "portfolio": "https://github.com/beccaribenjamin",
-        "summary": "Soy desarrollador junior enfocado en backend, con experiencia en Node.js, bases de datos SQL y NoSQL, y testing tanto manual como automático. Busco aplicar mis habilidades para crear soluciones eficientes y de alta calidad."
+        "portfolio": "",
+        "summary": "Me apasiona la ciencia de datos y me encanta buscar retos analíticos y oportunidades de crecimiento en este fascinante campo. Mi experiencia en SQL, Python (con conocimientos de bibliotecas como Matplotlib y Seaborn) y Power BI me ha permitido transformar datos en información valiosa que ofrece perspectivas significativas. Mi objetivo actual es encontrar nuevas oportunidades de trabajo que me permitan aplicar y ampliar mis habilidades en ciencia de datos. Me entusiasma contribuir con mis habilidades mientras continúo mi desarrollo profesional. Estoy abierto a oportunidades de aprendizaje y desarrollo en entornos desafiantes."
     },
     "work_experience": [
         {
-            "job_title": "Desarrollador Full Stack",
-            "company": "Orbit Work",
+            "job_title": "Data Scientist Junior",
+            "company": "Devocamp",
             "location": "",
-            "start_date": "2024-10-01",
-            "end_date": "",
-            "currently_working": true,
+            "start_date": "2023-10-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
             "responsibilities": [
-                "Implementé funcionalidades claves, como la gestión de empleados (información personal, puesto, área, etc) y la gestión de licencias (vacaciones, enfermedad, maternidad, etc).",
-                "Desarrollé la interfaz de usuario utilizando React, proporcionando una experiencia interactiva y dinámica.",
-                "Construí el backend con Node.js y Express, manejando la lógica del servidor y la integración.",
-                "Gestioné la base de datos con MongoDB, creando estructuras eficientes para almacenar y gestionar la información de empleados y licencias.",
-                "Implementé la funcionalidad de firma digital de documentos, facilitando la validación de documentos dentro del sistema."
+                "Familiaridad con herramientas de análisis como Python y SQL.",
+                "Entendimiento inicial de algoritmos de machine learning.",
+                "Limpiar, preprocesar y organizar datos.",
+                "Realizar análisis exploratorios para identificar tendencias o patrones.",
+                "Manejo de bibliotecas como Pandas, NumPy, Matplotlib y Scikit-learn.",
+                "Uso de herramienta de visualización en PowerBI."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Backend Junior",
+            "company": "Quinto Impacto - Semillero LATAM",
+            "location": "",
+            "start_date": "2022-07-01",
+            "end_date": "2023-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Manejo de lenguaje Java.",
+                "Conocimientos básicos en bases de datos relacionales (MySQL, PostgreSQL) y no relacionales (MongoDB).",
+                "Escribir y mantener código limpio, documentado y eficiente.",
+                "Integrar bases de datos con la aplicación, asegurándose de que los datos se almacenen y recuperen correctamente.",
+                "Capacidad para depurar errores simples en el código y aprender a resolverlos."
             ],
             "achievements": [],
             "repository_url": ""
@@ -35,68 +53,91 @@
     ],
     "education": [
         {
-            "degree": "Técnico en Programación",
-            "institution": "Teclab",
+            "degree": "Data Scientist",
+            "institution": "Soy Henry",
             "location": "",
-            "start_date": "2022-03-01",
-            "end_date": "2024-12-31",
+            "start_date": "2024-01-01",
+            "end_date": "2024-11-30",
+            "hours": 0
+        },
+        {
+            "degree": "Data Scientist",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2023-10-01",
+            "end_date": "2024-05-31",
+            "hours": 0
+        },
+        {
+            "degree": "Data Analyst",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2023-10-31",
+            "hours": 0
+        },
+        {
+            "degree": "Programador Fullstack",
+            "institution": "Oracle Next Education",
+            "location": "",
+            "start_date": "2022-07-01",
+            "end_date": "2023-03-31",
+            "hours": 0
+        },
+        {
+            "degree": "Programador Fullstack",
+            "institution": "EGG Educación",
+            "location": "",
+            "start_date": "2019-10-01",
+            "end_date": "2020-03-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Superior en Programación",
+            "institution": "UTN Regional Mendoza",
+            "location": "",
+            "start_date": "2020-08-01",
+            "end_date": "",
             "hours": 0
         }
     ],
     "skills": {
         "keywords": {
             "technical": [
-                "javascript",
                 "python",
-                "html",
-                "css",
-                "java",
-                "react",
-                "tailwind-css",
-                "bootstrap",
-                "node.js",
-                "express",
-                "django",
-                "jwt",
+                "pandas",
+                "scikit-learn",
+                "matplotlib",
                 "sql",
-                "firefox",
-                "mongodb"
+                "powerbi",
+                "análisis-estadísticos",
+                "modelados-de-datos"
             ],
             "soft": [
                 "trabajo-en-equipo",
                 "resolución-de-problemas",
-                "gestión-del-tiempo",
-                "adaptabilidad"
+                "comunicativo",
+                "ordenado"
             ],
-            "tools": [
-                "postman",
-                "vite",
-                "git"
-            ]
+            "tools": []
         },
         "detailed": {
-            "technical": {},
-            "soft": {}
+            "technical": [],
+            "soft": []
         }
     },
-    "certifications": [
+    "certifications": [],
+    "projects": [],
+    "languages": [
         {
-            "name": "React De Cero a Experto (Hooks y MERN)",
-            "issuing_organization": "Udemy",
-            "issue_date": "2023-06-01",
-            "expiration_date": "",
-            "credential_id": ""
+            "language": "Español",
+            "proficiency": "Nativo"
         },
         {
-            "name": "JavaScript Moderno: Guía para dominar el lenguaje",
-            "issuing_organization": "Udemy",
-            "issue_date": "2022-05-01",
-            "expiration_date": "",
-            "credential_id": ""
+            "language": "Inglés",
+            "proficiency": "Intermedio"
         }
     ],
-    "projects": [],
-    "languages": [],
     "volunteer_experience": [],
     "publications": [],
     "references": []

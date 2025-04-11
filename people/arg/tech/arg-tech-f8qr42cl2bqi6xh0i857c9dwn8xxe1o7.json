@@ -1,68 +1,110 @@
 {
     "personal_info": {
-        "first_name": "Axel",
-        "last_name": "Moreno",
+        "first_name": "",
+        "last_name": "",
         "email": "morenoaxel395@gmail.com",
         "phone": "",
         "location": {
-            "country": "Argentina",
-            "city": "Buenos Aires",
+            "country": "",
+            "city": "",
             "state": ""
         },
         "linkedin": "",
         "website": "",
         "portfolio": "",
-        "summary": "Desarrollador Full Stack con formación en el desarrollo de aplicaciones web escalables, integrando back-end y front-end con arquitecturas multi-capa y bases de datos relacionales. A través de proyectos personales y académicos, he demostrado capacidad para resolver problemas y entregar código eficiente. Motivado por seguir aprendiendo y aportar en entornos dinámicos."
+        "summary": ""
     },
-    "work_experience": [],
+    "work_experience": [
+        {
+            "job_title": "Especialista de desarrollo",
+            "company": "INSIDE MARKET (Rio Supermarket)",
+            "location": "Unknown",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desempeñé funciones como Analista de bases de datos y Especialista de desarrollo.",
+                "Mantenimiento del front-end de varios aplicativos de la empresa.",
+                "Desarrollo de una aplicación para gestionar los horarios del personal.",
+                "Colaboración en la creación de una aplicación web para ajustar conciliaciones de registros en línea de caja."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de desarrollo",
+            "company": "GUUAC - LEIROS",
+            "location": "Unknown",
+            "start_date": "2023-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Mantenimiento de una aplicación móvil desactualizada.",
+                "Resolución de errores (bugs) y cambios en el esquema de diseño."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de desarrollo",
+            "company": "OMNINEXO",
+            "location": "Unknown",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de aplicativas móviles o web para mejorar la gestión empresarial."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
     "education": [
         {
-            "degree": "",
-            "institution": "",
-            "location": "",
-            "start_date": "",
-            "end_date": "2024-01-01",
+            "degree": "ING. DE SISTEMAS",
+            "institution": "UNIVERSIDAD DE MARGARITA (LINIMAR)",
+            "location": "Unknown",
+            "start_date": "2022-01-01",
+            "end_date": "",
             "hours": 0
         }
     ],
     "skills": {
         "keywords": {
             "technical": [
-                "sql",
+                "html/css",
+                "flutter",
+                "javascript",
+                "nodejs",
+                "vue.js",
                 "sql-server",
-                "mysql",
-                "asp.net",
-                "net-core",
-                "net-framework",
-                "html",
-                "css",
-                "bootstrap",
+                "react",
+                "react-native",
                 "tailwind-css",
-                "c#",
-                "windows",
-                "java",
-                "microsoft-office",
-                "git",
-                "git-hub"
+                "typescript"
             ],
-            "soft": [
-                "organizado",
-                "buenas-relaciones-interpersonales",
-                "proactivo",
-                "resolución-de-problemas",
-                "ordenado",
-                "flexible",
-                "buena-comunicación"
-            ],
-            "tools": []
+            "soft": [],
+            "tools": [
+                "github",
+                "ux-design"
+            ]
         },
-        "detailed": {
-            "technical": {},
-            "soft": {}
-        }
+        "detailed": []
     },
     "certifications": [],
-    "projects": [],
+    "projects": [
+        {
+            "name": "LANDING PAGE - Wow Deck",
+            "description": "Se llevó a cabo el proyecto utilizando las tecnologías HTML, CSS y JS con la librería GSAP para animaciones. Subido a producción con hosting de GoDaddy.",
+            "technologies": [
+                "html",
+                "css",
+                "js",
+                "gsap"
+            ],
+            "url": "https://wow-deck.com"
+        }
+    ],
     "languages": [],
     "volunteer_experience": [],
     "publications": [],

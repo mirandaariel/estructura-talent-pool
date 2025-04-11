@@ -1,162 +1,93 @@
 {
     "personal_info": {
-        "first_name": "Jhostin",
-        "last_name": "Luna",
+        "first_name": "Mónica",
+        "last_name": "Sánchez Carrillo",
         "email": "jhostinlunadev@gmail.com",
-        "phone": "622852648",
+        "phone": "626601137",
         "location": {
             "country": "Spain",
             "city": "Madrid",
-            "state": "Madrid"
+            "state": ""
         },
-        "linkedin": "",
-        "website": "www.droidner.es",
+        "linkedin": "https://www.linkedin.com/in/monica-sanchez-carrillo",
+        "website": "",
         "portfolio": "",
-        "summary": "Estoy abierto a roles en diversas industrias y tengo la flexibilidad para adaptarme a diferentes entornos de trabajo. Creo que mi experiencia y habilidades técnicas pueden ser valiosas para su equipo."
+        "summary": "Desarrolladora web frontend con 20 años en trabajo social, especializada en accesibilidad digital y liderazgo de equipos. Busco aportar mi enfoque inclusivo y habilidades técnicas a un equipo innovador."
     },
     "work_experience": [
         {
-            "job_title": "Desarrollador Android",
-            "company": "Freelance",
+            "job_title": "Freelance Developer",
+            "company": "",
             "location": "",
-            "start_date": "2023-07-01",
-            "end_date": "2024-02-29",
-            "currently_working": false,
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
             "responsibilities": [
-                "Análisis de requisitos y gestión de proyecto con Notion.",
-                "Desarrollo y pruebas."
+                "Desarrollo integral de diferentes proyectos y páginas web innovadores y a la vanguardia tecnológica.",
+                "Creatividad en diseño web.",
+                "Optimización SEO efectiva.",
+                "Desarrollo ágil y adaptativo.",
+                "Resultados que impulsan ventas."
             ],
             "achievements": [],
             "repository_url": ""
         },
         {
-            "job_title": "Desarrollador Android",
-            "company": "Consultora Akkodis",
-            "location": "",
-            "start_date": "2023-01-01",
-            "end_date": "2023-11-30",
-            "currently_working": false,
+            "job_title": "Intérprete de Lengua de Signos",
+            "company": "Seprotec, Merino y Merino, Ofilingua",
+            "location": "Madrid",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "currently_working": true,
             "responsibilities": [
-                "Mantenimiento y evolutivos de aplicaciones Android con lenguaje Java y arquitectura MVP.",
-                "Desarrollo de nuevas aplicaciones Android con framework y componentes de Jetpack Compose arquitectura MVVM.",
-                "Desarrollo de documentación técnica y usuario."
+                "Servicios en Policía Nacional, Juzgados, Universidad, Conferencias, Eventos, actividades de ocio y clases particulares."
             ],
             "achievements": [],
             "repository_url": ""
         },
         {
-            "job_title": "Desarrollador Android",
-            "company": "Consultora Unipartner",
-            "location": "",
-            "start_date": "2021-05-01",
-            "end_date": "2023-01-01",
-            "currently_working": false,
+            "job_title": "Directora/Trabajadora Social",
+            "company": "ASISPA, ASER, ARQUISOCIAL, DOMUSVI E ILUNION",
+            "location": "Madrid",
+            "start_date": "2007-01-01",
+            "end_date": "",
+            "currently_working": true,
             "responsibilities": [
-                "Mantenimiento y evolutivos de aplicaciones nativas Android con lenguaje Java.",
-                "Desarrollo de nuevas aplicaciones Android con framework y componentes de Jetpack Compose.",
-                "Despliegue de aplicaciones en Play Store, AppCenter."
+                "Dirección y coordinación del equipo.",
+                "Implantación y seguimiento de modelo ACP.",
+                "Gestión de gastos.",
+                "Cumplimiento de Memorias, planes anuales.",
+                "Elaboración de informes, Inspecciones y Auditorías.",
+                "Resolución de incidencias.",
+                "Contacto y trato con personas usuarias y familiares/cuidadores."
             ],
             "achievements": [],
             "repository_url": ""
         },
         {
-            "job_title": "Repartidor en moto",
-            "company": "Empresa Just Eat",
-            "location": "",
-            "start_date": "2021-01-01",
-            "end_date": "2021-05-31",
+            "job_title": "Técnica de empleo",
+            "company": "Asociación de Amigos y Familias del Sordo",
+            "location": "Madrid",
+            "start_date": "2006-01-01",
+            "end_date": "2007-12-31",
             "currently_working": false,
             "responsibilities": [
-                "Revisar el estado de moto al empezar y terminar jornada.",
-                "Ubicar recogida y destino de pedido a domicilio con App Waze.",
-                "Uso de aplicación mobile para gestionar repartos."
+                "Establecer mecanismos para garantizar la relación de la persona con los recursos formativos y laborales existentes.",
+                "Contribuir a la inserción social de la persona en su entorno.",
+                "Solicitud y consecución de subvenciones."
             ],
             "achievements": [],
             "repository_url": ""
         },
         {
-            "job_title": "Repartidor de paquetes en furgoneta",
-            "company": "Kenoct Paq (Amazon Logistic)",
-            "location": "",
-            "start_date": "2020-09-01",
-            "end_date": "2020-12-31",
+            "job_title": "Técnica de Juventud",
+            "company": "Comisión de Juventud Sorda de la CNSE",
+            "location": "Madrid",
+            "start_date": "2006-01-01",
+            "end_date": "2006-12-31",
             "currently_working": false,
             "responsibilities": [
-                "Carga de Paquetes de almacén.",
-                "Reparto de paquetes usando applicacion de reparto y navegador.",
-                "Resolución de incidencias y cierre de ruta."
-            ],
-            "achievements": [],
-            "repository_url": ""
-        },
-        {
-            "job_title": "Repartidor de repuestos de coche",
-            "company": "Empresa Reynasa",
-            "location": "",
-            "start_date": "2020-07-01",
-            "end_date": "2020-09-30",
-            "currently_working": false,
-            "responsibilities": [
-                "Carga y reparto de repuestos.",
-                "Reparto de repuestos a talleres usando navegador Waze.",
-                "Gestion de incidencias."
-            ],
-            "achievements": [],
-            "repository_url": ""
-        },
-        {
-            "job_title": "Preparador de pedidos",
-            "company": "Empresa Dia",
-            "location": "",
-            "start_date": "2019-01-01",
-            "end_date": "2019-04-30",
-            "currently_working": false,
-            "responsibilities": [
-                "Manejo de carretilla elevadora eléctrica.",
-                "Preparado de pedidos con picking voice."
-            ],
-            "achievements": [],
-            "repository_url": ""
-        },
-        {
-            "job_title": "Preparador de pedidos",
-            "company": "Empresa Salvesen",
-            "location": "",
-            "start_date": "2018-07-01",
-            "end_date": "2019-01-31",
-            "currently_working": false,
-            "responsibilities": [
-                "Preparado de pedidos (lácteos) para supermercados.",
-                "Uso de pistola de radiofrecuencia en zona fría."
-            ],
-            "achievements": [],
-            "repository_url": ""
-        },
-        {
-            "job_title": "Mozo de almacén",
-            "company": "Empresa Carrefour",
-            "location": "",
-            "start_date": "2017-06-01",
-            "end_date": "2018-06-30",
-            "currently_working": false,
-            "responsibilities": [
-                "Preparación de pedidos con PDA y pistola de radiofrecuencia.",
-                "Reposición de lineales, organización de pedidos en frío y ambiente."
-            ],
-            "achievements": [],
-            "repository_url": ""
-        },
-        {
-            "job_title": "Camarero",
-            "company": "Empresa Ribs",
-            "location": "",
-            "start_date": "2015-06-01",
-            "end_date": "2017-12-31",
-            "currently_working": false,
-            "responsibilities": [
-                "Atención al cliente, servicio en mesas.",
-                "Manejo de bandeja, preparación de café, infusiones, postres, etc.",
-                "Cobro en caja con TPV y datáfono."
+                "Ayudante del equipo para la elaboración y consecución del Campamento Mundial de Jóvenes Sordos."
             ],
             "achievements": [],
             "repository_url": ""
@@ -164,72 +95,79 @@
     ],
     "education": [
         {
-            "degree": "FP Superior DAM",
-            "institution": "Ilerna",
+            "degree": "Programadora-Desarrolladora Full-Stack",
+            "institution": "Rock The Code, The Power",
             "location": "",
             "start_date": "",
-            "end_date": "2024-12-31",
+            "end_date": "",
             "hours": 0
         },
         {
-            "degree": "FP Superior DAW",
-            "institution": "IES Enrique Tierno Galván",
+            "degree": "Certificado de Profesionalidad de Docencia de la Formación Profesional para el Empleo",
+            "institution": "",
             "location": "",
-            "start_date": "2018-01-01",
-            "end_date": "2020-12-31",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Máster de Director de Centros de Servicios Sociales",
+            "institution": "INFOREM",
+            "location": "Madrid",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Ciclo Formativo de Grado Superior de Interpretación de Lengua de Signos y Guía-Intérprete de Personas Sordociegas",
+            "institution": "Confederación Nacional de Sordos de España",
+            "location": "",
+            "start_date": "2002-09-01",
+            "end_date": "2005-06-30",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomada en Trabajo Social",
+            "institution": "Universidad Complutense de Madrid",
+            "location": "Madrid",
+            "start_date": "1999-09-01",
+            "end_date": "2004-06-30",
             "hours": 0
         }
     ],
     "skills": {
         "keywords": {
             "technical": [
-                "kotlin",
-                "jetpack-compose",
-                "hilt",
-                "graphic-dsl",
-                "retrofit",
-                "coil",
-                "firebase-firestore",
-                "firebase-message",
-                "analytics",
-                "crashlytics",
-                "junit-test-unitarios",
-                "mvvm",
-                "principios-solidos",
-                "sonar-qube",
-                "java",
-                "api-rest-client",
-                "koin",
-                "sockets",
-                "dagger"
+                "html",
+                "css",
+                "js",
+                "github",
+                "git",
+                "vite",
+                "node.js",
+                "mongodb",
+                "rest-api"
             ],
-            "soft": [],
-            "tools": [
-                "notion",
-                "android-studio",
-                "sourcetree",
-                "postman",
-                "figma",
-                "scrum"
-            ]
+            "soft": [
+                "trabajo-en-equipo",
+                "comunicación-efectiva",
+                "adaptabilidad",
+                "resolutiva",
+                "búsqueda-de-eficacia",
+                "creatividad",
+                "pensamiento-lateral",
+                "pensamiento-crítico",
+                "activa-y-extrovertida",
+                "flexibilidad",
+                "facilidad-en-el-trato"
+            ],
+            "tools": []
         },
-        "detailed": {
-            "technical": {},
-            "soft": {}
-        }
+        "detailed": []
     },
     "certifications": [],
     "projects": [],
-    "languages": [
-        {
-            "language": "Castellano",
-            "proficiency": "Nativo"
-        },
-        {
-            "language": "Inglés",
-            "proficiency": "B1"
-        }
-    ],
+    "languages": [],
     "volunteer_experience": [],
     "publications": [],
     "references": []

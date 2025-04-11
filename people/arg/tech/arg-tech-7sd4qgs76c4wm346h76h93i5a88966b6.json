@@ -7,7 +7,7 @@
         "location": {
             "country": "Argentina",
             "city": "San Luis",
-            "state": ""
+            "state": "San Luis"
         },
         "linkedin": "https://www.linkedin.com/in/santiago-jose-lopez-mendes",
         "website": "https://github.com/smlopezsm",
@@ -18,10 +18,10 @@
         {
             "job_title": "Freelancer",
             "company": "Self-employed",
-            "location": "",
+            "location": "San Luis, Argentina",
             "start_date": "2024-07-01",
             "end_date": "2024-12-31",
-            "currently_working": true,
+            "currently_working": false,
             "responsibilities": [],
             "achievements": [],
             "repository_url": ""
@@ -32,7 +32,7 @@
             "degree": "",
             "institution": "Universidad Nacional de San Luis",
             "location": "San Luis, Argentina",
-            "start_date": "",
+            "start_date": "01/03/2023",
             "end_date": "",
             "hours": 0
         }
@@ -58,7 +58,42 @@
                 "obsidian"
             ]
         },
-        "detailed": {}
+        "detailed": {
+            "technical":{
+                "javaScript": [
+                    {
+                        "id": 1001,
+                        "title": "Variables and Data Types",
+                        "description": "Declaración de variables usando var, let y const, y comprensión de tipos primitivos y objetos.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/variables.js"
+                    },
+                    {
+                        "id": 1002,
+                        "title": "Control Flow",
+                        "description": "Uso de instrucciones condicionales y bucles (if, else, switch, for, while).",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/controlFlow.js"
+                    },
+                    {
+                        "id": 1003,
+                        "title": "Functions",
+                        "description": "Declaración y uso de funciones en JavaScript, incluyendo funciones anónimas y de flecha.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/functions.js"
+                    },
+                    {
+                        "id": 1004,
+                        "title": "Scope and Hoisting",
+                        "description": "Cómo funcionan los ámbitos léxicos y el comportamiento de elevación de variables en JavaScript.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/scopeAndHoisting.js"
+                    },
+                    {
+                        "id": 1005,
+                        "title": "Closures",
+                        "description": "Funciones que capturan el estado de su entorno de creación, permitiendo acceso a variables externas incluso después de finalizar su contexto original.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/closures.js"
+                    },
+                ]
+            }
+        }
     },
     "certifications": [],
     "projects": [

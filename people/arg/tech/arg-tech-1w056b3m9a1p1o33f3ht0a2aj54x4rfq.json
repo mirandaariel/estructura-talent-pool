@@ -1,146 +1,113 @@
 {
-  "personal_info": {
-    "first_name": "Ivo",
-    "last_name": "Piccinini",
-    "email": "ivopiccinini02@gmail.com",
-    "phone": "2234371755",
-    "location": {
-      "country": "Argentina",
-      "city": "Mar del Plata",
-      "state": "Buenos Aires"
+    "personal_info": {
+        "first_name": "Anselmo",
+        "last_name": "Vecchio",
+        "email": "ivopiccinini02@gmail.com",
+        "phone": "3435355834",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": "Entre Ríos"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un Backend Developer especializado en Node.js y NestJS, con experiencia en el desarrollo de aplicaciones escalables y optimización de procesos. Me destaco por mi capacidad de análisis, trabajo en equipo y enfoque en la eficiencia del código. Tengo experiencia en metodologías ágiles, control de versiones con Git, integración con APIs RESTful y bases de datos PostgreSQL. Busco oportunidades donde pueda aplicar mis conocimientos y seguir creciendo en entornos desafiantes."
     },
-    "linkedin": "Ivo Piccinini",
-    "website": "",
-    "portfolio": "https://ivo-picciónl.netlify.app",
-    "summary": "Fullstack Developer con experiencia en ReactJS, JavaScript, Django y MySQL. Estudiante de la Tecnicatura en Programación en la UTN (Mar del Plata). Apasionado por el desarrollo web y en constante búsqueda de nuevos desafíos."
-  },
-  "work_experience": [
-    {
-      "job_title": "Fullstack Developer",
-      "company": "Criptomix",
-      "location": "",
-      "start_date": "2024-05-01",
-      "end_date": "",
-      "currently_working": true,
-      "responsibilities": [
-        "Diseñé y desarrollé interfaces dinámicas y responsivas con ReactJS, JavaScript, Vite y Sass, mejorando la experiencia de usuario.",
-        "Implementé Vite para optimizar tiempos de construcción y rendimiento, reduciendo los tiempos de carga en un 30%.",
-        "Mejoré la mantenibilidad del código CSS mediante Sass, optimizando la organización y reutilización de estilos.",
-        "Desarrollé funcionalidades backend con Django y MySQL, gestionando la lógica de negocio y autenticación de usuarios para una integración fluida con la base de datos.",
-        "Colaboré en la optimización de consultas SQL, mejorando la eficiencia del sistema."
-      ],
-      "achievements": [],
-      "repository_url": ""
-    }
-  ],
-  "education": [
-    {
-      "degree": "",
-      "institution": "UTN Mar del Plata",
-      "location": "Mar del Plata, Buenos Aires",
-      "start_date": "2024-01-01",
-      "end_date": ""
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Proyectos Personales",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web con React, Node.js y NestJS.",
+                "Modularización del código, mejorando la eficiencia en +30%.",
+                "Optimización de bases de datos y carga de imágenes en +25%.",
+                "Diseño de interfaces responsivas, aumentando la usabilidad en +20%.",
+                "Implementación de Git para control de versiones y colaboración."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "Bachillerato Orientado en Tecnología",
+            "institution": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "node.js",
+                "nestjs",
+                "react",
+                "postgreSQL"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "postman",
+                "jira",
+                "api-rest"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
     },
-    {
-      "degree": "",
-      "institution": "",
-      "location": "",
-      "start_date": "2019-01-01",
-      "end_date": "2020-12-31"
-    },
-    {
-      "degree": "",
-      "institution": "",
-      "location": "",
-      "start_date": "2013-01-01",
-      "end_date": "2018-12-31"
-    }
-  ],
-  "skills": {
-    "keywords": {
-      "technical": [
-        "reactjs",
-        "javascript",
-        "html",
-        "css",
-        "saas",
-        "boostrap",
-        "tailwindcss",
-        "vite"
-      ],
-      "soft": [],
-      "tools": [
-        "git",
-        "github",
-        "api-rest",
-        "scrum"
-      ]
-    },
-    "detailed": {
-      "technical": {},
-      "soft": {}
-    }
-  },
-  "certifications": [
-    {
-      "name": "Master-ReactJS",
-      "issuing_organization": "Udemy",
-      "issue_date": "2022-01-01",
-      "expiration_date": "",
-      "credential_id": ""
-    },
-    {
-      "name": "Curso de desarrollo web fullstack con PHP, MySQL y Codeigniter",
-      "issuing_organization": "Hilet",
-      "issue_date": "",
-      "expiration_date": "",
-      "credential_id": ""
-    },
-    {
-      "name": "Curso de Python intensivo",
-      "issuing_organization": "Hilet",
-      "issue_date": "",
-      "expiration_date": "",
-      "credential_id": ""
-    }
-  ],
-  "projects": [
-    {
-      "name": "Cripto-React",
-      "description": "Calculador de precios de criptomonedas en tiempo real.",
-      "technologies": ["ReactJS"],
-      "url": ""
-    },
-    {
-      "name": "Sistema de gestión de tienda ficticio",
-      "description": "",
-      "technologies": [],
-      "url": ""
-    },
-    {
-      "name": "Money Manager",
-      "description": "Aplicación de gestión de gastos.",
-      "technologies": [],
-      "url": ""
-    },
-    {
-      "name": "Vet-Vite",
-      "description": "Sistema de gestión de pacientes para una clínica veterinaria ficticia.",
-      "technologies": [],
-      "url": ""
-    }
-  ],
-  "languages": [
-    {
-      "language": "Español",
-      "proficiency": "Nativo"
-    },
-    {
-      "language": "Inglés",
-      "proficiency": "B2"
-    }
-  ],
-  "volunteer_experience": [],
-  "publications": [],
-  "references": []
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Ecommerce de Videojuegos",
+            "description": "Proyecto académico en Henry Bootcamp. Desarrollo de un e-commerce con autenticación y pagos integrados, proporcionando una experiencia fluida para los usuarios.",
+            "technologies": [
+                "Next.js",
+                "React",
+                "TailwindCSS",
+                "NestJS",
+                "Node.js",
+                "Auth0",
+                "JWT",
+                "Mercado Pago",
+                "Cloudinary"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Ecommerce-Anselmo07",
+            "description": "Desarrollo de una plataforma de comercio electrónico con una arquitectura escalable y optimizada para la gestión de productos y usuarios.",
+            "technologies": [
+                "NestJS",
+                "Node.js",
+                "PostgreSQL",
+                "Cloudinary",
+                "APIs RESTful",
+                "React"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
 }

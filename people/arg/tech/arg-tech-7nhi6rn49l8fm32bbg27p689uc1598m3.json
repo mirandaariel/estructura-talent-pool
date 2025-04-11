@@ -1,87 +1,90 @@
 {
     "personal_info": {
-        "first_name": "Matías",
-        "last_name": "Vicino",
+        "first_name": "Facundo Misael",
+        "last_name": "Pettersson",
         "email": "vicinomatias@gmail.com",
-        "phone": "+5492634248433",
+        "phone": "+54 11-5579-5134",
         "location": {
-            "country": "",
-            "city": "Mendoza",
+            "country": "Argentina",
+            "city": "Buenos Aires",
             "state": ""
         },
-        "linkedin": "https://www.linkedin.com/in/matías-vicino",
+        "linkedin": "https://linkedin.com/in/",
         "website": "",
-        "portfolio": "vicino-matías",
-        "summary": "Desarrollador Backend Junior con experiencia práctica en proyectos personales utilizando Go (Golang), enfocado en el diseño e implementación de APIs RESTful, escritura de código limpio y la resolución eficiente de problemas técnicos."
+        "portfolio": "",
+        "summary": "Soy desarrollador FullStack enfocado en crear aplicaciones web eficientes y visualmente atractivas. Mi trabajo se centra en implementar soluciones bien pensadas, mejorando la experiencia del usuario y optimizando procesos mediante buenas prácticas de desarrollo. Me destaco por mi autonomía, atención al detalle y mi habilidad para colaborar en equipo, convencido de que los mejores resultados provienen del esfuerzo conjunto y la comunicación efectiva."
     },
-    "work_experience": [],
-    "education": [
+    "work_experience": [
         {
-            "degree": "Técnico superior en Desarrollo de Software",
-            "institution": "IES 9-021 Tecnológico Junin",
-            "location": "Junin, Mendoza",
-            "start_date": "",
+            "job_title": "Desarrollador Front-End",
+            "company": "No Country",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2024-07-01",
             "end_date": "",
-            "hours": 0
+            "currently_working": true,
+            "responsibilities": [
+                "Conexión de API entre el Backend y Frontend para mejor manejo de la información.",
+                "Creación de la arquitectura principal y enrutado del lado del cliente para seguridad.",
+                "Diseño móvil y de escritorio, creando ambas versiones para mejor perspectiva.",
+                "Control de versiones del proyecto.",
+                "Creación de funcionalidades óptimas."
+            ],
+            "achievements": [
+                "Mejoras en la velocidad de respuesta de la interfaz, aumentando la satisfacción del usuario en un 25%.",
+                "Diseño e implementación de una funcionalidad innovadora destacada en el lanzamiento del producto.",
+                "Introducción de nuevas tecnologías como TypeScript mejorando la eficiencia del equipo.",
+                "Desarrollo de una guía de estilo y documentación mejorando la consistencia del código."
+            ],
+            "repository_url": ""
         }
     ],
+    "education": [],
     "skills": {
         "keywords": {
             "technical": [
-                "go-(golang)",
-                "javascript",
-                "python",
+                "html",
+                "react-js",
+                "prisma",
+                "css",
+                "sass",
+                "scss",
+                "next-js",
                 "postgresql",
-                "sqlite",
                 "mysql",
-                "apis-restful",
-                "concurrencias-en-go",
-                "manejo-de-errores",
-                "modularidad-en-el-código",
-                "pruebas-unitarias"
+                "mongo-db",
+                "javascript",
+                "typescript",
+                "tailwind",
+                "node-js",
+                "express-js"
             ],
             "soft": [],
             "tools": [
-                "git",
-                "github",
+                "visual-studio-code",
+                "notion",
+                "jira",
+                "trello",
+                "miro",
+                "figma",
+                "canva",
                 "postman",
-                "docker"
+                "docker",
+                "github",
+                "git"
             ]
         },
-        "detailed": {
-            "technical": [],
-            "soft": []
-        }
+        "detailed": []
     },
     "certifications": [],
-    "projects": [
-        {
-            "name": "API RESTful de Gestión de Tareas (ToDo App)",
-            "description": "Desarrolle una API para gestionar tareas (CRUD) con Go y PostgreSQL. Implemente validación de datos, manejo de errores y endpoints funcionales para crear, leer, actualizar y eliminar tareas. Documenté y probé la API utilizando Postman.",
-            "technologies": [
-                "Go",
-                "PostgreSQL"
-            ],
-            "url": "https://github.com/vicino-matías/todo-api"
-        },
-        {
-            "name": "Servicio de Short URL",
-            "description": "Proyecto para crear un servicio de acortamiento de URLs con Go. Planificación de lógica de generación de URLs únicas, almacenamiento en base de datos y redirección. Uso de Docker para contenedores y despliegue.",
-            "technologies": [
-                "Go",
-                "Docker"
-            ],
-            "url": ""
-        }
-    ],
+    "projects": [],
     "languages": [
         {
-            "language": "Español",
-            "proficiency": "Nativo"
+            "language": "English",
+            "proficiency": "Intermediate"
         },
         {
-            "language": "Inglés",
-            "proficiency": "Intermedio (B2)"
+            "language": "Spanish",
+            "proficiency": "Native"
         }
     ],
     "volunteer_experience": [],

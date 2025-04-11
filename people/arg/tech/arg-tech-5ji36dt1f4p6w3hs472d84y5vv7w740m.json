@@ -1,0 +1,191 @@
+{
+    "personal_info": {
+        "first_name": "Leandro",
+        "last_name": "Vega",
+        "email": "jacksonguerrerovega2@gmail.com",
+        "phone": "+54 911 3414-1812",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "https://github.com/levsistemas",
+        "summary": "Técnico en IT con experiencia en soporte informático, administración de sistemas y desarrollo web. Especializado en hardware, redes, configuraciones de servidores y bases de datos, optimización de procesos a través de la automatización y desarrollo de soluciones digitales eficientes."
+    },
+    "work_experience": [
+        {
+            "job_title": "Soporte IT",
+            "company": "Boreal-IT",
+            "location": "CABA, Buenos Aires, Argentina",
+            "start_date": "2021-07-01",
+            "end_date": "2022-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Soporte onsite y remoto a usuarios y sucursales utilizando TeamViewer y Radmin.",
+                "Diagnóstico y configuración de equipos, instalación de sistemas con Sysprep, Acronis y Norton Ghost.",
+                "Configuración de redes, VPN, permisos NTFS, troubleshooting de dominio y Active Directory.",
+                "Configuración y gestión de Office 365, Outlook, impresoras en red y protocolos de seguridad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Soporte Técnico",
+            "company": "Aerolíneas Argentinas",
+            "location": "Aeroparque, Argentina",
+            "start_date": "2014-10-01",
+            "end_date": "2017-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Soporte microinformático y mantenimiento de estaciones de trabajo en dominio.",
+                "Configuración, formateo, backup y restauración de imágenes de sistemas operativos.",
+                "Administración de permisos NTFS en archivos y carpetas para usuarios estándar.",
+                "Gestión de escritorios públicos compartidos y configuración de proxys.",
+                "Soporte remoto mediante Invgate y configuración de impresoras IP, marbeteras y bordineras.",
+                "Manejo de clientes de correo IBM Lotus Notes e IBM Verse en dispositivos Android."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Mesa de Ayuda",
+            "company": "Aerolíneas Argentinas",
+            "location": "Remote",
+            "start_date": "2012-12-01",
+            "end_date": "2014-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención telefónica y por correo electrónico para resolución de incidencias.",
+                "Escalamiento de tickets a los grupos correspondientes.",
+                "Uso de herramientas de gestión como Lotus Notes, Sama y ZolPer."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Servicio Técnico de PC",
+            "company": "Autónomo",
+            "location": "",
+            "start_date": "2008-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Mantenimiento, reparación y armado de PC, configuración de redes hogareñas.",
+                "Instalación de sistemas operativos y recuperación de datos.",
+                "Desarrollo de scripts para automatización de copias de seguridad y procesos.",
+                "Creación de sitios web con HTML, CSS, Bootstrap, JavaScript, PHP y Node.js.",
+                "Gestión de bases de datos con MySQL y administración de repositorios en GitHub."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certificación Full Stack Node.js",
+            "institution": "Codo a Codo",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Certificación Ethereum Developer (Solidity)",
+            "institution": "Eth KIPU",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Certificación Diseño UX/UJ",
+            "institution": "Talento Tech",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Certificación Full Stack PHP y Java",
+            "institution": "Codo a Codo",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Administración Windows Server 2012",
+            "institution": "IT College",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Montaje y Administración de Redes",
+            "institution": "IAC",
+            "location": "",
+            "start_date": "2010-01-01",
+            "end_date": "2010-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Perito Marcantil en Administración de Empresas",
+            "institution": "Instituto Educativo Paulo Freire",
+            "location": "",
+            "start_date": "2009-01-01",
+            "end_date": "2009-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "hardware",
+                "redes",
+                "configuraciones-de-servidores",
+                "bases-de-datos",
+                "html",
+                "css",
+                "bootstrap",
+                "javascript",
+                "php",
+                "node.js",
+                "mysql"
+            ],
+            "soft": [
+                "comunicación",
+                "colaboración",
+                "resiliencia",
+                "adaptación"
+            ],
+            "tools": [
+                "teamviewer",
+                "radmin",
+                "sysprep",
+                "acronis",
+                "norton-ghost",
+                "office-365",
+                "invgate"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

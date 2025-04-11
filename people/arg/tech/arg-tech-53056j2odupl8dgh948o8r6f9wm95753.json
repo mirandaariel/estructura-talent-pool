@@ -1,58 +1,56 @@
 {
     "personal_info": {
-        "first_name": "Alfonso",
-        "last_name": "Darchez",
+        "first_name": "Juan Ignacio",
+        "last_name": "Armagnague",
         "email": "alfonsodarchez@gmail.com",
-        "phone": "+54 2223672794",
+        "phone": "(54) 1149700126",
         "location": {
             "country": "Argentina",
-            "city": "La Plata",
-            "state": "Buenos Aires"
+            "city": "Buenos Aires",
+            "state": ""
         },
         "linkedin": "",
         "website": "",
         "portfolio": "",
-        "summary": ""
+        "summary": "Desarrollador Front-end."
     },
     "work_experience": [
         {
-            "job_title": "Customer Service Specialist",
-            "company": "ARMATIS",
-            "location": "Porto, Portugal",
-            "start_date": "2023-01-01",
-            "end_date": "2023-06-01",
-            "currently_working": false,
+            "job_title": "Desarrollador Front-end",
+            "company": "Freelance",
+            "location": "Buenos Aires",
+            "start_date": "2022-02-01",
+            "end_date": "",
+            "currently_working": true,
             "responsibilities": [
-                "Brindé soporte técnico de primer nivel y realicé un análisis exhaustivo de los datos para identificar áreas de mejora en los procesos de servicio al cliente.",
-                "Combiné habilidades en atención al cliente con enfoque analítico para resolver problemas complejos y mejorar la experiencia del usuario."
+                "Desarrollo de landings y newsletters para clientes particulares.",
+                "Consultoría, mantenimiento y actualizaciones para Frontaly y CMS Para de manera freelance."
             ],
             "achievements": [],
             "repository_url": ""
         },
         {
-            "job_title": "Software Developer",
-            "company": "Advanced Software SA",
-            "location": "Buenos Aires, Argentina",
-            "start_date": "2021-04-01",
-            "end_date": "2022-11-01",
-            "currently_working": false,
+            "job_title": "Desarrollador Front-end",
+            "company": "CMS Para",
+            "location": "Buenos Aires",
+            "start_date": "2022-02-01",
+            "end_date": "",
+            "currently_working": true,
             "responsibilities": [
-                "Desarrollé y mantuve soluciones web aplicando tecnologías como PHP (Symfony), MySQL, jQuery, Python, FastAPI y React.",
-                "Colaboré con equipos multidisciplinarios para desarrollar y entregar proyectos de software a tiempo."
+                "Desarrollo Front-end para su home y para los sitios integrados con CMS Para utilizando principalmente HTML5, CSS3, JavaScript y AMP."
             ],
             "achievements": [],
             "repository_url": ""
         },
         {
-            "job_title": "Gestor de Producción",
-            "company": "Miralejos SA",
-            "location": "Buenos Aires, Argentina",
-            "start_date": "2011-03-01",
-            "end_date": "2017-06-01",
+            "job_title": "Desarrollador Front-end",
+            "company": "Frontaly",
+            "location": "Buenos Aires",
+            "start_date": "2017-06-01",
+            "end_date": "2022-01-31",
             "currently_working": false,
             "responsibilities": [
-                "Realicé gestión integral de procesos productivos, supervisando equipos y fomentando mejora continua.",
-                "Lideré procesos de producción asegurando cumplimiento de objetivos de calidad y tiempo."
+                "Desarrollo Front-end, principalmente a cargo de la maquetación entera de las páginas, usualmente portales de medios y diarios digitales."
             ],
             "achievements": [],
             "repository_url": ""
@@ -60,55 +58,42 @@
     ],
     "education": [
         {
-            "degree": "Licenciatura en Redes y Comunicación de Datos",
-            "institution": "Universidad de Palermo",
-            "location": "Buenos Aires, Argentina",
-            "start_date": "",
-            "end_date": "",
-            "hours": 0
-        },
-        {
-            "degree": "Analista de Sistemas",
-            "institution": "IDEI",
-            "location": "",
-            "start_date": "",
-            "end_date": "2010-12-01",
+            "degree": "",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "Buenos Aires",
+            "start_date": "2016-01-01",
+            "end_date": "2016-12-31",
             "hours": 0
         }
     ],
     "skills": {
         "keywords": {
             "technical": [
-                "php",
-                "symfony",
-                "mysql",
+                "html5",
+                "amp",
+                "css3",
+                "javascript",
                 "jquery",
-                "python",
-                "fastapi",
-                "react"
+                "tailwind"
             ],
-            "soft": [
-                "customer-service",
-                "analytical-thinking",
-                "problem-solving"
-            ],
+            "soft": [],
             "tools": []
         },
         "detailed": {
-            "technical": {},
-            "soft": {}
+            "technical": [],
+            "soft": []
         }
     },
     "certifications": [],
     "projects": [],
     "languages": [
         {
-            "language": "English",
-            "proficiency": "B2"
+            "language": "Español",
+            "proficiency": "Nativo"
         },
         {
-            "language": "Portuguese",
-            "proficiency": "A2"
+            "language": "Inglés",
+            "proficiency": "B2"
         }
     ],
     "volunteer_experience": [],

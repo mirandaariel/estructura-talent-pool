@@ -1,0 +1,136 @@
+{
+    "personal_info": {
+        "first_name": "Sandro",
+        "last_name": "Ramirez",
+        "email": "andresfespitia2001@gmail.com",
+        "phone": "+598 094095078",
+        "location": {
+            "country": "Uruguay",
+            "city": "Montevideo",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/sandro-ramitez",
+        "website": "https://ramirezsandro.com",
+        "portfolio": "",
+        "summary": "Desarrollador FULLSTACK con 2 años de experiencia en entornos ágiles, especializado en la creación de soluciones escalables y eficientes, aplicando buenas prácticas como la metodología SOLID. Además de mis habilidades técnicas, tengo un fuerte enfoque en el diseño y la usabilidad, garantizando interfaces intuitivas y atractivas para una mejor experiencia del usuario. Busco nuevos desafíos donde pueda seguir creciendo y aportar mis conocimientos en desarrollo web."
+    },
+    "work_experience": [
+        {
+            "job_title": "FullStack Developer",
+            "company": "Baufest",
+            "location": "",
+            "start_date": "2022-08-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementé mejoras clave en el sistema, optimizando flujos de trabajo y desarrollando nuevas funcionalidades.",
+                "Utilicé Angular y Bootstrap para crear componentes responsivos y formularios interactivos que facilitaron la gestión de órdenes y el seguimiento de envíos.",
+                "Trabajé con .NET, aplicando los principios de SOLID y Clean Architecture, desarrollando servicios API RESTful integrados con otros sistemas internos.",
+                "Optimicé consultas y procedimientos almacenados en SQL Server para mejorar el acceso a los datos.",
+                "Realicé pruebas de integración con Postman para asegurar la compatibilidad entre sistemas internos."
+            ],
+            "achievements": [
+                "Desarrollé una aplicación para el Mundial de Qatar 2022 utilizada por más de 400 empleados, permitiéndoles hacer predicciones y participar en apuestas amistosas."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Cursando el primer semestre de la carrera de Ingeniería",
+            "institution": "Facultad de Ingeniería - UDeLaR",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "typescript",
+                "net",
+                "next",
+                "angular",
+                "node.js",
+                "sql-server",
+                "mongo-db",
+                "python"
+            ],
+            "soft": [],
+            "tools": [
+                "postman",
+                "octopus",
+                "teamcity",
+                "bootstrap",
+                "git"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "ASP .NET Core - Solid and Clean Architecture",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "SQL Server: Desde Cero a Nivel Profesional",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Angular: De cero a experto",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Java & React Bootcamp",
+            "issuing_organization": "Baufest",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "User Experience (UX) Design",
+            "issuing_organization": "Google",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Python Jóvenes a Programar",
+            "issuing_organization": "Plan Ceibal",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": ".NET Jóvenes a Programar",
+            "issuing_organization": "Plan Ceibal",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

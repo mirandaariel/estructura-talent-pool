@@ -1,9 +1,9 @@
 {
     "personal_info": {
-        "first_name": "Jam",
-        "last_name": "Molina Salazar",
+        "first_name": "Jonathan",
+        "last_name": "Barroso",
         "email": "jammolinasalazar@gmail.com",
-        "phone": "+57 3046009256",
+        "phone": "",
         "location": {
             "country": "",
             "city": "",
@@ -12,21 +12,22 @@
         "linkedin": "",
         "website": "",
         "portfolio": "",
-        "summary": "Desarrollador de software con experiencia en automatización de procesos, desarrollo web y visualización de datos. Especializado en diseñar soluciones tecnológicas que optimizan la productividad y mejoran flujos de trabajo. Me destaco por mi capacidad de análisis, atención al detalle y enfoque en la creación de herramientas eficientes, confiables y personalizadas, impulsando la transformación digital y el éxito operativo."
+        "summary": "Desarrollador web apasionado con experiencia en tecnologías Frontend como React.js, HTML, CSS y Backend con Python. Enfocado en crear soluciones dinámicas y escalables con un fuerte interés en el aprendizaje continuo y la resolución de problemas. Busco una oportunidad para aplicar mis habilidades en un entorno profesional y contribuir al crecimiento de proyectos reales."
     },
     "work_experience": [
         {
-            "job_title": "Desarrollador",
-            "company": "Grupo Nutresa - Pastas Comarrico",
+            "job_title": "Desarrollador Web React",
+            "company": "Freelance",
             "location": "",
-            "start_date": "2024-07-01",
-            "end_date": "2024-12-31",
-            "currently_working": false,
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
             "responsibilities": [
-                "Implementé soluciones innovadoras, brindando soporte técnico y mantenimiento a aplicaciones.",
-                "Optimizé el desempeño de aplicaciones, adaptándolas a nuevas necesidades del negocio.",
-                "Automatizé la generación y actualización de reportes en el proceso de ingeniería y montaje.",
-                "Renové el portal de ventas para empleados, facilitando la gestión de pedidos."
+                "Desarrollo de aplicaciones web interactivas utilizando React.js.",
+                "Implementación de funcionalidades front-end con HTML5, CSS3 y JavaScript.",
+                "Diseño y desarrollo de interfaces de usuario responsivas y accesibles.",
+                "Implementación de componentes reutilizables y mantenibles con React.js.",
+                "Optimización de rendimiento de la página web, reduciendo tiempos de carga y mejorando la experiencia del usuario."
             ],
             "achievements": [],
             "repository_url": ""
@@ -34,76 +35,51 @@
     ],
     "education": [
         {
-            "degree": "Ingeniería de Software",
-            "institution": "Politécnico Costa Atlántica",
+            "degree": "Curso de SQL",
+            "institution": "Udemy",
             "location": "",
-            "start_date": "2024-01-01",
+            "start_date": "2025-01-01",
             "end_date": "",
             "hours": 0
         },
         {
-            "degree": "Análisis y Desarrollo de Software",
-            "institution": "SENA (Servicio nacional de aprendizaje)",
+            "degree": "Curso de Python",
+            "institution": "Udemy",
             "location": "",
-            "start_date": "2023-01-01",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso de Asistente Virtual",
+            "institution": "Consultora Sinergia RHDigital",
+            "location": "",
+            "start_date": "2024-01-01",
             "end_date": "2024-12-31",
             "hours": 0
         },
         {
-            "degree": "Desarrollo de Software (Técnico)",
-            "institution": "SENA (Servicio nacional de aprendizaje)",
-            "location": "",
-            "start_date": "2020-01-01",
-            "end_date": "2022-12-31",
-            "hours": 0
-        },
-        {
-            "degree": "Bachillerato",
-            "institution": "I.D.E Los Laureles (Institución educativa distrital)",
+            "degree": "Carrera de Desarrollo Web React",
+            "institution": "Coderhouse",
             "location": "",
             "start_date": "2022-01-01",
-            "end_date": "",
+            "end_date": "2022-12-31",
             "hours": 0
         }
     ],
     "skills": {
         "keywords": {
             "technical": [
-                "javascript",
-                "python",
-                "java",
-                "php",
-                "appscript",
-                "laravel",
-                "nestjs",
-                "typescript",
-                "node.js",
-                "express.js",
+                "react.js",
                 "html",
                 "css",
-                "bootstrap",
-                "oracle-sql"
+                "python"
             ],
             "soft": [
-                "comunicación-efectiva",
-                "resolución-práctica-de-problemas",
-                "trabajo-en-equipo",
-                "gestión-eficiente-del-tiempo",
-                "adaptabilidad"
+                "resolución-de-problemas",
+                "aprendizaje-continuo"
             ],
-            "tools": [
-                "power-bi",
-                "looker-studio",
-                "git",
-                "github",
-                "google-workspace",
-                "docs",
-                "drive",
-                "excel",
-                "sheets",
-                "scrum",
-                "kanban"
-            ]
+            "tools": []
         },
         "detailed": {
             "technical": [],
@@ -112,7 +88,20 @@
     },
     "certifications": [],
     "projects": [],
-    "languages": [],
+    "languages": [
+        {
+            "language": "Castellano",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2+"
+        },
+        {
+            "language": "Portugués",
+            "proficiency": "Básico"
+        }
+    ],
     "volunteer_experience": [],
     "publications": [],
     "references": []
