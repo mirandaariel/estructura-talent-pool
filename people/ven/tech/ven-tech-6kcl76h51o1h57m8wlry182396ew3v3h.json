@@ -1,0 +1,142 @@
+{
+    "personal_info": {
+        "first_name": "Susana",
+        "last_name": "Charara",
+        "email": "andres031217@gmail.com",
+        "phone": "+584142389786",
+        "location": {
+            "country": "Venezuela",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/susanacharara",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Consultor iOS",
+            "company": "Brocsoft",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ingeniera de Software | Desarrolladora iOS",
+            "company": "Digitalica Group",
+            "location": "",
+            "start_date": "2017-11-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Aplicaciones desarrolladas tanto en Swift como en Objective-C",
+                "Uso de Core Data para la persistencia de datos local",
+                "Integración con API REST",
+                "Monitoreo regular de la estabilidad de las aplicaciones, reporte de crashes y corrección de bugs",
+                "Actualizaciones constantes para adaptar la aplicaciones a las últimas versiones de iOS y dispositivos actuales",
+                "Adaptación de la interfaz de usuario a dispositivos de todos los tamaños, incluyendo iPod Touch, iPhone y iPad",
+                "Uso de Bitrise para automatización de builds",
+                "Configuración remota de aplicaciones ya disponibles en la App Store",
+                "Implementación de In-App Purchases",
+                "Publicación de aplicaciones a la App Store conforme a los lineamientos de Apple"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrolladora iOS",
+            "company": "TheGrint",
+            "location": "",
+            "start_date": "2022-12-01",
+            "end_date": "2023-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Trabajé como parte del equipo de desarrollo en una de las aplicaciones más usadas por golfistas en Estados Unidos",
+                "Colaboré en la implementación de nuevas funcionalidades y corrección de bugs"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ingeniera de Software | Desarrolladora Android",
+            "company": "Digitalica Group",
+            "location": "",
+            "start_date": "2016-04-01",
+            "end_date": "2017-11-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una aplicación que cumplía como asistente en el registro de scores del juego de mesa 7 Wonders Duel",
+                "Como pasante, desarrollé una aplicación de registro de gastos en Java, así como un API, con la finalidad de ser utilizado internamente por los trabajadores de la compañía"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero de la Computación",
+            "institution": "Universidad Simón Bolívar",
+            "location": "Venezuela",
+            "start_date": "2013-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "swift",
+                "objective-c",
+                "foundation",
+                "core-data",
+                "ui-kit",
+                "store-kit",
+                "webkit",
+                "git",
+                "bitbucket",
+                "github",
+                "firebase-crashlytics",
+                "firebase-remote-config",
+                "bitrise"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "resolución-de-problemas",
+                "pasión-por-el-aprendizaje",
+                "honestidad",
+                "respeto",
+                "actitud-positiva"
+            ],
+            "tools": [
+                "cocoapods",
+                "jira",
+                "metodologías-ágiles",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

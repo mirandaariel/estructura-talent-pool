@@ -1,48 +1,31 @@
 {
     "personal_info": {
-        "first_name": "Alejandro",
-        "last_name": "Godoy",
+        "first_name": "LiléN",
+        "last_name": "Romano",
         "email": "alegodoy03@hotmail.com",
-        "phone": "",
+        "phone": "+54 1124648319",
         "location": {
             "country": "Argentina",
-            "city": "Buenos Aires (GBA)",
-            "state": ""
+            "city": "CABA",
+            "state": "Buenos Aires"
         },
         "linkedin": "",
-        "website": "https://github.com/GodoyAlejandro",
+        "website": "",
         "portfolio": "",
-        "summary": "Desarrollador Front End con experiencia en soporte técnico y liderazgo de equipos. Con habilidades en atención al cliente, resolución de problemas y gestión de proyectos."
+        "summary": "He desarrollado desde sitios web simples hasta aplicaciones web más complejas usando Spring Boot y el patrón MVC. Estoy comprometida con el aprendizaje continuo y busco desafíos que me permitan crecer como desarrollador."
     },
     "work_experience": [
         {
-            "job_title": "Team Leader",
-            "company": "ACC Group",
-            "location": "Ciudad Autónoma de Buenos Aires, Argentina",
-            "start_date": "2024-02-01",
-            "end_date": "2025-01-31",
-            "currently_working": false,
+            "job_title": "Desarrollo Web",
+            "company": "Digital House",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
             "responsibilities": [
-                "Manejo de equipos",
-                "Optimización de procesos",
-                "Manejo de adherencia por hora",
-                "QA"
-            ],
-            "achievements": [],
-            "repository_url": ""
-        },
-        {
-            "job_title": "Soporte Técnico N1",
-            "company": "ACC Group",
-            "location": "Ciudad Autónoma de Buenos Aires, Argentina",
-            "start_date": "2023-02-01",
-            "end_date": "2024-02-01",
-            "currently_working": false,
-            "responsibilities": [
-                "Atención al cliente",
-                "Manejo de objeciones",
-                "Control de métricas",
-                "Ventas de servicios adicionales"
+                "Full-stack Coding Challenge #1: Creé una aplicación web utilizando React y Vite para el sector HealthCare. Implementé gestión de estado, integración de APIs, enrutamiento y manejo de formularios.",
+                "Front-end Coding Challenge #3: Participé en un desafío enfocado en mejorar mis habilidades en React y desarrollo web interactivo.",
+                "Back-end Coding Challenge #1: Desarrollé una aplicación full stack en Java con Spring Boot y Jakarta EE."
             ],
             "achievements": [],
             "repository_url": ""
@@ -50,19 +33,11 @@
     ],
     "education": [
         {
-            "degree": "",
-            "institution": "Coderhouse",
+            "degree": "Certificación en Programación y Desarrollo de Productos Digitales",
+            "institution": "",
             "location": "",
-            "start_date": "2022-03-01",
-            "end_date": "2022-09-01",
-            "hours": 0
-        },
-        {
-            "degree": "",
-            "institution": "Centro de Formación Profesional 21",
-            "location": "Ciudad Autónoma de Buenos Aires, Argentina",
-            "start_date": "2020-03-01",
-            "end_date": "2021-07-01",
+            "start_date": "2022-07-01",
+            "end_date": "2024-04-30",
             "hours": 0
         }
     ],
@@ -72,36 +47,57 @@
                 "html",
                 "css",
                 "javascript",
-                "react-js",
-                "react-native",
-                "sass",
-                "node-js"
+                "react",
+                "next.js",
+                "node.js",
+                "express.js",
+                "java",
+                "springboot",
+                "springmvc",
+                "springdata",
+                "springsecurity",
+                "springcloud",
+                "hibernate",
+                "mysql",
+                "h2",
+                "postgresql",
+                "sql",
+                "mongodb"
             ],
-            "soft": [],
+            "soft": [
+                "trabajo-en-equipo",
+                "comunicación",
+                "mentalidad-profesional",
+                "aprendizaje-ágil"
+            ],
             "tools": [
-                "excel",
-                "gb",
-                "freebase",
+                "git",
+                "github",
+                "trello",
+                "jira",
                 "figma",
-                "adobe-premiere",
-                "after-effects"
+                "vite",
+                "ansible",
+                "aws-ec2",
+                "terraform"
             ]
         },
-        "detailed": {
-            "technical": {},
-            "soft": {}
-        }
+        "detailed": []
     },
     "certifications": [],
     "projects": [],
     "languages": [
         {
             "language": "Español",
-            "proficiency": "Native or Bilingual Proficiency"
+            "proficiency": "Native"
         },
         {
-            "language": "Ingles",
-            "proficiency": "Professional Working Proficiency"
+            "language": "Inglés",
+            "proficiency": "Intermediate"
+        },
+        {
+            "language": "Italiano",
+            "proficiency": "Basic"
         }
     ],
     "volunteer_experience": [],

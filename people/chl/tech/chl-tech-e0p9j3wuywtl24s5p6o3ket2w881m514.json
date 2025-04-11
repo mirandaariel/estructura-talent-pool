@@ -1,0 +1,140 @@
+{
+    "personal_info": {
+        "first_name": "Anahi Constanza",
+        "last_name": "Vera Rogel",
+        "email": "diegomiras93@gmail.com",
+        "phone": "+56982909409",
+        "location": {
+            "country": "Chile",
+            "city": "Dalcahue",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/anahi-vera-rogel",
+        "website": "https://github.com/AnahiVera",
+        "portfolio": "https://portfolio-lovat-nu-77.vercel.app/",
+        "summary": "Bilingual Full Stack Developer with training in technologies such as JavaScript, React, Python, and Flask, certified by 4Geeks Academy. Combines technical skills with experience in administration and human resources, developing organization, attention to detail, and adaptability. Seeking opportunities in web development."
+    },
+    "work_experience": [
+        {
+            "job_title": "Administrative Secretary",
+            "company": "Comercial Dayenú Ltda",
+            "location": "",
+            "start_date": "0000-01-01",
+            "end_date": "0000-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Provided administrative support, organized schedules, and managed correspondence.",
+                "Organized and maintained physical and electronic files, performed data entry tasks, and updated databases related to projects, expenses, and payments.",
+                "Customer service. Managed supplies, logistics, and inventory."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Human Resources Assistant",
+            "company": "Oficina Contable 'Claudia Moya'",
+            "location": "",
+            "start_date": "0000-01-01",
+            "end_date": "0000-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Supported drafting contracts and labor annexes in compliance with current legislation.",
+                "Updated platforms with contractual data, generated payrolls, drafted dismissal letters, notifications, and vacation confirmations.",
+                "Created purchase-sale and service invoices."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Modern Web Development",
+            "institution": "University of Helsinki",
+            "location": "Helsinki, Finlandia",
+            "start_date": "2024-02-01",
+            "end_date": "0000-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack software developer",
+            "institution": "4Geeks Academy",
+            "location": "",
+            "start_date": "0000-01-01",
+            "end_date": "0000-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "English Teacher and Bachelor of Education",
+            "institution": "Universidad Católica de Temuco",
+            "location": "",
+            "start_date": "0000-01-01",
+            "end_date": "0000-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react",
+                "python",
+                "flask",
+                "sql",
+                "api-rest",
+                "html",
+                "css",
+                "node.js/express",
+                "mongodb"
+            ],
+            "soft": [
+                "organization",
+                "attention-to-detail",
+                "adaptability"
+            ],
+            "tools": [
+                "postman",
+                "git",
+                "jwt",
+                "cloudinary"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Flash Jobs, Webpage y API",
+            "description": "Implemented a secure authentication system using JWT Authentication in Flask, allowing users to register, log in, and manage their profiles securely.",
+            "technologies": [
+                "JWT",
+                "Flask",
+                "React",
+                "Bootstrap"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Starwars Blog Model",
+            "description": "Built a minimalist version of the Star Wars Databank. Implemented Bootstrap and CSS components for design and created a favorites system.",
+            "technologies": [
+                "React",
+                "Bootstrap",
+                "SWAPI API"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,86 +1,37 @@
 {
     "personal_info": {
-        "first_name": "Ingrid",
-        "last_name": "Bianchi",
+        "first_name": "Daniel",
+        "last_name": "Ortiz",
         "email": "bianchi.ingrid204@gmail.com",
-        "phone": "3434648300",
+        "phone": "+57 3002874116",
         "location": {
             "country": "",
             "city": "",
             "state": ""
         },
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/in/danielortiz12/",
         "website": "",
         "portfolio": "",
-        "summary": "Soy una desarrolladora full-stack con una sólida base en marketing digital y diseño UX/UI. Mi experiencia abarca desde el desarrollo de aplicaciones web hasta la creación de estrategias de marketing digital efectivas. Con habilidades en lenguajes como PHP, JavaScript y frameworks como Laravel y Symfony, estoy capacitada para liderar proyectos complejos y entregar soluciones innovadoras. Mi enfoque en la excelencia y la atención al detalle me permiten superar las expectativas de mis clientes y generar resultados tangibles en cada proyecto."
+        "summary": "Desarrollador de software con más de 2 años de experiencia en el desarrollo de aplicaciones web utilizando PHP, Laravel, JavaScript, React y Next.js. Especializado en crear páginas web sólidas con las últimas tecnologías. Comprometido a entregar resultados que mejoren el entorno de trabajo."
     },
     "work_experience": [
         {
-            "job_title": "Desarrollador full stack",
-            "company": "Proyecto personal",
+            "job_title": "Desarrollador FullStack",
+            "company": "Fundación Universitaria Tecnológico Comfenalco",
             "location": "",
-            "start_date": "",
-            "end_date": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
             "currently_working": false,
             "responsibilities": [
-                "Implementé sistema de autenticación de usuarios con PHP nativo.",
-                "Diseñé base de datos relacional en MySQL con normalización de tablas.",
-                "Dockericé la aplicación para despliegue portable (Nginx + PHP-FPM)."
-            ],
-            "achievements": [],
-            "repository_url": "https://github.com/IngridBianchi/blog-videogame"
-        },
-        {
-            "job_title": "Social Media Manager",
-            "company": "La Atlántida al descubierto",
-            "location": "",
-            "start_date": "",
-            "end_date": "",
-            "currently_working": false,
-            "responsibilities": [
-                "Desarrollo y mantenimiento de la página web.",
-                "Gestión de redes sociales y creación de contenido."
-            ],
-            "achievements": [],
-            "repository_url": ""
-        },
-        {
-            "job_title": "Social Media Manager",
-            "company": "Latinoamérica Exporta",
-            "location": "",
-            "start_date": "",
-            "end_date": "",
-            "currently_working": false,
-            "responsibilities": [
-                "Desarrollo de funcionalidades back-end y front-end.",
-                "Gestión de redes sociales y estrategias de marketing digital."
-            ],
-            "achievements": [],
-            "repository_url": ""
-        },
-        {
-            "job_title": "Copywriting",
-            "company": "M y A Comunicaciones",
-            "location": "",
-            "start_date": "",
-            "end_date": "",
-            "currently_working": false,
-            "responsibilities": [
-                "Redacción y desarrollo para tres cuentas: Atelier de arte \"Da Vinci\", Gimnasio \"Colonia Hit Gim\", Instituto Superior de Capacitación Empresarial"
-            ],
-            "achievements": [],
-            "repository_url": ""
-        },
-        {
-            "job_title": "Community Manager y Desarrolladora Web",
-            "company": "Artemex",
-            "location": "",
-            "start_date": "",
-            "end_date": "",
-            "currently_working": false,
-            "responsibilities": [
-                "Programación de contenido en redes y en su página web mediante WordPress.",
-                "Desarrollo de nuevas funcionalidades y optimización del sitio web."
+                "Desarrollar aplicaciones web con PHP (Laravel) y JavaScript (React, Next.js)",
+                "Crear interfaces dinámicas y responsivas con React y Next.js",
+                "Construir APIs RESTful y servicios backend en Laravel",
+                "Optimizar y mantener código existente, solucionando bugs y mejorando rendimiento",
+                "Diseñar y gestionar bases de datos relacionales",
+                "Implementar nuevas funcionalidades en frontend y backend",
+                "Ejecutar pruebas unitarias e integración en PHP y JavaScript",
+                "Gestionar el código con Git y colaborar en equipos de desarrollo",
+                "Desplegar y configurar aplicaciones en servidores o plataformas cloud"
             ],
             "achievements": [],
             "repository_url": ""
@@ -88,87 +39,71 @@
     ],
     "education": [
         {
-            "degree": "Técnica en Marketing",
-            "institution": "Universidad Autónoma de Entre Ríos Facultad de Ciencias de la Gestión",
+            "degree": "Ingeniería de Sistemas",
+            "institution": "Fundación Universitaria Tecnológico Comfenalco",
             "location": "",
-            "start_date": "",
-            "end_date": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
             "hours": 0
         },
         {
-            "degree": "Diseñadora UX/UI",
-            "institution": "Google Coursera",
+            "degree": "Tecnología en Desarrollo de Software",
+            "institution": "Fundación Universitaria Tecnológico Comfenalco",
             "location": "",
-            "start_date": "",
-            "end_date": "",
-            "hours": 0
-        },
-        {
-            "degree": "Gestión de Redes Sociales",
-            "institution": "Meta Coursera",
-            "location": "",
-            "start_date": "",
-            "end_date": "",
+            "start_date": "2020-01-01",
+            "end_date": "2022-12-31",
             "hours": 0
         }
     ],
     "skills": {
         "keywords": {
             "technical": [
-                "diseño-y-desarrollo-de-aplicaciones-y-paginas-web",
-                "análisis-de-datos-y-métricas",
-                "scraping-y-automatización",
-                "estrategias-de-marketing-digital",
-                "investigación-de-mercado-y-tendencias",
-                "copywriting",
-                "seo-sem",
-                "javascript",
-                "html",
-                "css",
                 "php",
-                "react-native",
-                "dom",
-                "ajax",
-                "redux",
-                "node.js"
-            ],
-            "soft": [],
-            "tools": [
+                "javaScript",
                 "laravel",
-                "selenium",
-                "filament",
-                "google-api-client",
-                "inertiajs",
-                "symfony",
-                "tightenco-ziggy",
-                "figma",
-                "wordpress",
-                "elementor",
-                "photoshop",
-                "illustrator",
-                "canva",
-                "capcut",
-                "hootsuite",
-                "buffer",
-                "meta-business",
-                "facebook-ads",
-                "instagram-ads",
-                "google-ads",
-                "mailchimp",
-                "wix"
-            ]
+                "react",
+                "next.js",
+                "postgresql",
+                "restful",
+                "git"
+            ],
+            "soft": [
+                "resolución-de-problemas",
+                "proactividad",
+                "aprendizaje-continuo",
+                "comunicación-efectiva"
+            ],
+            "tools": []
         },
-        "detailed": {}
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
     },
     "certifications": [],
     "projects": [],
     "languages": [
         {
-            "language": "English",
-            "proficiency": "B2"
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Nivel básico"
         }
     ],
     "volunteer_experience": [],
     "publications": [],
-    "references": []
+    "references": [
+        {
+            "name": "Julio Orozco Mattos",
+            "relationship": "Coordinador de desarrollo de software",
+            "contact": "coord.cedesoft@tecnologicocomfenalco.edu.co"
+        },
+        {
+            "name": "Juan Carlos Ceballos",
+            "relationship": "Docente de desarrollo de software",
+            "contact": "juan.ceballos@tecnologicocomfenalco.edu.co"
+        }
+    ]
 }

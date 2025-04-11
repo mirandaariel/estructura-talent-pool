@@ -1,0 +1,179 @@
+{
+    "personal_info": {
+        "first_name": "Sebastián",
+        "last_name": "Escobar Osorio",
+        "email": "emiliovianconi@gmail.com",
+        "phone": "+57 3148098109",
+        "location": {
+            "country": "Colombia",
+            "city": "Medellín",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero de Telecomunicaciones con estudios en Desarrollo Web. Conocimientos y habilidades para el desarrollo, creación y mantenimiento de sitios y aplicaciones web a través del uso de lenguajes, frameworks/librerías y herramientas como: JavaScript, HTML, CSS, React.js, React Testing Library, Jest, Material UI, C#, Go, Node.js y bases con SQL. Experiencia en desarrollo de aplicaciones web, web scraping y proyectos colaborativos en desarrollo de prototipos para videojuegos, programando checkpoints o puntos de control, interfaces y animación. Capacidad para resolver problemas lógicos, pensamiento creativo, aprendizaje continuo y trabajo colaborativo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Aprendiz Desarrollo Cloud",
+            "company": "",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Automatización de procesos para evaluar buenas prácticas en usuarios de AWS utilizando python",
+                "Revisión y monitoreo de procesos"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador de videojuegos freelance",
+            "company": "",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2023-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Participación en proyectos colaborativos de desarrollo para videojuegos.",
+                "Desarrollo de dos prototipos de videojuego utilizando lenguaje Unity C#, apoyando en la programación de checkpoints, animación de personajes, movimientos, desplazamientos y diseño de interfaz de usuario.",
+                "Desarrollo de juego interactivo de habilidad mental utilizando Unity C#, apoyando en la programación de mecánicas, animaciones, puntajes, interfaz de usuario y mantenimiento de bugs."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador web freelance",
+            "company": "",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2023-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Participación en proyectos colaborativos de desarrollo para videojuegos.",
+                "Desarrollo de dos prototipos de videojuego utilizando lenguaje Unity C#, apoyando en la programación de checkpoints, animación de personajes, movimientos, desplazamientos y diseño de interfaz de usuario.",
+                "Desarrollo de juego interactivo de habilidad mental utilizando Unity C#, apoyando en la programación de mecánicas, animaciones, puntajes, interfaz de usuario y mantenimiento de bugs."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador web",
+            "company": "Talent.com",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollar scripts por medio de JavaScript, con el fin de extraer información relevante del mercado.",
+                "Generar consumo de APIs y manejo del DOM.",
+                "Realizar mantenimiento de código asegurando un adecuado funcionamiento.",
+                "Resolución de tickets de QA con clientes internos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador frontend",
+            "company": "PROTALENTO/ ACÁMICA",
+            "location": "",
+            "start_date": "2021-04-01",
+            "end_date": "2022-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Proceso formativo para el desarrollo de conocimientos y habilidades en programación frontend.",
+                "Desarrollo de una landing page de podcast responsiva utilizando HTML y CSS. A cargo del maquetado de menú, secciones y diseño de íconos.",
+                "Creación de una aplicación para la búsqueda de gifts por medio de React con consumo de la API giphy. Diseño del buscador y pruebas unitarias con Jest y React Testing Library.",
+                "Desarrollo de una aplicación \"Pokedex\" que permite al usuario hacer búsqueda de pokemones con su respectiva descripción y evolución. Consumo de pokeAPI y uso de JavaScript y la librería Axios.",
+                "Desarrollo de un prototipo de aplicación para generar reservas de transporte utilizando JavaScript, Go y bases de datos con PostgreSQL. Diseño del home, sección de registro, buscador con elección de preferencias y reporte de reserva."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Telecomunicaciones",
+            "institution": "Universidad de Antioquia",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador web frontend",
+            "institution": "Acámica",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo de videojuegos con C# II",
+            "institution": "Ubicua/Universidad de Antioquia",
+            "location": "",
+            "start_date": "",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo de videojuegos con C# I",
+            "institution": "Ubicua/Universidad de Antioquia",
+            "location": "",
+            "start_date": "",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html",
+                "css",
+                "c#",
+                "react.js",
+                "react-testing-library",
+                "jest",
+                "material-ui",
+                "node.js",
+                "sql"
+            ],
+            "soft": [
+                "problem-solving",
+                "creative-thinking",
+                "continuous-learning",
+                "collaborative-work"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "word",
+                "excel",
+                "power-point",
+                "canvas"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

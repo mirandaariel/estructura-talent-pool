@@ -1,31 +1,51 @@
 {
     "personal_info": {
-        "first_name": "Edson Orlando",
-        "last_name": "Castañeda Urrego",
+        "first_name": "",
+        "last_name": "",
         "email": "dedsoncasta07@gmail.com",
-        "phone": "+57 3166286118",
+        "phone": "+57 3222185133",
         "location": {
             "country": "Colombia",
-            "city": "Bogotá",
+            "city": "Bogotá D.C",
             "state": ""
         },
-        "linkedin": "https://www.linkedin.com/in/edsoncasta/",
-        "website": "https://github.com/EdsonCasta",
+        "linkedin": "",
+        "website": "",
         "portfolio": "",
-        "summary": "Desarrollador Full Stack especializado en el desarrollo tanto Front-end como Back-end, combinando un enfoque centrado en el usuario con soluciones técnicas robustas. Experiencia en metodologías ágiles y gestión de versiones con Git."
+        "summary": ""
     },
     "work_experience": [
         {
-            "job_title": "Desarrollador Fullstack (Freelance)",
-            "company": "Repuestos en Línea",
-            "location": "",
-            "start_date": "2024-09-01",
-            "end_date": "2024-12-31",
-            "currently_working": true,
+            "job_title": "Analista QA",
+            "company": "Cámara de Comercio de Bogotá",
+            "location": "Hibrido",
+            "start_date": "2023-10-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
             "responsibilities": [
-                "Diseñó e implementó la estructura de frontend usando React y Next.js.",
-                "Implementó un sistema de carrusel y un widget de chat de WhatsApp.",
-                "Desarrolló un diseño responsivo con Tailwind CSS."
+                "Apliqué habilidades en el proceso de pruebas automáticas y manuales.",
+                "Verifiqué la funcionalidad y calidad del software.",
+                "Documenté procedimientos de prueba y resultados.",
+                "Utilicé Azure DevOps para gestionar el ciclo de vida de las pruebas.",
+                "Usé SQL para consultas de información del aplicativo."
+            ],
+            "achievements": [
+                "Optimización de los procesos de pruebas de calidad manuales.",
+                "Lideré sesiones de inducción para nuevos practicantes."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Documentador y desarrollador web",
+            "company": "Neurona S.A.S",
+            "location": "Remoto",
+            "start_date": "2021-10-01",
+            "end_date": "2023-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboré en la documentación del sistema ofrecido por la empresa.",
+                "Participé en el rediseño de la página web (diseño UI/UX).",
+                "Lideré etapas iniciales del proyecto de la página web en WordPress."
             ],
             "achievements": [],
             "repository_url": ""
@@ -33,74 +53,60 @@
     ],
     "education": [
         {
-            "degree": "Frontend (UX)",
-            "institution": "Colsubsidio y Cymetria Group S.A.S",
-            "location": "",
-            "start_date": "2024-09-01",
-            "end_date": "2024-10-31",
-            "hours": 80
-        },
-        {
-            "degree": "Full Stack Web Developer",
-            "institution": "Henry Bootcamp",
-            "location": "",
-            "start_date": "2024-01-01",
+            "degree": "Pregrado en ingeniería de software",
+            "institution": "Fundación Universitaria Empresarial de la Cámara de Comercio de Bogotá - Uniempresarial",
+            "location": "Bogotá D.C, Colombia",
+            "start_date": "2021-01-01",
             "end_date": "2024-12-31",
-            "hours": 800
-        },
-        {
-            "degree": "Tecnólogo Mecánico Industrial",
-            "institution": "Universidad ECCI",
-            "location": "",
-            "start_date": "2014-01-01",
-            "end_date": "2018-12-31",
             "hours": 0
         }
     ],
     "skills": {
         "keywords": {
             "technical": [
+                "css",
                 "javascript",
-                "node.js",
+                "typescript",
                 "react",
-                "express.js",
-                "postgresql"
+                "react-native",
+                "java",
+                "springboot",
+                "wordpress",
+                "sql",
+                "mongodb",
+                "azure-devops",
+                "selenium",
+                "ejecución-de-pruebas-manuales-y-automatizadas"
             ],
-            "soft": [
-                "communication",
-                "adaptability",
-                "teamwork"
-            ],
-            "tools": [
-                "git",
-                "slack",
-                "scrum"
-            ]
+            "soft": [],
+            "tools": []
         },
         "detailed": {
-            "technical": {},
-            "soft": {}
+            "technical": [],
+            "soft": []
         }
     },
-    "certifications": [],
-    "projects": [
+    "certifications": [
         {
-            "name": "Ebookspalace",
-            "description": "Plataforma de e-commerce dedicada a la venta de libros digitales, integrada con varias tecnologías para mejorar la experiencia del usuario.",
-            "technologies": ["react", "redux", "node.js", "express", "postgresql", "sequelize", "stripe", "auth0", "cloudinary", "localStorage", "toastify"],
-            "url": "https://ebooks-palace.vercel.app"
+            "name": "Oracle Next Education F2 TS Back-end",
+            "issuing_organization": "Alura",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
         },
         {
-            "name": "PI-Countries",
-            "description": "Aplicación web que permite explorar información detallada sobre países del mundo con filtros y funcionalidades interactivas.",
-            "technologies": ["react", "redux", "node.js", "express", "postgresql", "sequelize"],
-            "url": "https://pi-countries-t4qu.onrender.com"
+            "name": "Scrum Foundation Professional Certificate SFPC",
+            "issuing_organization": "CertiProf",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
         }
     ],
+    "projects": [],
     "languages": [
         {
             "language": "Inglés",
-            "proficiency": "B2 - Intermedio"
+            "proficiency": "B2"
         }
     ],
     "volunteer_experience": [],

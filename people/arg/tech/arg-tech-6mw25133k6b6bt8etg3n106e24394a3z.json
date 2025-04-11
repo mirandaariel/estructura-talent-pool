@@ -1,65 +1,41 @@
 {
     "personal_info": {
-        "first_name": "Nahuel",
-        "last_name": "Ezequiel Fragomeni",
+        "first_name": "Manuel",
+        "last_name": "Luna Domínguez",
         "email": "ezequielfragomeni@gmail.com",
-        "phone": "",
+        "phone": "654757787",
         "location": {
-            "country": "Argentina",
-            "city": "Buenos Aires",
+            "country": "",
+            "city": "",
             "state": ""
         },
-        "linkedin": "https://linkedin.com/in/nahuelfragomeni",
+        "linkedin": "",
         "website": "",
         "portfolio": "",
-        "summary": "Desarrollador Front-End en formación, aprendiendo front end y back end, explorando tecnologías modernas. Apasionado por crear experiencias. Estoy en constante aprendizaje."
+        "summary": "Desarrollador web enfocado al frontend, con experiencia en JavaScript DOM. Enfocado a la mejora y el crecimiento constante. Siempre aprendiendo nuevas tecnologías y lenguajes de programación."
     },
-    "work_experience": [],
+    "work_experience": [
+        {
+            "job_title": "Desarrollador web",
+            "company": "LRI Global",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Maquetación y diseño web con HTML5, CSS3 y Bootstrap5 de aplicaciones de gestión de usuarios y de control de pagos.",
+                "Dinamización de aplicaciones web con JavaScript vanilla y jQuery.",
+                "Diseño, desarrollo e implementación de BBDD (SQL)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
     "education": [
         {
-            "degree": "Bachillerato en Humanidades",
-            "institution": "E.E.S.N Solana del Monte",
-            "location": "",
-            "start_date": "",
-            "end_date": "",
-            "hours": 0
-        },
-        {
-            "degree": "Operador de Informática para Administración y Gestión",
-            "institution": "Centro de Formación Profesional 404",
-            "location": "",
-            "start_date": "",
-            "end_date": "",
-            "hours": 0
-        },
-        {
-            "degree": "Inglés",
-            "institution": "Cetae",
-            "location": "",
-            "start_date": "",
-            "end_date": "",
-            "hours": 0
-        },
-        {
-            "degree": "Armado y Reparación de PC",
-            "institution": "Cetae",
-            "location": "",
-            "start_date": "",
-            "end_date": "",
-            "hours": 0
-        },
-        {
-            "degree": "Desarrollador Front-End",
-            "institution": "Mimo",
-            "location": "",
-            "start_date": "",
-            "end_date": "",
-            "hours": 0
-        },
-        {
-            "degree": "Marketing Digital",
-            "institution": "Santander Open Academy Act 2024",
-            "location": "",
+            "degree": "Técnico Superior en Desarrollo de Aplicaciones Web",
+            "institution": "MEDAC Sevilla",
+            "location": "Sevilla",
             "start_date": "",
             "end_date": "",
             "hours": 0
@@ -68,24 +44,38 @@
     "skills": {
         "keywords": {
             "technical": [
-                "html",
-                "css",
-                "javascript"
+                "html5",
+                "css3",
+                "bootstrap5",
+                "sass",
+                "tailwind-css",
+                "javascript",
+                "ecmascript-ii",
+                "react",
+                "jquery",
+                "nodejs",
+                "astro",
+                "java",
+                "mvc",
+                "jdbc",
+                "rest",
+                "jvm",
+                "sql",
+                "php",
+                "git",
+                "github"
             ],
-            "soft": [],
-            "tools": [
-                "microsoft-office",
-                "adobe-suite",
-                "google-docs",
-                "vscode",
-                "linux",
-                "windows",
-                "macos"
-            ]
+            "soft": [
+                "trabajo-en-equipo",
+                "capacidad-resolutiva",
+                "mejora-constante",
+                "buenas-prácticas"
+            ],
+            "tools": []
         },
         "detailed": {
-            "technical": {},
-            "soft": {}
+            "technical": [],
+            "soft": []
         }
     },
     "certifications": [],
@@ -93,7 +83,7 @@
     "languages": [
         {
             "language": "Inglés",
-            "proficiency": ""
+            "proficiency": "B1"
         }
     ],
     "volunteer_experience": [],

@@ -1,0 +1,167 @@
+{
+    "personal_info": {
+        "first_name": "Diego",
+        "last_name": "Rejón Clemente",
+        "email": "torices.rafael@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Spain",
+            "city": "Valencia",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "drejon.com",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "HackaPet",
+            "location": "Valencia",
+            "start_date": "2023-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Principal full stack developer in the web application.",
+                "Mentor new members of the group, solving their doubts and teaching them.",
+                "Initialize the project with Docker and Vite. Designed and develop the API with Django."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Web Developer",
+            "company": "Imagina IT Solutions",
+            "location": "",
+            "start_date": "2023-06-01",
+            "end_date": "2023-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Created front-end features to visualize the status of the machine at all times.",
+                "Worked in a team learning how to expand the legacy customer website.",
+                "Consumed the API of the automatic cashing machines to monitor data in real time.",
+                "Saved costs by automating database purges."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Machine Operator",
+            "company": "Mitsubishi Materials España",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Kept the production of different machines active at the same time."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Internship",
+            "company": "Válvulas Arco",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Arranged and prepared the CNC centers."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Internship",
+            "company": "Océano Naranja",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Design plans for laser-cutting of architectural models."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Web Application Development",
+            "institution": "IES Jaume II",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Developer",
+            "institution": "Deusto Formación",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "2024-08-31",
+            "hours": 0
+        },
+        {
+            "degree": "Web Application Development",
+            "institution": "Triangle Studis",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-06-30",
+            "hours": 0
+        },
+        {
+            "degree": "Mechanical Manufacture",
+            "institution": "CIPFP Vicente Blasco Ibáñez",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "angular",
+                "django",
+                "nodejs",
+                "express",
+                "postgresql",
+                "mongodb"
+            ],
+            "soft": [],
+            "tools": [
+                "docker",
+                "java",
+                "tdd",
+                "ci/cd",
+                "git",
+                "php",
+                "pair-programming",
+                "swagger",
+                "rest-api"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

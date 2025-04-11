@@ -1,57 +1,72 @@
 {
     "personal_info": {
-        "first_name": "",
-        "last_name": "",
+        "first_name": "Leandro",
+        "last_name": "Gomez",
         "email": "melgutlau@gmail.com",
-        "phone": "",
+        "phone": "+54 1159220177",
         "location": {
-            "country": "",
-            "city": "",
-            "state": ""
+            "country": "Argentina",
+            "city": "Claypole",
+            "state": "Buenos Aires"
         },
         "linkedin": "",
         "website": "",
         "portfolio": "",
-        "summary": "Desarrollador frontend con experiencia en la creación de aplicaciones web y móviles modernas. Mi enfoque se centra en proporcionar experiencias de usuario excelentes y funcionales. Tengo experiencia especializada en el uso de tecnologías como JavaScript y React para desarrollar interfaces de usuario dinámicas y altamente interactivas. Me encanta explorar nuevas herramientas y técnicas para mejorar continuamente la calidad y la eficiencia de mis proyectos."
+        "summary": "Me caracterizo por ser una persona entusiasta y apasionada por el aprendizaje. Mi inquietud constante y mi deseo de desarrollo personal me mantienen siempre motivado y preparado para enfrentar y resolver cualquier desafío. Una de mis características más destacadas es mi compromiso con la finalización de las tareas. Nunca dejo nada a la mitad y siempre me aseguro de que todo proyecto que inicio se complete de manera efectiva y en tiempo. Soy metódico y disciplinado, que valora la eficiencia en todo lo que emprende. Además, gracias a mi experiencia laboral, he desarrollado habilidades clave en resolución de problemas, negociación y comunicación, que considero fundamentales para el éxito en cualquier entorno profesional."
     },
     "work_experience": [
         {
-            "job_title": "Frontend developer",
-            "company": "QUCHARA",
+            "job_title": "Organizador de eventos deportivos",
+            "company": "Interschool",
             "location": "",
-            "start_date": "2023-02-01",
-            "end_date": "2024-02-01",
+            "start_date": "2022-04-01",
+            "end_date": "2022-12-31",
             "currently_working": false,
             "responsibilities": [
-                "Colaborar estrechamente con el equipo de desarrollo para identificar oportunidades de mejora en términos de plazos.",
-                "Diseño y funcionalidad del producto. Proporcionar sugerencias fundamentadas y orientadas a resultados para optimizar el proceso de desarrollo y maximizar el impacto del producto final en los usuarios.",
-                "Transformar conceptos de diseño en aplicaciones interactivas y responsivas, utilizando HTML, CSS y JavaScript con React Native.",
-                "Mantener a los miembros del equipo informados sobre los avances del proyecto, los hitos alcanzados y los próximos pasos a través de actualizaciones regulares sobre cronogramas, diseños y mejoras."
+                "Gestion de redes sociales",
+                "Organizacion y capacitacion de staff",
+                "Atencion al cliente",
+                "Resolucion rapida y activa de problemas"
             ],
             "achievements": [],
             "repository_url": ""
         }
     ],
-    "education": [],
+    "education": [
+        {
+            "degree": "Tecnicatura en Sistemas",
+            "institution": "Universidad Tecnologica Nacional",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Economia",
+            "institution": "Instituto Regina Apostolorum",
+            "location": "",
+            "start_date": "2017-03-01",
+            "end_date": "2022-11-30",
+            "hours": 0
+        }
+    ],
     "skills": {
         "keywords": {
-            "technical": [
-                "typescript",
-                "javascript",
-                "bootstrap",
-                "react.js",
-                "react-native",
-                "css",
-                "html5",
-                "css3",
-                "nexa.js"
+            "technical": [],
+            "soft": [
+                "autodidacta",
+                "relaciones-interpersonales",
+                "responsabilidad",
+                "liderazgo",
+                "resiliencia",
+                "ambicion"
             ],
-            "soft": [],
             "tools": []
         },
         "detailed": {
             "technical": [],
-            "soft": []
+            "soft": [],
+            "tools": []
         }
     },
     "certifications": [],
@@ -59,11 +74,11 @@
     "languages": [
         {
             "language": "Español",
-            "proficiency": "Native or Bilingual Proficiency"
+            "proficiency": "Nativo"
         },
         {
-            "language": "Ingles",
-            "proficiency": "Limited Working Proficiency"
+            "language": "Inglés",
+            "proficiency": "B1"
         }
     ],
     "volunteer_experience": [],

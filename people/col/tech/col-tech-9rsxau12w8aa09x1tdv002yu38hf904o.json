@@ -1,0 +1,140 @@
+{
+    "personal_info": {
+        "first_name": "Carlos Alirio",
+        "last_name": "Quintero Niño",
+        "email": "franco_roldann@hotmail.com",
+        "phone": "3162073216",
+        "location": {
+            "country": "Colombia",
+            "city": "Bucaramanga",
+            "state": "Santander"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy estudiante de la Universidad de las Unidades Tecnológicas de Santander con experiencia como desarrollador Junior en .NET Core 6 y agente de soporte técnico nivel 3. Tengo habilidades en programación en C#, administración de bases de datos, y experiencia en metodologías ágiles."
+    },
+    "work_experience": [
+        {
+            "job_title": "Agente Nivel 3 Soporte Técnico",
+            "company": "Sisteco S.A.S",
+            "location": "",
+            "start_date": "2024-05-06",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Atención al cliente mediante soporte telefónico, resolviendo problemas relacionados con la conexión a internet.",
+                "Gestión y coordinación de cuadrillas en campo para la instalación, mantenimiento y reparación de servicios de internet.",
+                "Manejo del sistema interno de la empresa para la creación y cierre de tickets, así como la gestión de solicitudes de instalación, mantenimiento y traslados de servicios.",
+                "Uso del sistema U2000 para aprovisionar equipos con y sin wifi, y realizar revisiones de potencia de los dispositivos instalados.",
+                "Coordinación con proveedores para resolver caídas de servicio y problemas críticos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador",
+            "company": "Soain Software Associates SAS",
+            "location": "",
+            "start_date": "2022-04-20",
+            "end_date": "2023-10-05",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación de Accesibilidad WCAG con React.",
+                "Gestión de Pruebas Manuales y Herramientas de Calidad.",
+                "Levantamiento de servicios.",
+                "Desarrollo de Microservicios en .NET Core 6 e integración con bases de datos Oracle y SQL Server."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnología en Desarrollo de Sistemas Informáticos",
+            "institution": "Unidades Tecnológicas de Santander",
+            "location": "Bucaramanga, Santander, Colombia",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller Técnico Agropecuario",
+            "institution": "I.E. Inem Custodio García Rovira",
+            "location": "Bucaramanga, Santander, Colombia",
+            "start_date": "2014-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                ".net-core-6",
+                "c#",
+                "sql-server",
+                "oracle",
+                "react",
+                "html",
+                "css",
+                "java",
+                "javascript"
+            ],
+            "soft": [
+                "flexibilidad",
+                "creatividad",
+                "expresión-oral",
+                "liderazgo",
+                "pensamiento-crítico",
+                "análisis",
+                "solución-de-conflictos"
+            ],
+            "tools": [
+                "jira",
+                "swagger",
+                "postman",
+                "sonarqube"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [
+        {
+            "name": "Java Programming",
+            "issuing_organization": "Oracle Academy",
+            "issue_date": "2024-03-08",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso en Master API Rest Ful Con ASP.NET Core Web API",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-04-25",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso en Java Messaging Service - Spring MVC, Spring Boot, ActiveMQ",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-07-07",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Eddy Yojana Quintero Niño",
+            "relationship": "Talent Adquisición en Baxter Internacional Psicóloga",
+            "contact": "3164585719"
+        },
+        {
+            "name": "Fredy Jara Gutiérrez",
+            "relationship": "Ing. Petróleos Coordinador General de HSEQ",
+            "contact": "3167543741"
+        }
+    ]
+}

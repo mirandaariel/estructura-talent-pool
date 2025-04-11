@@ -1,0 +1,148 @@
+{
+    "personal_info": {
+        "first_name": "Moisés",
+        "last_name": "Tafur Zegarra",
+        "email": "Effectsxfighter@hotmail.com",
+        "phone": "+51 978597468",
+        "location": {
+            "country": "Peru",
+            "city": "Pucallpa",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante de la carrera de Ingeniería de Sistemas, X ciclo. Proactivo, con capacidad de trabajar en equipo y contribuir a la solución de problemas. Apasionado de la tecnología y el desarrollo de software, con conocimientos generales y específicos en diferentes ramas de la tecnología."
+    },
+    "work_experience": [
+        {
+            "job_title": "Prácticas Pre-Profesionales",
+            "company": "ZZOFT SRL",
+            "location": "",
+            "start_date": "2022-07-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo Back-End (Java) y Front-End (Angular) para mejoras en proyecto de banca (REDEBAN)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Asesoría en Sistemas",
+            "company": "The Other Company S.A.",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo, mejora e implementación de módulos de Odoo (Clínica Dental, Libro de reclamaciones)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Consultoría",
+            "company": "Complexless",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Pruebas Unitarias con Jacoco, JUnit, Mockito, Verificación de código con SonarQube, Gitflow, Desarrollo Front-End (Angular) proyecto VUCE."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingienería de Sistemas - X Ciclo",
+            "institution": "Universidad Nacional de Ucayali",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería de Software con Inteligencia Artificial",
+            "institution": "Instituto - SENATI",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Estudios básicos",
+            "institution": "Colegio Nacional de Yarinacocha",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "python",
+                "typescript",
+                "angular-js",
+                "spring-boot",
+                "odoo-framework",
+                "mockito",
+                "mysql",
+                "sql-server",
+                "postgresql",
+                "mongodb",
+                "docker",
+                "oracle-data-modeler",
+                "erwin-data-modeler",
+                "odoo",
+                "linux",
+                "sonarqube",
+                "git",
+                "github",
+                "gitlab",
+                "postman",
+                "aws",
+                "azure"
+            ],
+            "soft": [
+                "proactivo",
+                "trabajo-en-equipo",
+                "planificador",
+                "comunicativo"
+            ],
+            "tools": [
+                "ec2",
+                "route53",
+                "s3",
+                "vm",
+                "api-services",
+                "chat-boot"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Julio C. Abad",
+            "relationship": "Gerente general - TocSac",
+            "contact": "julio.abadetocsac.pe"
+        },
+        {
+            "name": "Jhon Larru",
+            "relationship": "Desarrollador - Arquitecto Cloud AWS",
+            "contact": "jlaru95@gmail.com"
+        }
+    ]
+}
