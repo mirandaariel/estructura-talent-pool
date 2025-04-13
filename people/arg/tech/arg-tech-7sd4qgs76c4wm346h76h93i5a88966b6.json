@@ -29,11 +29,11 @@
     ],
     "education": [
         {
-            "degree": "",
+            "degree": "Computer Science (in progress)",
             "institution": "Universidad Nacional de San Luis",
             "location": "San Luis, Argentina",
             "start_date": "01/03/2023",
-            "end_date": "",
+            "end_date": "currently_attending",
             "hours": 0
         }
     ],
@@ -108,6 +108,24 @@
                         "title": "Error Handling and Exceptions",
                         "description": "Captura y manejo de errores usando try, catch y finally.",
                         "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/errorHandling.js"
+                    },
+                    {
+                        "id": 1101,
+                        "title": "Objects and Properties",
+                        "description": "Creación y manipulación de objetos, así como el acceso a sus propiedades.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/objects.js"
+                    },
+                    {
+                        "id": 1102,
+                        "title": "Prototypes and Prototypal Inheritance",
+                        "description": "Cómo funciona la herencia basada en prototipos en JavaScript.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/prototypes.js"
+                    },
+                    {
+                        "id": 1103,
+                        "title": "Classes and Modern Syntax",
+                        "description": "Uso de las clases en JavaScript moderno con las palabras clave class, extends y super.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/classes.js"
                     }
                 ]
             }
