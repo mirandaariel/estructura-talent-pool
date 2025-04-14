@@ -22,8 +22,8 @@
             "start_date": "2024-07-01",
             "end_date": "2024-12-31",
             "currently_working": false,
-            "responsibilities": [],
-            "achievements": [],
+            "responsibilities": ["login and personal data modification sections of the app"],
+            "achievements": ["I could make the 100% of the tasks previously mentioned", "Improvement of the frontend in the add contacts section (60%)"],
             "repository_url": ""
         }
     ],
@@ -33,8 +33,7 @@
             "institution": "Universidad Nacional de San Luis",
             "location": "San Luis, Argentina",
             "start_date": "01/03/2023",
-            "end_date": "currently_attending",
-            "hours": 0
+            "end_date": "currently_attending"
         }
     ],
     "skills": {
@@ -51,7 +50,16 @@
                 "express.js",
                 "postgresql"
             ],
-            "soft": [],
+            "soft": [
+                "comunication",
+                "teamwork",
+                "critical thinking",
+                "stress management and adaptability",
+                "attention to detail",
+                "continuous learning",
+                "time managment",
+                "proactivity"
+            ],
             "tools": [
                 "git",
                 "github",
@@ -126,16 +134,43 @@
                         "title": "Classes and Modern Syntax",
                         "description": "Uso de las clases en JavaScript moderno con las palabras clave class, extends y super.",
                         "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/classes.js"
+                    },
+                    {
+                        "id": 1104,
+                        "title": "Encapsulation, Inheritance, and Polymorphism",
+                        "description": "Principios fundamentales de la programación orientada a objetos aplicados en JavaScript.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/encInhPol.js"
+                    },
+                    {
+                        "id": 1105,
+                        "title": "Factory Functions",
+                        "description": "Funciones que retornan nuevos objetos personalizados, permitiendo flexibilidad en la creación de instancias.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/factoryFunctions.js"
+                    },
+                    {
+                        "id": 1106,
+                        "title": "Object Composition",
+                        "description": "Construcción de objetos complejos a partir de otros más simples, en lugar de usar herencia.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/objectComp.js"
                     }
                 ]
             }
         }
     },
-    "certifications": [],
+    "certifications": [
+        {
+            "name": "Back End Development and APIs",
+            "url": "https://www.freecodecamp.org/certification/smlopezsm/back-end-development-and-apis"
+        },
+        {
+            "name": "Responsive Web Design",
+            "url": "https://www.freecodecamp.org/certification/smlopezsm/responsive-web-design"
+        }
+    ],
     "projects": [
         {
             "name": "Calculator",
-            "description": "",
+            "description": "A simple calculator to practice java",
             "technologies": ["java"],
             "url": "https://github.com/smlopezsm/calculadora"
         },
