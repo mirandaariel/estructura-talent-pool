@@ -191,6 +191,54 @@
                         "title": "Monads",
                         "description": "Patrón que permite encadenar operaciones, manejando contextos como la asincronía o el manejo de errores.",
                         "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1207.js"
+                    },
+                    {
+                        "id": 1207,
+                        "title": "Monads",
+                        "description": "Patrón que permite encadenar operaciones, manejando contextos como la asincronía o el manejo de errores.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1207.js"
+                    },
+                    {
+                        "id": 1208,
+                        "title": "Lenses",
+                        "description": "Herramientas para acceder y modificar estructuras de datos inmutables de forma segura.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1208.js"
+                    },
+                    {
+                        "id": 1209,
+                        "title": "Transducers",
+                        "description": "Funciones que transforman otras funciones de transformación, permitiendo operaciones eficientes sobre estructuras de datos.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1209.js"
+                    },
+                    {
+                        "id": 1301,
+                        "title": "Arrays, Objects, Sets, and Maps",
+                        "description": "Uso de estructuras de datos como arrays, objetos, sets y maps para almacenar y manipular información.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1301.js"
+                    },
+                    {
+                        "id": 1302,
+                        "title": "Stacks and Queues",
+                        "description": "Estructuras de datos lineales que permiten operaciones de inserción y eliminación en un orden específico (LIFO y FIFO).",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1302.js"
+                    },
+                    {
+                        "id": 1303,
+                        "title": "Linked Lists",
+                        "description": "Estructura de datos donde cada elemento apunta al siguiente, permitiendo inserciones y eliminaciones eficientes.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1303.js"
+                    },
+                    {
+                        "id": 1304,
+                        "title": "Recursion",
+                        "description": "Técnica donde una función se llama a sí misma para resolver problemas complejos.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1304.js"
+                    },
+                    {
+                        "id": 1305,
+                        "title": "Array Operations (map, filter, reduce)",
+                        "description": "Funciones de orden superior para transformar, filtrar y reducir arrays en JavaScript.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1305.js"
                     }
                     ]
                 }
