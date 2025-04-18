@@ -152,6 +152,42 @@
                         "title": "Object Composition",
                         "description": "Construcción de objetos complejos a partir de otros más simples, en lugar de usar herencia.",
                         "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/objectComp.js"
+                    },
+                    {
+                        "id": 1201,
+                        "title": "Pure Functions",
+                        "description": "Funciones que, dado un mismo conjunto de entradas, siempre devuelven la misma salida sin producir efectos secundarios.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/pureFunct.js"
+                    },
+                    {
+                        "id": 1202,
+                        "title": "Immutability",
+                        "description": "Principio de no modificar directamente los datos existentes, sino crear nuevas estructuras de datos.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/immutability.js"
+                    },
+                    {
+                        "id": 1203,
+                        "title": "Higher-Order Functions",
+                        "description": "Funciones que aceptan otras funciones como argumentos o las retornan como resultados.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/hOfunctions.js"
+                    },
+                    {
+                        "id": 1204,
+                        "title": "Currying",
+                        "description": "Transformación de una función que toma múltiples argumentos en una serie de funciones que toman un solo argumento.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/currying.js"
+                    },
+                    {
+                        "id": 1205,
+                        "title": "Function Composition",
+                        "description": "Técnica que permite encadenar funciones pequeñas en una sola función compleja.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/functComp.js"
+                    },
+                    {
+                        "id": 1206,
+                        "title": "Functors and Categories",
+                        "description": "Estructuras que permiten mapear funciones sobre valores envueltos o estructurados.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/functorsAndCategories.js"
                     }
                 ]
             }
