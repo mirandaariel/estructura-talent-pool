@@ -1,0 +1,153 @@
+{
+    "personal_info": {
+        "first_name": "Salvador",
+        "last_name": "Juarez",
+        "email": "salvadorjuars4@gmail.com",
+        "phone": "+5493816375805",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Fullstack con experiencia en Backend y optimización de sistemas. Apasionado por la ciberseguridad y la inteligencia artificial, con habilidades en Web Scraping y desarrollo de APIs REST."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "VIAMOS",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo del Backend de la plataforma, optimizando tiempos de respuestas en un 5%.",
+                "Web Scraping con Python y Selenium"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "Proyecto Propio",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Creacion de una APP completa con Frontend y Backend",
+                "Base de datos: MongoDB",
+                "UI con React.js",
+                "API REST: Node.js y React.js"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Programador",
+            "company": "Universidad Nacional de Tucuman",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creacion de un Sistema de Digesto para documentacion",
+                "Desarrollo de un sitio web desde cero utilizando PHP, MySQL y WordPress."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura superior en Desarrollo de Software",
+            "institution": "IES Tafi Viejo",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2027-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Cybersecurity Essentials",
+            "institution": "CISCO Networking Academy",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomatura en Ciberseguridad",
+            "institution": "Fundación Instituto Latinoamericano",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Protección de Software e Inteligencia Artificial",
+            "institution": "Santander X",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ethical Hacker",
+            "institution": "CISCO Networking Academy",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "javascript",
+                "java",
+                "php",
+                "node.js",
+                "express",
+                "spring-boot",
+                "wordpress",
+                "html",
+                "css",
+                "bootstrap",
+                "react.js",
+                "mongodb",
+                "postgresql",
+                "mysql",
+                "web-scraping",
+                "api-rest",
+                "vscode",
+                "control-de-versiones-con-git-y-github"
+            ],
+            "soft": [
+                "resolucion-de-problemas",
+                "trabajo-en-equipo",
+                "pensamiento-logico",
+                "creatividad"
+            ],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "A2 (Técnico)"
+        },
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

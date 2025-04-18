@@ -1,0 +1,150 @@
+{
+    "personal_info": {
+        "first_name": "Gabriel",
+        "last_name": "",
+        "email": "aviles.gabriel015@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Me llamo Gabriel, soy estudiante autodidacta desde que comencé en el mundo del desarrollo web. He aprendido a través de distintos recursos disponibles en internet, y me considero una persona tranquila, paciente y con muchas ganas de seguir aprendiendo. No tengo problema en ayudar a otros ni en recibir ayuda cuando es necesario. Tengo aproximadamente un año y medio de experiencia en desarrollo frontend y mi objetivo es especializarme en este campo. Me gustaría dar el siguiente paso y aplicar mis conocimientos en un entorno profesional, donde pueda seguir creciendo y aportando valor."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Igrowker",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementé el flujo completo de autenticación (registro, login y recuperación por email), componentes visuales e informativos, y un mapa interactivo con zonas de calor y geolocalización basado en la ubicación del usuario o de una zona seleccionada."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com"
+        },
+        {
+            "job_title": "FrontEnd Lead",
+            "company": "Igrowker",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé la vista detallada de cada experiencia, el sistema de filtrado y un panel administrativo exclusivo para anfitriones.",
+                "Me encargué de dividir y delegar tareas dentro del equipo, así como de asistir a mis compañeros ante cualquier duda o inconveniente.",
+                "Mantuve comunicación con los distintos roles del equipo (QA, BackEnd, UX, DevOps) y desarrollé componentes funcionales tanto para la vista detallada de experiencias como para otras secciones clave de la aplicación."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingenieria Informatica",
+            "institution": "Universidad Autónoma Juan Misael Saracho",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Frontend",
+            "institution": "Autodidacta",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "js",
+                "ts",
+                "tailwindcss",
+                "reactjs",
+                "nextjs",
+                "zustand",
+                "react-router",
+                "react-hook-form",
+                "git",
+                "github",
+                "zod"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "EventMap (MVP)",
+            "description": "WebApp para visualizar zonas de alta demanda de pasajeros en base a eventos públicos.",
+            "technologies": [
+                "typescript",
+                "nextjs",
+                "leaflet",
+                "zustand"
+            ],
+            "url": "https://github.com"
+        },
+        {
+            "name": "Wander (MVP)",
+            "description": "WebApp enfocada en conectar viajeros con anfitriones locales para ofrecer experiencias auténticas.",
+            "technologies": [
+                "reactjs",
+                "axios",
+                "leaflet",
+                "react-hook-form",
+                "zod"
+            ],
+            "url": "https://github.com"
+        },
+        {
+            "name": "Kanban Tasks",
+            "description": "Aplicación web para la gestión de tareas basada en la metodología Kanban.",
+            "technologies": [
+                "react",
+                "chakra-ui",
+                "zustand"
+            ],
+            "url": "https://github.com"
+        },
+        {
+            "name": "Audiophile",
+            "description": "Aplicación web demostrativa para la venta de productos de audio.",
+            "technologies": [
+                "next.js",
+                "react-hook-form",
+                "tailwind-css"
+            ],
+            "url": "https://github.com"
+        },
+        {
+            "name": "Designo",
+            "description": "Página informativa diseñada sobre una agencia creativa.",
+            "technologies": [
+                "react",
+                "react-router",
+                "tailwind-css"
+            ],
+            "url": "https://github.com"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,106 @@
+{
+    "personal_info": {
+        "first_name": "Ramiro",
+        "last_name": "Salvi",
+        "email": "salviramiro@gmail.com",
+        "phone": "+54 93756 54-5353",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/ra.miro-salvi",
+        "website": "",
+        "portfolio": "https://github.com/ramiroSalv",
+        "summary": "Desarrollador FrontEnd Jr. con conocimientos en HTML, CSS, JavaScript y Angular, buscando experiencia profesional en IT."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Tecnicatura en Programación",
+            "institution": "UTN | Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2023-07-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Nacional Automotriz",
+            "institution": "Instituto Politécnico San Arnoldo Janssen",
+            "location": "",
+            "start_date": "",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript",
+                "angular",
+                "dom",
+                "responsive-design"
+            ],
+            "soft": [
+                "comunicación-efectiva",
+                "atención-al-detalle",
+                "pensamiento-crítico",
+                "trabajo-en-equipo",
+                "resolución-de-problemas",
+                "adaptabilidad"
+            ],
+            "tools": [
+                "git",
+                "github"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "E-commerce Frontend",
+            "description": "Desarrollo del frontend de una tienda online consumiendo la API pública de fakestoreapi.com utilizando Angular 18, TypeScript, Tailwind CSS, CSS, Ngxtension.",
+            "technologies": [
+                "angular",
+                "typescript",
+                "tailwind-css",
+                "css",
+                "ngxtension"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Metas App",
+            "description": "Aplicación dinámica para registrar y gestionar metas, utilizando Angular 18, TypeScript, Tailwind CSS, CSS.",
+            "technologies": [
+                "angular",
+                "typescript",
+                "tailwind-css",
+                "css"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Galería de Imágenes",
+            "description": "Landing page permitiendo cambiar imágenes con interacción del usuario mediante botones.",
+            "technologies": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
