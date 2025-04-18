@@ -1,0 +1,152 @@
+{
+    "personal_info": {
+        "first_name": "Tomás",
+        "last_name": "Pérez",
+        "email": "tomas.perez.developer@gmail.com",
+        "phone": "+54 2944140001",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack apasionado por la tecnología y el aprendizaje continuo. Me especializo en aplicaciones web utilizando Node.js, React, Nextjs, Redux, SQL, Nest.js, y Prisma ORM, destacándome en liderazgo y resolución de problemas, con un enfoque en código limpio y eficiente."
+    },
+    "work_experience": [
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Spotsline Web",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Integré una base de datos local al sistema y realicé una copia en formato SQL.",
+                "Aprendí e implementé animaciones con Framer Motion.",
+                "Optimicé las funcionalidades de los componentes con useCallback y useDebounce."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Hydrotek Store",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de un ecommerce con gestión de productos y usuarios.",
+                "Aprendí e implementé NestJS, TypeScript y Prisma ORM.",
+                "Integré un sistema de facturación sin documentación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Myfotolibro Web",
+            "location": "",
+            "start_date": "2023-10-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una aplicación para un cliente de libros de fotos.",
+                "Construí un compresor de imágenes y ajusté solicitudes a la API de Cloudinary."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Properties && You",
+            "location": "",
+            "start_date": "2022-11-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de una plataforma web para búsqueda y publicación de propiedades.",
+                "Lideré un equipo de seis desarrolladores.",
+                "Aprendí e implementé Tailwind CSS, Mercado Pago y Firebase."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Property Scraper",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé un scraper para propiedades en Mercado Libre y Zonaprop.",
+                "Superé medidas de seguridad y optimicé tiempos de scraping.",
+                "Implementé descarga de archivos PDF desde el backend."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry",
+            "location": "",
+            "start_date": "2022-06-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "sql",
+                "java-script",
+                "node",
+                "react",
+                "next-js",
+                "redux",
+                "nest",
+                "prisma",
+                "express",
+                "sequelize",
+                "typescript",
+                "html-5",
+                "css",
+                "tailwind"
+            ],
+            "soft": [
+                "leadership",
+                "problem-solving",
+                "customer-orientation"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "scrum"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Personal Portfolio",
+            "description": "Mi página web personal, incluye un modelo 3D con movimiento y animaciones interactivas.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Upper Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

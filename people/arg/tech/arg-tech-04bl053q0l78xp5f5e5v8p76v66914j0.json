@@ -1,0 +1,113 @@
+{
+    "personal_info": {
+        "first_name": "Rosario",
+        "last_name": "Díaz",
+        "email": "rosario.diaz.backend@gmail.com",
+        "phone": "+54 91164752061",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/madelrosariodiaz",
+        "website": "https://github.com/ChayChaio",
+        "portfolio": "",
+        "summary": "Apasionada por la tecnología y en formación como desarrolladora Java, con experiencia en programación, bases de datos y APIs. Busco especializarme en crear soluciones prácticas y escalables, con interés en inteligencia artificial y aplicaciones web."
+    },
+    "work_experience": [],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "javascript",
+                "sql",
+                "postgresql",
+                "mysql"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "api-rest",
+                "docker"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Google Data Analytics",
+            "issuing_organization": "Google",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Google Project Manager",
+            "issuing_organization": "Google",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Oracle Java SE",
+            "issuing_organization": "Oracle",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Challenge Foro Hub",
+            "description": "Aplicación web que simula un foro, con autenticación JWT, CRUD de tópicos, creado con Spring Boot 3. Incluye asociación de respuestas, búsqueda avanzada por palabras clave y elección de respuestas como solución. Contraseñas hasheadas con BCrypt.",
+            "technologies": [
+                "Spring Boot",
+                "JWT",
+                "BCrypt"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Challenge Screenmatch",
+            "description": "Backend para gestionar series con persistencia de datos mediante la API de OMDB y traducción automática de sinopsis con OpenAI. Incluye endpoints para listar, filtrar por género y detallar temporadas y capítulos.",
+            "technologies": [
+                "API OMDB",
+                "OpenAI"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Challenge Literalura",
+            "description": "Aplicación en Java para gestionar libros y autores, utilizando la API de Gutendex. Los datos se almacenan en PostgreSQL para garantizar persistencia y permitir búsquedas eficientes.",
+            "technologies": [
+                "Java",
+                "API Gutendex",
+                "PostgreSQL"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Challenge Conversor",
+            "description": "Este proyecto es un conversor de monedas que permite convertir entre divisas populares y guardar los resultados en un archivo JSON. Interactúa con una API externa para obtener las tasas de conversión actualizadas y está compuesto por clases que manejan la consulta, procesamiento y presentación de los datos.",
+            "technologies": [
+                "API externa",
+                "JSON"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,136 @@
+{
+    "personal_info": {
+        "first_name": "Enrique",
+        "last_name": "González Hernández",
+        "email": "gonherenrique@gmail.com",
+        "phone": "+52-777-467-0429",
+        "location": {
+            "country": "México",
+            "city": "",
+            "state": "Morelos"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "https://github.com",
+        "summary": "Soy un desarrollador de software apasionado por el backend y con sólidos conocimientos en frontend. Me encanta aprender y actualizarme constantemente para enfrentar nuevos desafíos. Además, utilizo entornos Linux en mi flujo de trabajo para garantizar la estabilidad y eficiencia de mis proyectos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador FullStack",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una aplicación web para la gestión centralizada de credenciales y administración de colegios, optimizando la seguridad institucional y facilitando el control de acceso.",
+                "Implementé autenticación, paneles administrativos y arquitectura modular escalable, reduciendo errores de registro y mejorando la trazabilidad de usuarios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FullStack",
+            "company": "UpEvent",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y desarrollé una solución integral para la gestión de eventos, compuesta por una aplicación web y móvil.",
+                "Permití que múltiples administradores crearan eventos personalizados con su propia landing page, configuraran talleres, generaran puntos de control y visualizaran a los participantes registrados.",
+                "La plataforma centralizó y automatizó el ciclo completo de organización, registro y control de eventos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FullStack",
+            "company": "Manos Mexicanas",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y desarrollé un ecommerce para productos artesanales, digitalizando el proceso de ventas y gestión de pedidos.",
+                "Implementé funcionalidades como control de inventario, autenticación de usuarios y panel administrativo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería Desarrollo de Software Multiplataforma",
+            "institution": "Universidad Tecnológica Emiliano Zapata (UTEZ)",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2026-05-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Programación",
+            "institution": "CECyTE Emiliano Zapata",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "nodejs",
+                "jwt",
+                "springboot",
+                "python",
+                "fastapi",
+                "apirestful",
+                "html",
+                "css",
+                "js",
+                "react",
+                "heroui",
+                "cypress",
+                "tailwind",
+                "aws",
+                "heroku",
+                "railway",
+                "vercel",
+                "firebase",
+                "mongodbatlas",
+                "sql",
+                "mysql",
+                "postgresql",
+                "nosql",
+                "mongodb"
+            ],
+            "soft": [],
+            "tools": [
+                "linux",
+                "git",
+                "github",
+                "scrum",
+                "kanban",
+                "metodologias-agiles"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,192 @@
+{
+    "personal_info": {
+        "first_name": "Wellington",
+        "last_name": "Castillo Medina",
+        "email": "wellington.castillocisf@gmail.com",
+        "phone": "0705546539 / 0986615580",
+        "location": {
+            "country": "Ecuador",
+            "city": "Quito",
+            "state": "Pichincha"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un ingeniero en tecnologías de información proactivo y organizado, con experiencia en desarrollo de software y soporte técnico. Me destaco en el trabajo en equipo y en la rápida toma de decisiones. He trabajado en proyectos de desarrollo web y móvil utilizando conocimientos en Javascrip, HTML5, CSS, utilizando frameworks como React, Vue.js y Angular para el frontend y Django, Nest.js y Node.js para el backend Adicional, he trabajado de manera indepediente desarrollando proyectos en C# y SQL Server para clientes privados. Además, tengo experiencia en la instalación y mantenimiento de sistemas de fibra óptica, así como en la enseñanza de Excel desde nivel básico hasta avanzado. Busco un puesto donde pueda aplicar mis habilidades y contribuir al éxito del equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Programador Independiente C#",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "2021-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé aplicaciones personalizadas para clientes utilizando Visual Studio en .NET con C#.",
+                "Implementé soluciones específicas basadas en los requerimientos de cada proyecto, asegurando la satisfacción del cliente.",
+                "Diseñé y gestioné bases de datos SQL Server para almacenar y recuperar datos de manera eficiente.",
+                "Colaboré con los clientes para definir los requisitos del proyecto y proporcionar actualizaciones periódicas sobre el progreso."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Programador de Aplicaciones Web",
+            "company": "Asociacion de Profesores UTMACH",
+            "location": "",
+            "start_date": "2022-10-01",
+            "end_date": "2023-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Experiencia en desarrollo con React para aplicaciones web.",
+                "Uso de Ionic para el desarrollo de aplicaciones móviles híbridas.",
+                "Manejo de llamadas a la API y gestión de estados en aplicaciones frontend.",
+                "Integración de librerías de terceros como SweetAlert para mejorar la interfaz de usuario.",
+                "Habilidades de depuración y resolución de problemas.",
+                "Dominio en el diseño, consumo y documentación de APIs RESTful."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Docente de Ofimática Online",
+            "company": "Gobierno Autonomo Descentralizado de El Oro",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Dominio de Microsoft Excel, incluyendo funciones avanzadas y macros.",
+                "Habilidad para explicar conceptos complejos de manera clara y accesible.",
+                "Experiencia en la creación de materiales educativos y recursos de aprendizaje.",
+                "Capacidad para enseñar y motivar a estudiantes de diferentes niveles de habilidad.",
+                "Excelentes habilidades de comunicación y presentación.",
+                "Adaptabilidad para enseñar en un entorno online y utilizar herramientas digitales de enseñanza."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Programador de Aplicaciones Móviles",
+            "company": "Proyecto de Tesis, Universidad Tecnica de Machala",
+            "location": "",
+            "start_date": "2022-10-01",
+            "end_date": "2023-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una aplicación móvil en Flutter (Dart) para la gestión de atención estudiantil por parte de los docentes.",
+                "Implementé funcionalidades que permitían a los estudiantes registrarse y solicitar reuniones con los docentes.",
+                "Integré una cámara IP para que los docentes pudieran ver a los estudiantes y abrirles la puerta remotamente.",
+                "Diseñé y programé el control de una chapa eléctrica mediante un ESP32, utilizando Arduino IDE para gestionar el relé y el transformador.",
+                "Aseguré la comunicación eficiente entre la aplicación móvil y el hardware para un funcionamiento fluido y seguro."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Escuela Primaria",
+            "institution": "Escuela Manuela Cañizares",
+            "location": "",
+            "start_date": "2001-01-01",
+            "end_date": "2011-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Administracion de Sistemas",
+            "institution": "Colegio Dr. José Ochoa León",
+            "location": "",
+            "start_date": "2012-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ing. en Tecnologías de Información",
+            "institution": "Universidad Tecnica de Machala",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "angular",
+                "react",
+                "vue.js",
+                "django",
+                "nodejs",
+                "express",
+                "fastapi",
+                "flutter",
+                "ionic",
+                "postgres",
+                "mysql",
+                "sql-server",
+                "esp32",
+                "arduino",
+                "docker",
+                ".net",
+                "c#",
+                "javascrip",
+                "html5",
+                "css"
+            ],
+            "soft": [
+                "teamwork",
+                "decision-making",
+                "communication-presentation",
+                "teaching",
+                "adaptability"
+            ],
+            "tools": [
+                "visual-studio",
+                "git"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "B2 (Intermediate High/Advanced)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Fabricio Jaramillo",
+            "relationship": "Laboral",
+            "contact": "0980476947"
+        },
+        {
+            "name": "Fausto Redrovan",
+            "relationship": "Laboral",
+            "contact": "098022707"
+        },
+        {
+            "name": "Jose Briceño",
+            "relationship": "Laboral",
+            "contact": "0994489709"
+        },
+        {
+            "name": "Fabiola Puma",
+            "relationship": "Familiar",
+            "contact": "0999473088"
+        },
+        {
+            "name": "Martha Quinde",
+            "relationship": "Familiar",
+            "contact": "0982999633"
+        }
+    ]
+}
