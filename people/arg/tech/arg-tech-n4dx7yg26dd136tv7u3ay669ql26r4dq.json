@@ -46,8 +46,22 @@
   "skills": {
     "keywords": {
       "technical": [
-        "javascript",
-        "react",
+        "javascript": [
+            {
+                  "id": 1001,
+                  "title": "Variables and Data Types",
+                  "description": "Variable declaration using var, let and const, and understanding primitive types and objects.",
+                  "repository_url": "https://github.com/SaraviaMartin/Dolar_Blue_ARS/blob/main/script.js"
+            },
+        ],
+        "react": [
+            {
+                  "id": 2001,
+                  "title": "Technical evaluation",
+                  "description": "",
+                  "repository_url": "https://github.com/SaraviaMartin/prueba-tecnica-react"
+            },
+        ]
         "css",
         "tailwinds",
         "bootstrap",
