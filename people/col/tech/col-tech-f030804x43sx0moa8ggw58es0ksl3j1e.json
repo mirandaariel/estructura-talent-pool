@@ -1,0 +1,125 @@
+{
+    "personal_info": {
+        "first_name": "Luis Fernando",
+        "last_name": "Mazo Cañas",
+        "email": "lfdo.mazoc@gmail.com",
+        "phone": "+57 3207192827",
+        "location": {
+            "country": "Colombia",
+            "city": "Manizales",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero en Sistemas y Telecomunicaciones con 2 años de experiencia en desarrollo web. Especializado en React, TypeScript y JavaScript, con un enfoque en la creación de interfaces intuitivas, escalables y optimizadas. Manejo de Redux, Tailwind CSS, Bootstrap y Figma para el diseño y la implementación de experiencias de usuario atractivas. Conocimientos adicionales en Node.js, SQL, PostgreSQL, MongoDB, Python y Flask. Busco una oportunidad para aportar mis habilidades en el desarrollo de aplicaciones web dinámicas y eficientes."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Anteia S.A.S",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé y optimicé interfaces responsivas con React.js y TypeScript, mejorando la experiencia de usuario.",
+                "Implementé Redux para el manejo eficiente del estado global de la aplicación.",
+                "Diseñé componentes reutilizables y mantenibles utilizando Tailwind, CSS3 y Bootstrap.",
+                "Consumí y gestioné APIs RESTful, asegurando la integración fluida con el backend.",
+                "Colaboré con el equipo de diseño en Figma para traducir maquetas en interfaces funcionales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas y Telecomunicaciones",
+            "institution": "Universidad de Manizales",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react.js",
+                "typescript",
+                "javascript-(es6+)",
+                "redux",
+                "html5",
+                "css3",
+                "tailwind-css",
+                "bootstrap",
+                "node.js",
+                "express.js",
+                "python",
+                "flask",
+                "sql",
+                "mongodb"
+            ],
+            "soft": [],
+            "tools": [
+                "figma",
+                "git",
+                "github",
+                "gitlab",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Oficina Móvil para Asesores",
+            "description": "Desarrollé una aplicación web con React.js y TypeScript que permite a los asesores de clientes operar desde cualquier ubicación con una oficina digital.",
+            "technologies": [
+                "react.js",
+                "typescript",
+                "redux",
+                "tailwind-css"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Dashboard de Métricas",
+            "description": "Creé un sistema de visualización de datos con React.js y ECharts para monitorear indicadores de servicio.",
+            "technologies": [
+                "react.js",
+                "echarts",
+                "python",
+                "flask"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Sistema de Gestión de Embudos de Conversión",
+            "description": "Desarrollé una plataforma en React.js y Redux para la visualización y análisis de flujos de conversión en procesos comerciales.",
+            "technologies": [
+                "react.js",
+                "redux"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

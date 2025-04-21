@@ -1,0 +1,123 @@
+{
+    "personal_info": {
+        "first_name": "Valeria",
+        "last_name": "Quiroga Añez",
+        "email": "valeriaquiroga16@gmail.com",
+        "phone": "+59169261586",
+        "location": {
+            "country": "Bolivia",
+            "city": "Santa Cruz",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full-Stack Developer with a strong passion for technology and problem-solving. Experienced in developing end-to-end applications with TypeScript, Angular, Ionic, Node.js, C#, Python, PHP, as well as working with SQL databases. Quick learner with a proactive approach to tackling new challenges and mastering new technologies as needed. Detail-oriented, self-motivated, and committed to delivering high-quality solutions in agile environments."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full-Stack Developer",
+            "company": "CiberIT",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed and maintained responsive web applications using C#, JavaScript, PHP, and Drupal, working across both frontend and backend to ensure full application functionality.",
+                "Implemented UI/UX designs for a complete website redesign, ensuring smooth integration and functionality while adhering to design specifications.",
+                "Focused primarily on frontend development, while also contributing significantly to backend functionality to create a balanced and effective application.",
+                "Implemented best practices in coding and design, resulting in a more efficient workflow and improved application performance.",
+                "Led a team of 4 as Scrum Master, facilitating Agile ceremonies and ensuring efficient project delivery within deadlines. Used Azure Devops."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA Manual Tester",
+            "company": "Overscope Technologies",
+            "location": "",
+            "start_date": "2022-10-01",
+            "end_date": "2023-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Executed comprehensive test plans and test cases to validate application functionality.",
+                "Documented defects using Jira and communicated findings to the development team, contributing to improved product quality.",
+                "Assisted in the development of testing strategies that enhanced overall testing efficiency."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Mobile & Full-Stack Web Developer",
+            "company": "Overscope Technologies",
+            "location": "",
+            "start_date": "2022-04-01",
+            "end_date": "2022-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implemented pre-designed mobile application interfaces, ensuring seamless integration with backend functionalities.",
+                "Developed backend features to support and enhance frontend functionality, improving overall application performance.",
+                "Integrated APIs to enhance application capabilities and improve user experiences.",
+                "Actively participated in user testing and feedback sessions, refining features based on user insights."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "angular",
+                "node.js",
+                "react",
+                "c#",
+                "ionic",
+                "java",
+                "php",
+                "python",
+                "django",
+                "flask",
+                "mysql",
+                "postgresql",
+                "sql-server",
+                "mongodb"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "azure-devops",
+                "jira"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "AZ-104: Azure Administrator Associate",
+            "issuing_organization": "Microsoft",
+            "issue_date": "",
+            "expiration_date": "2024-03-31",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Fluent"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
