@@ -6,12 +6,12 @@
         "phone": "+34617781755",
         "location": {
             "country": "España",
-            "city": "",
-            "state": ""
+            "city": "Sevilla",
+            "state": "Andalucía"
         },
         "linkedin": "https://www.linkedin.com/in/bruno-da-silva33/",
-        "website": "",
-        "portfolio": "",
+        "website": "https://www.bdasilva.es",
+        "portfolio": "https://www.bdasilva.es",
         "summary": "Desarrollador Frontend con bastante soltura en React y TailwindCSS. Actualmente realizando un curso de Angular."
     },
     "work_experience": [
@@ -19,8 +19,8 @@
             "job_title": "Desarrollador web",
             "company": "Daroma Innovation",
             "location": "",
-            "start_date": "2024-01-01",
-            "end_date": "2024-03-31",
+            "start_date": "2024-10-01",
+            "end_date": "2025-03-16",
             "currently_working": false,
             "responsibilities": [
                 "Desarrollo de las distintas webs de los productos que ofrece la empresa.",
@@ -36,16 +36,16 @@
             "degree": "Programador Front-End",
             "institution": "Tokio School",
             "location": "",
-            "start_date": "",
-            "end_date": "",
+            "start_date": "2024-03-01",
+            "end_date": "2025-03-01",
             "hours": 0
         },
         {
             "degree": "Experto universitario en Desarrollo de aplicaciones web",
             "institution": "Universidad San Jorge",
             "location": "",
-            "start_date": "",
-            "end_date": "",
+            "start_date": "2022-10-01",
+            "end_date": "2023-10-01",
             "hours": 0
         },
         {
@@ -63,6 +63,7 @@
                 "tailwind-css",
                 "react",
                 "angular",
+                "Python",
                 "github",
                 "botpress",
                 "github-copilot"
@@ -94,23 +95,24 @@
         }
     ],
     "projects": [
+           {
+            "name": "Marvel Gallery App",
+            "description": "Aplicación web que muestra una galería de imágenes de personajes de Marvel. He creado mi propia API en Mocki API para obtener datos y mostrarlos en la aplicación. Busquedas, filtros y añadir a favoritos.",
+            "technologies": ["react", "css", "react-hooks", "filtro","API Rest"],
+            "url": "https://marvel-gallery-app.vercel.app/"
+        },
         {
             "name": "Airbnb Clon",
             "description": "Pequeño Clon FULLSTACK de la web de Airbnb.",
             "technologies": ["react", "tailwind-css", "render", "mongodb"],
             "url": "AirbnbClone"
         },
+     
         {
-            "name": "E-commerce",
-            "description": "Pequeña web de ventas de artículos.",
-            "technologies": ["react", "css", "react-hooks", "filtro"],
-            "url": "ecommerce"
-        },
-        {
-            "name": "Task Manager",
-            "description": "App de gestión de tareas colaborativas para organizar y priorizar tareas.",
-            "technologies": ["react", "css", "react-hooks", "draganddrop"],
-            "url": "TaskManager"
+            "name": "Extension Manager",
+            "description": "Extension Manager es una aplicación web que permite a los usuarios gestionar extensiones de navegador. Los usuarios pueden activar, desactivar y eliminar extensiones, así como filtrar las extensiones por estado (activas, inactivas o todas).",
+            "technologies": ["react", "css", "react-hooks", "React Hooks"],
+            "url": "https://extension-manager-drab.vercel.app"
         }
     ],
     "languages": [
