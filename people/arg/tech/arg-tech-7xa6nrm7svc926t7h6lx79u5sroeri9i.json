@@ -2,16 +2,16 @@
     "personal_info": {
         "first_name": "Jonathan Andrés",
         "last_name": "Muchewicz",
-        "email": "Jonathanandres.dev@gmail.com",
-        "phone": "+54 3764-842498",
+        "email": "jonathanandres.dev@gmail.com",
+        "phone": "+54 9 376-4842498",
         "location": {
             "country": "Argentina",
             "city": "Posadas",
             "state": "Misiones"
         },
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/in/jonathan-muchewicz/",
         "website": "",
-        "portfolio": "",
+        "portfolio": "https://portafolio-jonathan-muchewicz.web.app/",
         "summary": "Me apasiona crear soluciones tecnológicas funcionales y atractivas, siempre enfocadas en mejorar la experiencia del usuario. Mi enfoque combina creatividad, habilidades técnicas y un compromiso constante con el aprendizaje. Estoy abierto a colaborar en proyectos que impulsen la innovación tecnológica."
     },
     "work_experience": [
@@ -30,7 +30,10 @@
             "achievements": [
                 "Proyecto destacado: Minga - Aplicación para la visualización de mangas y comics."
             ],
-            "repository_url": ""
+            "repository_url": {
+                "front_end": "https://github.com/JonathanAndresM/Grupo3FrontMinga.git",
+                "back_end": "https://github.com/JonathanAndresM/Grupo3BackMinga.git"
+            }
         },
         {
             "job_title": "Desarrollador Front End",
@@ -47,7 +50,7 @@
             "achievements": [
                 "Proyecto destacado: Harry Potter Github - Web orientada al mundo de Harry Potter."
             ],
-            "repository_url": ""
+            "repository_url": "https://github.com/zblackwidow/HarryPoter-Grupo3.git"
         },
         {
             "job_title": "Administración y Venta",
@@ -69,17 +72,17 @@
         {
             "degree": "Certificación en Desarrollo Front-End",
             "institution": "MindHub + Rappi",
-            "location": "",
-            "start_date": "",
-            "end_date": "",
+            "location": "Virtual",
+            "start_date": "03/2024",
+            "end_date": "07/2024",
             "hours": 0
         },
         {
             "degree": "Certificación en Desarrollo Full Stack",
             "institution": "MindHub + Rappi",
-            "location": "",
-            "start_date": "",
-            "end_date": "",
+            "location": "Virtual",
+            "start_date": "09/2024",
+            "end_date": "12/2024",
             "hours": 0
         },
         {
@@ -127,13 +130,13 @@
             "name": "MyTinerary",
             "description": "Aplicación de gestión de viajes con autenticación de usuarios y base de datos en MongoDB.",
             "technologies": ["react", "node.js", "express", "tailwind-css"],
-            "url": ""
+            "url": "https://itinerary-ec8d7.web.app/home"
         },
         {
             "name": "Minga",
             "description": "Aplicación para la visualización de mangas y comics.",
             "technologies": ["react", "node.js", "express", "tailwind-css", "jwt"],
-            "url": ""
+            "url": "https://grupo3-front-minga.vercel.app/"
         }
     ],
     "languages": [
