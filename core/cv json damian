@@ -1,0 +1,195 @@
+{
+    "personal_info": {
+        "first_name": "Carlos Damian",
+        "last_name": "Lobo",
+        "email": "damianl32cooking@gmail.com",
+        "phone": "+54 1121676940",
+        "location": {
+            "country": "ARGENTINA",            
+            "city": "BUENOS AIRES",
+            "state": "LOMAS DE ZAMORA"
+        },
+        "linkedin": "https.linkedin.com/in/damian-lobo-319088160",
+        "website": "https://dami.com",
+        "portfolio": "",
+        "summary": "estudiante avanzado de python developer."
+    },
+    "work_experience": [
+        {
+            "job_title": "python developer",
+            "company": "-----",
+            "location": "------",
+            "start_date": "-------",
+            "end_date": "-------",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed and maintained Python applications, focusing on backend services."
+            ],
+            "achievements": [
+                "Increased application performance by 20% through code optimization."
+            ],
+            "repository_url": "https://github.com/dami-bot/repo2dami"
+        }
+    ],
+    "education": [
+        {
+            "degree": "python developer",
+            "institution": "educacion IT",
+            "location": "Buenos Aires",
+            "start_date": "2024-06-01",
+            "end_date": "-------",
+            "hours": "200"
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javaScript",
+                "react",
+                "node.js",
+                "python",
+                "angular",
+                "html",
+                "css",
+                "sql",
+                "github",
+                "npm"
+            ],
+            "soft": [
+                "liderazgo",
+                "comunicacion",
+                "resolucion de problemas",
+                "trabajo en equipo",
+                "creatividad",
+                "organizacion"
+            ],
+            "tools": [
+                "---",
+                "---",
+                "---"
+            ]
+        },
+        "detailed": {
+            "technical": {
+                "javaScript": [
+                    {
+                        "name": "Closures",
+                        "repository_url": "https://github.com/-----"
+                    },
+                    {
+                        "name": "Asynchronous Programming (Promises & Async/Await)",
+                        "repository_url": "https://github.com/---------"
+                    },
+                    {
+                        "name": "Event Loop & Concurrency Model",
+                        "repository_url": "https://github.com---------"
+                    }
+                ],
+                "react": [
+                    {
+                        "name": "React Hooks (useState, useEffect, useReducer)",
+                        "repository_url": "https://github.com/-------"
+                    },
+                    {
+                        "name": "Context API & State Management",
+                        "repository_url": "https://github.com/-------"
+                    },
+                    {
+                        "name": "Server-Side Rendering with Next.js",
+                        "repository_url": "https://github.com/-------"
+                    }
+                ],
+                "node.js": [
+                    {
+                        "name": "REST API with Express.js",
+                        "repository_url": "https://github.com/-------"
+                    },
+                    {
+                        "name": "Authentication with JWT",
+                        "repository_url": "https://github.com/-------"
+                    },
+                    {
+                        "name": "Real-time WebSockets with Socket.io",
+                        "repository_url": "https://github.com/-------"
+                    }
+                ]
+            },
+            "soft": {
+                "leadership": [
+                    {
+                        "name": "Led a team of 5 developers",
+                        "description": "Successfully managed a team working on a large-scale web application."
+                    },
+                    {
+                        "name": "Mentorship",
+                        "description": "Guided junior developers through complex problem-solving and best practices."
+                    }
+                ],
+                "communication": [
+                    {
+                        "name": "Public Speaking",
+                        "description": "Presented technical topics at meetups and conferences."
+                    },
+                    {
+                        "name": "Technical Writing",
+                        "description": "Published blog posts and documentation for open-source projects."
+                    }
+                ]
+            }
+        }
+    },
+    "certifications": [
+        {
+            "name": " --------",
+            "issuing_organization": " --------",
+            "issue_date": " ------",
+            "expiration_date": " ------",
+            "credential_id": " ------"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Open Source Contribution",
+            "description": "Contributed to an open-source project improving authentication security.",
+            "technologies": ["angular", "Node.js", "Express"],
+            "url": "https://github.com/-------"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Native"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Fluent"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": " -------",
+            "organization": " -------",
+            "location": " -------",
+            "start_date": " -----",
+            "end_date": " -----",
+            "responsibilities": [
+                 "-------"
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "title": " -------",
+            "publisher": " -------",
+            "publication_date": " ------",
+            "url": "https://-------"
+        }
+    ],
+    "references": [
+        {
+            "name": "------",
+            "relationship": "------",
+            "contact": "------"
+        }
+    ]
+}
