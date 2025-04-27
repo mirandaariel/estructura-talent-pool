@@ -74,13 +74,16 @@
             ]
         },
         "detailed": {
-            "technical": {"javaScript": [
+            "technical": {
+                "javaScript": [
                     {
                         "id": 1001,
                         "title": "Variables and Data Types",
                         "description": "Declaración de variables usando var, let y const, y comprensión de tipos primitivos y objetos.",
                         "repository_url": "https://github.com/guilleAlvarenga/javascript_core_concepts/blob/main/Variables_and_Data_Types.js"
-                    },
+                    }
+                ]
+            },
             "soft": {}
         }
     },
