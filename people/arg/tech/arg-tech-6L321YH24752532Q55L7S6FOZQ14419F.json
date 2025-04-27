@@ -209,56 +209,56 @@
                     {
                         "id": 1205,
                         "title": "Function Composition",
-                        "description": "Técnica que permite encadenar funciones pequeñas en una sola función compleja.",
-                        "repository_url": ""
+                        "description": "Technique that allows chaining small functions into a single complex function.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/FunctionCompo.js"
                     },
                     {
                         "id": 1206,
                         "title": "Functors and Categories",
-                        "description": "Estructuras que permiten mapear funciones sobre valores envueltos o estructurados.",
-                        "repository_url": ""
+                        "description": "Structures that allow mapping functions over wrapped or structured values.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/Functors.js"
                     },
                     {
                         "id": 1207,
                         "title": "Monads",
-                        "description": "Patrón que permite encadenar operaciones, manejando contextos como la asincronía o el manejo de errores.",
-                        "repository_url": ""
+                        "description": "Pattern that allows chaining operations while managing contexts such as asynchrony or error handling.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/Monads.js"
                     },
                     {
                         "id": 1208,
                         "title": "Lenses",
-                        "description": "Herramientas para acceder y modificar estructuras de datos inmutables de forma segura.",
-                        "repository_url": ""
+                        "description": "Tools to safely access and modify immutable data structures.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/Lenses.js"
                     },
                     {
                         "id": 1209,
                         "title": "Transducers",
-                        "description": "Funciones que transforman otras funciones de transformación, permitiendo operaciones eficientes sobre estructuras de datos.",
-                        "repository_url": ""
+                        "description": "Functions that transform other transformation functions, allowing efficient operations over data structures.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/Transducers.js"
                     },
                     {
                         "id": 1301,
                         "title": "Arrays, Objects, Sets, and Maps",
-                        "description": "Uso de estructuras de datos como arrays, objetos, sets y maps para almacenar y manipular información.",
-                        "repository_url": ""
+                        "description": "Use of data structures like arrays, objects, sets, and maps to store and manipulate information.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/DataStructures.js"
                     },
                     {
                         "id": 1302,
                         "title": "Stacks and Queues",
-                        "description": "Estructuras de datos lineales que permiten operaciones de inserción y eliminación en un orden específico (LIFO y FIFO).",
-                        "repository_url": ""
+                        "description": "Linear data structures that allow insertion and removal operations in a specific order (LIFO and FIFO).",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/Stacks-Queues.js"
                     },
                     {
                         "id": 1303,
                         "title": "Linked Lists",
-                        "description": "Estructura de datos donde cada elemento apunta al siguiente, permitiendo inserciones y eliminaciones eficientes.",
-                        "repository_url": ""
+                        "description": "Data structure where each element points to the next, allowing efficient insertions and deletions.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/LinkedList.js"
                     },
                     {
                         "id": 1304,
                         "title": "Recursion",
-                        "description": "Técnica donde una función se llama a sí misma para resolver problemas complejos.",
-                        "repository_url": ""
+                        "description": "Technique where a function calls itself to solve complex problems.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/Recursion.js"
                     },
                     {
                         "id": 1305,
