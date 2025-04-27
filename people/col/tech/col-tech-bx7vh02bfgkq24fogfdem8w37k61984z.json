@@ -1,15 +1,15 @@
 {
     "personal_info": {
-        "first_name": "",
-        "last_name": "",
+        "first_name": "Jessica Daniela",
+        "last_name": "Otero Fernandez",
         "email": "jessot@hotmail.com",
-        "phone": "",
+        "phone": "3187561263",
         "location": {
             "country": "Colombia",
             "city": "Cali",
-            "state": ""
+            "state": "Valle del Cauca"
         },
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/in/jessicadanielaotero/",
         "website": "",
         "portfolio": "",
         "summary": "Systems engineer with 2 years of experience as a Technological Controls and Risks Specialist. Additionally, I have 1 year of experience in Front-End, developing reusable components in different frameworks and performing test cases as appropriate; and 6 months as Software Developer."
@@ -18,7 +18,11 @@
         {
             "job_title": "Digital Risk Consultant",
             "company": "Deloitte",
-            "location": "",
+            "location":  {
+            "country": "Colombia",
+            "city": "Cali",
+            "state": "Valle del Cauca"
+        } ,
             "start_date": "2022-10-01",
             "end_date": "2025-03-31",
             "currently_working": true,
@@ -59,8 +63,12 @@
         {
             "degree": "Degree in Software Systems Engineering",
             "institution": "ICESI University",
-            "location": "",
-            "start_date": "",
+            "location": {
+            "country": "Colombia",
+            "city": "Cali",
+            "state": "Valle del Cauca"
+        } ,
+            "start_date": "2017-01-10",
             "end_date": "2023-12-31",
             "hours": 0
         }
@@ -78,7 +86,10 @@
                 "react",
                 "vue",
                 "git",
-                "scrum"
+                "scrum",
+                "html",
+                "css",
+                "react"
             ],
             "soft": [],
             "tools": []
