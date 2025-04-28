@@ -262,62 +262,62 @@
                     {
                         "id": 1305,
                         "title": "Array Operations (map, filter, reduce)",
-                        "description": "Funciones de orden superior para transformar, filtrar y reducir arrays en JavaScript.",
-                        "repository_url": ""
+                        "description": "Higher-order functions to transform, filter, and reduce arrays in JavaScript.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/HigherOrderOps.js"
                     },
                     {
                         "id": 1306,
                         "title": "Sorting Algorithms",
-                        "description": "Implementación de algoritmos de ordenamiento como bubble sort, quicksort y merge sort.",
-                        "repository_url": ""
+                        "description": "Implementation of sorting algorithms like bubble sort, quicksort, and merge sort.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/SortingAlgs.js"
                     },
                     {
                         "id": 1307,
                         "title": "Search Algorithms",
-                        "description": "Algoritmos de búsqueda como búsqueda lineal y búsqueda binaria para encontrar elementos en estructuras de datos.",
-                        "repository_url": ""
+                        "description": "Search algorithms like linear search and binary search to find elements in data structures.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/SearchAlgs.js"
                     },
                     {
                         "id": 1308,
                         "title": "Abstract Data Types",
-                        "description": "Tipos de datos abstractos como pilas, colas y listas que definen operaciones sin especificar su implementación concreta.",
-                        "repository_url": ""
+                        "description": "Abstract data types like stacks, queues, and lists that define operations without specifying their concrete implementation.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/AbstractData.js"
                     },
                     {
                         "id": 1401,
                         "title": "Callbacks",
-                        "description": "Funciones que se ejecutan después de completar una operación asíncrona, permitiendo la continuación de un flujo de ejecución.",
-                        "repository_url": ""
+                        "description": "Functions that are executed after completing an asynchronous operation, allowing the continuation of a flow of execution.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/Callbacks.js"
                     },
                     {
                         "id": 1402,
                         "title": "Promises",
-                        "description": "Objeto que representa la terminación o el fracaso eventual de una operación asíncrona.",
-                        "repository_url": ""
+                        "description": "Object that represents the eventual completion or failure of an asynchronous operation.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/Promises.js"
                     },
                     {
                         "id": 1403,
                         "title": "Async/Await",
-                        "description": "Sintaxis que simplifica el manejo de operaciones asíncronas, haciendo que el código sea más legible y fácil de entender.",
-                        "repository_url": ""
+                        "description": "Syntax that simplifies handling asynchronous operations, making the code more readable and easier to understand.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/Async-Await.js"
                     },
                     {
                         "id": 1404,
                         "title": "Asynchronous Error Handling",
-                        "description": "Manejo de errores en operaciones asíncronas utilizando bloques try, catch y finally.",
-                        "repository_url": ""
+                        "description": "Error handling in asynchronous operations using try, catch, and finally blocks.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/AsyncErrorHandling.js"
                     },
                     {
                         "id": 1405,
                         "title": "Event Loop",
-                        "description": "Mecanismo que permite que JavaScript maneje múltiples operaciones simultáneamente a través de un ciclo de eventos.",
-                        "repository_url": ""
+                        "description": "Mechanism that allows JavaScript to handle multiple operations simultaneously through an event loop.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/EventLoop.js"
                     },
                     {
                         "id": 1406,
                         "title": "Promise Lifecycle",
-                        "description": "Etapas de una promesa en JavaScript: pendiente, cumplida o rechazada.",
-                        "repository_url": ""
+                        "description": "Stages of a Promise in JavaScript: pending, fulfilled, or rejected.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/PromiseLifecycle.js"
                     },
                     {
                         "id": 1501,
