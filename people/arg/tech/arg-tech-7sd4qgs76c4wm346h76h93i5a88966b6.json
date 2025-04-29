@@ -224,6 +224,24 @@
                         "title": "Linked Lists",
                         "description": "Estructura de datos donde cada elemento apunta al siguiente, permitiendo inserciones y eliminaciones eficientes.",
                         "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/linkedList.js"
+                    },
+                    {
+                        "id": 1304,
+                        "title": "Recursion",
+                        "description": "Técnica donde una función se llama a sí misma para resolver problemas complejos.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/recursion.js"
+                    },
+                    {
+                        "id": 1305,
+                        "title": "Array Operations (map, filter, reduce)",
+                        "description": "Funciones de orden superior para transformar, filtrar y reducir arrays en JavaScript.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/arrayOp.js"
+                    },
+                    {
+                        "id": 1306,
+                        "title": "Sorting Algorithms",
+                        "description": "Implementación de algoritmos de ordenamiento como bubble sort, quicksort y merge sort.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/sortingAlg.js"
                     }
                 ]
             }
