@@ -322,56 +322,56 @@
                     {
                         "id": 1501,
                         "title": "Elements of JavaScript Style",
-                        "description": "Conjunto de convenciones y estilos recomendados para escribir código JavaScript limpio y legible.",
-                        "repository_url": ""
+                        "description": "A set of conventions and recommended styles for writing clean and readable JavaScript code.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/JS-Styles.js"
                     },
                     {
                         "id": 1502,
                         "title": "SOLID Principles",
-                        "description": "Conjunto de principios para escribir código que sea mantenible, escalable y fácil de entender.",
-                        "repository_url": ""
+                        "description": "A set of principles for writing code that is maintainable, scalable, and easy to understand.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/SOLID.js"
                     },
                     {
                         "id": 1503,
                         "title": "DRY (Don't Repeat Yourself)",
-                        "description": "Principio que recomienda evitar la duplicación de código para mejorar la mantenibilidad.",
-                        "repository_url": ""
+                        "description": "Principle that recommends avoiding code duplication to improve maintainability.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/DRY.js"
                     },
                     {
                         "id": 1504,
                         "title": "KISS (Keep It Simple, Stupid)",
-                        "description": "Principio que sugiere mantener el código simple y directo, evitando la complejidad innecesaria.",
-                        "repository_url": ""
+                        "description": "Principle that suggests keeping code simple and straightforward, avoiding unnecessary complexity.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/KISS.js"
                     },
                     {
                         "id": 1505,
                         "title": "YAGNI (You Ain’t Gonna Need It)",
-                        "description": "Principio que recomienda no implementar características innecesarias hasta que sean realmente necesarias.",
-                        "repository_url": ""
+                        "description": "Principle that recommends not implementing unnecessary features until they are truly needed.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/YAGNI.js"
                     },
                     {
                         "id": 1601,
                         "title": "Unit Testing",
-                        "description": "Escritura de pruebas automatizadas para verificar funcionalidades específicas de manera aislada.",
-                        "repository_url": ""
+                        "description": "Writing automated tests to verify specific functionalities in isolation.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/UniTest.js"
                     },
                     {
                         "id": 1602,
                         "title": "Integration Testing",
-                        "description": "Pruebas que evalúan cómo interactúan diferentes componentes del sistema entre sí.",
-                        "repository_url": ""
+                        "description": "Tests that evaluate how different components of the system interact with each other.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/IntTest.js"
                     },
                     {
                         "id": 1603,
                         "title": "End-to-End Testing",
-                        "description": "Pruebas que simulan el flujo completo de una aplicación para asegurar su correcto funcionamiento desde el principio hasta el fin.",
-                        "repository_url": ""
+                        "description": "Tests that simulate the full flow of an application to ensure its correct functioning from start to finish.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/E2E.js"
                     },
                     {
                         "id": 1604,
                         "title": "Mocking is a Code Smell",
-                        "description": "Evitar el uso excesivo de mocks en las pruebas, ya que puede ser un indicador de un diseño débil.",
-                        "repository_url": ""
+                        "description": "Avoid excessive use of mocks in tests, as it may indicate weak design.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/OverMock.js"
                     },
                     {
                         "id": 1605,
