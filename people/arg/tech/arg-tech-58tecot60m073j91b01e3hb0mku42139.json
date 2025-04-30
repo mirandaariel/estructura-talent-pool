@@ -233,6 +233,66 @@
                         "title": "Array Operations (map, filter, reduce)",
                         "description": "Funciones de orden superior para transformar, filtrar y reducir arrays en JavaScript.",
                         "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1305.js"
+                    },
+                    {
+                        "id": 1306,
+                        "title": "Sorting Algorithms",
+                        "description": "Implementación de algoritmos de ordenamiento como bubble sort, quicksort y merge sort.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1306.js"
+                    },
+                    {
+                        "id": 1307,
+                        "title": "Search Algorithms",
+                        "description": "Algoritmos de búsqueda como búsqueda lineal y búsqueda binaria para encontrar elementos en estructuras de datos.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1307.js"
+                    },
+                    {
+                        "id": 1308,
+                        "title": "Abstract Data Types",
+                        "description": "Tipos de datos abstractos como pilas, colas y listas que definen operaciones sin especificar su implementación concreta.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1308.js"
+                    },
+                    {
+                        "id": 1401,
+                        "title": "Callbacks",
+                        "description": "Funciones que se ejecutan después de completar una operación asíncrona, permitiendo la continuación de un flujo de ejecución.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1401.js"
+                    },
+                    {
+                        "id": 1402,
+                        "title": "Promises",
+                        "description": "Objeto que representa la terminación o el fracaso eventual de una operación asíncrona.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1402.js"
+                    },
+                    {
+                        "id": 1403,
+                        "title": "Async/Await",
+                        "description": "Sintaxis que simplifica el manejo de operaciones asíncronas, haciendo que el código sea más legible y fácil de entender.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1403.js"
+                    },
+                    {
+                        "id": 1404,
+                        "title": "Asynchronous Error Handling",
+                        "description": "Manejo de errores en operaciones asíncronas utilizando bloques try, catch y finally.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1404.js"
+                    },
+                    {
+                        "id": 1405,
+                        "title": "Event Loop",
+                        "description": "Mecanismo que permite que JavaScript maneje múltiples operaciones simultáneamente a través de un ciclo de eventos.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1405.js"
+                    },
+                    {
+                        "id": 1406,
+                        "title": "Promise Lifecycle",
+                        "description": "Etapas de una promesa en JavaScript: pendiente, cumplida o rechazada.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1406.js"
+                    },
+                    {
+                        "id": 1501,
+                        "title": "Elements of JavaScript Style",
+                        "description": "Conjunto de convenciones y estilos recomendados para escribir código JavaScript limpio y legible.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1501.js"
                     }
                     ]
                 }
