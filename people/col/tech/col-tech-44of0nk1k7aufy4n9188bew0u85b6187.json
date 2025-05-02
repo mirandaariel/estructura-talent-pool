@@ -1,0 +1,205 @@
+{
+  "personal_info": {
+    "first_name": "Alen",
+    "last_name": "Oviedo Lagos",
+    "email": "afoviedola@gmail.com",
+    "phone": "+57 3167519375",
+    "location": {
+      "country": "Colombia",
+      "city": "San Juan de Pasto",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/alen-oviedo-lagos-7342a316a/",
+    "website": "https://github.com/AlenOviedo92",
+    "portfolio": "",
+    "summary": "Full Stack Developer con background en Ingeniería Química e Ingeniería de Petróleos que me ayudaron a gestionar y ejecutar proyectos, trabajar en equipo, resolver problemas, investigar y aplicar nuevas tecnologías. Conocimientos en metodologías ágiles, GIT, GitHub, GitLab, estructura de datos, algoritmos, JavaScript, TypeScript, React, Angular, Node.js, Express, PostgreSQL, CSS y frameworks. Experiencia en desarrollo de Front-End y Back-End con HTML, Redux, Redux Toolkit RTK Query, JSON Web Tokens, Sequelize, Bootstrap, Material UI, Angular Material e Insomnia. Con autonomía, perseverancia y responsabilidad."
+  },
+  "work_experience": [
+    {
+      "job_title": "Front-End Developer",
+      "company": "Innevo",
+      "location": "",
+      "start_date": "2024-10-01",
+      "end_date": "2025-01-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollar diferentes componentes para la interfaz del usuario del proyecto Servismart, utilizando Angular, Angular Material y CSS.",
+        "Asistir a las dailies, planning, reuniones de refinamiento y presentaciones con el cliente.",
+        "Convertir el diseño de la interfaz de usuario creado en Figma, en código funcional."
+      ],
+      "achievements": []
+    },
+    {
+      "job_title": "Front-End Developer",
+      "company": "Henry Bootcamp",
+      "location": "",
+      "start_date": "2024-04-01",
+      "end_date": "2024-06-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollar diferentes componentes para la interfaz del usuario de un E-commerce de tecnología, utilizando React, Redux Toolkit RTK Query, Material UI, Bootstrap, CSS.",
+        "Proponer, gestionar y ejecutar el proyecto de un E-commerce de tecnología.",
+        "Incrementar la visibilidad de la aplicación con el diseño."
+      ],
+      "achievements": []
+    },
+    {
+      "job_title": "Full Stack Developer",
+      "company": "Henry Bootcamp",
+      "location": "",
+      "start_date": "2023-11-01",
+      "end_date": "2024-01-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollar tanto el Back-End como el Front-End de una aplicación web con temática de razas de perros.",
+        "Aplicar el CRUD completo a la aplicación.",
+        "Consumo de API RESTful."
+      ],
+      "achievements": []
+    },
+    {
+      "job_title": "Ingeniero de Petróleos",
+      "company": "CORPONARIÑO",
+      "location": "",
+      "start_date": "2019-07-01",
+      "end_date": "2023-07-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Realizar evaluación y seguimiento a los planes de contingencia presentados por las estaciones de servicio y empresas que transportan hidrocarburos y sustancias peligrosas.",
+        "Realizar visitas de control y monitoreo a los proyectos licenciados.",
+        "Elaborar los indicadores del proyecto y reportarlos a la subdirección de la corporación."
+      ],
+      "achievements": []
+    },
+    {
+      "job_title": "Ingeniero Químico",
+      "company": "Fundación Preservar",
+      "location": "",
+      "start_date": "2017-06-01",
+      "end_date": "2018-06-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Brindar asesoría sobre el uso y control de productos químicos en el sector agrario.",
+        "Realizar monitoreo y control de prácticas del cuidado del medio ambiente.",
+        "Realizar visitas técnicas, informes y capacitaciones en pro de salvaguardar la seguridad y salud de los empleados de la empresa."
+      ],
+      "achievements": []
+    },
+    {
+      "job_title": "Docente de Matemáticas y Física",
+      "company": "Secretaría de Educación Pública",
+      "location": "",
+      "start_date": "2017-01-01",
+      "end_date": "2018-06-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Docente encargado de las áreas de matemáticas y física para grados décimo y once.",
+        "Contribuir con la formación académica y personal de los estudiantes."
+      ],
+      "achievements": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "Full Stack Web Developer",
+      "institution": "Henry Bootcamp",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2024-12-31",
+      "hours": 800
+    },
+    {
+      "degree": "Ingeniero de Petróleos",
+      "institution": "Universidad Nacional de Colombia",
+      "location": "",
+      "start_date": "2014-01-01",
+      "end_date": "2017-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Ingeniero Químico",
+      "institution": "Universidad Nacional de Colombia",
+      "location": "",
+      "start_date": "2009-01-01",
+      "end_date": "2016-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "javascript",
+        "typescript",
+        "html",
+        "css",
+        "node.js",
+        "angular",
+        "express",
+        "bootstrap",
+        "react",
+        "redux",
+        "material-ui",
+        "angular-material",
+        "postgresql",
+        "sequelize"
+      ],
+      "soft": [
+        "autonomía",
+        "perseverancia",
+        "responsabilidad",
+        "gestión",
+        "trabajo-en-equipo",
+        "resolución-de-problemas",
+        "investigación"
+      ],
+      "tools": [
+        "git",
+        "github",
+        "gitlab",
+        "trello",
+        "jira",
+        "slack",
+        "discord",
+        "scrum"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Servismart",
+      "description": "Implementación de la plataforma Servismart, aplicación que gestiona licitaciones de proyectos entre contratistas y clientes de diferentes empresas o usuarios independientes.",
+      "technologies": ["typescript", "angular", "angular-material", "css", "node.js", "express", "insomnia", "postgresql"],
+      "url": "https://servi-smart.innevo.cl/"
+    },
+    {
+      "name": "E-commerce Tech",
+      "description": "Desarrollo de un E-commerce de productos tecnológicos con funcionalidades como filtros combinados, autenticación por terceros, borrado lógico, deploy, sistema de favoritos, sistema de reviews, pasarela de pagos y más.",
+      "technologies": ["react", "redux", "css", "bootstrap", "material-ui", "node.js", "express", "json-web-tokens", "insomnia", "postgresql", "sequelize"],
+      "url": "https://github.com/AlenOviedo92/ecommerce"
+    },
+    {
+      "name": "Dog App",
+      "description": "Desarrollo de una aplicación web con un stack PERN (PostgreSQL, Express, React, Node.js) con la temática de razas de perros.",
+      "technologies": ["react", "redux", "css", "node.js", "express", "insomnia", "postgresql", "sequelize"],
+      "url": "https://github.com/AlenOviedo92/PI-Dogs-main"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Elementary"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

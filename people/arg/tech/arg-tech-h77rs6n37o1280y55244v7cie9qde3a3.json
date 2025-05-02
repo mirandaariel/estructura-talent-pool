@@ -1,0 +1,125 @@
+{
+    "personal_info": {
+        "first_name": "María Fernanda",
+        "last_name": "Cortés",
+        "email": "mfercortesdev@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/mfernandacortes/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Backend developer with solid experience in database management and backend technologies."
+    },
+    "work_experience": [
+        {
+            "job_title": "NOC (Network Operations Center)",
+            "company": "CHT Holding",
+            "location": "Remote",
+            "start_date": "2016-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Management of routing and ticket control.",
+                "Conduct route testing to identify line issues.",
+                "Collaborate with the commercial area and handle claims."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Back-End Developer",
+            "company": "",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2016-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Created a scheduling management system.",
+                "Adapted HTML5 template to Cobol language system.",
+                "Developed e-commerce sites with user management and order processing."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/mfernandacortes/labs04"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista de Sistemas",
+            "institution": "JJ Urquiza",
+            "location": "",
+            "start_date": "1992-01-01",
+            "end_date": "1996-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Profesorado Enseñanza Superior",
+            "institution": "Universidad Concepción del Uruguay",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "sql-server",
+                "mongodb",
+                "access",
+                "visual-basic",
+                "foxpro",
+                "rm-cobol",
+                "html5",
+                "css3",
+                "javascript",
+                "php",
+                "django",
+                "laravel",
+                "bootstrap"
+            ],
+            "soft": [],
+            "tools": [
+                "navicat",
+                "netbeans",
+                "workbench",
+                "sql-management-studio",
+                "visual-studio-code",
+                "windev"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Practicolib",
+            "description": "Backend project developed using Django.",
+            "technologies": [
+                "django"
+            ],
+            "url": "https://github.com/mfernandacortes/practicolib"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Pre-Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Milton Pinna",
+            "relationship": "Routing Manager",
+            "contact": "Direct: 19543766037, Office: 19546676550, Fax: 19543372495"
+        }
+    ]
+}

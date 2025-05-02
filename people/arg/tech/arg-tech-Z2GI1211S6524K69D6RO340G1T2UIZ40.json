@@ -1,0 +1,90 @@
+{
+    "personal_info": {
+        "first_name": "Iván",
+        "last_name": "Mina",
+        "email": "minaivan72@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/iv%C3%A1n-mina-2424a1312/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Passionate about technology and software development. Graduate developer with experience in producing applications and back-end solutions. My goal is to apply and expand my knowledge in challenging development environments while contributing to the success of innovative teams. I stand out for my ability to solve problems, learn quickly, and collaborate effectively."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Api's Developer on Spring Boot",
+            "institution": "TODOCODEACADEMY",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Programmer",
+            "institution": "CENTRO DE FORMACIÓN PROFESIONAL N*403",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "websockets",
+                "spring-boot",
+                "hibernate",
+                "javascript",
+                "mysql"
+            ],
+            "soft": [
+                "agile-methodologies",
+                "results-oriented-mindset",
+                "teamwork-and-effective-communication",
+                "commitment-to-continuous-learning"
+            ],
+            "tools": [
+                "postman",
+                "git"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Chat Aplication",
+            "description": "Application implementing WebSockets on Spring Boot and JavaScript.",
+            "technologies": ["WebSockets", "Spring Boot", "JavaScript"],
+            "url": "https://github.com/anothershxck/Chat-Aplication"
+        },
+        {
+            "name": "API REST Store",
+            "description": "Simple REST API to manage sales for a store using Spring Boot, Hibernate, MySQL, Postman, and Multi-layered Architecture.",
+            "technologies": ["Spring Boot", "Hibernate", "MySQL", "Postman"],
+            "url": "https://github.com/anothershxck/API-REST-Bazar"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Technical English"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

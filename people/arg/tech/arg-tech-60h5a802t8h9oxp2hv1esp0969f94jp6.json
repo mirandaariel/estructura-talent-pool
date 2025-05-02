@@ -1,0 +1,95 @@
+{
+    "personal_info": {
+        "first_name": "Nicolas",
+        "last_name": "Artemio Dume",
+        "email": "nicolasartemiodume@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Olavarria",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/nicolas-artemio-dume/",
+        "website": "https://nicolasartdev.netlify.app/",
+        "portfolio": "https://nicolasartdev.netlify.app/",
+        "summary": "Breve descripción de tu perfil y objetivos profesionales"
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Programador Java",
+            "institution": "CFP 401",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bootcamp",
+            "institution": "Krowdy Academy",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Fullstack",
+            "institution": "Cluster IT Olavarria",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "mysql",
+                "mongodb",
+                "scrum"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "npm",
+                "trello",
+                "slack",
+                "insomnia"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Supermercado-app",
+            "description": "Implementé una aplicación de demostración para un supermercado, trabajando junto a un compañero de desarrollo. La aplicación permite a los usuarios explorar productos, añadirlos al carrito, y mantener los productos seleccionados entre sesiones usando Local Storage. El diseño es completamente responsivo, garantizando una buena experiencia en dispositivos móviles.",
+            "technologies": [
+                "JavaScript",
+                "CSS",
+                "Bootstrap",
+                "Local Storage"
+            ],
+            "url": "https://andreaguinder.github.io/supermercado-andy-nico/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

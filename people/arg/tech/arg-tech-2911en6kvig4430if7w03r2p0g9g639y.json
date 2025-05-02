@@ -1,0 +1,132 @@
+{
+    "personal_info": {
+        "first_name": "Franco",
+        "last_name": "Gidaszewski",
+        "email": "gidaszewskifranco@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Developer",
+            "company": "CRP",
+            "location": "Remote",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Designed and implemented a REST API to manage the registration of over 1,000 participants for a marathon event.",
+                "Developed and customized an online platform to manage event parameters, pricing, payroll, and participant registrations.",
+                "Deployed the solution to the cloud, integrating a CI/CD pipeline to automate development workflows.",
+                "Optimized company workflows by improving operational efficiency, reducing expenses, and enhancing user experience."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "National Technological University of Buenos Aires",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2024-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed custom plugins and web components to improve website functionality.",
+                "Collaborated with a team of developers to refactor legacy code.",
+                "Improved website traffic and usability, leading to increased site visits."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer & Project Lead",
+            "company": "UTN Haedo",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "2024-08-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Assembled and led a development team, overseeing project planning.",
+                "Acted as the primary liaison with the client.",
+                "Directed the creation and deployment of an API and a customized platform.",
+                "Achieved a 25% increase in student engagement."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computer Science - Higher Technician in Programming",
+            "institution": "TECLAB",
+            "location": "Buenos Aires",
+            "start_date": "2023-06-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Programming - Data Engineering",
+            "institution": "Bootcamp",
+            "location": "Buenos Aires",
+            "start_date": "2023-03-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Programming - Web Development using Python",
+            "institution": "Bootcamp",
+            "location": "Buenos Aires",
+            "start_date": "2022-09-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Engineering - Industrial Engineer",
+            "institution": "National University of Litoral",
+            "location": "Santa Fe",
+            "start_date": "2021-03-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "javascript",
+                "django-&-drf",
+                "postgresql",
+                "git",
+                "docker",
+                "linux"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "djpro",
+            "description": "Designed and developed djpro, a Python package tailored for Django that streamlines project creation and command execution.",
+            "technologies": ["python", "django", "docker", "django-rest-framework"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

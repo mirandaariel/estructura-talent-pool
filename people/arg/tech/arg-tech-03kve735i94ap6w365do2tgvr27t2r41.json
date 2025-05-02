@@ -1,0 +1,90 @@
+{
+    "personal_info": {
+        "first_name": "Bruno Gabriel",
+        "last_name": "Bazan",
+        "email": "bazanbruno199@gmail.com",
+        "phone": "+54 9381 401-8898",
+        "location": {
+            "country": "Argentina",
+            "city": "San Miguel de Tucumán",
+            "state": "Tucumán"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Actualmente me enfoco en expandir mis habilidades hacia el desarrollo full stack, integrando conocimientos en front-end y back-end para crear soluciones completas y eficientes. Tengo experiencia en la resolución de problemas tanto de manera individual como colaborativa. Me destaco por mi capacidad para trabajar en equipos multidisciplinarios, siempre dispuesto a aprender y adaptarme rápidamente a nuevas tecnologías."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [],
+            "soft": [],
+            "tools": [
+                "github",
+                "visual-studio",
+                "netlify",
+                "visual-studio-code"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "CRUD Hospital React JS + MySQL",
+            "description": "Desarrollo de una aplicación web para la administración del hospital que realiza varias acciones sobre los objetos en la base de datos.",
+            "technologies": [
+                "node-js",
+                "express",
+                "axios",
+                "vite",
+                "workbench",
+                "react-bootstrap"
+            ],
+            "url": ""
+        },
+        {
+            "name": "CRUD Hospital C# + Microsoft SQL Server",
+            "description": "Desarrollo de una aplicación de escritorio para la asignación de turnos de un paciente realizando consultas para el manejo de datos.",
+            "technologies": [
+                "sql-server-management-studio",
+                "microsoft-visual-studio"
+            ],
+            "url": ""
+        },
+        {
+            "name": "CRUD Hospital HTML + JSON",
+            "description": "Aplicación web de un hospital con CRUD para la asignación de turnos.",
+            "technologies": [
+                "javascript",
+                "html5",
+                "css",
+                "json"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

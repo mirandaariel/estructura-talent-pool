@@ -1,0 +1,99 @@
+{
+  "personal_info": {
+    "first_name": "Ingrid",
+    "last_name": "Lopez",
+    "email": "Mtra.ingrid.lopez@gmail.com",
+    "phone": "664-421-36-31",
+    "location": {
+      "country": "Mexico",
+      "city": "Tijuana",
+      "state": "Baja California"
+    },
+    "linkedin": "",
+    "website": "https://gortfolio-ingrid-lopez.netlifv.asp/",
+    "portfolio": "https://github.com/MaxSteelAT",
+    "summary": "Desarrolladora Frontend con experiencia en la creación de sitios web responsivos utilizando HTML, CSS (Bootstrap), JavaScript. Apasionada por aprender nuevas tecnologías y crear interfaces intuitivas y funcionales."
+  },
+  "work_experience": [
+    {
+      "job_title": "Desarrolladora Web",
+      "company": "ToGo México",
+      "location": "Tijuana, B.C.",
+      "start_date": "",
+      "end_date": "",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo web con Wordpress con Elementor.",
+        "Análisis de componentes.",
+        "Actualización de diseño.",
+        "Creación de componentes.",
+        "Integración y actualización de plugins."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Maestría en Educación",
+      "institution": "Universidad Nueva Baja",
+      "location": "Baja California, México",
+      "start_date": "2018-03-01",
+      "end_date": "2019-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Licenciatura en Educación",
+      "institution": "Universidad Autónoma de Baja California",
+      "location": "Baja California, México",
+      "start_date": "2011-08-01",
+      "end_date": "2015-06-30",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "html5",
+        "wordpress",
+        "css3",
+        "javascript",
+        "seo",
+        "git",
+        "github",
+        "web-responsive"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Age Calculator - Frontend Mentor",
+      "description": "Calcular los días, meses y años que han transcurrido dependido del año de nacimiento.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "url": ""
+    },
+    {
+      "name": "Interactive Rating Component - Frontend Mentor",
+      "description": "Componente de calificación interactivo con selección y envío de calificación numérica y tarjeta 'Gracias' como respuesta.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "url": ""
+    },
+    {
+      "name": "Order Summary Component",
+      "description": "Componente de resumen de pedido con estados flotantes para elementos interactivos.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "url": ""
+    }
+  ],
+  "languages": [],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

@@ -1,0 +1,192 @@
+{
+    "personal_info": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "john.doe@example.com",
+        "phone": "+1 234 567 890",
+        "location": {
+            "country": "United States",
+            "city": "San Francisco",
+            "state": "California"
+        },
+        "linkedin": "https://linkedin.com/in/johndoe",
+        "website": "https://johndoe.com",
+        "portfolio": "",
+        "summary": "Experienced software engineer with expertise in web development and cloud computing."
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Engineer",
+            "company": "TechCorp",
+            "location": "San Francisco, CA",
+            "start_date": "2020-06-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed and maintained web applications using React and Node.js.",
+                "Optimized system performance, reducing load times by 30%.",
+                "Led a team of 5 developers to successfully deliver multiple projects."
+            ],
+            "achievements": [
+                "Implemented a new caching mechanism that improved API response time by 50%.",
+                "Recognized as Employee of the Year in 2022."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "University of California, Berkeley",
+            "location": "Berkeley, CA",
+            "start_date": "2016-09-01",
+            "end_date": "2020-05-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javaScript",
+                "react",
+                "node.js",
+                "python",
+                "docker",
+                "aws"
+            ],
+            "soft": [
+                "leadership",
+                "communication",
+                "problem-solving"
+            ],
+            "tools": [
+                "figma",
+                "jira",
+                "trello"
+            ]
+        },
+        "detailed": {
+            "technical": {
+                "javaScript": [
+                    {
+                        "name": "Closures",
+                        "repository_url": "https://github.com/johndoe/javascript-closures"
+                    },
+                    {
+                        "name": "Asynchronous Programming (Promises & Async/Await)",
+                        "repository_url": "https://github.com/johndoe/async-js"
+                    },
+                    {
+                        "name": "Event Loop & Concurrency Model",
+                        "repository_url": "https://github.com/johndoe/event-loop"
+                    }
+                ],
+                "react": [
+                    {
+                        "name": "React Hooks (useState, useEffect, useReducer)",
+                        "repository_url": "https://github.com/johndoe/react-hooks"
+                    },
+                    {
+                        "name": "Context API & State Management",
+                        "repository_url": "https://github.com/johndoe/context-api"
+                    },
+                    {
+                        "name": "Server-Side Rendering with Next.js",
+                        "repository_url": "https://github.com/johndoe/nextjs-ssr"
+                    }
+                ],
+                "node.js": [
+                    {
+                        "name": "REST API with Express.js",
+                        "repository_url": "https://github.com/johndoe/express-api"
+                    },
+                    {
+                        "name": "Authentication with JWT",
+                        "repository_url": "https://github.com/johndoe/jwt-auth"
+                    },
+                    {
+                        "name": "Real-time WebSockets with Socket.io",
+                        "repository_url": "https://github.com/johndoe/socketio-chat"
+                    }
+                ]
+            },
+            "soft": {
+                "leadership": [
+                    {
+                        "name": "Led a team of 5 developers",
+                        "description": "Successfully managed a team working on a large-scale web application."
+                    },
+                    {
+                        "name": "Mentorship",
+                        "description": "Guided junior developers through complex problem-solving and best practices."
+                    }
+                ],
+                "communication": [
+                    {
+                        "name": "Public Speaking",
+                        "description": "Presented technical topics at meetups and conferences."
+                    },
+                    {
+                        "name": "Technical Writing",
+                        "description": "Published blog posts and documentation for open-source projects."
+                    }
+                ]
+            }
+        }
+    },
+    "certifications": [
+        {
+            "name": "AWS Certified Solutions Architect",
+            "issuing_organization": "Amazon Web Services",
+            "issue_date": "2021-08-15",
+            "expiration_date": "2024-08-15",
+            "credential_id": "ABC123456"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Open Source Contribution",
+            "description": "Contributed to an open-source project improving authentication security.",
+            "technologies": ["OAuth2", "Node.js", "Express"],
+            "url": "https://github.com/johndoe/project"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Native"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Fluent"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Coding Mentor",
+            "organization": "Code for Good",
+            "location": "Remote",
+            "start_date": "2021-03-01",
+            "end_date": "2022-06-30",
+            "responsibilities": [
+                "Mentored junior developers in full-stack web development.",
+                "Conducted weekly coding workshops and hackathons."
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "title": "The Future of JavaScript Frameworks",
+            "publisher": "Tech Journal",
+            "publication_date": "2023-04-15",
+            "url": "https://techjournal.com/future-of-js"
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Smith",
+            "relationship": "Former Manager",
+            "contact": "jane.smith@example.com"
+        }
+    ]
+}

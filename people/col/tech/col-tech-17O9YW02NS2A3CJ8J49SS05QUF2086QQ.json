@@ -1,0 +1,183 @@
+{
+    "personal_info": {
+        "first_name": "Camilo",
+        "last_name": "Gomez",
+        "email": "camigomezbernal@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Colombia",
+            "city": "Bogotá",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/camilogdev",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un desarrollador de software en formación con un enfoque en el desarrollo de aplicaciones web y la gestión de bases de datos. Mi experiencia incluye tecnologías como Python, JavaScript, HTML, CSS, y bases de datos relacionales (PostgreSQL, MariaDB) y no relacionales (MongoDB). Aporto valor a los proyectos mediante la automatización de procesos con Python y la implementación de metodologías ágiles (Scrum)."
+    },
+    "work_experience": [
+        {
+            "job_title": "Practicante Universitario Desarrollo y Automatización",
+            "company": "Sodimac Corona Home Center",
+            "location": "Bogotá, D.C.",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño y desarrollo de soluciones web utilizando HTML, CSS y JavaScript.",
+                "Automatizo procesos con Python, optimizando tareas operativas para mejorar la eficiencia del equipo.",
+                "Colaboro en proyectos de analítica de datos y desarrollo web, utilizando herramientas como Jira y Power BI bajo metodologías ágiles."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Asesor Comercial",
+            "company": "One Contact",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "2025-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Brindé atención y asesoramiento personalizado a los clientes, gestionando comunicaciones a través de diversos canales (llamadas, chats y correos electrónicos).",
+                "Analicé sus necesidades para ofrecer soluciones adecuadas y asegurar una experiencia satisfactoria.",
+                "Facilité la coordinación entre diferentes equipos internos para optimizar la gestión de solicitudes y mejorar la eficiencia en la atención al cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Auxiliar de Verificación y Digitalización de Datos",
+            "company": "Asesoría & Gestión",
+            "location": "Bogotá, D.C.",
+            "start_date": "2022-11-01",
+            "end_date": "2022-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Responsable de la digitalización y verificación de información en documentos y registros.",
+                "Encargado de asegurar la precisión y consistencia de los datos mediante un proceso detallado de revisión y validación.",
+                "Gestioné la documentación y los archivos, garantizando su correcta organización para facilitar el acceso y uso eficiente por parte de otros equipos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en desarrollo de software",
+            "institution": "Universidad Manuela Beltrán",
+            "location": "Bogotá, D.C.",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "javascript",
+                "html",
+                "css",
+                "node.js",
+                "django",
+                "express.js",
+                "react.js",
+                "mysql",
+                "postgresql",
+                "mariadb",
+                "mongodb"
+            ],
+            "soft": [
+                "adaptabilidad",
+                "trabajo-en-equipo",
+                "inlgés-intermedio"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "jira",
+                "figma",
+                "power-bi",
+                "docker",
+                "microsoft-office"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Curso de NPM: Gestión de paquetes y dependencias con JavaScript",
+            "issuing_organization": "Platzi",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Asincronismo JavaScript",
+            "issuing_organization": "Platzi",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso Frontend Developer",
+            "issuing_organization": "Platzi",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Fundamentos Javascript",
+            "issuing_organization": "Platzi",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Python",
+            "issuing_organization": "Platzi",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Fundamentos de Python",
+            "issuing_organization": "Platzi",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso Profesional de Git y GitHub",
+            "issuing_organization": "Platzi",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "E-commerce con Business Intelligence",
+            "description": "Desarrollé un e-commerce completo con integración de un módulo de Business Intelligence, utilizando tecnologías como HTML, CSS, JavaScript, y bases de datos como PostgreSQL y MariaDB.",
+            "technologies": ["HTML", "CSS", "JavaScript", "PostgreSQL", "MariaDB", "Power BI", "Scrum", "Jira", "Figma"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

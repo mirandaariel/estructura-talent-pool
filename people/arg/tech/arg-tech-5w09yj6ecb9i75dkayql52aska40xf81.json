@@ -1,0 +1,157 @@
+{
+    "personal_info": {
+        "first_name": "Guillermo",
+        "last_name": "Andrada",
+        "email": "guillermoandrada@gmail.com",
+        "phone": "+5493876295801",
+        "location": {
+            "country": "Argentina",
+            "city": "Media Agua",
+            "state": "San Juan"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Dedicated and efficient software developer with over 4 years of experience in designing and developing application layers, databases, and presentation layers. Certified in full stack development, specializing in modern technologies such as MERN and MEVN stacks (MongoDB, Express.js, React/Vue, Node.js) as well as Python and Django. Seeking remote opportunities to leverage my expertise and contribute to innovative projects."
+    },
+    "work_experience": [
+        {
+            "job_title": "Freelance Full Stack Developer",
+            "company": "",
+            "location": "",
+            "start_date": "2019-12-01",
+            "end_date": "2025-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Collaborating with clients to gather and understand system specifications and requirements.",
+                "Designing the overall architecture of web applications to ensure scalability, performance, and maintainability.",
+                "Implementing server-side logic, including database modeling, API development, and integration with third-party services.",
+                "Developing user interfaces and client-side functionality using HTML, CSS, and modern JavaScript frameworks.",
+                "Designing and maintaining MySQL or NoSQL databases, ensuring data integrity and optimal performance.",
+                "Identifying and resolving application issues or bugs through thorough testing and debugging.",
+                "Deploying applications to production environments and providing ongoing support and maintenance as needed."
+            ],
+            "achievements": [
+                "Delivered over 15 systems and services on time, meeting over 80% of the specified requirements.",
+                "Developed interfaces that increased user engagement by 25%, with responsive design for improved UX.",
+                "Implemented automated email notifications, reducing manual follow-up tasks by 40% for bookings, reminders, and feedback."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Electro 3",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Utilizing the Vue.js framework and Vuex library for building reactive and modular user interfaces and managing state.",
+                "Writing JavaScript code to implement functionality.",
+                "Using Cypress, for automated testing.",
+                "Leveraging the Prime Vue library to enhance interactive aspects.",
+                "Developing and customizing complex components that consume RESTful APIs using Axios for making HTTP requests."
+            ],
+            "achievements": [
+                "Ensured Cross-Platform Compatibility, expanding the accessibility.",
+                "Enhanced User Experience.",
+                "Established a Scalable and Maintainable Codebase.",
+                "Implemented Robust and Secure Database Management protocols.",
+                "Ensured Data Availability and Reliability.",
+                "Optimized Codebase for efficiency and proactively addressed bugs, resulting in a more stable software environment."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Backend Developer / Database Administrator",
+            "company": "Electro 3",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Designing, creating, and optimizing database tables and schemas using SQL.",
+                "Designing and implementing CRUD operations, handling data validation and sanitization, and optimizing queries for improved performance.",
+                "Utilizing tools like MySQL Workbench for designing and managing the database schema, as well as Postman for testing and debugging.",
+                "Creating and maintaining API endpoints using PHP, Node.js, and their respective frameworks (CodeIgniter and Express).",
+                "Identifying and resolving issues, bugs, and performance bottlenecks within the backend codebase.",
+                "Having a strong understanding and proficiency in PHP, CodeIgniter (a PHP framework), SQL (Structured Query Language), Node.js, and Express."
+            ],
+            "achievements": [
+                "Ensured Cross-Platform Compatibility, expanding the accessibility.",
+                "Enhanced User Experience.",
+                "Established a Scalable and Maintainable Codebase.",
+                "Implemented Robust and Secure Database Management protocols.",
+                "Ensured Data Availability and Reliability.",
+                "Optimized Codebase for efficiency and proactively addressed bugs, resulting in a more stable software environment."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Teacher of Computer Science",
+            "institution": "CONSUDEC",
+            "location": "",
+            "start_date": "2016-02-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachelor - Social and Computer Sciences",
+            "institution": "E.C.L.G.S.M.",
+            "location": "",
+            "start_date": "1998-03-01",
+            "end_date": "2004-10-30",
+            "hours": 0
+        },
+        {
+            "degree": "Teacher of English - Abandoned",
+            "institution": "U.N.S.J.",
+            "location": "",
+            "start_date": "2008-02-01",
+            "end_date": "2010-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "vue",
+                "next.js",
+                "php",
+                "blade",
+                "al-integration",
+                "python",
+                "django",
+                "jinja"
+            ],
+            "soft": [
+                "problem-solving",
+                "communication"
+            ],
+            "tools": [
+                "visual-studio-code",
+                "git",
+                "github",
+                "vcs",
+                "jira",
+                "trello"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,109 @@
+{
+    "personal_info": {
+        "first_name": "Lizeth Magali",
+        "last_name": "Churaira Mamani",
+        "email": "Lizethchm4@gmail.com",
+        "phone": "+51 968297188",
+        "location": {
+            "country": "Peru",
+            "city": "Lima",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "https://github.com/lizethch",
+        "summary": "Desarrolladora Front-end con experiencia en análisis de TI y con ganas de crear interfaces intuitivas combinando habilidades técnicas y un enfoque centrado en el usuario. Actualmente buscando nuevos retos profesionales que me permitan crecer en la industria tecnológica, transformando ideas en productos a través de decisiones estratégicas y la pasión por la programación."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista de TI",
+            "company": "SUNAT",
+            "location": "Lima, Perú",
+            "start_date": "2021-11-01",
+            "end_date": "2023-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Realizar pruebas y actualizaciones de servicios y aplicaciones informáticas para asegurar su óptimo funcionamiento y mejorar la experiencia del usuario, lo que aumentará la eficiencia y la satisfacción del cliente.",
+                "Genere informes con Power BI y maneje tickets de incidentes para brindar información valiosa a la administración y resolver problemas rápidamente, mejorando así la toma de decisiones y la calidad del servicio.",
+                "Administrar, monitorear y controlar los requisitos de TI para garantizar que los sistemas cumplan con las necesidades y regulaciones del negocio, optimizando así los procesos internos y la seguridad de la información."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de TI",
+            "company": "SIGCOMT",
+            "location": "Lima, Perú",
+            "start_date": "2020-12-01",
+            "end_date": "2021-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Actualizar y probar las bases de datos y módulos de Big Magic ERP para optimizar el rendimiento del sistema y mejorar la eficiencia operativa de la empresa.",
+                "Analizar requisitos e incidencias reportadas por los usuarios para identificar áreas de mejora y aumentar la satisfacción del cliente interno.",
+                "Implementar mejoras en los procesos y flujos de información utilizando ITIL para estandarizar las prácticas de TI, reducir costos y alinear los servicios de TI con los objetivos comerciales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Programa educativo intensivo de desarrollo web full-stack",
+            "institution": "Codeable",
+            "location": "Lima, Perú",
+            "start_date": "2024-01-01",
+            "end_date": "2024-06-30",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería de Sistemas",
+            "institution": "Universidad Privada de Tacna",
+            "location": "Lima, Perú",
+            "start_date": "2014-01-01",
+            "end_date": "2014-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "redux",
+                "node-js",
+                "html",
+                "typeScript",
+                "css",
+                "react",
+                "postgress-sql",
+                "express"
+            ],
+            "soft": [],
+            "tools": [
+                "vs-code",
+                "git",
+                "github",
+                "scrum"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Proyecto E-commerce",
+            "description": "El reto es desarrollar una moderna plataforma de e-commerce creada con React + TypeScript, con un diseño responsivo con Tailwind CSS y funciones de compra integrales.",
+            "technologies": ["react", "typescript", "tailwind-css"],
+            "url": "https://github.com/lizethch/ecommerce"
+        },
+        {
+            "name": "Servidor Web Multipropósito",
+            "description": "El proyecto consiste en la creación de un servidor web multipropósito que sirva archivos estáticos así como una API web para obtener información sobre canciones categorizadas por artista y género musical.",
+            "technologies": ["typescript", "html", "css"],
+            "url": "https://github.com/lizethch/node-js-web-server-c14w10t01"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

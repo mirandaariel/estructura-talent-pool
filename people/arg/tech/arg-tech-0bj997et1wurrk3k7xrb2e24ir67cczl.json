@@ -1,0 +1,112 @@
+{
+    "personal_info": {
+        "first_name": "Franco",
+        "last_name": "Mayer",
+        "email": "francomayer96@outlook.com",
+        "phone": "+54 9 351 78830756",
+        "location": {
+            "country": "Argentina",
+            "city": "Villa Cabrera",
+            "state": "Córdoba"
+        },
+        "linkedin": "https://linkedin.com/in/franmayer",
+        "website": "",
+        "portfolio": "https://vercel.com/franmayer",
+        "summary": "Front-end developer experienced in designing and optimizing functional websites with responsive design."
+    },
+    "work_experience": [
+        {
+            "job_title": "Front End Developer",
+            "company": "Freelance",
+            "location": "Remote",
+            "start_date": "2024-07-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Designed and optimized functional websites for diverse clients.",
+                "Performed continuous maintenance and improvements to ensure proper functionality.",
+                "Ensured responsive designs for seamless functionality across devices.",
+                "Implemented updates based on user feedback to improve performance and usability."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Front End Developer",
+            "company": "SCRT Group LLC",
+            "location": "",
+            "start_date": "2023-12-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implemented animations and significant modifications in company projects.",
+                "Actively contributed to the development and enhancement of functionalities.",
+                "Assisted in debugging and troubleshooting front-end issues.",
+                "Participated in code reviews and provided feedback to improve code quality."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Front End Developer",
+            "company": "Hub Marketing Agency",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "In charge of creating and optimizing visually attractive and functional websites.",
+                "Developed and maintained websites, created optimized landing pages for conversions.",
+                "Improved user experience (UX/UI)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript-(es6+)",
+                "sass",
+                "php",
+                "mysql",
+                "bootstrap-5",
+                "milligram.js",
+                "vite",
+                "vsc",
+                "responsive-design",
+                "ux/ui-optimization",
+                "git",
+                "version-control"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Landing Page for Creative Agency",
+            "description": "Built with HTML5, Sass, and Bootstrap. Responsive design and performance optimization.",
+            "technologies": ["HTML5", "Sass", "Bootstrap"],
+            "url": "https://github.com/Franmayer/creative-agency-landing"
+        },
+        {
+            "name": "Portfolio for Graphic Designer and Architect",
+            "description": "Built with HTML5, Sass, and Bootstrap. Responsive design and performance optimization.",
+            "technologies": ["HTML5", "Sass", "Bootstrap"],
+            "url": "https://vercel.com/Franmayer/portfolio-demo"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

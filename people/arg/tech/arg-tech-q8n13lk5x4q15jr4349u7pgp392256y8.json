@@ -1,0 +1,111 @@
+{
+    "personal_info": {
+        "first_name": "Leonel",
+        "last_name": "Alexander Diaz",
+        "email": "leonelalexanderit@gmail.com",
+        "phone": "+54 383 4595860",
+        "location": {
+            "country": "Argentina",
+            "city": "San Fernando del Valle",
+            "state": "Catamarca"
+        },
+        "linkedin": "https://linkedin.com/in/leonelalexdiaz",
+        "website": "https://github.com/LeonelAlexanderD",
+        "portfolio": "",
+        "summary": "Soy estudiante universitario cursando mi 3er año en la Tecnicatura en Diseño de Software. Estoy buscando una posición remota que me ayude a crecer profesionalmente y seguir formándome aún más para lograr ser un activo valioso. Me encuentro abierto a incorporar nuevas tecnologías y perfeccionar aquellas en las que ya tengo conocimiento."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista de Sistemas",
+            "company": "NOA Virtual",
+            "location": "",
+            "start_date": "2023-10-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Análisis de los procesos realizados en el departamento de recaudación de impuestos pertenecientes a ARCA.",
+                "Desarrollo de documentación ERS para el posterior desarrollo de un sistema.",
+                "Proponer mejoras en el proceso utilizando habilidades de análisis, comunicación y resolución de problemas."
+            ],
+            "achievements": [
+                "El resultado recibió el visto bueno tanto de superiores como del cliente."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Diseño de Software",
+            "institution": "Universidad Nacional de Catamarca",
+            "location": "Catamarca, Argentina",
+            "start_date": "2022-02-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "QA Manual",
+            "institution": "Egg Cooperation",
+            "location": "",
+            "start_date": "2022-04-01",
+            "end_date": "2022-09-30",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Full Stack Java",
+            "institution": "Codo a Codo",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "2024-07-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "python",
+                "django",
+                "javascript",
+                "sql",
+                "mysql",
+                "postgresql",
+                "supabase",
+                "css",
+                "html",
+                "bootstrap",
+                "git",
+                "openai"
+            ],
+            "soft": [
+                "communication",
+                "problem-solving"
+            ],
+            "tools": [
+                "taiga",
+                "slack",
+                "trello",
+                "metodologías-áagiles-(scrum)"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

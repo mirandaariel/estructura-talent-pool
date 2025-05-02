@@ -1,0 +1,110 @@
+{
+    "personal_info": {
+        "first_name": "Patricia",
+        "last_name": "Herrera",
+        "email": "herrerapatriciadg@gmail.com",
+        "phone": "(+56) 9 7869 1120",
+        "location": {
+            "country": "Chile",
+            "city": "Santiago",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/patricia-herrera-6775012a0/",
+        "website": "https://github.com/itsPatH",
+        "portfolio": "",
+        "summary": "Estoy en búsqueda de mi primera oportunidad profesional como desarrolladora Full Stack. He trabajado en el desarrollo de sitios web interactivos y funcionales. Estoy comprometida con el aprendizaje continuo, la mejora constante y la entrega de soluciones de software eficientes y escalables. Además, tengo un gran interés en las tecnologías de inteligencia artificial, y me enfoco en ampliar mis habilidades en este campo para seguir innovando y contribuir en proyectos de alto impacto."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrolladora Full Stack (Freelance)",
+            "company": "Saurio SpA",
+            "location": "Santiago, Chile",
+            "start_date": "2024-09-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y desarrollo del e-commerce pollosaurio.cl con React.js y Tailwind CSS, asegurando una interfaz moderna, responsiva y funcional.",
+                "Implementación de SEO, optimización de rendimiento, análisis de métricas clave y configuración de Google Analytics para el monitoreo detallado.",
+                "Integración de funcionalidades clave, como la visualización de sucursales y una sección interactiva de postulaciones laborales.",
+                "Colaboración directa con el cliente para asegurar que el diseño y las funcionalidades se ajustaran a sus necesidades."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certificación en Desarrollo Full Stack",
+            "institution": "CoderHouse",
+            "location": "Online",
+            "start_date": "2023-08-01",
+            "end_date": "2024-11-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "bootstrap",
+                "git",
+                "github",
+                "sass",
+                "seo",
+                "hosting",
+                "javaScript",
+                "react.js",
+                "node.js",
+                "express",
+                "mongodb",
+                "websockets",
+                "jwt",
+                "passport",
+                "bcrypt",
+                "mailing",
+                "testing",
+                "docker",
+                "owasp",
+                "clusters",
+                "nestjs",
+                "product-cloud",
+                "typescript",
+                "python",
+                "machine-learning"
+            ],
+            "soft": [
+                "colaboración-en-equipo",
+                "metodologías-ágeis",
+                "aprendizaje-continuo",
+                "mejora-constante"
+            ],
+            "tools": [
+                "scrum",
+                "kanban",
+                "react-router",
+                "firebase"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate (written)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

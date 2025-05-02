@@ -1,0 +1,131 @@
+{
+    "personal_info": {
+        "first_name": "Edwin",
+        "last_name": "Torres Muñiz",
+        "email": "edwintorres0115@hotmail.com",
+        "phone": "+57 322 3526757",
+        "location": {
+            "country": "Colombia",
+            "city": "Cartagena de Indias",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un desarrollador de software en formación, apasionado por la tecnología y la resolución de problemas a través del código. Actualmente, estoy aplicando mis conocimientos en el desarrollo backend, explorando nuevas oportunidades y desafiándome constantemente para mejorar mis habilidades en este apasionante campo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Pasante de Desarrollo de Software y Desarrollador Backend",
+            "company": "Tecnológico Comfenalco",
+            "location": "Colombia",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación y desarrollo de un software para la gestión de proyectos de aula utilizando Laravel Framework para el desarrollo de la lógica de negocio.",
+                "Realización de módulos administrativos y de seguridad para la gestión de usuarios, perfiles y permisos según los niveles de acceso correspondientes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "Enterprise Control - Cardique",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de soluciones utilizando Laravel Framework.",
+                "Desarrollo de API REST para un software de gestión documental.",
+                "Diseño y desarrollo de varios módulos fundamentales para el proyecto.",
+                "Implementación de código eficiente y escalable que cumpla con los requisitos del proyecto y las mejores prácticas de la industria."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnólogo en Desarrollo de Software",
+            "institution": "Fundación Universitaria Tecnológico Comfenalco",
+            "location": "Cartagena de Indias, Colombia",
+            "start_date": "2020-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería de Sistemas",
+            "institution": "Fundación Universitaria Tecnológico Comfenalco",
+            "location": "Cartagena de Indias, Colombia",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Programación Web",
+            "institution": "Universidad Autónoma de Bucaramanga",
+            "location": "Bucaramanga, Colombia",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "laravel",
+                "postgresql",
+                "git-y-github",
+                "nodejs",
+                "postman",
+                "php",
+                "mongodb",
+                "swagger"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "resolucion-de-conflictos",
+                "responsabilidad",
+                "empatia",
+                "aprendizaje-continuo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "ProAula",
+            "description": "Proyecto para la gestión y automatización mediante herramientas tecnológicas los diferentes procesos para llevar a cabo un proyecto de aula.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "GestionDocs",
+            "description": "Sistema de gestión documental para la gestión y organización de documentos y expedientes digitales. Facilitando el control de versiones, la seguridad de la información y la automatización de procesos.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Julio Cesar Orozco",
+            "relationship": "Coordinador del centro de desarrollo",
+            "contact": "Tel. 3107001240"
+        },
+        {
+            "name": "Brian Martínez",
+            "relationship": "Líder de desarrollo y docente",
+            "contact": "Tel. 3045739786"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+  "personal_info": {
+    "first_name": "Adrian",
+    "last_name": "Alejos Garcia",
+    "email": "adriankeomaa@gmail.com",
+    "phone": "",
+    "location": {
+      "country": "Argentina",
+      "city": "Buenos Aires",
+      "state": ""
+    },
+    "linkedin": "",
+    "website": "https://github.com/adrian16110311",
+    "portfolio": "",
+    "summary": "Soy un desarrollador full stack con experiencia en JavaScript, especializado en el desarrollo de aplicaciones web utilizando tecnologías modernas como React, Node.js y bases de datos NoSQL. Apasionado por la programación y el aprendizaje continuo, busco un entorno desafiante donde pueda aplicar mis habilidades y seguir creciendo profesionalmente."
+  },
+  "work_experience": [
+    {
+      "job_title": "Desarrollador Full Stack",
+      "company": "Tienda Fitness",
+      "location": "",
+      "start_date": "2025-01-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollo y mantenimiento de aplicaciones web en React.js y Node.js.",
+        "Creación y consumo de APIs RESTful.",
+        "Implementación de autenticación y seguridad con JWT y bcrypt.",
+        "Integración con bases de datos NoSQL como MongoDB.",
+        "Desarrollo de interfaces dinámicas y responsivas con React y framer-motion.",
+        "Optimización del rendimiento y accesibilidad web.",
+        "Gestión de estado en aplicaciones escalables."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "",
+      "institution": "UTN",
+      "location": "",
+      "start_date": "2024-01-01",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "Diplomatura Programación Web Full Stack",
+      "institution": "Extensión UTN",
+      "location": "",
+      "start_date": "2024-06-01",
+      "end_date": "2025-01-01",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "javascript",
+        "react.js",
+        "html",
+        "css",
+        "bootstrap",
+        "node.js",
+        "express.js",
+        "mongodb",
+        "firebase",
+        "jwt",
+        "bcrypt",
+        "api-rest",
+        "vite",
+        "mysql",
+        "mongoose",
+        "aws",
+        "redux",
+        "es6",
+        "dom",
+        "json"
+      ],
+      "soft": [
+        "capacidad-de-aprendizaje-autónomo",
+        "resolución-de-problemas"
+      ],
+      "tools": [
+        "git",
+        "github",
+        "framer-motion"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Técnico"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

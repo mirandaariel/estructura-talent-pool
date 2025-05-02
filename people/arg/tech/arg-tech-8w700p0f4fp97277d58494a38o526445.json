@@ -1,0 +1,82 @@
+{
+    "personal_info": {
+        "first_name": "Facundo",
+        "last_name": "Martínez",
+        "email": "Facumar04@hotmail.com",
+        "phone": "2314-535427",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Backend Developer con conocimientos sólidos en desarrollo Backend utilizando tecnologías como Node.js, TypeScript, NestJS, Express.js, TypeORM y PostgreSQL. Apasionado por construir APIs RESTful escalables, optimizar el rendimiento de bases de datos y desarrollar soluciones eficientes que ofrezcan experiencias de usuario fluidas. Conocimientos en metodologías ágiles, GIT, estructuras de datos, algoritmos y diseño de bases de datos relacionales."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 800
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "node.js",
+                "nestjs",
+                "express.js",
+                "typeorm",
+                "postgresql"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "slack",
+                "trello",
+                "postman"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Ecommerce Fellini-Bar",
+            "description": "Plataforma completa de administración y gestión para restaurantes, permite explorar el menú, realizar pedidos y pagos en línea, y gestionar órdenes en tiempo real.",
+            "technologies": [
+                "node.js",
+                "typescript",
+                "nestjs",
+                "express.js",
+                "typeorm",
+                "postgresql"
+            ],
+            "url": "https://github.com/agustinMontoya2/Final-Project"
+        },
+        {
+            "name": "Plataforma de Alquiler de Espacios de Coworking",
+            "description": "Proyecto en desarrollo para crear una plataforma que permita ofrecer espacios de trabajo en alquiler y a los usuarios reservarlos fácilmente.",
+            "technologies": [
+                "node.js",
+                "typescript",
+                "nestjs",
+                "express.js",
+                "typeorm",
+                "postgresql"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

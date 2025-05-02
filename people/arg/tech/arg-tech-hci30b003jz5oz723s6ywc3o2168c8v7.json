@@ -1,0 +1,99 @@
+{
+    "personal_info": {
+        "first_name": "Alejandro",
+        "last_name": "Maza",
+        "email": "ajmm9257@gmail.com",
+        "phone": "1127246620",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/alejandro-maza-1a24b2251",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full Stack Developer apasionado por la tecnología y los sistemas, proactivo, organizado y responsable. Busco un puesto desafiante para seguir aprendiendo y desarrollándome en el mundo IT."
+    },
+    "work_experience": [
+        {
+            "job_title": "Catalogador E-Commerce",
+            "company": "Seidor",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Análisis de productos",
+                "Corrección y mejora de los productos en catálogo",
+                "Detección de errores",
+                "Manejo de Excel"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Programación y Sistemas",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bootcamp Full Stack Developer",
+            "institution": "Fundación Empujar",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Ciencias",
+            "institution": "Colegio U.E Nuestra Señora de Lourdes",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5", "css3", "javascript", "node.js", "python", "react.js", "c/c++", "php"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Página de cine",
+            "description": "Proyecto desarrollado durante el Bootcamp Full Stack Developer para aplicar conocimientos adquiridos."
+        },
+        {
+            "name": "CRM de facturación",
+            "description": "Desarrollo de un CRM orientado a la gestión de facturación."
+        },
+        {
+            "name": "Chat en vivo",
+            "description": "Implementación de un sistema de chat en vivo como parte del aprendizaje de tecnologías web."
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

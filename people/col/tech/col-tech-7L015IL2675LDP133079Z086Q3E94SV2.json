@@ -1,0 +1,158 @@
+{
+    "personal_info": {
+        "first_name": "Andres",
+        "last_name": "Martinez",
+        "email": "andresdamg@hotmail.com",
+        "phone": "+57 3043284310",
+        "location": {
+            "country": "Colombia",
+            "city": "Bogota",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/andresmartinez-developer/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador de Software con formación en Ingeniería Electrónica, especialización en Desarrollo Organizacional y diplomado en Gestión de Proyectos. Cuento con más de 3 años de experiencia en el diseño, desarrollo e implementación de soluciones tecnológicas, con especialización en el desarrollo de aplicaciones móviles para iOS utilizando Swift y Xcode. Tengo dominio de múltiples lenguajes de programación, incluyendo Python, C++, C#, HTML, R, CSS, Swift y Dart, lo que me permite adaptarme a diversos entornos de desarrollo. Me especializo en la arquitectura de software, patrones de diseño y metodologías ágiles para la creación de aplicaciones escalables y eficientes. Además, poseo experiencia en integración de APIs, optimización de código, manejo de bases de datos y aseguramiento de calidad en el desarrollo de software. Me apasiona la resolución de problemas y la innovación tecnológica, buscando siempre mejorar la eficiencia y experiencia del usuario en cada solución desarrollada."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador iOS",
+            "company": "IOYALTY",
+            "location": "",
+            "start_date": "2022-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de la aplicación móvil bancaria, asegurando su rendimiento, seguridad y escalabilidad.",
+                "Implementación de nuevas funcionalidades siguiendo arquitectura limpia (VIPER/MVVM) y mejores prácticas de desarrollo.",
+                "Integración con servicios de Backbase para mejorar la experiencia de usuario y optimizar la comunicación con los sistemas backend.",
+                "Corrección de errores y optimización de código, mejorando la eficiencia y estabilidad de la aplicación.",
+                "Colaboración con equipos de backend, diseño UX/UI y QA para garantizar la entrega de productos de alta calidad.",
+                "Uso de Git y GitFlow para control de versiones y colaboración en equipo dentro de un entorno ágil (Scrum/Kanban).",
+                "Participación en revisiones de código y sesiones de mejora continua para optimizar el desarrollo del producto."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería Electrónica",
+            "institution": "Universidad de Cundinamarca",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Especialización en Desarrollo Organizacional",
+            "institution": "Universidad de Cundinamarca",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomado en Gestión de Proyectos",
+            "institution": "Universidad de Cundinamarca",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "swift",
+                "xcode",
+                "ios",
+                "python",
+                "c++",
+                "c#",
+                "dart",
+                "html",
+                "css",
+                "r",
+                "sql",
+                "nosql",
+                "coredata",
+                "firebase",
+                "postgresql",
+                "git",
+                "github",
+                "flutter"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "resolución-de-problemas",
+                "adaptabilidad",
+                "gestión-del-tiempo",
+                "pensamiento-crítico",
+                "autogestión",
+                "aprendizaje-continuo"
+            ],
+            "tools": [
+                "viper",
+                "mvvm",
+                "mvc",
+                "api-rest",
+                "scrum",
+                "kanban"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Desarrollo de apps en iOS",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Análisis de datos de Google",
+            "issuing_organization": "Coursera-Google",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Principiante en programación G4",
+            "issuing_organization": "Alura Latam-Oracle",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "AWS Educate Introduction",
+            "issuing_organization": "Amazon Web Service",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo de apps para iOS",
+            "issuing_organization": "Plazy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso profesional de Git y GitHub",
+            "issuing_organization": "Plazy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

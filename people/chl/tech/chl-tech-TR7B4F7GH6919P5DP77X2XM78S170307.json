@@ -1,0 +1,106 @@
+{
+    "personal_info": {
+        "first_name": "Eduardo Enrique",
+        "last_name": "Ureta Campos",
+        "email": "eduardo.uretaca@gmail.com",
+        "phone": "+56994901217",
+        "location": {
+            "country": "Chile",
+            "city": "Santiago",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/eduardo-ureta-campos/",
+        "website": "",
+        "portfolio": "GitHub",
+        "summary": "Ingeniero en Computación e Informática especializado en el desarrollo de aplicaciones web. Con más de un año y medio de experiencia en el campo, me he desempeñado como desarrollador Front-End y Back-End, utilizando tecnologías modernas para construir aplicaciones web escalables, eficientes y optimizadas. Mi propósito es desarrollar soluciones tecnológicas innovadoras que fortalezca la funcionalidad de los sistemas y mejorar la experiencia de los usuarios."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Propers",
+            "location": "Santiago, Chile",
+            "start_date": "2023-12-01",
+            "end_date": "2024-03-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñar y desarrollar software con Scrum utilizando patrón MVC con Laravel, JavaScript, Bootstrap y MySQL.",
+                "Desarrollar e implementar un sistema automatizado que genere informes de cotizaciones en PDF.",
+                "Crear y estructurar las rutas, controladores, modelos y vistas.",
+                "Integrar datos dinámicos en las vistas del sitio web.",
+                "Diseñar y optimizar interfaces intuitivas para la administración eficiente del contenido con mantenedores.",
+                "Implementar y configurar el uso de middlewares para autenticar, autorizar y otros procesamientos.",
+                "Participar semanalmente en reuniones con el equipo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Computación e Informática",
+            "institution": "Universidad Andrés Bello",
+            "location": "Santiago, Chile",
+            "start_date": "2021-01-01",
+            "end_date": "2024-01-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "bootstrap",
+                "jquery",
+                "react-js",
+                "node-js",
+                "express",
+                "laravel",
+                "python",
+                "django",
+                "mongodb",
+                "mysql",
+                "postgresql",
+                "wordpress",
+                "git",
+                "github"
+            ],
+            "soft": [],
+            "tools": [
+                "scrum",
+                "kanban",
+                "trello",
+                "jira",
+                "microsoft-office-(word,-excel)",
+                "windows",
+                "linux"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Desarrollador JavaScript Full Stack",
+            "issuing_organization": "Talento Digital",
+            "issue_date": "2024-06-01",
+            "expiration_date": "2025-01-01",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Página de Perfiles",
+            "description": "Desarrollador Full Stack, Diseño y desarrollo de software con Scrum utilizando patrón MVC con Laravel, JavaScript, Bootstrap y MySQL.",
+            "technologies": ["laravel", "javascript", "bootstrap", "mysql"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

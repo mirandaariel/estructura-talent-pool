@@ -1,0 +1,112 @@
+{
+    "personal_info": {
+        "first_name": "Carlos",
+        "last_name": "Garcia Abello",
+        "email": "danielgarciaabello@gmail.com",
+        "phone": "+57 3163985662",
+        "location": {
+            "country": "Colombia",
+            "city": "Ibagué",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Software Engineer, with 2+ years of experience in software development, analysis and design of databases, analysis and design under standards focused on architecture and SOLID principles. Experience in creating web services under Rest architecture, experience in architectured based on microservices, experience in programming languages such as Java, JavaScript, Python. Strong knowledge in java core, poo, functional interfaces, exceptions, collections, threads, JDBC. Knowledge in tools like Spring, Spring Boot, Spring MVC, Spring Security, Spring Data, Junit, Mockito, JPA, Hibernate, Docker, AWS (S3), Kafka, Linux, Git, CI/CD, Maven, Gradle, Jenkins, Sonar, DataDog. Knowledge in design patterns like singleton, prototype, factory, builder, subscriber, among others Strong experience in PL/SQL, MySQL, PostgreSQL, and non-relational databases like MongoDB and Redis."
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Engineer",
+            "company": "Indeed",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Created new features for the platform using Java and Node js working with clean code and unit test plus integration test, documenting all the new changes and modifications.",
+                "Reviewing PR from other team members ensures quality in the code.",
+                "Give support to the DB team in order to keep the integrity in the data around the environments creating stored procedures, data purges and so on.",
+                "Migrated applications to new technologies such as Spring boot, refactoring different entities and switching SQL queries to JPQL queries using JPA and Hibernate for better operability.",
+                "Looked at the logs into DataDog with all the different environments for monitoring services.",
+                "Help the team with infrastructure and design definitions.",
+                "Give onboarding to new team members."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Java Programmer Analyst",
+            "company": "HFJ Construcciones e Inversiones S.A.S",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Was responsible for requirements analysis and development of solutions focused on good programming practices, giving clarity to the developed code, refactoring of different packages to improve the organization and therefore the quality of the software developed.",
+                "Developed the solutions in technologies such as JPA, Hibernate, Spring boot, the code versioning is done with git and continuous deployment in Jenkins, use of PostgreSQL databases. It was possible to develop an excel report of all the users of the system from a data filter.",
+                "Collaborated closely with the QA team to implement automated testing frameworks, ensuring that new features and updates were rigorously tested before deployment. This resulted in a significant reduction in post-release defects and increased overall system stability."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computer and Systems Engineering",
+            "institution": "Universidad del Tolima",
+            "location": "Ibagué, Colombia",
+            "start_date": "2019-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "javaScript",
+                "python",
+                "spring",
+                "spring-boot",
+                "spring-mvc",
+                "spring-security",
+                "spring-data",
+                "junit",
+                "mockito",
+                "jpa",
+                "hibernate",
+                "docker",
+                "aws",
+                "kafka",
+                "linux",
+                "git",
+                "ci-cd",
+                "maven",
+                "gradle",
+                "jenkins",
+                "sonar",
+                "datadog",
+                "pl-sql",
+                "mysql",
+                "postgreSQL",
+                "mongodb",
+                "redis"
+            ],
+            "soft": [
+                "analysis",
+                "design"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

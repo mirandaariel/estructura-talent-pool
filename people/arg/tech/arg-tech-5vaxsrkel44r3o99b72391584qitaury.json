@@ -1,0 +1,107 @@
+{
+    "personal_info": {
+        "first_name": "Pablo",
+        "last_name": "Ferrari",
+        "email": "emanuelferrari011@gmail.com",
+        "phone": "+54 11 2815-9708",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/PabloFerrari",
+        "website": "",
+        "portfolio": "https://github.com/PabloFerrari07",
+        "summary": "Soy un desarrollador backend con experiencia en tecnologías como C#, .NET, Python, Flask, React, JavaScript, C y MySQL. A lo largo de mi formación universitaria y mediante proyectos personales, he fortalecido mis habilidades en el desarrollo y mantenimiento de aplicaciones robustas y eficientes. Estoy comprometido con el aprendizaje continuo y la aplicación de las mejores prácticas en el desarrollo de software, y estoy entusiasmado por seguir creciendo en mi carrera profesional."
+    },
+    "work_experience": [
+        {
+            "job_title": "Freelancer",
+            "company": "Nutriciencia",
+            "location": "",
+            "start_date": "2023-12-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Realizar los diseños del proyecto.",
+                "Desarrollo web responsivo.",
+                "Negociación con clientes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura universitaria en programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                "python",
+                "flask",
+                ".net",
+                "html",
+                "css",
+                "javascript",
+                "react-js",
+                "mysql"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "figma",
+                "photoshop"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Desarrollador front end (REACT JS)",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2022-03-01",
+            "expiration_date": "2022-11-30",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollador web full stack",
+            "issuing_organization": "Educación IT y Fundación Pescar con Santander",
+            "issue_date": "2023-07-01",
+            "expiration_date": "2023-12-31",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "API CRUD",
+            "description": "El proyecto es un CRUD de usuarios hecho utilizando C# .NET y mucho más.",
+            "technologies": ["c#", "entity-framework", ".net", "sql-server"],
+            "url": ""
+        },
+        {
+            "name": "API JSON WEB TOKEN",
+            "description": "Sistema de inicio de sesión con token para productos únicamente con cuenta.",
+            "technologies": ["c#", "entity-framework", ".net", "sql-server"],
+            "url": ""
+        },
+        {
+            "name": "Nubegamer",
+            "description": "Página web gamer realizada durante la carrera en Front End.",
+            "technologies": ["javascript", "css", "react-js", "firebase"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,160 @@
+{
+    "personal_info": {
+        "first_name": "Victoria",
+        "last_name": "Lopez",
+        "email": "vickylopez2828@gmail.com",
+        "phone": "+54 249-4484313",
+        "location": {
+            "country": "Spain",
+            "city": "Madrid",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/vlopez2828",
+        "website": "https://victorialopez.netlify.app/",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Front-End Developer",
+            "company": "Training iGrowker",
+            "location": "Madrid, Spain",
+            "start_date": "2025-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de una web app de geolocalización que conecta conductores con estacionamientos privados en tiempo real, permitiendo reservas por WhatsApp.",
+                "Desarrollo con React, Zustand, Material UI, React Hook Form + Yup, Google Maps API.",
+                "Diseño de pantallas desde Figma e implementación de validaciones.",
+                "Integración con backend (login, registro de parkings, gestión de disponibilidad).",
+                "Trabajo en equipo bajo metodologías ágiles (Scrum/Kanban) y uso de Git con flujo de ramas y PRs."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Práctica Profesional",
+            "company": "Cooperativa de Trabajo Geneos",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de Sistemas de Gestión (Python, Django)",
+                "Creación de dos sistemas de gestión, uno para un Club Deportivo y otro para FACTTIC, optimizando la organización de datos y la gestión de socios, empleados y actividades.",
+                "El sistema para el club incluyó módulos de cuotas, eventos, indumentaria, notificaciones y una página web para registro de socios.",
+                "El sistema para FACTTIC centralizó la gestión de cooperativas, socios, cuotas y documentación.",
+                "Ambos sistemas fueron diseñados como plataformas escalables y adaptables a múltiples organizaciones. Participé en todas las fases del desarrollo, desde la toma de requerimientos hasta la implementación y presentación final."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Desarrollo de Aplicaciones Informáticas",
+            "institution": "Universidad Nacional del Centro de la Provincia de Buenos Aires",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2021-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "programación",
+                "estructuras-de-datos",
+                "algoritmos",
+                "lógica-de-programación",
+                "programación-orientada-a-objetos",
+                "javascript",
+                "java",
+                "spring-boot",
+                "sql",
+                "html",
+                "css",
+                "python",
+                "django",
+                "react",
+                "typescript",
+                "angular",
+                "node.js",
+                "express"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "scrum",
+                "mysql",
+                "postgresql",
+                "figma",
+                "jest",
+                "swagger"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "React Js y TypeScript",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Seminario Desarrollo Mobile Android",
+            "issuing_organization": "Universidad Nacional del Centro de la Provincia de Bs. As.",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Seminario Angular",
+            "issuing_organization": "Universidad Nacional del Centro de la Provincia de Bs. As.",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Control de Gastos",
+            "description": "Aplicación para gestionar y persistir gastos, integrando un frontend en React con una API REST en Django.",
+            "technologies": ["react", "typescript", "django", "tailwind"],
+            "url": ""
+        },
+        {
+            "name": "Administrador de Productos",
+            "description": "Sistema completo para gestionar productos, backend en Node.js y Express, utilizando Sequelize como ORM. Frontend con React, TypeScript y Tailwind. Incluye pruebas unitarias y de integración realizadas con Jest y documentación de API creada con Swagger.",
+            "technologies": ["react", "typescript", "node.js", "express", "sequelize", "tailwind"],
+            "url": ""
+        },
+        {
+            "name": "Carrito de Compras",
+            "description": "Implementación de un carrito dinámico con manejo avanzado de estado en React.",
+            "technologies": ["react", "usereducer"],
+            "url": ""
+        },
+        {
+            "name": "Cotizador de Criptomonedas",
+            "description": "Aplicación para consultar precios en tiempo real consumiendo APIs externas, con validaciones avanzadas y despliegue en Netlify.",
+            "technologies": ["react", "zustand", "zod"],
+            "url": ""
+        },
+        {
+            "name": "API de Ventas de Juegos",
+            "description": "Sistema de ventas con carrito de compras, desarrollado con Angular y una API en Node.js y Express, deployado en Vercel.",
+            "technologies": ["angular", "node.js", "express"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+ "references": []
+}

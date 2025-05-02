@@ -1,0 +1,138 @@
+{
+    "personal_info": {
+        "first_name": "Mauro",
+        "last_name": "Quiroga",
+        "email": "mauroquirogasl@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Web enfocado en el aprendizaje continuo de tecnologías Frontend y Backend. Excelentes habilidades de comunicación y manejo de tareas. Capacidad de adaptación a distintos entornos y facilidad para aprender nuevas herramientas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Web Freelance",
+            "company": "",
+            "location": "Córdoba, Argentina",
+            "start_date": "2024-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Implementación de mejoras y creación de pantallas en el Frontend para mejorar la experiencia del usuario.",
+                "Desarrollo, corrección y optimización de endpoints en Backend para mejorar la eficiencia y estabilidad del sistema."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Docente - Tutor",
+            "company": "Facultad de Ciencias Químicas",
+            "location": "Córdoba, Argentina",
+            "start_date": "2019-07-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Planifiqué y llevé a cabo talleres de índole académica y no académica.",
+                "Desarrollé y presenté clases.",
+                "Trabajé en equipos y llevé adelante el manejo de distintos grupos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ayudante alumno",
+            "company": "Facultad de Ciencias Químicas",
+            "location": "Córdoba, Argentina",
+            "start_date": "2018-07-01",
+            "end_date": "2019-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Presenté diferentes actividades en laboratorio.",
+                "Desarrollé y presenté clases."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas de Información",
+            "institution": "Universidad Tecnológica Nacional - FRC",
+            "location": "Córdoba, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bioquímica",
+            "institution": "Universidad Nacional de Córdoba - Fac. Ciencias Químicas",
+            "location": "Córdoba, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "node-js",
+                "express-js",
+                "typescript",
+                "javascript",
+                "swagger",
+                "docker",
+                "api-restful",
+                "arq-microservicios",
+                "react-js",
+                "next-js",
+                "jwt",
+                "html",
+                "css",
+                "sql-server",
+                "postgresql",
+                "typeorm",
+                "python"
+            ],
+            "soft": [
+                "comunicación",
+                "manejo-de-tareas",
+                "adaptabilidad",
+                "aprendizaje-rápido"
+            ],
+            "tools": [
+                "git",
+                "gitlab",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Curso Desarrollo Web FullStack",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

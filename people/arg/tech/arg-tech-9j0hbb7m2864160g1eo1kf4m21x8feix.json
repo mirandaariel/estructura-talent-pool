@@ -1,0 +1,171 @@
+{
+    "personal_info": {
+        "first_name": "Alejo",
+        "last_name": "Mattalia",
+        "email": "alejoomattalia@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Corral de Bustos",
+            "state": "Córdoba"
+        },
+        "linkedin": "https://www.linkedin.com/in/alejo-mattalia/",
+        "website": "https://github.com/AlejoMattalia",
+        "portfolio": "https://alejomattalia.vercel.app/",
+        "summary": "Desarrollador FullStack con formación en programación y experiencia en aplicaciones web con React.js, Node.js, Next.js y Nest.js. He trabajado en proyectos freelance y en equipo, donde he desarrollado habilidades en resolución de problemas y creación de soluciones."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador FullStack",
+            "company": "BeCode",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé el frontend de una aplicación de e-commerce con React.",
+                "Desarrollé el backend de una app móvil similar a Instagram con Node.js.",
+                "Utilicé Scrum para gestionar proyectos, fomentando el trabajo en equipo y la colaboración."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Byron",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé la landing page y la aplicación OrdenApp, una plataforma para restaurantes.",
+                "Gestioné menús y cartas digitales, integración de pagos con Mercado Pago, análisis de ventas y gestión de mesas.",
+                "Destaco en trabajo en equipo, comunicación efectiva y liderazgo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ceo Y Fundador",
+            "company": "AM Tech Solutions",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Creación de soluciones tecnológicas personalizadas.",
+                "Utilización de React, Next.js y React Native para interfaces y Node.js y NestJS para backend.",
+                "Desarrollo de sistemas, chatbots y plataformas escalables."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Superior en Programación",
+            "institution": "TECLAB",
+            "location": "",
+            "start_date": "2022-03-01",
+            "end_date": "2023-12-01",
+            "hours": 0
+        },
+        {
+            "degree": "Carrera de Desarrollador Frontend React JS",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-04-01",
+            "hours": 0
+        },
+        {
+            "degree": "Bootcamp Desarrollo Backend",
+            "institution": "WebExperto",
+            "location": "",
+            "start_date": "2022-03-01",
+            "end_date": "2023-12-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react.js",
+                "next.js",
+                "astro.js",
+                "node.js",
+                "nestjs",
+                "mysql",
+                "postgresql",
+                "mongodb",
+                "firebase"
+            ],
+            "soft": [
+                "problem-solving",
+                "communication",
+                "leadership"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "docker",
+                "postman",
+                "vscode",
+                "agile",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Peluquria Salvatore",
+            "description": "Diseño web de Salvatore incluye Inicio, Servicios, Club de Beneficios, Academia y Contáctanos.",
+            "technologies": ["astro.js", "typescript"],
+            "url": "https://salvatoremensclub.com/"
+        },
+        {
+            "name": "Corral Plagas",
+            "description": "Inscripción a curso de control de plagas con generación de código de acceso y pagos.",
+            "technologies": ["next.js", "node.js", "postgresql", "typescript"],
+            "url": "https://corral-plagas.vercel.app/"
+        },
+        {
+            "name": "Nado Nocturno",
+            "description": "Inscripción para una competencia de natación, con registro de equipos y reglamento.",
+            "technologies": ["next.js", "node.js", "postgresql", "typescript"],
+            "url": "https://nado-nocturno.vercel.app/"
+        },
+        {
+            "name": "Sistema para la Gestión de Piletas del Club",
+            "description": "Sistema para gestionar abonos, cuotas, usuarios y reportes de pagos y uso de piletas.",
+            "technologies": ["react.js", "node.js", "typescript"],
+            "url": ""
+        },
+        {
+            "name": "Sistema Contable",
+            "description": "Sistema para gestionar datos de individuos y empresas, registrar transacciones y generar reportes.",
+            "technologies": ["next.js", "typescript", "firebase"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

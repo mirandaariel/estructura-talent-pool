@@ -1,0 +1,96 @@
+{
+    "personal_info": {
+        "first_name": "Emiliano",
+        "last_name": "Mauro",
+        "email": "mauro.toyota.sl@gmail.com",
+        "phone": "+54 92664195054",
+        "location": {
+            "country": "Argentina",
+            "city": "San Luis",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/emilianomauro",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con más de 2 años de experiencia en el desarrollo de aplicaciones web utilizando React, TypeScript, .NET y C#. Apasionado por la creación de soluciones escalables y eficientes, con un enfoque en buenas prácticas de desarrollo y optimización de rendimiento."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "DASC",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de aplicaciones web utilizando React, TypeScript, .NET y C#.",
+                "Diseño e implementación de APIs REST para integraciones con sistemas de terceros.",
+                "Optimización de bases de datos NoSQL para mejorar la escalabilidad y el rendimiento.",
+                "Uso de Git y herramientas de CI/CD para el despliegue automatizado de aplicaciones.",
+                "Colaboración con equipos multidisciplinarios en un entorno 100% remoto."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend / Backend",
+            "company": "Gob De La Provincia de SL",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2020-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación de interfaces de usuario modernas y responsivas con React y TypeScript.",
+                "Desarrollo de lógica de negocio en el backend con .NET y C#.",
+                "Creación de endpoints para aplicaciones RESTful.",
+                "Mantenimiento de bases de datos NoSQL y optimización de consultas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "typescript",
+                ".net",
+                "c#",
+                "rest-apis",
+                "nosql",
+                "mongodb"
+            ],
+            "soft": [
+                "collaboration",
+                "problem-solving",
+                "agile"
+            ],
+            "tools": [
+                "git",
+                "ci/cd",
+                "scrum",
+                "kanban"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Advanced"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

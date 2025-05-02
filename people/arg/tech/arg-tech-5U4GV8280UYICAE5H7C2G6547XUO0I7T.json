@@ -1,0 +1,112 @@
+{
+    "personal_info": {
+        "first_name": "Franco",
+        "last_name": "Figueroa",
+        "email": "francofigueroa321@gmail.com",
+        "phone": "3489571991",
+        "location": {
+            "country": "Argentina",
+            "city": "Campana",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/franco-figueroa-575696193/",
+        "website": "",
+        "portfolio": "",
+        "summary": "4th year Student of Information Systems Engineering with experience in full-stack development and a strong foundation in Artificial Intelligence and math. Specialized in creating scalable applications through efficient architectural design, API integration, and solving complex problems using modern technologies, Machine Learning, and Generative AI."
+    },
+    "work_experience": [
+        {
+            "job_title": "Backend Developer",
+            "company": "Aston",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Automated database management.",
+                "Built the frontend and connected it with the backend.",
+                "Integrated various APIs including Mercado Pago and Manteca."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Developer",
+            "company": "Bookster",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Performed tasks in mobile and backend development.",
+                "Collaborated with an English-speaking team remotely."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas de Informacion",
+            "institution": "UTN - Universidad Tecnologica Nacional",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2026-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Programa NAVES",
+            "institution": "IAE Business School",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "goland",
+                "java",
+                "microservices",
+                "api-development",
+                "sql-and-nosql-databases",
+                "python",
+                "mongodb",
+                "sql",
+                "postgresql",
+                "react",
+                "react-native",
+                "google-cloud",
+                "amazon-bedrock",
+                "html",
+                "css",
+                "data-analysis"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "ChartCheck",
+            "description": "Bot specialized in verifying the accuracy of data provided by news media.",
+            "technologies": ["Python", "PostgreSQL", "LLM's", "Prompt Engineering", "OpenAI API"],
+            "url": ""
+        },
+        {
+            "name": "GRCP-Distributed-System",
+            "description": "Basic distributed system using the Go programming language and the gRPC framework.",
+            "technologies": ["Go", "gRPC"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,100 @@
+{
+    "personal_info": {
+        "first_name": "Franco Jesús",
+        "last_name": "Itria",
+        "email": "francoitria01@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Paraná",
+            "state": "Entre Ríos"
+        },
+        "linkedin": "https://www.linkedin.com/in/francoitria/",
+        "website": "https://www.francoitria.com",
+        "portfolio": "https://github.com/fran-itria",
+        "summary": "Desarrollador Full Stack con experiencia en desarrollo de software y diseño web, especialista en HTML, CSS, JavaScript, TypeScript, Python, y más. Además, poseo habilidades blandas como comunicación efectiva, trabajo en equipo, adaptabilidad y resolución de problemas."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Tecnicatura en Desarrollo Web",
+            "institution": "Universidad Nacional de Entre Ríos",
+            "location": "Entre Ríos, Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "tailwind",
+                "javascript",
+                "typescript",
+                "python",
+                "react",
+                "redux",
+                "next.js",
+                "astro",
+                "node.js",
+                "express",
+                "postgresql",
+                "sequelize"
+            ],
+            "soft": [
+                "comunicación-efectiva",
+                "trabajo-en-equipo",
+                "adaptabilidad",
+                "resolución-de-problemas",
+                "gestión-del-tiempo",
+                "pensamiento-crítico",
+                "proactividad",
+                "empatía",
+                "resiliencia"
+            ],
+            "tools": [
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Pro Active Center",
+            "description": "Aplicación para gimnasios con gestión de clientes, creación de rutinas, reserva de turnos, pasarela de pago (MercadoPago), avisos mediante mails (NodeMailer), control de registros.",
+            "technologies": ["Node.js", "Express", "PostgreSQL", "Sequelize"],
+            "url": ""
+        },
+        {
+            "name": "ToolMatch",
+            "description": "Responsable del Backend en implementación de pasarela de pago (Mercado Pago), autenticación con terceros (Google), endpoints de usuario, y estilado responsivo del FrontEnd.",
+            "technologies": ["Node.js", "Express", "React", "PostgreSQL"],
+            "url": ""
+        },
+        {
+            "name": "Pokémon",
+            "description": "Creación de una API con Node.js, Express y Sequelize. FrontEnd con React, JavaScript, Redux. Base de datos en PostgreSQL e interacción con API de Pokémon.",
+            "technologies": ["Node.js", "Express", "Sequelize", "React", "JavaScript", "Redux", "PostgreSQL"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

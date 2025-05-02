@@ -1,0 +1,140 @@
+{
+    "personal_info": {
+        "first_name": "Felipe",
+        "last_name": "Reyes Gonzalez",
+        "email": "rgfelipe771@gmail.com",
+        "phone": "8125740347",
+        "location": {
+            "country": "Mexico",
+            "city": "Monterrey",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un Desarrollador Full Stack con formación en Coderhouse. Actualmente aplico mis conocimientos en dos proyectos en desarrollo, fortaleciendo mis habilidades en Next.js, TypeScript, Tailwind CSS, Node.js y seguridad en aplicaciones web."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Especialidad en Desarrollo Full Stack",
+            "institution": "Coderhouse",
+            "location": "Monterrey",
+            "start_date": "2023-07-01",
+            "end_date": "2024-06-30",
+            "hours": 0
+        },
+        {
+            "degree": "B1 en Inglés",
+            "institution": "Academia Marqueza",
+            "location": "Monterrey",
+            "start_date": "2023-07-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "next.js",
+                "react",
+                "redux-toolkit",
+                "typescript",
+                "javascript",
+                "tailwind-css",
+                "axios",
+                "node.js",
+                "express",
+                "java",
+                "spring-boot",
+                "websockets",
+                "handlebars",
+                "postgresql",
+                "mongodb",
+                "mysql",
+                "jwt",
+                "oauth2",
+                "passport",
+                "spring-security",
+                "handling-cookies",
+                "cors",
+                "api-rest",
+                "swagger"
+            ],
+            "soft": [
+                "trabajo-bajo-presión",
+                "comunicacion",
+                "adaptabilidad",
+                "proactivo",
+                "trabajo-en-equipo"
+            ],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "E-commerce con Backend Escalable y Pasarela de Pago",
+            "description": "Desarrollo de un backend completo con arquitectura modular basada en capas (DAO y Repository). Implementación de autenticación y manejo de sesiones con JWT y la integración con Stripe para pagos en línea.",
+            "technologies": [
+                "node.js",
+                "express",
+                "dao",
+                "repository-pattern",
+                "jwt",
+                "stripe-api",
+                "axios",
+                "mongodb"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Sistema de Gestión de Comprobantes",
+            "description": "Desarrollo de un servicio REST para la gestión de comprobantes de venta asegurando integridad en la facturación y control de stock.",
+            "technologies": [
+                "java",
+                "spring-boot",
+                "maven",
+                "rest-api",
+                "worldclockapi",
+                "postgresql"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Web Full Stack, Monterrey",
+            "description": "Desarrollo de una aplicación web con Next.js y Tailwind CSS en el frontend, y un backend en Express con MongoDB.",
+            "technologies": [
+                "next.js",
+                "tailwind-css",
+                "express",
+                "mongodb",
+                "jwt",
+                "passport",
+                "oauth0"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Software de Gestión Empresarial, Monterrey",
+            "description": "Desarrollando una arquitectura escalable de microservicios utilizando Java, Spring Boot, Node.js, y PostgreSQL/MongoDB, con medidas de seguridad y despliegue en la nube.",
+            "technologies": [
+                "java",
+                "spring-boot",
+                "node.js",
+                "postgresql",
+                "mongodb",
+                "api-gateway",
+                "discovery-server",
+                "spring-cloud",
+                "aws"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

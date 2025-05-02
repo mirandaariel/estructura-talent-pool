@@ -1,0 +1,77 @@
+{
+    "personal_info": {
+        "first_name": "Franco",
+        "last_name": "Acosta",
+        "email": "franco113712@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Bolivia",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/franco-acosta-227109336",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Java con experiencia en Spring Boot, Hibernate, MySQL, y RESTful APIs. Especializado en arquitectura de microservicios y monolítica, con conocimientos en la implementación de soluciones escalables."
+    },
+    "work_experience": [
+        {
+            "job_title": "Junior Java Developer",
+            "company": "SocialBotLabs",
+            "location": "",
+            "start_date": "2025-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de software con Spring Boot, Spring Security y Spring Cloud.",
+                "Optimización y eficiencia en el código con principios SOLID.",
+                "Implementación de arquitectura hexagonal mejorando escalabilidad en un 30%.",
+                "Mejoras en la seguridad del proyecto.",
+                "Manejo de metodología Scrum y uso de Jira para el manejo de tareas.",
+                "Uso de Docker."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "institution": "Universidad UDI",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring-boot",
+                "hibernate",
+                "mysql",
+                "restful-apis",
+                "microservices",
+                "monolithic-architecture"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "jira",
+                "docker"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

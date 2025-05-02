@@ -1,0 +1,191 @@
+{
+    "personal_info": {
+        "first_name": "Oscar",
+        "last_name": "Principi",
+        "email": "principioscar89@gmail.com",
+        "phone": "+54-221-3043135",
+        "location": {
+            "country": "Argentina",
+            "city": "Belén de Escobar",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://linkedin.com/in/oscar-principi",
+        "website": "https://github.com/oscar-principi",
+        "portfolio": "Git - Web",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Construcción y Colocación de Muebles a Medida",
+            "company": "Muebles Finochio",
+            "location": "",
+            "start_date": "2005-01-01",
+            "end_date": "2015-12-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Encargado, Cafetero, y Atención al Cliente",
+            "company": "Café Costa Azul",
+            "location": "",
+            "start_date": "2010-01-01",
+            "end_date": "2017-12-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Vigilador Privado en Logística",
+            "company": "Tegnoseg S.A.",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2019-12-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Monitoreo de Mercadería en Tránsito",
+            "company": "Nexsat S.A.",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2020-12-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Repartidor en Moto",
+            "company": "PedidosYa",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Programación y Sistemas de la Información",
+            "institution": "UTN - Universidad Tecnología Nacional",
+            "location": "Gral. Pacheco",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnicatura en Electromecánica",
+            "institution": "UTN - EET N°6 - Secundaria Albert Thomas",
+            "location": "La Plata",
+            "start_date": "2005-01-01",
+            "end_date": "2007-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                ".net",
+                "t-sql",
+                "api-rest",
+                "entity-framework",
+                "microservicios",
+                "blazor",
+                "html",
+                "css"
+            ],
+            "soft": [],
+            "tools": [
+                "visual-studio-community",
+                "visual-studio-code",
+                "sql-server-management-studio",
+                "git",
+                "windows",
+                "linux"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Java",
+            "issuing_organization": "Argentina Programa",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Metodologías Agiles - Scrum",
+            "issuing_organization": "Fundación Telefónica",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Introducción a la Ciberseguridad",
+            "issuing_organization": "Universidad Blas Pascal",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "SQL",
+            "issuing_organization": "LinkedIn Learning",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Portafolio Personal",
+            "description": "Página web personal, desarrollada utilizando HTML, CSS y JavaScript.",
+            "technologies": ["html", "css", "javaScript"],
+            "url": "Git"
+        },
+        {
+            "name": "Sistema de Gestión Veterinaria",
+            "description": "Aplicación de escritorio desarrollada en C++ con la biblioteca Rlutil para la interfaz.",
+            "technologies": ["c++", "rlutil"],
+            "url": "Git"
+        },
+        {
+            "name": "Sistema de Gestión Médica",
+            "description": "Aplicación web, desarrollada con .NET Framework, C#, SQL, HTML y CSS.",
+            "technologies": [".net-framework", "c#", "sql", "html", "css"],
+            "url": "Git"
+        },
+        {
+            "name": "E-commerce",
+            "description": "Aplicación web, desarrollada con .NET, C#, Entity Framework, API REST, SQL, Bootstrap y Blazor.",
+            "technologies": [".net", "c#", "entity-framework", "api-rest", "sql", "bootstrap", "blazor"],
+            "url": "Git"
+        },
+        {
+            "name": "Mueblería",
+            "description": "Sitio web para una mueblería, diseñado con HTML y CSS.",
+            "technologies": ["html", "css"],
+            "url": "Git - Web"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "A.2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

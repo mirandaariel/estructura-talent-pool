@@ -1,0 +1,124 @@
+{
+    "personal_info": {
+        "first_name": "Oscar",
+        "last_name": "Eduardo",
+        "email": "racso1607@gmail.com",
+        "phone": "+57 3192338714",
+        "location": {
+            "country": "Colombia",
+            "city": "Cali",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador de software con más de 4 años de experiencia en desarrollo web, especializado en front-end con React, JavaScript y Ruby on Rails. Apasionado por la tecnología y el diseño UX/UI, con experiencia en la creación de aplicaciones escalables que optimizan procesos y mejoran la experiencia del usuario. Busco contribuir con soluciones innovadoras en entornos dinámicos y colaborativos. Disponible para trabajo remoto o reubicación."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador de Software",
+            "company": "Freelance",
+            "location": "Remoto",
+            "start_date": "2024-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Ecometric SAS: Rediseñé la UI/UX de la landing page y CMS.",
+                "Mainsoft: Migré una aplicación utilizando Azure DevOps y AWS Amplify, optimizando infraestructura y CI/CD.",
+                "Fundación Bibliotec: Diseñé y prototipé una web para docentes, mejorando accesibilidad y usabilidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Vecindario Latam",
+            "location": "Remoto",
+            "start_date": "2021-05-01",
+            "end_date": "2024-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Participé en la construcción de Vecindario Suite, plataforma para digitalizar procesos comerciales en el sector inmobiliario.",
+                "Desarrollé 11 módulos clave que optimizan la gestión de ventas, reservas y pagos.",
+                "Trabajé con React.js en el front-end y Ruby on Rails en el backend, integrando PostgreSQL y AWS."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Front-End Developer",
+            "company": "Bomberbot",
+            "location": "Remoto",
+            "start_date": "2020-10-01",
+            "end_date": "2020-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Construí Bomberbot School Manager, plataforma para la gestión de licencias educativas.",
+                "Implementé funcionalidades clave con React y Redux, optimizando la experiencia de usuario.",
+                "Mejoré la eficiencia en la gestión de reportes y envíos de correos masivos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Multimedia",
+            "institution": "Universidad Autónoma de Occidente",
+            "location": "",
+            "start_date": "",
+            "end_date": "2014-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Software Development",
+            "institution": "Holberton School",
+            "location": "",
+            "start_date": "",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "ruby",
+                "python",
+                "react.js",
+                "redux",
+                "ruby-on-rails",
+                "node.js",
+                "css",
+                "sass",
+                "bootstrap",
+                "postgresql",
+                "mysql",
+                "aws",
+                "azure-devops",
+                "rest-api"
+            ],
+            "soft": [],
+            "tools": [
+                "figma",
+                "storybook",
+                "git",
+                "github",
+                "bash",
+                "zapier",
+                "hubspot"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

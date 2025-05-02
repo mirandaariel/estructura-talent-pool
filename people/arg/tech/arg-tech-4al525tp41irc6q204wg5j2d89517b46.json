@@ -1,0 +1,219 @@
+
+{
+    "personal_info": {
+        "first_name": "Gisell",
+        "last_name": "López",
+        "email": "lopgiz25@gmail.com",
+        "phone": "630 560 129",
+        "location": {
+            "country": "España",
+            "city": "Toledo",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/gisell-l%C3%B3pez-rosado-aa42b028a/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrolladora Full Stack con formación en desarrollo web y proyectos propios de software. Tras años liderando equipos y gestionando la digitalización de procesos en el sector eléctrico, he realizado una transición profesional al mundo del desarrollo, aplicando mi experiencia en metodologías ágiles y resolución de problemas al diseño y programación de aplicaciones web. Disponible para incorporación inmediata."
+    },
+    "work_experience": [
+        {
+            "job_title": "Gerente General de Proyectos",
+            "company": "Electrical Global Engineering S.A. de C.V.",
+            "location": "",
+            "start_date": "2019-08-01",
+            "end_date": "2023-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideré equipos multidisciplinarios bajo metodologías ágiles (Scrum), coordinando proyectos enfocados en la mejora continua y digitalización de procesos internos.",
+                "Gestioné la implementación de herramientas digitales para optimizar operaciones, sin participación directa en el desarrollo técnico.",
+                "Analicé datos operativos para proponer estrategias de optimización, mejorando la eficiencia en un 15%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Supervisora de Proyectos",
+            "company": "Electrical Global Engineering S.A. de C.V.",
+            "location": "",
+            "start_date": "2013-04-01",
+            "end_date": "2019-08-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Supervisé la ejecución de proyectos eléctricos, aplicando soluciones digitales para mejorar la gestión de recursos y mantenimiento preventivo.",
+                "Colaboré en la integración de herramientas tecnológicas de apoyo a procesos operativos, enfocándome en la eficiencia y automatización, sin desarrollar software."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Superior en Desarrollo de Aplicaciones Web (DAW)",
+            "institution": "MEDAC, Centro Oficial de Formación Profesional",
+            "location": "España",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Oracle Next Education (ONE) - Desarrollo BackEnd",
+            "institution": "Oracle + Alura Latam",
+            "location": "Online",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bootcamp - Full Stack Web Developer",
+            "institution": "Neoland",
+            "location": "España",
+            "start_date": "2024-03-01",
+            "end_date": "2024-06-01",
+            "hours": 300
+        },
+        {
+            "degree": "Licenciatura en Criminología",
+            "institution": "Academia Internacional de Formación en Ciencias Forenses",
+            "location": "",
+            "start_date": "2012-09-01",
+            "end_date": "2015-08-01",
+            "hours": 0
+        },
+        {
+            "degree": "Bachillerato en Ciencias y Tecnología",
+            "institution": "Instituto Lázaro Cárdenas",
+            "location": "México",
+            "start_date": "2009-08-01",
+            "end_date": "2012-07-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "java",
+                "sql",
+                "react.js",
+                "vite",
+                "html5",
+                "css3",
+                "angular",
+                "bootstrap",
+                "node.js",
+                "express.js",
+                "spring-boot",
+                "thymeleaf",
+                "mysql",
+                "mongodb",
+                "firebase"
+            ],
+            "soft": [
+                "leadership",
+                "problem-solving",
+                "communication",
+                "collaborative-work",
+                "adaptability",
+                "continuous-learning"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "docker",
+                "postman",
+                "scrum"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "GIT + GitHub - Control de Versiones",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-12-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Universidad Java - Cero a Experto",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-12-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificación Scrum Master Profesional",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-11-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso Angular desde Cero (MEAN Stack)",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-09-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso SQL - Consultas en SQL para principiantes",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-06-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Web Development Bootcamp",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Sistema de Recursos Humanos",
+            "description": "Aplicación FullStack para gestión de empleados, desarrollada con React, Spring Boot y MySQL. Ofrece funcionalidades CRUD y comunicación REST, con una arquitectura escalable y experiencia de usuario optimizada.",
+            "technologies": ["react", "spring-boot", "mysql"],
+            "url": ""
+        },
+        {
+            "name": "Control de Clientes",
+            "description": "Aplicación web para gestionar clientes con Servlets, JSPs, Bootstrap y MySQL, implementando funcionalidades para agregar, editar, eliminar y listar clientes.",
+            "technologies": ["servlets", "jsps", "bootstrap", "mysql"],
+            "url": ""
+        },
+        {
+            "name": "Tienda Virtual con Carrito de Compras",
+            "description": "Carrito de compras persistente y sincronizado con LocalStorage, desarrollado con React, Vite, TypeScript y Tailwind CSS.",
+            "technologies": ["react", "vite", "typescript", "tailwind-css"],
+            "url": ""
+        },
+        {
+            "name": "Red Social para Viajeros",
+            "description": "Red social innovadora para conectar viajeros, desarrollada en equipo de 5 personas.",
+            "technologies": ["react", "node.js", "axios", "vite", "mongodb"],
+            "url": ""
+        },
+        {
+            "name": "App de Juegos Autenticada",
+            "description": "Aplicación que incluye juegos como Pokeapi, Tic Tac Toe y Whaka-topo. Ofrece funciones de autenticación, búsqueda, filtrado y modo oscuro.",
+            "technologies": ["html", "css3", "javascript"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,370 @@
+{
+    "skills": {
+        "detailed": {
+            "technical": {
+                "javaScript": [
+                    {
+                        "id": 1001,
+                        "title": "Variables and Data Types",
+                        "description": "Declaración de variables usando var, let y const, y comprensión de tipos primitivos y objetos.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1002,
+                        "title": "Control Flow",
+                        "description": "Uso de instrucciones condicionales y bucles (if, else, switch, for, while).",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1003,
+                        "title": "Functions",
+                        "description": "Declaración y uso de funciones en JavaScript, incluyendo funciones anónimas y de flecha.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1004,
+                        "title": "Scope and Hoisting",
+                        "description": "Cómo funcionan los ámbitos léxicos y el comportamiento de elevación de variables en JavaScript.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1005,
+                        "title": "Closures",
+                        "description": "Funciones que capturan el estado de su entorno de creación, permitiendo acceso a variables externas incluso después de finalizar su contexto original.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1006,
+                        "title": "This Context",
+                        "description": "Cómo funciona el contexto de ejecución y cómo cambiarlo en JavaScript.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1007,
+                        "title": "Events and Event Handling",
+                        "description": "Manejo de eventos en JavaScript, incluyendo el registro de eventos y la propagación.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1008,
+                        "title": "Error Handling and Exceptions",
+                        "description": "Captura y manejo de errores usando try, catch y finally.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1101,
+                        "title": "Objects and Properties",
+                        "description": "Creación y manipulación de objetos, así como el acceso a sus propiedades.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1102,
+                        "title": "Prototypes and Prototypal Inheritance",
+                        "description": "Cómo funciona la herencia basada en prototipos en JavaScript.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1103,
+                        "title": "Classes and Modern Syntax",
+                        "description": "Uso de las clases en JavaScript moderno con las palabras clave class, extends y super.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1104,
+                        "title": "Encapsulation, Inheritance, and Polymorphism",
+                        "description": "Principios fundamentales de la programación orientada a objetos aplicados en JavaScript.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1105,
+                        "title": "Factory Functions",
+                        "description": "Funciones que retornan nuevos objetos personalizados, permitiendo flexibilidad en la creación de instancias.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1106,
+                        "title": "Object Composition",
+                        "description": "Construcción de objetos complejos a partir de otros más simples, en lugar de usar herencia.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1201,
+                        "title": "Pure Functions",
+                        "description": "Funciones que, dado un mismo conjunto de entradas, siempre devuelven la misma salida sin producir efectos secundarios.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1202,
+                        "title": "Immutability",
+                        "description": "Principio de no modificar directamente los datos existentes, sino crear nuevas estructuras de datos.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1203,
+                        "title": "Higher-Order Functions",
+                        "description": "Funciones que aceptan otras funciones como argumentos o las retornan como resultados.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1204,
+                        "title": "Currying",
+                        "description": "Transformación de una función que toma múltiples argumentos en una serie de funciones que toman un solo argumento.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1205,
+                        "title": "Function Composition",
+                        "description": "Técnica que permite encadenar funciones pequeñas en una sola función compleja.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1206,
+                        "title": "Functors and Categories",
+                        "description": "Estructuras que permiten mapear funciones sobre valores envueltos o estructurados.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1207,
+                        "title": "Monads",
+                        "description": "Patrón que permite encadenar operaciones, manejando contextos como la asincronía o el manejo de errores.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1208,
+                        "title": "Lenses",
+                        "description": "Herramientas para acceder y modificar estructuras de datos inmutables de forma segura.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1209,
+                        "title": "Transducers",
+                        "description": "Funciones que transforman otras funciones de transformación, permitiendo operaciones eficientes sobre estructuras de datos.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1301,
+                        "title": "Arrays, Objects, Sets, and Maps",
+                        "description": "Uso de estructuras de datos como arrays, objetos, sets y maps para almacenar y manipular información.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1302,
+                        "title": "Stacks and Queues",
+                        "description": "Estructuras de datos lineales que permiten operaciones de inserción y eliminación en un orden específico (LIFO y FIFO).",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1303,
+                        "title": "Linked Lists",
+                        "description": "Estructura de datos donde cada elemento apunta al siguiente, permitiendo inserciones y eliminaciones eficientes.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1304,
+                        "title": "Recursion",
+                        "description": "Técnica donde una función se llama a sí misma para resolver problemas complejos.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1305,
+                        "title": "Array Operations (map, filter, reduce)",
+                        "description": "Funciones de orden superior para transformar, filtrar y reducir arrays en JavaScript.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1306,
+                        "title": "Sorting Algorithms",
+                        "description": "Implementación de algoritmos de ordenamiento como bubble sort, quicksort y merge sort.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1307,
+                        "title": "Search Algorithms",
+                        "description": "Algoritmos de búsqueda como búsqueda lineal y búsqueda binaria para encontrar elementos en estructuras de datos.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1308,
+                        "title": "Abstract Data Types",
+                        "description": "Tipos de datos abstractos como pilas, colas y listas que definen operaciones sin especificar su implementación concreta.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1401,
+                        "title": "Callbacks",
+                        "description": "Funciones que se ejecutan después de completar una operación asíncrona, permitiendo la continuación de un flujo de ejecución.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1402,
+                        "title": "Promises",
+                        "description": "Objeto que representa la terminación o el fracaso eventual de una operación asíncrona.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1403,
+                        "title": "Async/Await",
+                        "description": "Sintaxis que simplifica el manejo de operaciones asíncronas, haciendo que el código sea más legible y fácil de entender.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1404,
+                        "title": "Asynchronous Error Handling",
+                        "description": "Manejo de errores en operaciones asíncronas utilizando bloques try, catch y finally.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1405,
+                        "title": "Event Loop",
+                        "description": "Mecanismo que permite que JavaScript maneje múltiples operaciones simultáneamente a través de un ciclo de eventos.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1406,
+                        "title": "Promise Lifecycle",
+                        "description": "Etapas de una promesa en JavaScript: pendiente, cumplida o rechazada.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1501,
+                        "title": "Elements of JavaScript Style",
+                        "description": "Conjunto de convenciones y estilos recomendados para escribir código JavaScript limpio y legible.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1502,
+                        "title": "SOLID Principles",
+                        "description": "Conjunto de principios para escribir código que sea mantenible, escalable y fácil de entender.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1503,
+                        "title": "DRY (Don't Repeat Yourself)",
+                        "description": "Principio que recomienda evitar la duplicación de código para mejorar la mantenibilidad.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1504,
+                        "title": "KISS (Keep It Simple, Stupid)",
+                        "description": "Principio que sugiere mantener el código simple y directo, evitando la complejidad innecesaria.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1505,
+                        "title": "YAGNI (You Ain’t Gonna Need It)",
+                        "description": "Principio que recomienda no implementar características innecesarias hasta que sean realmente necesarias.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1601,
+                        "title": "Unit Testing",
+                        "description": "Escritura de pruebas automatizadas para verificar funcionalidades específicas de manera aislada.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1602,
+                        "title": "Integration Testing",
+                        "description": "Pruebas que evalúan cómo interactúan diferentes componentes del sistema entre sí.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1603,
+                        "title": "End-to-End Testing",
+                        "description": "Pruebas que simulan el flujo completo de una aplicación para asegurar su correcto funcionamiento desde el principio hasta el fin.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1604,
+                        "title": "Mocking is a Code Smell",
+                        "description": "Evitar el uso excesivo de mocks en las pruebas, ya que puede ser un indicador de un diseño débil.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1605,
+                        "title": "Code Coverage",
+                        "description": "Métrica que indica qué porcentaje del código ha sido ejecutado por las pruebas automatizadas.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1701,
+                        "title": "NPM (Node Package Manager)",
+                        "description": "Herramienta para gestionar paquetes y dependencias en proyectos JavaScript.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1702,
+                        "title": "Babel and Transpilation",
+                        "description": "Uso de Babel para convertir código moderno de JavaScript en una versión compatible con navegadores más antiguos.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1703,
+                        "title": "Webpack and Modern Bundlers",
+                        "description": "Herramientas para empaquetar y optimizar archivos de código JavaScript para su uso en producción.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1704,
+                        "title": "ESLint and Code Formatting",
+                        "description": "Herramientas para mantener un estilo de código consistente y detectar errores potenciales en JavaScript.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1801,
+                        "title": "DOM Manipulation",
+                        "description": "Acceso y modificación de elementos HTML usando JavaScript para actualizar dinámicamente el contenido de una página.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1802,
+                        "title": "DOM Events",
+                        "description": "Gestión de eventos en el Document Object Model para interactuar con elementos de la página web.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1803,
+                        "title": "Fetch API and HTTP Requests",
+                        "description": "Realización de solicitudes HTTP para comunicarse con servidores y obtener o enviar datos.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1804,
+                        "title": "Web APIs",
+                        "description": "Uso de APIs nativas del navegador, como localStorage, sessionStorage y Geolocation.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1901,
+                        "title": "Design Patterns",
+                        "description": "Implementación de patrones de diseño comunes como Factory, Singleton, Observer y otros en JavaScript.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1902,
+                        "title": "Dependency Management",
+                        "description": "Gestión eficiente de dependencias en proyectos JavaScript utilizando herramientas como NPM o Yarn.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1903,
+                        "title": "Clean Architecture Principles",
+                        "description": "Principios de arquitectura que permiten escribir código modular, mantenible y fácil de escalar.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1904,
+                        "title": "Microservices in JavaScript",
+                        "description": "Uso de microservicios para dividir una aplicación en servicios pequeños e independientes usando Node.js.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1905,
+                        "title": "Serverless Architecture with JavaScript",
+                        "description": "Implementación de funciones serverless usando JavaScript en plataformas como AWS Lambda o Google Cloud Functions.",
+                        "repository_url": ""
+                    }
+                ]
+            }
+        }   
+    }
+}

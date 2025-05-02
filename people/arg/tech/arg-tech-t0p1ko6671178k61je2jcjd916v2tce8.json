@@ -1,0 +1,108 @@
+{
+    "personal_info": {
+        "first_name": "Ethan",
+        "last_name": "Astorga Contreras",
+        "email": "ethanastorga311@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/ethan-astorga-contreras/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Programador JR con amplia experiencia en Python, nivel intermedio en Java y C++. Experiencia en machine learning y análisis de datos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Ejecutivo comercial",
+            "company": "Transbank",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tercer año de Ingeniería Civil en Computación e Informática",
+            "institution": "Universidad Católica del Norte",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "java",
+                "c++",
+                "sql",
+                "ml",
+                "ia"
+            ],
+            "soft": [
+                "gestión-del-tiempo",
+                "trabajo-en-equipo",
+                "atención-al-público"
+            ],
+            "tools": [
+                "pandas",
+                "matplotlib",
+                "mysql",
+                "postgresql",
+                "ec2",
+                "s3",
+                "iam",
+                "lambda"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Python, ML y AI",
+            "issuing_organization": "Samsung Innovacien",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "AWS Cloud Practitioner",
+            "issuing_organization": "Generation",
+            "issue_date": "2024-10-01",
+            "expiration_date": "2025-01-31",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Detección de voces falsas",
+            "description": "Desarrollo de un modelo de aprendizaje profundo con redes neuronales convolucionales (CNN) en el rol de Data Scientist y Machine Learning.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Native"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

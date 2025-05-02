@@ -1,0 +1,180 @@
+{
+  "personal_info": {
+    "first_name": "Kevin",
+    "last_name": "Serrano",
+    "email": "kevinserrano010@gmail.com",
+    "phone": "3876184300",
+    "location": {
+      "country": "Argentina",
+      "city": "Salta",
+      "state": ""
+    },
+    "linkedin": "",
+    "website": "",
+    "portfolio": "",
+    "summary": "Me presento como detallista y siempre con motivación de aprender algo nuevo. Me adapto fácilmente a las situaciones, al trabajo en equipo y a las nuevas problemáticas por mi tendencia a la buena predisposición, ante todo. Cuento con pensamiento creativo, proactividad, trabajo en equipo, comunicación y autonomía."
+  },
+  "work_experience": [
+    {
+      "job_title": "Profesor de programación",
+      "company": "Kodland",
+      "location": "",
+      "start_date": "2023-11-01",
+      "end_date": "2025-02-28",
+      "currently_working": false,
+      "responsibilities": [
+        "Dictar clases online de Python, Flask, HTML, CSS, Bases de datos(básico).",
+        "Seguimientos de alumnos, responder consultas y brindarles apoyo.",
+        "Difusión de novedades por plataforma y medios de comunicación."
+      ],
+      "achievements": [
+        "Aumento de conocimientos en programación al enseñar y usar herramientas de trabajo y comunicación como Slack."
+      ],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador web - Autónomo",
+      "company": "",
+      "location": "",
+      "start_date": "2023-09-01",
+      "end_date": "2023-09-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Aplicación web dedicada a control de stock y reportar algunas fallas en productos.",
+        "Implementación de diseño adaptativo a celulares.",
+        "Configuración para desplegar el proyecto de forma local."
+      ],
+      "achievements": [
+        "Empecé creando mi primera aplicación para vender.",
+        "El cliente quería registrar todos los reportes en un archivo Excel por lo cual hice uso de Pandas."
+      ],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Técnico en Informática Profesional y Personal",
+      "institution": "Escuela Técnica N3100 República de la India",
+      "location": "",
+      "start_date": "2015-01-01",
+      "end_date": "2020-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Desarrollo Frontend",
+      "institution": "Coder House",
+      "location": "",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Python/Django",
+      "institution": "Alkemy",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "React Native",
+      "institution": "Coder House",
+      "location": "",
+      "start_date": "2024-01-01",
+      "end_date": "2024-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Desarrollo de Software",
+      "institution": "Universidad Provincial de Administración, Tecnología y Oficios (UPATECO)",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2025-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "python",
+        "javascript",
+        "react-native",
+        "php",
+        "laravel",
+        "html",
+        "css",
+        "react",
+        "vue",
+        "mysql",
+        "django-rest-framework",
+        "flask"
+      ],
+      "soft": [
+        "creativity",
+        "proactivity",
+        "teamwork",
+        "communication",
+        "autonomy"
+      ],
+      "tools": [
+        "docker",
+        "jira",
+        "scrum",
+        "git",
+        "github",
+        "slack"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Servify",
+      "description": "Aplicación web full stack con despliegue.",
+      "technologies": [
+        "react",
+        "python",
+        "django-rest-framework",
+        "bootstrap",
+        "mysql",
+        "vercel",
+        "render",
+        "postman",
+        "api-rest"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Fulbo App",
+      "description": "Proyecto en curso enfocado en Desarrollo de Aplicaciones",
+      "technologies": [
+        "react-native",
+        "django-rest-framework",
+        "api-rest",
+        "mysql",
+        "docker",
+        "postman",
+        "ios-simulator",
+        "google-cloud-api"
+      ],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "A2"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

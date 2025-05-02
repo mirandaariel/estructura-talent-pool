@@ -1,0 +1,116 @@
+{
+    "personal_info": {
+        "first_name": "Andres",
+        "last_name": "Briñez",
+        "email": "brinezlopez08@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/andres-brinez/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con especialización en el desarrollo backend, utilizando Java (con Spring Boot) y SQL para la gestión eficiente de bases de datos relacionales. Mi enfoque integral se refleja en mi entusiasmo y pasión por la tecnología, respaldado por una sólida capacidad para aplicar conocimientos adquiridos. Emocionado por participar en proyectos desafiantes y colaborar en equipos dinámicos."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Training Desarrollo de Software",
+            "institution": "Sofka University",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "2024-06-30",
+            "hours": 0
+        },
+        {
+            "degree": "Análisis y Desarrollo de Software",
+            "institution": "Servicio nacional de aprendizaje SENA",
+            "location": "",
+            "start_date": "2022-11-01",
+            "end_date": "2025-01-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo web Backend Bootcamp",
+            "institution": "MAKAIA",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "2023-10-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomado en Desarrollo de Software",
+            "institution": "Universidad Tecnológica de Bolívar",
+            "location": "",
+            "start_date": "2023-05-01",
+            "end_date": "2023-07-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomado en codificación",
+            "institution": "Pontificia universidad Javeriana",
+            "location": "",
+            "start_date": "2021-09-01",
+            "end_date": "2022-03-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring-boot",
+                "sql",
+                "c#",
+                "react",
+                "typescript",
+                "html",
+                "css",
+                "javascript",
+                "spring-security",
+                "jpa",
+                "scrum",
+                "git"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Training en Desarrollo de Software",
+            "description": "Backend: Implementación de un proyecto con C# y .NET, mejorando la arquitectura con principios de arquitectura hexagonal. Frontend: Desarrollo de la interfaz con React y TypeScript, aplicando programación reactiva.",
+            "technologies": ["C#", ".NET", "React", "TypeScript"],
+            "url": ""
+        },
+        {
+            "name": "Desarrollo Backend en Semillero LATAM",
+            "description": "Apliqué mis habilidades en el desarrollo de software en la creación de un proyecto web backend utilizando Java Spring Boot, Scrum, Git, JPA y bases de datos.",
+            "technologies": ["Java", "Spring Boot", "Scrum", "Git", "JPA"],
+            "url": ""
+        },
+        {
+            "name": "Programa Oracle Next Education",
+            "description": "Participé en retos y proyectos prácticos utilizando metodología ágil Scrum, desarrollando habilidades en lógica de programación, JavaScript, desarrollo web, Java y bases de datos.",
+            "technologies": ["JavaScript", "Java", "bases de datos"],
+            "url": ""
+        },
+        {
+            "name": "Proyectos Personales",
+            "description": "He llevado a cabo diversos proyectos que demuestran mis habilidades en el desarrollo de software, utilizando HTML, CSS, JavaScript, React, Java, Spring Boot, Spring Security y bases de datos.",
+            "technologies": ["HTML", "CSS", "JavaScript", "React", "Java", "Spring Boot", "Spring Security"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

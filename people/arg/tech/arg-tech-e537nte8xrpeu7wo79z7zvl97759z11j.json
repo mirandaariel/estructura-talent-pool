@@ -1,0 +1,136 @@
+{
+    "personal_info": {
+        "first_name": "Nicolás",
+        "last_name": "Falco",
+        "email": "nicolasfalco2000@gmail.com",
+        "phone": "+54 9 3571 639438",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/nicolas-falco",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante del último año de la Tecnicatura Superior en Desarrollo de Software, con un gran interés en el aprendizaje continuo y una fuerte ética de trabajo. Soy organizado y meticuloso, con la capacidad para gestionar múltiples tareas y cumplir con plazos estrictos. Además, tengo un enfoque proactivo para resolver problemas y la flexibilidad para adaptarme a nuevos desafíos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador de Software",
+            "company": "Municipalidad de Río Tercero",
+            "location": "Río Tercero, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de software",
+                "Soporte Técnico",
+                "Mantenimiento y reparación de PC"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Front End (Pasantías)",
+            "company": "Social Up",
+            "location": "Río Tercero, Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "2023-04-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé sitios web de eCommerce y páginas empresariales para pequeñas y medianas empresas de Río Tercero y zonas cercanas.",
+                "Implementación de la metodología ágil Scrum."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FullStack",
+            "company": "AgroManager: Tesis",
+            "location": "Río Tercero, Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé una aplicación de gestión agrícola, con funciones de administración de cultivos y registro de datos.",
+                "Implementación de la metodología ágil Scrum."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FrontEnd",
+            "company": "Pagina web: Proyecto",
+            "location": "Río Tercero, Argentina",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé una página web para una empresa de aluminio llamada “Aluvi”."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FrontEnd",
+            "company": "Comandas: Proyecto",
+            "location": "Río Tercero, Argentina",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé un sistema de pedidos para encargar comida, con 3 interfaces."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Superior en Desarrollo de Software",
+            "institution": "Escuela Superior de Comercio",
+            "location": "Río Tercero, Argentina",
+            "start_date": "2022-02-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Filosofía y Letras",
+            "institution": "Universidad Nacional de Córdoba",
+            "location": "Córdoba, Argentina",
+            "start_date": "2020-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["typescript", "react", "javascript", "html", "css", "node.js", "material-ui", "java", "sqlite", "android-studio", "postman"],
+            "soft": ["organización", "ética-de-trabajo", "adaptabilidad"],
+            "tools": ["slack", "trello", "github", "jira"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Conversacional"
+        },
+        {
+            "language": "Italiano",
+            "proficiency": "Conversacional"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

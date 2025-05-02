@@ -1,0 +1,93 @@
+{
+    "personal_info": {
+        "first_name": "Facundo Misael",
+        "last_name": "Pettersson",
+        "email": "vicinomatias@gmail.com",
+        "phone": "+54 11-5579-5134",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy desarrollador FullStack enfocado en crear aplicaciones web eficientes y visualmente atractivas. Mi trabajo se centra en implementar soluciones bien pensadas, mejorando la experiencia del usuario y optimizando procesos mediante buenas prácticas de desarrollo. Me destaco por mi autonomía, atención al detalle y mi habilidad para colaborar en equipo, convencido de que los mejores resultados provienen del esfuerzo conjunto y la comunicación efectiva."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Front-End",
+            "company": "No Country",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2024-07-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Conexión de API entre el Backend y Frontend para mejor manejo de la información.",
+                "Creación de la arquitectura principal y enrutado del lado del cliente para seguridad.",
+                "Diseño móvil y de escritorio, creando ambas versiones para mejor perspectiva.",
+                "Control de versiones del proyecto.",
+                "Creación de funcionalidades óptimas."
+            ],
+            "achievements": [
+                "Mejoras en la velocidad de respuesta de la interfaz, aumentando la satisfacción del usuario en un 25%.",
+                "Diseño e implementación de una funcionalidad innovadora destacada en el lanzamiento del producto.",
+                "Introducción de nuevas tecnologías como TypeScript mejorando la eficiencia del equipo.",
+                "Desarrollo de una guía de estilo y documentación mejorando la consistencia del código."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "react-js",
+                "prisma",
+                "css",
+                "sass",
+                "scss",
+                "next-js",
+                "postgresql",
+                "mysql",
+                "mongo-db",
+                "javascript",
+                "typescript",
+                "tailwind",
+                "node-js",
+                "express-js"
+            ],
+            "soft": [],
+            "tools": [
+                "visual-studio-code",
+                "notion",
+                "jira",
+                "trello",
+                "miro",
+                "figma",
+                "canva",
+                "postman",
+                "docker",
+                "github",
+                "git"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

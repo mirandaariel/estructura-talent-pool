@@ -1,0 +1,126 @@
+{
+    "personal_info": {
+        "first_name": "Leandro",
+        "last_name": "Cantero",
+        "email": "lcantero18@gmail.com",
+        "phone": "+541163544453",
+        "location": {
+            "country": "Argentina",
+            "city": "Hurlingham",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://linkedin.com/in/leandro-cantero/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudio Programación en la Universidad Nacional de Hurlingham, donde he adquirido conocimientos en estructuras de datos, bases de datos y lenguajes de programación. Busco oportunidades para aplicar mis conocimientos, desarrollar nuevas habilidades y crecer profesionalmente."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador .NET",
+            "company": "Huenei IT",
+            "location": "",
+            "start_date": "2021-11-01",
+            "end_date": "2022-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboré en el desarrollo de una aplicación de escritorio para un distribuidor mayorista.",
+                "Adquirí experiencia en C#, .NET y Windows Forms.",
+                "Utilicé SVN y SQL Server."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Java Developer - Trainee",
+            "company": "Alkemy",
+            "location": "",
+            "start_date": "2021-07-01",
+            "end_date": "2021-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Trabajé en un proyecto grupal utilizando la metodología SCRUM.",
+                "Empleé Java, Spring, MySQL, Postman, Swagger y Bitbucket."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "Universidad Nacional de Hurlingham",
+            "location": "Hurlingham, Buenos Aires",
+            "start_date": "2022-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Informática (Incompleto)",
+            "institution": "Universidad Nacional de Hurlingham",
+            "location": "Hurlingham, Buenos Aires",
+            "start_date": "2018-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "javascript",
+                "c#",
+                "mysql",
+                "sql-server",
+                "mongodb",
+                "spring-boot",
+                "hibernate",
+                "react",
+                "node.js",
+                "docker",
+                "swagger",
+                "maven",
+                "npm"
+            ],
+            "soft": ["trabajo-en-equipo"],
+            "tools": ["git", "github", "bitbucket", "svn", "scrum"]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Curso Programador Java",
+            "issuing_organization": "Universidad Siglo 21",
+            "issue_date": "2024-02-01",
+            "expiration_date": "2024-03-31",
+            "credential_id": ""
+        },
+        {
+            "name": "React y TypeScript - La guía completa",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-02-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Responsive Web Design",
+            "issuing_organization": "FreeCodeCamp",
+            "issue_date": "2022-09-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        },
+        {
+            "language": "Portugués",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,122 @@
+{
+    "personal_info": {
+        "first_name": "Lautaro Emilio",
+        "last_name": "Lotoski",
+        "email": "lautilotoski@gmail.com",
+        "phone": "1154663299",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/lautaro-lotoski-9b2275279",
+        "website": "",
+        "portfolio": "",
+        "summary": "Fullstack Developer with a strong orientation in frontend development, specialized in React, Next.js and Tailwind CSS. Developed scalable and responsive web applications, enhancing user experience and reducing load times."
+    },
+    "work_experience": [
+        {
+            "job_title": "Personal Administrativo",
+            "company": "Empimet S.R.L",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Gestión de tareas administrativas con alta atención al detalle y capacidad para organizar información.",
+                "Desarrollo de habilidades de resolución de problemas y manejo de clientes en situaciones dinámicas.",
+                "Trabajo en equipo y comunicación efectiva con diferentes áreas de la organización.",
+                "Experiencia en el uso de herramientas digitales y organización de datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2025-02-28",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Economía y Administración de las Organizaciones",
+            "institution": "E.C.E.A",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "next.js",
+                "tailwind-css",
+                "node.js",
+                "express",
+                "nest.js",
+                "mysql",
+                "postgresql",
+                "typeorm"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "slack",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "The Three Broomsticks",
+            "description": "Academic project for a restaurant application that manages orders, reservations, and payments with three roles: Customer, Employee, and Admin.",
+            "technologies": [
+                "react",
+                "next.js",
+                "tailwind-css",
+                "typescript",
+                "vercel",
+                "nest.js",
+                "node.js",
+                "nodemailer",
+                "postgresql",
+                "typeorm"
+            ],
+            "url": "PF-Henry-front"
+        },
+        {
+            "name": "WeatherApp",
+            "description": "Real-time weather data application with a minimalist and responsive design using WeatherAPI.",
+            "technologies": [
+                "react",
+                "next.js",
+                "tailwind-css",
+                "typescript",
+                "weatherapi",
+                "vercel"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

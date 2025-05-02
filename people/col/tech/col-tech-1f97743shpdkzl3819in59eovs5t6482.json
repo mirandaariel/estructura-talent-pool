@@ -1,0 +1,120 @@
+{
+    "personal_info": {
+        "first_name": "Jhon Marlon",
+        "last_name": "Chavarría Cuervo",
+        "email": "marlon05chavarria@gmail.com",
+        "phone": "+573167865405",
+        "location": {
+            "country": "Colombia",
+            "city": "Medellin",
+            "state": ""
+        },
+        "linkedin": "linkedin",
+        "website": "github",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con 6 meses de experiencia en la construcción de aplicaciones robustas, escalables y seguras. Competente en tecnologías frontend como React.js, Tailwind CSS, así como en herramientas backend como Node.js, Express.js. Comprometido con el aprendizaje continuo y apasionado por afrontar nuevos retos tecnológicos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Disruptive Information Technologies",
+            "location": "Medellin, Colombia",
+            "start_date": "2024-06-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé módulos de API RESTful utilizando Node.js, Express.js y Prisma ORM con PostgreSQL.",
+                "Implementé pruebas unitarias, de integración y E2E con Jest.js, incrementando la cobertura de pruebas al 95% y garantizando la calidad del código.",
+                "Creé y optimicé interfaces de usuario empleando React.js, Tailwind CSS y Redux, enfocándome en mejorar la experiencia del usuario y optimizar los tiempos de carga.",
+                "Formé parte de equipos de desarrollo de hasta 5 personas, trabajando con metodologías ágiles como Scrum y participando en la implementación de prácticas modernas de desarrollo como CI/CD y TDD.",
+                "Ofrecí apoyo técnico y organizacional a los miembros del equipo, fomentando su desarrollo profesional y fortaleciendo sus habilidades.",
+                "Automaticé despliegues utilizando Docker, creando imágenes a través de Dockerfiles y gestionando la orquestación de contenedores con Docker Compose."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Proyecto Sena",
+            "location": "Medellin, Colombia",
+            "start_date": "2023-10-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboré en el desarrollo de un sistema para la gestión de un taller de motos, planificando e implementando la solución de acuerdo con los requerimientos del cliente.",
+                "Desarrollé una API RESTful con Node.js, Express.js y Mongo DB para la implementación de cada uno de los módulos del sistema, entre ellos la gestión de compras.",
+                "Implementé la metodología Scrum en un equipo de 5 desarrolladores, logrando una planificación eficiente, el cumplimiento de los sprints y entregables funcionales de calidad.",
+                "Desarrollé interfaces de usuario utilizando React.js y Tailwind CSS, con el objetivo de ofrecer una experiencia intuitiva y eficiente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnología en Análisis y Desarrollo de Software",
+            "institution": "Servicio Nacional de Aprendizaje (SENA)",
+            "location": "Medellin, Colombia",
+            "start_date": "",
+            "end_date": "2024-11-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "sql",
+                "html5",
+                "css3",
+                "python",
+                "java",
+                "c#",
+                "react.js",
+                "next.js",
+                "nest.js",
+                "express.js",
+                "postgresql",
+                "prisma-orm",
+                "mongoose",
+                "docker",
+                "docker-compose",
+                "jest.js",
+                "tailwind-css",
+                "bootstrap",
+                "redux",
+                "websockets",
+                "socket.io"
+            ],
+            "soft": [
+                "critical-thinking",
+                "decision-making",
+                "creativity",
+                "innovation",
+                "goal-setting",
+                "achievement",
+                "process-optimization",
+                "improvement",
+                "agile-methodologies",
+                "scrum"
+            ],
+            "tools": [
+                "jira",
+                "trello",
+                "notion",
+                "slack"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

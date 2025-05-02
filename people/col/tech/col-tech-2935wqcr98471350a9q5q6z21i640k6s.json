@@ -1,0 +1,132 @@
+{
+    "personal_info": {
+        "first_name": "Naren",
+        "last_name": "Duban Lopez Romero",
+        "email": "duvanlopez17@hotmail.es",
+        "phone": "+57 3506317525",
+        "location": {
+            "country": "Colombia",
+            "city": "Bogotá",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador full stack y estudiante de Ingeniería de Sistemas, apasionado por la tecnología con sólidos conocimientos en JavaScript, Angular, NodeJs, AWS y Python, entre otras herramientas. Mi objetivo es convertirme en un profesional versátil, capaz de crear soluciones innovadoras y funcionales en el campo de IT."
+    },
+    "work_experience": [
+        {
+            "job_title": "Programador Full Stack",
+            "company": "Build Innovate Transform (BIT)",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollar JhCollection, una plataforma de comercio electrónico para el sector de la moda.",
+                "Crear y estructurar modelos de datos en MongoDB y Mongoose, implementando operaciones CRUD.",
+                "Migrar la interfaz a Angular y crear componentes y formularios reactivos.",
+                "Integrar el frontend con el backend mediante servicios HTTP en Angular.",
+                "Implementar autenticación de usuarios y proteger rutas con JWT.",
+                "Trabajar con la metodología ágil Scrum."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Foo Talent Group - Tech Projects",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Implementar la lógica del servidor y crear modelos de datos en MongoDB.",
+                "Integrar autenticación con JWT y OAuth para inicio de sesión con Google.",
+                "Desarrollar componentes modulares y formularios reactivos en Angular.",
+                "Adaptar la plataforma para dispositivos móviles y de escritorio.",
+                "Desarrollar funcionalidades para listar, filtrar y visualizar anuncios de mascotas perdidas.",
+                "Implementar pruebas unitarias y funcionales para garantizar la estabilidad del sistema."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollador Full Stack",
+            "institution": "Build Innovate Transform (BIT)",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniero de Sistemas",
+            "institution": "Universidad Central",
+            "location": "",
+            "start_date": "2021-08-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "angular",
+                "typescript",
+                "node.js",
+                "express",
+                "mongodb",
+                "mongoose",
+                "python",
+                "aws"
+            ],
+            "soft": [
+                "adaptabilidad",
+                "organización-y-gestión-del-tiempo",
+                "trabajo-en-equipo",
+                "comunicación-efectiva",
+                "pensamiento-crítico",
+                "resolución-de-conflictos",
+                "creatividad",
+                "empatía",
+                "colaboración",
+                "toma-de-decisiones",
+                "escucha-activa",
+                "manejo-del-estrés",
+                "proactividad",
+                "flexibilidad",
+                "motivación-personal"
+            ],
+            "tools": [
+                "rx-js",
+                "postman",
+                "git",
+                "github",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "A1"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

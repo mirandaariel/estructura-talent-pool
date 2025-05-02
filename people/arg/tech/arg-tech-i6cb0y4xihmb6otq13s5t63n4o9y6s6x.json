@@ -1,0 +1,87 @@
+{
+    "personal_info": {
+        "first_name": "Victor",
+        "last_name": "Lopez",
+        "email": "victorfernandolopez1988@gmail.com",
+        "phone": "+5401130933217",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/victor-Ipez-a71584168/",
+        "website": "",
+        "portfolio": "https://github.com/Victorfernandolopez",
+        "summary": "Como desarrollador full-stack, con experiencia tanto en el desarrollo de interfaces de usuario como en la creación de soluciones robustas en el backend, mi objetivo es seguir contribuyendo a proyectos innovadores que optimicen la gestión de datos y mejoren la experiencia del usuario. Estoy buscando oportunidades que me permitan seguir perfeccionando mis habilidades en Python, Django, React.js y otras tecnologías mientras desarrollo sistemas escalables y seguros que cubran tanto el frontend como el backend de aplicaciones web."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "IGROWKER Acelerando Juniors IT",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo del backend utilizando Django, con enfoque en la creación de endpoints RESTful para gestionar ingresos, pagos a colaboradores y obligaciones fiscales personalizadas.",
+                "Implementación de autenticación de dos factores (2FA) y sistemas de notificación para la gestión de impuestos y pagos.",
+                "Integración con bases de datos PostgreSQL y trabajo colaborativo con el equipo de frontend para asegurar la correcta visualización de los datos en el dashboard de los usuarios."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/igrowker/i003-youcreate-back.git"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Desarrollo de Software",
+            "institution": "Instituto Superior Tecnológico Empresarial Argentino",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2026-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Carrera de Python",
+            "institution": "Instituto Educación IT",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "c#",
+                "javaScript",
+                "django",
+                "react.js",
+                "postgresql",
+                "mysql",
+                "mongodb",
+                "sqlserver"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "figma",
+                "scrum"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "IGROWKER Acelerando Juniors IT",
+            "relationship": "Employer",
+            "contact": "+34641493744"
+        }
+    ]
+}

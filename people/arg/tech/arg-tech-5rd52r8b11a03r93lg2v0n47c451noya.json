@@ -1,0 +1,138 @@
+{
+    "personal_info": {
+        "first_name": "Isaias",
+        "last_name": "Romero",
+        "email": "romeroisaiasagustin@gmail.com",
+        "phone": "+54 1173630520",
+        "location": {
+            "country": "Argentina",
+            "city": "Tapiales",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://linkedin.com/in/isaias-romero",
+        "website": "http://portfolio-tiin24.vercel.app/",
+        "portfolio": "https://github.com/Tiin24",
+        "summary": "Profesional con una excelente capacidad de organización y experiencia. Tengo gran capacidad para adaptarme a todo tipo de entornos y aportar siempre lo mejor de mí. Me caracterizo por mi facilidad para el trabajo en equipo, mi entusiasmo por aprender y desarrollar mis habilidades. En busca de una oportunidad laboral en la que adquirir más experiencia."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "No Country",
+            "location": "Argentina",
+            "start_date": "2023-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de proyectos y programas.",
+                "Mantenimiento y actualización de aplicaciones y páginas web.",
+                "Trabajo con distintas bases de datos y contextos back-end y front-end.",
+                "Apoyo y colaboración con el equipo de trabajo para alcanzar los objetivos del cliente.",
+                "Creación de interfaces de usuario web adaptables."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Atencion al Cliente",
+            "company": "Pago Facil",
+            "location": "Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "2023-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Recibí y procesé pagos de facturas y servicios.",
+                "Realicé recargas telefónicas y electrónicas, así como venta de productos.",
+                "Brindé un servicio al cliente atendiendo consultas y resolviendo problemas de los mismos.",
+                "Mantuve un conocimiento actualizado de los servicios de Pago Fácil."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Atencion al Cliente",
+            "company": "MooPC collections",
+            "location": "Argentina",
+            "start_date": "2019-04-01",
+            "end_date": "2020-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Manejo de datos bancarios.",
+                "Resolver las consultas y necesidades de los clientes.",
+                "Generar reclamos bancarios.",
+                "Asistir a los clientes ante consultas del sitio de Pago Mis Cuentas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tec Desarrollo de Software",
+            "institution": "IFTS 29",
+            "location": "Argentina",
+            "start_date": "2025-02-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Perito Mercantil con especializacion Contable e IVA impositivo",
+            "institution": "Colegio N 18 Dr.Alberto Larroque",
+            "location": "Argentina",
+            "start_date": "2014-02-01",
+            "end_date": "2017-11-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react",
+                "redux",
+                "html",
+                "css",
+                "postgresql",
+                "git",
+                "node.js",
+                "sql",
+                "sequelize",
+                "typescript",
+                "tailwind",
+                "express",
+                "mongodb",
+                "react-native",
+                "docker",
+                "java",
+                "nextjs",
+                "c++",
+                "laravel",
+                "php"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Back End Developer",
+            "issuing_organization": "ONE Oracle Next Education",
+            "issue_date": "2023-04-01",
+            "expiration_date": "2024-01-01",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Ingles",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

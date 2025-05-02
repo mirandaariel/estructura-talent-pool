@@ -1,0 +1,125 @@
+{
+    "personal_info": {
+        "first_name": "Crísthian",
+        "last_name": "Cortes Ariza",
+        "email": "cortescristiangerman@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy tecnólogo en análisis y desarrollo de software, especializado en desarrollo full stack y apasionado por crear soluciones innovadoras. Creo firmemente que siempre hay espacio para mejorar, por lo que trabajo en ello día a día. Mi objetivo es unirme a un equipo dinámico donde pueda aportar con mis ideas, soluciones y actitud positiva, mientras crezco junto a mis compañeros de desarrollo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Back-end",
+            "company": "Grupo ASD",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideré un equipo de desarrolladores en un proyecto de seis meses que consistió en consumir la API de GitHub y representar los datos utilizando el stack ELK.",
+                "Enfrentamos desafíos como la implementación de procesos de automatización y el despliegue en la nube, utilizando servicios de AWS y la herramienta de aprovisionamiento Terraform.",
+                "El proyecto se completó exitosamente, abarcando todas las etapas, desde la documentación hasta su despliegue final en la nube."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnólogo en Análisis y Desarrollo de Software",
+            "institution": "SENA",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Marco web Django",
+            "institution": "META",
+            "location": "",
+            "start_date": "",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "php",
+                "java",
+                "django",
+                "flask",
+                "fastapi",
+                "laravel",
+                "springboot",
+                "aws",
+                "terraform"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "AWS Cloud Quest: Cloud Practitioner",
+            "issuing_organization": "Amazon Web Services (AWS)",
+            "issue_date": "2024-12-31",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso profesional de Python",
+            "issuing_organization": "Código Facilito",
+            "issue_date": "2024-12-31",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Software Engineering",
+            "issuing_organization": "Coursera",
+            "issue_date": "2024-12-31",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "AWS Fundamentals",
+            "issuing_organization": "Coursera",
+            "issue_date": "2024-12-31",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso Profesional Desarrollo Web",
+            "issuing_organization": "Código Facilito",
+            "issue_date": "2023-12-31",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

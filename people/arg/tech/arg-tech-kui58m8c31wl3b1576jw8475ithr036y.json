@@ -1,0 +1,226 @@
+
+{
+    "personal_info": {
+        "first_name": "Jorge Anibal",
+        "last_name": "Sanchez Rodriguez",
+        "email": "jorgeasr1993@gmail.com",
+        "phone": "+51 992597152",
+        "location": {
+            "country": "Peru",
+            "city": "Chiclayo",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Back End Developer formado en Coding Dojo y especializado en Dirección de Ventas por Esan. Experto en la creación de soluciones eficientes y escalables con tecnologías modernas. Poseo habilidades blandas como trabajo en equipo, comunicación efectiva y gestión de proyectos. Mi objetivo es seguir creciendo como desarrollador, aportando innovación y excelencia en el desarrollo de software."
+    },
+    "work_experience": [
+        {
+            "job_title": "Backend Developer Trainee",
+            "company": "Overall Strategy",
+            "location": "Chiclayo, Perú",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de componentes backend con Java 17 y SpringBoot para una aplicación gestión de beneficios internos.",
+                "Implementación y configuración de servicios AWS incluyendo EC2 para despliegue, S3 para almacenamiento de archivos, y Lambda para procesos automatizados.",
+                "Diseño y optimización de consultas complejas en Oracle PL/SQL y SQL 19c para el procesamiento de datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Jefe de Ventas",
+            "company": "Eurotubo Comercial",
+            "location": "Chiclayo, Perú",
+            "start_date": "2024-02-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé de un plan estratégico para coberturar las regiones de Lambayeque, Cajamarca y Amazonas.",
+                "Rediseñé el equipo comercial, para cumplir con las cuotas de ventas planteadas.",
+                "Implementé una BB.DD. sobre los proyectos que se atenderán en el primer semestre del año.",
+                "Incrementé en 5% las ventas mensuales comparadas con el período anterior."
+            ],
+            "achievements": ["Ventas por más de S/. 1 MM"],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Coordinador de Ventas-Zona Norte",
+            "company": "Goodyear",
+            "location": "Chiclayo, Perú",
+            "start_date": "2021-08-01",
+            "end_date": "2023-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Encargado de 15 puntos de distribución en la zona nor oriente (Tumbes, Piura, Chiclayo, Tarapoto, Trujillo, otros).",
+                "Manejé un presupuesto publicitario para actividades de marketing junto a mis dealers.",
+                "Incrementé en 2 POS mensuales a la red de distribuidores mensuales.",
+                "Aumenté las ventas en 10% de neumáticos premium en mi zona."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ingeniero Técnico Comercial",
+            "company": "Soler & Palau",
+            "location": "Lima, Perú",
+            "start_date": "2020-07-01",
+            "end_date": "2021-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Introducción al mercado local de una nueva línea de productos (Jet Line, Airpur, otros).",
+                "Asesoría técnico comercial, a clientes y distribuidores, en los proyectos asignados.",
+                "Generé nuevas oportunidades de negocios a través de las visitas a campo."
+            ],
+            "achievements": ["Ventas mensuales por USD $150K"],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ingeniero de Ventas de Servicios (División CTS)",
+            "company": "Atlas Copco",
+            "location": "Lima, Perú",
+            "start_date": "2019-07-01",
+            "end_date": "2020-02-29",
+            "currently_working": false,
+            "responsibilities": [
+                "Ofrecí soluciones comerciales de gran valor agregado para nuestros clientes.",
+                "Aumenté en 5% mi cartera de clientes en los sectores de industria y minería.",
+                "Cumplimiento del objetivo mensual de USD $80K."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Back End Developer",
+            "institution": "Coding Dojo",
+            "location": "Lima",
+            "start_date": "2024-04-01",
+            "end_date": "2024-07-31",
+            "hours": 0
+        },
+        {
+            "degree": "Especialización Dirección de Ventas",
+            "institution": "Esan",
+            "location": "Lima",
+            "start_date": "2020-01-01",
+            "end_date": "2021-10-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomado en Innovación",
+            "institution": "P.U. Católica de Chile",
+            "location": "Chile",
+            "start_date": "2017-09-01",
+            "end_date": "2019-01-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Comercial",
+            "institution": "Universidad del Desarrollo",
+            "location": "Chile",
+            "start_date": "2015-02-01",
+            "end_date": "2015-07-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniero Industrial y Comercial",
+            "institution": "Universidad Esan",
+            "location": "Lima",
+            "start_date": "2012-03-01",
+            "end_date": "2017-07-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "linux",
+                "java",
+                "javascript",
+                "css",
+                "spring-boot",
+                "python",
+                "html",
+                "apache-maven",
+                "django",
+                "git-/-github",
+                "jakarta-ee",
+                "jupyter",
+                "azure",
+                "postman",
+                "mysql"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "comunicación-efectiva",
+                "gestión-de-proyectos"
+            ],
+            "tools": [
+                "scrum",
+                "excel"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Plataforma Fullstack para la gestión dinámica de tareas con microservicios",
+            "description": "Desarrollé una plataforma fullstack para gestión de tareas con un backend en Java 17, Spring Boot, Maven y MySQL, estructurado en microservicios, y un frontend interactivo y moderno en React con Vite. Logré una integración fluida mediante servicios REST.",
+            "technologies": ["Java", "Spring Boot", "Maven", "MySQL", "React", "Vite"],
+            "url": ""
+        },
+        {
+            "name": "Web Scraping Tienda de Belleza",
+            "description": "Desarrollo de un sistema automatizado en Python para realizar scraping en un sitio web de belleza, utilizando librerías como BeautifulSoup y requests para extraer promociones y ofertas. Implementé un bot mediante la API de Telegram para enviar notificaciones en tiempo real.",
+            "technologies": ["Python", "BeautifulSoup", "requests", "Telegram API"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (B2)"
+        },
+        {
+            "language": "Portugués",
+            "proficiency": "Avanzado (C1)"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Voluntario",
+            "organization": "Voluntades Chiclayo",
+            "location": "Chiclayo, Perú",
+            "start_date": "",
+            "end_date": "",
+            "responsibilities": [
+                "Realización de actividades de acompañamiento a la población vulnerable."
+            ]
+        },
+        {
+            "role": "Voluntario Permanente",
+            "organization": "Techo Perú",
+            "location": "Perú",
+            "start_date": "",
+            "end_date": "",
+            "responsibilities": [
+                "Colaboración en comunidades del Callao y San Juan de Lurigancho."
+            ]
+        }
+    ],
+    "publications": [],
+    "references": []
+}

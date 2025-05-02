@@ -1,0 +1,87 @@
+{
+    "personal_info": {
+        "first_name": "Leandro",
+        "last_name": "Moyano",
+        "email": "leomoyanov1@gmail.com",
+        "phone": "+54-3854413402",
+        "location": {
+            "country": "",
+            "city": "San Miguel de Tucumán",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador de software. Programador Jr con experiencia en Java y SQL. Actualmente capacitándome en Spring y buscando nuevas experiencias que me hagan un mejor programador."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "",
+            "institution": "Instituto Superior de Enseñanzas Tecnológicas",
+            "location": "",
+            "start_date": "2022-04-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "Universidad de Santiago del Estero",
+            "location": "",
+            "start_date": "2020-02-01",
+            "end_date": "2021-06-30",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "Instituto Superior Teresa Barbieri de Barbieri",
+            "location": "",
+            "start_date": "2015-02-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "mysql",
+                "spring"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Gestor de Institución Educativa",
+            "description": "Gestor CRUD de profesores, alumnos, notas",
+            "technologies": ["java-swing", "sql"],
+            "url": ""
+        },
+        {
+            "name": "Tienda web",
+            "description": "Tienda de artículos deportivos",
+            "technologies": ["html", "css", "js", "java", "springboot"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

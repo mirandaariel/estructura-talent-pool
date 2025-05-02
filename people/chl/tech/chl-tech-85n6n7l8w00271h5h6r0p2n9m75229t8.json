@@ -1,0 +1,145 @@
+{
+    "personal_info": {
+        "first_name": "Jorge",
+        "last_name": "Cerda R.",
+        "email": "jorge_cerda_591@hotmail.com",
+        "phone": "+56 9 3178 0169",
+        "location": {
+            "country": "Chile",
+            "city": "Valparaiso",
+            "state": "V Región"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Web Full Stack JavaScript con experiencia en atención al cliente y enfoque en Backend. Apasionado por el desarrollo de páginas web y la creación de aplicaciones dinámicas. Poseo sólidas habilidades blandas gracias a mi experiencia en call center, donde he aprendido a manejar situaciones complejas y trabajar en equipo. Busco incorporarme a una organización innovadora con un ambiente laboral positivo donde pueda seguir creciendo profesionalmente y aportar mis habilidades al desarrollo de proyectos web de alto impacto."
+    },
+    "work_experience": [
+        {
+            "job_title": "Ejecutivo de Call Center",
+            "company": "Holdtech S.A",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-09-30",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Agente de contact center",
+            "company": "Teleperformance Chile S.A.",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Teleoperador",
+            "company": "Unisono Soluciones de Negocios Chile SA",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2020-12-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ejecutivo de atención al cliente",
+            "company": "Marketing Relacional UPCOM LTDA.",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2019-12-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Agente Call Center",
+            "company": "Teleperformance Chile S.A.",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2018-12-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bootcamp - Desarrollo de aplicaciones Full Stack Javascript Trainee",
+            "institution": "Talento Digital",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-05-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Superior Universitario en Higiene y Seguridad Industrial",
+            "institution": "Instituto Universitario De Tecnología De Administración Industrial",
+            "location": "",
+            "start_date": "2013-03-01",
+            "end_date": "2016-07-07",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "bootstrap",
+                "tailwind",
+                "javascript",
+                "jquery",
+                "react",
+                "php",
+                "sql",
+                "node.js",
+                "express",
+                "visual-studio-code"
+            ],
+            "soft": [
+                "rápido-aprendizaje",
+                "facilidad-para-enseñar",
+                "habilidades-blandas"
+            ],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "APV - MERN",
+            "description": "Aplicación Administrador de Pacientes de Veterinario. Registra usuarios, y cada usuario a su vez puede tener un registro independiente de pacientes.",
+            "technologies": ["react", "tailwindcss", "node.js", "express.js", "mongodb", "mongoose"],
+            "url": ""
+        },
+        {
+            "name": "Skate Park",
+            "description": "Aplicación para administrar el registro de usuarios en una competencia de Skate.",
+            "technologies": ["html", "css", "bootstrap", "javascript", "axios", "node.js", "express", "postgresql"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (B1)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

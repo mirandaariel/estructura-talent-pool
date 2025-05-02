@@ -1,0 +1,145 @@
+{
+    "personal_info": {
+        "first_name": "Cristhian Fabricio",
+        "last_name": "Ocola Pinto",
+        "email": "Ocolapintoc@gmail.com",
+        "phone": "+51952136108",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con más de tres años de experiencia, especializado en desarrollo backend. Tengo un sólido conocimiento en desarrollo web y móvil, enfocándome en la creación de soluciones escalables, eficientes e innovadoras que optimizan la experiencia del usuario. Mis habilidades abarcan lenguajes de programación, frameworks y herramientas modernas, junto con una fuerte capacidad para trabajar en equipos multidisciplinarios, resolver problemas complejos y entregar productos de alta calidad dentro de plazos ajustados. Comprometido con el aprendizaje continuo, me mantengo actualizado sobre las últimas tendencias en arquitectura de software, metodologías ágiles y mejores prácticas de desarrollo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Junior Full Stack Developer",
+            "company": "Softia.com",
+            "location": "",
+            "start_date": "2019-10-01",
+            "end_date": "2021-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé aplicaciones en el lado del servidor utilizando Java con frameworks Nestjs y SpringBoot, logrando soluciones eficientes y escalables.",
+                "En el lado del cliente, trabajé con tecnologías como HTML, CSS y JavaScript para el desarrollo frontend y framework como React, asegurando una experiencia de usuario atractiva y funcional.",
+                "Soporte técnico durante todo el ciclo del proyecto, asegurando su cumplimiento y calidad.",
+                "Colaboración en equipos multidisciplinarios para entregar proyectos exitosos en plazos ajustados."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Junior Backend Developer",
+            "company": "Serlog",
+            "location": "",
+            "start_date": "2021-12-01",
+            "end_date": "2022-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de API robustas y escalables utilizando tecnologías como NodeJs, NestJs y Postgresql.",
+                "Diseño y optimización de bases de datos, incluyendo consultas eficientes y modelado de datos, haciendo uso de Prisma.",
+                "Implementación de sistemas de autenticación y autorización con estándares de seguridad como JWT y OAuth, asegurando la protección de datos y el control de acceso.",
+                "Integración de servicios en la nube, como AWS S3, para una gestión eficiente de archivos y recursos estáticos, optimizando el almacenamiento y la entrega de contenido.",
+                "Mejora continua de la arquitectura y el rendimiento del back-end para maximizar la eficiencia y la escalabilidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Semi-Senior Backend Developer",
+            "company": "Casa Andina",
+            "location": "",
+            "start_date": "2023-06-01",
+            "end_date": "2024-06-30",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñé y desarrollé API robustas y altamente escalables utilizando tecnologías como PHP, Laravel y SQL.",
+                "Realicé el diseño y la optimización de bases de datos, incluyendo la creación de consultas eficientes y el modelado de datos para mejorar el rendimiento.",
+                "Demostré habilidades sólidas en la resolución de problemas y la depuración de errores en aplicaciones y servicios backend, garantizando la entrega de productos de alta calidad.",
+                "Contribuí al desarrollo de un sistema de gestión de contenidos (CMS) personalizado para la empresa, lo que permitió una gestión eficiente de la información.",
+                "Creé API eficientes para el consumo del frontend, mejorando la velocidad y la experiencia del usuario."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Semi-Senior Full Stack Developer",
+            "company": "ISOS-GROUP",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Mantenimiento y mejora del sistema de forma independiente.",
+                "Optimización y reestructuración de la lógica en NestJJS para corregir problemas y cumplir nuevos requisitos.",
+                "Desarrollo e integración de nuevos módulos para ampliar la funcionalidad del software.",
+                "Uso de NestJJS, React, PostgreSQL, AWS EC2, S3 y Docker para mejoras e infraestructura."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ciencia de la Computación",
+            "institution": "Universidad Católica San Pablo",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "laravel",
+                "nestjs",
+                "spring-boot",
+                "react",
+                "django",
+                "flutter",
+                "angular",
+                "javascript",
+                "php",
+                "python",
+                "java",
+                "c++",
+                "mysql",
+                "postgresql",
+                "mongodb",
+                "oracle",
+                "redis",
+                "aws",
+                "azure",
+                "docker",
+                "kubernetes"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "jira",
+                "postman",
+                "swagger-openapi",
+                "rest-api-design",
+                "graphql",
+                "microservicios",
+                "clean-architecture",
+                "event-driven-architecture",
+                "serverless"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,208 @@
+{
+    "personal_info": {
+        "first_name": "Daniel",
+        "last_name": "Chavez",
+        "email": "danielechs@hotmail.com",
+        "phone": "+57 316 8242457",
+        "location": {
+            "country": "Colombia",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/daniel-chavez-engineer-developer/",
+        "website": "",
+        "portfolio": "https://portfolio-danielchavezs-projects.vercel.app/",
+        "summary": "Bilingual Full Stack Developer (ENG - ESP) and Petroleum Engineer. Experience in both backend and frontend development, including responsive web design and techniques such as SSR and CSR streaming. Knowledgeable in agile methodologies and skilled in JavaScript, TypeScript, Node.js, HTML5, CSS, React, Next.js, Redux, PostgreSQL, MongoDB, among others."
+    },
+    "work_experience": [
+        {
+            "job_title": "Consultor de Auditoría",
+            "company": "TF Auditores y Asesores Ltda. BIC.",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Auditoría a la gestión de Proyectos de Infraestructura dentro del Oleoducto de Colombia S.A.",
+                "Auditoría externa sobre la gestión de Integridad de Línea para los sistemas de ODL y OBC."
+            ],
+            "achievements": []
+        },
+        {
+            "job_title": "Ingeniero Junior Soporte",
+            "company": "Oleoducto Central S.A. Ocensa / PS International SAS / Natural Resources Engineering SAS",
+            "location": "",
+            "start_date": "2021-09-01",
+            "end_date": "2023-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación y actualización de documentación técnica de Mantenimiento, Integridad y Operaciones On/Off-Shore.",
+                "Mejoramiento del programa de calificación del personal."
+            ],
+            "achievements": []
+        },
+        {
+            "job_title": "Profesional I Ingeniero de Petróleos",
+            "company": "Oleoducto Central S.A Ocensa / Natural Resources Engineering SAS",
+            "location": "",
+            "start_date": "2019-05-01",
+            "end_date": "2019-09-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Apoyo en la evaluación de cumplimiento del Marco Regulatorio Operacional de Ocensa.",
+                "Diseño de flujos de trabajo para la optimización de procesos."
+            ],
+            "achievements": []
+        },
+        {
+            "job_title": "Tesista",
+            "company": "Ulterra Colombia",
+            "location": "",
+            "start_date": "2017-05-01",
+            "end_date": "2018-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Evaluación técnica y financiera del desempeño de brocas policristalinas en el Campo Acordionero."
+            ],
+            "achievements": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollador Full-Stack",
+            "institution": "Henry Bootcamp",
+            "location": "Bogotá",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniero de Petróleos",
+            "institution": "Universidad de América",
+            "location": "Bogotá",
+            "start_date": "2018-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javaScript",
+                "typeScript",
+                "node.js",
+                "express.js",
+                "html5",
+                "css",
+                "react",
+                "next.js",
+                "redux",
+                "postgreSQL",
+                "mongoDB",
+                "prisma",
+                "sequelize",
+                "mongoose"
+            ],
+            "soft": [
+                "problem-solving",
+                "adaptability",
+                "communication",
+                "proactivity",
+                "teamwork",
+                "continuous-learning"
+            ],
+            "tools": [
+                "git",
+                "vercel",
+                "supabase",
+                "render",
+                "jest",
+                "rest-api",
+                "trello"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "C2 – Proficient English Level",
+            "issuing_organization": "EF English Standard Test",
+            "issue_date": "2023-10-15",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Energy Principles and Renewable Energy",
+            "issuing_organization": "University of Queensland",
+            "issue_date": "2020-09-01",
+            "expiration_date": "2020-12-01",
+            "credential_id": ""
+        },
+        {
+            "name": "Unconventional Reservoir Geomechanics Course",
+            "issuing_organization": "Stanford University",
+            "issue_date": "2019-04-01",
+            "expiration_date": "2019-06-01",
+            "credential_id": ""
+        },
+        {
+            "name": "Reservoir Geomechanics Course",
+            "issuing_organization": "Stanford University",
+            "issue_date": "2019-04-01",
+            "expiration_date": "2019-06-01",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Verify Influencers",
+            "description": "Web app developed with Next.js 15, TypeScript, Tailwind CSS, and MongoDB, analyzing and ranking health influencers using ML-based credibility assessments.",
+            "technologies": ["Next.js", "TypeScript", "Tailwind CSS", "MongoDB"],
+            "url": "https://verify-influencers-alpha.vercel.app/"
+        },
+        {
+            "name": "Task Manager",
+            "description": "Full-stack web application for task management, using Node.js, Express, MongoDB, React/Vite, TypeScript, and Tailwind CSS.",
+            "technologies": ["Node.js", "Express", "MongoDB", "React", "Vite", "TypeScript", "Tailwind CSS"],
+            "url": "https://task-manager-eta-opal.vercel.app/"
+        },
+        {
+            "name": "Owen Partners",
+            "description": "Collaboration with an Australian financial consulting company to improve responsive design and integrate Calendly.",
+            "technologies": ["WordPress"],
+            "url": "https://owenpartners.com.au/"
+        },
+        {
+            "name": "Tablero de Facturación",
+            "description": "Billing dashboard incorporating server components, streaming, data APIs, static and dynamic rendering.",
+            "technologies": ["Next.js", "PostgreSQL", "Tailwind CSS"],
+            "url": "https://nextjs-dashboard-htg7.vercel.app/"
+        },
+        {
+            "name": "Stayfy",
+            "description": "E-commerce site for books developed with React, featuring combined filters, shopping cart, and proprietary authentication.",
+            "technologies": ["React", "PostgreSQL"],
+            "url": "https://stayfy-mu.vercel.app/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "C2"
+        },
+        {
+            "language": "French",
+            "proficiency": "A2"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

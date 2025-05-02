@@ -1,0 +1,93 @@
+{
+    "personal_info": {
+        "first_name": "Maximiliano",
+        "last_name": "Echegaray",
+        "email": "maceech7@gmail.com",
+        "phone": "+54 2954 368838",
+        "location": {
+            "country": "Argentina",
+            "city": "San Rafael",
+            "state": "Mendoza"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "https://maximilianoechegaray.netlify.app",
+        "summary": "Técnico en programación con una fuerte pasión por resolver problemas y crear soluciones innovadoras. Me especializo en adaptarme rápidamente a nuevas tecnologías y entornos, lo que me permite aportar valor desde el primer momento. Busco contribuir en proyectos desafiantes aplicando buenas prácticas de desarrollo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Web",
+            "company": "UTN Los Reyunos",
+            "location": "San Rafael, Mendoza",
+            "start_date": "2024-08-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una plataforma de reservas online para un complejo turístico.",
+                "Implementación de funcionalidades como selección de fechas, pagos y gestión de reservas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Programación",
+            "institution": "Universidad Tecnológica Nacional (UTN)",
+            "location": "San Rafael, Mendoza",
+            "start_date": "2023-04-01",
+            "end_date": "2024-11-30",
+            "hours": 0
+        },
+        {
+            "degree": "Análisis de Datos",
+            "institution": "Universidad Nacional de Chilecito",
+            "location": "La Rioja",
+            "start_date": "2023-04-01",
+            "end_date": "2023-11-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "js",
+                "java",
+                "react",
+                "django",
+                "mysql",
+                "postgresql"
+            ],
+            "soft": [
+                "resolución-de-problemas",
+                "trabajo-en-equipo",
+                "adaptabilidad",
+                "comunicación-efectiva"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "node",
+                "scrum",
+                "agile"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Estudiante"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,80 @@
+{
+    "personal_info": {
+        "first_name": "Matias",
+        "last_name": "Juarez Gennaro",
+        "email": "matiasjuarezz062@gmail.com",
+        "phone": "+54 93813894750",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": "Tucumán"
+        },
+        "linkedin": "https://linkedin.com/in/matias-juarezg",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy una persona autodidacta, analítica y comunicativa, con una gran capacidad para resolver problemas complejos. Mi objetivo algún día es liderar equipos de desarrollo y contribuir a proyectos de impacto, mejorando sistemas complejos. Estoy comprometido con el aprendizaje."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "DistriSoft",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de Interfaz para E-commerce.",
+                "Diseño e implementación de Base de Datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tec. Universitaria en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "next.js",
+                "typescript",
+                "tailwind-css",
+                "bootstrap",
+                "material-ui",
+                "sql-server",
+                "mysql",
+                "postgresql",
+                "express.js",
+                "trpc",
+                "git"
+            ],
+            "soft": [
+                "escucha-activa",
+                "trabajo-en-equipo",
+                "facilidad-para-el-aprendizaje",
+                "comunicacion-verbal-y-escrita"
+            ],
+            "tools": [
+                "excel",
+                "google-sheets"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

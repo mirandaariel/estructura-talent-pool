@@ -1,0 +1,162 @@
+{
+    "personal_info": {
+        "first_name": "Jonathan",
+        "last_name": "Hernandez Correa",
+        "email": "jhernadezcorrea@gmail.com",
+        "phone": "+57 3105787397",
+        "location": {
+            "country": "Colombia",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/jonathan-hernandez-3b3a89263/",
+        "website": "https://jonathan-hernandez-porfolio.netlify.app/",
+        "portfolio": "https://porfoliodevjonathan.netlify.app/",
+        "summary": "Desarrollador Web Full Stack y Analista de Datos con un enfoque intensivo en el aprendizaje continuo y la aplicación práctica de conocimientos. Con una sólida formación en bootcamps y cursos online, he dominado tecnologías como React, Node.js, Python y sus librerías de análisis de datos. He creado diversos proyectos personales que demuestran mi capacidad para desarrollar aplicaciones web completas y realizar análisis de datos para la toma de decisiones."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista de Datos",
+            "company": "",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Análisis exploratorio de datos utilizando Python (Pandas, NumPy, Matplotlib).",
+                "Creación de modelos de machine learning (regresión, clasificación) con Scikit-learn y TensorFlow.",
+                "Visualización de datos y creación de dashboards."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web Full Stack",
+            "company": "",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñé e implementé una plataforma para promocionar el turismo y oportunidades inmobiliarias en Colombia.",
+                "Integré múltiples listados de propiedades con detalles completos incluyendo imágenes y mapas.",
+                "Optimicé el sitio para SEO utilizando Next.js y Tailwind CSS."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Secretario",
+            "company": "Vereda California, Veeduria",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Planificación, gestión y ejecución de proyectos comunitarios.",
+                "Organización de actas y documentos.",
+                "Colaboración para identificar necesidades comunitarias."
+            ],
+            "achievements": [
+                "Identifiqué y abordé retrasos en el proyecto de construcción, incorporando opiniones de la comunidad."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Curso Intensivo de Inglés",
+            "institution": "OEP Overseas Education Program",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bootcamp de Desarrollo Web Full Stack",
+            "institution": "Academlo",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Electrónica",
+            "institution": "UFPS Universidad Francisco de Paula Santander",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "java",
+                "c++",
+                "html5",
+                "css3",
+                "react.js",
+                "next.js",
+                "node.js",
+                "express.js",
+                "rest-apis",
+                "postgresql",
+                "sql",
+                "python",
+                "pandas",
+                "numpy",
+                "matplotlib",
+                "seaborn",
+                "tensorflow",
+                "keras",
+                "scikit-learn",
+                "pytorch"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "netlify",
+                "google-colab",
+                "jupyter-notebooks"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Serendicus",
+            "description": "Diseñé e implementé una plataforma fácil de usar para promocionar el turismo y las oportunidades inmobiliarias con Next.js y Tailwind CSS.",
+            "technologies": ["Next.js", "Tailwind CSS"],
+            "url": "https://serendicus.com/"
+        },
+        {
+            "name": "GiftMusic",
+            "description": "Plataforma de exploración musical utilizando la API de Spotify para ofrecer una experiencia personalizada.",
+            "technologies": ["Spotify API"],
+            "url": "https://app-music-spotify.netlify.app/"
+        },
+        {
+            "name": "E-commerceJS",
+            "description": "Plataforma de comercio electrónico desarrollada con Vanilla JavaScript, ofreciendo una experiencia de compra fluida.",
+            "technologies": ["JavaScript"],
+            "url": "https://carrito-de-compras-colombia.netlify.app/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "B2"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

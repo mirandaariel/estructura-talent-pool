@@ -1,0 +1,168 @@
+{
+    "personal_info": {
+        "first_name": "Pedro Augusto",
+        "last_name": "Gomez",
+        "email": "augustopgomez1994@gmail.com",
+        "phone": "+549 2235866665",
+        "location": {
+            "country": "Argentina",
+            "city": "Mar del Plata",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/pedro-augusto-gomez/",
+        "website": "",
+        "portfolio": "https://github.com/pedroagomez",
+        "summary": "A lo largo de mi trayecto profesional, he forjado diferentes competencias en el entorno laboral. Entre ellas, la eficiente gestión del tiempo, la adaptabilidad a distintas circunstancias laborales, un enfoque continuo en el aprendizaje autodidacta, la colaboración efectiva en equipos, así como sólidas aptitudes comunicativas y organizativas. Me guia un enfoque proactivo en la solución de problemas, la asunción de responsabilidades y un marcado compromiso con los objetivos del equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador web",
+            "company": "Consultoría para UTD",
+            "location": "Zona Centro",
+            "start_date": "2023-09-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo Web en la Consultoría para creación, puesta en funcionamiento, formulación de proyectos TD y consolidación de Unidad de Transformación digital (UTD)."
+            ],
+            "achievements": [
+                "Proyecto PNUD ARG/20/007 - Ministerio de Capital Humano."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Encargado de ventas",
+            "company": "Distribuidora Los chicos",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Adquisición de nuevos clientes y lideré la coordinación y distribución eficiente de los productos.",
+                "Establecer relaciones comerciales y garantizar entregas a tiempo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Community Manager",
+            "company": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de contenido atractivo y relevante para redes sociales.",
+                "Gestión de campañas de publicidad en redes sociales con Meta Ads.",
+                "Implementación de estrategias para crecimiento orgánico de seguidores."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Estudiante de 2do año de Tecnicatura en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Estudiante de 4to año de Ingeniería Pesquera",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c",
+                "mysql",
+                "java",
+                "spring-boot",
+                "github"
+            ],
+            "soft": [
+                "gestión-del-tiempo",
+                "adaptabilidad",
+                "aprendizaje-autodidacta",
+                "colaboración-en-equipos",
+                "habilidades-comunicativas",
+                "habilidades-organizativas",
+                "solución-de-problemas"
+            ],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "MySQL",
+            "issuing_organization": "Educación IT",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "SpringBoot",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso QA manual",
+            "issuing_organization": "Educación IT",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Power BI",
+            "issuing_organization": "CoderHouse",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "SQL",
+            "issuing_organization": "Deita",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Neuroliderazgo",
+            "issuing_organization": "Instituto HILET",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Community Management, nivel I y II",
+            "issuing_organization": "Instituto HILET",
+            "issue_date": "2020-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "A2"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,192 @@
+{
+    "personal_info": {
+        "first_name": "Nahuel",
+        "last_name": "Torrez Guzman",
+        "email": "nahueltorrez@gmail.com",
+        "phone": "+59170395071",
+        "location": {
+            "country": "Bolivia",
+            "city": "Cochabamba",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/nahuel-torrez-guzman-7b1261248/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un desarrollador con amplio manejo de diversas herramientas en el área de software, me especializo en frameworks para desarrollo web, trabajando con JavaScript tanto en frontend como en backend, y bases de datos para diseñar arquitecturas eficientes y escalables. También tengo conocimiento en motores gráficos como Unity y Unreal."
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Developer",
+            "company": "SummergoLab",
+            "location": "Cochabamba",
+            "start_date": "2022-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de productos y aplicaciones utilizando tecnologías como Unity y Unreal Engine.",
+                "Enfocado en soluciones para aplicaciones de AR y VR."
+            ],
+            "achievements": [
+                "LeerElCielo (VR): Presentado en eventos con más de 500 asistentes, como la Noche de Museos y el Día Internacional del Turismo."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Automation and Maintenance",
+            "company": "Academia Bolivia",
+            "location": "Cochabamba",
+            "start_date": "2024-06-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Realicé automatizaciones para sistemas y procesos contables.",
+                "Gestión de vigencias.",
+                "Verificación y coherencia de datos contables."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Lic. en Ingeniería de Sistemas",
+            "institution": "Universidad Mayor de San Simón (UMSS)",
+            "location": "Cochabamba",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico medio de Sistemas Computacionales",
+            "institution": "Centro de Educación Alternativa (C.E.A.)",
+            "location": "Cochabamba",
+            "start_date": "2019-01-01",
+            "end_date": "2021-01-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "css",
+                "typescript",
+                "mui",
+                "javascript",
+                "astro",
+                "tailwind-css",
+                "git",
+                "html",
+                "unity",
+                "unreal-engine",
+                "neatbeans",
+                "android-studio",
+                "redis",
+                "mongodb",
+                "postgresql",
+                "boostrap"
+            ],
+            "soft": [
+                "resolucion-de-problemas",
+                "liderazgo",
+                "trabajo-en-equipo",
+                "gestion-de-procesos",
+                "adaptabilidad"
+            ],
+            "tools": [
+                "figma",
+                "visual-code",
+                "jira",
+                "slack"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "LeerElCielo",
+            "description": "Presentado en eventos con más de 500 asistentes, como la Noche de Museos y el Día Internacional del Turismo.",
+            "technologies": ["Unity", "Unreal Engine"],
+            "url": ""
+        },
+        {
+            "name": "Landing Page de la SCESI",
+            "description": "Desarrollo de la página principal de la sociedad científica.",
+            "technologies": ["React", "Tailwind CSS"],
+            "url": ""
+        },
+        {
+            "name": "Aplicación FLISoL",
+            "description": "Plataforma creada para el Festival Latinoamericano de Instalación de Software Libre.",
+            "technologies": ["React"],
+            "url": ""
+        },
+        {
+            "name": "Landing Page 3D Printer",
+            "description": "Página web enfocada en la promoción y gestión de impresoras 3D.",
+            "technologies": ["React", "CSS"],
+            "url": ""
+        },
+        {
+            "name": "Cappuchino SCESI",
+            "description": "Página web especializada para organización de horarios de la Facultad de Tecnología UMSS.",
+            "technologies": ["React", "CSS"],
+            "url": ""
+        },
+        {
+            "name": "Curso de programación",
+            "description": "Desarrollado bajo plataformas universitarias.",
+            "technologies": ["NeatBeans", "Java"],
+            "url": ""
+        },
+        {
+            "name": "PlataformSimulEducation",
+            "description": "Desarrollo de una plataforma de simulación educativa.",
+            "technologies": ["React", "Redux"],
+            "url": ""
+        },
+        {
+            "name": "Plataforma de Gestión de proyectos Cocoa",
+            "description": "Una plataforma de gestión de proyectos.",
+            "technologies": ["Bootstrap", "Express.js"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Directiva Académica",
+            "organization": "SCESI",
+            "location": "Cochabamba",
+            "start_date": "2024-03-01",
+            "end_date": "",
+            "responsibilities": [
+                "Gestionar las áreas de especialización dentro de la sociedad científica.",
+                "Contacto constante y comunicación efectiva con leads de área.",
+                "Supervisar y garantizar el desarrollo y éxito de los proyectos en curso."
+            ]
+        },
+        {
+            "role": "Estudiante Web",
+            "organization": "SCESI",
+            "location": "Cochabamba",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "responsibilities": [
+                "Participación en proyectos de desarrollo web utilizando librerías y frameworks."
+            ]
+        }
+    ],
+    "publications": [],
+    "references": []
+}

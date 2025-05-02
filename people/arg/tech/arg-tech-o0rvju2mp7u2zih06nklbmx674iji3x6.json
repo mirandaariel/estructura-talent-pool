@@ -1,0 +1,184 @@
+{
+    "personal_info": {
+        "first_name": "Manuel",
+        "last_name": "Latorre",
+        "email": "manuel.latorre11@gmail.com",
+        "phone": "+542266661736",
+        "location": {
+            "country": "Argentina",
+            "city": "Mar del Plata",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Frontend con más de un año de experiencia en el desarrollo de páginas web, interfaces de usuarios, plataforma de gestión de datos, landing pages, entre otros."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "Tualo",
+            "location": "México",
+            "start_date": "2024-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo del sitio web corporativo.",
+                "Desarrollo de reportes automatizados con inteligencia artificial.",
+                "Gráficas dinámicas automatizadas.",
+                "Ejecución de tareas en segundo plano mediante Trigger.dev.",
+                "Desarrollo de interfaces de usuarios atractivas.",
+                "Integración de pasarela de pagos mediante Stripe.",
+                "Integración de correos automatizados mediante Supabase y RESEND."
+            ],
+            "achievements": [
+                "Automatización del 80% en el proceso de generación de reportes.",
+                "Automatización del 90% en la creación de gráficas dinámicas."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Tu Mejor Amigo",
+            "location": "México",
+            "start_date": "2023-11-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de interfaces de usuarios.",
+                "Carga de imágenes mediante Cloudinary.",
+                "Integración de notificaciones mediante React Native Firebase Messaging."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Freelance",
+            "company": "Vittanut",
+            "location": "",
+            "start_date": "2024-12-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de sitio web.",
+                "Diseño responsive.",
+                "Integración de SEO.",
+                "Integración de traducción en idiomas Inglés, Alemán y Español."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Freelance",
+            "company": "Diarc Studio",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo del sitio web.",
+                "Panel administrativo para actualizar portfolio de la empresa.",
+                "Animaciones y transiciones con CSS.",
+                "SEO."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Freelance",
+            "company": "Brochure Digital Creative",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Integración de componente Arcane Mirage para visualización 3D.",
+                "Selector de idiomas en Inglés y Español."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas",
+            "institution": "Universidad CAECE",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "tailwind-css",
+                "javascript",
+                "typescript",
+                "react.js",
+                "next.js",
+                "redux",
+                "node.js",
+                "express",
+                "postgresql",
+                "supabase"
+            ],
+            "soft": [
+                "comunicación",
+                "trabajo-en-equipo",
+                "proactivo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Curso de Next.js",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Bootcamp Desarrollo Web Fullstack",
+            "issuing_organization": "Henry",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Javascript",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Desarrollo Web",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

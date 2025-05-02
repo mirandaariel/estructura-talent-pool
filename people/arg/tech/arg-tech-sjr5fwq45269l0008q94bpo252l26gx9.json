@@ -1,0 +1,84 @@
+{
+    "personal_info": {
+        "first_name": "Maximiliano",
+        "last_name": "Pontin",
+        "email": "maxipontin92@gmail.com",
+        "phone": "2983-15548616",
+        "location": {
+            "country": "Argentina",
+            "city": "Tres Arroyos",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/maximiliano-pontin",
+        "website": "",
+        "portfolio": "https://github.com/maximilianopontin",
+        "summary": "Desarrollador web full stack recientemente egresado, apasionado por la tecnología y la creación de aplicaciones interactivas. Con sólidos conocimientos en frontend y backend, especializado en el desarrollo de plataformas digitales utilizando React, NestJS y bases de datos MySQL. Destaco por mi adaptabilidad, capacidad para trabajar en equipo y enfoque en la usabilidad y la eficiencia de las aplicaciones."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Desarrollador Web Full Stack",
+            "institution": "Cluster Tecnológico de Tandil",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Tecnología de los Alimentos",
+            "institution": "Universidad Nacional del Centro de la Provincia de Buenos Aires",
+            "location": "",
+            "start_date": "2011-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "jsx",
+                "typescript",
+                "react",
+                "nestjs",
+                "mysql",
+                "typeorm"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "adaptabilidad",
+                "buena-comunicacion-interpersonal"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "scrum"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Plataforma de Música Digital",
+            "description": "Desarrollé una plataforma de música digital que permite a los usuarios crear playlists, añadir canciones favoritas y realizar pagos mediante mercado pago para acceder a funciones premium. La plataforma cuenta con una interfaz responsiva para dispositivos móviles y de escritorio.",
+            "technologies": ["React", "NestJS", "MySQL", "TypeORM", "Mercado Pago"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Nivel A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,61 @@
+{
+    "personal_info": {
+        "first_name": "Tomas",
+        "last_name": "Tsangoulas",
+        "email": "tsangatoml@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/tomastsangoulas/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante de segundo año de Ingeniería en Sistemas en la UTN, con conocimientos en diseño y optimización de data pipelines, bases de datos y procesos ETL. Me especializo en la automatización, el modelado de datos y la optimización del rendimiento para mejorar la toma de decisiones."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas",
+            "institution": "UTN",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "mysql/postgresql",
+                "airflow",
+                "git/github",
+                "linux",
+                "docker"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "ETL de Spotify - Canciones de Grunge",
+            "description": "Proyecto ETL para extraer datos de canciones del género Grunge desde la API de Spotify, transformarlos con Pandas y cargarlos en una base de datos MySQL.",
+            "technologies": ["python", "pandas", "spotipy", "sqlalchemy", "mysql"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

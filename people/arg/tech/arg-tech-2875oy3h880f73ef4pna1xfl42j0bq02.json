@@ -1,0 +1,93 @@
+{
+    "personal_info": {
+        "first_name": "Julian Alberto",
+        "last_name": "Neiza Roncancio",
+        "email": "julianneiza58@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/julian-neiza-roncancio-844675255",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador del software con experiencia en diseño, desarrollo y mantenimiento de aplicaciones utilizando Java, Python, C# y plataformas cloud como Azure."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador del software",
+            "company": "Atos IT Solutions and Services S.A.S",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2023-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñado, desarrollado y mantenido aplicaciones utilizando Java, Python y C#.",
+                "Implementado soluciones técnicas eficientes y optimizado algoritmos.",
+                "Trabajado en colaboración con equipos multifuncionales y participado en revisiones de código.",
+                "Utilizado metodologías ágiles como Scrum y Kanban."
+            ],
+            "achievements": [
+                "Mejora del 30% en el rendimiento de las aplicaciones."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador y analista en plataformas cloud",
+            "company": "IKM Information and Knowledge Management",
+            "location": "",
+            "start_date": "2023-10-01",
+            "end_date": "2024-01-01",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñado, implementado y mantenido soluciones basadas en la nube utilizando Azure.",
+                "Desarrollado aplicaciones escalables y seguras.",
+                "Realizado análisis detallados de los sistemas en la nube.",
+                "Colaborado con equipos multifuncionales para integrar servicios en la nube con aplicaciones locales."
+            ],
+            "achievements": [
+                "Mejora del rendimiento y reducción de costos en un 20%.",
+                "Garantizado una disponibilidad del 99.9%.",
+                "Mejora de la eficiencia operativa en un 25%.",
+                "Gestión de proyectos de migración a la nube asegurando la entrega puntual y dentro del presupuesto."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Análisis y desarrollo de sistemas de la información",
+            "institution": "Servicio Nacional de Aprendizaje (SENA)",
+            "location": "",
+            "start_date": "2020-10-01",
+            "end_date": "2022-10-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ciberseguridad en servidor Azure",
+            "institution": "Microsoft",
+            "location": "",
+            "start_date": "2022-12-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["java", "python", "c#", "azure"],
+            "soft": ["comunicación", "análisis-de-datos", "solución-de-problemas"],
+            "tools": ["scrum", "kanban"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

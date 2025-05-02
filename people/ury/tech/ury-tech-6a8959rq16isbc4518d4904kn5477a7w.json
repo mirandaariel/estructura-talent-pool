@@ -1,0 +1,142 @@
+{
+    "personal_info": {
+        "first_name": "Andres",
+        "last_name": "Huelmo",
+        "email": "huelmoandres@gmail.com",
+        "phone": "091383578",
+        "location": {
+            "country": "Uruguay",
+            "city": "Melo",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/andres-huelmo-rijo",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador frontend con más de 5 años de experiencia creando interfaces de usuario escalables e intuitivas con React, Next.js y TypeScript. Apasionado por la optimización del rendimiento y la mejora continua, busco constantemente desafíos que me permitan crecer y aportar valor a proyectos innovadores."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "BunkerDB",
+            "location": "Montevideo, Uruguay",
+            "start_date": "2021-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de interfaces de usuario intuitivas y responsivas con React JS.",
+                "Implementación de nuevas funcionalidades y optimización del rendimiento de aplicaciones existentes.",
+                "Desarrollo de nuevas aplicaciones de mediano y gran porte."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "DualBoot Partners",
+            "location": "Montevideo, Uruguay",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño e implementación de soluciones completas en proyectos full stack.",
+                "Participación en el desarrollo de sistemas modernos con Node.js, Nest.js.",
+                "Integración de APIs y servicios de terceros en aplicaciones web con React.js y Next.js."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "ID Digital Abitab",
+            "location": "Montevideo, Uruguay",
+            "start_date": "2018-01-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web integrando frontend y backend usando React para el frontend y PHP con Laravel para el backend.",
+                "Mantenimiento de sistemas críticos para la operación interna de la empresa.",
+                "Optimización de procesos internos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista en Tecnologías de la Información",
+            "institution": "Universidad ORT",
+            "location": "Montevideo",
+            "start_date": "2017-03-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Analista Programador",
+            "institution": "Universidad ORT",
+            "location": "Montevideo",
+            "start_date": "2017-03-01",
+            "end_date": "2020-04-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react.js",
+                "next.js",
+                "typescript",
+                "javascript",
+                "html5",
+                "css3",
+                "redux",
+                "node.js",
+                "nest.js"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Taller Figma",
+            "issuing_organization": "Desafío Latam",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "React JS + Next JS",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "React JS + Redux + ES6",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Básico - Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Rodrigo Marote",
+            "relationship": "Desarrollador Mercado Libre",
+            "contact": "098308327"
+        }
+    ]
+}

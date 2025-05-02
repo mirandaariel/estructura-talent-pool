@@ -1,0 +1,156 @@
+{
+    "personal_info": {
+        "first_name": "Emiliano",
+        "last_name": "Castro",
+        "email": "emilianocastro97@gmail.com",
+        "phone": "2644582760",
+        "location": {
+            "country": "Argentina",
+            "city": "San Juan",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/emiliano-castro-261486234/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy desarrollador backend con 3 años de experiencia y habilidades en frontend utilizando React.js. Apasionado por la tecnología y en constante aprendizaje. Experiencia en proyectos colaborativos bajo metodologías ágiles, asegurando integración efectiva entre frontend y backend."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "RTO San Juan",
+            "location": "San Juan, Argentina",
+            "start_date": "2023-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Implementación de autenticación y autorización con JWT y Passport.",
+                "Diseño y gestión de base de datos MySQL con Sequelize.",
+                "Integración de servicios en la nube con AWS S3 y despliegue en Heroku.",
+                "Integración de Mercado Pago.",
+                "Desarrollo bajo metodologías ágiles, colaborando con equipos frontend para garantizar la integración."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "Folcademy",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboración en una landing page para ASEA, desarrollando integraciones con AWS, Mailer, JWT y Mercado Pago utilizando Node.js y TypeScript."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Torchain",
+            "location": "",
+            "start_date": "2024-12-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y desarrollo de una página web informativa y estática utilizando React.js con HTML y CSS.",
+                "Enfoque en diseño limpio, responsivo y experiencia del usuario."
+            ],
+            "achievements": [],
+            "repository_url": "https://www.fundaciontorchain.com"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Administración de Empresas",
+            "institution": "Universidad Católica de Cuyo",
+            "location": "San Juan, Argentina",
+            "start_date": "2017-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "java",
+                "javascript",
+                "python",
+                "node.js",
+                "react.js",
+                "spring",
+                "express",
+                "django",
+                "mysql",
+                "mongodb",
+                "aws",
+                "azure",
+                "heroku"
+            ],
+            "soft": [
+                "puntualidad-y-responsabilidad",
+                "adaptabilidad-y-compromiso-con-la-tarea",
+                "manejo-eficiente-de-la-computadora-y-programas-respectivos",
+                "trabajo-en-equipo-y-colaboración-en-equipos-áagiles"
+            ],
+            "tools": [
+                "jira-software",
+                "bitbucket",
+                "github",
+                "postman",
+                "sourcetree",
+                "trello"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Backend Developer - Node.js",
+            "issuing_organization": "Folcademy",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "JavaScript",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Backend Developer - Java Spring",
+            "issuing_organization": "Folcademy",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Backend Developer - Python",
+            "issuing_organization": "DigitalMind",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": "",
+            "endorsement": "Certificación avalada por la UTN"
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio - Nivel B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

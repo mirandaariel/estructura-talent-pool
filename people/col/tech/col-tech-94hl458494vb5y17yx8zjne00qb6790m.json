@@ -1,0 +1,196 @@
+{
+    "personal_info": {
+        "first_name": "Daniel",
+        "last_name": "Medina Cossio",
+        "email": "agueroalex122000@gmail.com",
+        "phone": "+573012138273",
+        "location": {
+            "country": "Colombia",
+            "city": "Envigado",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Experienced Fullstack Developer skilled in designing, developing, testing, and maintaining software systems. Equipped with a versatile and robust skill set, proficient in building end-to-end applications across front-end, back-end, and databases. Adept in working with modern platforms, programming languages, and frameworks."
+    },
+    "work_experience": [
+        {
+            "job_title": "Senior FullStack Engineer",
+            "company": "Talent.com",
+            "location": "Medellín",
+            "start_date": "2022-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Designed and implemented a microservices architecture using NestJS, AWS, and Docker, enhancing system modularity and reducing dependencies between components.",
+                "Refactored legacy codebases to improve reliability, scalability, and maintainability across both front-end (Next.js, Vite) and back-end (NestJS, MySQL, PostgreSQL) systems.",
+                "Developed secure, industry-standard authentication systems using Redis and Kafka to ensure data protection and privacy.",
+                "Created custom fullstack services to manage application state, integrate with APIs, and deliver seamless user experiences using Next.js, Tailwind CSS, and Vite.",
+                "Utilized Git for version control and collaborated with cross-functional teams to ensure efficient deployment and continuous integration."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA Analyst",
+            "company": "Talent.com",
+            "location": "Medellín",
+            "start_date": "2021-07-01",
+            "end_date": "2022-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Performed usability testing to ensure the software was user-friendly and intuitive, utilizing Jest for unit and integration testing to validate functionality and user flows.",
+                "Collaborated with developers to identify and troubleshoot root causes of software issues, leveraging Jest for debugging and ensuring code reliability.",
+                "Created a comprehensive test strategy using Jest to automate testing processes, ensuring the quality and stability of software releases across development cycles.",
+                "Implemented test-driven development (TDD) practices with Jest to improve code coverage and reduce regression issues."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Javascript Developer",
+            "company": "Talent.com",
+            "location": "Medellín",
+            "start_date": "2020-09-01",
+            "end_date": "2021-07-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Integrated third-party ATS clients (Bullhorn, OTYS, Homegrown) using tailored React-based solutions with Redux for state management and Axios for API communication.",
+                "Provided mentorship to team members by explaining business logic, addressing code issues, and conducting code reviews using Git and GitHub/GitLab workflows."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Technology in Software Analysis and Development",
+            "institution": "SENA",
+            "location": "Medellin",
+            "start_date": "2018-01-01",
+            "end_date": "2020-01-01",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Development",
+            "institution": "Next-u",
+            "location": "Medellín",
+            "start_date": "2018-01-01",
+            "end_date": "2020-06-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "node.js",
+                "php",
+                "html",
+                "css",
+                "sql",
+                "python",
+                "javascript",
+                "react",
+                "typescript",
+                "aws",
+                "restful-apis",
+                "nextjs",
+                "vite",
+                "nestjs",
+                "regex",
+                "event-driven",
+                "kafka",
+                "rabbitmq"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                ".github",
+                "gitlab",
+                "jenkins",
+                "jira",
+                "trello"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "AWS Certified Cloud Practitioner",
+            "issuing_organization": "AWS",
+            "issue_date": "2023-08-01",
+            "expiration_date": "2026-08-01",
+            "credential_id": ""
+        },
+        {
+            "name": "SQL For Data Analysis",
+            "issuing_organization": "Udemy",
+            "issue_date": "2022-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Python Regular Expressions Complete Masterclass",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-04-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "AWS Lambda and the Serverless Framework",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-08-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "AWS - Mastering Boto3 & Lambda Functions Using Python",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-09-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "AWS AppSync & Amplify with React & GraphQL - Complete Guide",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "NestJS Zero to Hero - Modern TypeScript",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-04-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Master NestJS",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-04-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "JavaScript (Intermediate) Certificate",
+            "issuing_organization": "HackerRank",
+            "issue_date": "",
+            "expiration_date": "2024-12-01",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

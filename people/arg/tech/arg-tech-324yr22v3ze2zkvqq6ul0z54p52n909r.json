@@ -1,0 +1,137 @@
+{
+    "personal_info": {
+        "first_name": "Joaquín",
+        "last_name": "Romero",
+        "email": "joaquin.romero89@gmail.com",
+        "phone": "+54 3516450355",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/joaco-romero",
+        "website": "",
+        "portfolio": "https://portfolio-joacoromero.vercel.app",
+        "summary": "Desarrollador front-end con experiencia en proyectos personales y en equipo, especializado en React y tecnologías modernas, con conocimientos en backend con Node.js e integración de APIs REST."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Igrowker",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y desarrollo de una interfaz de usuario dinámica y eficiente.",
+                "Implementación de diseño limpio y responsivo utilizando TailwindCSS.",
+                "Coordinación con el equipo de back-end para garantizar una integración fluida."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "No Country",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de una interfaz de usuario responsiva y componentes reutilizables.",
+                "Implementación de una API REST para integración con el back-end."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "",
+            "company": "Malva saudable",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una SPA.",
+                "Experiencia de usuario atractiva y funcional para destacar la identidad de la marca y facilitar el acceso a su canal de ventas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales (1er Año)",
+            "institution": "Instituto Politécnico Superior",
+            "location": "Córdoba, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "redux",
+                "next.js",
+                "html",
+                "css",
+                "tailwindcss",
+                "bootstrap",
+                "material-ui",
+                "shadcn/ui",
+                "node.js",
+                "axios",
+                "api-rest",
+                "typescript",
+                "javascript",
+                "python"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "trello"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "De Camino",
+            "description": "Reserva y reseña de lugares gastronómicos en pequeñas localidades",
+            "technologies": ["react", "redux", "tailwind", "node.js"],
+            "url": ""
+        },
+        {
+            "name": "Fitness Center Gym",
+            "description": "Gestión de socios y programación de clases en gimnasios",
+            "technologies": ["react", "tailwindcss", "material-ui", "node.js"],
+            "url": ""
+        },
+        {
+            "name": "Malva saudable",
+            "description": "Experiencia de usuario atractiva y funcional para destacar la identidad de la marca y facilitar el acceso a su canal de ventas",
+            "technologies": ["javascript", "css"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate (B2)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

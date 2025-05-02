@@ -1,0 +1,144 @@
+{
+    "personal_info": {
+        "first_name": "Celeste",
+        "last_name": "Belén Montero",
+        "email": "celesbmontero@hotmail.com",
+        "phone": "+54 11 5503 1316",
+        "location": {
+            "country": "Argentina",
+            "city": "Quilmes",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://linkedin.com/in/celestemontero",
+        "website": "https://github.com/CelesBM",
+        "portfolio": "https://celestemontero.vercel.app/",
+        "summary": "Desarrolladora web con sólidos conocimientos en tecnologías Frontend y Backend, especializada en la creación de páginas web dinámicas utilizando React. Tengo experiencia trabajando con bases de datos relacionales (PostgreSQL, MySQL) y no relacionales (MongoDB), implementando soluciones eficientes y escalables."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrolladora freelance",
+            "company": "",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé una página e-commerce de suplementos deportivos. Colaboré directamente con el cliente para analizar sus necesidades y objetivos, incluyendo la implementación de un formulario de contacto validado y un carrito de compras.",
+                "Utilicé React.js, empleando Hooks, Context y Redux Toolkit para una arquitectura robusta y escalable.",
+                "Desarrollé un formulario de contacto con Formik y Yup, asegurando la validación en tiempo real y facilidad de uso."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Jefa administrativa",
+            "company": "Sanatorio Modelo Quilmes",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Capacitación y liderazgo del equipo administrativo en el uso de nuevas herramientas tecnológicas y procedimientos, fomentando un ambiente de trabajo colaborativo y orientado a resultados.",
+                "Control y ejecución de la facturación a prepagas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Asesora Nutricional",
+            "company": "Consultorio Nutricional",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Asesoramiento nutricional personalizado para deportistas de élite."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista de Sistemas Informáticos",
+            "institution": "Instituto Raúl Scalabrini Ortiz (IRSO)",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "node.js",
+                "bem",
+                "dom",
+                "react.js",
+                "firebase",
+                "mongodb",
+                "postgresql"
+            ],
+            "soft": [
+                "comunicación-efectiva",
+                "liderazgo",
+                "trabajo-en-equipo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Desarrollo Web Inicial",
+            "issuing_organization": "Universidad Tecnológica Nacional (UTN)",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo Web Fullstack",
+            "issuing_organization": "NUCBA",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo Web Fullstack",
+            "issuing_organization": "APX school",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Piedra, papel o tijera online",
+            "description": "Juego online que ofrece una experiencia interactiva para jugadores en tiempo real, utilizando Firebase para implementar una conexión en tiempo real.",
+            "technologies": ["Typescript", "HTML", "CSS", "Firebase"],
+            "url": "https://ppt-online-qs4b.onrender.com/"
+        },
+        {
+            "name": "E-commerce",
+            "description": "Página e-commerce diseñada para ofrecer una experiencia de compra intuitiva y atractiva, con funcionalidades de navegación y búsqueda.",
+            "technologies": ["Javascript", "HTML", "CSS"],
+            "url": "https://dancewear-landing.vercel.app/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

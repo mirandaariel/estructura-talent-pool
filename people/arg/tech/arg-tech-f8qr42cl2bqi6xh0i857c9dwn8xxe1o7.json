@@ -1,0 +1,112 @@
+{
+    "personal_info": {
+        "first_name": "",
+        "last_name": "",
+        "email": "morenoaxel395@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Especialista de desarrollo",
+            "company": "INSIDE MARKET (Rio Supermarket)",
+            "location": "Unknown",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desempeñé funciones como Analista de bases de datos y Especialista de desarrollo.",
+                "Mantenimiento del front-end de varios aplicativos de la empresa.",
+                "Desarrollo de una aplicación para gestionar los horarios del personal.",
+                "Colaboración en la creación de una aplicación web para ajustar conciliaciones de registros en línea de caja."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de desarrollo",
+            "company": "GUUAC - LEIROS",
+            "location": "Unknown",
+            "start_date": "2023-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Mantenimiento de una aplicación móvil desactualizada.",
+                "Resolución de errores (bugs) y cambios en el esquema de diseño."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de desarrollo",
+            "company": "OMNINEXO",
+            "location": "Unknown",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de aplicativas móviles o web para mejorar la gestión empresarial."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "ING. DE SISTEMAS",
+            "institution": "UNIVERSIDAD DE MARGARITA (LINIMAR)",
+            "location": "Unknown",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html/css",
+                "flutter",
+                "javascript",
+                "nodejs",
+                "vue.js",
+                "sql-server",
+                "react",
+                "react-native",
+                "tailwind-css",
+                "typescript"
+            ],
+            "soft": [],
+            "tools": [
+                "github",
+                "ux-design"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "LANDING PAGE - Wow Deck",
+            "description": "Se llevó a cabo el proyecto utilizando las tecnologías HTML, CSS y JS con la librería GSAP para animaciones. Subido a producción con hosting de GoDaddy.",
+            "technologies": [
+                "html",
+                "css",
+                "js",
+                "gsap"
+            ],
+            "url": "https://wow-deck.com"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

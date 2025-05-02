@@ -1,0 +1,145 @@
+{
+  "personal_info": {
+    "first_name": "Victor Raul",
+    "last_name": "Maye Mamani",
+    "email": "vicrmaye@gmail.com",
+    "phone": "+51921461345",
+    "location": {
+      "country": "Peru",
+      "city": "Puno",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/victor-fullstack",
+    "website": "",
+    "portfolio": "https://valece.vercel.app",
+    "summary": "Desarrollador Fullstack con experiencia en el desarrollo de aplicaciones web, utilizando tecnologías como React, Node.js, Express, MongoDB, MySQL y Redux, tanto en frontend como en backend. Experiencia en optimización de rendimiento web y colaboración con equipos UX/UI para mejorar la usabilidad. Familiarizado con metodologías ágiles como Scrum, aportando a equipos multidisciplinarios con comunicación efectiva y enfoque en el cumplimiento de objetivos."
+  },
+  "work_experience": [
+    {
+      "job_title": "Desarrollador Web - Practicas",
+      "company": "NeonHouseLED SAC",
+      "location": "Puno, Peru",
+      "start_date": "2024-08-01",
+      "end_date": "2024-11-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollar más de 15 nuevas funcionalidades en aplicaciones web utilizando PHP para la lógica del servidor, JavaScript para la interacción dinámica y MySQL para la gestión de bases de datos.",
+        "Optimizar el rendimiento web mediante ajustes basados en los análisis de PageSpeed Insights, reduciendo tiempos de carga.",
+        "Diseñar y mejorar más de 12 interfaces de usuario aplicando HTML para la estructura, CSS para el diseño visual y Bootstrap para la responsividad y componentes predefinidos.",
+        "Depurar y refactorizar código en PHP y JavaScript."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador Frontend - Practicas",
+      "company": "Kromee",
+      "location": "Colombia",
+      "start_date": "2024-06-01",
+      "end_date": "2024-10-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollar más de 25 componentes reutilizables utilizando React para la estructura y lógica, TypeScript para tipado seguro y mantenimiento, y TailwindCSS junto con CSS para el diseño estilizado y modular.",
+        "Crear aplicaciones responsivas aplicando CSS Grid y Flexbox junto con TailwindCSS.",
+        "Colaborar con equipos de UX/UI para garantizar que las interfaces cumplan con los estándares de usabilidad y diseño."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "8vo ciclo de Ingeniería Estadística e Informática",
+      "institution": "Universidad Nacional del Altiplano",
+      "location": "Puno, Peru",
+      "start_date": "2021-01-01",
+      "end_date": "2023-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "react.js",
+        "css",
+        "javascript",
+        "typescript",
+        "git",
+        "express.js",
+        "php",
+        "laravel",
+        "mysql",
+        "node.js",
+        "mongodb"
+      ],
+      "soft": [
+        "trabajo-en-equipo",
+        "empatía",
+        "resolución-de-problemas",
+        "compromiso",
+        "flexibilidad"
+      ],
+      "tools": []
+    },
+    "detailed": {}
+  },
+  "certifications": [
+    {
+      "name": "Meta Front-End Developer",
+      "issuing_organization": "Meta",
+      "issue_date": "2024-08-15",
+      "expiration_date": "",
+      "credential_id": "",
+      "hours": 168
+    },
+    {
+      "name": "Bootcamp de Ciencia de datos Avanzado",
+      "issuing_organization": "Codigofacilito",
+      "issue_date": "2024-01-15",
+      "expiration_date": "",
+      "credential_id": "",
+      "hours": 0
+    },
+    {
+      "name": "Oracle Next Education F2 T5 Back-end",
+      "issuing_organization": "Alura",
+      "issue_date": "2023-09-01",
+      "expiration_date": "",
+      "credential_id": "",
+      "hours": 331
+    },
+    {
+      "name": "Python Project for Data Science",
+      "issuing_organization": "Coursera IBM",
+      "issue_date": "2023-09-01",
+      "expiration_date": "",
+      "credential_id": "",
+      "hours": 8
+    },
+    {
+      "name": "Data Science Methodology",
+      "issuing_organization": "Coursera IBM",
+      "issue_date": "2023-07-01",
+      "expiration_date": "",
+      "credential_id": "",
+      "hours": 13
+    }
+  ],
+  "projects": [
+    {
+      "name": "Proyectos Personales - Desarrollador Fullstack en NO COUNTRY",
+      "description": "Implementar la lógica y funcionalidad de aplicaciones utilizando React, Tailwind, TypeScript, Node.js, MongoDB y Express.js.",
+      "technologies": ["react", "tailwind", "typescript", "node.js", "mongodb", "express.js"],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "B2"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

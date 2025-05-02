@@ -1,0 +1,128 @@
+{
+  "personal_info": {
+    "first_name": "Andrés",
+    "last_name": "Pistone",
+    "email": "andrespistone89@gmail.com",
+    "phone": "+54 3464 - 627281",
+    "location": {
+      "country": "Argentina",
+      "city": "Casilda",
+      "state": "Santa Fe"
+    },
+    "linkedin": "",
+    "website": "",
+    "portfolio": "",
+    "summary": "Desarrollador Fullstack JR con experiencia en frontend (HTML, CSS, JavaScript, React) y backend (Java, SQL). Manejo de herramientas como Docker, Jenkins y AWS. Proactivo, orientado al aprendizaje y con experiencia en trabajo en equipo. Busco aportar mis habilidades al desarrollo y mantenimiento de sistemas en un entorno desafiante."
+  },
+  "work_experience": [
+    {
+      "job_title": "Desarrollador Freelance",
+      "company": "Proyectos Independientes",
+      "location": "Remoto",
+      "start_date": "2023-11-01",
+      "end_date": "2023-12-31",
+      "currently_working": true,
+      "responsibilities": [
+        "Diseñé y desarrollé sitios web utilizando HTML, CSS y JavaScript, asegurando interfaces modernas y responsivas.",
+        "Implementé funcionalidades dinámicas y servicios backend con Python y bases de datos en MySQL.",
+        "Colaboré en la creación de ecommerce gestionados en WordPress, optimizando su rendimiento y usabilidad.",
+        "Configuré entornos de desarrollo y despliegue utilizando Docker y servicios básicos de AWS Cloud.",
+        "Mantuve y gestioné repositorios en GitHub, promoviendo buenas prácticas de control de versiones.",
+        "Trabajé junto a clientes para definir requerimientos y entregar soluciones personalizadas, alineadas a sus necesidades comerciales."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "DevOps Trainee",
+      "company": "Proyecto Académico 'VisualStudio Services'",
+      "location": "Remoto",
+      "start_date": "2024-03-01",
+      "end_date": "2024-07-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Diseñé y gestioné Dockerfiles personalizados para contenedorización eficiente y reproducible.",
+        "Orquesté servicios, redes y volúmenes mediante Docker Compose, mejorando la escalabilidad del proyecto.",
+        "Implementé y administré pipelines de CI/CD utilizando Jenkins, automatizando los flujos de despliegue.",
+        "Gestioné repositorios en GitHub, definiendo políticas de ramas y merges para optimizar la colaboración del equipo."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Estudiante",
+      "company": "Mercado Libre / Digital House",
+      "location": "Remoto",
+      "start_date": "2022-10-01",
+      "end_date": "2024-07-31",
+      "currently_working": true,
+      "responsibilities": [
+        "Graduado como Desarrollador Profesional en Digital House, adquirí un sólido conjunto de habilidades en frontend, backend, infraestructura y metodologías ágiles.",
+        "Trabajé con HTML, CSS, JavaScript y React JS en frontend, y con Java y SQL Workbench en backend.",
+        "Experiencia en infraestructura con Docker, Jenkins, AWS Cloud, Git, GitHub, GitLab y Terraform.",
+        "Desarrollé varios proyectos integrando estas tecnologías, afianzando conocimientos técnicos y perfeccionando habilidades blandas como colaboración en equipo, comunicación efectiva y adaptabilidad."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Certified Tech Developer",
+      "institution": "Digital House - Mercado Libre - Globant",
+      "location": "",
+      "start_date": "2022-01-01",
+      "end_date": "2024-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Técnico en Equipos e Instalaciones Electromecánicas",
+      "institution": "E.E.T.P N° 283",
+      "location": "",
+      "start_date": "2016-01-01",
+      "end_date": "2020-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": ["html", "css", "javascript", "react", "java", "mysql", "docker", "docker-compose", "jenkins", "aws", "terraform", "git", "github", "gitlab"],
+      "soft": ["proactivo", "orientado-al-aprendizaje", "trabajo-en-equipo", "comunicación-efectiva", "adaptabilidad"],
+      "tools": ["wordpress"]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [
+    {
+      "name": "DevOps TOTAL Docker, Kubernetes, Jenkins, AWS y Git",
+      "issuing_organization": "Udemy",
+      "issue_date": "2024-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Maquetador Web",
+      "issuing_organization": "Educación IT",
+      "issue_date": "2022-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    }
+  ],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "A2 (en desarrollo)"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

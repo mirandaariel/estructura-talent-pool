@@ -1,0 +1,105 @@
+{
+  "personal_info": {
+    "first_name": "Mauro",
+    "last_name": "Filani",
+    "email": "mauro_filani@hotmail.com",
+    "phone": "128479518",
+    "location": {
+      "country": "Argentina",
+      "city": "Wilde",
+      "state": "Buenos Aires"
+    },
+    "linkedin": "https://www.linkedin.com/in/maurofilani",
+    "website": "",
+    "portfolio": "",
+    "summary": "Data Scientist junior with solid training in statistical analysis, data visualization, and machine learning. Experience applying Python, SQL, and BI tools to transform complex data into actionable insights. Demonstrated ability to implement data-driven solutions through practical projects using scikit-learn, Pandas, and Power BI. Passionate about machine learning and artificial intelligence, with a practical focus demonstrated through the development of personal projects. Considered highly responsible, strictly organized, and consistent. Strong work ethic."
+  },
+  "work_experience": [
+    {
+      "job_title": "Asistente de Oficina Técnica de Producción",
+      "company": "Arcangel Maggio",
+      "location": "",
+      "start_date": "2021-02-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Gestionar planos con su respectiva información y bases de datos.",
+        "Implementé sistema de gestión de planos digitalizando 500+ documentos técnicos.",
+        "Desarrollé dashboard en Excel para seguimiento de KPIs reduciendo tiempo de reporting en 30%.",
+        "Analicé datos de producción identificando cuellos de botella y proponiendo 3 mejoras de proceso."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Secundaria Obligatoria Completa",
+      "institution": "Instituto Salvador Soreda",
+      "location": "",
+      "start_date": "2009-01-01",
+      "end_date": "2014-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "",
+      "institution": "Educacion IT Centro de Capacitacion y Desarrollo Profesional",
+      "location": "",
+      "start_date": "2024-01-01",
+      "end_date": "",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "mysql",
+        "python"
+      ],
+      "soft": [
+        "responsabilidad",
+        "organización",
+        "ética-de-trabajo"
+      ],
+      "tools": [
+        "workbench",
+        "vs-code",
+        "geany",
+        "chatgpt",
+        "claude",
+        "copilot",
+        "google-gemini",
+        "deepseek"
+      ]
+    },
+    "detailed": {}
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Proyecto IA",
+      "description": "Importe datos de un dataset de Kaggle para crear un modelo de IA, utilizando Gradient Boosted Trees y extensiones como 'Simple ML for sheets', exportando el modelo a Google Colab y utilizando Python.",
+      "technologies": ["python", "tensorflow", "pandas"],
+      "url": ""
+    },
+    {
+      "name": "Proyecto SQL-IA",
+      "description": "Utilicé la IA para adquirir información aleatoria sobre candidatos y gestionarlos en una base de datos SQL, realizando consultas y backups.",
+      "technologies": ["sql", "google-sheets"],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "A2"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

@@ -1,0 +1,101 @@
+{
+    "personal_info": {
+        "first_name": "Facundo",
+        "last_name": "Ibañez",
+        "email": "facundoemiliano.21@gmail.com",
+        "phone": "1168255988",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": "Malvinas Argentinas"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Tengo 23 años y estoy en búsqueda de mi primer experiencia profesional dentro del mundo de sistemas. Me apasiona la programación y busco siempre aprender nuevos conceptos que me permitan mejorar en mi carrera profesional. Me destaco por mi liderazgo a la hora de tomar decisiones, mi capacidad de trabajar bajo presión y mi buen compañerismo."
+    },
+    "work_experience": [{
+            "job_title": "Java Developer",
+            "company": "Viaje Feliz",
+            "location": "",
+            "start_date": "2023-10-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de funcionalidades para software de empresa de turismo",
+                "Diseño del código e implementación",
+                "Trabajo en grupo"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Front-End Developer",
+            "company": "Gisella Essen - Landing Page",
+            "location": "",
+            "start_date": "2021-11-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Trabajo en conjunto con Diseñadores UX/UI",
+                "Desarrollo y puesta en producción",
+                "Control de versiones con Github"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [{
+            "degree": "Licenciatura en Sistemas",
+            "institution": "Universidad Nacional de General Sarmiento",
+            "location": "",
+            "start_date": "2022-03-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Carrera Full-Stack",
+            "institution": "CoderHouse",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-09-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "java",
+                "sql",
+                "mongodb",
+                "react.js",
+                "node.js",
+                "express"
+            ],
+            "soft": [
+                "leadership",
+                "decision-making",
+                "working-under-pressure",
+                "teamwork"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "junit"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

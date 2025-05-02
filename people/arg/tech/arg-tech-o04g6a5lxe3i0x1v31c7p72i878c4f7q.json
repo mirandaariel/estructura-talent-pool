@@ -1,0 +1,88 @@
+{
+    "personal_info": {
+        "first_name": "Ariel",
+        "last_name": "Gonzalez",
+        "email": "adomingogonzalez32@gmail.com",
+        "phone": "+54 92284637788",
+        "location": {
+            "country": "Argentina",
+            "city": "Olavarria",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/ariel-gonzalez433258235/",
+        "website": "",
+        "portfolio": "",
+        "summary": "En 2021 me centré en la capacitación y el aprendizaje de Desarrollo Web de manera autodidacta. Actualmente cuento con una base sólida de conocimientos, pero aspiro a profundizar en el tema a nivel universitario. Mientras tanto, continúo con mis estudios y formo parte de un equipo de soporte, brindando soluciones en tiempo real para diversos clientes y servicios."
+    },
+    "work_experience": [
+        {
+            "job_title": "Service Desk / Soporte L1 y L2",
+            "company": "CIMA-TECH",
+            "location": "San Juan, Argentina",
+            "start_date": "2022-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Monitoreo de servicios y transacciones para diversos sistemas.",
+                "Gestión de escalamientos.",
+                "Documentación y elaboración de reportes de incidentes o reclamos.",
+                "Resolución de incidentes específicos y documentación de acciones realizadas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Administrador Apache Nifi",
+            "company": "Cencosud S.A",
+            "location": "Región Metropolitana de Santiago, Chile",
+            "start_date": "2023-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Administración de ambientes productivos (PROD) y de prueba (QA).",
+                "Revisión y resolución de integraciones propias del ambiente.",
+                "Propuestas y ajustes de parametrizaciones relacionadas con el ambiente.",
+                "Migraciones y puestas en producción de futuras aplicaciones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "sql-developer",
+                "linux",
+                "oracle-api-gateway",
+                "html",
+                "css",
+                "js",
+                "bootstrap",
+                "material-ui",
+                "angular"
+            ],
+            "soft": [],
+            "tools": [
+                "jira-software",
+                "kibana",
+                "service-desk",
+                "apache-nifi",
+                "postman-api",
+                "openproject",
+                "soapui",
+                "mova-ssh"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

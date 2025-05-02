@@ -1,0 +1,109 @@
+{
+    "personal_info": {
+        "first_name": "Esteban Damián",
+        "last_name": "Tripodi",
+        "email": "e.damiantripodi@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Ciudadela",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/edamiantripodi/",
+        "website": "https://github.com/xKensho47",
+        "portfolio": "",
+        "summary": "Desarrollador Fullstack, recién graduado de la Universidad Tecnológica Nacional, con experiencia en resolución de problemas, documentación técnica y control de calidad. Busco aportar mis conocimientos en un entorno colaborativo del sector IT, mientras continuo desarrollándome profesionalmente. Actualmente me encuentro realizando un Diplomado Universitario en Administración de Redes Linux enfocado en ciberseguridad."
+    },
+    "work_experience": [
+        {
+            "job_title": "Técnico Químico",
+            "company": "Pellital S.A",
+            "location": "",
+            "start_date": "2014-01-01",
+            "end_date": "2018-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de soluciones automatizadas para análisis físico-químicos, optimizando la recolección de datos.",
+                "Supervisión de la gestión de muestras de materias primas y resultados mediante aplicaciones internas.",
+                "Implementación de sistemas de control de calidad para productos terminados en planta piloto.",
+                "Optimización de tecnologías para mejorar el uso de recursos.",
+                "Gestión de inventarios e insumos de laboratorio, mejorando la eficiencia de trabajo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomado en Administración de Redes Linux - Ciberseguridad",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript",
+                "php",
+                "c/c++",
+                "c#-.net8",
+                "java",
+                "python",
+                "react.js",
+                "mysql",
+                "sql",
+                "oracle"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Proyecto Arcane",
+            "description": "Proyecto realizado en el curso de JavaScript para Frontend en TalentoTech, inspirado por Arcane, con diseño responsive y contenido dinámico.",
+            "technologies": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
+            "url": "https://xkensho47.github.io/TalentoTech/"
+        },
+        {
+            "name": "CineFlow",
+            "description": "Proyecto grupal para la materia Metodología en Sistemas, inspirado en plataformas como Netflix, con diferentes roles de usuario y funcionalidades.",
+            "technologies": ["HTML5", "CSS3", "JavaScript", "PHP"],
+            "url": "https://github.com/xKensho47/CProyectoMS"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "A2"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

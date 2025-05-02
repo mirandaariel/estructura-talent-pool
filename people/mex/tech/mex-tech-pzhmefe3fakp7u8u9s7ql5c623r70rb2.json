@@ -1,0 +1,167 @@
+{
+    "personal_info": {
+        "first_name": "Francisco",
+        "last_name": "Evaristo Garcia",
+        "email": "francisco.evaristo.garcia@gmail.com",
+        "phone": "+527352343671",
+        "location": {
+            "country": "Mexico",
+            "city": "Morelos",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con 5 años de experiencia. Soy una persona apasionada que le gusta aceptar nuevos retos. Me gusta crear aportes de valor para la resolución de problemas y ayuda técnica para el resto de colaboradores. Autodidacta y capaz de afrontar las diversas actividades que me sean asignadas, con una mejora constante."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Fullstack Java - React",
+            "company": "Inetum - Walmart",
+            "location": "",
+            "start_date": "2022-12-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Participación en 6 proyectos Java - React, dando soporte, puesta en marcha de ambientes QA y realizando pruebas.",
+                "Migración S.O., integración autenticación corporativa, cambio Websphere 8.5 a Tomcat 9.0 con arquitectura HDD y DRP.",
+                "Reducción de vulnerabilidades en código hasta en 80%.",
+                "Diseño de interfaces web responsive."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "Freelance - Danone 50 Aniv.",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Promoción Danone 50 Aniversario.",
+                "Desarrollo servicios Rest: Gestión, canje productos y métricas.",
+                "Desarrollo de SPA, para mostrar promoción y realizar canje de productos.",
+                "Desarrollo Dashboard para ver métricas y consultar ganadores de la promoción."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador .Net",
+            "company": "INEEL",
+            "location": "",
+            "start_date": "2021-02-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo del SISST (Sistema Informático de Seguridad y Salud en el Trabajo).",
+                "Creación y mantenimiento de servicios REST a través de una arquitectura de Microservicios.",
+                "Base de datos SQL Server.",
+                "Desarrollo de la interfaz gráfica. Framework Bootstrap, JQuery, Javascript."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Front-end",
+            "company": "Octopy",
+            "location": "",
+            "start_date": "2021-08-01",
+            "end_date": "2022-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Participación en más de 5 proyectos.",
+                "Líder técnico en 2 proyectos, coordinando y asesorando al equipo.",
+                "Desarrollo de sistemas web. Diseño Material UI, aplicaciones responsivas y dinámicas.",
+                "Integración de servicios REST y Sockets, subir archivos en AWS S3."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full-stack Jr.",
+            "company": "Hermes Systems",
+            "location": "",
+            "start_date": "2019-11-01",
+            "end_date": "2021-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Participación en más de 6 proyectos.",
+                "Creación de servicios REST con Node.js, Express. Mantenimiento de servicios REST con .Net Core, Entity Framework.",
+                "Base de datos MySQL, MongoDB, Consultas GraphQL.",
+                "Creación y mantenimiento de sistemas web con React, Angular, manejo de librerías NPM/YARN, Frameworks Bootstrap."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero en Sistemas Computacionales",
+            "institution": "Instituto Tecnológico de Cuautla",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Bachiller en Informática",
+            "institution": "Conalep Cuautla 173",
+            "location": "",
+            "start_date": "2012-01-01",
+            "end_date": "2015-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "sql",
+                "graphql",
+                "html5",
+                "ajax",
+                "css3",
+                "javascript",
+                "jquery",
+                "angular",
+                "mongodb",
+                "express",
+                "react-js",
+                "node-js",
+                "api's-rest",
+                "aws",
+                "react-hooks",
+                "firebase",
+                "git",
+                "npm/yarn",
+                "material-ui",
+                "bootstrap",
+                ".net",
+                "entity-framework",
+                "linq",
+                "sockets",
+                "scrum",
+                "microservicios"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

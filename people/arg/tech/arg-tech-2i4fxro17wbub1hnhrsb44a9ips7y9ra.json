@@ -1,0 +1,108 @@
+{
+    "personal_info": {
+        "first_name": "Cindy",
+        "last_name": "Gnaedinger",
+        "email": "cyn.gnaedinger@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/cindygnaedinger/",
+        "website": "https://github.com/cindygnaedinger",
+        "portfolio": "https://portfolio-cindy-gnaedinger.vercel.app/",
+        "summary": "Soy traductora de inglés al español con experiencia en desarrollo web con el stack MERN y Java Spring, enfocada en crear interfaces funcionales y atractivas, centradas en el usuario. Mis fortalezas incluyen atención al detalle, curiosidad y perseverancia. Como traductora, transfiero habilidades como la precisión, adaptabilidad y comunicación clara al campo IT. Busco proyectos desafiantes donde pueda crecer y colaborar con equipos inspiradores."
+    },
+    "work_experience": [
+        {
+            "job_title": "Traductora de Inglés al Español",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "2020-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Traducción y edición de textos relacionados con el ámbito de TI.",
+                "Entrenamiento de IA."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrolladora Full Stack Trainee",
+            "company": "Atila Software",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Pasantía en un equipo de desarrollo donde trabajé con tecnologías como VB.Net, C#, JavaScript, SQL Server, HTML, CSS y JQuery.",
+                "Colaboración en la creación y mantenimiento de funcionalidades de ABM para un software de contabilidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Traductorado Público de Inglés",
+            "institution": "Universidad Adventista del Plata",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "java",
+                "typescript",
+                "spring",
+                "react",
+                "node.js",
+                "tailwind",
+                "sql",
+                "mysql",
+                "mongodb"
+            ],
+            "soft": [],
+            "tools": [
+                "figma",
+                "git",
+                "github",
+                "excel",
+                "google-sheets",
+                "poo",
+                "scrum",
+                "dao"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Portafolio Personal",
+            "description": "Portafolio personal desarrollado con enfoque en el frontend, que integra dos proyectos adicionales: Pulso, una aplicación interactiva que agenda y gestiona turnos y Web 3D Animada, un sitio web con animaciones 3D creadas con Three.js.",
+            "technologies": ["react", "typescript", "tailwind"],
+            "url": "https://portfolio-cindy-gnaedinger.vercel.app/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,170 @@
+{
+    "personal_info": {
+        "first_name": "Jhan Carlos",
+        "last_name": "Acuña Ordoñez",
+        "email": "jcacunainge@gmail.com",
+        "phone": "+57 3007347398",
+        "location": {
+            "country": "",
+            "city": "Barranquilla",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/jcacunainge/",
+        "website": "https://github.com/jcacunainge/",
+        "portfolio": "",
+        "summary": "Soy un ingeniero civil que reorientó su carrera hacia el desarrollo de software, adquiriendo experiencia en gestión de servicios de TI con ITIL, y habilidades en Node.js, Python, JavaScript, HTML, CSS, Vue.js y React. Manejo de bases de datos MySQL y MongoDB."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista de Proyectos de Software",
+            "company": "COLXAGES",
+            "location": "Barranquilla",
+            "start_date": "2023-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo e implementación de componentes modulares y escalables con Vue.js.",
+                "Desarrollo de interfaces interactivas con Vue.js y JavaScript.",
+                "Integración de API REST en Vue.js usando Axios.",
+                "Desarrollo de API REST con FastAPI.",
+                "Manejo de bases de datos MySQL y NoSQL.",
+                "Uso de herramienta Git para le manejo de versiones.",
+                "Creación de documentación técnica y funcional para aplicaciones y sistemas.",
+                "Mantenimiento y desarrollo de sitio web usando WordPress - DIVI."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Trainee Gestor de Operación ITIL",
+            "company": "Indra Colombia",
+            "location": "Bogota",
+            "start_date": "2022-12-01",
+            "end_date": "2023-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Monitorear y revisar incidentes y requerimientos de manera efectiva con la herramienta Aranda Service, siguiendo los lineamientos de ITIL.",
+                "Controlar y gestionar eficientemente los requerimientos e incidentes a través del uso de tableros interactivos en PowerBi.",
+                "Generar informes detallados y analizar los casos para identificar patrones y tendencias.",
+                "Mantener una comunicación fluida con especialistas y colaboradores.",
+                "Participar activamente en las ceremonias Scrum."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnólogo en Análisis y Desarrollo de Software",
+            "institution": "SENA",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Análisis y Digitación de Datos",
+            "institution": "Kuepa Edutch",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Programa Oracle Next Education F3",
+            "institution": "Alura Latam",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomado en Desarrollo de Software",
+            "institution": "Unidad de Antioquia",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomado en Desarrollo de Aplicativos Web",
+            "institution": "Unidad de Antioquia",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomado en Lenguaje de Programación Python",
+            "institution": "Unidad de Antioquia",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniero Civil",
+            "institution": "CUC",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "node.js",
+                "python",
+                "javaScript",
+                "html",
+                "css",
+                "vue.js",
+                "react",
+                "mySQL",
+                "mongoDB"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "wordpress",
+                "arsa-service",
+                "powerBi",
+                "tailwind",
+                "sass"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sistema de Gestión de Citas y Servicios",
+            "description": "Sistema con operaciones CRUD utilizando Express y MongoDB, interfaces interactivas con Vue.js, autenticación, e implementación de un calendario interactivo.",
+            "technologies": ["Express", "MongoDB", "Vue.js"],
+            "url": "https://github.com/jcacuna/web-barberia"
+        },
+        {
+            "name": "Sistema de Gestión para Farmacia",
+            "description": "Sistema con módulo de registro, autenticación, cotización y descarga de facturas, usando Pinia, FastAPI, y PostgreSQL.",
+            "technologies": ["FastAPI", "PostgreSQL", "Vue.js", "Quasar"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Basic"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

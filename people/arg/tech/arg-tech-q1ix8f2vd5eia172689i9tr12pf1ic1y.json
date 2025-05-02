@@ -1,0 +1,100 @@
+{
+    "personal_info": {
+        "first_name": "Julián",
+        "last_name": "Muñoz",
+        "email": "julianmuniz753@gmail.com",
+        "phone": "+54 1153890755",
+        "location": {
+            "country": "Argentina",
+            "city": "Martinez",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/julian-muñoz",
+        "website": "",
+        "portfolio": "",
+        "summary": "Android Developer Trainee con background en Educación IT. Experiencia práctica en JAVA y KOTLIN. Cuento con conocimientos en metodologías ágiles, flujos de trabajo, estructura de datos, evaluación de modelos, machine learning, y tecnologías como Jetpack Compose y XML. Tengo experiencia académica y autodidacta en arquitectura MVVM, Dagger Hilt, Room con Android Studio y Gradle."
+    },
+    "work_experience": [
+        {
+            "job_title": "Auxiliar de Mantenimiento",
+            "company": "Taller de Carpintería",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Transporte y manejo de muebles dentro del taller y en instalaciones a clientes.",
+                "Limpieza, lijado y preparación de muebles para su acabado final.",
+                "Apoyo en la organización del taller y manejo de herramientas básicas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Carrera Android Developer",
+            "institution": "Educación IT",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Estudios Secundarios Finalizados",
+            "institution": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "kotlin"
+            ],
+            "soft": [],
+            "tools": [
+                "android-studio",
+                "jetpack-compose",
+                "xml",
+                "sql",
+                "firefoxe-database"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "The Cocktail App",
+            "description": "Aplicación que permite al usuario buscar una lista de cócteles, mostrando las recetas e ingredientes necesarios para su preparación.",
+            "technologies": ["kotlin", "retrofit"],
+            "url": ""
+        },
+        {
+            "name": "FruitGame",
+            "description": "Juego de velocidad, donde el usuario debe hacer clic sobre imágenes de frutas que aparecen en pantalla para acumular el máximo puntaje posible.",
+            "technologies": ["kotlin"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,181 @@
+{
+    "personal_info": {
+        "first_name": "Miguel Eloy",
+        "last_name": "León Rojas",
+        "email": "migueleonrojas@gmail.com",
+        "phone": "+58 0412 585 36 26",
+        "location": {
+            "country": "Venezuela",
+            "city": "Caracas",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/miguel-leon-rojas/",
+        "website": "https://vamos-a-entrenar.vercel.app/",
+        "portfolio": "",
+        "summary": "Desarrollador web y mobile con experiencia en gestión de proyectos TI."
+    },
+    "work_experience": [
+        {
+            "job_title": "Especialista en Proyectos TI/ Business Intelligence",
+            "company": "TCS (Technology Consulting Solution)",
+            "location": "Caracas, Venezuela",
+            "start_date": "2017-12-04",
+            "end_date": "2020-12-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Seguimiento y soporte a requerimientos de usuarios.",
+                "Gestionar resultados y análisis de proyecciones.",
+                "Aplicar técnicas de priorización ajustadas a las necesidades de la organización.",
+                "Analizar y crear reportes de Base de Datos a través de la herramienta Hyperion.",
+                "Realizar pruebas de rendimiento a reportes finales desde el servidor.",
+                "Crear Dashboard para manipulación del usuario final (JavaScript Vanilla).",
+                "Elaborar documentación e informes (Manual de usuario, Análisis de impacto, etc.)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador front-end",
+            "company": "TRANRED – Tarjetas y Transacciones en red, TRANRED, C.A",
+            "location": "Caracas, Venezuela",
+            "start_date": "2020-12-30",
+            "end_date": "2021-05-15",
+            "currently_working": false,
+            "responsibilities": [
+                "Incluir chatbot en una landing page, usando sockets.",
+                "Inclusión de botón de pago, diseño, maquetación, consumo de api soap."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador front-end",
+            "company": "Venpunto",
+            "location": "Caracas, Venezuela",
+            "start_date": "2022-03-15",
+            "end_date": "2023-06-12",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de Sistema de Gestión de Terminales (TMS) en Node Js y PostgreSQL.",
+                "Mantenimiento a microservicios del core server en Node Js.",
+                "Desarrollo de aplicación web en Angular Js.",
+                "Construcción de una app de proveedor de servicios y comercio electrónico en el área automotriz con Flutter y Firebase.",
+                "Construcción de una app chatbot conectada al api de ChatGPT."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador front-end",
+            "company": "Fresh Fish Delivery",
+            "location": "Caracas, Venezuela",
+            "start_date": "2023-05-16",
+            "end_date": "2024-04-12",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de Sistema de Gestión de Documentación e Incidencias.",
+                "Desarrollo de Sistema de Inventario."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador",
+            "company": "Crustissimo",
+            "location": "Caracas, Venezuela",
+            "start_date": "2024-08-05",
+            "end_date": "2024-12-03",
+            "currently_working": false,
+            "responsibilities": [
+                "Soporte del Sistema Profit.",
+                "Elaboración de reportes, con SQL SERVER (Querys) y (Transact SQL).",
+                "Ajustes de pantallas de Profit, usando Visual Fox Pro.",
+                "Capacitación para el nuevo sistema de administración de empresas Odoo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero en Sistemas",
+            "institution": "Universidad Santa María",
+            "location": "Caracas, Venezuela",
+            "start_date": "2014-09-01",
+            "end_date": "2018-05-30",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Ciencias",
+            "institution": "U.E. N Gustavo Herrera",
+            "location": "Caracas, Venezuela",
+            "start_date": "2011-09-01",
+            "end_date": "2012-05-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "bootstrap",
+                "javascript",
+                "typescript",
+                "sql",
+                "angular",
+                "node-js",
+                "mongo-db",
+                "postgresql",
+                "express-js",
+                "flutter",
+                "dart",
+                "firebase"
+            ],
+            "soft": [
+                "puntual",
+                "colaborador",
+                "proactivo",
+                "perseverante",
+                "autodidacta"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "bitbucked",
+                "gitlab",
+                "sourcetree"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Robert Mendoza",
+            "relationship": "Gerente de Tecnología",
+            "contact": "+58 (0414) 328.25.23"
+        },
+        {
+            "name": "Isbelia Rosales",
+            "relationship": "Scrum Master",
+            "contact": "+58 (0426) 306.72.40"
+        }
+    ]
+}

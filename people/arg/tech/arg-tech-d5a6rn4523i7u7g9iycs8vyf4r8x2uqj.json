@@ -1,0 +1,102 @@
+{
+    "personal_info": {
+        "first_name": "Leandro",
+        "last_name": "Caracca",
+        "email": "leandro.caracca@gmail.com",
+        "phone": "221-6426155",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/leandro-caracca",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy empleado del Correo Argentino y estudiante de la carrera licenciatura en sistemas, en busqueda de orientar mi carrera profesional hacia el desarrollo de software. Me considero responsable, afable y con una gran capacidad de trabajo en equipo, abierto a afrontar nuevos desafios y experiencias que me lleven a progresar profesionalmente."
+    },
+    "work_experience": [
+        {
+            "job_title": "Técnico en informática",
+            "company": "Correo Argentino",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Mantenimiento de software, hardware y redes informáticas.",
+                "Instalación de equipos Cisco.",
+                "Identificar problemas y tomar medidas lógicas para encontrar una solución deseada, supervisar y evaluar la implementación de tal solución."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en sistemas",
+            "institution": "Facultad de informática, Universidad Nacional de La Plata",
+            "location": "La Plata, Argentina",
+            "start_date": "2010-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Tercer año de adultos en inglés",
+            "institution": "Instituto de inglés Segunda Lengua",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico electrónico",
+            "institution": "Escuela Albert Thomas",
+            "location": "",
+            "start_date": "2006-01-01",
+            "end_date": "2009-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "python",
+                "mysql",
+                "postgresql",
+                "programación-orientada-a-objetos",
+                "patrones-de-diseño",
+                "uml",
+                "diagrama-de-secuencia",
+                "junit",
+                "pytest"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "buena-comunicación-interpersonal",
+                "comprometido-a-generar-un-buen-ambiente-laboral",
+                "fomentar-el-desarrollo-personal-y-grupal"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Basic"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,110 @@
+{
+    "personal_info": {
+        "first_name": "Santiago",
+        "last_name": "Blanco",
+        "email": "santiblanco03@gmail.com",
+        "phone": "+54 2236845846",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Programador en formación con conocimientos en Java, Spring Boot, C, HTML, CSS, JavaScript y MySQL. Busco mi primera oportunidad en el mundo IT. Destaco por mi proactividad, capacidad de aprendizaje y trabajo en equipo."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Desarrollo de APIs en Java con Spring Boot",
+            "institution": "TodoCode Academy",
+            "location": "",
+            "start_date": "2024-12-01",
+            "end_date": "2025-02-28",
+            "hours": 0
+        },
+        {
+            "degree": "Introduccion a Git y GitHub",
+            "institution": "TodoCode Academy",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-01-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnicatura Universitaria en Programacion",
+            "institution": "Universidad Tecnológica Nacional (UTN)",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Ciencias Sociales",
+            "institution": "Colegio Stella Maris",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring-boot",
+                "c",
+                "html",
+                "css",
+                "javascript",
+                "mysql"
+            ],
+            "soft": [
+                "proactividad",
+                "capacidad-de-aprendizaje",
+                "trabajo-en-equipo"
+            ],
+            "tools": [
+                "scrum",
+                "kanban",
+                "jira"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Desarrollo de una app para un bazar",
+            "description": "Desarrollé una aplicación web para la gestión integral de un bazar, permitiendo la administración eficiente de productos, clientes y ventas. Implementé un sistema robusto que optimiza el control de stock y registra transacciones.",
+            "technologies": ["java", "spring-boot", "mysql", "postman"],
+            "url": ""
+        },
+        {
+            "name": "Sitio web informativo sobre la NBA",
+            "description": "Sitio web desarrollado sobre la NBA, incluyendo datos históricos, partidos recientes, calendario y detalles de jugadores y equipos, utilizando Angular.",
+            "technologies": ["angular", "httpclient"],
+            "url": ""
+        },
+        {
+            "name": "Sistema de gestión de hoteles",
+            "description": "",
+            "technologies": ["java", "uml", "json"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

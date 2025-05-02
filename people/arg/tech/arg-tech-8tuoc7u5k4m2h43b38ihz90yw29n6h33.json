@@ -1,0 +1,122 @@
+{
+    "personal_info": {
+        "first_name": "Anahi Mailen",
+        "last_name": "Diaz",
+        "email": "ad955180@gmail.com",
+        "phone": "+54 3454044839",
+        "location": {
+            "country": "Argentina",
+            "city": "Concordia",
+            "state": "Entre Rios"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full Stack Developer especializada en Back-End con sólida experiencia en tecnologías como SQL, TypeORM y NestJS. Durante mi formación en el Bootcamp de Henry, participé en el desarrollo de diversos proyectos desafiantes, destacando el Backend de un E-commerce y un sistema de gestión de gimnasio,implementé funcionalidades clave en el backend. Me caracterizo por mi capacidad para resolver problemas, trabajar en equipo, comunicarse de forma efectiva y desarrollar soluciones eficientes y escalables."
+    },
+    "work_experience": [
+        {
+            "job_title": "Vendedora",
+            "company": "",
+            "location": "",
+            "start_date": "2023-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Atención al cliente y gestión de ventas.",
+                "Desarrollo de habilidades en comunicación y negociación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Pasante en Biblioteca Escolar",
+            "company": "",
+            "location": "",
+            "start_date": "2023-06-01",
+            "end_date": "2023-07-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Organización y clasificación de materiales bibliográficos.",
+                "Asistencia a usuarios en la búsqueda de recursos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnico en Computacion",
+            "institution": "Escuela Tecnica N2",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "nestjs",
+                "node.js",
+                "typescript",
+                "express.js",
+                "postgreSQL",
+                "sql",
+                "typeorm",
+                "html",
+                "css",
+                "react",
+                "nextjs",
+                "tailwind",
+                "redux",
+                "context-api",
+                "axios",
+                "bootstrap",
+                "angular"
+            ],
+            "soft": [
+                "problem-solving",
+                "teamwork",
+                "communication"
+            ],
+            "tools": ["trello", "jira", "git", "github"]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Curso de orientación empresarial",
+            "issuing_organization": "Finnegan",
+            "issue_date": "2023-06-30",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Ecommerce App",
+            "description": "Aplicación diseñada para gestionar un E-commerce con roles de usuarios y administradores.",
+            "technologies": ["nestjs", "typescript", "typeorm", "postgreSQL"],
+            "url": ""
+        },
+        {
+            "name": "Gym JustDolt App",
+            "description": "Sistema de gestión para gimnasios con diferentes roles de usuario.",
+            "technologies": ["nestjs", "typescript", "typeorm", "postgreSQL"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

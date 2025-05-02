@@ -1,0 +1,128 @@
+{
+    "personal_info": {
+        "first_name": "Pablo Ezequiel",
+        "last_name": "Figueroa",
+        "email": "pablofigueroa611@gmail.com",
+        "phone": "+54 3834723797",
+        "location": {
+            "country": "Argentina",
+            "city": "Cordoba",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/pablofigueroa16",
+        "website": "",
+        "portfolio": "https://pablofigueroa.com",
+        "summary": "Full-stack developer experienced in transforming creative ideas into digital solutions. Focused on front-end development, I specialize in JavaScript, TypeScript, React, and Next.js. Additionally, I have a solid background in backend development using Node.js, Express, GraphQL and databases such as MongoDB and PostgreSQL, leveraging ORMs like Mongoose and Sequelize to design robust and scalable applications. With basic knowledge of UX/UI and tools like Figma and Photoshop."
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Engineer",
+            "company": "Tribekya",
+            "location": "Dover, Delaware",
+            "start_date": "2024-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Designed and developed the sales landing page for creators, improving brand positioning and increasing sales.",
+                "Implemented improvements and new features on the platform, optimizing performance and user experience.",
+                "Promoted the use of best practices, fostering collaboration and efficiency within the team.",
+                "Participated in multiple sprints, delivering high-quality tasks and features aligned with project goals.",
+                "Collaborated with cross-functional teams using agile methodologies to ensure precision and efficiency."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Teaching Assistant",
+            "company": "Henry",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2023-11-01",
+            "end_date": "2024-03-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Mentored new Bootcamp participants by providing educational materials and assisting them with live exercises.",
+                "Offered personalized support to resolve queries and technical issues."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Élite Frontend Developer",
+            "institution": "Level Up",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Developer",
+            "institution": "Henry",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2024-02-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "react",
+                "remix",
+                "redux",
+                "next.js",
+                "express.js",
+                "mongodb",
+                "postgresql",
+                "graphql",
+                "tailwind",
+                "ux/ui",
+                "vitest",
+                "react-testing-library",
+                "jest",
+                "unit-testing",
+                "solid",
+                "atomic-design",
+                "aws"
+            ],
+            "soft": [
+                "teamwork",
+                "problem-solving",
+                "adaptability",
+                "critical-thinking"
+            ],
+            "tools": [
+                "figma",
+                "photoshop",
+                "jira",
+                "trello",
+                "git",
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

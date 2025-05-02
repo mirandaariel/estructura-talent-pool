@@ -1,0 +1,203 @@
+{
+    "personal_info": {
+        "first_name": "Maximo",
+        "last_name": "Garmasar Vazquez",
+        "email": "Maxivaz55@gmail.com",
+        "phone": "543546431626",
+        "location": {
+            "country": "Argentina",
+            "city": "Cordoba",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "maximogarmasarvazquez",
+        "summary": ""
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Técnico Superior en Desarrollo Web y Apps Digitales",
+            "institution": "Instituto Superior Santa Rosa de Calamuchita",
+            "location": "Cordoba, Argentina",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomatura en Introducción a la Programación en Java",
+            "institution": "UTN Facultad Regional de Villa María",
+            "location": "Cordoba, Argentina",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html",
+                "css",
+                "sql",
+                "sqlite",
+                "react",
+                "tailwind",
+                "c-sharp",
+                "node",
+                "github"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "adaptabilidad",
+                "creatividad",
+                "comunicacion-efectiva",
+                "proactividad",
+                "empatia"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {
+                "javascript": [
+                    {
+                        "id": 1001,
+                        "title": "Variables and Data Types",
+                        "description": "Declaración de variables usando var, let y const, y comprensión de tipos primitivos y objetos.",
+                        "repository_url": "https://github.com/maximogarmasarvazquez/JavaScript-Skills-Mastery/tree/main/skills/1001-variables-and-data-types"
+                    },
+                    {
+                        "id": 1002,
+                        "title": "Control Flow",
+                        "description": "Uso de instrucciones condicionales y bucles (if, else, switch, for, while).",
+                        "repository_url": "https://github.com/maximogarmasarvazquez/JavaScript-Skills-Mastery/tree/main/skills/1002-control-flow"
+                    },
+                    {
+                        "id": 1003,
+                        "title": "Functions",
+                        "description": "Declaración y uso de funciones en JavaScript, incluyendo funciones anónimas y de flecha.",
+                        "repository_url": "https://github.com/maximogarmasarvazquez/JavaScript-Skills-Mastery/tree/main/skills/1003-functions"
+                    },
+                    {
+                        "id": 1004,
+                        "title": "Scope and Hoisting",
+                        "description": "Cómo funcionan los ámbitos léxicos y el comportamiento de elevación de variables en JavaScript.",
+                        "repository_url": "https://github.com/maximogarmasarvazquez/JavaScript-Skills-Mastery/tree/main/skills/1004-scope-and-hoisting"
+                    },
+                    {
+                        "id": 1005,
+                        "title": "Closures",
+                        "description": "Funciones que capturan el estado de su entorno de creación, permitiendo acceso a variables externas incluso después de finalizar su contexto original.",
+                        "repository_url": "https://github.com/maximogarmasarvazquez/JavaScript-Skills-Mastery/tree/main/skills/1005-closures"
+                    },
+                    {
+                        "id": 1006,
+                        "title": "This Context",
+                        "description": "Cómo funciona el contexto de ejecución y cómo cambiarlo en JavaScript.",
+                        "repository_url": "https://github.com/maximogarmasarvazquez/JavaScript-Skills-Mastery/tree/main/skills/1006-this-context"
+                    },
+                    {
+                        "id": 1007,
+                        "title": "Events and Event Handling",
+                        "description": "Manejo de eventos en JavaScript, incluyendo el registro de eventos y la propagación.",
+                        "repository_url": "https://github.com/maximogarmasarvazquez/JavaScript-Skills-Mastery/tree/main/skills/1007-events-and-event-handling"
+                    },
+                    {
+                        "id": 1008,
+                        "title": "Error Handling and Exceptions",
+                        "description": "Captura y manejo de errores usando try, catch y finally.",
+                        "repository_url": "https://github.com/maximogarmasarvazquez/JavaScript-Skills-Mastery/tree/main/skills/1008-error-handling-and-exceptions"
+                    },
+                    {
+                        "id": 1101,
+                        "title": "Objects and Properties",
+                        "description": "Creación y manipulación de objetos, así como el acceso a sus propiedades.",
+                        "repository_url": "https://github.com/maximogarmasarvazquez/JavaScript-Skills-Mastery/tree/main/skills/1101-objects-and-properties"
+                    },
+                    {
+                        "id": 1102,
+                        "title": "Prototypes and Prototypal Inheritance",
+                        "description": "Cómo funciona la herencia basada en prototipos en JavaScript.",
+                        "repository_url": "https://github.com/maximogarmasarvazquez/JavaScript-Skills-Mastery/tree/main/skills/1102-prototypes-and-prototypal-inheritance"
+                    },
+                    {
+                        "id": 1103,
+                        "title": "Classes and Modern Syntax",
+                        "description": "Uso de las clases en JavaScript moderno con las palabras clave class, extends y super.",
+                        "repository_url": "https://github.com/maximogarmasarvazquez/JavaScript-Skills-Mastery/tree/main/skills/1103-classes-and-modern-syntax"
+                    },
+                    {
+                        "id": 1104,
+                        "title": "Encapsulation, Inheritance, and Polymorphism",
+                        "description": "Principios fundamentales de la programación orientada a objetos aplicados en JavaScript.",
+                        "repository_url": "https://github.com/maximogarmasarvazquez/JavaScript-Skills-Mastery/tree/main/skills/1104-encapsulation-inheritance-and-polymorphism"
+                    },
+                    {
+                        "id": 1105,
+                        "title": "Factory Functions",
+                        "description": "Funciones que retornan nuevos objetos personalizados, permitiendo flexibilidad en la creación de instancias.",
+                        "repository_url": "https://github.com/maximogarmasarvazquez/JavaScript-Skills-Mastery/tree/main/skills/1105-factory-functions"
+                    }
+                ]
+            },
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Portafolios",
+            "description": "Desarrolle mi portafolios en el que podran encontrar mas informacion sobre mi y mis proyectos hasta el momento",
+            "technologies": [
+                "NextJs",
+                "Tailwind CSS",
+                "GitHub",
+                "ReactJs"
+            ],
+            "url": "https://github.com/page-portfolio"
+        },
+        {
+            "name": "AlienCrush",
+            "description": "Como proyecto final desarrolle un videojuego para movil de tipo match-3, con una tematica sobre el espacio",
+            "technologies": [
+                "C sharp",
+                "Unity",
+                "Git"
+            ],
+            "url": "https://github.com/AlienCrush"
+        },
+        {
+            "name": "Ecommerce",
+            "description": "Proyecto de ecommerce, con productos y carro de compras",
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ],
+            "url": "https://github.com/Ecommerce"
+        },
+        {
+            "name": "PokeApi",
+            "description": "Proyecto de Manejo de apis, la app trae de la api los datos del pokemon que se busque.",
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ],
+            "url": "https://github.com/PokeApi"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "A1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,143 @@
+{
+    "personal_info": {
+        "first_name": "Emerson",
+        "last_name": "Pulgarin Restrepo",
+        "email": "emersonpulgarinrestrepojob@gmail.com",
+        "phone": "+57 3016976242",
+        "location": {
+            "country": "Colombia",
+            "city": "Armenia",
+            "state": "Quindío"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero de Sistemas con 2 años de experiencia en el desarrollo de aplicaciones web y de escritorio, utilizando tecnologías como Java, Spring Boot y JSF. Manejo avanzado de bases de datos SQL y conocimientos sólidos en Docker. Experto en la implementación de algoritmos de Deep Learning, desarrollando modelos que detectan cáncer de pulmón y diabetes con una precisión de hasta el 90%."
+    },
+    "work_experience": [
+        {
+            "job_title": "Ingeniero de Sistemas",
+            "company": "INSOLMEDICAL",
+            "location": "Remoto, COL",
+            "start_date": "2022-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Gestioné grandes bases de datos en Excel para la elaboración de informes de calidad requeridos por el Estado.",
+                "Desarrollé y entregué informes y auditorías para mejorar procesos en hospitales.",
+                "Colaboré en equipos para desarrollar aplicaciones clave para hospitales.",
+                "Lideré el desarrollo de una aplicación que mejora el rendimiento y bienestar laboral de los trabajadores."
+            ],
+            "achievements": [
+                "Reduje el tiempo promedio de espera para una cita de 5 días a 3 días mediante la optimización de procesos."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Seminario sobre Vision Transformer para clasificación de imágenes",
+            "company": "Universidad del Quindío",
+            "location": "Quindío, COL",
+            "start_date": "2023-06-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Profundicé en técnicas de preprocesamiento de datos y entrenamiento de modelos.",
+                "Participé en talleres prácticos sobre la implementación de modelos ViT.",
+                "Desarrollé un proyecto de demostración que aplicaba ViT a un conjunto de datos sobre cáncer pulmonar."
+            ],
+            "achievements": [
+                "Clasificó datos sobre cáncer pulmonar con una precisión del 90% y diabetes con una precisión del 88%."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero de Sistemas y Computación",
+            "institution": "Universidad del Quindío",
+            "location": "Quindío, Col",
+            "start_date": "2019-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Gestión Comercial y Telemercadeo en Contact Center",
+            "institution": "Servicio Nacional de Aprendizaje (Sena)",
+            "location": "Quindío, Col",
+            "start_date": "2016-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "python",
+                "go",
+                "spring-boot",
+                "primefaces",
+                "html",
+                "css",
+                "javascript",
+                "angular",
+                "react",
+                "sql",
+                "mysql",
+                "sql-developer",
+                "docker",
+                "kubernetes",
+                "linux",
+                "git",
+                "aws",
+                "aws-codepipeline",
+                "aws-elastic-beanstalk",
+                "aws-ec2",
+                "aws-s3",
+                "aws-lambda",
+                "tensorflow",
+                "keras"
+            ],
+            "soft": [
+                "resolucion-de-problemas",
+                "comunicacion",
+                "trabajo-en-equipo",
+                "adaptabilidad",
+                "pensamiento-critico",
+                "gestion-del-tiempo",
+                "creatividad-e-innovacion",
+                "liderazgo"
+            ],
+            "tools": [
+                "eclipse",
+                "intellij-idea",
+                "maven",
+                "gradle"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Certificación en inglés",
+            "issuing_organization": "EF SET",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Fluido"
+        },
+        {
+            "language": "Italiano",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

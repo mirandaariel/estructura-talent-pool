@@ -1,0 +1,101 @@
+{
+    "personal_info": {
+        "first_name": "Alexandra Daniela",
+        "last_name": "Ramirez",
+        "email": "alexandraramirez939@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/alexandra-ramirez96/",
+        "website": "https://inari939.github.io/portfolio/",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Línea de cajas",
+            "company": "Coto",
+            "location": "",
+            "start_date": "2021-04-18",
+            "end_date": "2025-02-09",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención al cliente",
+                "Resolución de problemas",
+                "Manejo de billeteras virtuales y posnet"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Carrera de Diseño y programación",
+            "institution": "DaVinci - Escuela de arte multimedial",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en informática",
+            "institution": "Universidad nacional de avellaneda",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html",
+                "css",
+                "python",
+                "bootstrap"
+            ],
+            "soft": [],
+            "tools": [
+                "github",
+                "photoshop",
+                "illustrator",
+                "figma",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Visitá Roma",
+            "description": "Modelo de Página de turísmo acerca de la ciudad de Roma",
+            "technologies": ["html", "css"],
+            "url": "https://inari939.github.io/Roma/",
+            "repository_url": "https://github.com/inari939/Roma"
+        },
+        {
+            "name": "Simulación de Instagram",
+            "description": "Simulación de un instagram con ingreso a través de usuario y contraseña (están escritas en el placeholder de los campos)",
+            "technologies": ["javascript", "html", "css"],
+            "url": "https://inari939.github.io/mini-instagram/",
+            "repository_url": "https://github.com/inari939/mini-instagram"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

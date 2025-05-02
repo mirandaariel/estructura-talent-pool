@@ -1,0 +1,95 @@
+{
+    "personal_info": {
+        "first_name": "Rachid",
+        "last_name": "Boss Ibarra",
+        "email": "rachidboss027@gmail.com",
+        "phone": "+56 9 3674 5644",
+        "location": {
+            "country": "Chile",
+            "city": "Santiago",
+            "state": ""
+        },
+        "linkedin": "LinkedIn",
+        "website": "",
+        "portfolio": "Portafolio",
+        "summary": "Desarrollador Full Stack con experiencia en JavaScript, React y Node.js, especializado en aplicaciones web de alto rendimiento. Formación completa en Desafío Latam con habilidades en diseño de interfaces, desarrollo de APIs REST, optimización de bases de datos y control de versiones. Comprometido con la mejora continua, la colaboración efectiva y la resolución de problemas complejos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Proyectos Académicos",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Participación en proyectos como MusaikaPlace, utilizando React.js y optimizando aplicaciones backend con Node.js, Express.js y PostgreSQL"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Administrador de Bases de Datos",
+            "company": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Configuración y optimización de bases de datos en PostgreSQL, implementando consultas avanzadas, optimización de índices y normalización para mejorar el rendimiento y la escalabilidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollador Full Stack JavaScript",
+            "institution": "Desafío Latam",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html5",
+                "css3",
+                "react.js",
+                "bootstrap",
+                "context-api",
+                "axios",
+                "node.js",
+                "express.js",
+                "api-rest",
+                "jwt",
+                "postgresql"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "MusaikaPlace",
+            "description": "Plataforma de cursos en línea desarrollada como proyecto final de la carrera Full Stack JavaScript.",
+            "technologies": ["React.js", "CSS Modules", "Bootstrap", "Context API", "Axios", "Node.js", "Express.js", "PostgreSQL"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

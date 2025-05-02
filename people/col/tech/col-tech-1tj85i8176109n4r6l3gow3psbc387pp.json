@@ -1,0 +1,89 @@
+{
+    "personal_info": {
+        "first_name": "Deider Yofret",
+        "last_name": "Ruiz Acosta",
+        "email": "",
+        "phone": "",
+        "location": {
+            "country": "Colombia",
+            "city": "San Juan De Betulia",
+            "state": "Sucre"
+        },
+        "linkedin": "https://www.linkedin.com/in/deider-yofret-ruiz-acosta-064a1b21a/",
+        "website": "",
+        "portfolio": "https://github.com/DeiderRuiz",
+        "summary": "Desarrollador Fullstack con enfoque en frontend y experiencia en múltiples tecnologías. Creo aplicaciones web escalables y eficientes, aplicando buenas prácticas de desarrollo. Mis habilidades en UI/UX mejoran la funcionalidad y estética del producto final. Busco proyectos donde pueda aportar mis habilidades para mejorar la experiencia del usuario y optimizar la eficiencia técnica."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Ingeniería de Sistemas",
+            "institution": "Corporación Universitaria Antonio José De Sucre",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "php",
+                "python",
+                "javascript",
+                "laravel",
+                "angular-cli",
+                "vue.js",
+                "flask",
+                "bootstrap",
+                "tailwind-css",
+                "mysql"
+            ],
+            "soft": [],
+            "tools": [
+                "figma",
+                "wordpress",
+                "aws",
+                "apache-jmeter",
+                "owasp-zap",
+                "git",
+                "github",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Gestión Emocional para Estudiantes Universitarios",
+            "description": "Desarrollo de una app web con un chatbot integrado para la gestión emocional de estudiantes universitarios. Los usuarios pueden solicitar citas para orientación psicológica a través de la app, mientras que los administradores gestionan horarios y solicitudes de citas en un panel de administración.",
+            "technologies": ["vue.js", "flask", "mysql", "tailwind-css", "gpt-3.5-turbo", "aws", "owasp-zap"],
+            "url": ""
+        },
+        {
+            "name": "Desarrollo de una Página Web de Venta de Vehículos en Línea",
+            "description": "Desarrollo de una plataforma web para la venta de vehículos en línea, automatizando funciones como la solicitud de cotizaciones, financiación, test drives y mantenimiento. Los administradores gestionan todas las solicitudes y servicios desde un panel de administración.",
+            "technologies": ["php", "html", "bootstrap", "javascript", "mysql", "laravel", "tailwind-css"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

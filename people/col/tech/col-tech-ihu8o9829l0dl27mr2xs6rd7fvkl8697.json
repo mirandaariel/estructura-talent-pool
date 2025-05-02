@@ -1,0 +1,154 @@
+{
+    "personal_info": {
+        "first_name": "Juan Camilo",
+        "last_name": "Morales Sánchez",
+        "email": "juanka970129@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Colombia",
+            "city": "Manizales",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Fullstack Developer"
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Almera Information Management",
+            "location": "Manizales (Híbrido)",
+            "start_date": "2024-06-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de un módulo QR y dashboards dinámicos para la gestión de información, utilizando herramientas como React, Nextjs, Typescript, Material UI, Tailwind CSS."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Backend Developer",
+            "company": "Universidad de Caldas",
+            "location": "Manizales (Presencial)",
+            "start_date": "2024-01-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de una plataforma para la gestión y registro de practicantes de instituciones educativas para facilitar la oferta de prácticas profesionales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Sistematización y soporte de datos",
+            "company": "Centro Colombo Americano Manizales",
+            "location": "Manizales (Remoto)",
+            "start_date": "2021-06-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación, actualización y traslados de estudiantes en la plataforma Q10.",
+                "Generación y formulación de archivos para los cortes semanales de grupos creados en Q10.",
+                "Asignar y modificar horarios según los requerimientos enviados por Confa y por los docentes en Q10."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero de Sistemas y Computación",
+            "institution": "Universidad de Caldas",
+            "location": "Manizales",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Animación 3D y Video Digital",
+            "institution": "Unitecnica",
+            "location": "Manizales",
+            "start_date": "2014-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Programación de Software",
+            "institution": "Instituto Técnico San Rafael - SENA",
+            "location": "Manizales",
+            "start_date": "2013-01-01",
+            "end_date": "2013-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller Técnico",
+            "institution": "Instituto Técnico San Rafael",
+            "location": "Manizales",
+            "start_date": "2008-01-01",
+            "end_date": "2013-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "python",
+                ".net",
+                "javascript",
+                "typescript",
+                "angular",
+                "react",
+                "nextjs",
+                "tailwind-css",
+                "material-ui",
+                "postgresql",
+                "mysql",
+                "mongodb",
+                "node",
+                "aws",
+                "api-rest",
+                "git"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "autoaprendizaje"
+            ],
+            "tools": [
+                "trello"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": ""
+        },
+        {
+            "language": "Inglés",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Oscar Trujillo Munera",
+            "relationship": "Ingeniero de sistemas y Telecomunicaciones",
+            "contact": "3127592272"
+        },
+        {
+            "name": "Luz Adriana Sánchez Cataño",
+            "relationship": "Enfermera jefe, Instituto del Corazón Manizales",
+            "contact": "3059311831"
+        }
+    ]
+}

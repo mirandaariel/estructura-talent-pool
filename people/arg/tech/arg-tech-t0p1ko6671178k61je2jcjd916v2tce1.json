@@ -1,0 +1,135 @@
+{
+    "personal_info": {
+        "first_name": "Ariel Fernando",
+        "last_name": "Galeppi",
+        "email": "arielgaleppi@gmail.com",
+        "phone": "+54 9 11 2663 2312",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Profesional con amplia experiencia en el mundo IT, especializado en desarrollo frontend y backend, gestión de equipos y administración de sistemas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Part-Time",
+            "company": "Dale Network",
+            "location": "",
+            "start_date": "2021-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Miembro de un equipo multidisciplinario de desarrolladores, diseñadores y DevOps.",
+                "Desarrollo de interfaces y optimización de frontend para distintos proyectos de la empresa.",
+                "Migración de dashboards de HTML, CSS y PHP a Next.js 14 y React 18, con integración de Prisma y MySQL."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Freelancer",
+            "company": "It Rocks",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de múltiples proyectos dentro de la compañía."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Marketing Project Manager",
+            "company": "Philip Morris International",
+            "location": "",
+            "start_date": "2006-01-01",
+            "end_date": "2015-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión integral de proyectos de marketing y comunicación.",
+                "Coordinación con distintos departamentos para la ejecución de estrategias.",
+                "Entrevistas, formación de candidatos y evaluación de procesos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ejecutivo de Cuentas",
+            "company": "Arrow IT",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2019-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión de campañas de marketing para clientes como Philip Morris, Marlboro, Loma Negra y YPF.",
+                "Planificación y supervisión de acciones comerciales y publicitarias."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "next.js",
+                "nestjs",
+                "node.js",
+                "prisma",
+                "typeorm",
+                "react",
+                "svelte",
+                "salesforce",
+                "mysql",
+                "aws",
+                "git",
+                "bootstrap",
+                "tailwind"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Salesforce Associate",
+            "issuing_organization": "Salesforce",
+            "issue_date": "2025-02-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "E-Shop de Funkos",
+            "description": "Desarrollo de un E-Shop de Funkos.",
+            "technologies": [
+                "node.js",
+                "javascript"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio-Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

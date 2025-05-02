@@ -1,0 +1,136 @@
+{
+    "personal_info": {
+        "first_name": "Randy Enrique",
+        "last_name": "Serrano Monsalve",
+        "email": "randy.serrano.bandit@gmail.com",
+        "phone": "+58 426 296 2888",
+        "location": {
+            "country": "Venezuela",
+            "city": "Caracas",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Programador",
+            "company": "SUMAT - Súper Intendencia Municipal de Administración Tributaria",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollador PHP",
+                "Manejo de Framework Symfony",
+                "Desarrollo en JavaScript",
+                "Generación de Formatos Bancarios",
+                "Análisis e Implementación de Algoritmos Matemáticos",
+                "Manejo de Base de Datos Posgrest SQL"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Programador",
+            "company": "Bandit. The Most Wanted Talent",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollador PHP",
+                "Obtener información especifica de tiendas online",
+                "Generar script en PHP para tener acceso a la información requerida mediante un robot automático",
+                "Emular peticiones (POST, GET) mediante script PHP"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador C# .NET y Full Stack Desarrollo Web",
+            "company": "BekeSantos",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de aplicativos en Windows Forms, API REST y Servicios Windows",
+                "Conexiones SQL SERVER",
+                "Desarrollo y Maquetación de Paginas Web",
+                "Wordpress y .NET"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Educación Secundaria",
+            "institution": "U.E.N. 25 de Julio",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Informática",
+            "institution": "CUFM - Colegio Universitario Francisco de Miranda",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "php",
+                "c++",
+                "c#",
+                "javascript",
+                "symfony",
+                "postgre-sql",
+                "sql-server",
+                "api-rest",
+                "wordpress",
+                "opengl",
+                "java",
+                "asm"
+            ],
+            "soft": [],
+            "tools": [
+                "ollydbg",
+                "ida"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Juan Pérez",
+            "relationship": "",
+            "contact": "0424.116.08.34"
+        },
+        {
+            "name": "Jorge Herrera",
+            "relationship": "",
+            "contact": "0412.306.60.48"
+        },
+        {
+            "name": "Landrea Perez",
+            "relationship": "",
+            "contact": "0412.017.38.59"
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "personal_info": {
+        "first_name": "Juan Tomas",
+        "last_name": "Martinez",
+        "email": "juantomasm0@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "CABA",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/juan-tomas-martinez/",
+        "website": "https://juantmartinez17.github.io/portfolio/",
+        "portfolio": "",
+        "summary": "Apasionado por la tecnología desde siempre, elegí esta carrera para formarme en el desarrollo de software a nivel universitario. Actualmente, estoy buscando mi primera experiencia laboral en el área, con el objetivo de aplicar mis conocimientos y continuar creciendo en el campo del desarrollo de sistemas. Cuento con desarrollos completos en desarrollo web, aplicaciones móviles Android e incluso incursione en desarrollo de videojuegos. Todo está disponible en mi GitHub."
+    },
+    "work_experience": [
+        {
+            "job_title": "Vendedor",
+            "company": "Urbano",
+            "location": "",
+            "start_date": "2021-03-08",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Coordinación con colegas para optimizar la atención al cliente y la organización del local.",
+                "Capacidad para adaptarme a diferentes tipos de clientes y situaciones, manteniendo siempre un trato cordial y profesional."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Entrenador",
+            "company": "Club Pampa Salto",
+            "location": "",
+            "start_date": "2020-02-10",
+            "end_date": "2022-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Motivación y guía de niños deportistas, fomentando el compromiso y el esfuerzo en equipo.",
+                "Comunicación clara y efectiva para transmitir conceptos y estrategias de juego."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnico Universitario en Programacion de Sistemas",
+            "institution": "Universidad de Ciencias Empresariales y Sociales",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "java",
+                "c++",
+                "kotlin",
+                "php",
+                "angular",
+                "react.js",
+                "express.js",
+                "node.js",
+                "sqlite",
+                "mysql",
+                "room"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "postman",
+                "sequelize-orm",
+                "retrofit",
+                "docker"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "The MovieVerse",
+            "description": "TheMovieVerse es una aplicación web desarrollada con React.js y Express.js que permite a los usuarios explorar información sobre películas y series.",
+            "technologies": ["Express.js", "React.js"],
+            "url": "https://github.com/JuantMartinez17/TheMovieVerse"
+        },
+        {
+            "name": "The Knights Odissey",
+            "description": "Es un juego de plataformas 2D desarrollado en Godot 4.3. El juego busca demostrar la implementación de mecánicas clave como animaciones fluidas, persistencia de datos, sonidos envolventes, diseño de niveles y el uso de patrones de diseño para organizar el código eficientemente.",
+            "technologies": ["Godot", "GDScript"],
+            "url": "https://github.com/JuantMartinez17/TheKnightsOdissey_OnGodot"
+        },
+        {
+            "name": "MealMind",
+            "description": "MealMind es una aplicación Android desarrollada en Kotlin que permite a los usuarios buscar recetas basadas en ingredientes y guardarlas como favoritas.",
+            "technologies": ["Kotlin", "XML"],
+            "url": "https://github.com/JuantMartinez17/MealMind"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Ingles",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

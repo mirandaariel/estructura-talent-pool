@@ -1,0 +1,134 @@
+{
+    "personal_info": {
+        "first_name": "Alex",
+        "last_name": "Méndez",
+        "email": "alexivanmendez08@gmail.com",
+        "phone": "1162203828",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "https://github.com/Alexus167",
+        "portfolio": "https://Alexmendezdev",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Full-Stack Developer",
+            "company": "Ministry of Human Capital",
+            "location": "ARG",
+            "start_date": "2023-12-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed and maintained a case/complaint management system using Go, Angular, MySQL, and Docker.",
+                "Implemented new features and comprehensive documentation."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full-Stack Developer",
+            "company": "Ministry of Women, Gender, and Diversity",
+            "location": "ARG",
+            "start_date": "2021-12-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed and maintained a case/complaint management system using Go, Angular, MySQL, and Docker.",
+                "Implemented new features and comprehensive documentation."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full-Stack Developer",
+            "company": "Pukara IT",
+            "location": "ESP",
+            "start_date": "2021-08-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Full-stack development with Laravel, Vue.js, MySQL, AWS Lambda, and Docker.",
+                "Responsibilities included feature development, code maintenance, and QA for bot administration and video chat applications."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computer Science Engineering",
+            "institution": "UNDAV",
+            "location": "",
+            "start_date": "2022-07-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Angular 13 Customization with Testing",
+            "institution": "EducacionIT",
+            "location": "",
+            "start_date": "2020-10-01",
+            "end_date": "2021-04-30",
+            "hours": 0
+        },
+        {
+            "degree": "Full-Stack Web Developer",
+            "institution": "Digital House and Fundación Formar",
+            "location": "",
+            "start_date": "2020-10-01",
+            "end_date": "2021-04-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "node",
+                "sequelize",
+                "express",
+                "mysql",
+                "go",
+                "angular",
+                "laravel",
+                "vue.js",
+                "docker",
+                "aws-lambda"
+            ],
+            "soft": [
+                "experience-with-agile-methodologies"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": ""
+        },
+        {
+            "language": "Portuguese",
+            "proficiency": ""
+        },
+        {
+            "language": "Spanish",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

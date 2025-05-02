@@ -1,0 +1,128 @@
+{
+    "personal_info": {
+        "first_name": "Jorge Eduardo",
+        "last_name": "Muñoz Quintero",
+        "email": "xeduarkk@gmail.com",
+        "phone": "+57 3003766780",
+        "location": {
+            "country": "Colombia",
+            "city": "Neiva",
+            "state": "Huila"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ayudo a empresas y emprendedores a convertir sus ideas en realidades digitales a través de soluciones web personalizadas. Sólida base técnica y experiencia en el desarrollo de aplicaciones con MongoDB, Express.js, React y Node.js. Anteriormente parte del equipo de Tata Consultancy Services. Actualmente trabajando como freelance. Mi enfoque se centra en la excelencia técnica, la adaptación al cambio y un compromiso constante con el aprendizaje continuo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador FullStack",
+            "company": "Eaglee Software",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaborando en el desarrollo de soluciones web innovadoras para empresas de los sectores TIC y de la construcción.",
+                "Utilizando habilidades en PHP y MySQL."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Practicante TI",
+            "company": "Tata Consultancy Services",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Integración de desarrollo de software y soporte de servidores en proyecto de Bancolombia."
+            ],
+            "achievements": [
+                "Desarrollé el Front-End de un aplicativo web para TCS; una herramienta de monitorización de servidores utilizando React."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Asistente en Desarrollo de Software",
+            "company": "Proyectos Académicos",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de un aplicativo web y móvil para calcular nómina y liquidación de los usuarios, exportar pdf de los resultados y protección con su identificación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico laboral en desarrollo de software",
+            "institution": "Cesde Bello",
+            "location": "Antioquia",
+            "start_date": "2023-06-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Título de Bachillerato",
+            "institution": "I.E Rodrigo Lara Bonilla",
+            "location": "Neiva, Huila",
+            "start_date": "2016-01-01",
+            "end_date": "2016-11-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["mongodb", "express.js", "react", "node.js", "php", "mysql", "astro", "css", "nextjs", "nosql", "postgresql"],
+            "soft": ["comunicación", "pensamiento-analítico", "creatividad", "adaptabilidad", "responsabilidad", "pensamiento-crítico", "empatía", "honestidad"],
+            "tools": ["visual-studio-code", "android-studio", "firestore", "sql-server"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Asistify",
+            "description": "Lideré el desarrollo de un dashboard completo de gestión de asistencia de empleados, diseñando tanto el frontend con React como el backend con Express.",
+            "technologies": ["react", "express"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Principiante"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Anderson Alexander Alzate Mesa",
+            "relationship": "Referencia personal",
+            "contact": "aaalzate5@misena.edu.co"
+        },
+        {
+            "name": "Mariana Valencia",
+            "relationship": "Referencia laboral",
+            "contact": "marval@bancolombia.com.co"
+        },
+        {
+            "name": "Tatiana Marcela Berrocal Avila",
+            "relationship": "Referencia Familiar",
+            "contact": "tmberrocal@misena.edu.co"
+        }
+    ]
+}

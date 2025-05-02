@@ -1,0 +1,121 @@
+{
+    "personal_info": {
+        "first_name": "Fernando",
+        "last_name": "Martínez",
+        "email": "nandomartinez2424@gmail.com",
+        "phone": "+593967694230",
+        "location": {
+            "country": "Ecuador",
+            "city": "Milagro",
+            "state": "Guayas"
+        },
+        "linkedin": "https://linkedin.com/in/fernando-martinez-a0aa8a297",
+        "website": "",
+        "portfolio": "",
+        "summary": "Apasionado por la tecnología, soy una persona proactiva, con ganas de aprender, altamente sociable y responsable con mi trabajo. Mi experiencia incluye desarrollo de software, soporte técnico y mantenimiento de sistemas, con una gran capacidad de adaptación y dedicación a la excelencia."
+    },
+    "work_experience": [
+        {
+            "job_title": "Ingeniero de Desarrollo de Software",
+            "company": "Adelca",
+            "location": "Milagro, Guayas, Ecuador",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de software enfocado en mantenimiento utilizando Python, bibliotecas de PLC Siemens y SQL Server.",
+                "Uso de SAP para la creación de órdenes de trabajo, gestión de compras de materiales y asignación de costos a centros de costo.",
+                "Desarrollo y gestión de un sistema personalizado SIGMA en Excel para el manejo de órdenes de trabajo, componentes, reportes diarios y requerimientos de materiales.",
+                "Supervisión de sistemas relacionados con cámaras de proceso y cronogramas de mantenimiento."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnico Eléctrico",
+            "company": "Adelca",
+            "location": "Milagro, Guayas, Ecuador",
+            "start_date": "2022-04-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Mantenimiento de equipos en la fundición y de instalaciones eléctricas.",
+                "Gestión de datos y responsabilidad sobre cámaras de proceso."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Asistente de Digitalización (Sistema Pre-box)",
+            "company": "Expalsa",
+            "location": "Milagro, Guayas, Ecuador",
+            "start_date": "2020-01-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión de sistemas de software de etiquetas primarias y secundarias.",
+                "Mantenimiento de impresoras de etiquetado.",
+                "Clasificación de rollos de etiquetas por tamaño."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Software",
+            "institution": "Universidad Estatal de Milagro (UNEMI)",
+            "location": "Milagro, Guayas, Ecuador",
+            "start_date": "",
+            "end_date": "2024-01-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "c#",
+                "visual-basic",
+                "typescript",
+                "html",
+                "css",
+                "js",
+                "angular",
+                "node.js",
+                "react",
+                "next.js",
+                "classic-asp",
+                "net",
+                "bootstrap",
+                "tailwind",
+                "snap-7",
+                "mysql",
+                "postgresql",
+                "sql-server"
+            ],
+            "soft": [],
+            "tools": [
+                "sap",
+                "github",
+                "jasperreports"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (B1)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

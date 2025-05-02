@@ -1,0 +1,108 @@
+{
+    "personal_info": {
+        "first_name": "Nicolás",
+        "last_name": "Oñate",
+        "email": "nicooniate02@gmail.com",
+        "phone": "+5491121811570",
+        "location": {
+            "country": "Argentina",
+            "city": "Avellaneda",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/nicolasoñate/",
+        "website": "",
+        "portfolio": "https://github.com/Nicooniate",
+        "summary": "Soy Nicolás Oñate, estudiante de Análisis de Sistemas en la UBA con conocimientos en JavaScript, HTML, CSS y herramientas de diseño como Figma y Photoshop. Me destaco por mi capacidad de aprendizaje, resolución de problemas y habilidades blandas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Armado y Entrega de Pedidos",
+            "company": "Mertoon Clean S.A",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2020-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Coordinación y armado de pedidos según requerimientos de clientes.",
+                "Organización del inventario y mantenimiento del depósito.",
+                "Gestión de entregas y cobranza de pedidos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Hardware y Software - Autónomo",
+            "company": "",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2019-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Ensamblaje y configuración de computadoras según necesidades del usuario.",
+                "Instalación y optimización de sistemas operativos y software.",
+                "Diagnóstico y reparación de problemas de hardware y software."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ciclo Básico Común - Licenciatura en Análisis de Sistemas",
+            "institution": "Universidad de Buenos Aires (UBA)",
+            "location": "Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Comunicación",
+            "institution": "Colegio Salvador Soreda",
+            "location": "Argentina",
+            "start_date": "2015-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html",
+                "css",
+                "sass",
+                "bootstrap",
+                "seo"
+            ],
+            "soft": [
+                "capacidades-de-aprendizaje",
+                "resolución-de-problemas",
+                "habilidades-blandas"
+            ],
+            "tools": [
+                "figma",
+                "photoshop",
+                "illustrator",
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": {
+                "javascript": [],
+                "html": [],
+                "css": []
+            },
+            "soft": {
+                "capacidades-de-aprendizaje": [],
+                "resolución-de-problemas": [],
+                "habilidades-blandas": []
+            }
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

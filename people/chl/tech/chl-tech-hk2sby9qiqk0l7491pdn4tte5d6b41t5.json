@@ -1,0 +1,136 @@
+{
+    "personal_info": {
+        "first_name": "Vanessa",
+        "last_name": "Belzares",
+        "email": "belzares.vanessa@gmail.com",
+        "phone": "+56964495920",
+        "location": {
+            "country": "Chile",
+            "city": "Santiago",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/vanessabelzares",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniera Química en transición hacia el campo de Data Science, con experiencia en análisis de datos y optimización de procesos utilizando herramientas como Python, SQL y Power BI."
+    },
+    "work_experience": [
+        {
+            "job_title": "Account Manager | Analista administrativa",
+            "company": "Sandav BPO SpA (consultoría)",
+            "location": "Santiago, Chile",
+            "start_date": "2022-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Analicé métricas clave de clientes para diseñar estrategias personalizadas, logrando un aumento del 20% en retención mediante el análisis de tendencias y patrones de comportamiento.",
+                "Realicé análisis de presupuestos con datos financieros históricos, optimizando la gestión de recursos y logrando una reducción del 15% en costos operativos.",
+                "Automaticé procesos de actualización y seguimiento de datos empresariales, garantizando la precisión y accesibilidad en tiempo real para reportes internos.",
+                "Creé reportes visuales y tableros utilizando Excel avanzado, proporcionando insights para la toma de decisiones estratégicas en colaboración con el equipo financiero."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de Laboratorio",
+            "company": "Kentodal S.A.",
+            "location": "Maracaibo, Venezuela",
+            "start_date": "2019-08-01",
+            "end_date": "2019-11-30",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ciencia de Datos",
+            "institution": "Coder House",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "2025-01-31",
+            "hours": 0
+        },
+        {
+            "degree": "Analista de Datos",
+            "institution": "Coder House",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-04-30",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Química",
+            "institution": "Universidad Rafael Urdaneta",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "power-bi",
+                "sql",
+                "looker-studio",
+                "python",
+                "pandas",
+                "numpy",
+                "matplotlib",
+                "seaborn",
+                "classification",
+                "clustering",
+                "nlp",
+                "data-wrangling"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Análisis Aéreo: Optimización de Datos de Vuelos Comerciales",
+            "description": "Optimizar las operaciones de vuelos comerciales mediante el análisis de datos para mejorar la puntualidad de los vuelos.",
+            "technologies": ["ETL", "SQL", "Power BI"],
+            "url": ""
+        },
+        {
+            "name": "Análisis de Consumo en Amazon India",
+            "description": "Analizar el comportamiento de consumo en Amazon India para identificar patrones de compra y preferencias regionales de los clientes.",
+            "technologies": ["machine learning", "python", "k-means"],
+            "url": ""
+        },
+        {
+            "name": "Análisis de Calidad del Aire en Taiwán",
+            "description": "Predecir los niveles de contaminación del aire en Taiwán y ofrecer insights para posibles intervenciones en áreas con alta contaminación.",
+            "technologies": ["data wrangling", "random forest", "grid search"],
+            "url": ""
+        },
+        {
+            "name": "Modelo de Clasificación de texto para Reseñas de Maquillaje con NLP y Deep Learning",
+            "description": "Mejorar la capacidad de análisis de sentimiento y proporcionar insights valiosos para la estrategia de marketing mediante el análisis de reseñas de productos de maquillaje.",
+            "technologies": ["nlp", "deep learning"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B1-B2"
+        },
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

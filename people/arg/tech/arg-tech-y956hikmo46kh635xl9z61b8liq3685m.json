@@ -1,0 +1,115 @@
+{
+    "personal_info": {
+        "first_name": "Simón",
+        "last_name": "Pérez",
+        "email": "simon130699@gmail.com",
+        "phone": "1156934100",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/simondanielperez",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy una persona apasionada por la programación, constantemente mejorando mis habilidades. Me gustan los desafíos como resolver problemas y dar soluciones eficientes, analizando siempre la complejidad de los algoritmos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Vendedor-Administrativo",
+            "company": "VC Aluminio",
+            "location": "",
+            "start_date": "2019-08-01",
+            "end_date": "2021-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Control de correos electrónicos y excel de ventas.",
+                "Community Manager"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Emprendedor",
+            "company": "",
+            "location": "",
+            "start_date": "2021-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Control de stock, creación de SPA para tienda online.",
+                "Desarrollo de aplicación propia para gestión de ventas internas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Dev Backend",
+            "company": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Creación de proyectos freelance escalables utilizando Java Spring Boot."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Informática",
+            "institution": "Universidad Nacional General Sarmiento",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "sass",
+                "material-ui",
+                "git",
+                "github",
+                "javascript",
+                "react.js",
+                "spring-boot",
+                "java",
+                "jpa-hibernate",
+                "mysql",
+                "docker",
+                "rest-apis",
+                "mvc",
+                "dto",
+                "unit-testing",
+                "maven"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Basic"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

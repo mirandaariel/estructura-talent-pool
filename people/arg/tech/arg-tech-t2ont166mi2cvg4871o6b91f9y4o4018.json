@@ -1,0 +1,139 @@
+{
+  "personal_info": {
+    "first_name": "Damian",
+    "last_name": "Sola Zambrano",
+    "email": "damiansola99@gmail.com",
+    "phone": "+49 3874672442",
+    "location": {
+      "country": "",
+      "city": "",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/damiansola/",
+    "website": "",
+    "portfolio": "",
+    "summary": "Soy desarrollador web fullstack con sólidos conocimientos en tecnologías modernas y metodologías ágiles como Scrum. Me especializo en la creación de aplicaciones escalables y eficientes, siguiendo buenas prácticas de desarrollo. Me mantengo en constante aprendizaje para optimizar mi stack tecnológico y ofrecer soluciones innovadoras."
+  },
+  "work_experience": [
+    {
+      "job_title": "Fullstack Developer",
+      "company": "Freelancer",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Diseño y maquetado de páginas web.",
+        "Desarrollo con Next.js, JavaScript y React.",
+        "Despliegue en Hostinger."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Genexus Developer",
+      "company": "Digio SRL",
+      "location": "",
+      "start_date": "2022-10-01",
+      "end_date": "2022-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo y mantenimiento de sistemas de datos de hospitales y cajas forenses."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachiller Humanista",
+      "institution": "Colegio Gral. Manuel Belgrano",
+      "location": "",
+      "start_date": "",
+      "end_date": "2017-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Desarrollador Fullstack",
+      "institution": "SoyHenry (bootcamp)",
+      "location": "",
+      "start_date": "2021-01-01",
+      "end_date": "2022-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "node",
+        "express",
+        "mongoose",
+        "sequelize",
+        "redux-thunk",
+        "nextjs",
+        "typescript",
+        "react",
+        "tailwindcss",
+        "mongodb",
+        "postgresql"
+      ],
+      "soft": [],
+      "tools": [
+        "vscode",
+        "git",
+        "github",
+        "vercel",
+        "render",
+        "mongocompass",
+        "atlas",
+        "open-ai",
+        "blackbox",
+        "postman"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Checked",
+      "description": "Proyecto personal para eventos con el fin de gestionar listas e invitados, registrando cada uno y supervisando en vivo su asistencia.",
+      "technologies": [
+        "typescript",
+        "tailwind",
+        "react",
+        "next",
+        "node",
+        "express",
+        "mongodb"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Portfolio",
+      "description": "Desarrollado con Tailwind, React y Next.js.",
+      "technologies": [
+        "tailwind",
+        "react",
+        "nextjs"
+      ],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "B1"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

@@ -1,0 +1,178 @@
+{
+    "personal_info": {
+        "first_name": "Jean Pierre",
+        "last_name": "Luna",
+        "email": "carnadalig99@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante en formación, buscando aplicar y expandir mis conocimientos en el mundo IT. Aspiro a crecer en un entorno laboral con un equipo dónde pueda ampliar mis habilidades blandas y cumplir las expectativas sobre mi trabajo. Dentro de mis objetivos se encuentra el de conseguir experiencia práctica y desarrollar habilidades que me impulse en mi carrera profesional."
+    },
+    "work_experience": [
+        {
+            "job_title": "Diseñador UX/UI",
+            "company": "Programa UTN-GCBA",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé diseños de la vista principal de la web.",
+                "Comunicación directa con el cliente, adaptación y negociación de cambios del cliente.",
+                "Planeamiento de tareas y corrección de diseños."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachiller en economía y administración",
+            "institution": "Escuela Santa María",
+            "location": "",
+            "start_date": "2013-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en sistemas de información",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java-avanzado",
+                "springboot-intermerdio",
+                "sql-intermedio",
+                "sistemas-operativos-intermedio",
+                "virtualbox",
+                "typescript-avanzado",
+                "linux-intermedio",
+                "angular-avanzado",
+                "postman-avanzado",
+                "networking-básico",
+                "redes-básico",
+                "office-intermedio",
+                "tomcat-intermedio",
+                "junit-básico",
+                "javascript-intermedio"
+            ],
+            "soft": [
+                "excelente-comunicación",
+                "trabajo-en-equipo",
+                "responsabilidad",
+                "adaptabilidad",
+                "autodidacta"
+            ],
+            "tools": [
+                "figma-intermedio",
+                "jira-avanzado",
+                "github-avanzado"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Programa de desarrollo de talento",
+            "issuing_organization": "UTN.BA + GCBA",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": "",
+            "hours": 260
+        },
+        {
+            "name": "Lenguaje JAVA",
+            "issuing_organization": "Universidad Tecnológica Nacional",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "",
+            "hours": 0
+        },
+        {
+            "name": "Metodologías ágiles",
+            "issuing_organization": "UTN.BA",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "",
+            "hours": 10
+        },
+        {
+            "name": "Help Desk",
+            "issuing_organization": "UTN y Fundación Empujar",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": "",
+            "hours": 153
+        },
+        {
+            "name": "Desarrollo .Net",
+            "issuing_organization": "Neoris",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": "",
+            "hours": 96
+        },
+        {
+            "name": "JavaScript",
+            "issuing_organization": "FreeCodeCamp",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": "",
+            "hours": 300
+        }
+    ],
+    "projects": [
+        {
+            "name": "Proyecto autónomo",
+            "description": "Proyecto realizado en conjunto a un equipo para una materia de la facultad. Mejoró compañerismo, lógica de programación, realización de tareas, investigación de tecnologías y resolución de problemas.",
+            "technologies": [
+                "Linux",
+                "C",
+                "Github",
+                "Jira"
+            ],
+            "url": ""
+        },
+        {
+            "name": "CRUD",
+            "description": "Proyecto que vuelca conocimientos en Angular, Springboot, Java, TypeScript y SQL con Oracle. Utiliza JPA para mantener la persistencia entre la base de datos y entidades de Java, además del uso de API REST para crear endpoints y consumirlos con Angular.",
+            "technologies": [
+                "Angular",
+                "TypeScript",
+                "Mysql",
+                "Docker",
+                "Postman",
+                "Java"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

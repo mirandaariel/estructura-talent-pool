@@ -1,0 +1,224 @@
+
+{
+    "personal_info": {
+        "first_name": "Guido Joaquin",
+        "last_name": "Gamerro",
+        "email": "guidogamerro@gmail.com",
+        "phone": "+3406415953",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/guido-gamerro/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero químico con sólida capacidad de liderazgo y experiencia en la gestión de personal. Altamente adaptable al cambio, con una destacada habilidad para el trabajo en equipo. Perfil organizado, entusiasta y orientado a la resolución de problemas. Comunicación asertiva, responsabilidad, proactividad y un firme compromiso con los objetivos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Responsable de Logística",
+            "company": "La Virginia",
+            "location": "Buenos Aires",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Supervisión de las operaciones del operador logístico.",
+                "Control del ingreso de productos desde el centro de distribución.",
+                "Gestión y mantenimiento del stock de productos.",
+                "Coordinación del despacho de productos hacia los clientes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Jefe de Producción",
+            "company": "Internacional Farmaceútica Argentina",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2023-06-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestionar y planificar los procesos de producción de la planta.",
+                "Coordinar y dirigir equipo de supervisores.",
+                "Identificar problemas de eficiencia y sugerir mejoras.",
+                "Administrar stock de materia prima y producto terminado.",
+                "Coordinar el abastecimiento de insumos.",
+                "Gestión de la logística de transporte.",
+                "Elaborar reportes de producción y de inventario.",
+                "Organizar la distribución de producto de forma eficaz."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Supervisor de producción",
+            "company": "Van Hessen Argentina",
+            "location": "Rosario, Argentina",
+            "start_date": "2023-03-01",
+            "end_date": "2023-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Controlar proceso de producción de heparina.",
+                "Dirigir equipo de operarios de producción.",
+                "Confeccionar informes de producción.",
+                "Coordinar compras y recepción de insumos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Pasante",
+            "company": "ITC - CONICET",
+            "location": "Santa Fe, Argentina",
+            "start_date": "2019-02-01",
+            "end_date": "2019-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Investigación sobre producción de bioplástico.",
+                "Análisis de formación de películas biodegradables."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería Química",
+            "institution": "Universidad Nacional del Litoral",
+            "location": "Santa Fe, Argentina",
+            "start_date": "2015-03-01",
+            "end_date": "2022-05-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnicatura en Programación",
+            "institution": "Teclab - Universidad Empresarial Siglo 21",
+            "location": "",
+            "start_date": "2021-08-01",
+            "end_date": "2024-09-30",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomatura en Gestión de Logística Integral",
+            "institution": "Universidad Austral",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2024-07-01",
+            "end_date": "",
+            "currently_enrolled": true,
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "microsoft-excel",
+                "python",
+                "power-bi",
+                "sap",
+                "sql",
+                "simuladores-de-procesos",
+                "autocad",
+                "matlab"
+            ],
+            "soft": [
+                "comunicación-asertiva",
+                "responsabilidad",
+                "proactividad",
+                "compromiso"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "MBA Essentials 2024",
+            "issuing_organization": "London School Economics",
+            "issue_date": "2024-04-01",
+            "expiration_date": "2024-08-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Power BI",
+            "issuing_organization": "EmpleoTecnia",
+            "issue_date": "2024-01-01",
+            "expiration_date": "2024-02-29",
+            "credential_id": ""
+        },
+        {
+            "name": "Excel for Engineering Professionals",
+            "issuing_organization": "LinkedIn Learning",
+            "issue_date": "2023-11-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Python Avanzado",
+            "issuing_organization": "LinkedIn Learning",
+            "issue_date": "2022-08-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Programación con Python",
+            "issuing_organization": "Educación IT",
+            "issue_date": "2021-08-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Diseño de Equipos de Contacto Gas-Líquido",
+            "issuing_organization": "Facultad de Ingeniería Química, UNL",
+            "issue_date": "2020-02-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo de producción de la Energía",
+            "issuing_organization": "Facultad de Ingeniería Química, UNL",
+            "issue_date": "2019-08-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Tecnologías de Almacenamiento de Energía",
+            "issuing_organization": "Facultad de Ingeniería Química, UNL",
+            "issue_date": "2018-02-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Sistema de Gestión de Producción",
+            "description": "Desarrollo de un sistema web utilizando Python y el framework Django para gestionar y controlar los procesos de producción en planta. Funcionalidades: Gestión de lotes, seguimiento del estado de producción, control de stock de insumos, historial de actualizaciones y generación de informes.",
+            "technologies": ["python", "django", "sqlite", "html", "css", "javascript"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": ""
+        },
+        {
+            "language": "Alemán",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [
+        {
+            "title": "Estudio sobre polímeros biodegradables y biocompuestos",
+            "publisher": "",
+            "publication_date": "",
+            "url": ""
+        }
+    ],
+    "references": []
+}

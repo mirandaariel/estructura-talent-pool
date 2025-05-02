@@ -1,0 +1,127 @@
+{
+    "personal_info": {
+        "first_name": "Jose Maria",
+        "last_name": "Candia",
+        "email": "josekandia42@gmail.com",
+        "phone": "+543782524395",
+        "location": {
+            "country": "Argentina",
+            "city": "Corrientes",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/josecandia",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Backend con experiencia en el diseño e implementación de soluciones tecnológicas eficientes y escalables. Me apasiona enfrentar nuevos desafios, aplicando mis conocimientos y utilizando las herramientas más adecuadas para satisfacer las necesidades de los clientes."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "No Country Simulation",
+            "location": "",
+            "start_date": "2025-02-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideré el diseño y desarrollo de una API REST robusta utilizando Node.js, Express.js, y TypeScript, enfocada en facilitar procesos eficientes de adopción de mascotas.",
+                "Diseñé y estructuré la base de datos en MongoDB, asegurando una arquitectura escalable y de fácil mantenimiento.",
+                "Implementé documentación técnica de la API con Swagger, mejorando la colaboración entre equipos y facilitando la integración frontend-backend.",
+                "Contribuí a optimizar el proceso de desarrollo y despliegue con enfoque en escalabilidad, rendimiento y mantenibilidad, utilizando principios SOLID y Clean Architecture."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "Devlights",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Participé en el desarrollo backend colaborando dentro de una arquitectura basada en Three-Tier.",
+                "Contribuí en la implementación de endpoints REST utilizando Node.js, Express.js y TypeScript, trabajando en conjunto con el equipo para garantizar un diseño limpio y eficiente.",
+                "Apoyé la documentación de la API mediante Swagger, facilitando la comunicación entre las capas del sistema y el equipo frontend.",
+                "Formé parte del equipo encargado del despliegue en la nube, configurando entornos en AWS, incluyendo instancias EC2."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Sistemas de Información",
+            "institution": "Universidad Nacional del Nordeste",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bootcamp Certificado Desarrollador FullStack",
+            "institution": "Devlights",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "2024-11-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "javascript",
+                "c#",
+                "java",
+                "html",
+                "css",
+                "node.js",
+                "express.js",
+                "next.js",
+                "astro",
+                "linux",
+                "mongoose",
+                "swagger",
+                "git",
+                "postman",
+                "aws-(ec2,-s3)",
+                "docker",
+                "docker-compose",
+                "mongodb",
+                "mysql",
+                "postgresql",
+                "sql-server"
+            ],
+            "soft": [
+                "comunicación-efectiva",
+                "trabajo-en-equipo",
+                "adaptabilidad-y-aprendizaje-continuo",
+                "gestión-del-tiempo",
+                "empatía",
+                "inteligencia-emocional",
+                "creatividad",
+                "pensamiento-crítico",
+                "resolución-de-problemas"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Certificado de Inglés A1",
+            "issuing_organization": "Universidad de Buenos Aires",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

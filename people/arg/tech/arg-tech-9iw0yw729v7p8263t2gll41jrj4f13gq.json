@@ -1,0 +1,181 @@
+{
+    "personal_info": {
+        "first_name": "Pablo",
+        "last_name": "Barrios",
+        "email": "polbarrios835237@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Posadas",
+            "state": "Misiones"
+        },
+        "linkedin": "https://www.linkedin.com/in/pablo-barrios-2ba888231/",
+        "website": "https://github.com/polsze",
+        "portfolio": "http://pablobarriosportfolio-blond.vercel.app/",
+        "summary": "Desarrollador Frontend con experiencia en la creación de interfaces optimizadas y escalables con React y tecnologías modernas. Apasionado por la optimización de rendimiento y la accesibilidad web. Me destaco por mi capacidad de adaptación, aprendizaje continuo y trabajo en equipo para entregar soluciones escalables y de alto rendimiento."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Bakutech",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñé e implementé interfaces interactivas y responsivas para más de 5 sitios web, optimizando la experiencia del usuario en distintos dispositivos.",
+                "Optimicé el rendimiento de las aplicaciones utilizando lazy loading y useCallback, logrando una reducción del 30% en los tiempos de carga."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Vendedor Viajante",
+            "company": "Nestlé S.A",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestioné y expandí una cartera de más de 60 clientes diarios, aumentando las ventas en un 20% anual.",
+                "Optimicé las rutas de distribución, reduciendo los tiempos de entrega y mejorando la eficiencia operativa.",
+                "Negocié acuerdos comerciales, fortaleciendo relaciones con clientes clave y asegurando un crecimiento sostenido."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "",
+            "company": "Periodismo Digital y Radial",
+            "location": "",
+            "start_date": "2013-01-01",
+            "end_date": "2016-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Cubrí y redacté noticias en tiempo real para eventos deportivos y masivos.",
+                "Gestioné redes sociales en vivo, aumentando la interacción de los usuarios y mejorando la cobertura digital."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollo Web Backend con React JS",
+            "institution": "UTN / Silicon Misiones",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Frontend Developer",
+            "institution": "Silicon Misiones",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack JR",
+            "institution": "Argentina Programa",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Inglés Intermedio",
+            "institution": "Silicon Misiones",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Inglés Básico",
+            "institution": "CUI",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html",
+                "css",
+                "react.js",
+                "next.js",
+                "vite",
+                "tailwind-css",
+                "mysql",
+                "mongodb"
+            ],
+            "soft": [
+                "adaptability",
+                "continuous-learning",
+                "teamwork"
+            ],
+            "tools": [
+                "glide",
+                "git",
+                "gimp",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Haush Guitars",
+            "description": "Desarrollo completo del frontend con React y optimización de carga.",
+            "technologies": ["react.js", "tailwind-css", "vite"],
+            "url": "https://haushguitars.com/"
+        },
+        {
+            "name": "Letalis Store",
+            "description": "Implementación de e-commerce responsivo. A Futuro se implementará métodos de pago.",
+            "technologies": ["react.js", "tailwind-css", "vite"],
+            "url": "https://letalis-store.com/"
+        },
+        {
+            "name": "InfoChalten",
+            "description": "Aplicación low code + landing page",
+            "technologies": ["glide", "react.js", "tailwind-css", "vite"],
+            "url": "https://infochalten.com/",
+            "app_url": "https://infochalten.glide.page/"
+        },
+        {
+            "name": "Service Oficial Caba",
+            "description": "Desarrollo completo del frontend con React y optimización de carga.",
+            "technologies": ["react.js", "tailwind-css", "vite"],
+            "url": "https://serviceoficial-caba.com.ar/"
+        },
+        {
+            "name": "OM3GA",
+            "description": "Community Manager y creador de contenido (imágenes y videos).",
+            "technologies": ["canva", "capcut", "gimp", "obs-studio", "blender"],
+            "url": "https://www.instagram.com/om3gacs/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,233 @@
+{
+  "personal_info": {
+    "first_name": "Bruno Ariel",
+    "last_name": "Parisi",
+    "email": "bnoprs00@gmail.com",
+    "phone": "",
+    "location": {
+      "country": "Argentina",
+      "city": "Bahía Blanca",
+      "state": "Provincia de Buenos Aires"
+    },
+    "linkedin": "https://linkedin.com/in/bruno-ariel-parisi",
+    "website": "",
+    "portfolio": "",
+    "summary": "Técnico Informático y estudiante de Licenciatura en Computación. Experiencia en soporte técnico, mantenimiento de sistemas y optimización de equipos. Proyectos en Java, C, React y Next.js, aplicando principios de diseño y buenas prácticas. Enfoque en eficiencia, seguridad y rendimiento."
+  },
+  "work_experience": [
+    {
+      "job_title": "Técnico Informático Autónomo",
+      "company": "",
+      "location": "Saavedra y Bahía Blanca, Provincia de Buenos Aires",
+      "start_date": "2015-03-01",
+      "end_date": "2019-03-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Proporcioné soluciones integrales en informática, incluyendo armado, mantenimiento y optimización de PCs.",
+        "Configuré y actualicé servidores (Windows y Linux) para instituciones educativas, mejorando la conectividad a Internet.",
+        "Configuré redes LAN locales para competiciones de videojuegos."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Soporte Técnico",
+      "company": "Biblioteca Popular Juan Bautista Alberdi",
+      "location": "Saavedra, Provincia de Buenos Aires",
+      "start_date": "2016-11-01",
+      "end_date": "2018-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Aporté soporte técnico, mantenimiento y configuración de equipos.",
+        "Lideré la actualización del sistema de inventario con Excel y Labeljoy.",
+        "Realicé cambios de hardware, actualizaciones y formateo de sistemas operativos."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Licenciatura en Ciencias de la Computación",
+      "institution": "Universidad Nacional del Sur",
+      "location": "Bahía Blanca, Provincia de Buenos Aires",
+      "start_date": "2019-08-01",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "Técnico Informático",
+      "institution": "Escuela de Educación Secundaria N1 'Dr. Adolfo Alsina'",
+      "location": "Saavedra, Provincia de Buenos Aires",
+      "start_date": "2016-01-01",
+      "end_date": "2018-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Bachiller en Economía y Administración",
+      "institution": "Escuela de Educación Secundaria N1 'Dr. Adolfo Alsina'",
+      "location": "Saavedra, Provincia de Buenos Aires",
+      "start_date": "2013-01-01",
+      "end_date": "2018-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "patrones-de-diseño",
+        "solid",
+        "clean-code",
+        "git",
+        "github",
+        "estructuras-de-datos",
+        "java",
+        "c",
+        "javascript",
+        "react",
+        "pascal",
+        "html",
+        "css",
+        "typescript",
+        "windows",
+        "linux",
+        "kalilinux",
+        "máquinas-virtuales",
+        "hardware",
+        "office",
+        "ms-office",
+        "latex"
+      ],
+      "soft": [
+        "adaptabilidad",
+        "trabajo-en-equipo",
+        "comunicación",
+        "puntualidad",
+        "resolución-de-problemas",
+        "proactividad",
+        "capacidad-de-aprendizaje",
+        "empatía",
+        "pensamiento-critico"
+      ],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [
+    {
+      "name": "Ciberseguridad en el Teletrabajo",
+      "issuing_organization": "Desafió Latam",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Desarrollo fronted",
+      "issuing_organization": "ArgentinaPrograma 4.0",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Trabajas con bases de datos?",
+      "issuing_organization": "Política y Gestión Pública",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Hacking Ético 4.0: Offensive and Defensive",
+      "issuing_organization": "ExorciseThat",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Super Mario Bros en Java",
+      "description": "Desarrollé una versión de Super Mario Bros en Java utilizando VSCode y Eclipse. Implementé mecánicas de juego, detección de colisiones y animaciones.",
+      "technologies": ["Java", "VSCode", "Eclipse"],
+      "url": ""
+    },
+    {
+      "name": "Procesamiento de Texto en C",
+      "description": "Implementé un programa en C para analizar archivos de texto, contando palabras y generando reportes ordenados.",
+      "technologies": ["C"],
+      "url": ""
+    },
+    {
+      "name": "Sistemas de Archivos en Java",
+      "description": "Desarrollé un sistema de archivos en Java utilizando Eclipse.",
+      "technologies": ["Java", "Eclipse"],
+      "url": ""
+    },
+    {
+      "name": "DriveNow Cars",
+      "description": "Reforzo mis habilidades en React, NextsJS, Stripe, TailwindCSS.",
+      "technologies": ["React", "NextsJS", "Stripe", "TailwindCSS"],
+      "url": ""
+    },
+    {
+      "name": "DISO | Digital Solutions",
+      "description": "Reforzo mis habilidades en React.",
+      "technologies": ["React"],
+      "url": ""
+    },
+    {
+      "name": "Modelo CV",
+      "description": "Reforzo mis habilidades en HTML, CSS, BOOSTRAP, Responsive.",
+      "technologies": ["HTML", "CSS", "Bootstrap"],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Nivel I - Lectura Comprensiva de textos"
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "role": "Vocal",
+      "organization": "Centro de Estudiantes de Computación de la Universidad Nacional del Sur",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "responsibilities": []
+    },
+    {
+      "role": "Voluntariado Cumpleaños Comunitario",
+      "organization": "ONG 'Corazones Solidarios'",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "responsibilities": []
+    },
+    {
+      "role": "Vocal",
+      "organization": "Biblioteca Popular Juan Bautista Alberdi 'Saavedra'",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "responsibilities": []
+    },
+    {
+      "role": "Vocal",
+      "organization": "Centro de estudiantes de Educación Secundaria de Saavedra",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "responsibilities": []
+    }
+  ],
+  "publications": [],
+  "references": []
+}

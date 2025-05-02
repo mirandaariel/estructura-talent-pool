@@ -1,0 +1,123 @@
+{
+    "personal_info": {
+        "first_name": "Mauricio",
+        "last_name": "Quiroga",
+        "email": "mauricioquirogadev@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Mendoza",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/mauricio-quiroga333",
+        "website": "https://mauricioquirogadev.com.ar",
+        "portfolio": "github.com/Mauricio333bit",
+        "summary": "Desarrollador con conocimientos en FrontEnd y experiencia en proyectos grupales, personales y del mercado. Soy una persona responsable, con iniciativa e inventiva. Tengo la capacidad de comprometerme plenamente cuando me propongo alcanzar un objetivo, encontrando siempre soluciones. Busco vincularme a una empresa donde pueda aplicar mis habilidades y aportar a su crecimiento."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "Underc0de",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideré un equipo en el desarrollo de una API que optimizó la gestión de partidos mensuales y redujo tiempos administrativos.",
+                "Implementamos integración con Mercado Pago, facilitando el control del pago de cada jugador.",
+                "Diseñamos con arquitectura MVC en Node.js y MySQL."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FullStack",
+            "company": "Syncro Systems",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Realicé múltiples sitios web y sistemas, liderando el desarrollo frontend con React, Tailwind y Bootstrap.",
+                "Implementé diseños responsive y optimicé el rendimiento de las aplicaciones.",
+                "Colaboré en el desarrollo de APIs REST en Node.js para la gestión eficiente de datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FrontEnd",
+            "company": "Ganapan",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Construí interfaces para la parte mobile de la aplicación de mozos.",
+                "Optimicé la gestión de comandas mediante vistas intuitivas.",
+                "Utilicé React, Tailwind, Redux Toolkit y Axios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tec. Superior en Desarrollo de Software",
+            "institution": "IES 9-024",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Electromecánica (Incompleta)",
+            "institution": "UTN",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "java",
+                "html",
+                "css",
+                "react",
+                "tailwind",
+                "bootstrap",
+                "spring-boot",
+                "node.js",
+                "mysql",
+                "sql-server"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,129 @@
+{
+  "personal_info": {
+    "first_name": "Crisol",
+    "last_name": "Cova",
+    "email": "crisolvalentina@gmail.com",
+    "phone": "",
+    "location": {
+      "country": "",
+      "city": "",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/crisol-cova-792b80131/",
+    "website": "",
+    "portfolio": "https://github.com/crisolita",
+    "summary": "Blockchain and backend developer with experience in designing and implementing smart contracts and blockchain bridges, ensuring security and efficiency. Proficient in Solidity, JavaScript, TypeScript, and AWS, with strong project management skills in Scrum and agile methodologies."
+  },
+  "work_experience": [
+    {
+      "job_title": "Lead Backend and Blockchain Developer",
+      "company": "BlockImpulse",
+      "location": "Remote",
+      "start_date": "2022-07-01",
+      "end_date": "2024-05-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Design and development of the custom smart contract for the RegistrodeBases.tech platform, allowing registration of documents in IPFS with anchoring in a public blockchain.",
+        "Implementation of a bridge between the Ethereum network and the Polygon network for safe transfer of digital assets for BlueHill.",
+        "Developed the backend for 4Races.com for managing sports events, implementing user registration, event management, and results tracking.",
+        "Performed extensive tests on smart contracts using Mocha and Chai test libraries."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Blockchain Developer",
+      "company": "Eyss",
+      "location": "Caracas",
+      "start_date": "2021-11-01",
+      "end_date": "2022-07-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Designed, implemented, and deployed a custom smart contract on Solidity for BITBCN Company.",
+        "The ERC-20 token sale smart contract enabled BITBCN Company to raise over $300k."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Project Manager",
+      "company": "Bp Development",
+      "location": "Caracas",
+      "start_date": "2021-03-01",
+      "end_date": "2022-11-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Coordinated projects in various development and design areas, organizing daily and sprint meetings using Scrum methodologies."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Chemical Engineer",
+      "institution": "Universidad Central de Venezuela",
+      "location": "Caracas",
+      "start_date": "2015-11-01",
+      "end_date": "2023-04-30",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "solidity",
+        "javaScript",
+        "typescript",
+        "node.js",
+        "express",
+        "ethers.js",
+        "web3.js",
+        "hardhat",
+        "truffle",
+        "git",
+        "aws"
+      ],
+      "soft": [
+        "project-management",
+        "scrum"
+      ],
+      "tools": [
+        "jira",
+        "trello",
+        "kanban",
+        "miro",
+        "mocha",
+        "chai"
+      ]
+    },
+    "detailed": {
+      "technical": {
+        "solidity": [],
+        "javaScript": [],
+        "typescript": [],
+        "node.js": [],
+        "express": []
+      },
+      "soft": {
+        "project-management": [],
+        "scrum": []
+      }
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Upper intermediate"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

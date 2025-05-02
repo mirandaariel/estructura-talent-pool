@@ -1,0 +1,133 @@
+{
+    "personal_info": {
+        "first_name": "Carlos",
+        "last_name": "Gowing",
+        "email": "gowing.carlos@gmail.com",
+        "phone": "+34 672103088",
+        "location": {
+            "country": "Spain",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/carlos-gowing/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Highly skilled software developer with experience in multiple programming languages and frameworks. Strong background in cybersecurity, specializing in SIEM solutions, threat detection, and log analysis using tools like Elasticsearch, Kibana, and Suricata."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Ayuntamiento de Gines",
+            "location": "Gines, Spain",
+            "start_date": "2024-02-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed Alquipistas, a sports field rental system with two web applications.",
+                "Built two Android apps using Java and Retrofit for admin and user functionalities.",
+                "Implemented secure login and CRUD functionalities with Node.js, Express, and MySQL.",
+                "Contributed to backend development with PHP and enhanced frontend UI/UX."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Degree in Multiplatform Application Development (DAM)",
+            "institution": "IES El Majuelo",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Specialization Course in Cybersecurity in IT Environments (Acceso GS)",
+            "institution": "IES Alixar",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachelor's in Computer Engineering - Information Systems",
+            "institution": "Universidad Pablo de Olavide (UPO)",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "node.js",
+                "express",
+                "java",
+                "spring",
+                "c#",
+                ".net",
+                "python",
+                "django",
+                "php",
+                "typescript",
+                "react",
+                "angular",
+                "html",
+                "css",
+                "mysql",
+                "postgresql",
+                "mongodb",
+                "redis",
+                "elasticsearch",
+                "aws",
+                "docker",
+                "kubernetes",
+                "ci/cd",
+                "terraform",
+                "azure",
+                "gcp",
+                "nmap",
+                "metasploit",
+                "burp-suite",
+                "wireshark",
+                "suricata",
+                "splunk",
+                "git",
+                "github",
+                "gitlab"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Alquipistas",
+            "description": "Developed a web and mobile application for booking sports fields with real-time availability and payment processing.",
+            "technologies": ["javascript", "java", "android"],
+            "url": ""
+        },
+        {
+            "name": "Alb8m2",
+            "description": "Created a desktop music player with a custom audio engine and dynamic search features for enhanced user experience.",
+            "technologies": ["c#", "avalonia"],
+            "url": ""
+        },
+        {
+            "name": "Followers Bot",
+            "description": "Built an automation bot to manage Instagram followers, reducing manual work by 80%.",
+            "technologies": ["python", "selenium"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

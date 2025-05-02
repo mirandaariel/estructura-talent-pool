@@ -1,0 +1,149 @@
+{
+    "personal_info": {
+        "first_name": "Adriel",
+        "last_name": "Perez",
+        "email": "adrielperez227@gmail.com",
+        "phone": "2612792694",
+        "location": {
+            "country": "Argentina",
+            "city": "Mendoza",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/adriel-perez-ab3266268/",
+        "website": "https://github.com/adrielperez33",
+        "portfolio": "",
+        "summary": "Programador Full Stack con especialización en backend, con experiencia en desarrollo de aplicaciones escalables y eficientes. Destacado en TypeScript, Node.js y bases de datos relacionales como MySQL y PostgreSQL. Con conocimientos en React, JavaScript, CSS y HTML. Implementación de pruebas automatizadas con Jest, optimización de APIs y consultas para mejorar la eficiencia del software. Enfoque en resolución de problemas y trabajo en equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Cajero / Repositor / Fiambrero",
+            "company": "Granja Benedetti",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Atendí clientes y gestioné ventas, garantizando eficiencia en caja.",
+                "Organicé productos y aseguré control de stock.",
+                "Coordiné con proveedores y gestioné trámites administrativos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Vendedor / Atención al Cliente",
+            "company": "Barijho Beer Garden",
+            "location": "",
+            "start_date": "2023-05-01",
+            "end_date": "2024-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Asesoré clientes y optimicé la experiencia de compra.",
+                "Gestioné pagos y cobros en distintos medios.",
+                "Promoví un ambiente colaborativo y dinámico de trabajo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Programación Full Stack",
+            "institution": "Egg Education",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Educación Secundaria",
+            "institution": "Escuela de Comercio Martín Zapata",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "javascript",
+                "html",
+                "css",
+                "java",
+                "react",
+                "node.js",
+                "jest",
+                "postgresql",
+                "mysql"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "slack",
+                "discord",
+                "zoom",
+                "chatgpt",
+                "swagger"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "TecnoPanda",
+            "description": "Desarrollé un eCommerce con autenticación JWT, manejo de errores y CRUD para productos, usuarios y órdenes.",
+            "technologies": [
+                "TypeScript",
+                "JavaScript",
+                "PostgreSQL"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Fit Manager",
+            "description": "Desarrollamos una aplicación con implementación de pagos, persistencia de usuario y roles diferenciados.",
+            "technologies": [
+                "TypeScript",
+                "Node.js",
+                "PostgreSQL"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Voluntario en actividades comunitarias",
+            "organization": "Iglesia Monte de Sion",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "responsibilities": [
+                "Organicé actividades recreativas para jóvenes y personas vulnerables.",
+                "Distribuí alimentos y recursos para personas sin hogar.",
+                "Fomenté integración y compañerismo en eventos solidarios."
+            ]
+        }
+    ],
+    "publications": [],
+    "references": []
+}

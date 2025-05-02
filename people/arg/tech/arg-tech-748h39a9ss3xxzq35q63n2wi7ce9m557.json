@@ -1,0 +1,111 @@
+{
+    "personal_info": {
+        "first_name": "Enzo",
+        "last_name": "Scognetti",
+        "email": "tifloleo@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Ituzaingó",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador web y móvil con un enfoque innovador y proactivo, especializado en React, React Native, Firefox, PHP, HTML y CSS. Experiencia en el desarrollo de aplicaciones web full-stack y móviles, optimizando rendimiento, diseño y experiencia de usuario. Capacidad para gestionar proyectos de principio a fin, con conocimientos en APIs REST, Firestore, Docker y control de versiones con Git. Dominio en la creación de interfaces dinámicas y responsivas con HTML, CSS y React, asegurando un diseño moderno y accesible."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full-Stack",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de una tienda online con carrito de compras, gestión de productos y usuarios.",
+                "Implementación de CRUD de productos con PHP y MySQL. Seguridad con sesiones y autenticación de usuarios en PHP.",
+                "Gestión de roles: diferenciación entre clientes, administradores y vendedores.",
+                "Diseño responsivo y optimizado para UX/UI.",
+                "Aplicación móvil que permite encontrar profesionales en un mapa, con chat en tiempo real.",
+                "Integración con Firestore para almacenamiento de datos y Google Maps API para geolocalización.",
+                "Implementación de navegación con React Navigation (Stack, Tab, Drawer)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista en Sistemas",
+            "institution": "Instituto Privado San Judas Tadeo",
+            "location": "Ituzaingó, Buenos Aires",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "react-native",
+                "firefox",
+                "php",
+                "html",
+                "css",
+                "mysql",
+                "api-rest",
+                "git",
+                "github",
+                "firestore"
+            ],
+            "soft": [],
+            "tools": [
+                "docker",
+                "jira",
+                "postman",
+                "google-maps-api"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Tienda Online eCommerce",
+            "description": "Desarrollo de una tienda online con carrito de compras, gestión de productos y usuarios.",
+            "technologies": [
+                "php",
+                "mysql",
+                "html",
+                "css",
+                "javascript"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Aplicación de geolocalización de profesionales",
+            "description": "Aplicación móvil que permite encontrar profesionales en un mapa, con chat en tiempo real.",
+            "technologies": [
+                "react-native",
+                "firestore",
+                "google-maps-api"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Chat en tiempo real con Firebase",
+            "description": "Desarrollo de un chat en tiempo real con React Native y Firestore.",
+            "technologies": [
+                "react-native",
+                "firestore"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

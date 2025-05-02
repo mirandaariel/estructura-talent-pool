@@ -1,0 +1,105 @@
+{
+    "personal_info": {
+        "first_name": "Hernán",
+        "last_name": "Mayol",
+        "email": "jhernanmt@gmail.com",
+        "phone": "3794080124",
+        "location": {
+            "country": "Argentina",
+            "city": "Corrientes",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/hernan-mayol/",
+        "website": "https://github.com/hernimayol/",
+        "portfolio": "",
+        "summary": "Backend Developer especializado en Python/Django, SQL (MySQL y SQLITE) realizando proyectos autónomos de programación. Poseo habilidades sólidas en el manejo de Bases de Datos relacionales. Busco aplicar mis habilidades analíticas y de resolución de problemas en un rol que me permita generar valor y tomar decisiones basadas en datos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista de Datos",
+            "company": "Farmacentro",
+            "location": "Corrientes, Capital, Argentina",
+            "start_date": "2024-07-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé e implementé una aplicación de checklist utilizando MySQL, Excel, Google Sheets y GlideNoCode para la gestión de envíos. Esta solución digitalizó el registro de bultos y mejoró la trazabilidad en la entrega, reduciendo errores en un 15%.",
+                "Optimicé la asignación de bultos, mejorando la eficiencia operativa en un 10% y asegurando la privacidad de los envíos para todos los empleados."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Sistemas de la Información",
+            "institution": "UNNE",
+            "location": "",
+            "start_date": "2022-02-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Data Analytics",
+            "institution": "Folcademy",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "2024-07-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "sql",
+                "sqlite",
+                "mysql",
+                "postgressql",
+                "django",
+                "django-rest",
+                "html",
+                "css",
+                "javascript",
+                "git",
+                "github",
+                "windows-terminal",
+                "pycharm",
+                "visualstudiocode",
+                "jupyter-notebook"
+            ],
+            "soft": [
+                "storytelling",
+                "comunicación",
+                "trabajo-en-equipo",
+                "gestión-del-tiempo",
+                "metodologías-scrum",
+                "proactividad",
+                "liderazgo",
+                "aprendizaje-constante",
+                "creativo",
+                "resolución-de-problemas"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

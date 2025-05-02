@@ -1,0 +1,118 @@
+{
+    "personal_info": {
+        "first_name": "Fernando",
+        "last_name": "Galdames Vilches",
+        "email": "galdamesvilchesf@gmail.com",
+        "phone": "+569 89225022",
+        "location": {
+            "country": "Chile",
+            "city": "Santiago",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador de software con experiencia en el desarrollo de aplicaciones web utilizando JavaScript, React, Node.js y Python. Apasionado por la optimización del rendimiento y la resolución de problemas complejos."
+    },
+    "work_experience": [
+        {
+            "job_title": "N/A",
+            "company": "Mercado Libre",
+            "location": "Santiago, Chile",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Experiencia en el área de bodega y control de gestión y control de calidad de los productos (batch sorter)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Chef Ejecutivo",
+            "company": "Komakai Sushi",
+            "location": "Santiago, Chile",
+            "start_date": "2020-01-01",
+            "end_date": "2020-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Dueño y chef de un restaurante especializado en sushi nikkei, manteniendo altos estándares de calidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Developer",
+            "institution": "4Geeks Academy",
+            "location": "",
+            "start_date": "2024-12-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5/css3",
+                "bootstrap",
+                "javascript-ecmascript-2020",
+                "axios",
+                "dom",
+                "git/github",
+                "python",
+                "flask",
+                "node.js",
+                "apis",
+                "react.js",
+                "flux",
+                "scrum",
+                "sql",
+                "sqlalchemy",
+                "mysql",
+                "postgres"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Cafeteria Tierra y Grano",
+            "description": "Desarrollando una página web con sistema de autenticación, carrito de compras y integración con PayPal.",
+            "technologies": ["html", "css", "bootstrap", "javascript", "react", "axios", "python", "jwt", "mysql"],
+            "url": ""
+        },
+        {
+            "name": "Patitas Unidas",
+            "description": "Plataforma web para la localización de perros perdidos, con autenticación JWT y geolocalización.",
+            "technologies": ["react-vite", "python", "mysql", "bootstrap"],
+            "url": ""
+        },
+        {
+            "name": "Sistema de autenticación",
+            "description": "Sistema de autenticación web completo utilizando React Vite y Flask, con JWT y MySQL.",
+            "technologies": ["react-vite", "flask", "jwt", "mysql"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "A1"
+        },
+        {
+            "language": "Portugués",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

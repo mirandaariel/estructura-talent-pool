@@ -1,0 +1,123 @@
+{
+    "personal_info": {
+        "first_name": "Ignacio",
+        "last_name": "Gutierrez",
+        "email": "Ignacioguttierrez14@gmail.com",
+        "phone": "(0351) 155141087",
+        "location": {
+            "country": "Argentina",
+            "city": "Juarez Celman",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Me considero una persona capaz de involucrarse al 100% en todo lo que realizo. Soy perfeccionista e inconformista. Pongo toda la energía que me aporta trabajar de aquello que tanto me entusiasma. Me desenvuelvo muy bien y me agrada el trabajo en equipo. Mi meta es convertirme en un futuro profesional, con habilidades aportadas por mi carrera además de una experiencia práctica que pueda llegar a obtener. Por eso me encuentro siempre, en búsqueda de cursos relacionados con mi carrera que me enriquezcan y ayuden a prosperar mi vida profesional."
+    },
+    "work_experience": [
+        {
+            "job_title": "Soporte IT",
+            "company": "Clinica Reina Fabiola",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Amplio conocimiento en tareas de soporte IT, desarrollo y gestión de proyectos.",
+                "Administración y mantenimiento de servidores físicos y virtuales.",
+                "Controladores de dominio.",
+                "Configuraciones de equipos.",
+                "Manejo de router Mikrotik, Telefonía IP y Gateway.",
+                "Instalación y mantenimiento de Cámaras IP, backups y APs."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Especialista en Ciberseguridad",
+            "company": "Poder Judicial de Cordoba",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Manejo de Controladores de Dominio.",
+                "Instalación de parches de seguridad.",
+                "Procesos de automatización con Powershell.",
+                "Monitoreo de estado de los distintos servidores con Wazuh.",
+                "Utilización de Hyper-V para la administración de servidores virtuales y físicos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Especialista en Microsoft",
+            "company": "PROCOM",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Utilización de VMware para administración y monitoreo de servidores físicos y virtuales.",
+                "Realización de backups.",
+                "Tareas de migración.",
+                "Comunicación con el usuario final para la resolución de problemas.",
+                "Mantenimiento de VMs y PMs."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachillerato en Cs. Sociales y Humanidades",
+            "institution": "Colegio Hortus Conclusus",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Cloud Management - AWS",
+            "institution": "Universidad Católica de Córdoba",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo Front End + React.js",
+            "institution": "CoderHouse",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "linux",
+                "slq",
+                "powershell"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Basic - Oral: Basic, Written: Basic"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

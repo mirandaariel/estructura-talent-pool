@@ -1,0 +1,215 @@
+
+{
+    "personal_info": {
+        "first_name": "Arlel",
+        "last_name": "Belmonte",
+        "email": "conceptoarmat@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "La Plata",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/ariel-belmonte/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un profesional enfocado en el establecimiento de metas y objetivos que contribuyen tanto a mi crecimiento personal como al progreso colectivo. Mi enfoque se centra en la aplicación de conocimientos especializados para fomentar un trabajo coordinado y eficaz, siempre con miras a la evolución profesional. Me motiva la posibilidad de integrarme en un entorno laboral que me impulse hacia el descubrimiento de nuevas áreas de conocimiento y aprendizaje, optimizando así mi desempeño profesional. Apasionado por la tecnología, programación, electrónica y electricidad, me caracterizo por ser un autodidacta comprometido con la mejora continua y la adquisición de nuevas competencias. Poseo un perfil técnico destacado, complementado por una curiosidad constante que me impulsa a explorar y entender las últimas tendencias en mi campo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Especialista en Integración Tecnológica",
+            "company": "CTIBOR",
+            "location": "La Plata, Argentina",
+            "start_date": "2021-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Programación de sistemas automatizados y optimización de procesos industriales.",
+                "Integración de soluciones de Inteligencia Artificial para el análisis predictivo y mejora en la toma de decisiones.",
+                "Implementación de sistemas SCADA/HMI para el monitoreo en tiempo real, optimizando la supervisión de procesos críticos.",
+                "Asesoramiento técnico y detección de oportunidades de mejora en procesos industriales mediante técnicas avanzadas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnico en Automatización y Control Industrial",
+            "company": "INCOEL S.A.",
+            "location": "La Plata, Argentina",
+            "start_date": "2017-02-01",
+            "end_date": "2022-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Programación y ajuste de velocidad de motores industriales para optimizar la producción.",
+                "Desarrollo de paneles eléctricos y automatización de procesos, asegurando la correcta integración de tecnologías industriales.",
+                "Participación en proyectos con clientes de la industria, garantizando altos estándares de eficiencia y servicio."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Programador Freelancer",
+            "location": "La Plata, Argentina",
+            "start_date": "2016-06-01",
+            "end_date": "2018-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicaciones personalizadas en Python, Java y SQL para la automatización de procesos.",
+                "Creación de soluciones inteligentes aplicando principios de IA para la optimización en la industria.",
+                "Diseño y fabricación de prototipos en 3D, reduciendo costos y tiempos de producción."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "institution": "Ingeniería en Sistemas",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "Profesorado en Electromecánica",
+            "location": "",
+            "start_date": "2014-03-01",
+            "end_date": "2017-06-01",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Electrónico",
+            "institution": "",
+            "location": "",
+            "start_date": "2004-01-01",
+            "end_date": "2007-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Programador de Máquinas CNC",
+            "institution": "",
+            "location": "",
+            "start_date": "2008-01-01",
+            "end_date": "2009-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "automatización-industrial",
+                "python",
+                "java",
+                "bases-de-datos",
+                "inteligencia-artificial",
+                "diseño-y-fabricación-3d"
+            ],
+            "soft": [
+                "adaptable",
+                "responsable",
+                "autodidacta",
+                "orientación-a-resultados-y-eficiencia-operativa",
+                "formación-continua",
+                "creativo",
+                "proyectos-multidisciplinarios"
+            ],
+            "tools": [
+                "metodologías-á?iles",
+                "grafana",
+                "plcs",
+                "scada"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Python TOTAL - Programador Avanzado",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Aprendizaje Automático para Arduino, ESP32 y ESP8266",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Raspberry Pi 4 Model B con Python, IoT y Domótica",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Metodologías Ágiles",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Plataformas de Visualización",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Automatización Industrial",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Aplicación de Monitoreo Industrial",
+            "description": "Aplicación Android para monitoreo de procesos industriales y gestión de personal.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Visualización y gestión de Secadero Industrial",
+            "description": "Diseño e implementación de sistema de supervisión y control en tiempo real para la industria, facilitando la toma de decisiones mediante datos visuales.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Infraestructura Empresarial con Servidores Virtualizados y Almacenamiento en Red",
+            "description": "Diseño e implementación de una infraestructura empresarial utilizando tecnologías de virtualización y almacenamiento.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": ""
+        },
+        {
+            "language": "Aleman",
+            "proficiency": ""
+        },
+        {
+            "language": "Italiano",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,198 @@
+{
+    "personal_info": {
+        "first_name": "Rodrigo",
+        "last_name": "González Rivera",
+        "email": "rodrigo.gonzaleztr@outlook.com",
+        "phone": "+56954714095",
+        "location": {
+            "country": "Chile",
+            "city": "Santiago",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/rodrigo-gonzalezr/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Analista programador fullstack con experiencia en desarrollo web y aplicaciones empresariales. Especializado en tecnologías como React, Node.js, Java y Spring Boot."
+    },
+    "work_experience": [
+        {
+            "job_title": "Soporte",
+            "company": "Pinflag (Startup)",
+            "location": "Remoto",
+            "start_date": "2024-05-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Soporte técnico especializado en desarrollos Shopify para empresas como Lippi, Vicsa y Vielco.",
+                "Resolución de tickets e implementación de mejoras.",
+                "Migraciones de CMS (VTEX/Shopify) y mejora de rendimiento en tiendas en línea."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ingeniero de Proyectos",
+            "company": "Latinshare",
+            "location": "Remoto",
+            "start_date": "2021-04-01",
+            "end_date": "2021-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicaciones con Microsoft Power Platform.",
+                "Implementación de soluciones en Power Apps, Power Automate y SharePoint."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Práctica Profesional",
+            "company": "Latinshare",
+            "location": "Remoto",
+            "start_date": "2021-01-01",
+            "end_date": "2021-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de soluciones para Recursos Humanos usando Power Apps y Dataverse."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bootcamp Fullstack Java",
+            "institution": "Generation",
+            "location": "",
+            "start_date": "2023-12-01",
+            "end_date": "2024-03-31",
+            "hours": 472
+        },
+        {
+            "degree": "Bootcamp Fullstack JavaScript",
+            "institution": "Desafío Latam",
+            "location": "",
+            "start_date": "2022-07-01",
+            "end_date": "2023-08-31",
+            "hours": 370
+        },
+        {
+            "degree": "Analista Programador Computacional",
+            "institution": "Duoc UC",
+            "location": "",
+            "start_date": "2016-03-01",
+            "end_date": "2021-04-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "node.js",
+                "express",
+                "postgresql",
+                "java",
+                "spring-boot",
+                "mysql",
+                "teams",
+                "power-apps",
+                "power-automate"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "resolución-de-problemas",
+                "autodidacta",
+                "aprendizaje-rápido",
+                "orientación-al-detalle",
+                "habilidades-interpersonales",
+                "adaptabilidad"
+            ],
+            "tools": [
+                "excel",
+                "word",
+                "powerpoint",
+                "monday",
+                "jira",
+                "trello"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Diploma Fullstack JavaScript - Desafío Latam",
+            "issuing_organization": "Desafío Latam",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": "",
+            "url": "https://drive.google.com/file/d/1LYaPGcyjHnUJmt9B3rgxBhiNkFsc9_t8/view?usp=drive_link"
+        },
+        {
+            "name": "Diploma Fullstack Java - Generation",
+            "issuing_organization": "Generation",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": "",
+            "url": "https://drive.google.com/file/d/1XFrn7LyoJKkxHkNqp9R55IEV1o6G7_X-/view?usp=drive_link"
+        },
+        {
+            "name": "Título Analista Programador Computacional - Duoc UC",
+            "issuing_organization": "Duoc UC",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": "",
+            "url": "https://drive.google.com/file/d/1R3pXYlgUoctMzYBKy3MFHzUaQftVjge6/view?usp=drive_link"
+        },
+        {
+            "name": "Certificación EF SET - B2 Upper Intermediate",
+            "issuing_organization": "EF SET",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "",
+            "url": "https://drive.google.com/file/d/1Jj57X5Ys4m1CIve_I2ixxU3shonwgcHz/view?usp=drive_link"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Portal de venta de materiales reutilizables",
+            "description": "Desarrollo de un portal para anuncios de venta de materiales de construcción reutilizables.",
+            "technologies": [
+                "Java",
+                "Spring Boot",
+                "PostgreSQL",
+                "React"
+            ],
+            "url": "https://github.com/residuos-nomas-generation"
+        },
+        {
+            "name": "E-commerce de libros (Mundo Libros)",
+            "description": "Desarrollo de un e-commerce con autenticación JWT, carrito de compras y middleware de seguridad.",
+            "technologies": [
+                "Node.js",
+                "Express",
+                "PostgreSQL",
+                "React"
+            ],
+            "url": "https://github.com/proyecto-desafio-latam"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

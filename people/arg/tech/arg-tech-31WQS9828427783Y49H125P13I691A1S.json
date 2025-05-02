@@ -1,0 +1,107 @@
+{
+    "personal_info": {
+        "first_name": "Geronimo",
+        "last_name": "Venzi",
+        "email": "gerovenzi@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/geronimo-venzi-a6367321b/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Passionate and results-driven Full Stack Developer with strong problem-solving skills and a keen focus on creating efficient and scalable solutions. I thrive in dynamic environments, adapting quickly to new challenges while maintaining a user-centric approach. With excellent interpersonal skills and conflict resolution abilities, I foster smooth collaboration across teams to drive impactful results. Committed to continuous learning and innovation, always seeking to improve processes and deliver high-quality software solutions."
+    },
+    "work_experience": [
+        {
+            "job_title": "FullStack Developer",
+            "company": "Provincial Directorate of Information and Communications",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed and optimized web applications using Vue.js, React, and TypeScript, enhancing system performance and user experience.",
+                "Implemented containerized environments with Docker, improving deployment efficiency and system scalability.",
+                "Optimized database performance with MySQL and PostgreSQL, ensuring data integrity and reducing query response times.",
+                "Provided technical support and maintenance, achieving higher system reliability and user satisfaction.",
+                "Followed agile development methodologies, streamlining project execution and improving team collaboration."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Freelance FullStack Developer",
+            "company": "AUTODATEE",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Conducted requirement analysis in collaboration with clients, ensuring alignment between business needs and technical solutions.",
+                "Developed and deployed full-stack web applications, leveraging modern technologies to enhance functionality and performance.",
+                "Implemented and executed testing strategies, ensuring software reliability and high-quality standards.",
+                "Diagnosed and resolved technical incidents, improving system stability and user experience."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Frontend Developer",
+            "institution": "CODERHOUSE",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "University Programmer Analyst",
+            "institution": "National University of La Plata",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "tailwind-css",
+                "javascript",
+                "node-js",
+                "css",
+                "bootstrap",
+                "react",
+                "docker",
+                "sass",
+                "git",
+                "next",
+                "postgresql",
+                "vue",
+                "mysql"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

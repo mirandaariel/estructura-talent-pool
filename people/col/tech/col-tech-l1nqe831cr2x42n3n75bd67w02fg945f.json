@@ -1,0 +1,150 @@
+{
+  "personal_info": {
+    "first_name": "David",
+    "last_name": "Sosa Saavedra",
+    "email": "d.sosa3161@gmail.com",
+    "phone": "+57 302 461 5629",
+    "location": {
+      "country": "Colombia",
+      "city": "Bogotá",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/david-sosa-8a26b4217",
+    "website": "",
+    "portfolio": "https://portafolio-sosa.vercel.app/",
+    "summary": "Soy un ingeniero mecatrónico apasionado por la programación y con sólidos conocimientos en el manejo de bases de datos y el desarrollo de dashboards. Mi experiencia abarca tanto aspectos técnicos como la gestión de proyectos, permitiéndome ofrecer soluciones integrales y eficientes. Me considero una persona innovadora con un pensamiento analítico, siempre en búsqueda de mejorar procesos y optimizar recursos. Mis habilidades técnicas en electrónica, mecánica, automatización y mi capacidad para liderar proyectos me permiten adaptarme y sobresalir en entornos dinámicos y desafiantes."
+  },
+  "work_experience": [
+    {
+      "job_title": "Gerente y Representante Legal",
+      "company": "Lukas Soluciones Integrales",
+      "location": "",
+      "start_date": "2022-01-01",
+      "end_date": "2025-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Parametrización y mantenimiento del sistema contable World Office para una unidad de negocio de soluciones tecnológicas con enfoque en ventas institucionales.",
+        "Asesoría comercial institucional en servicios de alquiler y venta de soluciones tecnológicas.",
+        "Apoyo en el análisis y gestión de inventario de producto.",
+        "Servicio de mantenimiento técnico en dispositivos de cómputo e impresión."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador y Product Owner",
+      "company": "Seguros Bolívar",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollo de dashboards para el equipo de Gerencia de Portafolio Digital, sobre información de Proveedores de la empresa.",
+        "Aplicativo en Visual Basic para limpieza de tablas de bases de datos en Excel.",
+        "Desarrollo en Apps Script para procesamiento de información de bases de datos en sheets.",
+        "Actualización de diseño de correo GMAIL para documentación de proveedores en Apps Script en lenguaje HTML.",
+        "Planeación y seguimiento de los proyectos del área de Innovación y Desarrollo, utilizando el software Jira para la creación de cronogramas con las respectivas historias de usuario y gestionando su debido cumplimiento."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ingeniería Mecatrónica",
+      "institution": "Universidad Militar Nueva Granada",
+      "location": "",
+      "start_date": "2019-01-01",
+      "end_date": "2024-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Curso de Habilidades en Programación",
+      "institution": "MINTIC",
+      "location": "",
+      "start_date": "2021-01-01",
+      "end_date": "2021-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Curso Desarrollo de Aplicaciones Móviles",
+      "institution": "MINTIC",
+      "location": "",
+      "start_date": "2021-01-01",
+      "end_date": "2021-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "bases-de-datos",
+        "desarrollo-de-dashboards",
+        "visual-basic",
+        "apps-script",
+        "html"
+      ],
+      "soft": [
+        "orientado-al-detalle",
+        "resolución-de-problemas",
+        "trabajo-en-equipo",
+        "habilidades-organizativas",
+        "comunicación-persa Usiva",
+        "gestión-de-proyectos"
+      ],
+      "tools": [
+        "jira"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Intermediate"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": [
+    {
+      "name": "Carlos Patiño",
+      "relationship": "Product Owner Master",
+      "contact": "carlos.patino@segurosbolivar.com"
+    },
+    {
+      "name": "Natalia Hernandez",
+      "relationship": "Product Owner Senior",
+      "contact": "natalia.hernandez@segurosbolivar.com"
+    },
+    {
+      "name": "Wilder Samuel Taborda Cerón",
+      "relationship": "Ingeniero de Software Senior",
+      "contact": "wstceron@gmail.com"
+    },
+    {
+      "name": "German Vasquez",
+      "relationship": "Jefe de Compras IT",
+      "contact": "gvasquez@activos.com.co"
+    },
+    {
+      "name": "Paula Sosa Castañeda",
+      "relationship": "Fiscal Delegado Ante Jueces Penales de Circuito",
+      "contact": "pasc87@hotmail.com"
+    },
+    {
+      "name": "Edwin Sánchez Acevedo",
+      "relationship": "Fiscal Delegado Ante Jueces Municipales",
+      "contact": "edwsan17@hotmail.com"
+    }
+  ]
+}

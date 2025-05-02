@@ -1,0 +1,223 @@
+{
+    "personal_info": {
+        "first_name": "Miguel Angel",
+        "last_name": "Flores",
+        "email": "miguelhangelh@gmail.com",
+        "phone": "+591 75604267",
+        "location": {
+            "country": "Bolivia",
+            "city": "Santa Cruz de la Sierra",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Tech Lead innovador con 7+ años de experiencia en desarrollo móvil y web, especializado en arquitecturas escalables con Flutter, NestJS y AWS. Historial comprobado liderando equipos multidisciplinarios para entregar soluciones de alto impacto que han reducido tiempos de implementación en un 30% y mejorado la precisión de seguimiento de conductores en un 80%. Experto en IoT, automatización y desarrollo cloud-native con enfoque en transformación digital y excelencia operativa."
+    },
+    "work_experience": [
+        {
+            "job_title": "Tech Lead | Full Stack",
+            "company": "Mobi Latam",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Lideré un equipo de 8 desarrolladores y especialistas QA, implementando metodologías ágiles que aumentaron la eficiencia del equipo en un 20%.",
+                "Implementé pipelines de CI/CD con AWS Amplify y Elastic Beanstalk, reduciendo los tiempos de despliegue en un 30%.",
+                "Diseñé e implementé arquitecturas en AWS utilizando Route 53, CloudFront, SNS, Docker, Kubernetes, Helm, ECS, ECR y EventBridge.",
+                "Desarrollé microservicios en NestJS con MongoDB.",
+                "Desarrollé una plataforma para el alquiler y compra de minutos para scooters eléctricos.",
+                "Supervisé el desarrollo de soluciones IoT para gestión de flotas eléctricas.",
+                "Desarrollé scripts en Python para configuración masiva de vehículos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "DeltaX",
+            "location": "",
+            "start_date": "2020-11-01",
+            "end_date": "2023-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una aplicación tipo Uber para logística de última milla.",
+                "Implementé arquitectura Clean Code en Flutter.",
+                "Alcancé un 80% de precisión en seguimiento de conductores.",
+                "Desarrollé un bot de WhatsApp para automatizar interacciones.",
+                "Diseñé una experiencia intuitiva para conductores."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Flutter Developer",
+            "company": "NOW MOBILE",
+            "location": "",
+            "start_date": "2022-09-01",
+            "end_date": "2023-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creé una aplicación móvil cross-platform utilizando Flutter + Meteor + Vue.js.",
+                "Implementé sistemas de gestión de pagos y suscripciones.",
+                "Reduje el consumo de datos móviles.",
+                "Desarrollé funcionalidades para seguimiento de huella de carbono.",
+                "Colaboré en iniciativas de retención de usuarios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA Lead | Junior DevOps | Web Developer",
+            "company": "OS BOLIVIA",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2018-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideré equipo QA con metodologías de pruebas de caja negra.",
+                "Implementé sistema de despliegue automatizado en Windows Server.",
+                "Creé aplicación web transaccional y de facturación con Laravel y MySQL."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "institution": "NUR University",
+            "location": "Santa Cruz de la Sierra, Bolivia",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "dart",
+                "javascript",
+                "typescript",
+                "java",
+                "c#",
+                "python",
+                "flutter",
+                "react.js",
+                "nestjs",
+                "angular",
+                "vue.js",
+                "svelte",
+                "mongodb",
+                "sql-server",
+                "mysql",
+                "firebase",
+                "aws",
+                "gcp",
+                "amplify",
+                "ec2",
+                "route-53",
+                "cloudfront",
+                "sns",
+                "docker",
+                "ecs",
+                "ecr",
+                "codepipeline",
+                "codebuild",
+                "codedeploy",
+                "eventbridge",
+                "waf-&-shield",
+                "vpc",
+                "ci/cd",
+                "pulumi-iac",
+                "tableau",
+                "looker-platform",
+                "power-bi"
+            ],
+            "soft": [
+                "technical-leadership",
+                "agile-methodologies",
+                "scrum",
+                "system-design",
+                "digital-transformation-strategies"
+            ],
+            "tools": [
+                "git",
+                "github-desktop",
+                "jira",
+                "notion",
+                "slack",
+                "figma",
+                "postman",
+                "gather",
+                "adobe-xd"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Mobi LAT Mobile App",
+            "description": "",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Mobi LAT Website",
+            "description": "",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "DeltaX App",
+            "description": "",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Now Mobile App",
+            "description": "",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Now Web",
+            "description": "",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Ueno Rides App",
+            "description": "",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Admin Dashboard Ueno Rides",
+            "description": "",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Seres International Landing Page",
+            "description": "",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Odoo",
+            "description": "",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

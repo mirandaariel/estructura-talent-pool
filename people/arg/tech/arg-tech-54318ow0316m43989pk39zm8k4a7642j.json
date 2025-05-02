@@ -1,0 +1,201 @@
+{
+    "personal_info": {
+        "first_name": "Valentina",
+        "last_name": "Colmenárez Castillo",
+        "email": "valentinacc@gmail.com",
+        "phone": "+54 91158346526",
+        "location": {
+            "country": "Argentina",
+            "city": "Capital Federal",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista QA",
+            "company": "CONICET",
+            "location": "Argentina",
+            "start_date": "2021-03-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación de sistema de aprendizaje para la predicción de la Fibrilación Auricular",
+                "Primera fase, herramienta de visualización, análisis y acondicionamiento de señales ECG con Python"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA/QC",
+            "company": "GCIT",
+            "location": "Venezuela",
+            "start_date": "2018-07-01",
+            "end_date": "2019-03-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Elaboración de planes de prueba, informes de fallas, estadísticas y reporte de resultados",
+                "Práctica con C# .NET"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "Gruntwork Inc.",
+            "location": "Venezuela",
+            "start_date": "2016-12-01",
+            "end_date": "2018-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Data Processing Specialist",
+                "Diseño y soporte de equipos, instalación, pruebas y mantenimiento de sistemas de software"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Especialista de Desarrollo III",
+            "company": "DIEBOLD OLTP Systems",
+            "location": "Venezuela",
+            "start_date": "2016-06-01",
+            "end_date": "2016-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de sistemas y automatización de programas",
+                "Preparación de documentación de programas y controles de cambio",
+                "Resolución de incidentes y fallas en tecnologías .NET y SQL Server Management Studio 2012"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Integration Professional",
+            "company": "Alcatel - Lucent",
+            "location": "Chile",
+            "start_date": "2013-11-01",
+            "end_date": "2015-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Integration Test Professional plataforma AOR proyecto ASTRO para Telefónica",
+                "Responsable de ejecución de planes de prueba, informes y reporte de resultados"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Asistente de Auditoría",
+            "company": "Consejo Nacional Electoral (CNE)",
+            "location": "Venezuela",
+            "start_date": "2013-04-01",
+            "end_date": "2013-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Diagnóstico de fallas y actas electorales",
+                "Carga de votos en el sistema automatizado"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Pasante",
+            "company": "Facultad de Ciencias de la Universidad Central de Venezuela",
+            "location": "",
+            "start_date": "2009-09-01",
+            "end_date": "2010-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Carga de expedientes de estudiantes de postgrado al Sistema de Gestión del Postgrado (SIGEPOST)",
+                "Diagnóstico de fallas y resolución de problemas de los módulos de SIGEPOST"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de Auditoría",
+            "company": "Contadores Públicos Samuel Colmenárez \u0026 Asociados",
+            "location": "Venezuela",
+            "start_date": "2005-07-01",
+            "end_date": "2006-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Elaboración de informes financieros de auditoría externa"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciada en Computación",
+            "institution": "Universidad Central de Venezuela",
+            "location": "",
+            "start_date": "2016-07-01",
+            "end_date": "2016-07-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "microsoft-office",
+                "open-office",
+                "html",
+                "mysql",
+                "sqlite3",
+                "db2",
+                "c",
+                "c++",
+                "qt-creator",
+                "java",
+                "prolog",
+                "python",
+                "django",
+                "matlab",
+                "haskell",
+                "flash",
+                "latex",
+                "visual-studio-code",
+                "sql-server-management-studio-2012",
+                "rhel-6.3-6.4",
+                "windows",
+                "unix"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Francés",
+            "proficiency": "Intermedio"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [
+        {
+            "title": "Reconocimiento de Patrones Arrítmicos en Registros de Electrocardiografía Dinámica (Holter 24 horas)",
+            "publisher": "Revista Venezolana de Computación",
+            "publication_date": "2017-06-01",
+            "url": ""
+        }
+    ],
+    "references": []
+}

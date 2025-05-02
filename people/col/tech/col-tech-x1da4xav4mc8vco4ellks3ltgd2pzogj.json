@@ -1,0 +1,110 @@
+{
+  "personal_info": {
+    "first_name": "Santiago",
+    "last_name": "Pulido",
+    "email": "santy.pulido28@gmail.com",
+    "phone": "3155974692",
+    "location": {
+      "country": "Colombia",
+      "city": "Medellín",
+      "state": "Antioquia"
+    },
+    "linkedin": "",
+    "website": "",
+    "portfolio": "",
+    "summary": ""
+  },
+  "work_experience": [
+    {
+      "job_title": "Desarrollador",
+      "company": "New World Company SAS (NEWO)",
+      "location": "",
+      "start_date": "2023-10-01",
+      "end_date": "2025-02-28",
+      "currently_working": false,
+      "responsibilities": [
+        "Líder de Desarrollo de Aplicación Móvil para Coworking.",
+        "Encargado del diseño, desarrollo y despliegue de una aplicación móvil utilizando Ionic, Angular, CSS (SASS), Neo4j, Python, GraphQL y Cypher.",
+        "Implementación de funcionalidades como registro de usuarios, QR para acceso, reservas de salas, gestión de suscripciones y pasarela de pagos.",
+        "Desarrollo de la API REST y GraphQL.",
+        "Supervisión integral de la solución técnica, asegurando alineación con los objetivos del negocio."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Front End Developer",
+      "company": "Team International SAS",
+      "location": "",
+      "start_date": "2020-01-01",
+      "end_date": "2023-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo de una plataforma de cotizaciones utilizando React y TypeScript.",
+        "Desarrollo de componentes funcionales pixel-perfect y colaboración activa con el equipo.",
+        "Uso de buenas prácticas de desarrollo y herramientas de control de versiones."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Técnico en desarrollo de software",
+      "institution": "San Camilo",
+      "location": "",
+      "start_date": "",
+      "end_date": "2024-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Bootcamp - Full Stack Developer",
+      "institution": "Academlo",
+      "location": "",
+      "start_date": "",
+      "end_date": "2021-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "angular",
+        "react",
+        "ionic",
+        "python",
+        "typescript",
+        "javascript",
+        "neo4j",
+        "graphql",
+        "fastapi",
+        "html",
+        "css",
+        "sass",
+        "git",
+        "github"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Ingles",
+      "proficiency": "B1"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

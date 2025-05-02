@@ -1,0 +1,193 @@
+{
+    "personal_info": {
+        "first_name": "Pablo Adrián",
+        "last_name": "Samudia",
+        "email": "yona9610@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Villa María",
+            "state": "Córdoba"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con más de 15 años de experiencia creando soluciones robustas y escalables para diversas industrias. Especializado en desarrollo backend y frontend, diseño de APIs, procesamiento de grandes volúmenes de datos, y arquitectura de sistemas. Experiencia liderando equipos técnicos y trabajando en proyectos complejos de alto impacto."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Tinkalawinka",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de 9 proyectos en distintos stacks: Drupal, Laravel, PHP nativo, React, Node, Ruby on Rails, WordPress.",
+                "Gestión directa de clientes, definición de objetivos y desarrollo.",
+                "Desarrollo y optimización de algoritmos geoespaciales para rutas de carpooling.",
+                "Backend as a Service (SaaS) utilizando Google Cloud Platform (GCP).",
+                "Optimización de procesos backend y lógica de negocio."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack & Líder Técnico",
+            "company": "Genosha (Agencia)",
+            "location": "",
+            "start_date": "2021-03-01",
+            "end_date": "2021-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Participación en el kickoff de proyectos complejos, definición de arquitectura técnica.",
+                "Liderazgo en optimización de procesos, desarrollo de soluciones eficientes y escalables."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Illuminati Lab + Prosumia",
+            "location": "",
+            "start_date": "2016-06-01",
+            "end_date": "2022-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de soluciones de captura y análisis de datos en tiempo real.",
+                "Implementación de arquitecturas de alto rendimiento y aplicaciones concurrentes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer (Framework CMS)",
+            "company": "Wehaa Design LLC",
+            "location": "",
+            "start_date": "2016-10-01",
+            "end_date": "2017-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de un framework MVC personalizado para CMS."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Consultor Externo / Líder Técnico",
+            "company": "Wodeva",
+            "location": "",
+            "start_date": "2021-11-01",
+            "end_date": "2022-04-30",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "PHP Developer",
+            "company": "Vousys",
+            "location": "",
+            "start_date": "2013-08-01",
+            "end_date": "2014-08-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Externo",
+            "company": "InfinixSoft",
+            "location": "",
+            "start_date": "2012-04-01",
+            "end_date": "2012-07-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollo de Aplicaciones Web",
+            "company": "Wehaa Design LLC",
+            "location": "",
+            "start_date": "2010-04-01",
+            "end_date": "2012-03-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Diseño y Maquetación Web",
+            "company": "Sorzana Software",
+            "location": "",
+            "start_date": "2007-03-01",
+            "end_date": "2010-04-30",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "php",
+                "laravel",
+                "symfony",
+                "javascript",
+                "node.js",
+                "react",
+                "vue.js",
+                "ruby-on-rails",
+                "mysql",
+                "postgresql",
+                "mongodb"
+            ],
+            "soft": [],
+            "tools": [
+                "google-cloud-platform",
+                "aws",
+                "docker",
+                "git",
+                "jira",
+                "trello",
+                "agile",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Seguros Sura",
+            "description": "Desarrollo de funcionalidades para 3 áreas, integración de APIs, procesamiento de CSV masivos.",
+            "technologies": [],
+            "url": "https://www.segurossura.com.ar/"
+        },
+        {
+            "name": "Algoritmo de matching",
+            "description": "Desarrolle un algoritmo utilizando sistema geoespacial para encontrar matches en una ruta dada, el algoritmo genera una geometría que envuelve la polilínea y utilizando métodos MBR optimizamos en un 200% la velocidad y precisión de búsqueda de puntos en el perímetro extendido de la ruta.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (Técnico)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

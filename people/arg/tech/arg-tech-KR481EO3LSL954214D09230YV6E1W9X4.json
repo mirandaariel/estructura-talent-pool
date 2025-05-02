@@ -1,0 +1,90 @@
+{
+    "personal_info": {
+        "first_name": "Farid Rodrigo",
+        "last_name": "Ruiz",
+        "email": "farid.ruiz2000@gmail.com",
+        "phone": "1162297738",
+        "location": {
+            "country": "Argentina",
+            "city": "Ciudad Autónoma de Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/farid-rodrigo-ruiz-36b629228/",
+        "website": "https://farid-rodrigo-ruiz-portfolio.netlifv.asp/",
+        "portfolio": "https://farid-rodrigo-ruiz-portfolio.netlifv.asp/",
+        "summary": "Soy Técnico Analista de Sistemas. Me especializo en el desarrollo de aplicaciones web, con experiencia en .NET y SQL Server para el backend y Angular para el frontend. Me considero una persona adaptable y disciplinada, con una actitud proactiva y capacidad para enfrentar y resolver problemas de manera eficaz."
+    },
+    "work_experience": [
+        {
+            "job_title": "Prácticas de Desarrollo de Software FullStack",
+            "company": "Ingematica",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de aplicaciones con .NET y Angular.",
+                "Optimización de código existente.",
+                "Implementación de nuevas funcionalidades contribuyendo al mejoramiento continuo de las plataformas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura de Análisis de Sistemas",
+            "institution": "Instituto Superior Tecnológico Empresarial",
+            "location": "Argentina",
+            "start_date": "2022-03-01",
+            "end_date": "2024-08-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["html", "css", "javascript", "c#", "bootstrap", ".net", "angular", "sql", "jquery"],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Inglés (Nivel B2)",
+            "issuing_organization": "EFSET",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "https://cert.efset.org/7YLUJg"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Aplicación de Videojuegos",
+            "description": "Aplicación web que permite a los usuarios consultar los juegos en venta de tiendas registradas en el sistema, incluyendo horarios y ubicaciones.",
+            "technologies": [".net", "c#", ".net-api", "angular", "entity-framework", "linq", "sql"],
+            "url": "https://github.com/FRodrigoRuiz/aplicacion-juegos-backend"
+        },
+        {
+            "name": "Manejador de Presupuestos",
+            "description": "Aplicación web que le permite al usuario gestionar sus ingresos y gastos, organizarlos por día, mes y año y exportarlos a Excel.",
+            "technologies": ["asp.net-core-mvc", "ado.net-mvc", "identity", "razor", "sql", "closedxml"],
+            "url": "https://github.com/FRodrigoRuiz/manejador-de-presupuestos"
+        },
+        {
+            "name": "Gestor de turnos para una peluquería",
+            "description": "Aplicación de escritorio para el control de turnos de una peluquería que fue creado con Windows Forms (.NET Framework), usando la arquitectura en capas y SQL Server.",
+            "technologies": ["windows-forms", ".net-framework", "ado.net", "sql-server"],
+            "url": "https://github.com/FRodrigoRuiz/gestor-turnos-peluquería-deskton"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

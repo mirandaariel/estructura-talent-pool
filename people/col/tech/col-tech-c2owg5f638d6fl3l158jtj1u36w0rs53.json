@@ -1,0 +1,112 @@
+{
+    "personal_info": {
+        "first_name": "Manuela",
+        "last_name": "López Vanegas",
+        "email": "manulopezv17@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Colombia",
+            "city": "Medellín",
+            "state": "Antioquia"
+        },
+        "linkedin": "https://www.linkedin.com/in/manuela-lopez-v/",
+        "website": "",
+        "portfolio": "https://ml-developer.vercel.app/",
+        "summary": "Desarrolladora Fullstack con más de dos años de experiencia práctica en el desarrollo de aplicaciones web modernas, destacando por mi dominio de diversos lenguajes de programación y tecnologías, competente en varias plataformas y sistemas integrados, con capacidad de crear soluciones innovadoras y eficientes. Soy una persona comprometida, apasionada por la tecnología y en constante aprendizaje para mantenerme al día con las tendencias y mejores prácticas del desarrollo web. Deseo contribuir a una empresa dinámica y en expansión."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Fullstack Jr.",
+            "company": "Seguridad A La Mano",
+            "location": "Medellín (Remoto)",
+            "start_date": "2024-04-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una aplicación web-móvil dirigida al personal de seguridad privada en Colombia.",
+                "Construida con Next.js integrando tecnologías innovadoras y actualizadas cómo Node.js y MongoDB.",
+                "Manejo estados de usuarios con Zustand."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Fullstack Jr.",
+            "company": "Soluproint SAS",
+            "location": "Medellín (Remoto)",
+            "start_date": "2023-10-01",
+            "end_date": "2024-04-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo aplicación web corporativa de la empresa con componentes de React.js.",
+                "Interface gráfica visualmente atractiva y responsiva.",
+                "Desarrollo de Blog implementado con CMS Strapi, Node.js y PostgreSQL.",
+                "Ejecución de pruebas de software y ataques de penetración."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnica Profesional en Programación de Sistemas de Información",
+            "institution": "Politécnico Colombiano Jaime Isaza Cadavid",
+            "location": "Medellín",
+            "start_date": "2022-02-01",
+            "end_date": "2024-09-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react.js",
+                "node.js",
+                "javascript",
+                "typescript",
+                "apis-restful",
+                "bases-de-datos-sql-y-nosql",
+                "git",
+                "github",
+                "html5",
+                "css3",
+                "java",
+                "seo"
+            ],
+            "soft": [
+                "autoaprendizaje",
+                "habilidades-comunicativas"
+            ],
+            "tools": [
+                "figma",
+                "visual-studio-code",
+                "bash",
+                "powershell",
+                "dbeaver",
+                "vercel",
+                "digital-ocean",
+                "docker",
+                "owasp-zap"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

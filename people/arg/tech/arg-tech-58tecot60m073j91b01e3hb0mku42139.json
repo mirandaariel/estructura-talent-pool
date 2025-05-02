@@ -1,0 +1,307 @@
+{
+    "personal_info": {
+        "first_name": "Diego",
+        "last_name": "Reynoso",
+        "email": "diegoreynoso.dev@gmail.com",
+        "phone": "+54 3388525546",
+        "location": {
+            "country": "Argentina",
+            "city": "F. Ameghino",
+            "state": "BSAS"
+        },
+        "linkedin": "https://linkedin.com/in/diego-reynoso-234298216",
+        "website": "",
+        "portfolio": "",
+        "summary": "+2 años de experiencia como Desarrollador Web. Soy autodidacta y tengo pasión por aprender y experimentar con nuevas tecnologías. Tengo buen ojo para los detalles y una mentalidad orientada a la resolución de problemas. He completado varios proyectos personales que han fortalecido mis habilidades técnicas. Estoy seguro de que puedo adaptarme rápidamente y hacer una contribución significativa a cualquier equipo de desarrollo."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "",
+            "institution": "SoyDalto",
+            "location": "",
+            "start_date": "2023-06-01",
+            "end_date": "2023-09-30",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "Streambee",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "2023-09-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "css",
+                "talleind",
+                "material-ui",
+                "framer-moon",
+                "shadch",
+                "html",
+                "astro",
+                "javascript",
+                "typescript",
+                "reactjs",
+                "nextjs",
+                "sqlits",
+                "mongodb",
+                "firebase",
+                "firestore",
+                "strap1",
+                "railway",
+                "2od",
+                "formik",
+                "react-hook-form",
+                "vite",
+                "clerk",
+                "tup"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {
+                "javascript": [
+                    {
+                        "id": 1001,
+                        "title": "Variables and Data Types",
+                        "description": "Declaración de variables usando var, let y const, y comprensión de tipos primitivos y objetos.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1001.js"
+                    },
+                    {
+                        "id": 1002,
+                        "title": "Control Flow",
+                        "description": "Uso de instrucciones condicionales y bucles (if, else, switch, for, while).",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1002.js"
+                    },
+                    {
+                        "id": 1003,
+                        "title": "Functions",
+                        "description": "Declaración y uso de funciones en JavaScript, incluyendo funciones anónimas y de flecha.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1003.js"
+                    },
+                    {
+                        "id": 1004,
+                        "title": "Scope and Hoisting",
+                        "description": "Cómo funcionan los ámbitos léxicos y el comportamiento de elevación de variables en JavaScript.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1004.js"
+                    },
+                    {
+                        "id": 1005,
+                        "title": "Closures",
+                        "description": "Funciones que capturan el estado de su entorno de creación, permitiendo acceso a variables externas incluso después de finalizar su contexto original.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1005.js"
+                    },
+                    {
+                        "id": 1006,
+                        "title": "This Context",
+                        "description": "Cómo funciona el contexto de ejecución y cómo cambiarlo en JavaScript.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1006.js"
+                    },
+                    {
+                        "id": 1007,
+                        "title": "Events and Event Handling",
+                        "description": "Manejo de eventos en JavaScript, incluyendo el registro de eventos y la propagación.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1007.html"
+                    },
+                    {
+                        "id": 1008,
+                        "title": "Error Handling and Exceptions",
+                        "description": "Captura y manejo de errores usando try, catch y finally.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1008.js"
+                    },
+                    {
+                        "id": 1101,
+                        "title": "Objects and Properties",
+                        "description": "Creación y manipulación de objetos, así como el acceso a sus propiedades.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1101.js"
+                    },
+                    {
+                        "id": 1102,
+                        "title": "Prototypes and Prototypal Inheritance",
+                        "description": "Cómo funciona la herencia basada en prototipos en JavaScript.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1102.js"
+                    },
+                    {
+                        "id": 1103,
+                        "title": "Classes and Modern Syntax",
+                        "description": "Uso de las clases en JavaScript moderno con las palabras clave class, extends y super.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1103.js"
+                    },
+                    {
+                        "id": 1104,
+                        "title": "Encapsulation, Inheritance, and Polymorphism",
+                        "description": "Principios fundamentales de la programación orientada a objetos aplicados en JavaScript.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1104.js"
+                    },
+                    {
+                        "id": 1105,
+                        "title": "Factory Functions",
+                        "description": "Funciones que retornan nuevos objetos personalizados, permitiendo flexibilidad en la creación de instancias.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1105.js"
+                    },
+                    {
+                        "id": 1106,
+                        "title": "Object Composition",
+                        "description": "Construcción de objetos complejos a partir de otros más simples, en lugar de usar herencia.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1106.js"
+                    },
+                    {
+                        "id": 1201,
+                        "title": "Pure Functions",
+                        "description": "Funciones que, dado un mismo conjunto de entradas, siempre devuelven la misma salida sin producir efectos secundarios.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1201.js"
+                    },
+                    {
+                        "id": 1202,
+                        "title": "Immutability",
+                        "description": "Principio de no modificar directamente los datos existentes, sino crear nuevas estructuras de datos.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1202.js"
+                    },
+                    {
+                        "id": 1203,
+                        "title": "Higher-Order Functions",
+                        "description": "Funciones que aceptan otras funciones como argumentos o las retornan como resultados.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1203.js"
+                    },
+                    {
+                        "id": 1204,
+                        "title": "Currying",
+                        "description": "Transformación de una función que toma múltiples argumentos en una serie de funciones que toman un solo argumento.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1204.js"
+                    },
+                    {
+                        "id": 1205,
+                        "title": "Function Composition",
+                        "description": "Técnica que permite encadenar funciones pequeñas en una sola función compleja.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1205.js"
+                    },
+                    {
+                        "id": 1206,
+                        "title": "Functors and Categories",
+                        "description": "Estructuras que permiten mapear funciones sobre valores envueltos o estructurados.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1206.js"
+                    },
+                    {
+                        "id": 1207,
+                        "title": "Monads",
+                        "description": "Patrón que permite encadenar operaciones, manejando contextos como la asincronía o el manejo de errores.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1207.js"
+                    },
+                    {
+                        "id": 1208,
+                        "title": "Lenses",
+                        "description": "Herramientas para acceder y modificar estructuras de datos inmutables de forma segura.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1208.js"
+                    },
+                    {
+                        "id": 1209,
+                        "title": "Transducers",
+                        "description": "Funciones que transforman otras funciones de transformación, permitiendo operaciones eficientes sobre estructuras de datos.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1209.js"
+                    },
+                    {
+                        "id": 1301,
+                        "title": "Arrays, Objects, Sets, and Maps",
+                        "description": "Uso de estructuras de datos como arrays, objetos, sets y maps para almacenar y manipular información.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1301.js"
+                    },
+                    {
+                        "id": 1302,
+                        "title": "Stacks and Queues",
+                        "description": "Estructuras de datos lineales que permiten operaciones de inserción y eliminación en un orden específico (LIFO y FIFO).",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1302.js"
+                    },
+                    {
+                        "id": 1303,
+                        "title": "Linked Lists",
+                        "description": "Estructura de datos donde cada elemento apunta al siguiente, permitiendo inserciones y eliminaciones eficientes.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1303.js"
+                    },
+                    {
+                        "id": 1304,
+                        "title": "Recursion",
+                        "description": "Técnica donde una función se llama a sí misma para resolver problemas complejos.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1304.js"
+                    },
+                    {
+                        "id": 1305,
+                        "title": "Array Operations (map, filter, reduce)",
+                        "description": "Funciones de orden superior para transformar, filtrar y reducir arrays en JavaScript.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1305.js"
+                    },
+                    {
+                        "id": 1306,
+                        "title": "Sorting Algorithms",
+                        "description": "Implementación de algoritmos de ordenamiento como bubble sort, quicksort y merge sort.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1306.js"
+                    },
+                    {
+                        "id": 1307,
+                        "title": "Search Algorithms",
+                        "description": "Algoritmos de búsqueda como búsqueda lineal y búsqueda binaria para encontrar elementos en estructuras de datos.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1307.js"
+                    },
+                    {
+                        "id": 1308,
+                        "title": "Abstract Data Types",
+                        "description": "Tipos de datos abstractos como pilas, colas y listas que definen operaciones sin especificar su implementación concreta.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1308.js"
+                    },
+                    {
+                        "id": 1401,
+                        "title": "Callbacks",
+                        "description": "Funciones que se ejecutan después de completar una operación asíncrona, permitiendo la continuación de un flujo de ejecución.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1401.js"
+                    },
+                    {
+                        "id": 1402,
+                        "title": "Promises",
+                        "description": "Objeto que representa la terminación o el fracaso eventual de una operación asíncrona.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1402.js"
+                    },
+                    {
+                        "id": 1403,
+                        "title": "Async/Await",
+                        "description": "Sintaxis que simplifica el manejo de operaciones asíncronas, haciendo que el código sea más legible y fácil de entender.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1403.js"
+                    },
+                    {
+                        "id": 1404,
+                        "title": "Asynchronous Error Handling",
+                        "description": "Manejo de errores en operaciones asíncronas utilizando bloques try, catch y finally.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1404.js"
+                    },
+                    {
+                        "id": 1405,
+                        "title": "Event Loop",
+                        "description": "Mecanismo que permite que JavaScript maneje múltiples operaciones simultáneamente a través de un ciclo de eventos.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1405.js"
+                    },
+                    {
+                        "id": 1406,
+                        "title": "Promise Lifecycle",
+                        "description": "Etapas de una promesa en JavaScript: pendiente, cumplida o rechazada.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1406.js"
+                    },
+                    {
+                        "id": 1501,
+                        "title": "Elements of JavaScript Style",
+                        "description": "Conjunto de convenciones y estilos recomendados para escribir código JavaScript limpio y legible.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1501.js"
+                    }
+                    ]
+                }
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

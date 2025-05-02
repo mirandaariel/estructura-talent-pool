@@ -1,0 +1,201 @@
+{
+    "personal_info": {
+        "first_name": "Claudia",
+        "last_name": "Alberdi Rodriguez",
+        "email": "clau.alberdi89@gmail.com",
+        "phone": "098500839",
+        "location": {
+            "country": "Uruguay",
+            "city": "Fray Bentos",
+            "state": "Rio Negro"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Con una sólida formación como Full Stack Developer y con un segundo año en la Licenciatura en Tecnologías de la Información, he desarrollado habilidades fundamentales en trabajo en equipo, pensamiento creativo, resolución de problemas, autonomía y colaboración efectiva. Mi formación en Henry Bootcamp ha enriquecido mi experiencia con conocimientos sólidos en metodologías ágiles, Git, estructuras de datos y algoritmos. Tengo experiencia práctica en el desarrollo tanto de Frontend como de Backend, utilizando tecnologías como React, Redux, Node.js, Axios y SQL (PostgreSQL). Esta combinación de habilidades me permite no solo crear interfaces dinámicas y responsivas, sino también diseñar y gestionar bases de datos eficientes para aplicaciones web robustas y escalables."
+    },
+    "work_experience": [
+        {
+            "job_title": "Administrador Salesforce",
+            "company": "StartUpp.Cloud",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "2023-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Personalización de la plataforma Salesforce para satisfacer las necesidades específicas de la empresa.",
+                "Implementación de flujos de trabajo, reglas de validación y procesos automatizados utilizando Process Builder y Flow."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Informante turístico",
+            "company": "Intendencia Rio Negro",
+            "location": "Balneario Las Cañas",
+            "start_date": "2017-01-01",
+            "end_date": "2017-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Informar.",
+                "Registrar turistas acampando.",
+                "Realizar llamadas telefónicas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Tecnologías de la Información",
+            "institution": "UTEC",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachillerato Turismo",
+            "institution": "Escuela Técnica UTU",
+            "location": "Fray Bentos, Rio Negro",
+            "start_date": "2015-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 700
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react",
+                "redux",
+                "node.js",
+                "axios",
+                "sql",
+                "postgreSQL",
+                "express.js",
+                "css",
+                "material-ui",
+                "cloudinary",
+                "tailwind-css",
+                "sequelize"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "pensamiento-creativo",
+                "resolucion-de-problemas",
+                "autonomia",
+                "colaboracion-efectiva"
+            ],
+            "tools": [
+                "git",
+                "jira",
+                "trello",
+                "slack"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Seguridad de la información",
+            "issuing_organization": "EducAntel",
+            "issue_date": "2019-07-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Analista Junior Genexus 16",
+            "issuing_organization": "",
+            "issue_date": "2019-12-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Técnico en Informática (Ofimática)",
+            "issuing_organization": "Capacitate para el empleo",
+            "issue_date": "2020-02-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo de Apps Móviles",
+            "issuing_organization": "Google Actívate",
+            "issue_date": "2020-04-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Creando Apps en Android",
+            "issuing_organization": "Conecta Empleo Movistar",
+            "issue_date": "2020-05-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Habilidades digitales para la empleabilidad",
+            "issuing_organization": "Microsoft-Inefop",
+            "issue_date": "2020-09-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Portafolio en Línea para Artista",
+            "description": "Desarrollo de un portafolio en línea para un dibujante, que permite mostrar y gestionar su trabajo a través de un panel de administración. Incluye diseño responsivo y funcionalidades avanzadas.",
+            "technologies": [
+                "react",
+                "redux-toolkit",
+                "react-router",
+                "node.js",
+                "express",
+                "postgreSQL",
+                "jwt",
+                "css",
+                "material-ui",
+                "cloudinary",
+                "nodemailer"
+            ],
+            "url": "https://github.com/clau140/plastic-artist.git"
+        },
+        {
+            "name": "Aplicación de Venta de Plantillas",
+            "description": "Desarrollo de una aplicación dedicada a la venta de plantillas diseñadas especialmente para programadores.",
+            "technologies": [
+                "react",
+                "tailwind-css",
+                "node.js",
+                "axios",
+                "postgreSQL",
+                "sequelize"
+            ],
+            "url": "https://github.com/clau140/PF-FrontEnd-Ecommerce.git, https://github.com/clau140/PF-Backend-Ecommerce.git"
+        },
+        {
+            "name": "PI-Countries",
+            "description": "Desarrollo de una SPA para mostrar información de países y agregar actividades turísticas, aplicando conceptos aprendidos.",
+            "technologies": [
+                "javascript",
+                "react",
+                "express.js",
+                "css",
+                "tailwind-css",
+                "postgreSQL"
+            ],
+            "url": "https://pi-countries-client-lemon.vercel.app/"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

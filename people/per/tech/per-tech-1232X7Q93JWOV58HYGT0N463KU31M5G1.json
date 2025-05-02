@@ -1,0 +1,164 @@
+{
+  "personal_info": {
+    "first_name": "Maríana",
+    "last_name": "Balceda",
+    "email": "balcedamariana@gmail.com",
+    "phone": "+51 2929610483",
+    "location": {
+      "country": "Peru",
+      "city": "Urb Las Poncianas Il",
+      "state": "SMP"
+    },
+    "linkedin": "https://www.linkedin.com/in/mariana-balceda-delgado-a630592ab/",
+    "website": "",
+    "portfolio": "",
+    "summary": "Estudiante de octavo ciclo de Ingeniería de Software en la UNMSM, con formación autodidacta, proactiva y enfocada en el aprendizaje continuo. Tengo experiencia en desarrollo de software backend y análisis de datos (Power BI, SQL)."
+  },
+  "work_experience": [
+    {
+      "job_title": "Practicante de Ingeniería de Software",
+      "company": "ReflexoPerú - Centro de Reflexoterapia",
+      "location": "",
+      "start_date": "2024-08-01",
+      "end_date": "2025-01-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo de sistema de control de asistencia para gestión de planilla interna con NodeJs y Reactjs.",
+        "Mantenimiento backend a sistema interno a través de JAVA.",
+        "Diseño y uso de base de datos Relacional MySQL.",
+        "Realización de GUIs a través de Scene Builder y JavaFx.",
+        "Migración y limpieza de datos a través de Scripts de Python.",
+        "Generación de dashboards con PowerBI para análisis de datos relacionados a citas, pacientes, enfermedades y terapeutas e interpretación de resultados."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Full Stack Developer Trainee",
+      "company": "Plazabid",
+      "location": "",
+      "start_date": "2024-02-01",
+      "end_date": "2024-08-01",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo backend con Node.js para mantenimiento desarrollo de plataforma en linea y sistema de gestión de operaciones.",
+        "Desarrollo frontend con Vue.js.",
+        "Uso continuo de bases de datos no relacionales con MongoDB.",
+        "Conocimiento de arquitectura MVC, API REST y uso de Docker.",
+        "Uso de GNU/Linux.",
+        "Gestión de servicios en la nube con AWS Beanstalk, S3 y EC2.",
+        "Seguimiento y gestión continua de tareas con Jira con la aplicación de metodologías ágiles (Scrum / Kanban)."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ingeniería de Software",
+      "institution": "Universidad Nacional Mayor de San Marcos",
+      "location": "Peru",
+      "start_date": "2021-01-01",
+      "end_date": "",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "python",
+        "java",
+        "power-bi",
+        "javascript",
+        "typescript",
+        "scrum",
+        "sql",
+        "mysql",
+        "postgresql",
+        "mongodb",
+        "vue",
+        "react",
+        ".net",
+        "git",
+        "microsoft",
+        "c++",
+        "jira",
+        "iso-27001",
+        "kotlin"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {}
+  },
+  "certifications": [
+    {
+      "name": "Python Essentials 1",
+      "issuing_organization": "CISCO",
+      "issue_date": "2025-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Curso de Python",
+      "issuing_organization": "ADEMASS",
+      "issue_date": "2024-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Diseño web con HTML5 + CSS",
+      "issuing_organization": "Fundación Telefónica",
+      "issue_date": "2024-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Power BI",
+      "issuing_organization": "LIMA EDUCA",
+      "issue_date": "2024-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "SQL Server 2022",
+      "issuing_organization": "SKILL",
+      "issue_date": "2024-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Parallel and Concurrent Programming with C++ Part 1",
+      "issuing_organization": "Linkedin",
+      "issue_date": "2024-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "MySQL Esencial",
+      "issuing_organization": "Linkedin",
+      "issue_date": "2024-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Curso de SQL Server",
+      "issuing_organization": "Además",
+      "issue_date": "2024-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Herramientas Informáticas",
+      "issuing_organization": "CINFO",
+      "issue_date": "2022-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    }
+  ],
+  "projects": [],
+  "languages": [],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

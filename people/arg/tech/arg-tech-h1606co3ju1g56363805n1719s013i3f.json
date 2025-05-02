@@ -1,0 +1,138 @@
+{
+    "personal_info": {
+        "first_name": "Juan Agustin",
+        "last_name": "Acosta",
+        "email": "juanagustinacost@gmail.com",
+        "phone": "+54-3794-010731",
+        "location": {
+            "country": "Argentina",
+            "city": "Corrientes",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Analista Programador Universitario y Desarrollador Fullstack Jr. con experiencia en el desarrollo de aplicaciones web utilizando tecnologías como Node.js, React, y bases de datos SQL y NoSQL. Actualmente cursando el 4to año de la Licenciatura en Sistemas de Información en la Universidad Nacional del Nordeste. Busco oportunidades para aplicar mis habilidades en desarrollo de software, con un enfoque en la creación de soluciones escalables y eficientes. Me destaco por mi capacidad de aprendizaje rápido, trabajo en equipo y habilidades analíticas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "Dirección de Sistemas",
+            "location": "Corrientes",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo Fullstack de Módulo Toma de asistencias Gestión Educativa Corrientes con NextJs y Nestjs(Node).",
+                "Desarrollo Frontend de Interfaz de Exámenes COPE Técnico Profesional con Sveltekit.",
+                "Gestión de base de datos con SurrealDB.",
+                "Desarrollo Fullstack de Módulo de visualización de exámenes COPE con Sveltekit y Nestjs(Node)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista Programador Universitario",
+            "institution": "Universidad Nacional del Nordeste, Facultad de Ciencias Exactas",
+            "location": "",
+            "start_date": "",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Sistemas de Información",
+            "institution": "Universidad Nacional del Nordeste",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "java",
+                "c#",
+                "nodejs",
+                "nestjs",
+                ".net",
+                "react",
+                "nextjs",
+                "svelte",
+                "sql-server",
+                "postgresql",
+                "mongodb",
+                "surrealdb"
+            ],
+            "soft": [
+                "quick-learning",
+                "teamwork",
+                "analytical-skills"
+            ],
+            "tools": [
+                "scrum",
+                "kanban"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Certificate of Achievement EF Standard English Test. Cambridge B2",
+            "issuing_organization": "Education First (EF)",
+            "issue_date": "2018-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Extensión de Inglés",
+            "issuing_organization": "Instituto Superior Josefina Contte",
+            "issue_date": "2013-01-01",
+            "expiration_date": "2019-12-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Bootcamp Desarrollo NodeJS | React. MVC y RESTAPIS",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "NestJS: Microservicios con NestJS, AWS, Docker Profesional",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Desarrollo Web Taragüi Trail Series",
+            "description": "Desarrollo de aplicación web responsive realizado con el framework NextJs basado en React, utilizando el router del mismo para implementar Backend, siendo Typescript el lenguaje de desarrollo.",
+            "technologies": ["NextJs", "React", "Typescript"],
+            "url": "http://www.taraguitrailseries.com"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "B2"
+        },
+        {
+            "language": "Portugués",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

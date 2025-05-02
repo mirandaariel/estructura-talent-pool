@@ -1,0 +1,168 @@
+{
+    "personal_info": {
+        "first_name": "Diego",
+        "last_name": "Chinchilla Gómez",
+        "email": "diegochi2003@gmail.com",
+        "phone": "+506 7039 1074",
+        "location": {
+            "country": "Costa Rica",
+            "city": "Cartago",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy ingeniero en sistemas, apasionado por resolver problemas y encontrar soluciones innovadoras. Me caracterizo por ser una persona proactiva, organizada y detallista, comprometida con el aprendizaje y la mejora continua. Enfocado en la calidad, disfruto enfrentar nuevos desafíos y trabajo en equipo con entusiasmo, siempre dispuesto a colaborar y apoyar a los demás."
+    },
+    "work_experience": [
+        {
+            "job_title": "Jr. Systems Engineer",
+            "company": "Akurey",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Administración y supervisión del sistema ERP interno de la empresa basado en Odoo.",
+                "Realización de tareas regulares de mantenimiento para prevenir fallas.",
+                "Diagnóstico y solución de errores que afectan el rendimiento del ERP.",
+                "Identificación de áreas de mejora y colaboración con equipos internos.",
+                "Brindar soporte técnico continuo a los usuarios internos.",
+                "Implementación de nuevos módulos o personalización de existentes en el ERP."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Proyecto BlueMar",
+            "location": "",
+            "start_date": "2023-09-12",
+            "end_date": "2024-08-23",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de una aplicación web para gestionar clientes, productos y finanzas.",
+                "Diseño y administración de bases de datos.",
+                "Implementación de la solución en Microsoft Azure.",
+                "Configuración de medidas de seguridad en Azure.",
+                "Ejecución de pruebas post-instalación y optimización del rendimiento.",
+                "Elaboración de documentación técnica y soporte al equipo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web Junior",
+            "company": "Deinsa Global",
+            "location": "",
+            "start_date": "2023-06-01",
+            "end_date": "2023-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de la página web de La Plaza Digital.",
+                "Resolución de problemas técnicos y optimización del rendimiento del sitio.",
+                "Capacitación de nuevos pasantes y soporte en tareas diarias.",
+                "Colaboración en la promoción y venta de productos de la empresa.",
+                "Extracción y procesamiento de datos para bases de datos estratégicas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachillerato en ingeniería en sistemas de computación",
+            "institution": "Universidad Fidélitas",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en educación media",
+            "institution": "Liceo San Nicolás de Tolentino",
+            "location": "",
+            "start_date": "",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "python",
+                "c/c++",
+                "sql",
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "angular",
+                "node.js",
+                "mysql",
+                "mongodb"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "proactividad",
+                "resolución-de-problemas",
+                "comunicación-asertiva",
+                "ética-de-trabajo",
+                "pensamiento-analítico",
+                "responsabilidad",
+                "planificación",
+                "organización",
+                "liderazgo",
+                "capacidad-de-aprendizaje"
+            ],
+            "tools": [
+                "visual-studio",
+                "github",
+                "pgadmin",
+                "microsoft-azure"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Certificado de Fundamentos Scrum",
+            "issuing_organization": "SCRUMstudy",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificado de Cisco Introducción a Redes",
+            "issuing_organization": "Cisco Networking Academy",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificado de Cisco Switching, Routing and Wireless Essentials",
+            "issuing_organization": "Cisco Networking Academy",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

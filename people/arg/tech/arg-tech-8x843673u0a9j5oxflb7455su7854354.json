@@ -1,0 +1,136 @@
+{
+    "personal_info": {
+        "first_name": "Yuneido José",
+        "last_name": "Chacin Fernández",
+        "email": "yuneido.jchf@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": "Buenos Aires Province"
+        },
+        "linkedin": "https://www.linkedin.com/in/yuneidochacin",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador de software con experiencia en la creación de aplicaciones web robustas y escalables utilizando tecnologías como Python, Django, Flask y React. Cuento con 6 años de experiencia adicional en atención al cliente, lo que ha fortalecido mis habilidades de comunicación, resolución de problemas y empatía, facilitando la colaboración efectiva con equipos y clientes. Destaco por mi capacidad para combinar conocimientos técnicos avanzados con un enfoque orientado al usuario, aportando soluciones prácticas y de alta calidad en entornos dinámicos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Encargado General",
+            "company": "Pimienta Food & Bar",
+            "location": "Argentina",
+            "start_date": "2024-08-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestionar eficientemente las operaciones diarias, incluyendo la supervisión de un equipo de servicio de 4 personas, asegurando el cumplimiento de objetivos y la resolución de problemas operativos en tiempo real.",
+                "Optimizar los procesos de manejo de proveedores y flujo de caja, implementando soluciones prácticas que redujeron los tiempos de cierre en un 20%, mejorando la precisión y minimizando errores en la conciliación.",
+                "Liderar la coordinación de tareas y recursos, desarrollando sistemas organizativos para priorizar actividades clave, garantizando la calidad del servicio y la satisfacción de clientes y colaboradores internos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Atención al Cliente",
+            "company": "Pimienta Food & Bar",
+            "location": "Argentina",
+            "start_date": "2023-08-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "T.S.U Programación",
+            "institution": "Instituto Tecnologico Teclab",
+            "location": "Remoto",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Software Developer",
+            "institution": "4GeeksAcademy",
+            "location": "Remoto",
+            "start_date": "2024-08-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Python",
+            "institution": "Codo a Codo 4.0",
+            "location": "Remoto",
+            "start_date": "2023-08-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "django",
+                "django-rest-framework",
+                "flask",
+                "javascript",
+                "react.js",
+                "html5",
+                "css3",
+                "bootstrap",
+                "postgresql",
+                "sql",
+                "sqlalchemy",
+                "json-web-token",
+                "git",
+                "github",
+                "rest-apis",
+                "jest",
+                "marshmallow",
+                "pandas"
+            ],
+            "soft": [
+                "comunicación",
+                "resolución-de-problemas",
+                "empatía"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "SchoolHub",
+            "description": "Sistema para gestión académica con autenticación segura mediante JSON Web Tokens (JWT).",
+            "technologies": [
+                "Python",
+                "Flask",
+                "PostgreSQL",
+                "Javascript",
+                "React.js",
+                "Marshmallow",
+                "SQLAlchemy"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Fluido (B2)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

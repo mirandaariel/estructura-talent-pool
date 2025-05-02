@@ -1,0 +1,197 @@
+{
+    "personal_info": {
+        "first_name": "Francisco Javier",
+        "last_name": "Molina Villagrán",
+        "email": "juan.forero66@gmail.com",
+        "phone": "+56 9 6304 2112",
+        "location": {
+            "country": "Chile",
+            "city": "El Monte",
+            "state": "RM"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Geógrafo con minor en Estudios Urbanos Regionales titulado de la Pontificia Universidad Católica de Chile el año 2017, diplomado en Geomática Aplicada de la Universidad de Chile y programador JAVA. Poseo 6 años de experiencia en sistemas de Información geográfica aplicada en transportes, recursos hídricos y análisis territorial, metodología multicriterio, información georreferenciada, edición de base de datos, cartografías, catastro, construcción y automatización de geo-procesos en Python."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista Geoespacial",
+            "company": "Instituto Nacional de Estadística (INE)",
+            "location": "Santiago de Chile, RM",
+            "start_date": "2023-03-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Proyectos de georreferenciación, elaboración de cartografías, y automatización de herramientas para procesamiento geográfico.",
+                "Proyecto Construcción del Marco Dual Agropecuario para estadísticas intercensales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista Geoespacial",
+            "company": "Instituto Nacional de Estadística (INE)",
+            "location": "Santiago de Chile, RM",
+            "start_date": "2022-08-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Encuesta SENDA.",
+                "Encuesta Nacional Urbana de Seguridad Ciudadana (ENUSC)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista Consultor",
+            "company": "EVERIS Ingeniería/NTT Data",
+            "location": "Santiago de Chile, RM",
+            "start_date": "2019-04-01",
+            "end_date": "2022-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Proyectos relacionados con medio ambiente, recursos hídricos y transporte.",
+                "Elaboración y revisión de informes técnicos.",
+                "Georreferenciación y creación de cartografías detalladas.",
+                "Análisis de resultados y modelación de flujos de transporte."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Geógrafo",
+            "company": "Data Research SPA",
+            "location": "Santiago de Chile, RM",
+            "start_date": "2019-01-01",
+            "end_date": "2019-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Análisis de catastro minero.",
+                "Diseño y creación de metodologías GIS para automatización de procesos de recopilación de datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de proyectos",
+            "company": "Tecnologías Informáticas KIMCHE SPA",
+            "location": "Santiago de Chile, RM",
+            "start_date": "2018-04-01",
+            "end_date": "2018-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Proyectos en análisis de datos educativos y censales.",
+                "Determinación de áreas óptimas para localización de escuelas.",
+                "Georreferenciación de delitos y cartografías de Santiago."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de proyectos",
+            "company": "Fernández y de Cea Consultores",
+            "location": "Santiago de Chile, RM",
+            "start_date": "2017-07-01",
+            "end_date": "2017-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Modelación de redes de transporte.",
+                "Metodología SIG para automatización de procesos.",
+                "Recalibración de ESTRAUS basado en la encuesta origen-destino."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diplomado en Geomática Aplicada",
+            "institution": "Universidad de Chile",
+            "location": "Santiago de Chile, RM",
+            "start_date": "2022-11-01",
+            "end_date": "2022-11-30",
+            "hours": 0
+        },
+        {
+            "degree": "Geógrafo, Licenciado en Geografía, Estudios Urbanos Regionales",
+            "institution": "Universidad Católica de Chile",
+            "location": "Santiago de Chile, RM",
+            "start_date": "2017-04-01",
+            "end_date": "2017-04-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "arcgis",
+                "arcgis-pro",
+                "arcgis-online",
+                "qgis",
+                "georreferenciación",
+                "cartografías",
+                "automatización-de-geoprocesos",
+                "edición-de-geometría",
+                "análisis",
+                "herramientas-de-automatización-arcgis",
+                "adobe-illustrator",
+                "autocad",
+                "html",
+                "css",
+                "java",
+                "java-spring-boot",
+                "sql",
+                "python",
+                "r-project",
+                "google-engine",
+                "legion",
+                "estraus/estrus_gui",
+                "microsoft-word",
+                "powerpoint",
+                "excel",
+                "google-earth-pro",
+                "retadam-sp"
+            ],
+            "soft": [
+                "responsabilidad",
+                "trabajo-en-equipo",
+                "compromiso",
+                "iniciativa",
+                "creatividad",
+                "capacidad-de-análisis",
+                "trabajo-bajo-presión"
+            ],
+            "tools": []
+        },
+        "detailed": []
+    },
+    "certifications": [
+        {
+            "name": "Bootcamp Desarrollo de aplicaciones full Stack",
+            "issuing_organization": "Talento Digital para Chile",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Google Earth Engine para la detección de cambios en el uso del suelo",
+            "issuing_organization": "INE",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Herramientas de programación en Python para procesamiento de datos",
+            "issuing_organization": "TELEDUC",
+            "issue_date": "2020-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

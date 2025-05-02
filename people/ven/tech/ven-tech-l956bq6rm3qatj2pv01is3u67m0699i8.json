@@ -1,0 +1,107 @@
+{
+    "personal_info": {
+        "first_name": "Miguel",
+        "last_name": "Vargas",
+        "email": "miguelarcila2002@gmail.com",
+        "phone": "04244948137",
+        "location": {
+            "country": "Venezuela",
+            "city": "San Joaquin",
+            "state": "Carabobo"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante de Ingeniería en Redes y Comunicaciones en la Universidad Tecnológica del centro (UNITEC). Me apasiona la tecnología y me gusta aprender cosas nuevas. Soy una persona responsable, organizada y con capacidad de trabajo en equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Soporte IT",
+            "company": "Bryco C.A",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Realizar soporte técnico y administrar el servidor donde estaba alojado los servicios de la empresa como el software administrativo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Programador",
+            "company": "Alice Neumáticos de Venezuela (Firestone)",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Colaborador en la creación de un sistema financiero conectado a una base de datos en Odoo, utilizando el Framework .Net con Visual Basic .Net y SQL Server.",
+                "Creación de una aplicación de consola con Python para recolectar datos desde una base de datos de Odoo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "TSU en Redes y Comunicaciones",
+            "institution": "UNITEC",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en Redes y Comunicaciones",
+            "institution": "UNITEC",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "redes",
+                "ms-sql-server",
+                "azure",
+                "net",
+                "entity-framework",
+                "asp-net",
+                "c#",
+                "python"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Azure Fundamental AZ-900",
+            "issuing_organization": "Microsoft-Platzi",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

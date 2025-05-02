@@ -1,0 +1,156 @@
+{
+  "personal_info": {
+    "first_name": "José Gabriel",
+    "last_name": "Gregorio",
+    "email": "gabriel95jk@gmail.com",
+    "phone": "+549 261 601-5353",
+    "location": {
+      "country": "Argentina",
+      "city": "Lavalle",
+      "state": "Mendoza"
+    },
+    "linkedin": "",
+    "website": "",
+    "portfolio": "",
+    "summary": "Soy una persona con alta empatía y habilidades de comunicación efectiva, lo que me permite integrarme fácilmente en equipos y trabajar de manera colaborativa. Estoy en búsqueda de oportunidades que me permitan crecer en el ámbito IT y explorar nuevas tecnologías. Mi meta es aportar mis conocimientos y aprender cada día, contribuyendo al éxito de mi equipo y los proyectos en los que participe."
+  },
+  "work_experience": [
+    {
+      "job_title": "Tester QA",
+      "company": "Semillero Latam",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "currently_working": true,
+      "responsibilities": [
+        "Ejecución de validación de datos en Frontend.",
+        "Detectar errores tanto como la interfaz y la parte funcional.",
+        "Cooperar en la corrección de errores de interfaz de usuario."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Productor Asesor Comercial",
+      "company": "ESCO S.A.",
+      "location": "",
+      "start_date": "2018-01-01",
+      "end_date": "2019-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo y ejecución de estrategias de ventas.",
+        "Prospección y captación de clientes potenciales.",
+        "Asesoramiento personalizado a clientes en productos y servicios.",
+        "Seguimiento post-venta y fidelización de clientes.",
+        "Análisis de mercado y competencia para identificar oportunidades de negocio."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Tecnicatura Superior en Desarrollo de Software",
+      "institution": "Instituto Superior Tecnológico N° 9-024",
+      "location": "",
+      "start_date": "",
+      "end_date": "2024-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Desarrollo web Completo",
+      "institution": "Udemy",
+      "location": "",
+      "start_date": "",
+      "end_date": "2020-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "AutoCAD 2D",
+      "institution": "Insutec",
+      "location": "",
+      "start_date": "",
+      "end_date": "2016-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Inglés Técnico",
+      "institution": "Insutec",
+      "location": "",
+      "start_date": "",
+      "end_date": "2015-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "mysql-workbench",
+        "css",
+        "html",
+        "c#",
+        "angular",
+        "java",
+        "javascript"
+      ],
+      "soft": [
+        "comunicación-efectiva",
+        "trabajo-en-equipo",
+        "adaptabilidad"
+      ],
+      "tools": [
+        "microsoft-word",
+        "microsoft-excel",
+        "microsoft-powerpoint",
+        "trello",
+        "postman",
+        "oracle",
+        "autocad"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Clínica Solution",
+      "description": "Desarrollé una aplicación web para la gestión de servicios de salud, cubriendo todas las fases del proyecto.",
+      "technologies": ["node.js", "css", "html"],
+      "url": ""
+    },
+    {
+      "name": "Clínica SOLUTION S.A.",
+      "description": "Desarrollé una aplicación de línea de comandos en Java para gestionar turnos de salud, incluyendo la gestión de citas y el alta/baja de doctores.",
+      "technologies": ["java", "sql"],
+      "url": ""
+    },
+    {
+      "name": "Lista de Tareas",
+      "description": "Desarrollé una aplicación de gestión de tareas que permite a los usuarios agregar y eliminar tareas.",
+      "technologies": ["angular"],
+      "url": ""
+    },
+    {
+      "name": "Proyecto en desarrollo",
+      "description": "Participé en un proyecto en equipo utilizando Git como controlador de versiones.",
+      "technologies": ["node", "css", "html"],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Básico"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

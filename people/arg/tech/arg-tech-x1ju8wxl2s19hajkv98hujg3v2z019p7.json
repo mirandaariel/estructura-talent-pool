@@ -1,0 +1,128 @@
+{
+    "personal_info": {
+        "first_name": "Bruno",
+        "last_name": "Gentile",
+        "email": "brunogentile027@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "San Isidro",
+            "state": "BsAs"
+        },
+        "linkedin": "https://linkedin.com/in/bruno-gentile",
+        "website": "https://github.com/BrunoGentile",
+        "portfolio": "",
+        "summary": "Soy desarrollador Web FULL STACK con más de 2 años de experiencia realizando código (HTML/JavaScript/CSS/Python) para pequeños proyectos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista de pruebas de software",
+            "company": "No Coutry",
+            "location": "",
+            "start_date": "2023-06-01",
+            "end_date": "2023-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Planeación y estimación de pruebas",
+                "Diseño de casos de prueba, ejecución de casos en entornos web",
+                "Informes de resultados, generación de defectos encontrados",
+                "Manejo de SQL",
+                "Uso de herramientas, Jira, Trello, GitHub."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Salesforce (Practica Profesional)",
+            "company": "Guayerd",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2023-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una aplicación Salesforce para gestionar donaciones y campañas de fundaciones sin fines de lucro.",
+                "Desarrollo de formulario interactivo con las tecnologías HTML, CSS y JavaScript.",
+                "Creación y optimización de consultas SOQL y SOSL para acceder y manipular datos.",
+                "Creación de interfaces con Salesforce Lightning.",
+                "Automatización de procesos con Triggers y Salesforce Flow.",
+                "Modelado y gestión de datos para garantizar la seguridad y eficiencia."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista Administrativo",
+            "company": "Smart Watch Argentina",
+            "location": "",
+            "start_date": "2020-03-01",
+            "end_date": "2022-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Facturación",
+                "Gestión y confección de envíos masivos",
+                "Edición CSS / HTML página web (Shopify)",
+                "Seguimiento de la experiencia de usuario"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura universitaria en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2022-03-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Salesforce",
+            "institution": "Guayerd",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "2023-07-31",
+            "hours": 0
+        },
+        {
+            "degree": "Programador web full-stack junior",
+            "institution": "Segunda Etapa YoProgramo Argentina Programa",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["javascript", "html", "git", "python", "angular", "mysql", "java", "css", "salesforce"],
+            "soft": ["autodidacta", "trabajo-en-equipo", "gestión-del-tiempo", "metodología-scrum", "responsabilidad", "dedicación"],
+            "tools": ["office", "jira", "trello", "shopify"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Alemán",
+            "proficiency": "Intermedio"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Clara Rivera",
+            "relationship": "",
+            "contact": "administracion@smartwatcharg.com"
+        }
+    ]
+}

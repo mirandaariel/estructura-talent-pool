@@ -1,0 +1,111 @@
+{
+    "personal_info": {
+        "first_name": "Maximiliano",
+        "last_name": "Anguita",
+        "email": "maxi.7anguita@gmail.com",
+        "phone": "+1135636555",
+        "location": {
+            "country": "Argentina",
+            "city": "Claypole",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/maximiliano-anguita-944774256",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador web especializado en React, Next.js, Tailwind CSS y JavaScript. Me especializo en diseñar interacciones que cautivan a los usuarios, brindando experiencias excepcionales y memorables."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador",
+            "company": "Desarrollo de aplicación NBA-Score",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una aplicación móvil con React Native que muestra estadísticas en vivo de equipos y jugadores de baloncesto.",
+                "Usé React Native con TypeScript junto con Tailwind CSS para crear una interfaz atractiva y responsiva.",
+                "El proyecto fue desarrollado y probado con Expo Go, asegurando un flujo ágil y un rendimiento óptimo en dispositivos móviles."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador",
+            "company": "Vanitorys app",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una aplicación web para la venta de vanitorios y griferías con React, Next.js, Tailwind CSS, Node.js y MongoDB.",
+                "Integré APIs, seguridad JWT y optimización de rendimiento.",
+                "Experiencia en apps móviles con React Native, implementando componentes nativos y optimización en IOS y Android."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Colaborador",
+            "company": "Aplicación Neon-GN para Academia Soy Henry",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboré en desarrollo de una aplicación web de comercio electrónico, especializado en productos Gamer.",
+                "Desarrollé y optimicé componentes dinámicos utilizando React.js para mejorar la experiencia del usuario."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Developer",
+            "institution": "Henry",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "2023-10-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo Web",
+            "institution": "Coder House",
+            "location": "",
+            "start_date": "2022-06-01",
+            "end_date": "2022-08-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react.js",
+                "html5",
+                "css3",
+                "next.js",
+                "talwind.css",
+                "node.js",
+                "react-native",
+                "postgresql",
+                "mongodb",
+                "express",
+                "sass"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

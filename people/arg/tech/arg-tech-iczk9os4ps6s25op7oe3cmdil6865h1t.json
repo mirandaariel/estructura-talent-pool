@@ -1,0 +1,202 @@
+{
+    "personal_info": {
+        "first_name": "Jazmin",
+        "last_name": "Roca",
+        "email": "rocajazmin1@gmail.com",
+        "phone": "03875005909",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/jazmin-roca-1a28451ab/",
+        "website": "https://github.com/JazzORoca",
+        "portfolio": "",
+        "summary": "Busco una oportunidad de pasantía/desarrollo de software como trainee para aplicar y mejorar mis conocimientos en un ambiente profesional, al mismo tiempo que ofrezco mi compromiso y habilidades para el logro de objetivos. Me destaco por mi capacidad de aprendizaje rápido, adaptabilidad y trabajo en equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Estudiante en prácticas",
+            "company": "AICCOES",
+            "location": "Buenos Aires",
+            "start_date": "2024-03-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión de las tareas asignadas por el superior.",
+                "Aplicación práctica y ejecución de las habilidades teóricas desarrolladas.",
+                "Colaboración en proyectos de la empresa.",
+                "Elaboración y desarrollo de presentaciones.",
+                "Participación activa en reuniones y presentaciones.",
+                "Participación en campañas de marketing.",
+                "Colaboración en la elaboración y revisión de informes y presentaciones para clientes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachiller en Ciencias Naturales",
+            "institution": "Colegio Emdei",
+            "location": "San Salvador de Jujuy",
+            "start_date": "2016-03-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en Software",
+            "institution": "Universidad Siglo 21",
+            "location": "Córdoba",
+            "start_date": "2021-08-01",
+            "end_date": "2025-07-31",
+            "hours": 0
+        },
+        {
+            "degree": "Analista en Software",
+            "institution": "Universidad Siglo 21",
+            "location": "Córdoba",
+            "start_date": "2021-08-01",
+            "end_date": "2024-07-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "springboot",
+                "junit",
+                "javascript",
+                "react",
+                "html",
+                "boostrap",
+                "css",
+                "firefoxe",
+                "mysql",
+                "github",
+                "postman",
+                "swagger"
+            ],
+            "soft": [
+                "ganas-de-aprender",
+                "capacidad-de-trabajar-en-equipo",
+                "aprendizaje-continuo",
+                "persona-motivada-y-creativa",
+                "capacidad-de-adaptación",
+                "comunicación-efectiva",
+                "organización",
+                "resolución-de-problemas",
+                "actitud-proactiva"
+            ],
+            "tools": [
+                "jira",
+                "trello",
+                "paquete-de-office"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Certificado de Introducción a la programación",
+            "issuing_organization": "Educación IT",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificado de paradigmas de programación",
+            "issuing_organization": "Educación IT",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Programación en Java",
+            "issuing_organization": "Udemy",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Introducción a desarrollo web",
+            "issuing_organization": "Udemy",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Testing QA Manual",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Diplomado Java",
+            "issuing_organization": "UAI",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso React-Redux-Firebase",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de aplicaciones web fullstack con React FrontEnd y Springboot3 Backend, API REST, JPA, Spring Security OAuth2, JWT, Socket",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Taller en metodologías ágiles",
+            "issuing_organization": "UES21",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Idioma Ingles, certificados Cambridge KET, PET",
+            "issuing_organization": "Cambridge University",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Desarrollo de un ecommerce",
+            "description": "Desarrollo de un ecommerce para aprobar proyecto final del curso React en Coderhouse.",
+            "technologies": ["React"],
+            "url": ""
+        },
+        {
+            "name": "Desarrollo de una web de postulaciones para voluntariado",
+            "description": "Desarrollo de una web de postulaciones para voluntariado en React y Firebase, que cuenta con su respectiva documentación (diagramas y requerimientos).",
+            "technologies": ["React", "Firebase"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2 Intermedio Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

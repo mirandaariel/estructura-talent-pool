@@ -1,0 +1,134 @@
+{
+    "personal_info": {
+        "first_name": "Mauricio",
+        "last_name": "Martínez",
+        "email": "maurimartine01@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Mendoza",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/mauriciomartinez",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con formación en la Universidad Tecnológica Nacional y un bootcamp en SoyHenry. Tengo experiencia en el desarrollo de aplicaciones web utilizando tecnologías como NestJS, React, PostgreSQL, Next.js y MongoDB, entre otras."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "DevNavigator",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y desarrollo de backend: Colaboré en el diseño del DER de la base de datos y configuración de PostgreSQL.",
+                "Implementé las entidades y relaciones utilizando TypeORM, desarrollando el CRUD de cada entidad con su lógica correspondiente.",
+                "Implementé la lógica de autenticación con JWT, asegurando el manejo seguro y eficiente de los usuarios.",
+                "Realicé el deploy del backend utilizando Render, Docker y GitHub Actions, asegurando una integración continua y un entorno estable para pruebas y producción.",
+                "Trabajé en conjunto con el equipo de frontend para implementar mejoras en la web y coordinar la integración de nuevas funcionalidades.",
+                "Configuré e implementé la integración con Mercado Pago para la gestión segura de transacciones dentro de la plataforma.",
+                "Probé y depuré tanto el backend como el frontend, solucionando errores encontrados para garantizar una experiencia estable y funcional."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "API de Ecommerce (Proyecto Individual)",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y desarrollé una API para un ecommerce utilizando NestJS y TypeScript.",
+                "Implementé autenticación segura basada en roles con JWT.",
+                "Configuré el almacenamiento de imágenes de productos mediante Cloudinary.",
+                "Utilicé Docker para la contenedorización y configuré Render junto con GitHub Actions para el despliegue continuo y la integración CI/CD.",
+                "Configuré y gestioné la base de datos PostgreSQL con TypeORM, implementando migraciones.",
+                "Desarrollé pruebas unitarias y de integración con Jest.",
+                "Documenté toda la API utilizando Swagger."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Sitio Web de Cine (Proyecto Individual - En desarrollo)",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñe la API con Express y MongoDB utilizando Mongoose.",
+                "Desarrollé la interfaz de usuario con React.",
+                "Implementé el sistema de autenticación con JWT.",
+                "Creé filtros avanzados por categorias y la funcionalidad para agregar peliculas a favoritos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Gestor de Turnos SAAS (Proyecto Grupal - En desarrollo)",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé las interfaces de usuario con React.",
+                "Implementé el panel administrativo para visualizar y gestionar turnos, estadísticas de negocio, control de caja y empleados.",
+                "Implementé el sistema de registro e inicio de sesión para usuarios y administradores.",
+                "Realicé pruebas para asegurar la funcionalidad de las interacciones de los usuarios en el frontend."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bootcamp Full Stack Developer",
+            "institution": "SoyHenry",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnicatura en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Aprendizaje Autodidacta",
+            "institution": "",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["nestjs", "react", "postgresql", "next.js", "mongodb", "docker", "typescript", "swagger", "cloudinary", "express", "mongoose"],
+            "soft": ["capacidad-de-aprendizaje-autodidacta"],
+            "tools": ["github-actions", "jest", "render"]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,152 @@
+{
+    "personal_info": {
+        "first_name": "Gabriel",
+        "last_name": "Franke",
+        "email": "frankegabriel@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "Rosario",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/gabriel-franke",
+        "website": "",
+        "portfolio": "https://github.com/gabsfranke",
+        "summary": "Full-Stack Developer with experience in frontend and backend development, DevOps, and IT support."
+    },
+    "work_experience": [
+        {
+            "job_title": "Junior Developer",
+            "company": "Vertex Studio",
+            "location": "Remote",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Fixed and updated Rust-based frontend features using Bevy.",
+                "Implemented UI/UX systems including interactive buttons, settings menu, and game simulation.",
+                "Enhanced and debugged Pixel Streaming server using Node.js.",
+                "Optimized Rust backend systems with async concurrency.",
+                "Developed a visualization actor for monitoring communications.",
+                "Configured and maintained server clusters using DevOps tools.",
+                "Implemented Infrastructure as Code using Salt and AWS CLI."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "IT Technician",
+            "company": "Freelance",
+            "location": "Rosario",
+            "start_date": "2014-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Provided tailored IT solutions and services for individuals.",
+                "Resolved over 300 Windows issues.",
+                "Delivered hardware replacements, software installations, and troubleshooting.",
+                "Conducted training sessions for clients on IT skills."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certified Tech Developer",
+            "institution": "Digital House",
+            "location": "Remote",
+            "start_date": "2021-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Google IT Support",
+            "institution": "Coursera",
+            "location": "Remote",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "react-query",
+                "redux",
+                "html5",
+                "css",
+                "bootstrap",
+                "mui",
+                "react-native",
+                "three.js",
+                "restful-apis",
+                "java",
+                "spring",
+                "python",
+                "rust",
+                "tokio",
+                "mysql",
+                "mongodb",
+                "surrealdb",
+                "aws",
+                "ci",
+                "github-actions",
+                "docker",
+                "ansible",
+                "salt",
+                "nginx",
+                "bash",
+                "ssh-tunnels",
+                "pytorch",
+                "gradio",
+                "comfyui",
+                "bevy",
+                "blender",
+                "rerun"
+            ],
+            "soft": [
+                "communication",
+                "adaptability",
+                "conflict-resolution",
+                "customer-focus",
+                "collaboration",
+                "cultural-sensitivity"
+            ],
+            "tools": [
+                "rustdesk",
+                "turbovnc",
+                "netdata"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Integrative Project",
+            "description": "Designed infrastructure, developed API and website in an Agile team.",
+            "technologies": ["AWS", "Java", "React"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Proficient"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

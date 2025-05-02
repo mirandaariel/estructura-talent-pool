@@ -1,0 +1,100 @@
+{
+    "personal_info": {
+        "first_name": "Cristian",
+        "last_name": "Rojas",
+        "email": "cristianrojas781@gmail.com",
+        "phone": "+54116202-9649",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Backend con sólidos conocimientos en Node.js, React, MongoDB y tecnologías asociadas. Apasionado por la programación, con una fuerte base en matemática aplicada y habilidades avanzadas en resolución de problemas. Busco mi primera oportunidad laboral para aplicar mis conocimientos en entornos reales, contribuir a proyectos innovadores y seguir aprendiendo."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Backend Development",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2022-12-01",
+            "end_date": "2023-06-30",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Matemática Aplicada",
+            "institution": "Universidad Nacional de La Matanza",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "node.js",
+                "express.js",
+                "react",
+                "css",
+                "handlebars",
+                "mongodb",
+                "sqlite",
+                "sequelize",
+                "websockets",
+                "unit-testing"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "docker",
+                "kubernetes"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Desarrollo de una API REST con Node.js y MongoDB",
+            "description": "Para gestión de productos",
+            "technologies": ["node.js", "mongodb"],
+            "url": ""
+        },
+        {
+            "name": "Creación de una aplicación web en React",
+            "description": "Con autenticación JWT",
+            "technologies": ["react", "jwt"],
+            "url": ""
+        },
+        {
+            "name": "Implementación de WebSockets en un chat en tiempo real",
+            "description": "",
+            "technologies": ["websockets"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Upper Intermediate"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "",
+            "relationship": "",
+            "contact": ""
+        }
+    ]
+}

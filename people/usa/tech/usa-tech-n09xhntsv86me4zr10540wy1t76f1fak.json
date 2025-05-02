@@ -1,0 +1,172 @@
+{
+    "personal_info": {
+        "first_name": "Cesar",
+        "last_name": "Cottua",
+        "email": "cesar.cottua@gmail.com",
+        "phone": "+58 - 4242843150",
+        "location": {
+            "country": "United States",
+            "city": "Miami",
+            "state": "Florida"
+        },
+        "linkedin": "https://www.linkedin.com/in/cesar-cottua/",
+        "website": "",
+        "portfolio": "https://portafolio-tau-blush.vercel.app/",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Web Developer",
+            "company": "NextGO",
+            "location": "Miami, Florida, USA",
+            "start_date": "2022-09-01",
+            "end_date": "2023-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Dirigí el diseño y desarrollo de una aplicación para la gestión de ventas, administración y comercio de vehículos.",
+                "Contribuí al diseño de la interfaz y desarrollo full stack de un sistema bancario integral."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Web Developer",
+            "company": "SoyHenry",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2022-02-01",
+            "end_date": "2022-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideré el diseño y desarrollo de un portal de ventas de boletos de vuelos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachiller en Ciencias",
+            "institution": "San Francisco de Sales",
+            "location": "",
+            "start_date": "2015-10-01",
+            "end_date": "2020-06-30",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Bootcamp SoyHenry",
+            "location": "",
+            "start_date": "2022-02-01",
+            "end_date": "2022-08-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "css",
+                "html",
+                "react",
+                "nextjs",
+                "sql",
+                "postgresql",
+                "mongodb",
+                "prisma",
+                "node.js",
+                "redux",
+                "tailwind",
+                "bootstrap",
+                "material-ui",
+                "shadcn",
+                "next-ui",
+                "sequelize"
+            ],
+            "soft": [],
+            "tools": [
+                "figma",
+                "scrum",
+                "git"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "E-commerce Airlines",
+            "description": "Aplicación para venta de boletos de vuelos, integrando funcionalidades para usuarios con distintos roles.",
+            "technologies": [
+                "html",
+                "css",
+                "express",
+                "nodejs",
+                "react",
+                "redux",
+                "javascript",
+                "postgresql",
+                "material-ui",
+                "vercel",
+                "heroku",
+                "firebase"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Tuestuchef",
+            "description": "Ecommerce dedicado a la venta de ropa y servicios para chefs, con experiencia de usuario minimalista.",
+            "technologies": [
+                "html",
+                "css",
+                "react",
+                "nextjs",
+                "react-query",
+                "shadcn",
+                "typescript",
+                "tailwind",
+                "prisma",
+                "vercel",
+                "railway"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Davivienda",
+            "description": "Sistema bancario que habilita a usuarios a ejecutar diversas tareas, desde CRUD de facturas.",
+            "technologies": [
+                "html",
+                "css",
+                "express",
+                "nodejs",
+                "react",
+                "nextjs",
+                "javascript",
+                "typescript",
+                "postgresql",
+                "material-ui",
+                "vercel",
+                "aws",
+                "heroku",
+                "mongodb"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

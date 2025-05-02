@@ -1,0 +1,131 @@
+{
+    "personal_info": {
+        "first_name": "Franco",
+        "last_name": "Herrera",
+        "email": "Francoherrera1759@gmail.com",
+        "phone": "11 2187-4803",
+        "location": {
+            "country": "",
+            "city": "González Catán",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "https://francoherrera.netlify.app/",
+        "portfolio": "https://francoherrera.netlify.app/",
+        "summary": "Profesional versátil capaz de desenvolverme en desarrollo web Front End y Back End. Con amplios conocimientos y herramientas para afrontar cualquier fase en la construcción de un software."
+    },
+    "work_experience": [
+        {
+            "job_title": "Pasante Vendedor",
+            "company": "Chevrolet",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Seguimiento Administrativo con Excel",
+                "Gestión y atención al cliente"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Operario",
+            "company": "Metalúrgica Muller",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2020-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Fabricación de tornillos y arandelas a medida.",
+                "Mantenimiento preventivo y limpieza de equipos.",
+                "Manejo de Clark para reposición."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollador de Software Web Full Stack Mern",
+            "institution": "Universidad de Tecnologia Nacional",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Web Full-Stack",
+            "institution": "Centro Universitario De Innovación",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "mern-stack",
+                "react",
+                "node.js",
+                "express",
+                "mongodb",
+                "git",
+                "github"
+            ],
+            "soft": [
+                "project-management",
+                "conflict-resolution",
+                "teamwork"
+            ],
+            "tools": [
+                "git",
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": {
+                "mern-stack": [
+                    {
+                        "name": "Desarrollo completo del Frontend y diseño de la arquitectura del sistema",
+                        "repository_url": ""
+                    }
+                ]
+            },
+            "soft": {
+                "project-management": [
+                    {
+                        "name": "Experiencia en la gestión de tiempos y resolución de conflictos técnicos",
+                        "description": "Coordinación de un equipo de tres desarrolladores y supervisión de tareas técnicas"
+                    }
+                ]
+            }
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "StorePC",
+            "description": "Aplicación SPA React | StorePC",
+            "technologies": [
+                "react",
+                "mern-stack"
+            ],
+            "url": "https://github.com/zfranco21"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

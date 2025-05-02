@@ -1,0 +1,131 @@
+{
+    "personal_info": {
+        "first_name": "Jesus",
+        "last_name": "Sanchez",
+        "email": "Jesusan0110@gmail.com",
+        "phone": "+54 9 11 27122178",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/jesus-sanchez",
+        "website": "https://github.com/JesusE123",
+        "portfolio": "",
+        "summary": "Soy un apasionado programador con un profundo interés en la tecnología y la innovación. Pongo a prueba constantemente mis conocimientos a través de la creación de proyectos personales y trabajos independientes, lo que me permite seguir expandiendo mi base de conocimientos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Freelance Developer",
+            "company": "Nexus Gestion",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñe la base de datos del proyecto.",
+                "Trabaje en el diseño y la implementacion del backend."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Freelance Developer",
+            "company": "Kioskocity 24/7",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrolle componentes basados en el diseño propuesto en figma.",
+                "Realice Testing unitarios para el funcionamiento de los componentes.",
+                "Realice el despliegue de toda la aplicacion desde la base de datos hasta el frontend.",
+                "Estuve encargado del proyecto en general tanto del backend como del frontend."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Freelance Developer",
+            "company": "Panaderia Coco",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Trabaje en el modulo TPV de ventas.",
+                "Realicé testing a componentes para verificar funcionamiento.",
+                "Implementacion de logica usando Next.js"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Curso Javascript",
+            "institution": "Educacion IT",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "TSU Análisis de Sistemas",
+            "institution": "ESBA Barrio Norte",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "redux",
+                "next-js",
+                "tailwind",
+                "bootstrap",
+                "mysql",
+                "postgresql",
+                "mongodb",
+                "mongoose",
+                "nodejs",
+                "express",
+                "net-framework",
+                "html",
+                "javascript"
+            ],
+            "soft": [
+                "comunicación",
+                "resolución-de-problemas",
+                "pensamiento-analítico",
+                "adaptable",
+                "aprendizaje-continuo",
+                "proactividad",
+                "organización"
+            ],
+            "tools": [
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {
+                "javascript": [],
+                "react": [],
+                "nodejs": []
+            },
+            "soft": {
+                "comunicación": [],
+                "liderazgo": []
+            }
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

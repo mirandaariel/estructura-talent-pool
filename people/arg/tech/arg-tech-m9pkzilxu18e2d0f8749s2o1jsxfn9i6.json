@@ -1,0 +1,99 @@
+{
+    "personal_info": {
+        "first_name": "Agustin",
+        "last_name": "Malugani",
+        "email": "agusmalugani97@gmail.com",
+        "phone": "3413857748",
+        "location": {
+            "country": "Argentina",
+            "city": "Rosario",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/agustinmalugani/",
+        "website": "https://github.com/AgusMalugani",
+        "portfolio": "",
+        "summary": "Soy desarrollador Full Stack con experiencia en Java, Spring Boot, React, JavaScript, TypeScript, Node.js, Express, TypeORM y NestJS. Después de completar cursos intensivos en Egg Corporation y Henry, busco unirme a un equipo sumamente dinámico para seguir aprendiendo y crecer profesionalmente, aportando mis habilidades y capacidad para trabajar en equipo."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry BootCamp",
+            "location": "",
+            "start_date": "2025-02-01",
+            "end_date": "2025-02-28",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Egg Corporation",
+            "location": "",
+            "start_date": "2023-10-01",
+            "end_date": "2023-10-31",
+            "hours": 0
+        },
+        {
+            "degree": "Creacion de APIs con Spring Boot",
+            "institution": "TodoCode",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-01-31",
+            "hours": 0
+        },
+        {
+            "degree": "Pensamiento lógico en programación",
+            "institution": "",
+            "location": "",
+            "start_date": "2022-11-01",
+            "end_date": "2022-11-30",
+            "hours": 0
+        },
+        {
+            "degree": "Nivel intermedio de inglés",
+            "institution": "Open English",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "javascript",
+                "typescript",
+                "spring-boot",
+                "nestjs",
+                "react",
+                "express",
+                "postgresql",
+                "typeorm"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "buenas-practicas-de-codigo",
+                "metodologias-agiles"
+            ],
+            "tools": [
+                "git",
+                "docker",
+                "postman"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "The Three Broomsticks",
+            "description": "Aplicación web para un bar temático que permite realizar reservas y pedidos online.",
+            "technologies": ["nestjs", "react", "typeorm"],
+            "url": "https://pf-henry-front-chi.vercel.app"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

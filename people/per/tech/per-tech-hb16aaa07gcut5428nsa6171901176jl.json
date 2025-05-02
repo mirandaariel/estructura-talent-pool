@@ -1,0 +1,225 @@
+
+{
+  "personal_info": {
+    "first_name": "Franklin",
+    "last_name": "Gomez Pacoricona",
+    "email": "fgp555@gmail.com",
+    "phone": "",
+    "location": {
+      "country": "Peru",
+      "city": "Juliaca",
+      "state": ""
+    },
+    "linkedin": "https://linkedin.com/in/franklingp",
+    "website": "https://frankgp.com/portfolio",
+    "portfolio": "https://github.com/fgp555",
+    "summary": "Soy un desarrollador Full Stack con experiencia en ReactJS, React Native, Node.js, NestJS, y bases de datos como PostgreSQL, MySQL y MongoDB. Me especializo en crear aplicaciones web y móviles escalables con interfaces amigables y fáciles de usar. Con un enfoque en optimizar tanto el frontend como el backend, aplico metodologías ágiles (Scrum) para entregar soluciones innovadoras y de alto rendimiento."
+  },
+  "work_experience": [
+    {
+      "job_title": "Desarrollador Full Stack",
+      "company": "Freelancer",
+      "location": "Remoto",
+      "start_date": "2025-01-01",
+      "end_date": "2025-03-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Diseñé e implementé un sistema completo (web y móvil) para la gestión de vouchers en empresas de transporte, utilizando ReactJS, React Native, NestJS y MySQL.",
+        "Desarrollé un módulo para la aprobación y validación de vouchers, mejorando la trazabilidad y eficiencia operativa.",
+        "Implementé WebSockets para actualización en tiempo real del estado de los vouchers.",
+        "Integré push notifications en la aplicación móvil para alertar a los usuarios sobre cambios en sus vouchers.",
+        "Automaticé los backups de la base de datos para mejorar su seguridad y disponibilidad.",
+        "Implementé un buscador con filtrado avanzado, mejorando la eficiencia de las búsquedas y la segmentación de datos.",
+        "Integré WhatsApp API para automatizar notificaciones y mejorar la comunicación con los usuarios.",
+        "Desplegué el sistema en cPanel y publiqué la aplicación móvil en la Google Play Store."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Full Stack Teaching Assistant",
+      "company": "",
+      "location": "Remoto",
+      "start_date": "2024-07-01",
+      "end_date": "2024-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Coordiné estudiantes, fomentando un ambiente colaborativo y apoyando en la resolución de ejercicios técnicos.",
+        "Promoví Pair Programming para mejorar habilidades y conocimientos.",
+        "Propuse mejoras en los procesos del Bootcamp, optimizando la metodología de enseñanza.",
+        "Brindé soporte individualizado para estudiantes con dificultades técnicas, asegurando su progreso."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador Full Stack",
+      "company": "Freelancer",
+      "location": "Juliaca, Perú",
+      "start_date": "2024-12-01",
+      "end_date": "2024-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollé un acortador de URLs con Express.js y MongoDB (Mongoose) para gestionar la base de datos.",
+        "Implementé autenticación JWT para controlar el acceso y la gestión de URLs acortadas.",
+        "Creé una interfaz de usuario simple y eficiente usando HTML, CSS y JavaScript.",
+        "Integré un sistema de seguimiento de clics."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador Full Stack",
+      "company": "Freelancer",
+      "location": "Remoto",
+      "start_date": "2024-10-01",
+      "end_date": "2024-11-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollé una aplicación para la gestión de turnos con NestJS y ReactJS, permitiendo el registro de datos, asignación de turnos y notificaciones.",
+        "Creé REST APIs para la comunicación entre frontend y backend, usando PostgreSQL y TypeORM para la persistencia de datos.",
+        "Implementé un sistema de autenticación y autorización con JWT, asegurando el acceso y protección de datos sensibles.",
+        "Configuré un sistema de notificación por correo con Nodemailer a través de cPanel para alertar sobre asignación de turnos.",
+        "Realicé pruebas de usabilidad y experiencia de usuario (UX).",
+        "Desplegué el sistema en AWS, utilizando EC2 para el backend y Amplify para ReactJS."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador Full Stack",
+      "company": "BPVentures Henry Proyects",
+      "location": "Buenos Aires, Argentina",
+      "start_date": "2024-08-01",
+      "end_date": "2024-09-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollé aplicaciones web utilizando NestJS para el backend y ReactJS en el frontend, implementando funcionalidades clave como gestión de archivos, facturación y pagos, y notificaciones en tiempo real mediante WebSockets.",
+        "Configuré pipelines de CI/CD en Azure DevOps utilizando GitHub Actions.",
+        "Colaboré estrechamente con un equipo de 6 personas bajo metodologías ágiles (Scrum), utilizando herramientas como Jira, Miro y Slack para una comunicación eficiente y un flujo de trabajo organizado."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador Full Stack",
+      "company": "Freelancer",
+      "location": "Remoto",
+      "start_date": "2024-06-01",
+      "end_date": "2024-07-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollé una aplicación de envío utilizando HTML, PicoCSS y JavaScript para el frontend y NestJS para el backend.",
+        "Desarrollé la carga de archivos mediante Multer, permitiendo a los usuarios cargar imágenes relacionadas con los envíos.",
+        "Optimizé las imágenes en el frontend mediante técnicas de compresión para mejorar el rendimiento y reducir el tiempo de carga de la aplicación.",
+        "Generé reportes en formato PDF utilizando la librería html-pdf (vía NestJS), permitiendo la descarga de documentos relacionados con el envío de paquetes.",
+        "Enfrenté el desafío de generar formularios dinámicos en el frontend. Si existían tres elementos de tipo 'daños', se debían generar tres formularios dinámicamente. En el backend, utilicé AnyFilesInterceptor para recibir estos formularios con datos dinámicos."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador Full Stack",
+      "company": "Freelancer",
+      "location": "Misiones, Argentina",
+      "start_date": "2024-05-01",
+      "end_date": "2024-06-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollé una aplicación de ecommerce de vestidos utilizando Node.js para el backend y HTML, CSS, JavaScript para el frontend.",
+        "Utilicé MongoDB para gestionar la base de datos para organizar eficientemente los productos y usuarios.",
+        "Desarrollé la carga de imágenes de productos con Multer, permitiendo a los usuarios subir fotos de los artículos para su visualización en el ecommerce.",
+        "Despliegue del proyecto usando GitHub para gestionar códigos y cPanel para configurar entorno de producción.",
+        "Se diseñó un carrito de compras y el seguimiento de los pedidos."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador WordPress",
+      "company": "Freelancer",
+      "location": "Lima, Perú",
+      "start_date": "2021-01-01",
+      "end_date": "2023-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Creación y personalización de webs para clientes en diversos sectores (e-commerce, consultorías, servicios).",
+        "Desarrollo de temas personalizados desde cero utilizando HTML, CSS, PHP y JavaScript.",
+        "Despliegue y administración de sitios en cPanel.",
+        "Implementación de estrategias de seguridad avanzadas mediante Wordfence y Sucuri, reduciendo vulnerabilidades.",
+        "Automatización de backups y monitoreo continuo de sitios mediante UpdraftPlus y ManageWP.",
+        "Implementar estrategias de seguridad avanzadas mediante Wordfence y Sucuri, reduciendo vulnerabilidades."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Full Stack Web Developer",
+      "institution": "Henry Bootcamp",
+      "location": "",
+      "start_date": "2024-01-01",
+      "end_date": "2024-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Desarrollo de Sitios Web con WordPress",
+      "institution": "",
+      "location": "",
+      "start_date": "2020-01-01",
+      "end_date": "2023-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "html",
+        "css",
+        "javascript",
+        "typescript",
+        "reactjs",
+        "nextjs",
+        "picocss",
+        "react-native",
+        "nestjs",
+        "nodejs",
+        "express.js",
+        "postgresql",
+        "mysql",
+        "mongodb",
+        "typeorm",
+        "mongoose",
+        "docker",
+        "aws",
+        "azure",
+        "cpanel",
+        "jwt",
+        "websockets",
+        "nodemailer"
+      ],
+      "soft": [
+        "agile",
+        "scrum",
+        "pair-programming"
+      ],
+      "tools": [
+        "git",
+        "jira",
+        "slack",
+        "miro"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

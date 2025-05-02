@@ -1,0 +1,77 @@
+{
+    "personal_info": {
+        "first_name": "Cristian",
+        "last_name": "Micchele",
+        "email": "cristian.aiki1@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/cristian-micchele-1445a92b5",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Backend con experiencia en APIs escalables y bases de datos eficientes. Proactivo y con pasión por la tecnología, busco aportar valor a proyectos innovadores."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "",
+            "institution": "Formación autodidacta a través de Platzi, Udemy y YouTube",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css",
+                "javascript",
+                "typescript",
+                "node.js",
+                "express.js",
+                "nestjs",
+                "mysql",
+                "mongo-db"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "API rest Martial Arts",
+            "description": "Gestión de datos con Express.js y MongoDB. Implementación de autenticación JWT.",
+            "technologies": ["express.js", "mongo-db", "jwt"],
+            "url": ""
+        },
+        {
+            "name": "CRUD Alumnos",
+            "description": "Aplicación para la gestión de alumnos con operaciones CRUD utilizando MongoDB y Express.js.",
+            "technologies": ["mongo-db", "express.js"],
+            "url": ""
+        },
+        {
+            "name": "Login MongoDB",
+            "description": "Sistema de autenticación con MongoDB, JWT y Express.js, asegurando acceso seguro a aplicaciones web.",
+            "technologies": ["mongo-db", "jwt", "express.js"],
+            "url": ""
+        },
+        {
+            "name": "Chat en tiempo real",
+            "description": "Aplicación de chat en tiempo real creada con Node.js y Socket.io.",
+            "technologies": ["node.js", "socket.io"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,254 @@
+{
+    "personal_info": {
+        "first_name": "",
+        "last_name": "",
+        "email": "edwintorres0115@hotmail.com",
+        "phone": "",
+        "location": {
+            "country": "Germany",
+            "city": "Fürth",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero DevOps con experiencia en gestión de infraestructuras en la nube, automatización y control de calidad. Estableció pipelines para arquitecturas de microservicios, reduciendo el tiempo de desarrollo en un 50%, lo que permitió actualizaciones más frecuentes y fiables. Competente en herramientas CI/CD y cumplimiento de la seguridad, dedicado a agilizar los flujos de trabajo y proporcionar soluciones de alta calidad que cumplan los objetivos empresariales y se adapten a las necesidades del mercado."
+    },
+    "work_experience": [
+        {
+            "job_title": "Ingeniero DevOps",
+            "company": "HMG Systems Engineering GmbH",
+            "location": "Fürth, Germany",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Creación y mantenimiento de un flujo de trabajo basado en Git para el equipo de desarrollo (GitLab).",
+                "Creación y mantenimiento de pipelines Jenkins para desarrollo y despliegue.",
+                "Administración de Docker registry basado en GitLab.",
+                "Administración del servidor SonarQube, quality gates y reglas.",
+                "Creación de infraestructura en AWS mediante Terraform.",
+                "Consultar y contribuir a la arquitectura del sistema.",
+                "Escribir código limpio, bien documentado y resistente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Consultor Senior de Software",
+            "company": "HMG Systems Engineering GmbH",
+            "location": "Fürth, Germany",
+            "start_date": "2014-08-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y desarrollo de microservicios y otros proyectos realizados en Java con Spring y JPA.",
+                "Gestión de bases de datos PostgreSQL.",
+                "Diseño e implementación de arquitectura de software."
+            ],
+            "achievements": [
+                "Permitió a la organización mejorar continuamente su arquitectura, buscando el mejor uso de las nuevas tecnologías y resolviendo los problemas con las herramientas más adecuadas."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Consultor Senior de Software",
+            "company": "Fiscalía General de la Nación (Colombia)",
+            "location": "Bogotá, Colombia",
+            "start_date": "2014-01-01",
+            "end_date": "2014-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y desarrollo de soluciones de software para procesos internos. Java, Spring, bases de datos PostgreSQL.",
+                "Especificación de requisitos, para establecer la mejor arquitectura posible para diferentes soluciones y generar un diseño de esta y su implementación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Consultor Técnico",
+            "company": "Dirección General de Ingresos (Panamá)",
+            "location": "Panamá, Panamá",
+            "start_date": "2012-11-01",
+            "end_date": "2013-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Soporte técnico para procesos de desarrollo y mantenimiento de software. C#, MS SQL."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Scrum Master, Jefe de equipo, Diseñador Técnico",
+            "company": "Indra",
+            "location": "Buenos Aires - Bogotá, Colombia",
+            "start_date": "2011-08-01",
+            "end_date": "2012-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Scrum Master, Jefe de Equipo, Diseñador Técnico para el sistema Aracsfx Indra Ceicom. Java, Spring, Hibernate, ETL, Oracle."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Responsable Técnico",
+            "company": "Alephsa Limitada",
+            "location": "Bogotá, Colombia",
+            "start_date": "2011-01-01",
+            "end_date": "2011-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión técnica de proyectos, análisis de requisitos, planificación, diseño e implementación de procesos de software. Java, Spring, Hibernate, PostgreSQL, MySQL."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Responsable Técnico",
+            "company": "Instituto Geográfico Agustín Codazzi IGAC",
+            "location": "Bogotá, Colombia",
+            "start_date": "2010-01-01",
+            "end_date": "2010-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Responsable técnico de desarrollo de software para sistema de información agronómica. Java, Spring, Hibernate, Oracle."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Consultor Java",
+            "company": "CTP, Consultoría Tecnología y Procesos",
+            "location": "Bogotá, Colombia",
+            "start_date": "2008-10-01",
+            "end_date": "2009-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo del nuevo portal de la Bolsa de Valores de Colombia. Java, MySQL."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Consultor Java",
+            "company": "Centro Interamericano de Administraciones Tributarias - CIAT",
+            "location": "Ciudad de Panamá, Panamá",
+            "start_date": "2006-11-01",
+            "end_date": "2007-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y desarrollo de módulos de software para aduanas. Java, Hibernate, Oracle."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "DevOps & Cloud Computing",
+            "institution": "Three Points The School for Digital Business",
+            "location": "Barcelona, España",
+            "start_date": "2021-11-01",
+            "end_date": "2022-11-30",
+            "hours": 0
+        },
+        {
+            "degree": "Especialista en gestión informática",
+            "institution": "Universidad EAN",
+            "location": "Bogotá, Colombia",
+            "start_date": "2012-01-01",
+            "end_date": "2013-01-01",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniero de Sistemas",
+            "institution": "Universidad Nacional de Colombia",
+            "location": "Bogotá, Colombia",
+            "start_date": "1999-01-01",
+            "end_date": "2005-01-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "terraform",
+                "docker",
+                "aws",
+                "automatización-de-secuencias-de-comandos",
+                "desarrollo-de-software"
+            ],
+            "soft": [
+                "liderazgo",
+                "colaboración",
+                "resolución-de-problemas",
+                "adaptabilidad",
+                "fuerte-ética-de-trabajo"
+            ],
+            "tools": [
+                "pipelines-ci/cd"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "HashiCorp Certified: Terraform Associate (003)",
+            "issuing_organization": "HashiCorp",
+            "issue_date": "",
+            "expiration_date": "2025-03-01",
+            "credential_id": "",
+            "url": "https://www.credly.com/badges/c5836b65-c3ce-4ca7-8353-a3242461e55b"
+        },
+        {
+            "name": "AWS Certified Cloud Practitioner",
+            "issuing_organization": "AWS",
+            "issue_date": "",
+            "expiration_date": "2024-12-01",
+            "credential_id": "",
+            "url": "https://www.credly.com/badges/af8bf6a2-36dd-44e8-a5c1-dd5b446acceb"
+        },
+        {
+            "name": "12 Weeks DevOps Bootcamp",
+            "issuing_organization": "CloudCamp",
+            "issue_date": "",
+            "expiration_date": "2024-05-01",
+            "credential_id": "",
+            "url": "https://verify.cloudcamp.la/certificate/n3uwvdlvjkn8fudq55dvx/"
+        },
+        {
+            "name": "DevOps Essentials Professional Certificate - DEPC",
+            "issuing_organization": "Certiprof",
+            "issue_date": "",
+            "expiration_date": "2023-03-01",
+            "credential_id": "",
+            "url": "https://www.credly.com/badges/7749a58b-e8a5-4d1d-b853-1d38579bbefa/linked_in_profile"
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Alemán",
+            "proficiency": "Profesional"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Profesional"
+        },
+        {
+            "language": "Portugués",
+            "proficiency": "Limitado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,123 @@
+{
+    "personal_info": {
+        "first_name": "Sebastián",
+        "last_name": "Videla",
+        "email": "sebav364@gmail.com",
+        "phone": "+543764564264",
+        "location": {
+            "country": "",
+            "city": "Posadas",
+            "state": "Misiones"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una API REST en TypeScript con arquitectura Hexagonal para gestionar paquetes turísticos.",
+                "Aplicación en React Native con la PokéAPI para explorar Pokémon.",
+                "Plataforma desarrollada en Next.js y Strapi con optimización SEO.",
+                "Aplicación en Laravel y Livewire para la gestión de tareas en tiempo real."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Ciencia de Datos",
+            "institution": "Universidad del Gran Rosario",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnicatura en Desarrollo de Software",
+            "institution": "Instituto Superior Roque González",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Javascript (Programa codo a codo)",
+            "institution": "Ministerio de Educación (CABA)",
+            "location": "",
+            "start_date": "",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "node.js",
+                "next.js",
+                "laravel",
+                "typescript"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "proactividad",
+                "comunicación-afectiva",
+                "paciencia",
+                "adaptabilidad"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "API REST para Reservas de Paquetes Turísticos",
+            "description": "Desarrollo de una API REST en TypeScript con arquitectura Hexagonal, enfocada en la gestión y consulta de paquetes turísticos.",
+            "technologies": ["TypeScript", "Hexagonal Architecture"],
+            "url": ""
+        },
+        {
+            "name": "App Mobile de Pokémon",
+            "description": "Aplicación en React Native con la PokéAPI para explorar estadísticas de Pokémon.",
+            "technologies": ["React Native"],
+            "url": ""
+        },
+        {
+            "name": "Blog Personal",
+            "description": "Plataforma desarrollada en Next.js y Strapi, con sistema de categorías y optimización para SEO.",
+            "technologies": ["Next.js", "Strapi"],
+            "url": ""
+        },
+        {
+            "name": "To-Do App",
+            "description": "Aplicación en Laravel y Livewire para la gestión de tareas en tiempo real.",
+            "technologies": ["Laravel", "Livewire"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,161 @@
+{
+    "personal_info": {
+        "first_name": "Cristian Alejandro",
+        "last_name": "Gutiérrez González",
+        "email": "cgut90@hotmail.com",
+        "phone": "+56944493577",
+        "location": {
+            "country": "Chile",
+            "city": "Talca",
+            "state": "Región del Maule"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Programador, Técnico de nivel Superior Analista Programador de la Universidad Tecnológica Inacap Talca. Responsable, creativo, presentable, con adaptabilidad y trabajo en equipo. Porque el área informática avanza cada año y exige competencias y actualización de manera constante, las funciones y tareas las desempeñare con excelencia y gran compromiso."
+    },
+    "work_experience": [
+        {
+            "job_title": "Informático",
+            "company": "NATenergy Ltda.",
+            "location": "Talca y Concepción",
+            "start_date": "2016-09-01",
+            "end_date": "2025-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Encargado de informática y gestión en sucursales Talca y Concepción.",
+                "Administrar el sitio web www.natenergy.cl.",
+                "Configuración y manejo de correos y hosting."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Soporte Informático",
+            "company": "Sugal Ltda.",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2015-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Encargado de soporte y mantenimiento de equipos computacionales.",
+                "Instalación de programas ERP SAP, Microsoft Office 2007.",
+                "Instalador de cable estructurado de red y su configuración en los equipos.",
+                "Mantención y configuración de impresoras multifuncionales y de etiqueta tipo zebra.",
+                "Respaldo de información."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista Programador",
+            "institution": "Universidad Tecnológica Inacap",
+            "location": "Talca",
+            "start_date": "2010-01-01",
+            "end_date": "2014-07-01",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Full Stack JavaScript",
+            "institution": "Academia Desafio Latam",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2025-03-01",
+            "hours": 440
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react",
+                "sql",
+                "html",
+                "css",
+                "node.js",
+                "express.js",
+                "c#"
+            ],
+            "soft": [
+                "adaptabilidad",
+                "creatividad",
+                "responsabilidad"
+            ],
+            "tools": [
+                "visual-studio",
+                "visual-studio-code",
+                "pgadmin",
+                "sap",
+                "microsoft-office"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Introducción al Desarrollo Web",
+            "issuing_organization": "Academia Desafio Latam",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "CSS Avanzado",
+            "issuing_organization": "Academia Desafio Latam",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "JavaScript para la Web",
+            "issuing_organization": "Academia Desafio Latam",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "React",
+            "issuing_organization": "Academia Desafio Latam",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "SQL",
+            "issuing_organization": "Academia Desafio Latam",
+            "issue_date": "2024-11-11",
+            "expiration_date": "",
+            "credential_id": "37568"
+        },
+        {
+            "name": "Backend con Node y Express",
+            "issuing_organization": "Academia Desafio Latam",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Sistema de MarketPlace SOFAPP",
+            "description": "Aplicación para publicar productos de tipo muebles sillón o sofás, desarrollado con Visual Studio code, lenguaje JavaScript, utilizando en Frontend React, Bootstrap y Hooks. Backend desarrollado con Nodejs y el servicio Express, utilizando PostgreSQL como base de datos, desplegada con render.",
+            "technologies": ["javascript", "react", "bootstrap", "node.js", "express", "postgresql"],
+            "url": ""
+        },
+        {
+            "name": "Desarrollador del sitio en mantención NATenergy",
+            "description": "Sitio desarrollado con Visual Studio code, utilizando en el Frontend React y Stylo CSS.",
+            "technologies": ["javascript", "react", "css"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

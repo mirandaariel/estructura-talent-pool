@@ -1,0 +1,185 @@
+{
+    "personal_info": {
+        "first_name": "Lucas",
+        "last_name": "Cleti",
+        "email": "lucascleti222@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/lucas-cleti-a58803198/",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "CTO",
+            "company": "Let Technologies",
+            "location": "",
+            "start_date": "2016-03-01",
+            "end_date": "2025-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Lead the development of innovative digital solutions.",
+                "Drive sustainable growth through high-performance teams.",
+                "Focus on digital transformation and enhancing customer experience."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Senior Associate DevOps Engineer",
+            "company": "PwC Argentina - PwC Labs",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Designed and optimized CI/CD pipelines in Azure DevOps.",
+                "Implemented scalable cloud solutions using Terraform and Kubernetes.",
+                "Coordinated the migration of production systems to cloud platforms."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "DevOps Developer",
+            "company": "PwC Argentina - PwC Labs",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2024-06-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Automated deployment and monitoring processes.",
+                "Managed AWS and Azure infrastructure focusing on security and scalability."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "Nubity",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2023-09-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed a tool for deploying websites using AWS and Terraform.",
+                "Enhanced reliability in production systems."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "IT Infrastructure Engineer",
+            "company": "ToolSoft SRL",
+            "location": "",
+            "start_date": "2020-12-01",
+            "end_date": "2021-04-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Administered VMware servers and configured monitoring systems.",
+                "Optimized local networks and managed corporate email servers."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "Valkimia",
+            "location": "",
+            "start_date": "2021-07-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed mobile applications in Genexus 16 for inventory management.",
+                "Supported a sales system based on IBM's AS400 platform."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura, Informática",
+            "institution": "Colegio San Jose 2043",
+            "location": "",
+            "start_date": "2014-09-01",
+            "end_date": "2019-06-30",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en ciencias de la computación",
+            "institution": "FCEIA, Universidad Nacional de Rosario",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "git",
+                "gitlab",
+                "jenkins",
+                "nagios",
+                "python",
+                "css",
+                "genexus",
+                "html",
+                "php",
+                "sql",
+                "javascript",
+                "c++",
+                "java",
+                "c#",
+                "docker",
+                "kubernetes",
+                "terraform",
+                "azure",
+                "aws"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Advanced"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Andrés Crocce",
+            "relationship": "Director at Colegio San José de Rosario",
+            "contact": "+543413239709"
+        },
+        {
+            "name": "Gustavo Trentini",
+            "relationship": "Project Manager at Legado IT",
+            "contact": "+543415858282"
+        },
+        {
+            "name": "Andrea Culetto",
+            "relationship": "Project Manager at Valkimia",
+            "contact": "+5491169824010"
+        }
+    ]
+}

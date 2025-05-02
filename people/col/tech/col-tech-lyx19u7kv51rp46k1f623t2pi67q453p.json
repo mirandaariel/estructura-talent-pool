@@ -1,0 +1,95 @@
+{
+    "personal_info": {
+        "first_name": "Pedro",
+        "last_name": "Aldana",
+        "email": "pedroaldana987@gmail.com",
+        "phone": "+57 3117152962",
+        "location": {
+            "country": "Colombia",
+            "city": "Barrancabermeja",
+            "state": "Santander"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador backend con experiencia en Python, Django, FastAPI y PostgreSQL, además de habilidades en frontend con Next.js y TypeScript. Especializado en crear aplicaciones escalables y seguras que optimizan procesos y potencian negocios."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Web",
+            "company": "",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Identificar las necesidades del negocio y definir los requerimientos técnicos para la sistematización de los procesos.",
+                "Crear una estructura robusta y escalable utilizando Django para el backend, PostgreSQL para la base de datos y Next.js para el frontend.",
+                "Desarrollar herramientas personalizadas que redujeron el tiempo de gestión y optimizaron la eficiencia operativa.",
+                "Modelar y optimizar la estructura de datos en PostgreSQL para mejorar la velocidad y precisión en la recuperación de información.",
+                "Conectar la nueva plataforma con herramientas externas y APIs necesarias para la gestión de cobranza."
+            ],
+            "achievements": [
+                "Lideré la sistematización completa de los procesos de una agencia de cobranza, logrando un aumento del 60% en la eficiencia operativa y una reducción del 40% en los tiempos de gestión.",
+                "Posicioné la empresa como líder en su sector y fortalecí su competitividad en el mercado."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Diseñador y Programador Backend",
+            "company": "",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Liderar la implementación de un sistema de gestión para optimizar procesos operativos y estratégicos.",
+                "Reducir errores operativos y mejorar la eficiencia en la gestión de inventarios.",
+                "Optimizar la trazabilidad de productos para un mejor control y gestión de recursos.",
+                "Analizar y comprender las necesidades del negocio para desarrollar soluciones efectivas.",
+                "Monitorear el impacto de las soluciones implementadas y realizar mejoras continuas."
+            ],
+            "achievements": [
+                "Diseñé e implementé un sistema integral de gestión de inventarios que logró reducir los errores operativos en un 30% y aumentar la eficiencia general en un 20%."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería Informática",
+            "institution": "Instituto Universitario La Paz",
+            "location": "Barrancabermeja, Colombia",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "django",
+                "fastapi",
+                "posgresql",
+                "mongodb",
+                "nextjs",
+                "typescript",
+                "git"
+            ],
+            "soft": [],
+            "tools": [
+                "visual-code",
+                "postman",
+                "trello"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

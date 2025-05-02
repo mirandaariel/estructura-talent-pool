@@ -1,0 +1,180 @@
+{
+    "personal_info": {
+        "first_name": "Paola Beatriz",
+        "last_name": "Torres",
+        "email": "paotorres89@gmail.com",
+        "phone": "+549 260 430 5636",
+        "location": {
+            "country": "Argentina",
+            "city": "Mendoza",
+            "state": ""
+        },
+        "linkedin": "paolabtorres",
+        "website": "",
+        "portfolio": "paobtorres",
+        "summary": "Data Analyst | Ph.D on Engineer"
+    },
+    "work_experience": [
+        {
+            "job_title": "Posdoctoral position",
+            "company": "Grupo Vinculado Bionanotecnología y sistemas complejos CONICET-UTN",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ph.D Student",
+            "company": "Grupo Vinculado Bionanotecnología y sistemas complejos CONICET-UTN",
+            "location": "",
+            "start_date": "2018-03-01",
+            "end_date": "2024-07-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Thesis Topic: Theoretical computational study of proteins with polyelectrolytes.",
+                "Develop code in Fortran to simulate proteins and polyelectrolyte",
+                "Data process of simulation results",
+                "Write articles with the results for publication in Scientific Journals"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Research Intership",
+            "company": "Charles University",
+            "location": "Praga, Republica Checa",
+            "start_date": "2022-05-01",
+            "end_date": "2022-11-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Develop script in Python for general uses on the Soft Matter group.",
+                "Develop script in Python to create a coarse-grained model of proteins to study using EsPRESSo Software.",
+                "Refactor of pyMBE library using Pandas as the main tool of bookkeeping of all the simulation parameters"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Assistant Professor",
+            "company": "Facultad Regional San Rafael, Universidad Tecnologica Nacional",
+            "location": "",
+            "start_date": "2018-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ph.D on Engineer with Mention on Chemical Technologies",
+            "institution": "Facultad Regional Buenos Aires, UTN",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Chemical Engineer",
+            "institution": "Universidad Nacional de Cuyo",
+            "location": "",
+            "start_date": "2007-01-01",
+            "end_date": "2013-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "gnu/linux",
+                "windows",
+                "machine-learning-models",
+                "command-line",
+                "image-processing",
+                "sql",
+                "power-bi",
+                "fortran",
+                "python",
+                "latex"
+            ],
+            "soft": [],
+            "tools": [
+                "microsoft-office",
+                "google-sheets",
+                "git",
+                "github",
+                "gitlab"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Developer pyMBE",
+            "description": "Specialized library aimed at the molecular creation process within the ESPReSSO Software. Responsible for comprehensive refactoring, using Pandas to enhance data management for particles. Adapted library for globular proteins creation.",
+            "technologies": ["python", "pandas"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "First Certificate B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [
+        {
+            "title": "pyMBE: the Python-based Molecule Builder for ESPReSSo",
+            "publisher": "arXiv preprint",
+            "publication_date": "2024-01-01",
+            "url": "https://doi.org/10.48550/arXiv.2401.14954"
+        },
+        {
+            "title": "Modulation of the electrostatic potential around -lactalbumin using oligoelectrolyte chains, pH and salt concentration",
+            "publisher": "Soft Matter",
+            "publication_date": "2024-01-01",
+            "url": "https://doi.org/10.1039/D3SM01414B"
+        },
+        {
+            "title": "Concentration of proteins and fat from whey by coacervation: Evaluation of its incorporation in bread",
+            "publisher": "Journal of Food Processing and Preservation",
+            "publication_date": "2022-01-01",
+            "url": "https://doi.org/10.1111/jfpp.16297"
+        },
+        {
+            "title": "The electrostatic potential inside and around α lactalbumin: Fluctuations and mean-field models",
+            "publisher": "The Journal of Chemical Physics",
+            "publication_date": "2022-01-01",
+            "url": "https://doi.org/10.1063/5.0122275"
+        },
+        {
+            "title": "Interaction between β-Lactoglobuline and Weak Polyelectrolyte Chains: A Study Using Monte Carlo Simulation",
+            "publisher": "The Journal of Physical Chemistry B",
+            "publication_date": "2019-01-01",
+            "url": "https://doi.org/10.1021/acs.jpcb.9b03276"
+        },
+        {
+            "title": "Adsorption of three-domain antifreeze proteins on ice: a study using LGMMAS theory and Monte Carlo simulations",
+            "publisher": "Physical Chemistry Chemical Physics",
+            "publication_date": "2017-01-01",
+            "url": "https://doi.org/10.1039/C7CP06618J"
+        },
+        {
+            "title": "Protonation of β-lactoglobulin in the presence of strong polyelectrolyte chains: a study using Monte Carlo simulation",
+            "publisher": "Colloids and Surfaces B: Biointerfaces",
+            "publication_date": "2017-01-01",
+            "url": "https://doi.org/10.1016/j.colsurfb.2017.09.018"
+        }
+    ],
+    "references": []
+}

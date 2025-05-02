@@ -1,0 +1,118 @@
+{
+    "personal_info": {
+        "first_name": "Astrid",
+        "last_name": "Segovia",
+        "email": "astridsegmor8@gmail.com",
+        "phone": "+58 424-7274907",
+        "location": {
+            "country": "Venezuela",
+            "city": "Trujillo",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniera en informática con experiencia en desarrollo web y soporte técnico. Proactiva y organizada, con fuerte enfoque en la resolución de problemas y trabajo en equipo. Capacidad de aprendizaje continuo y motivación para aportar soluciones innovadoras en entornos dinámicos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Técnico de TI",
+            "company": "INFLEGRA",
+            "location": "Caracas, Venezuela",
+            "start_date": "2024-11-01",
+            "end_date": "2025-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Soporte técnico y mantenimiento de sistemas informáticos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Auxiliar de Farmacia",
+            "company": "Grupo de Farmacias La Plazuela",
+            "location": "Trujillo, Venezuela",
+            "start_date": "2021-05-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención al cliente y gestión de inventario."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Informática",
+            "institution": "UPTT 'Mario Briceño Iragorry'",
+            "location": "Trujillo, Venezuela",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Aprendiz de Farmacia",
+            "institution": "SACS",
+            "location": "Trujillo, Venezuela",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Titulo de Bachiller",
+            "institution": "U.E Colegio 'Nuestra Señora de Coromoto'",
+            "location": "Trujillo, Venezuela",
+            "start_date": "",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "php",
+                "javascript",
+                "html",
+                "css",
+                "laravel",
+                "mysql",
+                "git",
+                "github"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Google Analytics (GA4)",
+            "issuing_organization": "Google",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "App web de gestión administrativa",
+            "description": "Desarrollé una aplicación web utilizando Laravel (PHP), HTML, CSS y JavaScript para la gestión de afiliados en una unidad médico asistencial, optimizando procesos y reduciendo costos administrativos en un 30%.",
+            "technologies": ["laravel", "php", "html", "css", "javascript"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "",
+            "relationship": "",
+            "contact": ""
+        }
+    ]
+}

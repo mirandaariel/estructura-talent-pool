@@ -1,0 +1,175 @@
+{
+    "personal_info": {
+        "first_name": "Sebastian",
+        "last_name": "Balbuena",
+        "email": "sebastianbalbuena.job@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/sebastian-balbuena-b54597208",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Web App Developer",
+            "company": "Consultorio Medico",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Investigación sobre el rubro y análisis de requisitos.",
+                "Diseño y modelado de la base de datos relacional para la aplicación.",
+                "Desarrollo de controladores y vistas.",
+                "Implementación de la funcionalidad completa de la aplicación.",
+                "Identificación y resolución de errores.",
+                "Publicación y despliegue de la aplicación en un servicio de hosting."
+            ],
+            "achievements": [
+                "Diseñé una base de datos relacional simplificada para la gestión de datos médicos y de pacientes.",
+                "Implementé controladores específicos para cada función clave.",
+                "Apliqué un sistema integral de manejo de errores mejorando la experiencia de usuario."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Web Developer",
+            "company": "New Origin",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de tienda en línea con ofertas, productos destacados y diseño responsivo.",
+                "Sistema de registro de usuarios con validación y manejo de errores.",
+                "Catálogo de productos con filtros avanzados y carrito de compras.",
+                "Panel de administración para gestión de stock con CRUD en SQL Server.",
+                "Registro de ventas y reportes mensuales visualizados con Google Charts."
+            ],
+            "achievements": [
+                "Creé una tienda en línea fácil de navegar con un diseño responsivo.",
+                "Implementé un sistema de registro seguro y validado.",
+                "Diseñé un catálogo de productos con filtros avanzados.",
+                "Desarrollé un panel de administración eficiente que optimiza la gestión de inventarios.",
+                "Generé reportes visuales de ventas mensuales con Google Charts."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Inventory and Sales Management Developer",
+            "company": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé un sistema de gestión de inventarios y ventas en WinForms con C# y SQL Server.",
+                "Implementé la conexión a la base de datos mediante ADO.NET.",
+                "Utilicé GitHub para el control de versiones.",
+                "Apliqué arquitectura en capas y buenas prácticas de programación orientada a objetos."
+            ],
+            "achievements": [
+                "Mejora la administración de inventarios y la gestión de ventas.",
+                "Proporciona una herramienta eficiente para el control de productos y ventas.",
+                "Potenció la escalabilidad y mantenimiento del sistema mediante buenas prácticas."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Web API Developer",
+            "company": "",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de arquitectura basada en .NET Core Web API.",
+                "Pruebas de funcionalidades con Postman.",
+                "Diseño de base de datos relacional en SQL Server.",
+                "Implementación del patrón de servicios."
+            ],
+            "achievements": [
+                "Optimización de operaciones CRUD.",
+                "Estandarización del desarrollo mediante patrones de diseño.",
+                "Manejo robusto de errores."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                "sql-server",
+                "html",
+                "css",
+                "javascript",
+                ".net-core",
+                "api-rest",
+                "asp.net-framework",
+                "entity-framework",
+                "ado.net",
+                "github",
+                "poo",
+                "postman",
+                "winforms",
+                "bootstrap",
+                "google-charts",
+                "diseño-de-bases-de-datos-relacionales",
+                "visual-studio",
+                "patron-de-servicios"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Base de datos SQL",
+            "issuing_organization": "UTN",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "",
+            "additional_information": "[MAXIPROGRAMA.COM]"
+        },
+        {
+            "name": "C# Nivel 3 (App web ASP.NET Framework)",
+            "issuing_organization": "UTN",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "",
+            "additional_information": "[MAXIPROGRAMA.COM]"
+        },
+        {
+            "name": "C# Nivel 2 (C# + .NET + SQL)",
+            "issuing_organization": "UTN",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "",
+            "additional_information": "[MAXIPROGRAMA.COM]"
+        },
+        {
+            "name": "C# Nivel 1 (Fundamentos de la programación)",
+            "issuing_organization": "UTN",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "",
+            "additional_information": "[MAXIPROGRAMA.COM]"
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

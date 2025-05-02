@@ -1,0 +1,117 @@
+{
+    "personal_info": {
+        "first_name": "Hernán",
+        "last_name": "Acevedo",
+        "email": "hernanacevedo704@gmail.com",
+        "phone": "+54 3518024960",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/hernan97/",
+        "website": "https://github.com/hernanacevedo",
+        "portfolio": "",
+        "summary": "Desarrollador con 1 año de experiencia en el diseño, desarrollo y mantenimiento de aplicaciones web robustas y de alto rendimiento. Actualmente, me estoy especializando en tecnologías de front-end y back-end, además de profundizar en prácticas DevOps para optimizar el ciclo de desarrollo y despliegue. Me destaco por mi capacidad para trabajar en equipo, mi actitud proactiva y mi compromiso con un desempeño positivo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Back-end",
+            "company": "CIDS (UTN_FRC)",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2024-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé e implementé APIs RESTFULL utilizando Node.js con Express, utilicé Typescript y TypeORM para el mapeo de tablas y relaciones de la Base de Datos.",
+                "Trabajé con diferentes microservicios, postman para realizar pruebas de los diferentes métodos, Swagger para la documentación, Scrum como metodología Agile.",
+                "Despliegue con integración continua a través de Gitlab.",
+                "Comunicación constante con el equipo de front-end para el desarrollo e integración del sistema."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Administrador de Base Datos (DBA)",
+            "company": "CIDS (UTN_FRC)",
+            "location": "",
+            "start_date": "2022-10-01",
+            "end_date": "2023-08-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé e implementé tablas, procedimiento almacenado y migraciones en MySQL.",
+                "Colaboré con los despliegues de la Base de Datos en diferentes entornos (Dev, Test, Prod).",
+                "Refactoricé tablas, procedimientos almacenados, optimizando las consultas y tiempos de respuestas para el back-end."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas de Información",
+            "institution": "Universidad Tecnológica Nacional Facultad Regional Córdoba (UTN-FRC)",
+            "location": "",
+            "start_date": "2010-03-01",
+            "end_date": "2015-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Turismo",
+            "institution": "Escuela Dante Alighieri",
+            "location": "",
+            "start_date": "2010-03-01",
+            "end_date": "2015-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "javascript",
+                "c#",
+                "python",
+                "node.js",
+                "nest.js",
+                "express",
+                "react",
+                "mongodb",
+                "mysql",
+                "postgresql",
+                "mongoose",
+                "typeorm",
+                "sequelize",
+                "prisma"
+            ],
+            "soft": [
+                "teamwork",
+                "proactive",
+                "commitment"
+            ],
+            "tools": [
+                "git",
+                "docker",
+                "kubernetes-engine",
+                "google-cloud",
+                "scrum",
+                "devops-ci/cd"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

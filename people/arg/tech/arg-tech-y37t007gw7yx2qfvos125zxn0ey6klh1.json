@@ -1,0 +1,150 @@
+{
+    "personal_info": {
+        "first_name": "Felipe",
+        "last_name": "Durini",
+        "email": "felipeduri@gmail.com",
+        "phone": "+54 911 61882374",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/felipedurini",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy estudiante de Ciencias de la Computación en la Universidad de Buenos Aires. Como desarrollador, poseo amplios conocimientos en lenguajes multiparadigmáticos, como JavaScript, además de experiencia en lenguajes funcionales y programación orientada a objetos (POO)."
+    },
+    "work_experience": [
+        {
+            "job_title": "Tutor de Javascript",
+            "company": "Coderhouse",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Asistir al profesor en clase.",
+                "Orientar y ayudar a los alumnos.",
+                "Corregir sus trabajos."
+            ],
+            "achievements": [
+                "Calificación de 4.93/5 basada en valoraciones de alumnos."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Salesforce en Pasantía Educativa",
+            "company": "Cloudgaia y Plataforma 5",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "2023-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una aplicación para la automatización de procesos y administración de equipos de trabajo.",
+                "Desarrollo de una aplicación educativa con un sistema de evaluación de respuestas multiple-choice, división de perfiles entre alumnos y profesores, y clasificación de unidades por contenido teórico."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Salesforce Bootcamp",
+            "institution": "Plataforma 5",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "2023-05-31",
+            "hours": 800
+        },
+        {
+            "degree": "Licenciatura en Ciencias Económicas",
+            "institution": "Universidad de Buenos Aires",
+            "location": "",
+            "start_date": "2020-05-01",
+            "end_date": "2022-11-30",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Ciencias de la Computación",
+            "institution": "Universidad de Buenos Aires",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "2027-10-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso Full Stack Open",
+            "institution": "Universidad de Helsinki",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "java",
+                "sql",
+                "react-j5",
+                "haskell",
+                "mongo-db",
+                "redux",
+                "node.js"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Salesforce Associate",
+            "issuing_organization": "Salesforce",
+            "issue_date": "2023-05-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "C2"
+        },
+        {
+            "language": "Francés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Desarrollador de Salesforce Voluntario",
+            "organization": "ADA ITW",
+            "location": "",
+            "start_date": "2023-05-01",
+            "end_date": "2023-10-31",
+            "responsibilities": [
+                "Desarrollo de la integración de la base de datos de la fundación con Salesforce.",
+                "Encargado de la digitalización de documentos utilizando odk."
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "title": "Artículo sobre Integración en Salesforce",
+            "publisher": "",
+            "publication_date": "",
+            "url": ""
+        }
+    ],
+    "references": []
+}

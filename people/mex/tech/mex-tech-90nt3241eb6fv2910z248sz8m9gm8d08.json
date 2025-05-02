@@ -1,0 +1,140 @@
+{
+    "personal_info": {
+        "first_name": "Ivan Israel",
+        "last_name": "Puente",
+        "email": "ivan_puente09@live.com.mx",
+        "phone": "+52 812 892 8238",
+        "location": {
+            "country": "Mexico",
+            "city": "Monterrey",
+            "state": "Nuevo León"
+        },
+        "linkedin": "https://www.linkedin.com/in/ivan-israel-puente-baena",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un profesional, proactivo, autodidacta, enfocado en la resolución de problemas y el trabajo en equipo, con la capacidad de asumir liderazgo cuando es necesario. Actualmente, desarrollo proyectos web personales que me permiten estar en constante aprendizaje. Además, me encuentro mejorando mi nivel de inglés como parte de mi crecimiento personal."
+    },
+    "work_experience": [
+        {
+            "job_title": "Practicante de Automatización",
+            "company": "Cemex",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñe e implementé automatizaciónes de procesos para mejorar la eficiencia operativa en procesos administrativos y de generación de facturas.",
+                "Automaticé el proceso de facturación, aumentando la productividad y reduciendo los tiempos de respuesta en un 99.8%.",
+                "Cree un proceso automatizado de generación de Diplomas, con power automate y programación en Visual Basic.",
+                "Diseñe dashboards para ayudar a alcanzar las metas y objetivos de UC.",
+                "Diseñe SCORMS para su implementación en cursos de Universidad Construrama."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Diseñador UI/UX - Desarrollador Frontend",
+            "company": "Proyecto Hermes",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboré en el desarrollo de un proyecto para estudiantes de FIME que aborda la incorporación de un periódico escolar digital.",
+                "Me encargué del diseño UI/UX, llevar el control del proyecto y participé en el desarrollo frontend, utilizando Figma para el diseño web y React, Tailwind CSS para el desarrollo."
+            ],
+            "achievements": [
+                "Implementación e incorporación a la página oficial de Fime.",
+                "Diseño UI/UX del proyecto.",
+                "Diseño de logotipos del proyecto."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software and Support Intern",
+            "company": "Kirana labs",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Mi función principal fue como Tester Jr. realizando pruebas de usabilidad en varios proyectos.",
+                "Llevaba a cabo modificaciones simples en bases de datos SQL.",
+                "Brindar soporte a usuarios, hacer consultas a la base de datos y documentar los casos de prueba."
+            ],
+            "achievements": [
+                "Automatice un proceso de excel, con un script de python mejorando un 50% la productividad en esa tarea."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ing. Tecnologías de software",
+            "institution": "UANL. FIME",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnico Diseño grafico",
+            "institution": "B. TC. Álvaro Obregón",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "python",
+                "nodejs",
+                "react",
+                "vb"
+            ],
+            "soft": [
+                "comunicación-efectiva",
+                "trabajo-en-equipo",
+                "productivo",
+                "integro",
+                "creativo",
+                "resolución-de-problemas"
+            ],
+            "tools": [
+                "figma",
+                "photoshop",
+                "illustrator",
+                "power-automate",
+                "power-query",
+                "excel-avanzado",
+                "power-bi",
+                "git",
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

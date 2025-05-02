@@ -1,0 +1,117 @@
+{
+    "personal_info": {
+        "first_name": "Ludwing",
+        "last_name": "Barriga",
+        "email": "ludwing_2001@hotmail.com",
+        "phone": "+593 984512632",
+        "location": {
+            "country": "",
+            "city": "Ambato",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un apasionado de la tecnología y el desarrollo de software. Me gusta el desarrollo de aplicaciones web en tecnologías como Laravel. Me gustan los proyectos desafiantes y siempre estoy buscando aprender y mejorar mis habilidades. En mi tiempo libre disfruto de la música, tocar instrumentos, los deportes y viajar."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador",
+            "company": "GAD Municipalidad Ambato",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Encargado del análisis e implementación de procesos para la sistematización de trámites de la Dirección de Avalúos y Catastros y de la Dirección de Gestión de Suelos.",
+                "Para la realización de estos sistemas se utilizó Oracle, Apex Oracle y JavaScript."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador",
+            "company": "SEMPROVEC",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Encargado del desarrollo de un proyecto de comercio electrónico a pequeña escala utilizando Laravel, React y PostgreSQL.",
+                "Colaboración en la resolución de desafíos técnicos para garantizar soluciones innovadoras y de calidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Tesista",
+            "company": "GAD Ambato",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "2023-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Realización de un sistema de gestión de historias clínicas y telemedicina orientado al departamento médico de la institución.",
+                "Uso de tecnologías: Oracle, APEX ORACLE, PHP, y Flutter."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachillerato Internacional Superior",
+            "institution": "Unidad Educativa Atahualpa",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura",
+            "institution": "Universidad Técnica de Ambato",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["flutter", "laravel", "react", "mysql", "oracle", "angular", ".net"],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Angular",
+            "issuing_organization": "Global Mentoring",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo de Apps Móviles",
+            "issuing_organization": "Google",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

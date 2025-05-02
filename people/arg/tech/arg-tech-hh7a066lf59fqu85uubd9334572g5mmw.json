@@ -1,0 +1,105 @@
+{
+    "personal_info": {
+        "first_name": "Andrés",
+        "last_name": "Ugarte",
+        "email": "aucornejo@gmail.com",
+        "phone": "+56940168147",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/aucornejo",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy desarrollador Full Stack apasionado por crear soluciones innovadoras y eficientes. Me motiva profundamente el trabajo en equipo y la satisfacción de alcanzar metas conjuntas. Busco una posición como desarrollador que me permita aplicar mis conocimientos y continuar mi desarrollo profesional en un entorno desafiante y estimulante."
+    },
+    "work_experience": [
+        {
+            "job_title": "Front-End & Back-End Developer",
+            "company": "Generation Chile",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "2025-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Participé en un proyecto integrador en las labores de desarrollo Front-End, Back-End con HTML, CSS y JavaScript e implementación de pasarela de pago.",
+                "Desarrollar alineado a los estándares estéticos y funcionales del proyecto utilizando JavaScript.",
+                "Implementar soluciones escalables utilizando tecnologías como React, Node.js, y MongoDB.",
+                "Integración de API y servicios externos.",
+                "Colaborar con diseñadores y gerentes de proyecto para asegurar la calidad del producto final."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Censista",
+            "company": "Instituto Nacional de Estadísticas",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Recolección y registro de datos.",
+                "Comunicación efectiva con la ciudadanía.",
+                "Resolución de dudas y asistencia al público.",
+                "Trabajo en campo y manejo de información."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full stack JavaScript",
+            "institution": "Generation Chile",
+            "location": "",
+            "start_date": "2024-12-01",
+            "end_date": "2025-02-28",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Eléctrica (Incompleto)",
+            "institution": "INACAP",
+            "location": "",
+            "start_date": "2020-03-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html",
+                "css",
+                "react",
+                "nodejs",
+                "bootstrap",
+                "github",
+                "mongodb",
+                "python"
+            ],
+            "soft": [
+                "atención-al-cliente",
+                "resolución-de-problemas",
+                "flexibilidad-y-adaptabilidad",
+                "trabajo-en-equipo"
+            ],
+            "tools": [
+                "jira",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

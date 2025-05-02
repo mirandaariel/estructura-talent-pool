@@ -1,0 +1,222 @@
+{
+    "personal_info": {
+        "first_name": "Yovana",
+        "last_name": "Velasquez Cruz",
+        "email": "vovana.ulc@gmail.com",
+        "phone": "+51921398795",
+        "location": {
+            "country": "Peru",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "https://github.com/in",
+        "summary": "Desarrolladora Frontend con sólida formación en Angular, React y Node. Persona creativa, curiosa y proactiva enfocada en construir soluciones tecnológicas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer Specialist",
+            "company": "Delfosti",
+            "location": "Volcan",
+            "start_date": "2022-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Implementacion de arquitectura hexagonal.",
+                "Maquetación de componentes UI/UX.",
+                "Integración de OAuth con Microsoft.",
+                "Manejo de módulos, submodulos y permisos.",
+                "Consumo de APIs y servicios externos.",
+                "Integración de Power BI y gráficos estadísticos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer Specialist",
+            "company": "Grupo Fe",
+            "location": "",
+            "start_date": "2022-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Maquetación de componentes e interfaces diseñada por UI/UX.",
+                "Integración de OAuth con Microsoft.",
+                "Construcción de tablas dinámicas con filtros y configuración.",
+                "Gestión de usuarios por roles y permisos.",
+                "Gestión de espacios mediante Google maps.",
+                "Consumo de APIs y servicios externos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer Specialist",
+            "company": "NM Viajes",
+            "location": "",
+            "start_date": "2022-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Optimización de resultados de búsqueda de vuelos.",
+                "Maquetación y funcionalidad del Home, Checkout y Vuelos.",
+                "Integración de OpenPay y SafetyPay para pagos.",
+                "Implementación de filtros y orden en resultados de búsqueda.",
+                "Integración de Google Tag Manager.",
+                "Consumo de APIs y servicios externos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer Specialist",
+            "company": "Jockey Plaza",
+            "location": "",
+            "start_date": "2022-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Configuración y maquetación del proyecto.",
+                "Maquetación de Emails.",
+                "Integración de Salesforce como API y form action.",
+                "Construcción de chatbot con DialogFlow.",
+                "Gestión de la seguridad del sitio web."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Lilab",
+            "location": "",
+            "start_date": "2021-12-01",
+            "end_date": "2022-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación de submódulos de recaudación y cobranza.",
+                "Diseño UI para proyecto financiero.",
+                "Migración de versión de escritorio a webapp con notificaciones en tiempo real."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Practicante de Sistemas",
+            "company": "SISEM Perú",
+            "location": "",
+            "start_date": "2020-12-01",
+            "end_date": "2021-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación de frontend y backend para sistema de ventas, compras, almacén y facturación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachiller de Ing. en Informática y Sistemas",
+            "institution": "Universidad Nacional Jorge Basadre Grohmann",
+            "location": "",
+            "start_date": "2013-01-01",
+            "end_date": "2018-06-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "angular",
+                "react",
+                "node.js",
+                "typescript",
+                "rxjs",
+                "scss",
+                "docker",
+                "firebase",
+                "mongodb",
+                "mysql",
+                "javascript",
+                "bootstrap",
+                "css",
+                "material-ui"
+            ],
+            "soft": [],
+            "tools": [
+                "git/github",
+                "illustrator",
+                "figma",
+                "corel-draw",
+                "jira",
+                "photoshop",
+                "trello",
+                "power-bi"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "PetStore",
+            "description": "E-commerce para venta de productos para mascotas.",
+            "technologies": ["angular", "material", "firebase", "typescript"],
+            "url": ""
+        },
+        {
+            "name": "Burguer Queen",
+            "description": "Sistema de órdenes de un restaurante.",
+            "technologies": ["angular", "api rest", "css", "bootstrap"],
+            "url": ""
+        },
+        {
+            "name": "CourseShare",
+            "description": "Red social para compartir cursos online.",
+            "technologies": ["javascript", "firebase", "css", "html"],
+            "url": ""
+        },
+        {
+            "name": "Tutormid",
+            "description": "Página en construcción para encontrar profesores particulares online.",
+            "technologies": ["react", "node.js", "express", "mongodb", "angular", "css", "typescript", "salesforce", "webpack"],
+            "url": ""
+        },
+        {
+            "name": "Tai Loy",
+            "description": "Gestión de eventos para optimizar pedidos de clientes.",
+            "technologies": ["react", "css", "typescript", "bootstrap", "redux", "react-query"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [],
+    "certifications_completed": [
+        {
+            "name": "FullStack developer Bootcamp CódiGo",
+            "instituition": "CódiGo",
+            "completion_date": "2023-02-28"
+        },
+        {
+            "name": "Frontend Angular Mitocode",
+            "instituition": "Mitocode",
+            "completion_date": "2022-06-30"
+        },
+        {
+            "name": "Frontend React PachaQTec Academy",
+            "instituition": "PachaQTec Academy",
+            "completion_date": "2022-02-28"
+        },
+        {
+            "name": "Frontend developer Bootcamp Laboratoria",
+            "instituition": "Laboratoria",
+            "completion_date": "2021-11-30"
+        }
+    ]
+}

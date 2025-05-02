@@ -1,0 +1,105 @@
+{
+    "personal_info": {
+        "first_name": "Carlos Facundo",
+        "last_name": "Cuezzo",
+        "email": "facuu.cuezzo@gmail.com",
+        "phone": "3814051413",
+        "location": {
+            "country": "Argentina",
+            "city": "San Miguel de Tucumán",
+            "state": "Tucumán"
+        },
+        "linkedin": "https://www.linkedin.com/in/facundocuezzo/?originalSubdomain=ar",
+        "website": "",
+        "portfolio": "",
+        "summary": "Apasionado por la tecnología, con un excelente manejo de Frontend gracias a mi formación en la UTN. Además, amplié mis conocimientos en Backend en el curso de Rolling Code, preparándome para afrontar nuevos desafíos en el desarrollo web. Mi objetivo: Ingresar al mundo IT como Desarrollador Full Stack Junior, seguir aprendiendo y creciendo profesionalmente."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador web",
+            "company": "Portuese hnos",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé un sistema de ventas completo utilizando 100% Java puro, que integra una base de datos para gestionar productos, clientes y proveedores.",
+                "Este sistema permite realizar ventas, imprimir comprobantes y presenta un historial de ventas, facilitando a la administración la evaluación del desempeño de los productos y tendencias de ventas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador web",
+            "company": "Kiosco Vallejo",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé un sitio web que presenta de manera efectiva los servicios y productos de la empresa, incluyendo descripciones detalladas de cada uno.",
+                "Implementé un acceso directo a WhatsApp, facilitando la comunicación entre la empresa y los clientes y mejorando la interacción y la accesibilidad de la información."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Community Manager",
+            "company": "Rand tours",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestioné las redes sociales de la empresa (Instagram y Facebook), impulsando la presencia en línea y el engagement con la audiencia.",
+                "Diseñé y ejecuté campañas publicitarias para promover la marca y los proyectos de la empresa de viajes.",
+                "Proporcioné atención al cliente de manera digital, resolviendo consultas y mejorando la satisfacción del cliente.",
+                "Creé contenido atractivo, incluyendo historias de Instagram y publicaciones, para fomentar la interacción y aumentar la visibilidad de la marca."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Superior en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-01-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "mysql",
+                "react",
+                "node.js",
+                "c#",
+                "bootstrap",
+                "css",
+                "javascript",
+                "html5",
+                "git",
+                "mongodb",
+                "sqlite"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Nivel alto"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

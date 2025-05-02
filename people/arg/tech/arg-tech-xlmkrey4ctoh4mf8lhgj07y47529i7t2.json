@@ -1,0 +1,109 @@
+{
+    "personal_info": {
+        "first_name": "Bruno",
+        "last_name": "Sosa",
+        "email": "sosabruno3384@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "San Luis",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/brunos0sa",
+        "website": "Bruno's Portfolio",
+        "portfolio": "",
+        "summary": "Web developer with a strong foundation in technologies, like React, Typescript, Node.Js and Express. Passionate about solving problems, learning new skills, and collaborating in dynamic team environments to deliver high-quality web applications that focus on user experience and functionality."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Integrity Solutions",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Collaborated on migrating a desktop application to the web using modern technologies.",
+                "Developed a user-friendly graphical interface tailored to client needs."
+            ],
+            "achievements": [
+                "Collaborated with a development team to achieve common goals."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer & UI Designer",
+            "company": "NoCountry",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Designed the user interface for the project.",
+                "Contributed to frontend development and coded the graphical interface."
+            ],
+            "achievements": [
+                "Proposed creative ideas for UI and the general project structure.",
+                "Implemented unique features like 3D models using Three.js."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Technical Degree in Web Development",
+            "institution": "National University of San Luis",
+            "location": "San Luis, Argentina",
+            "start_date": "2022-07-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Web Development Certification",
+            "institution": "Platzi Academy",
+            "location": "",
+            "start_date": "2022-12-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "typescript",
+                "javascript",
+                "tailwindcss",
+                "material-ui",
+                "css",
+                "bootstrap",
+                "node.js",
+                "php",
+                "mysql",
+                "sql",
+                "express"
+            ],
+            "soft": [
+                "fast-learner",
+                "team-collaboration",
+                "proactive-problem-solving"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "figma",
+                "slack"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

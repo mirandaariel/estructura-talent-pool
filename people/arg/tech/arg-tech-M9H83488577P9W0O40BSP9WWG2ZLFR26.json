@@ -1,0 +1,67 @@
+{
+    "personal_info": {
+        "first_name": "Josefina",
+        "last_name": "Rios",
+        "email": "josefinarios857@gmail.com",
+        "phone": "+54 3564 32-9698",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/josefina-rios/",
+        "website": "https://github.com/JosefinaRios",
+        "portfolio": "https://rainbow-longma-aa05a8.netlify.app/",
+        "summary": "Técnica Universitaria en Programación, con interés en obtener mi primera experiencia laboral en el área. Cuento con habilidades para adaptarme a diferentes lenguajes y ramas de la programación, con una actitud proactiva y orientada al aprendizaje continuo."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "Córdoba, Argentina",
+            "start_date": "",
+            "end_date": "2025-02-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["c#", "html", "css", "javascript", ".net-core", "asp.net-core-mvc", "sql-server"],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "App Web - Taller Gudiño's",
+            "description": "Desarrollé un sistema web para la gestión de un taller de chapa y pintura, utilizando ASP.NET Core MVC en C#, SQL Server, y Bootstrap para el diseño. Enfocando la administración de clientes, vehículos, etc. Este mismo cuenta con la implementación de Roles de Usuario.",
+            "technologies": ["ASP.NET Core MVC", "C#", "SQL Server", "Bootstrap"],
+            "url": ""
+        },
+        {
+            "name": "Sitio Web - Muebles",
+            "description": "Desarrolle un sitio web sobre la venta de muebles para el hogar, en el cual implemente mis conocimientos de HTML, CSS, JavaScript y el consumo de API, especialmente orientada a un ABM sobre los productos del negocio.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "url": "https://clinquant-mochi-65d60b.netlify.app/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

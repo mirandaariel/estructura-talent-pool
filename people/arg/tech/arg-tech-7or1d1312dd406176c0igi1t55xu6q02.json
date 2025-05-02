@@ -1,0 +1,135 @@
+{
+    "personal_info": {
+        "first_name": "Mathias",
+        "last_name": "Ledesma",
+        "email": "mathiasimagine@gmail.com",
+        "phone": "+54.01149492938",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/mathias-ledesma",
+        "website": "https://github.com/mathvled",
+        "portfolio": "",
+        "summary": "Desarrollador frontend con enfoque en la resolución de problemas y adaptabilidad en entornos dinámicos. Trabajo en equipo para crear soluciones eficientes y de alto impacto. He liderado equipos de desarrollo y gestionado proyectos que mejoraron la calidad del código, aceleraron entregas y optimizaron la eficiencia operativa. Creo en el trabajo colaborativo, las buenas prácticas y las metodologías ágiles para potenciar resultados. Me motiva transformar ideas en soluciones funcionales, intuitivas y de alto rendimiento."
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Developer",
+            "company": "HENRY EDUCACION S. A",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Creación de soluciones eficientes y escalables utilizando Google Sheets y Google Apps Script.",
+                "Enfoque en la automatización de tareas, la integración de sistemas y la optimización de procesos mediante herramientas de Google Workspace y APIs externas.",
+                "Mi objetivo es aportar valor al equipo mediante la reducción de tareas manuales, la mejora de la productividad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Scrum Master",
+            "company": "HENRY EDUCACION S. A",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideré más de 20 proyectos, optimizando procesos de desarrollo y elevando la calidad del código en un 30% al introducir buenas prácticas de programación y metodologías ágiles.",
+                "Fomenté la creación de MVP eficientes, guiando a los equipos en la definición clara de requisitos mínimos viables y en la iteración constante con retroalimentación temprana.",
+                "Esto permitió entregar productos funcionales en tiempos más cortos, alineados con las necesidades del cliente, y adaptados de manera flexible a cambios rápidos durante el proceso de desarrollo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Java Developer",
+            "institution": "Oracle Next Education",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Developer",
+            "institution": "soyHenry",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Inglés Nivel B1",
+            "institution": "EF SET CertificateSET",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react.js", 
+                "react-native", 
+                "next.js", 
+                "redux", 
+                "zustand",
+                "html5",
+                "css3",
+                "tailwindcss",
+                "node.js", 
+                "express.js", 
+                "nestjs", 
+                "java", 
+                "spring-boot", 
+                "google-apps-script",
+                "postgresql",
+                "mysql",
+                "mongodb",
+                "firefoxe",
+                "sequelize",
+                "mongoose",
+                "prisma",
+                "jest",
+                "mocha",
+                "chai",
+                "git",
+                "github",
+                "gitlab",
+                "docker",
+                "docker-compose"
+            ],
+            "soft": [
+                "resolución-de-problemas",
+                "liderazgo-técnico",
+                "comunicación-efectiva",
+                "trabajo-en-equipo"
+            ],
+            "tools": [
+                "agile",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

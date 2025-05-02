@@ -1,0 +1,108 @@
+{
+    "personal_info": {
+        "first_name": "Micaela",
+        "last_name": "Cáceres",
+        "email": "mica.caceres@live.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/micaela-caceres-b8b01628b",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy graduada de la Tecnicatura Universitaria en Programación y actualmente me encuentro en la búsqueda de mi primer trabajo en el área. Como proyecto final para recibirme, desarrollé una aplicación web similar a un ecommerce utilizando Python, FastAPI y PostgreSQL. Me gusta trabajar en equipo y aplicar mis conocimientos para aportar soluciones. Busco un lugar donde pueda crecer profesionalmente y seguir aprendiendo a partir del intercambio con otros. Me considero una persona responsable, adaptable y comprometida con el aprendizaje continuo, siempre dispuesta a incorporar nuevas herramientas y conocimientos para cumplir con los objetivos propuestos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Moza",
+            "company": "Desconocido",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2019-12-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Atención de despensa",
+            "company": "Desconocido",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Atención al público en local de ropa 'Lima Limón'",
+            "company": "Desconocido",
+            "location": "Zona céntrica",
+            "start_date": "2020-01-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Cuidado de señora mayor",
+            "company": "Desconocido",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Cuidado de niños",
+            "company": "Desconocido",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["java", "c#", "python", "html", "css", "react"],
+            "soft": ["responsable", "adaptable", "comprometido"],
+            "tools": ["visual-studio-code", "visual-studio", "eclipse", "github", "vite", "chakra-ui", "bootstrap"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Aplicación web similar a un ecommerce",
+            "description": "Desarrollado como proyecto final utilizando Python, FastAPI y PostgreSQL.",
+            "technologies": ["python", "fastapi", "postgresql"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

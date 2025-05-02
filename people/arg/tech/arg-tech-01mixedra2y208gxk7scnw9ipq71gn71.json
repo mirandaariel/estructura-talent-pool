@@ -1,0 +1,239 @@
+
+{
+    "personal_info": {
+        "first_name": "Emilio",
+        "last_name": "Ramirez",
+        "email": "emi.emilioramirez@gmail.com",
+        "phone": "+54 2323 527519",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": "Córdoba"
+        },
+        "linkedin": "https://www.linkedin.com/in/emilioramirezdev",
+        "website": "https://github.com/Emilio2207",
+        "portfolio": "https://emilio-portfolio-navy.vercel.app",
+        "summary": "Desarrollador Full Stack con experiencia en la creación de aplicaciones web escalables, responsivas y eficientes utilizando un amplio stack tecnológico y bases de datos relacionales y no relacionales. Especializado en optimización de código y mejora de la experiencia del usuario, busco contribuir al éxito de equipos innovadores con mi pasión por el aprendizaje continuo y mi enfoque en la resolución de problemas. Con habilidades sólidas en desarrollo front-end y back-end, estoy listo para enfrentar nuevos desafíos en entornos dinámicos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "CRUD Software SLU",
+            "location": "Barcelona, ESP",
+            "start_date": "2023-11-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé aplicaciones end-to-end utilizando el stack MERN (MySQL, Express, React, Node.js).",
+                "Diseñe interfaces responsivas con TypeScript, ReactJS y Material-UI, mejorando la experiencia del usuario en un 20%.",
+                "Implementé lógica de servidor y bases de datos con Node.js, Axios, Bcrypt, JSONWebToken y MySQL.",
+                "Optimice el rendimiento del código, mejorando la escalabilidad de las aplicaciones en un 25%.",
+                "Gestioné versiones de código con Git y GitHub, asegurando un flujo de trabajo colaborativo y eficiente."
+            ],
+            "achievements": [
+                "Propuse e implementé una app de gestión de proyectos que mejoró la productividad del equipo en un 40%.",
+                "Reduje los incidentes de seguridad en un 20% mediante la implementación de Bcrypt y JSONWebToken."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Profesional Independiente",
+            "location": "Córdoba, ARG",
+            "start_date": "2022-09-01",
+            "end_date": "2023-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creé aplicaciones end-to-end utilizando JavaScript, TypeScript, ReactJS y Node.js.",
+                "Diseñé interfaces responsivas con HTML, CSS, Material UI, Tailwind y ReactJS, mejorando la usabilidad en un 15%.",
+                "Implementé lógica de servidor y bases de datos con Python, Django, MongoDB, MySQL y PostgreSQL.",
+                "Utilicé Figma para el diseño de UI/UX, creando prototipos que redujeron el tiempo de desarrollo en un 10%.",
+                "Optimicé consultas y código, mejorando el rendimiento del sitio web en un 40%."
+            ],
+            "achievements": [
+                "Desarrollé una aplicación de gestión de proyectos que aumentó la productividad del equipo en un 25%.",
+                "Implementé un sistema de autenticación seguro que redujo los incidentes de seguridad en un 15%."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack Junior",
+            "company": "Argensun S.A.",
+            "location": "Buenos Aires, ARG",
+            "start_date": "2021-08-01",
+            "end_date": "2022-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Actualice aplicación web utilizando tecnologías como React, Node.js y MySQL.",
+                "Colaboré en la implementación de APIs RESTful para la integración de sistemas internos.",
+                "Participé en reuniones de SCRUM para la planificación y seguimiento de proyectos.",
+                "Implementé funcionalidades interactivas en el front-end utilizando JavaScript y jQuery, aumentando la participación del usuario en un 15%."
+            ],
+            "achievements": [
+                "Creé componentes reutilizables en React que optimizaron el tiempo de desarrollo de nuevas features en un 10%.",
+                "Desarrollé un módulo de autenticación básica con JWT, siguiendo las mejores prácticas de seguridad establecidas por el equipo senior."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Tecnología de la Información",
+            "institution": "Universidad Tecnológica Nacional, Facultad Regional (UTN)",
+            "location": "Buenos Aires, ARG",
+            "start_date": "2023-03-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomatura en Programación Full Stack",
+            "institution": "Universidad Tecnológica Nacional, Facultad Regional (UTN)",
+            "location": "Buenos Aires, ARG",
+            "start_date": "2021-04-03",
+            "end_date": "2023-12-20",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "angular",
+                "html",
+                "css",
+                "tailwind",
+                "next",
+                "nest",
+                "material-ui",
+                "node.js",
+                "express",
+                "python",
+                "django",
+                "fastapi",
+                "apisrestful",
+                "mysql",
+                "postgresql",
+                "mongodb",
+                "firebase",
+                "dynamodb",
+                "ormprisma",
+                "docker",
+                "aws"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "comunicación",
+                "resolución-de-problemas",
+                "aprendizaje-continuo-y-adaptabilidad"
+            ],
+            "tools": [
+                "figma",
+                "jira",
+                "linear",
+                "git",
+                "github",
+                "gitlab",
+                "scrum",
+                "agile"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Desarrollo Web en HTML y CSS",
+            "issuing_organization": "Universidad Tecnológica Nacional (UTN)",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "CER-VSK1VO8W-1168831"
+        },
+        {
+            "name": "Desarrollo en React.Js",
+            "issuing_organization": "Universidad Tecnológica Nacional (UTN)",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "CER-VIJ3Y3DO-1086566"
+        },
+        {
+            "name": "Desarrollo en Node.Js",
+            "issuing_organization": "Universidad Tecnológica Nacional (UTN)",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "CER-M4XWIXG6-1086568"
+        },
+        {
+            "name": "Desarrollo en Angular",
+            "issuing_organization": "Universidad Tecnológica Nacional (UTN)",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "CER-I8T332VD-1086567"
+        },
+        {
+            "name": "Professional Front End Developer",
+            "issuing_organization": "Universidad Tecnológica Nacional (UTN)",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "CER-ABFWCQ36-1168828"
+        },
+        {
+            "name": "Professional Back End Developer",
+            "issuing_organization": "Universidad Tecnológica Nacional (UTN)",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "CER-FJPQCW20-1466632"
+        },
+        {
+            "name": "Professional Full Stack Developer",
+            "issuing_organization": "Universidad Tecnológica Nacional (UTN)",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "CER-Y24DCG0E-1086565"
+        }
+    ],
+    "projects": [
+        {
+            "name": "TaskGlide",
+            "description": "Gestor de tareas, una herramienta que permite organizar, asignar y hacer seguimiento de tareas en equipos de trabajo.",
+            "technologies": ["Prisma", "Node.js", "Next", "TypeScript"],
+            "url": "https://github.com/Emilio2207/taskglide-app"
+        },
+        {
+            "name": "QuickLink",
+            "description": "Un acortador de enlaces es una herramienta que convierte URLs largas en versiones más cortas y manejables.",
+            "technologies": ["MongoDB", "Node.js", "React", "TypeScript", "Tailwind", "Mongoose", "Express"],
+            "url": "https://github.com/Emilio2207/quicklink-app"
+        },
+        {
+            "name": "TalentPulse",
+            "description": "Plataforma de reclutamiento para la cual diseñé y desarrollé su sitio web, integrándolo con Google Forms para facilitar la carga de datos de los postulantes.",
+            "technologies": ["React", "JavaScript", "Tailwind", "HTML", "Vite"],
+            "url": "https://github.com/Emilio2207/talentpulse"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B1 - Intermedio"
+        },
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Jonathan Rodsan",
+            "relationship": "CEO",
+            "contact": "jonathan@crudsoftware.com"
+        },
+        {
+            "name": "Victoria Vilchez",
+            "relationship": "Gerente RRHH Talent Pulse",
+            "contact": "vilchezvictoria20@gmail.com"
+        }
+    ]
+}

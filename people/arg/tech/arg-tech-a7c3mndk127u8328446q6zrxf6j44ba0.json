@@ -1,0 +1,138 @@
+{
+    "personal_info": {
+        "first_name": "Bruno Miguel",
+        "last_name": "Montoya",
+        "email": "tec.sup.brunomontoya@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Dolores",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/bruno-montoya-tssi/",
+        "website": "",
+        "portfolio": "xxxxxx",
+        "summary": "Soy Técnico Superior en Sistemas Informáticos de la UTN Mar del Plata, recibido en 2016. También estoy cursando el Profesorado de Matemáticas en Educación Secundaria en el ISFD 168 Dolores. Me gustaría reinsertarme en el mundo IT, ya sea como Desarrollador Back End, Front End, o como Analista de Datos. Tengo ganas de aprender, estoy abierto a posibilidades de trabajo remoto. También dispuesto a viajar una vez al mes a oficinas si es necesario."
+    },
+    "work_experience": [
+        {
+            "job_title": "Auxiliar Administrativo",
+            "company": "Olaizola Hogar",
+            "location": "",
+            "start_date": "2023-12-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Manejo de formularios AFIP",
+                "Facturación y actualización de precios + stock en sistema informático",
+                "Carga de facturas electrónicas en sistema informático contable"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Profesor NTICX",
+            "company": "Dirección General de Cultura y Educación",
+            "location": "",
+            "start_date": "2021-06-01",
+            "end_date": "2023-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Dictado de clases y planificación"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador BPM",
+            "company": "Kennen Consulting",
+            "location": "",
+            "start_date": "2015-06-01",
+            "end_date": "2015-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Optimización de consultas SQL",
+                "Desarrollo de formularios web"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Encargado de Sistemas",
+            "company": "The Custom II",
+            "location": "",
+            "start_date": "2012-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Confección y corrección de listas de precios",
+                "Instalación y actualización del sistema",
+                "Corrección manual de los precios ingresados en el sistema"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnico Superior en Sistemas Informaticos",
+            "institution": "UTN Facultad Regional Mar del Plata",
+            "location": "",
+            "start_date": "",
+            "end_date": "2016-01-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "javascript",
+                "html",
+                "css",
+                "c#",
+                "react",
+                "springboot",
+                "hibernate",
+                "ms-sql-server",
+                "mysql"
+            ],
+            "soft": [],
+            "tools": [
+                "vscode",
+                "intellij-idea",
+                "git",
+                "scrum",
+                "agile"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Facturacion BackEnd",
+            "description": "Parte del Backend, desarrollado con Java Spring Boot, con Hibernate, JPA, MyBatis, Lombok, JUNIT y H2 para el testing",
+            "technologies": ["Java", "Spring Boot", "Hibernate", "JPA", "MyBatis", "Lombok", "JUNIT", "H2"],
+            "url": "https://github.com/brunomontoya17/facturacion"
+        },
+        {
+            "name": "Facturacion FrontEnd",
+            "description": "Aca desarrollo la parte front end, de un sistema de facturacion y mantenimiento de stock, desarrollado con React.JS",
+            "technologies": ["React.JS", "Javascript", "React Bootstrap"],
+            "url": "https://github.com/brunomontoya17/facturacion-frontend"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Ingles",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
