@@ -278,6 +278,24 @@
                         "title": "Asynchronous Error Handling",
                         "description": "Manejo de errores en operaciones asíncronas utilizando bloques try, catch y finally.",
                         "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/asyncErrHand.js"
+                    },
+                    {
+                        "id": 1405,
+                        "title": "Event Loop",
+                        "description": "Mecanismo que permite que JavaScript maneje múltiples operaciones simultáneamente a través de un ciclo de eventos.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/eventLoop.js"
+                    },
+                    {
+                        "id": 1406,
+                        "title": "Promise Lifecycle",
+                        "description": "Etapas de una promesa en JavaScript: pendiente, cumplida o rechazada.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/promiseLC.js"
+                    },
+                    {
+                        "id": 1501,
+                        "title": "Elements of JavaScript Style",
+                        "description": "Conjunto de convenciones y estilos recomendados para escribir código JavaScript limpio y legible.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/elementsOfJS.js"
                     }
                 ]
             }
