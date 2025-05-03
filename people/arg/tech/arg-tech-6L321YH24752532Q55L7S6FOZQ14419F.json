@@ -1,5 +1,5 @@
-{
-    "personal_info": {
+    {
+        "personal_info": {
         "first_name": "Joaquín",
         "last_name": "Larrivey",
         "email": "joaqlarrivey@gmail.com",
@@ -93,7 +93,6 @@
             "hours": 0
         }
     ],
-    {
     "skills": {
         "detailed": {
             "technical": {
@@ -161,218 +160,218 @@
                     {
                         "id": 1103,
                         "title": "Classes and Modern Syntax",
-                        "description": "Uso de las clases en JavaScript moderno con las palabras clave class, extends y super.",
-                        "repository_url": ""
+                        "description": "Usage of classes in modern JavaScript with the keywords class, extends, and super.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/Classes.js"
                     },
                     {
                         "id": 1104,
                         "title": "Encapsulation, Inheritance, and Polymorphism",
-                        "description": "Principios fundamentales de la programación orientada a objetos aplicados en JavaScript.",
-                        "repository_url": ""
+                        "description": "Core principles of object-oriented programming applied in JavaScript.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/oop.js"
                     },
                     {
                         "id": 1105,
                         "title": "Factory Functions",
-                        "description": "Funciones que retornan nuevos objetos personalizados, permitiendo flexibilidad en la creación de instancias.",
-                        "repository_url": ""
+                        "description": "Functions that return new customized objects, allowing flexibility in instance creation.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/FactoryFunctions.js"
                     },
                     {
                         "id": 1106,
                         "title": "Object Composition",
-                        "description": "Construcción de objetos complejos a partir de otros más simples, en lugar de usar herencia.",
-                        "repository_url": ""
+                        "description": "Building complex objects from simpler ones instead of using inheritance.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/ObjectCompo.js"
                     },
                     {
                         "id": 1201,
                         "title": "Pure Functions",
-                        "description": "Funciones que, dado un mismo conjunto de entradas, siempre devuelven la misma salida sin producir efectos secundarios.",
-                        "repository_url": ""
+                        "description": "Functions that, given the same set of inputs, always return the same output without producing side effects.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/PureFunctions.js"
                     },
                     {
                         "id": 1202,
                         "title": "Immutability",
-                        "description": "Principio de no modificar directamente los datos existentes, sino crear nuevas estructuras de datos.",
-                        "repository_url": ""
+                        "description": "The principle of not modifying existing data directly, but instead creating new data structures.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/Immutability.js"
                     },
                     {
                         "id": 1203,
                         "title": "Higher-Order Functions",
-                        "description": "Funciones que aceptan otras funciones como argumentos o las retornan como resultados.",
-                        "repository_url": ""
+                        "description": "Functions that accept other functions as arguments or return them as results.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/HigherOrder.js"
                     },
                     {
                         "id": 1204,
                         "title": "Currying",
-                        "description": "Transformación de una función que toma múltiples argumentos en una serie de funciones que toman un solo argumento.",
-                        "repository_url": ""
+                        "description": "Transforming a function that takes multiple arguments into a series of functions that each take a single argument.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/Currying.js"
                     },
                     {
                         "id": 1205,
                         "title": "Function Composition",
-                        "description": "Técnica que permite encadenar funciones pequeñas en una sola función compleja.",
-                        "repository_url": ""
+                        "description": "Technique that allows chaining small functions into a single complex function.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/FunctionCompo.js"
                     },
                     {
                         "id": 1206,
                         "title": "Functors and Categories",
-                        "description": "Estructuras que permiten mapear funciones sobre valores envueltos o estructurados.",
-                        "repository_url": ""
+                        "description": "Structures that allow mapping functions over wrapped or structured values.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/Functors.js"
                     },
                     {
                         "id": 1207,
                         "title": "Monads",
-                        "description": "Patrón que permite encadenar operaciones, manejando contextos como la asincronía o el manejo de errores.",
-                        "repository_url": ""
+                        "description": "Pattern that allows chaining operations while managing contexts such as asynchrony or error handling.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/Monads.js"
                     },
                     {
                         "id": 1208,
                         "title": "Lenses",
-                        "description": "Herramientas para acceder y modificar estructuras de datos inmutables de forma segura.",
-                        "repository_url": ""
+                        "description": "Tools to safely access and modify immutable data structures.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/Lenses.js"
                     },
                     {
                         "id": 1209,
                         "title": "Transducers",
-                        "description": "Funciones que transforman otras funciones de transformación, permitiendo operaciones eficientes sobre estructuras de datos.",
-                        "repository_url": ""
+                        "description": "Functions that transform other transformation functions, allowing efficient operations over data structures.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/Transducers.js"
                     },
                     {
                         "id": 1301,
                         "title": "Arrays, Objects, Sets, and Maps",
-                        "description": "Uso de estructuras de datos como arrays, objetos, sets y maps para almacenar y manipular información.",
-                        "repository_url": ""
+                        "description": "Use of data structures like arrays, objects, sets, and maps to store and manipulate information.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/DataStructures.js"
                     },
                     {
                         "id": 1302,
                         "title": "Stacks and Queues",
-                        "description": "Estructuras de datos lineales que permiten operaciones de inserción y eliminación en un orden específico (LIFO y FIFO).",
-                        "repository_url": ""
+                        "description": "Linear data structures that allow insertion and removal operations in a specific order (LIFO and FIFO).",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/Stacks-Queues.js"
                     },
                     {
                         "id": 1303,
                         "title": "Linked Lists",
-                        "description": "Estructura de datos donde cada elemento apunta al siguiente, permitiendo inserciones y eliminaciones eficientes.",
-                        "repository_url": ""
+                        "description": "Data structure where each element points to the next, allowing efficient insertions and deletions.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/LinkedList.js"
                     },
                     {
                         "id": 1304,
                         "title": "Recursion",
-                        "description": "Técnica donde una función se llama a sí misma para resolver problemas complejos.",
-                        "repository_url": ""
+                        "description": "Technique where a function calls itself to solve complex problems.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/Recursion.js"
                     },
                     {
                         "id": 1305,
                         "title": "Array Operations (map, filter, reduce)",
-                        "description": "Funciones de orden superior para transformar, filtrar y reducir arrays en JavaScript.",
-                        "repository_url": ""
+                        "description": "Higher-order functions to transform, filter, and reduce arrays in JavaScript.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/HigherOrderOps.js"
                     },
                     {
                         "id": 1306,
                         "title": "Sorting Algorithms",
-                        "description": "Implementación de algoritmos de ordenamiento como bubble sort, quicksort y merge sort.",
-                        "repository_url": ""
+                        "description": "Implementation of sorting algorithms like bubble sort, quicksort, and merge sort.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/SortingAlgs.js"
                     },
                     {
                         "id": 1307,
                         "title": "Search Algorithms",
-                        "description": "Algoritmos de búsqueda como búsqueda lineal y búsqueda binaria para encontrar elementos en estructuras de datos.",
-                        "repository_url": ""
+                        "description": "Search algorithms like linear search and binary search to find elements in data structures.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/SearchAlgs.js"
                     },
                     {
                         "id": 1308,
                         "title": "Abstract Data Types",
-                        "description": "Tipos de datos abstractos como pilas, colas y listas que definen operaciones sin especificar su implementación concreta.",
-                        "repository_url": ""
+                        "description": "Abstract data types like stacks, queues, and lists that define operations without specifying their concrete implementation.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/AbstractData.js"
                     },
                     {
                         "id": 1401,
                         "title": "Callbacks",
-                        "description": "Funciones que se ejecutan después de completar una operación asíncrona, permitiendo la continuación de un flujo de ejecución.",
-                        "repository_url": ""
+                        "description": "Functions that are executed after completing an asynchronous operation, allowing the continuation of a flow of execution.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/Callbacks.js"
                     },
                     {
                         "id": 1402,
                         "title": "Promises",
-                        "description": "Objeto que representa la terminación o el fracaso eventual de una operación asíncrona.",
-                        "repository_url": ""
+                        "description": "Object that represents the eventual completion or failure of an asynchronous operation.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/Promises.js"
                     },
                     {
                         "id": 1403,
                         "title": "Async/Await",
-                        "description": "Sintaxis que simplifica el manejo de operaciones asíncronas, haciendo que el código sea más legible y fácil de entender.",
-                        "repository_url": ""
+                        "description": "Syntax that simplifies handling asynchronous operations, making the code more readable and easier to understand.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/Async-Await.js"
                     },
                     {
                         "id": 1404,
                         "title": "Asynchronous Error Handling",
-                        "description": "Manejo de errores en operaciones asíncronas utilizando bloques try, catch y finally.",
-                        "repository_url": ""
+                        "description": "Error handling in asynchronous operations using try, catch, and finally blocks.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/AsyncErrorHandling.js"
                     },
                     {
                         "id": 1405,
                         "title": "Event Loop",
-                        "description": "Mecanismo que permite que JavaScript maneje múltiples operaciones simultáneamente a través de un ciclo de eventos.",
-                        "repository_url": ""
+                        "description": "Mechanism that allows JavaScript to handle multiple operations simultaneously through an event loop.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/EventLoop.js"
                     },
                     {
                         "id": 1406,
                         "title": "Promise Lifecycle",
-                        "description": "Etapas de una promesa en JavaScript: pendiente, cumplida o rechazada.",
-                        "repository_url": ""
+                        "description": "Stages of a Promise in JavaScript: pending, fulfilled, or rejected.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/PromiseLifecycle.js"
                     },
                     {
                         "id": 1501,
                         "title": "Elements of JavaScript Style",
-                        "description": "Conjunto de convenciones y estilos recomendados para escribir código JavaScript limpio y legible.",
-                        "repository_url": ""
+                        "description": "A set of conventions and recommended styles for writing clean and readable JavaScript code.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/JS-Styles.js"
                     },
                     {
                         "id": 1502,
                         "title": "SOLID Principles",
-                        "description": "Conjunto de principios para escribir código que sea mantenible, escalable y fácil de entender.",
-                        "repository_url": ""
+                        "description": "A set of principles for writing code that is maintainable, scalable, and easy to understand.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/SOLID.js"
                     },
                     {
                         "id": 1503,
                         "title": "DRY (Don't Repeat Yourself)",
-                        "description": "Principio que recomienda evitar la duplicación de código para mejorar la mantenibilidad.",
-                        "repository_url": ""
+                        "description": "Principle that recommends avoiding code duplication to improve maintainability.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/DRY.js"
                     },
                     {
                         "id": 1504,
                         "title": "KISS (Keep It Simple, Stupid)",
-                        "description": "Principio que sugiere mantener el código simple y directo, evitando la complejidad innecesaria.",
-                        "repository_url": ""
+                        "description": "Principle that suggests keeping code simple and straightforward, avoiding unnecessary complexity.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/KISS.js"
                     },
                     {
                         "id": 1505,
                         "title": "YAGNI (You Ain’t Gonna Need It)",
-                        "description": "Principio que recomienda no implementar características innecesarias hasta que sean realmente necesarias.",
-                        "repository_url": ""
+                        "description": "Principle that recommends not implementing unnecessary features until they are truly needed.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/YAGNI.js"
                     },
                     {
                         "id": 1601,
                         "title": "Unit Testing",
-                        "description": "Escritura de pruebas automatizadas para verificar funcionalidades específicas de manera aislada.",
-                        "repository_url": ""
+                        "description": "Writing automated tests to verify specific functionalities in isolation.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/UniTest.js"
                     },
                     {
                         "id": 1602,
                         "title": "Integration Testing",
-                        "description": "Pruebas que evalúan cómo interactúan diferentes componentes del sistema entre sí.",
-                        "repository_url": ""
+                        "description": "Tests that evaluate how different components of the system interact with each other.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/IntTest.js"
                     },
                     {
                         "id": 1603,
                         "title": "End-to-End Testing",
-                        "description": "Pruebas que simulan el flujo completo de una aplicación para asegurar su correcto funcionamiento desde el principio hasta el fin.",
-                        "repository_url": ""
+                        "description": "Tests that simulate the full flow of an application to ensure its correct functioning from start to finish.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/E2E.js"
                     },
                     {
                         "id": 1604,
                         "title": "Mocking is a Code Smell",
-                        "description": "Evitar el uso excesivo de mocks en las pruebas, ya que puede ser un indicador de un diseño débil.",
-                        "repository_url": ""
+                        "description": "Avoid excessive use of mocks in tests, as it may indicate weak design.",
+                        "repository_url": "https://github.com/JTlarrivey/JS-Skills/blob/main/OverMock.js"
                     },
                     {
                         "id": 1605,
@@ -461,8 +460,8 @@
                 ]
             }
         }   
-    }
-},
+    },
+    
     "tech skills": {
         "keywords": {
             "technical": [
@@ -515,7 +514,7 @@
             "proficiency": "C2 Proficient"
         }
     ],
-    "volunteer_experience": [Ariel Miranda's Open Source Shopify Project],
+    "volunteer_experience": ["Ariel Miranda's Open Source Shopify Project"],
     "publications": [],
     "references": []
 }

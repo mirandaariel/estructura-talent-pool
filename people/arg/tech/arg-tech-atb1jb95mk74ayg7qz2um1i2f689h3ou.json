@@ -1,86 +1,182 @@
 {
-    "personal_info": {
-        "first_name": "Facundo",
-        "last_name": "Salvi",
-        "email": "facundosalvi02@gmail.com",
-        "phone": "03756545333",
-        "location": {
-            "country": "Argentina",
-            "city": "Córdoba",
-            "state": "Nueva Córdoba"
-        },
-        "linkedin": "https://www.linkedin.com/in/facundo-salvi",
-        "website": "https://github.com/FacundoSalvi",
-        "portfolio": "",
-        "summary": "Fortalecer mis conocimientos y habilidades en las tecnologías ya aprendidas como serían HTML, CSS, JavaScript y React, además de aprender y desarrollar habilidades con nuevas tecnologías. Teniendo así un desarrollo constante como profesional."
-    },
-    "work_experience": [],
-    "education": [
-        {
-            "degree": "Autodidacta",
-            "institution": "",
-            "location": "",
-            "start_date": "2024-08-01",
-            "end_date": "",
-            "hours": 0
-        },
-        {
-            "degree": "Bootcamp de Programación",
-            "institution": "Academia-x",
-            "location": "Seattle, USA",
-            "start_date": "2024-05-01",
-            "end_date": "2024-06-30",
-            "hours": 0
-        },
-        {
-            "degree": "Bootcamp de Programación",
-            "institution": "Academia-x",
-            "location": "Seattle, USA",
-            "start_date": "2024-03-01",
-            "end_date": "2024-05-31",
-            "hours": 0
-        },
-        {
-            "degree": "Bootcamp de Programación",
-            "institution": "Academia-x",
-            "location": "Seattle, USA",
-            "start_date": "2024-01-01",
-            "end_date": "2024-03-31",
-            "hours": 0
-        },
-        {
-            "degree": "Bootcamp de Programación",
-            "institution": "Academia-x",
-            "location": "Seattle, USA",
-            "start_date": "2023-10-01",
-            "end_date": "2023-11-30",
-            "hours": 0
-        }
-    ],
-    "skills": {
-        "keywords": {
-            "technical": ["html", "css", "javascript", "react"],
-            "soft": [],
-            "tools": []
-        },
-        "detailed": {
-            "technical": {},
-            "soft": {}
-        }
-    },
-    "certifications": [],
-    "projects": [],
-    "languages": [
-        {
-            "language": "Spanish",
-            "proficiency": "Native"
-        },
-        {
-            "language": "English",
-            "proficiency": "Intermediate"
-        }
-    ],
-    "volunteer_experience": [],
-    "publications": [],
-    "references": []
+  "personal_info": {
+      "first_name": "Facundo",
+      "last_name": "Salvi",
+      "email": "facundosalvi02@gmail.com",
+      "phone": "+54 9 3756 54-5333",
+      "location": {
+          "country": "Argentina",
+          "city": "Córdoba",
+          "state": "Nueva Córdoba"
+      },
+      "linkedin": "https://www.linkedin.com/in/facundo-salvi",
+      "website": "https://github.com/FacundoSalvi",
+      "portfolio": "",
+      "summary": "Soy una persona creativa, autodidacta y con gran capacidad de adaptación, en constante aprendizaje y crecimiento en el área de desarrollo Frontend. Realicé proyectos propios con foco en la experiencia del usuario, la modularización y las buenas prácticas. Busco integrarme a un equipo donde pueda seguir desarrollando mis habilidades, aportar valor y crecer profesionalmente en el mundo del desarrollo web."
+  },
+  "work_experience": [],
+  "education": [
+      {
+          "degree": "Curso de React.js",
+          "institution": "Academia Midudev",
+          "location": "",
+          "start_date": "2025-03-01",
+          "end_date": "",
+          "hours": 0
+      },
+      {
+          "degree": "Bootcamp de Programación",
+          "institution": "Academia X",
+          "location": "Seattle, USA",
+          "start_date": "2024-07-01",
+          "end_date": "2024-07-31",
+          "hours": 0
+      },
+      {
+          "degree": "Bootcamp de Programación",
+          "institution": "Academia X",
+          "location": "Seattle, USA",
+          "start_date": "2024-06-01",
+          "end_date": "2024-06-30",
+          "hours": 0
+      },
+      {
+          "degree": "Bootcamp de Programación",
+          "institution": "Academia X",
+          "location": "Seattle, USA",
+          "start_date": "2024-05-01",
+          "end_date": "2024-05-31",
+          "hours": 0
+      },
+      {
+          "degree": "Bootcamp de Programación",
+          "institution": "Academia X",
+          "location": "Seattle, USA",
+          "start_date": "2024-03-01",
+          "end_date": "2024-03-31",
+          "hours": 0
+      },
+      {
+          "degree": "Bootcamp de Programación",
+          "institution": "Academia X",
+          "location": "Seattle, USA",
+          "start_date": "2023-12-01",
+          "end_date": "2023-12-31",
+          "hours": 0
+      },
+      {
+          "degree": "Tecnicatura en Programación (interrumpido)",
+          "institution": "UTN - Universidad Tecnológica Nacional",
+          "location": "",
+          "start_date": "2023-03-01",
+          "end_date": "2023-07-31",
+          "hours": 0
+      },
+      {
+          "degree": "Técnico Nacional Automotriz",
+          "institution": "Instituto Politécnico San Arnoldo Janssen",
+          "location": "",
+          "start_date": "",
+          "end_date": "2018-12-31",
+          "hours": 0
+      }
+  ],
+  "skills": {
+      "keywords": {
+          "technical": [
+              "HTML5",
+              "CSS3",
+              "JavaScript",
+              "TypeScript",
+              "React",
+              "Next.js",
+              "Tailwind CSS",
+              "Git",
+              "GitHub",
+              "Vite",
+              "Supabase"
+          ],
+          "soft": [
+              "Trabajo en equipo",
+              "Colaboración",
+              "Adaptabilidad",
+              "Flexibilidad",
+              "Creatividad",
+              "Atención al detalle",
+              "Autodidacta",
+              "Aprendizaje constante",
+              "Persistencia",
+              "Orientación a resultados"
+          ],
+          "tools": []
+      },
+      "detailed": {
+          "technical": {
+              "javaScript": [
+                  {
+                      "id": 1001,
+                      "title": "Variables and Data Types",
+                      "repository_url": "https://github.com/FacundoSalvi/JavaScript_Skills/blob/main/TiposDeDatos.js"
+                  },
+                  {
+                      "id": 1002,
+                      "title": "Control Flow",
+                      "repository_url": "https://github.com/FacundoSalvi/JavaScript_Skills/blob/main/ControlFlow.js"
+                  }
+              ]
+          }
+      }
+  },
+  "certifications": [],
+  "projects": [
+      {
+          "name": "To Do List",
+          "description": "Aplicación de lista de tareas desarrollada con React, JavaScript, CSS y Vite. Incorpora persistencia de datos mediante Supabase. Foco en organización, manejo de estados y UX.",
+          "technologies": [
+              "React",
+              "JavaScript",
+              "CSS",
+              "Vite",
+              "Supabase"
+          ]
+      },
+      {
+          "name": "Galería de Imágenes",
+          "description": "Landing page dinámica creada con HTML5, CSS3 y JavaScript. Cambia imágenes con interacción del usuario. Proyecto final de clase DOM.",
+          "technologies": [
+              "HTML5",
+              "CSS3",
+              "JavaScript"
+          ]
+      },
+      {
+          "name": "E-commerce (en desarrollo)",
+          "description": "Tienda online con React, Tailwind, Next.js, TypeScript, Zustand y Supabase. Incluye carrito, detalle de productos y persistencia.",
+          "technologies": [
+              "React",
+              "Tailwind CSS",
+              "Next.js",
+              "TypeScript",
+              "Zustand",
+              "Supabase"
+          ]
+      }
+  ],
+  "languages": [
+      {
+          "language": "Spanish",
+          "proficiency": "Native"
+      },
+      {
+          "language": "English",
+          "proficiency": "Intermediate"
+      },
+      {
+          "language": "German",
+          "proficiency": "Beginner"
+      }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
 }

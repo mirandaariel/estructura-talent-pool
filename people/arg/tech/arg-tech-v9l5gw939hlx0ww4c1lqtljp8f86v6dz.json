@@ -58,8 +58,8 @@
             "tools": []
         },
         "detailed": {
-           "technical": {
-                "javaScript": [
+            "technical": {
+                "javascript": [
                     {
                         "id": 1001,
                         "title": "Variables and Data Types",
@@ -140,7 +140,7 @@
                     }
                 ]
             },
-            "soft": {}
+            "soft": []
         }
     },
     "certifications": [],
@@ -148,25 +148,42 @@
         {
             "name": "Portafolios",
             "description": "Desarrolle mi portafolios en el que podran encontrar mas informacion sobre mi y mis proyectos hasta el momento",
-            "technologies": ["NextJs", "Tailwind CSS", "GitHub", "ReactJs"],
+            "technologies": [
+                "NextJs",
+                "Tailwind CSS",
+                "GitHub",
+                "ReactJs"
+            ],
             "url": "https://github.com/page-portfolio"
         },
         {
             "name": "AlienCrush",
             "description": "Como proyecto final desarrolle un videojuego para movil de tipo match-3, con una tematica sobre el espacio",
-            "technologies": ["C sharp", "Unity", "Git"],
+            "technologies": [
+                "C sharp",
+                "Unity",
+                "Git"
+            ],
             "url": "https://github.com/AlienCrush"
         },
         {
             "name": "Ecommerce",
             "description": "Proyecto de ecommerce, con productos y carro de compras",
-            "technologies": ["JavaScript", "HTML", "CSS"],
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ],
             "url": "https://github.com/Ecommerce"
         },
         {
             "name": "PokeApi",
             "description": "Proyecto de Manejo de apis, la app trae de la api los datos del pokemon que se busque.",
-            "technologies": ["JavaScript", "HTML", "CSS"],
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ],
             "url": "https://github.com/PokeApi"
         }
     ],
