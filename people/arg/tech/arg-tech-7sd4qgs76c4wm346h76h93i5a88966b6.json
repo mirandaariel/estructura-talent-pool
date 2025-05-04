@@ -313,6 +313,12 @@
     ],
     "projects": [
         {
+            "name": "Real Time Chat",
+            "description": "A simple real time chat",
+            "technologies": ["html","css","javascript","node.js","express.js","sql"],
+            "url": "https://github.com/smlopezsm/real-time-chat"
+        },
+        {
             "name": "Restaurant Management Program",
             "description": "Final project of the subject: programming 1",
             "technologies": ["c"],
