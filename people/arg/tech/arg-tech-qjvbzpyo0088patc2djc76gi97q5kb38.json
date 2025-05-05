@@ -1,0 +1,155 @@
+{
+    "personal_info": {
+        "first_name": "Armando",
+        "last_name": "Ruiz",
+        "email": "ruizarmando.dev@gmail.com",
+        "phone": "+549 1156689654",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/ariel-rz",
+        "website": "",
+        "portfolio": "https://github.com/arielrz-dev",
+        "summary": "Desarrollador Fullstack con experiencia en APIs y aplicaciones de escritorio en Python y Java. Busco proyectos dinámicos y desafiantes, enfocado en la colaboración, el aprendizaje continuo y la calidad del software a través de pruebas y documentación."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desktop Developer",
+            "company": "G2M Technology Group",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2024-07-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de un sistema de trazabilidad de documentos utilizando Python y PyQt para la interfaz de usuario.",
+                "Refactorización y pruebas del sistema.",
+                "Participación en el análisis y modelado de bases de datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Backend Developer",
+            "company": "No Country",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño e implementación de una API RESTful en Java con Spring Boot.",
+                "Implementación de operaciones CRUD con validación de entradas.",
+                "Documentación y pruebas de la API utilizando Postman."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Ciencia de Datos",
+            "institution": "Universidad de la Ciudad de Buenos Aires",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico universitario en desarrollo web",
+            "institution": "UNlaM",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2018-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "desarrollo-frontend",
+                "desarrollo-backend",
+                "python",
+                "java",
+                "pyqt",
+                "sqlalchemy",
+                "html",
+                "css",
+                "scrum",
+                "spring-boot",
+                "hibernate",
+                "gitHub",
+                "postman",
+                "maven",
+                "arquitectura-mvc",
+                "docker",
+                "aws-cognito",
+                "swagger",
+                "machine-learning",
+                "typescript",
+                "react"
+            ],
+            "soft": [
+                "resolución-de-problemas",
+                "atención-a-los-detalles",
+                "colaboración-en-equipos",
+                "comunicación-efectiva",
+                "trabajo-en-equipo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {
+                "python": [],
+                "java": [],
+                "spring-boot": []
+            },
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Desarrollo Web en Python & Django",
+            "issuing_organization": "EDUCACIONIT",
+            "issue_date": "2020-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Python Programming",
+            "issuing_organization": "EDUCACIONIT",
+            "issue_date": "2020-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Introduccion a Bases de Datos y SQL",
+            "issuing_organization": "EDUCACIONIT",
+            "issue_date": "2020-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Proyecto Germinar",
+            "description": "Entrenamiento de un modelo de reconocimiento de imágenes utilizando Transfer Learning. Diseño e implementación de una API REST con arquitectura hexagonal. Implementación de un sistema de autenticación y autorización para gestionar usuarios y roles.",
+            "technologies": ["java", "spring-boot", "hibernate", "docker", "aws-cognito", "postman", "swagger", "machine-learning", "maven", "typescript", "react"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,181 @@
+{
+    "personal_info": {
+        "first_name": "Lueila",
+        "last_name": "Di Lorenzo",
+        "email": "luzyla.dev@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "United States",
+            "city": "",
+            "state": "California"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Problem solver with a scientific mindset. Using my biology background and +3 years of software development skills to create effective solutions. Proficient in JavaScript, React.js, Next.js, HTML and CSS. Experience in leading projects and mentoring teams."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Maye Crew Digital Agency",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Develop FrontEnd solutions using React, Next.js, and CMS technologies for diverse clients.",
+                "Managed project lifecycles using agile methodologies to ensure efficient and high-quality deliverables.",
+                "Collaborated with clients to create tailored solutions that enhanced their digital presence and user experience."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Web UI Developer",
+            "company": "Globant | Academy",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Intensive two-month training focused on FrontEnd technologies, covering HTML5, CSS3, JavaScript, TypeScript, React, Angular, accessibility, and an introduction to backend technologies such as AWS, Node.js, and MongoDB.",
+                "Contributed to a Subscription Management project, building a full-stack CRUD application with React, CSS Modules, Node.js, MongoDB, and middleware.",
+                "Mentorship phase, shadowing a senior developer and deepening my knowledge of Angular."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Development Teacher",
+            "company": "Ada ITW",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Empowering women by teaching essential FrontEnd development skills at Ada, a non-governmental organization.",
+                "Leading comprehensive lessons on HTML5, CSS3, JavaScript, React, and Responsive Design to help students build a strong foundation in web development."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Bunny Studio Inc.",
+            "location": "Remote",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Worked on redesigning pages using React and Next.js to enhance user experience.",
+                "Implemented 301 and 302 redirects to improve site SEO and avoid redirect chains.",
+                "Built dynamic templates managed with GraphQL to streamline content management in the CMS.",
+                "Helped resolve critical PayPal API issues, managing the MySQL database to ensure accurate payments for over 2,000 transactions and 500 users.",
+                "Collaborated with a multicultural team, working across different time zones.",
+                "Gained experience with backend technologies, working with databases and SQL scripts to support my frontend tasks."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Frontend Programmer",
+            "institution": "ADA ITW",
+            "location": "Buenos Aires, ARG",
+            "start_date": "2020-07-01",
+            "end_date": "2021-05-31",
+            "hours": 0
+        },
+        {
+            "degree": "Biological Science Degree",
+            "institution": "Universidad de Buenos Aires | Facultad de Ciencias Exactas y Naturales",
+            "location": "Buenos Aires, ARG",
+            "start_date": "2004-07-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react.js",
+                "next.js",
+                "redux",
+                "custom-hooks",
+                "typescript",
+                "html5",
+                "css3",
+                "flex",
+                "sass",
+                "bootstrap",
+                "tailwind",
+                "git",
+                "github",
+                "npm",
+                "mysql",
+                "dbeaver",
+                "endpoints",
+                "postman",
+                "rest-api",
+                "graphql-api",
+                "aws",
+                "jenkins",
+                "docker",
+                "vscode",
+                "figma"
+            ],
+            "soft": [
+                "strategic-thinking",
+                "strategic",
+                "learner",
+                "intellection",
+                "input",
+                "command"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Movie Search",
+            "description": "Built with React, styled with CSS3 modules, and deployed on Netlify. Utilizes the Movie Database (TMDB) API for fetching data.",
+            "technologies": [
+                "React",
+                "CSS3",
+                "Netlify"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Memelandia",
+            "description": "Built with Vanilla JavaScript and HTML5 forms, styled with CSS3. Applies visual CSS filters. Deployed on Hostinger.",
+            "technologies": [
+                "JavaScript",
+                "HTML5",
+                "CSS3",
+                "Hostinger"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Advanced"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
