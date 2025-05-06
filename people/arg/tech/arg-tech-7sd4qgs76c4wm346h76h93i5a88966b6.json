@@ -296,6 +296,30 @@
                         "title": "Elements of JavaScript Style",
                         "description": "Conjunto de convenciones y estilos recomendados para escribir código JavaScript limpio y legible.",
                         "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/elementsOfJS.js"
+                    },
+                    {
+                        "id": 1502,
+                        "title": "SOLID Principles",
+                        "description": "Conjunto de principios para escribir código que sea mantenible, escalable y fácil de entender.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/solid.js"
+                    },
+                    {
+                        "id": 1503,
+                        "title": "DRY (Don't Repeat Yourself)",
+                        "description": "Principio que recomienda evitar la duplicación de código para mejorar la mantenibilidad.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/dry.js"
+                    },
+                    {
+                        "id": 1504,
+                        "title": "KISS (Keep It Simple, Stupid)",
+                        "description": "Principio que sugiere mantener el código simple y directo, evitando la complejidad innecesaria.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/kiss.js"
+                    },
+                    {
+                        "id": 1505,
+                        "title": "YAGNI (You Ain’t Gonna Need It)",
+                        "description": "Principio que recomienda no implementar características innecesarias hasta que sean realmente necesarias.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/yagni.js"
                     }
                 ]
             }
