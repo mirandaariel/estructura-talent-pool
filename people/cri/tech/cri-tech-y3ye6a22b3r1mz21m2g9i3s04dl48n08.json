@@ -1,0 +1,146 @@
+{
+    "personal_info": {
+        "first_name": "Ronny",
+        "last_name": "Brenes",
+        "email": "rjba08@gmail.com",
+        "phone": "+506 8322-0648",
+        "location": {
+            "country": "Costa Rica",
+            "city": "Cartago",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/ronny-brenes/",
+        "website": "",
+        "portfolio": "https://github.com/robre8",
+        "summary": "Desarrollador de software en búsqueda de experiencia laboral activa como back-end, con experiencia en Java, Springboot, y bases de datos relacionales. Conocimientos en Python, JavaScript, y POO. Familiarizado con metodologías ágiles y control de versiones con Git."
+    },
+    "work_experience": [
+        {
+            "job_title": "Freelance Developer",
+            "company": "",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de una aplicación de conversor de monedas utilizando una API.",
+                "Desarrollo de encriptador de texto con front-end.",
+                "Desarrollo de aplicación de libros con consultas a una API y CRUD.",
+                "Desarrollo de API REST para foro con autenticación de usuarios y pruebas con JUnit.",
+                "Desarrollo de aplicación para ecommerce con consultas de informes y Docker.",
+                "Colaboración en el desarrollo de MVP de mapa interactivo para reportes en tiempo real."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Consultor independiente en proyectos de Desarrollo cultural",
+            "company": "",
+            "location": "Costa Rica",
+            "start_date": "2017-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Planificación e implementación de proyectos socioculturales.",
+                "Desarrollo de instrumentos para la toma de datos e información.",
+                "Mejora en la calidad y cantidad de información recolectada en un 40%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diplomado en Desarrollo Web Full-Stack",
+            "institution": "Universidad de Cataluña",
+            "location": "Colombia",
+            "start_date": "2024-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Antropología",
+            "institution": "Universidad de Costa Rica",
+            "location": "",
+            "start_date": "2012-01-01",
+            "end_date": "2015-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "springboot",
+                "bases-de-datos-relacionales",
+                "python",
+                "javascript",
+                "poo",
+                "ci/cd"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "entornos-colaborativos"
+            ],
+            "tools": [
+                "github",
+                "trello",
+                "maven",
+                "docker",
+                "swagger",
+                "postman",
+                "amazon-s3",
+                "google-cloud-storage"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Scrum Fundamentals Certified",
+            "issuing_organization": "",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Programa Oracle Next Education F2 T6 Back-end",
+            "issuing_organization": "",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Google IT Automation with Python Professional Certificate",
+            "issuing_organization": "",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Oracle Cloud Infrastructure Certified Foundations Associate",
+            "issuing_organization": "",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado-B2+"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
