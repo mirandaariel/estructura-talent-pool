@@ -1,0 +1,118 @@
+{
+    "personal_info": {
+        "first_name": "Paula",
+        "last_name": "Miranda",
+        "email": "paulabelumiranda08@gmail.com",
+        "phone": "+54 3518065273",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy Técnica Superior en Desarrollo de Software recientemente recibida, proactiva, organizada y con gran capacidad de aprendizaje. Busco una oportunidad en un puesto junior donde pueda aplicar mis conocimientos y seguir creciendo profesionalmente. Poseo habilidades en programación y bases de datos, así como un buen manejo del trabajo en equipo y resolución de problemas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrolladora de Software Junior",
+            "company": "Proyecto de Tesis - Software para Gestión en Dietética",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de un software de gestión de clientes, stock y ventas.",
+                "Implementación de un sistema CRUD con PHP y SQL.",
+                "Uso de phpMyAdmin para la administración de bases de datos.",
+                "Aplicación de buenas prácticas de desarrollo web."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/MirandaPau/Software-Animi.git"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diplomatura en Testing de software",
+            "institution": "Universidad Blas Pascal",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Certificación en Desarrollo Frontend",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Desarrollo de Software",
+            "institution": "Instituto Superior Santo Domingo",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Informática",
+            "institution": "Colegio Secundario",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "java",
+                "php",
+                "c#",
+                "html",
+                "css",
+                "bootstrap",
+                "sql",
+                "phpmyadmin"
+            ],
+            "soft": [
+                "problem-solving",
+                "communication",
+                "teamwork",
+                "time-management"
+            ],
+            "tools": [
+                "jira",
+                "confluence",
+                "scrum",
+                "agile",
+                "excel",
+                "word",
+                "powerpoint"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,49 +1,33 @@
 {
     "personal_info": {
-        "first_name": "Aixa Macarena",
+        "first_name": "Aixa",
         "last_name": "Filsinger",
-        "email": "macal99@gmail.com",
-        "phone": "+54 3813937398",
+        "email": "Macafil99@gmail.com",
+        "phone": "+543813937398",
         "location": {
             "country": "Argentina",
             "city": "Tucumán",
             "state": ""
         },
-        "linkedin": "https://linkedin.com/in/aixa-lsinger",
+        "linkedin": "https://linkedin.com/in/aixa-filsinger",
         "website": "",
         "portfolio": "",
         "summary": "Soy Técnica Universitaria en Programación, graduada en agosto de 2024 en la Universidad Tecnológica Nacional. Soy apasionada por la tecnología y me gusta aprender constantemente. Mi perfil se orienta principalmente hacia el Desarrollo FullStack, pero estoy incursionando en nuevas tecnologías y tendencias para ampliar mis habilidades y conocimientos."
     },
     "work_experience": [
         {
-            "job_title": "",
+            "job_title": "Desarrollador",
             "company": "Gesinco",
             "location": "Remoto, Argentina",
             "start_date": "2024-12-01",
             "end_date": "2025-01-31",
             "currently_working": false,
             "responsibilities": [
-                "Desarrollé el menú y footer de la página",
-                "Desarrollé el slider principal",
+                "Desarrollé el menú y footer de la página.",
+                "Desarrollé el slider principal.",
                 "Realicé la revisión y corrección de errores en la página web, asegurando la calidad y la precisión del contenido y mejorando la experiencia del usuario.",
-                "Realicé el Despliegue de la página web en vercel e integre Google analytics"
-            ],
-            "achievements": [],
-            "repository_url": ""
-        },
-        {
-            "job_title": "",
-            "company": "Kiara Studio",
-            "location": "Tucumán, Argentina",
-            "start_date": "2024-08-01",
-            "end_date": "2024-08-31",
-            "currently_working": false,
-            "responsibilities": [
-                "Desarrollé la estructura y el diseño de la página principal.",
-                "Desarrollé la sección de cursos, incluyendo la estructura y el contenido.",
-                "Diseñé e implementé el menú de navegación para facilitar la exploración del sitio.",
-                "Creé el pie de página con información de contacto y enlaces relevantes.",
-                "Diseñé e implementé la sección de servicios, destacando las ofertas y beneficios de la empresa."
+                "Realicé el despliegue de la página web en Vercel e integre Google Analytics.",
+                "Trabajamos con metodologías ágiles (scrum), también utilizamos Git y GitHub para el control de versiones."
             ],
             "achievements": [],
             "repository_url": ""
@@ -56,13 +40,8 @@
             "end_date": "2024-09-30",
             "currently_working": false,
             "responsibilities": [
-                "Registrarse y autenticarse.",
-                "Seleccionar el tipo de sala: privada, compartida, conferencia y reunión.",
-                "Elegir la categoría: economy, confort y premium.",
-                "Seleccionar la fecha y el horario (desde-hasta) para la reserva.",
-                "Pagar a través de Mercado Pago.",
-                "Recibir una confirmación por correo electrónico una vez realizada la reserva.",
-                "Gestionar el CRUD de salas, tipos, categorías y usuarios, además de editar las disponibilidades, horarios y días."
+                "TucuWorking es un sistema de reservación de salas para coworking que permite a los clientes registrarse y autenticarse, seleccionar tipo de sala y categoría, elegir fecha y horario, pagar a través de Mercado Pago y recibir confirmación por correo.",
+                "Los administradores pueden gestionar el CRUD de salas, tipos, categorías y usuarios, además de editar las disponibilidades, horarios y días."
             ],
             "achievements": [],
             "repository_url": ""
@@ -74,11 +53,11 @@
             "institution": "Universidad Tecnológica Nacional de Tucumán",
             "location": "Tucumán, Argentina",
             "start_date": "",
-            "end_date": "2024-08-31",
+            "end_date": "2024-08-01",
             "hours": 0
         },
         {
-            "degree": "Ingeniería en sistemas de la información",
+            "degree": "Ingeniería en Sistemas de la Información",
             "institution": "Universidad Tecnológica Nacional de Tucumán",
             "location": "Tucumán, Argentina",
             "start_date": "",
@@ -92,7 +71,7 @@
                 "react.js",
                 "node.js",
                 "express",
-                "javascript",
+                "javaScript",
                 "html",
                 "css",
                 "bootstrap",
@@ -113,12 +92,23 @@
             ]
         },
         "detailed": {
-            "technical": {},
-            "soft": {}
+            "technical": [],
+            "soft": []
         }
     },
     "certifications": [],
-    "projects": [],
+    "projects": [
+        {
+            "name": "Kiara Studio",
+            "description": "Landing page con sistema de reservas. Desarrollé diferentes secciones y funcionalidades para mejorar la interacción de los usuarios.",
+            "technologies": [
+                "react.js",
+                "node.js",
+                "express"
+            ],
+            "url": ""
+        }
+    ],
     "languages": [
         {
             "language": "Español",

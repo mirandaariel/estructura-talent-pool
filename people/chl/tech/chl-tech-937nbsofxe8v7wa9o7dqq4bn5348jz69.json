@@ -1,0 +1,125 @@
+{
+  "personal_info": {
+    "first_name": "Alejandro",
+    "last_name": "Monasterios",
+    "email": "alejandromf9622@gmail.com",
+    "phone": "",
+    "location": {
+      "country": "Chile",
+      "city": "Concepción",
+      "state": ""
+    },
+    "linkedin": "",
+    "website": "https://alejandrojmf.vercel.app",
+    "portfolio": "https://github.com/Alejandromf96",
+    "summary": "Soy un recién graduado en informática con experiencia en lenguajes como Python y JavaScript. Me apasiona la tecnología y me esfuerzo constantemente por mantenerme actualizado con las últimas tendencias de la industria. Además de mis habilidades técnicas, tengo experiencia práctica en atención al cliente gracias a mis roles como camarero y bartender. Estas experiencias han agudizado mis relaciones interpersonales."
+  },
+  "work_experience": [],
+  "education": [
+    {
+      "degree": "Ingeniería en Telecomunicaciones",
+      "institution": "Universidad de Carabobo",
+      "location": "",
+      "start_date": "2015-01-01",
+      "end_date": "2018-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Técnico en Informática",
+      "institution": "Instituto Profesional de Providencia",
+      "location": "",
+      "start_date": "2022-01-01",
+      "end_date": "2024-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "python",
+        "git/github",
+        "mysql",
+        "html",
+        "css",
+        "javascript",
+        "react",
+        "flask"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [
+    {
+      "name": "Curso de Práctico de JavaScript",
+      "issuing_organization": "Platzi",
+      "issue_date": "2023-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Curso de React.js",
+      "issuing_organization": "Platzi",
+      "issue_date": "2023-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Curso Básico de Python",
+      "issuing_organization": "Platzi",
+      "issue_date": "2023-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Python sin fronteras: HTML, CSS, Flask y SQL",
+      "issuing_organization": "Udemy",
+      "issue_date": "2023-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "TO DO con Flask",
+      "description": "Una aplicación web que permite a los usuarios registrar, iniciar sesión y gestionar sus tareas pendientes. Los usuarios pueden crear, actualizar y eliminar tareas, así como marcar las tareas como completadas.",
+      "technologies": ["flask", "mysql", "werkzeug.security", "python-dotenv", "html", "css"],
+      "url": "https://github.com/Alejandromf96/FLASK_TODO"
+    },
+    {
+      "name": "Book Shop",
+      "description": "Desarrollé una aplicación de e-commerce centrada en la venta de libros, con carrito de compras, búsqueda de productos y modo oscuro persistente. Implementé funcionalidades de autenticación segura y gestión de roles para usuarios y administradores.",
+      "technologies": ["html", "jinja2", "css", "javascript", "flask", "flask-sqlalchemy", "flask-login", "wtforms", "email-validator", "sqlite"],
+      "url": "https://github.com/Alejandromf96/Book_shop"
+    },
+    {
+      "name": "Carrito de Compras con React",
+      "description": "Una aplicación web de carrito de compras desarrollada en React, que permite a los usuarios agregar productos al carrito, ver los detalles del carrito y gestionar la cantidad de productos.",
+      "technologies": ["react", "css"],
+      "url": "https://github.com/Alejandromf96/SHORRING_CART"
+    },
+    {
+      "name": "Social Media",
+      "description": "Red social inspirada en versiones clásicas de twitter y facebook. Enfocada en la creación y visualización de publicaciones, permite a los usuarios registrarse, iniciar sesión, crear, editar, eliminar publicaciones e interactuar en un feed.",
+      "technologies": ["flask", "sqlalchemy", "flask-wtf", "sqlite", "html", "css", "javascript"],
+      "url": "https://github.com/Alejandromf96/social_media"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "B2"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

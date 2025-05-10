@@ -1,0 +1,150 @@
+{
+    "personal_info": {
+        "first_name": "Nicolas",
+        "last_name": "Segovia",
+        "email": "nico.segov@gmail.com",
+        "phone": "+54 9 351-2299977",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/nicosegovia",
+        "website": "https://nicosegovia.com.ar",
+        "portfolio": "https://github.com/Nico-Segovia",
+        "summary": "Graduado de la Tecnicatura Universitaria en Programación (UTN) y desarrollador autodidacta en continuo crecimiento. Mi sólida formación académica se complementa con un historial exitoso en el desarrollo de software. Apasionado por aprender nuevas tecnologías y ofrecer soluciones eficientes en cada proyecto."
+    },
+    "work_experience": [
+        {
+            "job_title": "JR+ Backend .NET S. Developer",
+            "company": "Box Custodia",
+            "location": "",
+            "start_date": "2022-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Soporte y mantenimiento de aplicaciones para empleados y clientes internos.",
+                "Consultas y optimización de bases de datos MySQL y SQL Server.",
+                "Desarrollo y mantenimiento de APIs REST en .NET Core 8.",
+                "Migración de módulos legacy en Visual Basic a .NET Core 6.",
+                "Mantenimiento y mejoras en sistemas web con PHP 5.6."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "JR. Functional Analyst",
+            "company": "Control Global",
+            "location": "",
+            "start_date": "2021-12-01",
+            "end_date": "2022-06-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Análisis y mantenimiento de un sistema web intranet .NET.",
+                "Definir, analizar y evaluar el rendimiento de los sistemas existentes.",
+                "Escribir manuales de usuario y documentación.",
+                "Testing Manual y/o Automático."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "JR Fullstack .NET S. Developer",
+            "company": "NEORIS",
+            "location": "",
+            "start_date": "2021-06-01",
+            "end_date": "2021-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Mantenimiento de un sistema de escritorio .NET en C#.",
+                "Control de versionado mediante TFS.",
+                "Desenvolvimiento en un equipo dinámico con metodología Scrum."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Universitario en Programación",
+            "institution": "UTN - Facultad Regional San Rafael",
+            "location": "San Rafael, Mendoza, Argentina",
+            "start_date": "2020-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "angular",
+                "react-js",
+                "javascript",
+                "typescript",
+                "c#",
+                ".net-fwk/core",
+                "api-rest",
+                "wpf",
+                "asp.net",
+                "node-js",
+                "php",
+                "python",
+                "ms-sql-server",
+                "mysql",
+                "postgresql"
+            ],
+            "soft": [
+                "comunicacion",
+                "interpersonales",
+                "trabajo-en-equipo",
+                "gestion-del-tiempo",
+                "metodologias-agiles"
+            ],
+            "tools": [
+                "git",
+                "docker",
+                "visual-studio",
+                "vscode",
+                "postman",
+                "swagger",
+                "confluence",
+                "jira",
+                "trello",
+                "tfs",
+                "redmine",
+                "figma",
+                "lunacy",
+                "chatgpt",
+                "copilot",
+                "gemini",
+                "replit-agent",
+                "notion",
+                "mintlify",
+                "github-copilot",
+                "cursor",
+                "tabnine"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "David Perez",
+            "relationship": "Coordinador",
+            "contact": "+54 9 3513 07-5381"
+        },
+        {
+            "name": "Bruno Targhetta",
+            "relationship": "Counselor",
+            "contact": "brunotarghetta@gmail.com"
+        }
+    ]
+}
