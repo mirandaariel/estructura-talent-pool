@@ -1,0 +1,113 @@
+{
+    "personal_info": {
+        "first_name": "Andrés Felipe",
+        "last_name": "Marchena Porras",
+        "email": "andresmarchenaporras@gmail.com",
+        "phone": "+57 3107567646",
+        "location": {
+            "country": "Colombia",
+            "city": "Bogotá D.C",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/andevmarchena/",
+        "website": "https://portafolio-andev.netlify.app",
+        "portfolio": "https://github.com/AndresDM7",
+        "summary": "Soy un desarrollador frontend en formación como full stack, destacado por mi habilidad para aprender rápidamente y adaptarme a nuevas tecnologías y entornos laborales. Mi versatilidad me permite abordar desafíos en el desarrollo de software, tanto en el frontend como en el backend. Además, cuento con experiencia en la colaboración con equipos multidisciplinarios, lo que me ha permitido crear soluciones efectivas al aprovechar las fortalezas colectivas para alcanzar los objetivos del proyecto. Estoy comprometido con el aprendizaje continuo y con el perfeccionamiento de mis habilidades técnicas y de trabajo en equipo."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Ingeniería de Software",
+            "institution": "Universidad Manuela Beltrán",
+            "location": "Bogotá D.C, Colombia",
+            "start_date": "2021-02-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso de React Avanzado",
+            "institution": "Platzi",
+            "location": "Bogotá D.C, Colombia",
+            "start_date": "2024-11-01",
+            "end_date": "2024-11-30",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Developer con JavaScript",
+            "institution": "Platzi",
+            "location": "Bogotá D.C, Colombia",
+            "start_date": "2024-10-01",
+            "end_date": "2024-10-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react",
+                "html5",
+                "css3",
+                "tailwindcss",
+                "node.js",
+                "mysql"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "E commerce - Carrito de Compras Interactivo",
+            "description": "Creación de un carrito de compras interactivo utilizando React.",
+            "technologies": ["react"],
+            "url": "https://shopping-cart-with-react-andev.netlify.app"
+        },
+        {
+            "name": "JavaScript Quiz",
+            "description": "Desarrollo de un quiz interactivo sobre JavaScript, utilizando React y TypeScript.",
+            "technologies": ["react", "typescript"],
+            "url": "https://quiz-of-javascript.netlify.app"
+        },
+        {
+            "name": "Clon MonkeyType",
+            "description": "Juego interactivo de mecanografía diseñado con JavaScript Vanilla.",
+            "technologies": ["javascript"],
+            "url": "https://monkeytypeclon.netlify.app"
+        },
+        {
+            "name": "Paint-Windows",
+            "description": "Aplicación de dibujo interactiva creada con JavaScript Vanilla, HTML y CSS.",
+            "technologies": ["javascript", "html", "css"],
+            "url": "https://paint-window-andev.netlify.app"
+        },
+        {
+            "name": "Portafolio",
+            "description": "Portafolio personal diseñado para destacar mi trayectoria.",
+            "technologies": ["html", "css"],
+            "url": "https://portafolio-andev.netlify.app"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Fluent"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

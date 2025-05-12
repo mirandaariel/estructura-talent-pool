@@ -1,0 +1,177 @@
+{
+    "personal_info": {
+        "first_name": "Versain",
+        "last_name": "Castaño Arenas",
+        "email": "yercas93@gmail.com",
+        "phone": "+57 3154623314",
+        "location": {
+            "country": "Colombia",
+            "city": "Pereira",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full-Stack Web Developer"
+    },
+    "work_experience": [
+        {
+            "job_title": "Full-Stack Developer",
+            "company": "Grupoconsultic",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Development of a project in the legal field, with microservices architecture.",
+                "Focused on the incorporation of multi-level security verification for document access and possible modification.",
+                "Back-end framework such as NestJS and APIs such as GraphQL and Front-End NextJS are used.",
+                "Jira for SCRUM methodology, and Docker for containerisation."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Controller",
+            "company": "GEIICO",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Follow-up of the investment plan of the electricity company in electricity network projects.",
+                "Debugging of customer-supplied database and management with Python and PostgreSQL.",
+                "With the management of the audit, it has been possible to reduce the economic differences between the CAPEX and the Investment Plan by 0% for the area of losses of the electricity company."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Monitor RUTA MinTIC-2022",
+            "company": "Universidad Tecnológica de Pereira, UTP",
+            "location": "",
+            "start_date": "2021-07-01",
+            "end_date": "2021-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Provide support to students and teach the basics of HTML, CSS and Python.",
+                "In sessions with groups of up to 10 students."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full-Stack Web Development",
+            "institution": "Academlo",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-06-30",
+            "hours": 0
+        },
+        {
+            "degree": "Electrical Engineering",
+            "institution": "Universidad Tecnológica de Pereira",
+            "location": "",
+            "start_date": "2013-08-01",
+            "end_date": "2019-07-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "python",
+                "typescript",
+                "html",
+                "css",
+                "reactjs-vite",
+                "redux",
+                "github",
+                "tailwindcss",
+                "nodejs",
+                "express",
+                "sequelize",
+                "postgressql",
+                "mongosdb",
+                "jest-test",
+                "numbpy",
+                "matplotlib",
+                "pandas",
+                "labview",
+                "autocad",
+                "nextjs",
+                "graphql",
+                "docker"
+            ],
+            "soft": [],
+            "tools": [
+                "jira"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "E-commerce",
+            "description": "E-commerce application developed with ReactJS.",
+            "technologies": [
+                "reactjs",
+                "vite",
+                "redux",
+                "axios",
+                "tailwindcss",
+                "html",
+                "js",
+                "css",
+                "nodejs",
+                "postgresql",
+                "jest-test"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Pokedex",
+            "description": "Pokédex application developed with ReactJS.",
+            "technologies": [
+                "reactjs",
+                "vite",
+                "axios",
+                "tailwindcss",
+                "hooks",
+                "html",
+                "js",
+                "css"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Users CRUD",
+            "description": "Users application developed with ReactJS.",
+            "technologies": [
+                "reactjs",
+                "vite",
+                "axios",
+                "tailwindcss",
+                "hooks",
+                "html",
+                "js",
+                "css",
+                "nodejs",
+                "mongosdb",
+                "jest-test"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,78 @@
+{
+    "personal_info": {
+        "first_name": "Leonel",
+        "last_name": "Torres",
+        "email": "leo_torres089@outlook.com",
+        "phone": "3804567812",
+        "location": {
+            "country": "Argentina",
+            "city": "La Rioja",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/leonel-torres-27333129a/",
+        "website": "https://leo08910.github.io",
+        "portfolio": "https://leo08910.github.io",
+        "summary": "Desarrollador web orientado al backend, con formación técnica y experiencia en el desarrollo de aplicaciones web usando JavaScript, Python y C#. Participé en la creación de una aplicación para la gestión de tesinas, integrando funcionalidades como encriptacion de contraseñas, autenticación, autorización por roles y alojamiento de archivos en la nube con AWS."
+    },
+    "work_experience": [
+        {
+            "job_title": "Prácticas Profesionales – Proyecto Académico",
+            "company": "",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Participé en el desarrollo de una aplicación web para la administración de tesinas.",
+                "Implementé autenticación de usuarios con JWT y roles de autorización.",
+                "Integré almacenamiento de archivos en AWS S3.",
+                "Colaboré en el diseño y consumo de una API RESTful con Express y MySQL."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["javascript", "python", "c#", "react", "express", "sql", "mysql", "restful", "jwt", "bcrypt", "aws-s3", "docker", "cypress"],
+            "soft": [],
+            "tools": ["git", "postman"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Administrador de Tesinas",
+            "description": "Aplicación fullstack para gestionar proyectos finales universitarios. Incluye autenticación, autorización, manejo de archivos con AWS S3 y uso de base de datos MySQL.",
+            "technologies": ["authentication", "authorization", "aws-s3", "mysql"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

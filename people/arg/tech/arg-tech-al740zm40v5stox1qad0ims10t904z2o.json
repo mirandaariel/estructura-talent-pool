@@ -1,0 +1,150 @@
+{
+    "personal_info": {
+        "first_name": "Alberto Ezequiel",
+        "last_name": "Irace",
+        "email": "A.ezequielirace@gmail.com",
+        "phone": "1167075529",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": "Provincia de Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/alberto-ezequiel-irace",
+        "website": "",
+        "portfolio": "https://www.facebook.com/ezequiel.irace",
+        "summary": "Hoy en día me encuentro disfrutando de mis jornadas laborales en Pirelli. Finalizando el bootcamp en Henry y experimentando el maravilloso mundo del Full Stack Developer. #Javascript, #React, #CSS, #Express, #MongoDB, #HTML5, #VUEJS, #NUXT."
+    },
+    "work_experience": [
+        {
+            "job_title": "Soporte Técnico Industrial",
+            "company": "Pirelli",
+            "location": "Merlo, Provincia de Buenos Aires, Argentina",
+            "start_date": "2021-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Distribuidor Independiente",
+            "company": "PSA - Industrias Pugliese S.A",
+            "location": "Argentina",
+            "start_date": "2013-11-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Junior Ruby Developer",
+            "company": "Uttopion",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Henry",
+            "location": "Provincia de Buenos Aires, Argentina",
+            "start_date": "2023-04-01",
+            "end_date": "2023-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Estudié y trabajé Full Stack Developer a la par de un grupo de 8 estudiantes para realizar una aplicación web que permite gestionar un ecommerce, mediante su registro. Ésta misma permite al usuario eligir los estilos de su pagina entre distintos templates. Se agrego en la configuracíon la posibilidad de editar un dominio propio donde publicar sus productos. También cuenta con sistema de usuarios para las ordenes dentro de cada tienda."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollador Full Stack",
+            "institution": "Henry",
+            "location": "",
+            "start_date": "2022-11-01",
+            "end_date": "2022-11-30",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnicatura en Desarrollo Web",
+            "institution": "Universidad Nacional de La Matanza",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react-hooks",
+                "sequelize.js",
+                "postgresql",
+                "javascript",
+                "react-js",
+                "vuejs",
+                "redux",
+                "node-js",
+                "express-js",
+                "mongodb",
+                "css",
+                "html5",
+                "nuxt"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Fundamentos HTML",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Fundamentos PHP",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Full Stack Web Developer",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Introduction to Cybersecurity",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "EF SET Certificate",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

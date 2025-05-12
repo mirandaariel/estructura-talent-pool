@@ -1,0 +1,168 @@
+{
+    "personal_info": {
+        "first_name": "Tomás",
+        "last_name": "Garijo López",
+        "email": "tgarijo@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Spain",
+            "city": "Villanueva de la Cañada",
+            "state": "Madrid"
+        },
+        "linkedin": "https://www.linkedin.com/in/tomas-garijo",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador de Software Senior con más de 25 años de experiencia liderando proyectos de aplicaciones corporativas. Especializado en tecnologías Microsoft (.NET, C#) y frameworks modernos de frontend (Angular), con dominio de arquitecturas como CQRS, DDD y microservicios. Perfil híbrido entre desarrollo y liderazgo técnico, capaz de gestionar todo el ciclo de vida de software con enfoque en eficiencia, escalabilidad y calidad."
+    },
+    "work_experience": [
+        {
+            "job_title": "Responsable Dpto. Informática",
+            "company": "Click Online, S.A.",
+            "location": "",
+            "start_date": "2000-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Liderazgo en el desarrollo y mantenimiento de ERP y eCommerce corporativos.",
+                "Diseño e implementación de soluciones con C# .NET, Angular, EF, SQL Server.",
+                "Gestión de infraestructura crítica con VMware, Fortinet, Veeam y entornos Linux.",
+                "Automatización con Bash, Python SDK y VRealize.",
+                "Implementación de soluciones OCR y gestión documental avanzada."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Jefe de Informática",
+            "company": "Viajes Surland",
+            "location": "",
+            "start_date": "1998-01-01",
+            "end_date": "2000-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Responsable del departamento, desarrollo de ERP y decisiones de infraestructura.",
+                "Gestión del equipo técnico y planificación presupuestaria."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnico de Sistemas",
+            "company": "LS Informática y Comunicaciones",
+            "location": "",
+            "start_date": "1994-01-01",
+            "end_date": "1998-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Programación en 4GL y RM-COBOL.",
+                "Gestión de sistemas UNIX y comunicaciones TCP/IP."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Programador",
+            "company": "Establecimientos Gamos, S.A.",
+            "location": "",
+            "start_date": "1990-01-01",
+            "end_date": "1993-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de ERP de almacén y facturación.",
+                "Responsable de sistemas y software de gestión."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Grado en Ingeniería Informática",
+            "institution": "Universidad Isabel I",
+            "location": "",
+            "start_date": "2013-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "angular",
+                "html5",
+                "css3",
+                "c#",
+                ".net-core",
+                ".net-framework",
+                "asp.net",
+                "ef",
+                "ddd",
+                "cqrs",
+                "apis-restful",
+                "docker",
+                "linux",
+                "bash",
+                "apache",
+                "tomcat",
+                "vmware",
+                "veeam",
+                "fortinet",
+                "sql-server",
+                "mysql",
+                "google-cloud-platform",
+                "office-365",
+                "exchange-online"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Google Cloud Platform – Core Infrastructure",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "LPIC-1 & LPIC-2 – Linux",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Java SE 11 – Oracle",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Fundamentos de JavaScript, POO con Java",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2+"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

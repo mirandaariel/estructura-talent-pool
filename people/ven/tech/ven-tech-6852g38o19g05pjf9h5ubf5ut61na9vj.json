@@ -1,0 +1,123 @@
+{
+    "personal_info": {
+        "first_name": "Fabricio",
+        "last_name": "Bencomo",
+        "email": "fabriciobencomo.viloria@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Venezuela",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "LinkedIn Profile",
+        "website": "My Website",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Jr FullStack Developer",
+            "company": "DeaDiaAlimentos C.A",
+            "location": "Valencia, Venezuela",
+            "start_date": "2022-01-01",
+            "end_date": "2022-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Streamlined operations for 60% of the workforce by designing an intuitive interface, enhancing user engagement and increasing productivity by 40%, leading to a significant reduction in task completion time.",
+                "Developed a comprehensive CRUD system utilizing JavaScript, PHP, CSS, HTML, MySQL, and Vue that improved data management efficiency by 75%, resulting in faster response times for sales and customer orders.",
+                "Automated workflow processes across various departments which reduced manual input errors, facilitating a smoother transition to the new system and improving overall company performance metrics significantly."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Jr Software Developer (Intern)",
+            "company": "Petroquimica Venezuela S.A",
+            "location": "Valencia, Venezuela",
+            "start_date": "2022-09-01",
+            "end_date": "2023-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed a recruitment system interface, managing over 700 applicants profiles through a robust CRUD functionality utilizing Laravel and JavaScript.",
+                "Developed a dynamic ticketing system using React and WebSockets to streamline internal communications for equipment requests and issue tracking; achieved an impressive response time reduction of 50%, significantly elevating team productivity across departments."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Universidad Tecnologica Del Centro",
+            "location": "Guacara, Venezuela",
+            "start_date": "2023-07-01",
+            "end_date": "2023-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Engineered 25 responsive interface components utilizing React and Bootstrap, resulting in a visually engaging platform and increasing user engagement.",
+                "Developed and optimized 15 custom hooks for the latest version of Unicodex (Educational management platform for the students), enhancing code reusability and reducing overall load time by 20%, ultimately improving user experience for over 5,000 active students."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Leadbox",
+            "location": "Canada, Ontario - (Remote)",
+            "start_date": "2024-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Spearheaded the resolution of over 500 front-end tickets for a diverse portfolio of $100+ clients, enhancing website performance and user experience across multiple automotive brands, resulting in a reduction in client-reported issues.",
+                "Optimized code efficiency and responsiveness on WordPress platforms utilizing Laravel, Vue, and Tailwind frameworks, leading to an average load time decrease of 40% (Less than 30 hours), significantly improving client satisfaction ratings.",
+                "Collaborated with cross-functional teams to implement innovative solutions for dealership websites across Canada, achieving a noteworthy increase in responsiveness."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Informatics Engineering",
+            "institution": "Universidad Tecnologica Del Centro",
+            "location": "Guacara, Venezuela",
+            "start_date": "",
+            "end_date": "2024-06-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "react",
+                "vue",
+                "php",
+                "laravel",
+                "node",
+                "sql",
+                "testing",
+                "nosql",
+                "tailwindcss",
+                "graphql",
+                "wordpress"
+            ],
+            "soft": [
+                "problem-solving",
+                "verbal-comunication",
+                "attention-to-details",
+                "willingness-to-learn",
+                "teamplayer"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
