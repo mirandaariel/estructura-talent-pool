@@ -320,6 +320,36 @@
                         "title": "YAGNI (You Ain’t Gonna Need It)",
                         "description": "Principio que recomienda no implementar características innecesarias hasta que sean realmente necesarias.",
                         "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/yagni.js"
+                    },
+                    {
+                        "id": 1601,
+                        "title": "Unit Testing",
+                        "description": "Escritura de pruebas automatizadas para verificar funcionalidades específicas de manera aislada.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/unitTesting.js"
+                    },
+                    {
+                        "id": 1602,
+                        "title": "Integration Testing",
+                        "description": "Pruebas que evalúan cómo interactúan diferentes componentes del sistema entre sí.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/integrationTesting.js"
+                    },
+                    {
+                        "id": 1603,
+                        "title": "End-to-End Testing",
+                        "description": "Pruebas que simulan el flujo completo de una aplicación para asegurar su correcto funcionamiento desde el principio hasta el fin.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/eTETesting.js"
+                    },
+                    {
+                        "id": 1604,
+                        "title": "Mocking is a Code Smell",
+                        "description": "Evitar el uso excesivo de mocks en las pruebas, ya que puede ser un indicador de un diseño débil.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/mocking.js"
+                    },
+                    {
+                        "id": 1605,
+                        "title": "Code Coverage",
+                        "description": "Métrica que indica qué porcentaje del código ha sido ejecutado por las pruebas automatizadas.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/codeCoverage.js"
                     }
                 ]
             }
