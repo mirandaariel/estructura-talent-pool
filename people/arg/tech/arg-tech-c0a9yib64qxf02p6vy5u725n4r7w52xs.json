@@ -1,0 +1,141 @@
+{
+    "personal_info": {
+        "first_name": "Mariquena",
+        "last_name": "Allosa",
+        "email": "allosamariquena@gmail.com",
+        "phone": "4906954",
+        "location": {
+            "country": "Argentina",
+            "city": "Posadas",
+            "state": "Misiones"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrolladora Full Stack con experiencia en desarrollo web utilizando tecnologías como JavaScript, React, Node.js, Java y Spring Boot. Enfocada en la construcción de soluciones funcionales y eficientes tanto en frontend como backend. Experiencia en el consumo e integración de APIs REST, manejo de bases de datos SQL, y participación en equipos ágiles y colaborativos. Comprometida con la mejora continua, proactiva y entusiasta por el aprendizaje constante."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "RELEX SRL",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Implementé mejoras funcionales y de UI en un sistema de seguimiento de expedientes.",
+                "Refactoricé frontend y backend en un sistema de digitalización documental.",
+                "Brindé soporte y mantenimiento al visor del mapa catastral.",
+                "Coordiné el desarrollo de una app de telemedicina.",
+                "Desarrollo actualmente el frontend de una plataforma documental.",
+                "Participo en tareas de infraestructura en Google Cloud Platform.",
+                "Guié y capacité a un pasante durante 5 meses.",
+                "Participo activamente en sprints y dailies bajo metodología ágil."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrolladora Java",
+            "company": "Silicon Misiones",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo y mantenimiento del backend de conectando.com.ar.",
+                "Participé en el modelado de datos con el equipo de desarrollo.",
+                "Colaboro con un equipo multidisciplinario.",
+                "Mantengo coordinación constante con otro desarrollador backend.",
+                "Implementé autenticación con JWT.",
+                "Brindo soporte al área de DevOps.",
+                "Reporto avances y obstáculos al project manager."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrolladora Java",
+            "company": "Semillero Latam",
+            "location": "",
+            "start_date": "2023-10-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé la API backend de una plataforma para conectar inversores con microemprendedores.",
+                "Implementé soluciones con Java, Spring Boot, JPA y MySQL.",
+                "Trabajé en conjunto con roles clave del proyecto.",
+                "Establecí una base sólida y escalable para la plataforma."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales",
+            "institution": "Instituto Superior Politécnico Córdoba",
+            "location": "Posadas",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo Full Stack con Java",
+            "institution": "Silicon Misiones",
+            "location": "Posadas",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 60
+        },
+        {
+            "degree": "Desarrollo Full Stack | Angular - Java",
+            "institution": "",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 480
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring-boot",
+                "docker",
+                "angular",
+                "react",
+                "javascript",
+                "typescript",
+                "mysql",
+                "postgreSQL",
+                "git",
+                "github",
+                "python",
+                "postman",
+                "linux"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        },
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

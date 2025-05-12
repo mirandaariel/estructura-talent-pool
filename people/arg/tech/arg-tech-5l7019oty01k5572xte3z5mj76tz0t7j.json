@@ -1,0 +1,133 @@
+{
+    "personal_info": {
+        "first_name": "Jeider",
+        "last_name": "Silgado Lans",
+        "email": "jeidersilgado@gmail.com",
+        "phone": "(57) 3244262320",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "https://jeidersilgado.com",
+        "portfolio": "",
+        "summary": "Soy un desarrollador Fullstack con 1 año de experiencia en .NET, Azure DevOps, C#, MySQL, SQL, APIs, GitHub y metodologías Scrum. Experiencia en desarrollo backend y frontend con JavaScript, React, React Native, Express y Node.js, y en la creación de interfaces interactivas e integración de APIs en entornos cloud."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "Poliedro",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño de APIs escalables usando arquitectura hexagonal en .NET C# con enfoque en rendimiento y seguridad.",
+                "Desarrollo de endpoints para mostrar facturas generadas y sus detalles, conectando múltiples vistas SQL.",
+                "Generación de reportes por método de pago y utilidad diaria, mensual y anual a través de consultas optimizadas.",
+                "Implementación de lógica backend usando CQRS, MediatR, AutoMapper y conexión a bases de datos (MySQL, PostgreSQL)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "E-commerce Developer",
+            "company": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una tienda en línea con React y Firefoxe, implementando autenticación con Google y manejo de usuarios.",
+                "Creé un carrito de compras interactivo, gestionando el estado global con Redux Toolkit.",
+                "Optimicé el rendimiento con lazy loading y prefetching, reduciendo el tiempo de carga en un 30%.",
+                "Implementé Stripe API para pagos seguros y gestión de transacciones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnologo En Analisis y Desarrollo De Software (ADSO)",
+            "institution": "Servicio Nacional De Aprendizaje (SENA)",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                ".net",
+                "azure-devops",
+                "c#",
+                "mysql",
+                "sql",
+                "api",
+                "github",
+                "scrum",
+                "javascript",
+                "react",
+                "react-native",
+                "express",
+                "node.js",
+                "redux-toolkit",
+                "vite",
+                "tailwind-css",
+                "mongodb",
+                "firefoxe"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Scrum Fundamentals Certified",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "JeiderSilgado-990370"
+        },
+        {
+            "name": "PCAP Programming Essentials in Python",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Introducción a IoT",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Build Your First Web Pages With HTML and CSS",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo de apps moviles",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

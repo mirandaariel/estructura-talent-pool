@@ -1,0 +1,174 @@
+{
+    "personal_info": {
+        "first_name": "Patricio",
+        "last_name": "Echeverria",
+        "email": "echeverriaple@gmail.com",
+        "phone": "+54 92241545119",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Java Backend Developer con experiencia en el diseño y desarrollo de sistemas escalables y eficientes. Especializado en Spring Boot, Hibernate y arquitecturas basadas en microservicios, con sólida experiencia en CI/CD y despliegues en la nube (AWS, Docker, Kubernetes)."
+    },
+    "work_experience": [
+        {
+            "job_title": "Java Backend Developer",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo y optimización de soluciones backend en Java y Spring Framework para startups y PyMEs.",
+                "Implementación de arquitecturas escalables y mejora del rendimiento de aplicaciones.",
+                "Colaboración con equipos multidisciplinarios aplicando metodologías ágiles."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Java Backend Developer",
+            "company": "No Country",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Análisis, diseño y desarrollo del backend para una aplicación de estacionamiento de vehículos.",
+                "Uso de Java, Spring Boot, Postman, MySQL y Swagger para construir APIs RESTful.",
+                "Colaboración con un equipo multidisciplinario bajo SCRUM, gestionando tareas en Jira."
+            ],
+            "achievements": [
+                "Desarrollo de soluciones eficientes y mejora en la capacidad de trabajo en equipo."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Java Developer",
+            "company": "Softtek",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación de una API REST robusta utilizando Spring Boot.",
+                "Gestión de proyectos en Jira y control de versiones con Git.",
+                "Desarrollo bajo metodologías ágiles (SCRUM), garantizando entregas de calidad."
+            ],
+            "achievements": [
+                "Asumí el rol de Team Leader, liderando el equipo técnico y asegurando entregas eficientes."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "SysAdmin",
+            "company": "Cooperativa de Electricidad Ltda.",
+            "location": "",
+            "start_date": "2007-10-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión y optimización de sistemas administrativos y redes.",
+                "Implementación de mejoras en la eficiencia del sistema y gestión de reclamos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Informática",
+            "institution": "Universidad Siglo 21",
+            "location": "",
+            "start_date": "2020-03-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Analista Universitario en Sistemas",
+            "institution": "Universidad Siglo 21",
+            "location": "",
+            "start_date": "2020-03-01",
+            "end_date": "2024-06-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java-11+",
+                "javascript",
+                "typescript",
+                "node.js",
+                "spring-boot",
+                "spring-cloud",
+                "hibernate",
+                "jpa",
+                "junit",
+                "mockito",
+                "restful-apis",
+                "react.js",
+                "mysql",
+                "postgresql",
+                "mongodb"
+            ],
+            "soft": [
+                "resolución-de-problemas-complejos-y-pensamiento-analítico",
+                "comunicación-efectiva",
+                "organización-y-gestión-del-tiempo",
+                "trabajo-en-equipo",
+                "adaptabilidad"
+            ],
+            "tools": [
+                "maven",
+                "gradle",
+                "git/github",
+                "jira",
+                "trello",
+                "uml",
+                "ci/cd",
+                "docker",
+                "kubernetes",
+                "aws"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Java Spring Advanced",
+            "issuing_organization": "Codo a Codo GBA",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "FullStack Java Developer",
+            "issuing_organization": "Codo a Codo GBA",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
