@@ -1,0 +1,175 @@
+{
+    "personal_info": {
+        "first_name": "Carolina",
+        "last_name": "Romero",
+        "email": "carolina.romero.cotan@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrolladora Frontend con experiencia en el desarrollo de soluciones web colaborativas y eficientes utilizando metodologías ágiles (Scrum y Kanban) en entornos remotos. Con foco en la creación de interfaces de usuario responsivas y accesibles con React, Next.js, TailwindCSS y TypeScript, y en la integración fluida con APIs REST/GraphQL. He participado activamente en la organización de proyectos mediante tableros ágiles y la gestión de sprints, cultivando habilidades esenciales como el trabajo en equipo, la resolución de problemas y la comunicación efectiva."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrolladora Web Frontend",
+            "company": "CloudSolute",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Migración de proyecto a Next.js, TailwindCSS y TypeScript para mejorar escalabilidad y responsividad.",
+                "Lideró incorporación de equipo para la migración.",
+                "Implementación de reproductor de videos en HLS.",
+                "Conexión del frontend con APIs para videos y listas.",
+                "Participó en diseño y flujo de usuario utilizando GitHub Projects Kanban."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrolladora Web Frontend",
+            "company": "AdoptaUnJunior",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Migración de frontend de React y JavaScript a Next.js, TypeScript y TailwindCSS.",
+                "Participación en gestión de equipos como Scrum Master.",
+                "Creación de comunidad en Discord para desarrolladores junior."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Gestión de Emergencias",
+            "company": "Securitas Direct",
+            "location": "",
+            "start_date": "2018-05-01",
+            "end_date": "2024-02-29",
+            "currently_working": false,
+            "responsibilities": [
+                "Manejo de múltiples tareas y priorización.",
+                "Desarrollo de documentación detallada de emergencias.",
+                "Coordinación con equipos diversos.",
+                "Resolución de problemas complejos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Curso de Desarrollo con Flutter",
+            "institution": "SEPE",
+            "location": "",
+            "start_date": "2025-02-01",
+            "end_date": "2025-02-28",
+            "hours": 240
+        },
+        {
+            "degree": "Bootcamp Desarrollo Web Frontend",
+            "institution": "IronHack",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "2024-07-31",
+            "hours": 240
+        },
+        {
+            "degree": "Bootcamp Desarrollo Web FullStack",
+            "institution": "Hack a Boss",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "2023-02-28",
+            "hours": 400
+        },
+        {
+            "degree": "Técnico Superior en Dietética y Nutrición",
+            "institution": "I.E.S. Sales",
+            "location": "",
+            "start_date": "",
+            "end_date": "2017-12-31",
+            "hours": 2000
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "react-native",
+                "vue",
+                "tailwindcss",
+                "nextjs",
+                "git",
+                "github",
+                "figma",
+                "typescript",
+                "flutter"
+            ],
+            "soft": [
+                "team-work",
+                "problem-solving",
+                "communication"
+            ],
+            "tools": [
+                "github-projects",
+                "kanban",
+                "trello",
+                "discord"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "PetCareManager",
+            "description": "Aplicación móvil colaborativa para la gestión de datos de mascotas.",
+            "technologies": [
+                "React Native",
+                "TailwindCSS",
+                "TypeScript"
+            ],
+            "url": ""
+        },
+        {
+            "name": "LibraryApp",
+            "description": "Aplicación móvil completa desarrollada con Flutter.",
+            "technologies": [
+                "Flutter",
+                "OpenLibrary API",
+                "Firebase"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Native"
+        },
+        {
+            "language": "Catalán",
+            "proficiency": "Bilingual"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

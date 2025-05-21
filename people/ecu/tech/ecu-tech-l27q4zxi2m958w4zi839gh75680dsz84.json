@@ -1,0 +1,153 @@
+{
+    "personal_info": {
+        "first_name": "Kevin",
+        "last_name": "Sani",
+        "email": "randy.serrano.bandit@gmail.com",
+        "phone": "0995864018",
+        "location": {
+            "country": "Ecuador",
+            "city": "Quito",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador apasionado con habilidades en análisis de datos, automatización y pruebas de software. Capacidad para resolver problemas, adaptabilidad y aprendizaje continuo. Experiencia en desarrollo backend y frontend, soporte técnico y creación de sistemas personalizados."
+    },
+    "work_experience": [
+        {
+            "job_title": "Soporte Técnico",
+            "company": "Tensao Eléctric",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Instalación y mantenimiento de equipos.",
+                "Pruebas de maquinaria y conexiones eléctricas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Atención al Cliente y Soporte",
+            "company": "Video Anderson",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Resolución de incidencias y soporte a usuarios.",
+                "Gestión de consultas y atención al cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Instalación de Bases de Datos",
+            "company": "New Dental",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Configuración y mantenimiento de bases de datos.",
+                "Análisis de datos y reportes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "",
+            "company": "Empresa de Productos Militares",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de un sistema de inventario con Python y Flask para control de productos y stock.",
+                "Análisis de datos con Excel y Pandas para optimización de procesos.",
+                "Creación de dashboards interactivos con Power BI para la visualización de métricas clave."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnología Superior en Desarrollo de Software",
+            "institution": "Instituto Tecnológico Yavirac",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring-boot",
+                "javascript",
+                "python",
+                "flask",
+                "angular",
+                "react",
+                "postgresql",
+                "sql",
+                "power-bi",
+                "excel",
+                "pandas",
+                "tkinter",
+                "php",
+                "wordpress"
+            ],
+            "soft": [
+                "problem-solving",
+                "adaptability",
+                "continuous-learning"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Automatización de Base de Datos para Clínicas Dentales",
+            "description": "Desarrollé una interfaz gráfica en Tkinter para gestionar registros de pacientes y citas. Utilicé Pandas para automatizar la actualización y análisis de la base de datos.",
+            "technologies": [
+                "Pandas",
+                "Tkinter",
+                "Python"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Sistema de Inventario para Cadena de Productos Militares",
+            "description": "Creé un sistema de inventario con Flask y Python para controlar productos, stock y generar reportes automáticos. Utilicé Pandas para análisis de datos y Power BI para visualización.",
+            "technologies": [
+                "Flask",
+                "Pandas",
+                "Python"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1 - Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

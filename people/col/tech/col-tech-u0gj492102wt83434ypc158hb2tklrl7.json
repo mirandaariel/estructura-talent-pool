@@ -1,0 +1,89 @@
+{
+    "personal_info": {
+        "first_name": "Eduar",
+        "last_name": "",
+        "email": "eduarnossa315@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Colombia",
+            "city": "Bogotá",
+            "state": "Capital District"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Eduar is a highly skilled Java Developer with expertise in Java 8, SQL, and JPA. He has extensive experience in developing and maintaining scalable backend applications using the Spring framework. Eduar is proficient in writing robust unit tests using JUnit and is knowledgeable in Git, OOP principles, java lambdas, and exception handling. His adaptability and commitment to continuous learning make him a valuable asset to any development team."
+    },
+    "work_experience": [
+        {
+            "job_title": "Java Developer, College Trainee",
+            "company": "Globant",
+            "location": "Bogotá, D.C., Capital District, Colombia",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed microservices architecture using Spring Boot, facilitating modular and scalable backend systems that improved performance and maintainability of the application.",
+                "Utilized Spring Framework 6 and Spring Boot 3 to create robust and maintainable applications, ensuring compatibility with the latest Java ecosystems and leveraging new features for enhanced software development practices.",
+                "Designed and implemented RESTful APIs to facilitate seamless communication between backend services and client applications, ensuring efficient data exchange and interaction across different layers of the application.",
+                "Used version control systems like Git to manage and track code changes, ensuring a smooth development process and easy collaboration with team members through structured commit histories and pull requests.",
+                "Integrated database operations for efficient data retrieval, manipulation, and storage using technologies such as Spring Data JPA and PostgreSQL, enabling streamlined database interactions.",
+                "Developed scalable and efficient algorithms and data structures to optimize performance and improve software functionality, ensuring that Java-based applications are responsive and resource-efficient."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Software Analysis and Development Technologist",
+            "institution": "Sena (Servicio Nacional de Aprendizaje)",
+            "location": "Bogotá D.C, Colombia",
+            "start_date": "2023-07-01",
+            "end_date": "2024-10-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "sql",
+                "jpa",
+                "spring-framework",
+                "spring-boot",
+                "junit",
+                "git",
+                "oop",
+                "java-lambdas",
+                "exception-handling"
+            ],
+            "soft": [
+                "adaptability",
+                "commitment-to-continuous-learning"
+            ],
+            "tools": [
+                "git"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

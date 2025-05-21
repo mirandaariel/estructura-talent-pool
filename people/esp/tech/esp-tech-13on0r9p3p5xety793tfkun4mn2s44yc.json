@@ -1,0 +1,189 @@
+{
+    "personal_info": {
+        "first_name": "Victor Manuel",
+        "last_name": "Lopez Rocha",
+        "email": "estructura.mountable835@passmail.net",
+        "phone": "+34660361605",
+        "location": {
+            "country": "Spain",
+            "city": "Madrid",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/víctor-lópezprofesional-it",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy una persona curiosa y apasionada por el aprendizaje, con experiencia en diferentes ámbitos que complementan mi perfil. He trabajado en el extranjero, lo que me ha permitido una visión global, y actualmente me desarrollo en el sector tecnológico."
+    },
+    "work_experience": [
+        {
+            "job_title": "Técnico de Redes",
+            "company": "Westcon Comstor",
+            "location": "Madrid",
+            "start_date": "2023-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Primera línea de soporte por teléfono, correo electrónico y portal para incidentes y solicitudes de clientes.",
+                "Gestión completa del ciclo de vida de incidentes y solicitudes utilizando herramientas y aplicaciones de la empresa.",
+                "Restauración oportuna de servicios para todos los incidentes/solicitudes reportados.",
+                "Escalada de problemas con clientes, socios, proveedores y departamentos internos según sea necesario.",
+                "Coordinación y comunicación con terceros (proveedores, clientes, socios).",
+                "Configuración y mantenimiento de documentación.",
+                "Garantizar el cumplimiento de SLA en contratos de soporte.",
+                "Monitoreo de firewalls, switches y routers, con experiencia en Checkpoint, Palo Alto, F5.",
+                "Resolución de incidencias Palo Alto, Check Point."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnico IT",
+            "company": "Ricopia",
+            "location": "Madrid",
+            "start_date": "2023-04-01",
+            "end_date": "2023-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Soporte técnico en Microsoft 365 y Azure, con habilidades en migraciones y administración de usuarios.",
+                "Gestión eficiente de licencias de software.",
+                "Experiencia en configuración de máquinas virtuales en Azure.",
+                "Montaje y configuración de ordenadores personalizados.",
+                "Administración de servidores Windows y Linux, con enfoque en estabilidad y seguridad.",
+                "Desarrollo y mantenimiento de páginas web (HTML, CSS, PHP, JavaScript, WordPress).",
+                "Administración de bases de datos MySQL, MariaDB y Oracle.",
+                "Uso de Docker para crear y desplegar aplicaciones en entornos diversos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Grado Superior DAW",
+            "institution": "Coop. José Ramon Otero",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2024-05-30",
+            "hours": 0
+        },
+        {
+            "degree": "Grado Superior ASIR",
+            "institution": "Coop. José Ramon Otero",
+            "location": "",
+            "start_date": "2021-09-01",
+            "end_date": "2023-05-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "diseño-de-redes",
+                "administración-de-redes",
+                "support",
+                "microsoft-365",
+                "azure",
+                "docker",
+                "html",
+                "css",
+                "php",
+                "javaScript",
+                "wordpress",
+                "mysql",
+                "mariadb",
+                "oracle",
+                "palo-alto",
+                "check-point"
+            ],
+            "soft": [
+                "organización",
+                "aprendizaje-continuo",
+                "trabajo-en-equipo",
+                "puntualidad",
+                "compromiso",
+                "planificación-de-tareas"
+            ],
+            "tools": []
+        },
+        "detailed": []
+    },
+    "certifications": [
+        {
+            "name": "Palo Alto Networks - Network Security Administrator",
+            "issuing_organization": "Palo Alto Networks",
+            "issue_date": "2024-01-01",
+            "expiration_date": "2026-12-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Juniper Networks Associate/security-Routing and switching",
+            "issuing_organization": "Juniper Networks",
+            "issue_date": "2024-01-01",
+            "expiration_date": "2027-12-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Fortinet Associate",
+            "issuing_organization": "Fortinet",
+            "issue_date": "2024-01-01",
+            "expiration_date": "2027-12-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Microsoft 365 Certified: Fundamentals",
+            "issuing_organization": "Microsoft",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "CCNAv7 - Introducción a redes",
+            "issuing_organization": "",
+            "issue_date": "2021-01-01",
+            "expiration_date": "2022-12-31",
+            "credential_id": ""
+        },
+        {
+            "name": "CCNAv7 - Switching, Routing, and Wireless Essentials",
+            "issuing_organization": "",
+            "issue_date": "2022-01-01",
+            "expiration_date": "2023-12-31",
+            "credential_id": ""
+        },
+        {
+            "name": "CCNAv7 - Redes Empresariales, Seguridad y Automatización",
+            "issuing_organization": "",
+            "issue_date": "2022-01-01",
+            "expiration_date": "2023-12-31",
+            "credential_id": ""
+        },
+        {
+            "name": "CYBEROPS ASSOCIATE",
+            "issuing_organization": "",
+            "issue_date": "2022-01-01",
+            "expiration_date": "2023-12-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificado B1 CEFR Level",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Advanced"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

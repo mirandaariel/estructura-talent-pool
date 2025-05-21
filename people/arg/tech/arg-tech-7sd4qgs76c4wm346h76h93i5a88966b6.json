@@ -7,7 +7,7 @@
         "location": {
             "country": "Argentina",
             "city": "San Luis",
-            "state": ""
+            "state": "San Luis"
         },
         "linkedin": "https://www.linkedin.com/in/santiago-jose-lopez-mendes",
         "website": "https://github.com/smlopezsm",
@@ -18,23 +18,22 @@
         {
             "job_title": "Freelancer",
             "company": "Self-employed",
-            "location": "",
+            "location": "San Luis, Argentina",
             "start_date": "2024-07-01",
             "end_date": "2024-12-31",
-            "currently_working": true,
-            "responsibilities": [],
-            "achievements": [],
+            "currently_working": false,
+            "responsibilities": ["login and personal data modification sections of the app"],
+            "achievements": ["I could make the 100% of the tasks previously mentioned", "Improvement of the frontend in the add contacts section (60%)"],
             "repository_url": ""
         }
     ],
     "education": [
         {
-            "degree": "",
+            "degree": "Computer Science (in progress)",
             "institution": "Universidad Nacional de San Luis",
             "location": "San Luis, Argentina",
-            "start_date": "",
-            "end_date": "",
-            "hours": 0
+            "start_date": "01/03/2023",
+            "end_date": "currently_attending"
         }
     ],
     "skills": {
@@ -51,22 +50,297 @@
                 "express.js",
                 "postgresql"
             ],
-            "soft": [],
+            "soft": [
+                "comunication",
+                "teamwork",
+                "critical thinking",
+                "stress management and adaptability",
+                "attention to detail",
+                "continuous learning",
+                "time managment",
+                "proactivity"
+            ],
             "tools": [
                 "git",
                 "github",
                 "obsidian"
             ]
         },
-        "detailed": {}
+        "detailed": {
+            "technical":{
+                "javascript": [
+                    {
+                        "id": 1001,
+                        "title": "Variables and Data Types",
+                        "description": "Declaración de variables usando var, let y const, y comprensión de tipos primitivos y objetos.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/variables.js"
+                    },
+                    {
+                        "id": 1002,
+                        "title": "Control Flow",
+                        "description": "Uso de instrucciones condicionales y bucles (if, else, switch, for, while).",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/controlFlow.js"
+                    },
+                    {
+                        "id": 1003,
+                        "title": "Functions",
+                        "description": "Declaración y uso de funciones en JavaScript, incluyendo funciones anónimas y de flecha.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/functions.js"
+                    },
+                    {
+                        "id": 1004,
+                        "title": "Scope and Hoisting",
+                        "description": "Cómo funcionan los ámbitos léxicos y el comportamiento de elevación de variables en JavaScript.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/scopeAndHoisting.js"
+                    },
+                    {
+                        "id": 1005,
+                        "title": "Closures",
+                        "description": "Funciones que capturan el estado de su entorno de creación, permitiendo acceso a variables externas incluso después de finalizar su contexto original.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/closures.js"
+                    },
+                    {
+                        "id": 1006,
+                        "title": "This Context",
+                        "description": "Cómo funciona el contexto de ejecución y cómo cambiarlo en JavaScript.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/thisContext.js"
+                    },
+                    {
+                        "id": 1007,
+                        "title": "Events and Event Handling",
+                        "description": "Manejo de eventos en JavaScript, incluyendo el registro de eventos y la propagación.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/events.js"
+                    },
+                    {
+                        "id": 1008,
+                        "title": "Error Handling and Exceptions",
+                        "description": "Captura y manejo de errores usando try, catch y finally.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/errorHandling.js"
+                    },
+                    {
+                        "id": 1101,
+                        "title": "Objects and Properties",
+                        "description": "Creación y manipulación de objetos, así como el acceso a sus propiedades.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/objects.js"
+                    },
+                    {
+                        "id": 1102,
+                        "title": "Prototypes and Prototypal Inheritance",
+                        "description": "Cómo funciona la herencia basada en prototipos en JavaScript.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/prototypes.js"
+                    },
+                    {
+                        "id": 1103,
+                        "title": "Classes and Modern Syntax",
+                        "description": "Uso de las clases en JavaScript moderno con las palabras clave class, extends y super.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/classes.js"
+                    },
+                    {
+                        "id": 1104,
+                        "title": "Encapsulation, Inheritance, and Polymorphism",
+                        "description": "Principios fundamentales de la programación orientada a objetos aplicados en JavaScript.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/encInhPol.js"
+                    },
+                    {
+                        "id": 1105,
+                        "title": "Factory Functions",
+                        "description": "Funciones que retornan nuevos objetos personalizados, permitiendo flexibilidad en la creación de instancias.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/factoryFunctions.js"
+                    },
+                    {
+                        "id": 1106,
+                        "title": "Object Composition",
+                        "description": "Construcción de objetos complejos a partir de otros más simples, en lugar de usar herencia.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/objectComp.js"
+                    },
+                    {
+                        "id": 1201,
+                        "title": "Pure Functions",
+                        "description": "Funciones que, dado un mismo conjunto de entradas, siempre devuelven la misma salida sin producir efectos secundarios.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/pureFunct.js"
+                    },
+                    {
+                        "id": 1202,
+                        "title": "Immutability",
+                        "description": "Principio de no modificar directamente los datos existentes, sino crear nuevas estructuras de datos.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/immutability.js"
+                    },
+                    {
+                        "id": 1203,
+                        "title": "Higher-Order Functions",
+                        "description": "Funciones que aceptan otras funciones como argumentos o las retornan como resultados.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/hOfunctions.js"
+                    },
+                    {
+                        "id": 1204,
+                        "title": "Currying",
+                        "description": "Transformación de una función que toma múltiples argumentos en una serie de funciones que toman un solo argumento.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/currying.js"
+                    },
+                    {
+                        "id": 1205,
+                        "title": "Function Composition",
+                        "description": "Técnica que permite encadenar funciones pequeñas en una sola función compleja.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/functComp.js"
+                    },
+                    {
+                        "id": 1206,
+                        "title": "Functors and Categories",
+                        "description": "Estructuras que permiten mapear funciones sobre valores envueltos o estructurados.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/functorsAndCategories.js"
+                    },
+                    {
+                        "id": 1207,
+                        "title": "Monads",
+                        "description": "Patrón que permite encadenar operaciones, manejando contextos como la asincronía o el manejo de errores.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/monads.js"
+                    },
+                    {
+                        "id": 1208,
+                        "title": "Lenses",
+                        "description": "Herramientas para acceder y modificar estructuras de datos inmutables de forma segura.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/lenses.js"
+                    },
+                    {
+                        "id": 1209,
+                        "title": "Transducers",
+                        "description": "Funciones que transforman otras funciones de transformación, permitiendo operaciones eficientes sobre estructuras de datos.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/transducers.js"
+                    },
+                    {
+                        "id": 1301,
+                        "title": "Arrays, Objects, Sets, and Maps",
+                        "description": "Uso de estructuras de datos como arrays, objetos, sets y maps para almacenar y manipular información.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/arrObSetMap.js"
+                    },
+                    {
+                        "id": 1302,
+                        "title": "Stacks and Queues",
+                        "description": "Estructuras de datos lineales que permiten operaciones de inserción y eliminación en un orden específico (LIFO y FIFO).",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/stacksAndQueues.js"
+                    },
+                    {
+                        "id": 1303,
+                        "title": "Linked Lists",
+                        "description": "Estructura de datos donde cada elemento apunta al siguiente, permitiendo inserciones y eliminaciones eficientes.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/linkedList.js"
+                    },
+                    {
+                        "id": 1304,
+                        "title": "Recursion",
+                        "description": "Técnica donde una función se llama a sí misma para resolver problemas complejos.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/recursion.js"
+                    },
+                    {
+                        "id": 1305,
+                        "title": "Array Operations (map, filter, reduce)",
+                        "description": "Funciones de orden superior para transformar, filtrar y reducir arrays en JavaScript.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/arrayOp.js"
+                    },
+                    {
+                        "id": 1306,
+                        "title": "Sorting Algorithms",
+                        "description": "Implementación de algoritmos de ordenamiento como bubble sort, quicksort y merge sort.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/sortingAlg.js"
+                    },
+                    {
+                        "id": 1307,
+                        "title": "Search Algorithms",
+                        "description": "Algoritmos de búsqueda como búsqueda lineal y búsqueda binaria para encontrar elementos en estructuras de datos.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/searchAlg.js"
+                    },
+                    {
+                        "id": 1308,
+                        "title": "Abstract Data Types",
+                        "description": "Tipos de datos abstractos como pilas, colas y listas que definen operaciones sin especificar su implementación concreta.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/abstractDT.js"
+                    },
+                    {
+                        "id": 1401,
+                        "title": "Callbacks",
+                        "description": "Funciones que se ejecutan después de completar una operación asíncrona, permitiendo la continuación de un flujo de ejecución.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/callbacks.js"
+                    },
+                    {
+                        "id": 1402,
+                        "title": "Promises",
+                        "description": "Objeto que representa la terminación o el fracaso eventual de una operación asíncrona.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/promises.js"
+                    },
+                    {
+                        "id": 1403,
+                        "title": "Async/Await",
+                        "description": "Sintaxis que simplifica el manejo de operaciones asíncronas, haciendo que el código sea más legible y fácil de entender.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/asyncAwait.js"
+                    },
+                    {
+                        "id": 1404,
+                        "title": "Asynchronous Error Handling",
+                        "description": "Manejo de errores en operaciones asíncronas utilizando bloques try, catch y finally.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/asyncErrHand.js"
+                    },
+                    {
+                        "id": 1405,
+                        "title": "Event Loop",
+                        "description": "Mecanismo que permite que JavaScript maneje múltiples operaciones simultáneamente a través de un ciclo de eventos.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/eventLoop.js"
+                    },
+                    {
+                        "id": 1406,
+                        "title": "Promise Lifecycle",
+                        "description": "Etapas de una promesa en JavaScript: pendiente, cumplida o rechazada.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/promiseLC.js"
+                    },
+                    {
+                        "id": 1501,
+                        "title": "Elements of JavaScript Style",
+                        "description": "Conjunto de convenciones y estilos recomendados para escribir código JavaScript limpio y legible.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/elementsOfJS.js"
+                    },
+                    {
+                        "id": 1502,
+                        "title": "SOLID Principles",
+                        "description": "Conjunto de principios para escribir código que sea mantenible, escalable y fácil de entender.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/solid.js"
+                    },
+                    {
+                        "id": 1503,
+                        "title": "DRY (Don't Repeat Yourself)",
+                        "description": "Principio que recomienda evitar la duplicación de código para mejorar la mantenibilidad.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/dry.js"
+                    },
+                    {
+                        "id": 1504,
+                        "title": "KISS (Keep It Simple, Stupid)",
+                        "description": "Principio que sugiere mantener el código simple y directo, evitando la complejidad innecesaria.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/kiss.js"
+                    },
+                    {
+                        "id": 1505,
+                        "title": "YAGNI (You Ain’t Gonna Need It)",
+                        "description": "Principio que recomienda no implementar características innecesarias hasta que sean realmente necesarias.",
+                        "repository_url": "https://github.com/smlopezsm/js-skill-test/blob/main/yagni.js"
+                    }
+                ]
+            }
+        }
     },
-    "certifications": [],
+    "certifications": [
+        {
+            "name": "Back End Development and APIs",
+            "url": "https://www.freecodecamp.org/certification/smlopezsm/back-end-development-and-apis"
+        },
+        {
+            "name": "Responsive Web Design",
+            "url": "https://www.freecodecamp.org/certification/smlopezsm/responsive-web-design"
+        }
+    ],
     "projects": [
         {
-            "name": "Calculator",
-            "description": "",
-            "technologies": ["java"],
-            "url": "https://github.com/smlopezsm/calculadora"
+            "name": "Real Time Chat",
+            "description": "A simple real time chat",
+            "technologies": ["html","css","javascript","node.js","express.js","sql"],
+            "url": "https://github.com/smlopezsm/real-time-chat"
         },
         {
             "name": "Restaurant Management Program",

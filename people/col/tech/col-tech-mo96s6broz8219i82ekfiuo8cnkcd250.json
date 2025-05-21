@@ -1,0 +1,135 @@
+{
+    "personal_info": {
+        "first_name": "Sebastian",
+        "last_name": "Torres Tovar",
+        "email": "str971@gmail.com",
+        "phone": "+573103722011",
+        "location": {
+            "country": "Colombia",
+            "city": "Bogotá",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador backend Junior con experiencia en Java, Python, TypeScript, SQL, AWS. Conocimientos en API REST, GraphQL, WebSockets, diseño de bases de datos y desarrollo de sistemas escalables y seguros. Enfoque analítico y estructurado para la resolución de problemas, priorizando código limpio, eficiente y mantenible. Experiencia en arquitectura backend, patrones de diseño, pruebas unitarias y despliegue en la nube."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "Proyectos académicos",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación de Autenticación y Autorización con Keycloak.",
+                "Desarrollo de Microservicios en Java con Spring Boot.",
+                "Integración de Microservicios utilizando Feign Client y RabbitMQ."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FullStack",
+            "company": "Autoskodagrupo",
+            "location": "Cali, Colombia",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño de Requerimientos funcionales para gestión de inventarios y ventas.",
+                "Desarrollo Backend con Java y Spring Boot para gestión CRUD de cotizaciones.",
+                "Desarrollo Frontend con React.js para interfaz de usuario.",
+                "Modelo de Datos Relacional en MySQL.",
+                "Despliegue en AWS utilizando EC2, CloudFront, S3, Route53."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Fullstack / Arquitectura de software",
+            "company": "Valorizapp",
+            "location": "Cali, Colombia",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Liderazgo en validación de flujos y lógica de procesos de negocio.",
+                "Desarrollo Backend con Python y Flask.",
+                "Desarrollo Frontend utilizando plantillas Jinja2.",
+                "Modelo de Datos Relacional orientado a bases de datos por cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Especialista desarrollo Backend",
+            "institution": "Digital House",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Certified Tech Developer",
+            "institution": "Digital House",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Administrador de empresas",
+            "institution": "Universidad Icesi",
+            "location": "",
+            "start_date": "2011-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java-(spring-boot)",
+                "python-(flask)",
+                "typescript",
+                "sql-(mysql/postgresql)",
+                "nosql-(mongodb)",
+                "aws-(ec2,-s3,-cloudfront)",
+                "docker",
+                "graphql",
+                "rabbitmq"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "pensamiento-crítico",
+                "proactividad",
+                "comunicación-efectiva"
+            ],
+            "tools": [
+                "prisma",
+                "solid",
+                "clean-code"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

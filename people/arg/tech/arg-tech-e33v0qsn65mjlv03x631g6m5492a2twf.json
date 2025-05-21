@@ -1,0 +1,124 @@
+{
+    "personal_info": {
+        "first_name": "Quimey",
+        "last_name": "Lopez",
+        "email": "nataliagiselle.c@gmail.com",
+        "phone": "+5493415048131",
+        "location": {
+            "country": "Argentina",
+            "city": "Rosario",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador con conocimientos en React.js, NodeJs, JavaScript, TypeScript, HTML y CSS. Además de bases de datos SQL. Apasionado por la tecnología y el aprendizaje continuo, busco una oportunidad para potenciar mis habilidades en desarrollo web en un entorno dinámico y colaborativo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Web",
+            "company": "E-commerce de Juegos Digitales",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de una tienda online para la venta de juegos digitales en React.js con backend en Flask y MySQL.",
+                "Implementación de autenticación de usuarios y pasarela de pagos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Info Dólar - Proyecto Universitario",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Automatización y precisión: A través de una API, obtenemos automáticamente la cotización de divisas extranjeras.",
+                "Gestión eficiente del desarrollo: Aplicamos Scrum y Git para optimizar la organización.",
+                "Experiencia de usuario dinámica: Implementamos una comunicación interactiva con el cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Poke App (Proyecto)",
+            "location": "",
+            "start_date": "2022-10-01",
+            "end_date": "2022-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementé un backend con Node.js y Express que maneja una base de datos en PostgreSQL.",
+                "La aplicación permite consultar y filtrar datos de Pokémon de manera eficiente.",
+                "Utilizamos Git para gestionar el código y facilitar el trabajo en equipo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "UTN",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bootcamp Desarrollo Full Stack Web",
+            "institution": "SoyHenry",
+            "location": "",
+            "start_date": "",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "node-js",
+                "python",
+                "flask",
+                "sql",
+                "mysql",
+                "postgresql",
+                "mongodb",
+                "git"
+            ],
+            "soft": [
+                "resolución-de-problema",
+                "adaptabilidad",
+                "trabajo-en-equipo",
+                "comunicacion-efectiva"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1 intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

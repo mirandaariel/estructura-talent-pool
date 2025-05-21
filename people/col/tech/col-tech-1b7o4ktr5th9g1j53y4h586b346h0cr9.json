@@ -1,0 +1,171 @@
+{
+    "personal_info": {
+        "first_name": "Juan Carlos",
+        "last_name": "Forero",
+        "email": "juan.forero66@gmail.com",
+        "phone": "+57 4573136931908",
+        "location": {
+            "country": "Colombia",
+            "city": "Armenia",
+            "state": "Quindío"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Web Full Stack especializado en el stack MERN (MongoDB, Express.js, React y Node.js), con experiencia en la creación de aplicaciones web escalables y centradas en el usuario. Me destaco por mi capacidad para resolver problemas, mi enfoque proactivo y mi habilidad para trabajar en equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Profesional Independiente | MindHub LA",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé funcionalidades como gestión de proyectos, comunicación en equipo, perfiles de usuario y diseño responsivo utilizando React.js, Node.js, Express.js, MongoDB y Tailwind CSS.",
+                "Logré implementar un sistema de gestión de proyectos con funcionalidades completas (creación, edición, eliminación)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Valoran Agents",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementé filtros y búsqueda, diseño interactivo y detalles de habilidades utilizando React.js, Tailwind CSS y APIs de Valorant.",
+                "Destaco la implementación de un sistema de filtrado dinámico y mejora en el diseño de interfaces responsivas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Rick and Morty Explorer",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé filtros avanzados, paginación y diseño responsivo utilizando React.js, API de Rick and Morty y CSS3.",
+                "Logré implementar un sistema de filtrado dinámico y manejo de paginación de datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "MyTinerary",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé itinerarios personalizados, exploración de destinos y gestión de actividades utilizando React.js, Node.js, Express.js, MongoDB y Tailwind CSS.",
+                "Implementé un sistema de autenticación seguro con JWT y optimicé el rendimiento de la aplicación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Developer Bootcamp",
+            "institution": "MindHub LA",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller Académico",
+            "institution": "Colegio Alejandro Magno",
+            "location": "",
+            "start_date": "2012-01-01",
+            "end_date": "2015-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "vite",
+                "css",
+                "tailwind",
+                "angular",
+                "node.js",
+                "express.js"
+            ],
+            "soft": [
+                "pensamiento-estratégico",
+                "gestión-del-tiempo",
+                "negociación",
+                "orientación-a-resultados",
+                "innovación",
+                "atención-al-detalle"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "vercel"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Certificación en Desarrollo Web Full Stack",
+            "issuing_organization": "MindHub LA",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Minga",
+            "description": "Plataforma web para fomentar la colaboración y el trabajo en equipo dentro de comunidades.",
+            "technologies": ["React.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
+            "url": ""
+        },
+        {
+            "name": "Valoran Agents",
+            "description": "Aplicación web para explorar información detallada sobre los agentes del juego Valorant.",
+            "technologies": ["React.js", "Tailwind CSS", "Valorant API"],
+            "url": ""
+        },
+        {
+            "name": "Rick and Morty Explorer",
+            "description": "Aplicación web interactiva para explorar personajes, ubicaciones y episodios de la serie Rick and Morty.",
+            "technologies": ["React.js", "Rick and Morty API", "CSS3"],
+            "url": ""
+        },
+        {
+            "name": "MyTinerary",
+            "description": "Aplicación web para planificar y organizar viajes.",
+            "technologies": ["React.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A1-Lectura de documentos"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

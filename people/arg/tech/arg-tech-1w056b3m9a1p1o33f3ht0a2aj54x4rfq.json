@@ -1,0 +1,113 @@
+{
+    "personal_info": {
+        "first_name": "Anselmo",
+        "last_name": "Vecchio",
+        "email": "ivopiccinini02@gmail.com",
+        "phone": "3435355834",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": "Entre Ríos"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un Backend Developer especializado en Node.js y NestJS, con experiencia en el desarrollo de aplicaciones escalables y optimización de procesos. Me destaco por mi capacidad de análisis, trabajo en equipo y enfoque en la eficiencia del código. Tengo experiencia en metodologías ágiles, control de versiones con Git, integración con APIs RESTful y bases de datos PostgreSQL. Busco oportunidades donde pueda aplicar mis conocimientos y seguir creciendo en entornos desafiantes."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Proyectos Personales",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web con React, Node.js y NestJS.",
+                "Modularización del código, mejorando la eficiencia en +30%.",
+                "Optimización de bases de datos y carga de imágenes en +25%.",
+                "Diseño de interfaces responsivas, aumentando la usabilidad en +20%.",
+                "Implementación de Git para control de versiones y colaboración."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "Bachillerato Orientado en Tecnología",
+            "institution": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "node.js",
+                "nestjs",
+                "react",
+                "postgreSQL"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "postman",
+                "jira",
+                "api-rest"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Ecommerce de Videojuegos",
+            "description": "Proyecto académico en Henry Bootcamp. Desarrollo de un e-commerce con autenticación y pagos integrados, proporcionando una experiencia fluida para los usuarios.",
+            "technologies": [
+                "Next.js",
+                "React",
+                "TailwindCSS",
+                "NestJS",
+                "Node.js",
+                "Auth0",
+                "JWT",
+                "Mercado Pago",
+                "Cloudinary"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Ecommerce-Anselmo07",
+            "description": "Desarrollo de una plataforma de comercio electrónico con una arquitectura escalable y optimizada para la gestión de productos y usuarios.",
+            "technologies": [
+                "NestJS",
+                "Node.js",
+                "PostgreSQL",
+                "Cloudinary",
+                "APIs RESTful",
+                "React"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

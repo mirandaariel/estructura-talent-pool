@@ -1,0 +1,222 @@
+{
+    "personal_info": {
+        "first_name": "Giselle",
+        "last_name": "Cifuentes Mankoch",
+        "email": "raynersoto01@gmail.com",
+        "phone": "+56 971721451",
+        "location": {
+            "country": "Chile",
+            "city": "Viña del Mar",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/giselle-cifuentes-m",
+        "website": "https://github.com/NatSama2",
+        "portfolio": "",
+        "summary": "Con experiencia en diversos bootcamps y cursos, y una formación inicial como médico veterinaria, he redirigido mi carrera hacia el desarrollo web. Apasionada por la tecnología y los videojuegos, me enfoco en crear productos de alta calidad que satisfagan las necesidades del cliente. Estoy especializada en desarrollo front-end utilizando HTML, CSS, y JavaScript, así como frameworks como React.js y Vue.js. Además, he expandido mis habilidades hacia el desarrollo fullstack y la creación de aplicaciones móviles. Disfruto colaborando en equipo, resolviendo problemas de manera creativa y manteniéndome actualizada con las últimas tendencias en el desarrollo. Estoy ansiosa por aplicar mis conocimientos y habilidades como desarrolladora en mi próxima oportunidad laboral, contribuyendo a proyectos que generen impacto y valor."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrolladora full-stack junior",
+            "company": "Meetcard",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboré en Meetcard trabajando en pequeñas tareas de varios proyectos junto al equipo.",
+                "Utilicé tecnologías como Vue.js, Quasar, TypeScript, y PHP con Symfony.",
+                "Aseguré la integración fluida entre el front-end y el back-end.",
+                "Participé en el desarrollo de funcionalidades específicas, contribuyendo al cumplimiento de los plazos y la entrega de productos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrolladora de back-end",
+            "company": "Incubadora Desafío Latam",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboré en la creación de una aplicación similar a Huntr.",
+                "Empleé tecnologías como JavaScript (Node.js) y Express.js para el desarrollo de la lógica Back-End.",
+                "PostgreSQL para la gestión de la base de datos, y Docker para la automatización del Cl/CD.",
+                "Trabajé en estrecha colaboración con un equipo multidisciplinario bajo la metodología ágil de SCRUM."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Curso CCTV Cámaras de Seguridad",
+            "institution": "INSCAP",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bootcamp en Programación",
+            "institution": "Programa Oracle Next Education",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bootcamp en Desarrollo de Aplicaciones Móviles Android Trainee",
+            "institution": "Talento Digital",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrolladora web Front-End",
+            "institution": "Laboratoria",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomado en clínica de animales pequeños",
+            "institution": "Universidad de Chile",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Título Médico Veterinaria",
+            "institution": "Universidad de Viña del Mar",
+            "location": "",
+            "start_date": "2010-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "node.js",
+                "react",
+                "python",
+                "java",
+                "spring-boot",
+                "postgresql",
+                "vue.js",
+                "php",
+                "kotlin"
+            ],
+            "soft": [
+                "comunicación",
+                "responsabilidad",
+                "trabajo-en-equipo",
+                "curiosidad-y-disposición-para-aprender",
+                "adaptabilidad",
+                "empatía"
+            ],
+            "tools": [
+                "bootstrap",
+                "tailwind-css",
+                "quasar",
+                "trello",
+                "git",
+                "github",
+                "figma",
+                "canva"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Fleet Management Software API",
+            "description": "Desarrollo de una API REST para un software de gestión de flotas, permitiendo consultar las ubicaciones de vehículos de una empresa de taxis en Beijing. Se implementaron funcionalidades para cargar información desde archivos SQL a una base de datos PostgreSQL y se desarrollaron endpoints para consultar esta información mediante peticiones HTTP.",
+            "technologies": [
+                "Java",
+                "Programación Orientada a Objetos",
+                "Spring Boot",
+                "Spring Data JPA",
+                "Swagger",
+                "Git",
+                "Github"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Guess the Number Game",
+            "description": "Creación de un juego interactivo 'Guess the Number' en Java. Diseñé una aplicación de consola donde jugadores humano y computadora compiten por adivinar un número entre 1 y 100.",
+            "technologies": [
+                "Java",
+                "Programación Orientada a Objetos",
+                "Lógica de Juego",
+                "Git",
+                "Github"
+            ],
+            "url": ""
+        },
+        {
+            "name": "ABACO (Plataforma Web)",
+            "description": "Desarrollo de una plataforma web enfocada en la autenticación de usuarios, la generación de documentos PDF y la gestión de documentos.",
+            "technologies": [
+                "React",
+                "Tailwind CSS",
+                "Librería PdfMake",
+                "Git",
+                "Github"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Platzi Travel (Landing Page)",
+            "description": "Desarrollo de una landing page utilizando el framework Tailwind CSS 3.0 para mejorar la eficiencia en el desarrollo de proyectos web.",
+            "technologies": [
+                "Tailwind CSS",
+                "HTML",
+                "JavaScript",
+                "Git",
+                "Github"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio B1"
+        },
+        {
+            "language": "Francés",
+            "proficiency": "Básico A1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Edgar Liquitay Cerda",
+            "relationship": "Tech Lead",
+            "contact": "edgar.liquitay@meetcard.cl"
+        },
+        {
+            "name": "Catalina Evans",
+            "relationship": "Coordinadora de Proyectos",
+            "contact": "catalina.e@desafiolatam.com"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "personal_info": {
+        "first_name": "Leidy Caterin",
+        "last_name": "Rivera Fajardo",
+        "email": "leidy.riveraf@gmail.com",
+        "phone": "+57 3138798873",
+        "location": {
+            "country": "Colombia",
+            "city": "Bogotá",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "https://leidyriveraf-portfolio.vercel.app/",
+        "portfolio": "https://github.com/Ladyriv",
+        "summary": "Soy una Desarrolladora Web con conocimientos en el desarrollo de aplicaciones frontend mediante React.js y en la creación de soluciones backend utilizando Node.js. He participado en proyectos colaborativos aplicando metodologías ágiles como SCRUM, lo que ha posibilitado un trabajo organizado y eficaz en equipo. Busco oportunidades para ampliar mis conocimientos y destrezas, explorando nuevos lenguajes y tecnologías. Mi objetivo es enfrentar un reto profesional que me permita expandir mi trayectoria y contribuir de manera significativa al logro del proyecto."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Desarrollo web full stack",
+            "institution": "Fundacion Educamas-SIMPLON",
+            "location": "Bogotá, Colombia",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnología en Gestion Ambiental",
+            "institution": "Politecnico Grancolombiano",
+            "location": "Bogotá, Colombia",
+            "start_date": "2013-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "next.js",
+                "es6+",
+                "javascript",
+                "html",
+                "css",
+                "typescript",
+                "nodejs",
+                "mysql",
+                "mongodb",
+                "expressjs",
+                "restful-apis"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "escucha-activa",
+                "flexibilidad",
+                "resolución-de-problemas",
+                "autogestión"
+            ],
+            "tools": [
+                "git",
+                "visual-studio-code",
+                "npm",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Plataforma E-Commerce de Venta",
+            "description": "Desarrollo de una plataforma de comercio electrónico para la venta de licores, con una interfaz de usuario moderna y totalmente responsive.",
+            "technologies": [
+                "react",
+                "typescript",
+                "next.js",
+                "tailwind-css"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Plataforma AUJ - Adopta un Junior",
+            "description": "Plataforma web para gestionar la información de perfiles junior, oportunidades laborales y retos.",
+            "technologies": [
+                "javascript",
+                "reactjs",
+                "nodejs"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Plataforma Programate School",
+            "description": "Backend para control y manejo de solicitudes HTTP para la plataforma de automatización de procesos de selección.",
+            "technologies": [
+                "javascript",
+                "reactjs",
+                "nodejs",
+                "mongodb"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "A2"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Sara Salas",
+            "relationship": "",
+            "contact": "ssalas@educamas.com.co"
+        },
+        {
+            "name": "Moises Ariza",
+            "relationship": "",
+            "contact": "ariza@educamas.com.co"
+        }
+    ]
+}

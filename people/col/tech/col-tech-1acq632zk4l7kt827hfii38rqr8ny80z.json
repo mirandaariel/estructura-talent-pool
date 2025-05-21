@@ -1,0 +1,112 @@
+{
+    "personal_info": {
+        "first_name": "Juan José",
+        "last_name": "Fernández Paz",
+        "email": "jjfer032@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Colombia",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con 3 años de experiencia principalmente en Angular y .NET, diseñando y desarrollando aplicaciones web escalables. Experto en la creación de interfaces dinámicas, accesibles y responsivas con Angular, así como en el desarrollo de APIs bien estructuradas siguiendo principios de arquitectura limpia en .NET. Conocimientos en SQL Server para gestión de bases de datos y experiencia en Azure para repositorios de código, servicios en la nube y despliegue."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Freelance",
+            "company": "Jirka IT Solutions",
+            "location": "",
+            "start_date": "2025-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de componentes de interfaz de usuario responsivos y reutilizables utilizando Angular.",
+                "Depuración y resolución de errores en frontend y backend.",
+                "Integración y pruebas de APIs para asegurar comunicación eficiente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer UI",
+            "company": "Newshore - FLYR Labs",
+            "location": "",
+            "start_date": "2022-11-01",
+            "end_date": "2025-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de funcionalidades centradas en el usuario mediante historias de usuario.",
+                "Construcción de componentes y servicios reutilizables en Angular.",
+                "Gestión de contenido en Umbraco CMS e implementación de backend en .NET."
+            ],
+            "achievements": [
+                "Reconocido por alto rendimiento y aprendizaje continuo en Frontend y accesibilidad."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "Poliedro Software",
+            "location": "",
+            "start_date": "2022-05-01",
+            "end_date": "2022-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de historias de usuario para funcionalidades del producto.",
+                "Construcción de componentes de interfaz y endpoints de API.",
+                "Resolución de errores en frontend y backend."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Systems Engineer",
+            "institution": "Universidad INCCA de Colombia",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2026-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Software Developer Diploma",
+            "institution": "Universidad del Norte",
+            "location": "",
+            "start_date": "2021-04-01",
+            "end_date": "2021-12-31",
+            "hours": 1000
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "angular",
+                ".net",
+                "sql-server",
+                "azure",
+                "umbraco-cms",
+                "jasmine",
+                "git",
+                "scrum"
+            ],
+            "soft": [],
+            "tools": [
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

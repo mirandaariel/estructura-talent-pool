@@ -1,0 +1,166 @@
+{
+    "personal_info": {
+        "first_name": "Lueila",
+        "last_name": "Di Lorenzo",
+        "email": "luzyla@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Problem solver with a scientific mindset. Using my biology background and +4 years of software development skills to create effective solutions. Proficient in JavaScript, React.js, Next.js, HTML and CSS. Experience in leading projects and mentoring teams."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Mate Crew Digital Agency",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Develop FrontEnd solutions using React, Next.js, and CMS technologies.",
+                "Managed project lifecycles using agile methodologies to ensure efficient and high-quality deliverables.",
+                "Collaborated to create tailored solutions that enhanced digital presence and user experience."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Bunny Studio Inc.",
+            "location": "California, USA - Remote",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Worked on redesigning pages using React and Next.js to enhance user experience.",
+                "Implemented 301 and 302 redirects to improve site SEO and avoid redirect chains.",
+                "Built dynamic templates managed with GraphQL to streamline content management in the CMS.",
+                "Resolved critical PayPal API issues, managing MySQL database for accurate payments for over 2,000 transactions and 500 users."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Frontend Programmer",
+            "institution": "ADA ITW",
+            "location": "Buenos Aires, ARG - Remote",
+            "start_date": "2020-07-01",
+            "end_date": "2021-05-31",
+            "hours": 0
+        },
+        {
+            "degree": "Web Programmer",
+            "institution": "UTN (Universidad Tecnológica Nacional)",
+            "location": "Chaco, ARG - Remote",
+            "start_date": "2020-05-01",
+            "end_date": "2020-08-31",
+            "hours": 0
+        },
+        {
+            "degree": "Biological Science Degree",
+            "institution": "Universidad de Buenos Aires | Facultad de Ciencias Electas y Naturales",
+            "location": "Buenos Aires, ARG - Onsite",
+            "start_date": "2004-07-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javaScript",
+                "typescript",
+                "react",
+                "next.js",
+                "redux",
+                "custom-hooks",
+                "html5",
+                "css3",
+                "sass",
+                "bootstrap",
+                "tailwind",
+                "flexbox",
+                "git",
+                "github",
+                "npm",
+                "docker",
+                "jenkins",
+                "aws",
+                "rest-api",
+                "graphql-api",
+                "postman",
+                "mysql",
+                "dbeaver",
+                "vscode",
+                "figma"
+            ],
+            "soft": [
+                "problem-solving",
+                "critical-thinking",
+                "attention-to-detail",
+                "adaptability",
+                "communication",
+                "collaboration",
+                "proactivity",
+                "self-management",
+                "continuous-learning",
+                "accountability",
+                "time-management",
+                "openness-to-feedback",
+                "autonomy",
+                "resourcefulness"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Movie Search",
+            "description": "A project using React, CSS3 Modules, TMDB API, Netufx.",
+            "technologies": [
+                "react",
+                "css3",
+                "tmdb-api",
+                "netufx"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Memelandia",
+            "description": "A project using Vanilla JS, HTML5 forms, CSS3, hosted on Hostinger.",
+            "technologies": [
+                "vanilla-js",
+                "html5",
+                "css3",
+                "hostinger"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Advanced"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

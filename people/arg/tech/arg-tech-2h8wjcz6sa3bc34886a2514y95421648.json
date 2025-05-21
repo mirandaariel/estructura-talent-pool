@@ -1,0 +1,136 @@
+{
+    "personal_info": {
+        "first_name": "Carlos Emanuel",
+        "last_name": "Pelinski",
+        "email": "miguel.386984@gmail.com",
+        "phone": "+5403765223959",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/carlos-pelinski-996308274/",
+        "website": "",
+        "portfolio": "",
+        "summary": "I am a Full Stack Developer with experience in designing and developing web applications that help businesses streamline and automate their processes. My expertise includes JavaScript, React.js, Node.js, PostgreSQL, and cloud platforms like Don Web or AWS, allowing me to build scalable and efficient systems. Over time, I have worked with small businesses and entrepreneurs, developing tools that improve workflow efficiency, data organization, and operational automation. I am now transitioning into Machine Learning Engineering, expanding my knowledge in data-driven solutions, predictive modeling, and MLOps to bring AI-powered capabilities to real-world applications. I am looking for opportunities where I can leverage my full-stack experience while deepening my expertise in machine learning, contributing to innovative and impactful projects."
+    },
+    "work_experience": [
+        {
+            "job_title": "Machine Learning Engineer",
+            "company": "Anyone AI",
+            "location": "",
+            "start_date": "2025-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed a machine learning model to predict customer debt repayment, improving risk assessment and decision-making.",
+                "Conducted exploratory data analysis (EDA) to identify key patterns and correlations, enhancing feature selection and model performance.",
+                "Preprocessed data by handling missing values, normalizing variables, and applying transformations to improve model accuracy.",
+                "Implemented and optimized classification models, including Logistic Regression and Decision Trees, evaluating performance using precision, recall, and F1-score."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed custom web platforms using React.js, Node.js, and PostgreSQL, enhancing business management and enabling digital transformation for small businesses.",
+                "Built scalable REST APIs that integrated data and improved the efficiency of administrative systems, reducing processing times.",
+                "Automated repetitive tasks with Node.js and Python scripts, optimizing administrative workflows and reducing manual effort.",
+                "Implemented secure authentication and user management with JWT and Clerk, ensuring customized access and improving system security."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certificate in Fundamentals of Artificial Intelligence",
+            "institution": "Humai",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Professional Certificate in Full-Stack Web Developer",
+            "institution": "NUCBA",
+            "location": "",
+            "start_date": "",
+            "end_date": "2025-10-31",
+            "hours": 0
+        },
+        {
+            "degree": "Two-Year Technical Degree in Programming",
+            "institution": "TECLAB Institute",
+            "location": "",
+            "start_date": "",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "ML Engineering Program",
+            "institution": "Anyone-AI",
+            "location": "",
+            "start_date": "",
+            "end_date": "2025-04-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "node.js",
+                "javascript",
+                "express.js",
+                "react",
+                "python",
+                "postgresql",
+                "bcrypt",
+                "jwt",
+                "redis",
+                "docker",
+                "vps",
+                "aws",
+                "typescript"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "FynkApp—Business Management System",
+            "description": "Developed a web-based business management system from scratch, enabling efficient tracking of clients, debts, and cash flow with a minimalist and responsive design.",
+            "technologies": [
+                "pem",
+                "node-fpe",
+                "jwt"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

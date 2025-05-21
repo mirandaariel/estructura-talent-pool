@@ -1,0 +1,187 @@
+{
+    "personal_info": {
+        "first_name": "Rafael",
+        "last_name": "Torices",
+        "email": "torices.rafael@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/rafaeltorices",
+        "website": "",
+        "portfolio": "https://github.com/RafaTorices",
+        "summary": "Desarrollador web PHP-Laravel. Administrador de sistemas informáticos. Sólida experiencia como administrador de servidores web. Recientemente formado como DevOps Engineer para el despliegue y automatización de aplicaciones en Cloud y en proceso de certificación en AWS. Persona proactiva, dinámica. Abierto a nuevos proyectos y retos en desarrollo."
+    },
+    "work_experience": [
+        {
+            "job_title": "DevOps Engineer",
+            "company": "Keepcoding Tech School",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Despliegues en entornos locales con Docker y Docker-Compose.",
+                "Despliegue mediante Kubernetes y Helm Charts en entorno Cloud AWS y GoogleCloud (uso de Terraform).",
+                "Despliegue y entrega continua con ArgoCD.",
+                "CI-CD mediante GithubActions.",
+                "Despliegue de aplicaciones web y Python.",
+                "Automatización y scripting."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web (PHP-Laravel)",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo e implementación de soluciones web con PHP-Laravel.",
+                "Uso del componente Livewire para interfaces y componentes reactivos.",
+                "Diseño, gestión y administración de bases de datos MySQL, MSSQL, MongoDB, Redis, etc.",
+                "Instalación, configuración y administración de servidores web Linux Apache y Nginx para el despliegue de proyectos.",
+                "Implementación de buenas prácticas en desarrollo y seguridad web.",
+                "Control de versiones con Git. Webhooks en Gitlab.",
+                "Docker y Docker-Compose para el despliegue en entorno de desarrollo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Administrador de Sistemas Informáticos",
+            "company": "Transporte Sanitario Granada",
+            "location": "",
+            "start_date": "2010-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo e implementación de aplicaciones de gestión propias para el control de vehículos, de personal, turnos, compras, reparaciones de taller, servicios, etc, usando distintas tecnologías (PHP, Javascript, Ajax, Jquery, Python, scripting bash).",
+                "Responsable del software de gestión (SAGE, GAM).",
+                "Gestión de Servidores Windows, virtualización de sistemas y onpremises. GPOs, Active Directory.",
+                "Bases de Datos MySQL y MSSQL-Server.",
+                "Políticas de seguridad. Aplicación de medidas para implantación de ISO-27001 en seguridad de la información.",
+                "Atención y soporte técnico a usuarios. Equipos informáticos. Perfiles móviles y en remoto."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Máster de DevOps & Cloud Computing",
+            "institution": "Keepcoding Tech School",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Grado Superior en Desarrollo de Aplicaciones Web",
+            "institution": "Instituto FOC de Granada",
+            "location": "Granada",
+            "start_date": "2019-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Grado Superior de Administrador de Sistemas Informáticos",
+            "institution": "I.E.S. Iliberis de Granada",
+            "location": "Granada",
+            "start_date": "2005-01-01",
+            "end_date": "2005-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "php",
+                "laravel",
+                "python",
+                "linux",
+                "composer",
+                "npm",
+                "nodejs",
+                "vuejs",
+                "docker",
+                "docker-compose",
+                "kubernetes",
+                "cloud",
+                "mysql",
+                "mssql-server",
+                "mongodb",
+                "redis"
+            ],
+            "soft": [
+                "resolución-de-problemas",
+                "comunicación-escrita",
+                "iniciativa",
+                "flexibilidad",
+                "detallista",
+                "metódico",
+                "organizado",
+                "trabajo-en-equipo"
+            ],
+            "tools": [
+                "vmware",
+                "proxmox",
+                "hyperv",
+                "git",
+                "apache",
+                "nginx"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Aplicación Web - Entrenador Personal",
+            "description": "Aplicación personalizada para +200 clientes de entrenador personal.",
+            "technologies": [
+                "PHP",
+                "Laravel",
+                "Livewire",
+                "TailwindCSS"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Aplicación Web - Proyectos CMS",
+            "description": "Aplicación para el despliegue automatizado de un CMS de JOOMLA y/o de WORDPRESS en producción de forma totalmente automatizada.",
+            "technologies": [
+                "PHP",
+                "Laravel",
+                "Livewire",
+                "TailwindCSS"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Aplicación Bash para infraestructura de Servidor Web",
+            "description": "Despliegue con un único script de un servidor web completo.",
+            "technologies": [
+                "Apache2.2",
+                "MySQL 8.0",
+                "PHP 7.x",
+                "PHP 8.x",
+                "phpMyAdmin"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

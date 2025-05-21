@@ -1,0 +1,128 @@
+{
+    "personal_info": {
+        "first_name": "Maria Isabel",
+        "last_name": "Cifuentes",
+        "email": "Mariacifuentescc@gmail.com",
+        "phone": "+57 3001965392",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrolladora web junior con experiencia en tecnologías backend y frontend, con habilidades en .NET, Angular y SQL Server. Apasionada por la tecnología, el aprendizaje continuo y la creación de soluciones eficientes y escalables."
+    },
+    "work_experience": [
+        {
+            "job_title": "Intern",
+            "company": "Olimpia IT",
+            "location": "",
+            "start_date": "2024-11-05",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de aplicaciones web utilizando .NET y Angular.",
+                "Optimización y gestión de bases de datos en SQL Server.",
+                "Integración de validaciones en tiempo real mediante consumo de APIs en Angular y .NET.",
+                "Participación en revisiones de código y aplicación de buenas prácticas.",
+                "Depuración y análisis de errores en aplicaciones.",
+                "Colaboración en equipos ágiles bajo metodología Scrum."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en programación de aplicaciones y servicios para la nube",
+            "institution": "SENA",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Web developer (en progreso)",
+            "institution": "The Odin Project",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Full stack web developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomado en Java",
+            "institution": "Politecnico Colombiano",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "nodejs",
+                ".net-core",
+                ".net-framework",
+                "c#",
+                "asp.net",
+                "entity-framework",
+                "apis-rest",
+                "apis-soap",
+                "angular",
+                "typescript",
+                "html5",
+                "css3",
+                "scss",
+                "bootstrap",
+                "tailwind-css",
+                "sql-server"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "resolución-de-problemas",
+                "adaptabilidad",
+                "comunicación-efectiva"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "postman",
+                "swagger",
+                "ci/cd",
+                "github-actions",
+                "azure-devops",
+                "scrum",
+                "kanban",
+                "solid",
+                "clean-code"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Ingles",
+            "proficiency": "Intermedio/avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

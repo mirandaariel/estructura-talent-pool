@@ -1,0 +1,159 @@
+{
+    "personal_info": {
+        "first_name": "Johan Camilo",
+        "last_name": "Cortés Ocampo",
+        "email": "mariacogigli@gmail.com",
+        "phone": "+57 3182117343",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/johan-camilo-cortes/",
+        "website": "https://github.com/cortzero",
+        "portfolio": "",
+        "summary": "Software engineer with experience in designing, developing, and testing scalable backend applications. Strong expertise in Java, Python, Go, and JavaScript, with hands-on experience in Docker, AWS, and CI/CD pipelines. Strong knowledge about Spring Boot, microservices, REST APIs, and database systems like PostgreSQL, MySQL and Oracle Database. Passionate about object-oriented programming, SOLID principles, and software design patterns. Adept at collaborating in Agile environments to deliver high-quality solutions."
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Developer",
+            "company": "Perficient",
+            "location": "",
+            "start_date": "2022-07-01",
+            "end_date": "2023-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Involved in the development of a software system using Java and Spring Boot for the backend for a client in the United States in the financial sector.",
+                "Designed and implemented secure, high-performance REST APIs using Spring Boot, Spring Security, and JWT authentication, ensuring robust access control.",
+                "Developed and optimized unit and integration tests using JUnit, Mockito, Testcontainers, and TestRestTemplate, increasing test coverage.",
+                "Decoupled the microservices code from the infrastructure by modifying the YAML files to optimize the deployment of the system.",
+                "Deployed many instances of the system inside a test environment in AWS to ensure it meets the requirements.",
+                "Refactored the code for the exceptions' management of the microservices to ensure it is maintainable."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's degree in Software Engineering",
+            "institution": "Icesi University",
+            "location": "Colombia",
+            "start_date": "2017-07-01",
+            "end_date": "2023-02-28",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "python",
+                "go",
+                "javaScript",
+                "spring-boot",
+                "spring-mvc",
+                "spring-security",
+                "spring-data-jpa",
+                "hibernate",
+                "microservices",
+                "junit",
+                "mockito",
+                "testcontainers",
+                "jenkins",
+                "github-actions",
+                "aws",
+                "docker",
+                "postgresql",
+                "mysql",
+                "oracle-database",
+                "jpa",
+                "pl/sql"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "restful-apis",
+                "agile-(scrum)",
+                "jira",
+                "confluence"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Fundamentos de Python y Estadística para IA",
+            "issuing_organization": "Icesi University",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Crash Course on Python",
+            "issuing_organization": "Coursera",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Absolute Introduction to Object Oriented Programming in Java",
+            "issuing_organization": "Udemy",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "AWS Academy Graduate - AWS Academy Cloud Foundations",
+            "issuing_organization": "AWS Academy",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Reactividad con VueJS 3",
+            "issuing_organization": "Platzi",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso profesional de VueJS",
+            "issuing_organization": "Platzi",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Scrum Foundation Professional Certificate",
+            "issuing_organization": "CertiProf",
+            "issue_date": "2020-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Binary & Categorical Data Classification System",
+            "description": "Developed a machine learning-based classifier for binary and categorical data using NumPy, Pandas, and Flask.",
+            "technologies": [
+                "python",
+                "flask",
+                "vue.js"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Advanced - C1 EF SET"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

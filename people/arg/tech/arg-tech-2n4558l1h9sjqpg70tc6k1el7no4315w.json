@@ -1,0 +1,107 @@
+{
+    "personal_info": {
+        "first_name": "Juan",
+        "last_name": "Cuevas",
+        "email": "cuevasjuanfrancisco@gmail.com",
+        "phone": "+542323544423",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": "CABA"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador en formación con sólida base técnica en programación, estructuras de datos y sistemas. Me destaco por aprender rápido, trabajar en equipo y buscar soluciones prácticas. Apasionado por los desafíos que implican backend, APIs y arquitectura de software."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Odoo",
+            "company": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de módulos personalizados en Odoo para automatizar procesos de venta, compras y contabilidad.",
+                "Refactorización de vistas y lógica Python/XML para adaptaciones a múltiples empresas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería Informática",
+            "institution": "Universidad de Buenos Aires - FIUBA",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "c++",
+                "go",
+                "rust",
+                "c",
+                "sql",
+                "javascript",
+                "xml",
+                "gin-gonic",
+                "odoo",
+                "pandas"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "docker",
+                "api-rest",
+                "testing",
+                "poo",
+                "sockets",
+                "threads",
+                "gdb",
+                "valgrind"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Gestión de clientes",
+            "description": "API REST con autenticación y middleware en Go.",
+            "technologies": ["go", "gin-gonic", "docker", "sql"],
+            "url": ""
+        },
+        {
+            "name": "Videojuego estilo Worms",
+            "description": "Motor de física con Box2D para colisiones y gravedad.",
+            "technologies": ["c++", "sdl", "qt", "box2d"],
+            "url": ""
+        },
+        {
+            "name": "Predicción de cancelaciones",
+            "description": "Limpieza de datos y análisis exploratorio (EDA).",
+            "technologies": ["python", "pandas", "xgboost"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (B2)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

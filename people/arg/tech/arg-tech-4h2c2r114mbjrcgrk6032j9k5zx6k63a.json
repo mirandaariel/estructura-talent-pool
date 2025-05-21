@@ -1,0 +1,165 @@
+{
+    "personal_info": {
+        "first_name": "Tomás",
+        "last_name": "Pérez",
+        "email": "javiersoliscontact@gmail.com",
+        "phone": "+54 2944140001",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full Stack Developer especializado en desarrollo web con experiencia en tecnologías modernas como Node.js, React, Nextjs, Redux, SQL, Nest.js, y Prisma ORM."
+    },
+    "work_experience": [
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Properties && you",
+            "location": "",
+            "start_date": "2022-11-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de plataforma web para búsqueda y publicación de propiedades inmobiliarias.",
+                "Implementación del PERN stack, Tailwind CSS, Firebase y Mercado Pago.",
+                "Liderazgo de un equipo de seis desarrolladores, planificación de tareas y resolución de problemas."
+            ],
+            "achievements": [
+                "Aprendizaje rápido de Tailwind CSS, Mercado Pago checkout y Firebase en solo una semana."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Myfotolibro web",
+            "location": "",
+            "start_date": "2023-10-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicación para gestión de fotos y enlaces personalizados.",
+                "Construcción de compresor de imágenes para optimizar fotos para impresión.",
+                "Ajuste de solicitudes a la API de Cloudinary dentro de las limitaciones del plan gratuito."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Hydrotek store",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de ecommerce con gestión de productos, usuarios, cupones de descuento y blog.",
+                "Integración de sistema de facturación sin documentación.",
+                "Despliegue optimizado siguiendo las mejores prácticas en Argentina."
+            ],
+            "achievements": [
+                "Aprendizaje e implementación de NestJS, TypeScript y Prisma ORM en menos de dos semanas."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Spotsline web",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de e-commerce para metalúrgica con alto flujo de clientes y gestión de stock.",
+                "Integración de una base de datos SQL para accesibilidad y seguridad.",
+                "Implementación de animaciones con Framer Motion."
+            ],
+            "achievements": [
+                "Optimización de funcionalidades y manejo de estado con useCallback y useDebounce."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Property Scraper",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de web scraper para extracción de propiedades de Mercado Libre y Zonaprop.",
+                "Gestión y generación de PDFs con datos de propiedades.",
+                "Superación de medidas de seguridad para acceso eficiente a datos."
+            ],
+            "achievements": [
+                "Optimización de tiempos de respuesta utilizando asincronía y gestión de límites con Puppeteer."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry",
+            "location": "",
+            "start_date": "2022-06-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "sql",
+                "java-script",
+                "node",
+                "react",
+                "next-js",
+                "redux",
+                "nest",
+                "prisma",
+                "express",
+                "sequelize",
+                "typescript",
+                "html-5",
+                "css",
+                "tailwind"
+            ],
+            "soft": [
+                "leadership",
+                "problem-solving",
+                "analytical",
+                "creative"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Frontend dev (Portfolio)",
+            "description": "Página web personal con modelo 3D animado y diseño responsive.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Upper Intermediate (B2)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

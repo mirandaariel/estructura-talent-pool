@@ -17,7 +17,7 @@
     "work_experience": [
         {
             "job_title": "Desarrollador de .NET",
-            "company": "UNSA",
+            "company": "UNSAM",
             "location": "",
             "start_date": "2021-01-01",
             "end_date": "2022-12-31",
@@ -36,8 +36,8 @@
             "degree": "Técnico en computación",
             "institution": "Otto Krause",
             "location": "",
-            "start_date": "",
-            "end_date": "2017-12-31",
+            "start_date": "2009-03-02",
+            "end_date": "2017-06-16",
             "hours": 0
         }
     ],
@@ -52,23 +52,61 @@
                 "entity-framework",
                 "sql-server"
             ],
-            "soft": [],
+            "soft": [
+		        "comunicacion-efectiva",
+                "trabajo-en-equipo",
+                "resolucion-de-problemas"
+	    ],
             "tools": [
-                "metodologías-ágiles"
+                "metodologías-ágiles",
+		        "git",
+                "github",
+                "jira"
             ]
         },
         "detailed": {
-            "technical": {},
-            "soft": {}
-        }
+            "technical": {}
+	    },
+        "soft": {}
     },
-    "certifications": [],
+    "certifications": [
+	{
+            "name": "Lógica de programación: explorar funciones y listas",
+            "issuing_organization": "Alura Cursos",
+            "issue_date": "2025-01-27",
+            "expiration_date": "",
+            "credential_id": "",
+	    "url": "https://app.aluracursos.com/formalCertificate/8f12b9c3-ed8b-41ee-acd2-7b065bd2a431/"
+        },
+        {
+            "name": "Git y GitHub: repositorio, commit y versiones",
+            "issuing_organization": "Alura Cursos",
+            "issue_date": "2025-01-26",
+            "expiration_date": "",
+            "credential_id": "",
+	    "url": "https://app.aluracursos.com/formalCertificate/32ca040d-0e9b-48ad-81af-bec43203585d/"
+        },
+        {
+            "name": "ChatGPT: optimizando la calidad de los resultados",
+            "issuing_organization": "Alura Cursos",
+            "issue_date": "2025-01-16",
+            "expiration_date": "",
+            "credential_id": "",
+	    "url": "https://app.aluracursos.com/formalCertificate/5b50b493-2712-4efa-b0b2-eb2496feb198/"
+        }
+    ],
     "projects": [
         {
             "name": "Amigo Secreto",
             "description": "Juego de sortear y determinar el amigo",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "url": "https://cristianestmaida.github.io/sorteo-amigo/"
+        },
+        {
+            "name": "Weather",
+            "description": "A description of weather",
+            "technologies": ["HTML","CSS","c#"],
+            "url": "https://weather-1-vf3v.onrender.com/"
         }
     ],
     "languages": [
@@ -77,7 +115,19 @@
             "proficiency": "Intermedio"
         }
     ],
-    "volunteer_experience": [],
+    "volunteer_experience": [
+	{	
+	    "role": "Desarrollador web",
+            "organization": "Hospital Pedro de Elizalde",
+            "location": "Remote",
+            "start_date": "2024-03-01",
+            "end_date": "2024-09-31",
+            "responsibilities": [
+                "Desarrollo Junior full-stack web diseñado con Google Sites, Google Forms y Google Sheets",
+                "Desarrollado con Google App Script"
+            ]
+	}
+    ],
     "publications": [],
     "references": []
 }

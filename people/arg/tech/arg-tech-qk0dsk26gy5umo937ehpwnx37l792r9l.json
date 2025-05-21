@@ -1,0 +1,117 @@
+{
+    "personal_info": {
+        "first_name": "Patricio",
+        "last_name": "Straziuso",
+        "email": "straziuso.patricio@gmail.com",
+        "phone": "+5493416011635",
+        "location": {
+            "country": "Argentina",
+            "city": "Rosario",
+            "state": "Santa Fe"
+        },
+        "linkedin": "https://www.linkedin.com/in/patricio-straziuso-96333420a/",
+        "website": "https://github.com/patriciostraziuso",
+        "portfolio": "",
+        "summary": "Estudiante avanzado de la carrera de Técnico en Desarrollo de Software, con ganas de insertarme laboralmente en mi campo de estudio. Cuento con gran predisposición a trabajar en equipo, buen manejo de la comunicación y responsabilidad ante todo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Empleado General",
+            "company": "Magal Pastas",
+            "location": "Rosario, Santa Fe, Argentina",
+            "start_date": "2018-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Elaboración de pastas",
+                "Atención al público y venta"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Superior en Desarrollo de Software",
+            "institution": "Escuela Superior de Comercio N49 'Cap. Gral. J. J. Urquiza'",
+            "location": "Rosario, Santa Fe, Argentina",
+            "start_date": "2019-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Secundaria",
+            "institution": "E.E.S.O N663 Paula Albarracín de Sarmiento",
+            "location": "Rosario, Santa Fe, Argentina",
+            "start_date": "2011-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "bootstrap",
+                "php",
+                "mysql",
+                "python"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "comunicación",
+                "responsabilidad",
+                "análisis",
+                "planificación",
+                "ejecución-de-pruebas"
+            ],
+            "tools": [
+                "git",
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés Técnico",
+            "proficiency": "Technical Reading and Listening Comprehension"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [],
+    "additional_education": [
+        {
+            "name": "QA Testing Manual / Automation",
+            "issuing_organization": "ARGENTINA PROGRAMA 4.0 (Egg Cooperation)",
+            "start_date": "2023-02-01",
+            "end_date": "2023-04-30"
+        },
+        {
+            "name": "Fundamentos de Javascript",
+            "issuing_organization": "Academia Codica",
+            "start_date": "2023-05-01",
+            "end_date": "2023-07-31"
+        },
+        {
+            "name": "Fronted Developing Using Angular",
+            "issuing_organization": "Coursera",
+            "start_date": "2023-02-01",
+            "end_date": "2024-12-31"
+        },
+        {
+            "name": "Bootcamp QA",
+            "issuing_organization": "Bolsa de Comercio de Rosario",
+            "start_date": "2024-05-01",
+            "end_date": ""
+        }
+    ]
+}

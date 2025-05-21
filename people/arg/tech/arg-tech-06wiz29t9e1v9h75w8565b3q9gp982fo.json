@@ -1,0 +1,147 @@
+{
+    "personal_info": {
+        "first_name": "Juan Pablo",
+        "last_name": "Ludueña",
+        "email": "Siribarrena@gmail.com",
+        "phone": "+54 351 6594342",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "I'm a Computer Science student at FaMAF - UNC, currently in my third year and working towards my three-year bachelor's degree. I'm a Django developer with three years of industry experience and a React developer seeking hands-on industry experience."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Buenaventura Agronegocios",
+            "location": "",
+            "start_date": "2021-06-01",
+            "end_date": "2024-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed new modules and maintained the application using Django.",
+                "Implemented frontend designs using Materialize, jQuery, and CSS.",
+                "Designed and integrated new database models.",
+                "Applied agile methodologies such as Scrum for task management.",
+                "Utilized Git workflow to maintain an organized and efficient development process.",
+                "Configured and modified Docker containers, including adding applications and adjusting configurations.",
+                "Managed instances hosted on AWS."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's degree in Computer Science",
+            "institution": "Universidad Nacional de Córdoba",
+            "location": "Córdoba, Argentina",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Programming Technician",
+            "institution": "Instituto Técnico Salesiano Villada",
+            "location": "",
+            "start_date": "2014-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "django",
+                "python",
+                "html",
+                "css",
+                "javascript",
+                "docker",
+                "react",
+                "rest",
+                "fastapi",
+                "flask",
+                "java",
+                "c",
+                "c++"
+            ],
+            "soft": [
+                "scrum"
+            ],
+            "tools": [
+                "jira",
+                "git-workflow"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "React Developer Certificate",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "El Switcher (Backend)",
+            "description": "The system is built with FastAPI and implements a robust REST API. WebSockets are used to provide real-time feedback.",
+            "technologies": [
+                "fastapi",
+                "rest-api",
+                "websockets"
+            ],
+            "url": ""
+        },
+        {
+            "name": "El Switcher (Frontend)",
+            "description": "The page is built with React and interacts with a real-time API using WebSockets.",
+            "technologies": [
+                "react",
+                "realtime-api",
+                "websockets"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Buenaventura Agronegocios",
+            "description": "Agricultural business website built with Django.",
+            "technologies": [
+                "django"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Almanimal",
+            "description": "Pet adoption site built with Django.",
+            "technologies": [
+                "django"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

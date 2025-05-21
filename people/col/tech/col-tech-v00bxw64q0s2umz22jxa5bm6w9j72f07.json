@@ -1,0 +1,190 @@
+{
+    "personal_info": {
+        "first_name": "Juan",
+        "last_name": "Zuluaga León",
+        "email": "juans.zuluagal@gmail.com",
+        "phone": "+57 319-343-9854",
+        "location": {
+            "country": "Colombia",
+            "city": "Bogotá",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/juans-zuluagal/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un profesional con más de 6 años de experiencia en aseguramiento de calidad de software (QA) y estudiante de 4to año de Ingeniería de Sistemas. Poseo certificación ISTQB Foundation Level y amplio conocimiento en pruebas manuales en distintos sectores. Tengo experiencia en automatización de pruebas UI y funcionales utilizando Serenity BDD, Screenplay, Cucumber y Selenium WebDriver, con Java y Python como lenguajes principales."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Web Freelance",
+            "company": "Autonomo",
+            "location": "Bogotá, Colombia",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de sitios web personalizados con JavaScript, HTML5, CSS3, Bootstrap y PHP.",
+                "Creación y mantenimiento de plataformas como www.hiecol.com.co y www.agroplastick.com.",
+                "Implementación de soluciones responsive y optimización de SEO básico.",
+                "Gestión de requerimientos con clientes y adaptación de funcionalidades según necesidades del negocio."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de pruebas y automatización",
+            "company": "Choucair Testing S.A",
+            "location": "Bogotá, Colombia",
+            "start_date": "2024-10-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Responsable del proceso de certificación: análisis, estimación, planeación, diseño, ejecución, seguimiento y cierre.",
+                "Pruebas funcionales, no funcionales, de regresión y smoke test, integrando la automatización con Selenium, Serenity y Gherkin.",
+                "Gestión y seguimiento de bugs en Azure DevOps.",
+                "Manejo de la herramienta interna de Choucair Evaluador de APIs para la configuración y ejecución de pruebas automatizadas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Junior Software Engineer",
+            "company": "NTT DATA Europe & Latam",
+            "location": "Bogotá, Colombia",
+            "start_date": "2022-02-01",
+            "end_date": "2024-10-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Responsable del diseño y ejecución de planes de pruebas basados en las necesidades del cliente.",
+                "Análisis de datos mediante scripts de bases de datos.",
+                "Realización de pruebas automatizadas con Postman para garantizar la calidad y funcionalidad de las aplicaciones desarrolladas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista QA - Webmaster",
+            "company": "QUADI",
+            "location": "Bogotá, Colombia",
+            "start_date": "2021-04-01",
+            "end_date": "2022-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Testing a mail, landing pages y sitios web.",
+                "Ajustes a mails (Oracle Responsys y HTML) y landing pages (HubSpot) de ser requerido.",
+                "Construcción de reportes de incidencias con respecto a los artefactos testeados."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de pruebas",
+            "company": "Data Tools S.A",
+            "location": "Bogotá, Colombia",
+            "start_date": "2018-10-01",
+            "end_date": "2021-04-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño, construcción y ejecución de plan de pruebas con base en los requerimientos solicitados para la actualización del software existente.",
+                "Soporte y capacitación sobre las actualizaciones del software.",
+                "Testeo e implementación de scripts SQL complementarios a las actualizaciones de backend del software existente.",
+                "Acompañamiento en la etapa de diseño del software."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certificación ISTQB Foundation Level",
+            "institution": "EUD - ISTQB",
+            "location": "Bogotá, Colombia",
+            "start_date": "2023-06-01",
+            "end_date": "2023-06-01",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería de sistemas",
+            "institution": "Fundación Universitaria Área Andina",
+            "location": "Bogotá, Colombia",
+            "start_date": "2024-07-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnología en Análisis y Desarrollo de Sistemas de Información",
+            "institution": "SENA",
+            "location": "Bogotá, Colombia",
+            "start_date": "2016-10-01",
+            "end_date": "2018-10-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "selenium",
+                "serenity-bdd",
+                "screenplay",
+                "cucumber",
+                "postman",
+                "java",
+                "python",
+                "sql-server",
+                "mysql",
+                "postgresql",
+                "oracle",
+                "javascript",
+                "html5",
+                "css3",
+                "bootstrap",
+                "php"
+            ],
+            "soft": [
+                "comunicación-efectiva",
+                "trabajo-en-equipo",
+                "liderazgo",
+                "resolución-de-problemas",
+                "adaptabilidad",
+                "gestión-del-tiempo",
+                "pensamiento-crítico"
+            ],
+            "tools": [
+                "azure-devops",
+                "bizagi-bpm",
+                "elaboración-de-manuales-de-usuario"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "ISTQB Foundation Level",
+            "issuing_organization": "EUD - ISTQB",
+            "issue_date": "2023-06-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "www.hiecol.com.co",
+            "description": "Desarrollo de sitios web personalizados. Implementación de soluciones responsive y optimización de SEO básico.",
+            "technologies": ["javascript", "html5", "css3", "bootstrap", "php"],
+            "url": "http://www.hiecol.com.co"
+        },
+        {
+            "name": "www.agroplastick.com",
+            "description": "Desarrollo de sitios web personalizados. Implementación de soluciones responsive y optimización de SEO básico.",
+            "technologies": ["javascript", "html5", "css3", "bootstrap", "php"],
+            "url": "http://www.agroplastick.com"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

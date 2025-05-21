@@ -1,0 +1,110 @@
+{
+    "personal_info": {
+        "first_name": "Jackson",
+        "last_name": "Guerrero",
+        "email": "jacksonguerrerovega2@gmail.com",
+        "phone": "+573123492176",
+        "location": {
+            "country": "Colombia",
+            "city": "Arauquita",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "I am a Software Developer, and throughout my career, I have worked combining Frontend development for web applications and Backend development for services. Currently, I work at @Wompi as a Backend Developer. Since 2021, I've been writing my first lines of code, and since then, I've considered myself a curious, self-taught, open-minded individual with the resilience to tackle big challenges both individually and as part of a team. I am passionate about technology and how it can positively impact society."
+    },
+    "work_experience": [
+        {
+            "job_title": "Backend Developer",
+            "company": "Wompi",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Mutual TLS with an external party using SOAP communication.",
+                "Certified as AWS Developer, with knowledge of PCI-DSS.",
+                "Participation in large high-impact initiatives, such as the creation of multiple microservices for transactional processing.",
+                "Skilled in coding, applying various patterns and architectures, with the application of SOLID principles.",
+                "Knowledge and experience in creating a cryptography library.",
+                "Experience in BDD, DDD, Scrum, and Kanban methodologies."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Wompi",
+            "location": "",
+            "start_date": "2021-12-01",
+            "end_date": "2023-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creating solutions and collaborating with a team on the development of new products and payment methods",
+                "Participating in Backend role initiatives",
+                "Strengthening and applying cloud knowledge with AWS"
+            ],
+            "achievements": [
+                "Gained greater involvement and trust in both Frontend and Backend areas due to the nature of my current team and our focus on improving the technological core."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Vlipco",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Creating features and maintaining web applications such as Docs, Dashboards, BackOffices, SPAs, landing pages."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Software Engineering",
+            "institution": "Manuela Beltran University",
+            "location": "Colombia, Remote",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "ruby",
+                "padrino",
+                "syro",
+                "react",
+                "next",
+                "vue",
+                "nuxt",
+                "node.js",
+                "javaScript",
+                "typeScript",
+                "nestjs",
+                "aws",
+                "sql",
+                "nosql",
+                "docker"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

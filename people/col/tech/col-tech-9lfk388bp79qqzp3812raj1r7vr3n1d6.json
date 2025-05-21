@@ -1,0 +1,179 @@
+{
+    "personal_info": {
+        "first_name": "Luis Alberto",
+        "last_name": "Gordillo",
+        "email": "ingordillo2@gmail.com",
+        "phone": "+57 3016190845",
+        "location": {
+            "country": "Colombia",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero de Sistemas con conocimientos en lenguajes de programación y base de datos, con intereses orientados a la ingeniería de software, computación en la nube, redes, equipos de computo y soluciones de tecnologías de la información. Apasionado por la innovación en tecnología y la implementación de soluciones TI que optimicen procesos y generen valor empresarial."
+    },
+    "work_experience": [
+        {
+            "job_title": "Supervisor Producción",
+            "company": "RowHide Products S.A.S",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Practicante Desarrollador de software Full Stack",
+            "company": "Periodico el Pilón, S.A.",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Coordinador Laboratorio Sistemas",
+            "company": "Universidad Popular del Cesar",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador de software",
+            "company": "Green Mountain Group S.A.S",
+            "location": "",
+            "start_date": "2021-06-01",
+            "end_date": "2021-11-30",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Sistemas",
+            "institution": "Universidad Popular del Cesar",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnólogo de Sistemas",
+            "institution": "SENA",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico de Sistemas",
+            "institution": "SENA",
+            "location": "",
+            "start_date": "2013-01-01",
+            "end_date": "2013-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "windows",
+                "linux",
+                "cloud",
+                "angular",
+                "node",
+                "express",
+                "nestjs"
+            ],
+            "soft": [
+                "comunicación-efectiva",
+                "resolución-de-problemas",
+                "trabajo-en-equipo",
+                "flexibilidad-y-adaptabilidad",
+                "autoaprendizaje",
+                "pensamiento-crítico",
+                "gestión-del-tiempo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Google Cloud Computing Foundations academy",
+            "issuing_organization": "Google",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "AWS Educate Getting Started with Databases",
+            "issuing_organization": "AWS",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "AWS Educate Getting Started with Networking",
+            "issuing_organization": "AWS",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Nest: Desarrollo backend escalable con Node",
+            "issuing_organization": "NestJS",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Aplicacion Web de Reservacion Hotelera",
+            "description": "",
+            "technologies": ["angular", "node.js", "cloudinary", "mysql", "typeorm", "heroku"],
+            "url": ""
+        },
+        {
+            "name": "Aplicacion Web de Facturacion",
+            "description": "",
+            "technologies": ["angular", "nodejs", "mongodb"],
+            "url": ""
+        },
+        {
+            "name": "Implementar Una Bodega De Datos Para El Análisis De Los Delitos En Bucaramanga Entre Enero 2010 A Diciembre De 2021",
+            "description": "",
+            "technologies": ["talend", "oracle", "sqlserver", "power-bi", "lucidchart", "excel"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Nivel Az"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

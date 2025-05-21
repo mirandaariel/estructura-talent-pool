@@ -1,0 +1,139 @@
+{
+    "personal_info": {
+        "first_name": "Giuliana",
+        "last_name": "Grijalba",
+        "email": "danita9516@gmail.com",
+        "phone": "+54 9 1150966935",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/giulianagrijalba",
+        "website": "",
+        "portfolio": "https://github.com/GiulianaGrijalba",
+        "summary": "Desarrolladora Full Stack con experiencia en desarrollo web con Next.js, React.js y TypeScript. Especializada en la creación de interfaces atractivas y optimizadas para mejorar la experiencia del usuario. Manejo de bases de datos y diseño de componentes reutilizables con Tailwind CSS. Busco seguir creciendo profesionalmente en un equipo dinámico."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer Junior",
+            "company": "Cementerio Parque Privado",
+            "location": "",
+            "start_date": "2025-02-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de interfaz de usuario utilizando Next.js y Tailwind CSS.",
+                "Optimización y rendimiento de la aplicación con buenas prácticas en React.",
+                "Colaboración en equipo con el backend para integrar API.",
+                "Implementación de un sistema de autenticación seguro.",
+                "Creación de vistas dinámicas para el blog y gestión de mensajes.",
+                "Diseñé flyers e imágenes para Instagram.",
+                "Gestioné el diseño de elementos gráficos para la web.",
+                "Desarrollo de contenido visual para fortalecer la identidad de marca."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Encargado de atención al cliente",
+            "company": "Vanner Bar",
+            "location": "",
+            "start_date": "2011-01-01",
+            "end_date": "2017-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión eficiente del servicio al cliente.",
+                "Resolución de quejas con altos niveles de satisfacción.",
+                "Coordinación del equipo de meseros y bartenders.",
+                "Implementación de mejoras en procesos, reduciendo tiempos de espera.",
+                "Capacitación de nuevos empleados en servicio al cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Medicina Veterinaria (55% de la carrera)",
+            "institution": "Universidad Nacional de La Plata",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Liquidación de Sueldos y Jornales",
+            "institution": "Universidad Nacional de Quilmes",
+            "location": "",
+            "start_date": "",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react.js",
+                "next.js",
+                "nestjs",
+                "postgresql"
+            ],
+            "soft": [
+                "teamwork",
+                "communication",
+                "problem-solving"
+            ],
+            "tools": [
+                "git",
+                "jira",
+                "slack",
+                "scrum"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Renovación Web Cementerio Parque Privado",
+            "description": "Desarrollo de una plataforma digital para la gestión de información en un cementerio parque privado, con funcionalidades como búsqueda de obituarios, chatbot, blog con moderación de mensajes y donaciones en línea.",
+            "technologies": [
+                "next.js",
+                "typescript",
+                "tailwind-css",
+                "nestjs",
+                "supabase"
+            ],
+            "url": "https://deployfront-rouge.vercel.app/"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [
+        {
+            "role": "Teaching Assistant",
+            "organization": "Henry Bootcamp",
+            "location": "Remote",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "responsibilities": [
+                "Asistente de enseñanza para un grupo de aproximadamente 20 estudiantes.",
+                "Acompañar a los estudiantes en la resolución de dudas y desafíos técnicos con tecnologías como Next.js, React, Tailwind.",
+                "Fomentar el trabajo en equipo y la comunicación efectiva.",
+                "Crear un ambiente de aprendizaje dinámico."
+            ]
+        }
+    ],
+    "publications": [],
+    "references": []
+}

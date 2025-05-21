@@ -1,0 +1,96 @@
+{
+    "personal_info": {
+        "first_name": "Daniel",
+        "last_name": "",
+        "email": "andres031217@gmail.com",
+        "phone": "+57 3134469449",
+        "location": {
+            "country": "Colombia",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "¡Hola! Soy Daniel, un apasionado desarrollador con una sólida base técnica y una visión integral en el mundo del desarrollo web. Mi experiencia abarca la implementación de soluciones tanto en el lado del servidor como en el cliente, y mi enfoque principal se centra en tecnologías de vanguardia como Node.js, React.js y .NET. Me apasiona estar al tanto de las últimas tendencias tecnológicas y estoy comprometido con el aprendizaje continuo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Administrador",
+            "company": "Colpines",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Liderar un equipo de operarios en actividades relacionadas con la producción de pines metálicos y plásticos para vehículos.",
+                "Atender las necesidades de los clientes coordinando la entrega y envío de pedidos.",
+                "Coordinar la compra de materia prima."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Junior",
+            "company": "Aviatur",
+            "location": "",
+            "start_date": "2022-11-21",
+            "end_date": "2023-12-05",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación y mejora continua de los productos de bono de regalo y cruceros en la página web de la empresa.",
+                "Desarrollar el backend utilizando Node.js para asegurar un rendimiento robusto y escalable.",
+                "Implementar la interfaz de usuario utilizando React.js.",
+                "Colaborar con el equipo para diseñar y desarrollar nuevas características.",
+                "Optimizar la interfaz de usuario para el producto de cruceros.",
+                "Brindar apoyo en el desarrollo frontend para el producto de sostenibilidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnólogo - Análisis y Desarrollo de Software",
+            "institution": "ENA",
+            "location": "",
+            "start_date": "2022-09-05",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "Universidad Nacional de Colombia y Min TIC",
+            "location": "",
+            "start_date": "2022-04-17",
+            "end_date": "2022-11-22",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "node.js",
+                "react.js",
+                ".net",
+                "python",
+                "java",
+                "sql"
+            ],
+            "soft": [],
+            "tools": [
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

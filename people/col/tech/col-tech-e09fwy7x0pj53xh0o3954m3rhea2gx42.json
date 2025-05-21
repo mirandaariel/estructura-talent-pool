@@ -1,0 +1,115 @@
+{
+    "personal_info": {
+        "first_name": "",
+        "last_name": "",
+        "email": "dedsoncasta07@gmail.com",
+        "phone": "+57 3222185133",
+        "location": {
+            "country": "Colombia",
+            "city": "Bogotá D.C",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista QA",
+            "company": "Cámara de Comercio de Bogotá",
+            "location": "Hibrido",
+            "start_date": "2023-10-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Apliqué habilidades en el proceso de pruebas automáticas y manuales.",
+                "Verifiqué la funcionalidad y calidad del software.",
+                "Documenté procedimientos de prueba y resultados.",
+                "Utilicé Azure DevOps para gestionar el ciclo de vida de las pruebas.",
+                "Usé SQL para consultas de información del aplicativo."
+            ],
+            "achievements": [
+                "Optimización de los procesos de pruebas de calidad manuales.",
+                "Lideré sesiones de inducción para nuevos practicantes."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Documentador y desarrollador web",
+            "company": "Neurona S.A.S",
+            "location": "Remoto",
+            "start_date": "2021-10-01",
+            "end_date": "2023-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboré en la documentación del sistema ofrecido por la empresa.",
+                "Participé en el rediseño de la página web (diseño UI/UX).",
+                "Lideré etapas iniciales del proyecto de la página web en WordPress."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Pregrado en ingeniería de software",
+            "institution": "Fundación Universitaria Empresarial de la Cámara de Comercio de Bogotá - Uniempresarial",
+            "location": "Bogotá D.C, Colombia",
+            "start_date": "2021-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "css",
+                "javascript",
+                "typescript",
+                "react",
+                "react-native",
+                "java",
+                "springboot",
+                "wordpress",
+                "sql",
+                "mongodb",
+                "azure-devops",
+                "selenium",
+                "ejecución-de-pruebas-manuales-y-automatizadas"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Oracle Next Education F2 TS Back-end",
+            "issuing_organization": "Alura",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Scrum Foundation Professional Certificate SFPC",
+            "issuing_organization": "CertiProf",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

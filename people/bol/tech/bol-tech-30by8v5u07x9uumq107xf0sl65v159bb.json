@@ -1,0 +1,136 @@
+{
+    "personal_info": {
+        "first_name": "Carlos Aldrin",
+        "last_name": "Murillo Camacho",
+        "email": "gi.gomezivan@gmail.com",
+        "phone": "+591-79053388",
+        "location": {
+            "country": "Bolivia",
+            "city": "Santa Cruz",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full Stack Developer con experiencia en el desarrollo de APIs escalables y seguras, especializado en NestJS y PostgreSQL. Graduado del Bootcamp Henry, donde adquirí habilidades en trabajo colaborativo, análisis de datos y liderazgo en proyectos. Poseo sólidos conocimientos en autenticación con JWT y OAuth, integración de pasarelas de pago, documentación con Swagger, despliegue con Docker y bases de datos relacionales y NoSQL. Además, cuento con experiencia en metodologías ágiles (SCRUM), control de versiones con Git/GitHub y despliegue en plataformas como Render."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Web Developer",
+            "company": "Huellas Unidas",
+            "location": "",
+            "start_date": "2024-12-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollar una plataforma web para la adopción y rescate de mascotas utilizando Next.js, React y Tailwind CSS.",
+                "Implementar pagos mediante Stripe para facilitar transacciones seguras.",
+                "Gestionar imágenes con Cloudinary y documentar la API con Swagger.",
+                "Desplegar la aplicación utilizando Render, Docker y Netlify.",
+                "Implementar autenticación segura utilizando JWT y OAuth2."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/CMurilloCamacho/huellasunidas"
+        },
+        {
+            "job_title": "Full Stack Teaching Assistant",
+            "company": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Coordinar a un grupo de estudiantes.",
+                "Asistir a la resolución de ejercicios y promover la colaboración grupal.",
+                "Proponer mejoras para el Bootcamp.",
+                "Desarrollar habilidades blandas en estudiantes.",
+                "Desarrollar una API REST de comercio electrónico segura y escalable."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/CMurilloCamacho/ecommerce-m4"
+        },
+        {
+            "job_title": "Full Stack Web Developer",
+            "company": "Sistema de Gestión de Turnos",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollar una aplicación web para la gestión de turnos.",
+                "Construir el backend con Node.js, TypeScript y Express.",
+                "Utilizar TypeORM y PostgreSQL.",
+                "Implementar autenticación segura con bcrypt y JWT.",
+                "Desarrollar el frontend con React y Vite."
+            ],
+            "achievements": [],
+            "repository_url": [
+                "https://github.com/CMurilloCamacho/turnos-front",
+                "https://github.com/CMurilloCamacho/turnos-back"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2025-01-31",
+            "hours": 800
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "nestjs",
+                "typescript",
+                "jwt",
+                "oauth",
+                "stripe",
+                "docker",
+                "react",
+                "fetch",
+                "render",
+                "node.js",
+                "express",
+                "vite",
+                "cloudinary",
+                "swagger"
+            ],
+            "soft": [
+                "collaboration",
+                "leadership",
+                "problem-solving"
+            ],
+            "tools": [
+                "github",
+                "netlify",
+                "cloudinary",
+                "docker-hub",
+                "postgre",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Basic"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

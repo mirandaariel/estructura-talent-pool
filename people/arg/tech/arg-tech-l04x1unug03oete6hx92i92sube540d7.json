@@ -1,0 +1,112 @@
+{
+    "personal_info": {
+        "first_name": "Asbel",
+        "last_name": "Maestre",
+        "email": "enriquemaestre20@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/asbel-maestre-guerra-66303614a/",
+        "website": "",
+        "portfolio": "https://github.com/asbel24",
+        "summary": "Ingeniero en Informática con sólida experiencia en desarrollo backend y QA, especializado en tecnologías como NestJS y Prisma."
+    },
+    "work_experience": [
+        {
+            "job_title": "QA / Developer Engineer",
+            "company": "Quarksoft-CIDESA",
+            "location": "",
+            "start_date": "2017-08-01",
+            "end_date": "2020-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñar y documentar flujos de aplicación mediante la creación de mockups.",
+                "Realizar pruebas funcionales, de regresión y de UI.",
+                "Depurar y corregir errores en la interfaz y la lógica del sistema.",
+                "Implementar y validar operaciones CRUD en Java EE."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Informática",
+            "institution": "Universidad Centroccidental Lisandro Alvarado",
+            "location": "",
+            "start_date": "2013-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "2024-11-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "nestjs",
+                "javascript",
+                "prisma",
+                "typescript",
+                "postgresql"
+            ],
+            "soft": [
+                "analytical",
+                "problem-solving",
+                "adaptability",
+                "teamwork"
+            ],
+            "tools": [
+                "swagger",
+                "jira"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "ConsoLearn",
+            "description": "Aplicación diseñada para ofrecer una plataforma de cursos pagos en línea.",
+            "technologies": [
+                "postgreSQL",
+                "prisma",
+                "oauth-2.0"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Sistema de Reparación de Equipos Electrónicos",
+            "description": "Plataforma integral para administrar reparación de equipos electrónicos.",
+            "technologies": [
+                "java",
+                "mysql"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Sistema de Postgrado UCLA",
+            "description": "Plataforma para administrar inscripciones y seguimiento académico.",
+            "technologies": [
+                "ruby-on-rails"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

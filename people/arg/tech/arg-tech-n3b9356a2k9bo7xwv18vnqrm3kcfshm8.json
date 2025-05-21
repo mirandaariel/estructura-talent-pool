@@ -1,0 +1,109 @@
+{
+    "personal_info": {
+        "first_name": "Daniel",
+        "last_name": "Ortiz",
+        "email": "bianchi.ingrid204@gmail.com",
+        "phone": "+57 3002874116",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/danielortiz12/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador de software con más de 2 años de experiencia en el desarrollo de aplicaciones web utilizando PHP, Laravel, JavaScript, React y Next.js. Especializado en crear páginas web sólidas con las últimas tecnologías. Comprometido a entregar resultados que mejoren el entorno de trabajo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador FullStack",
+            "company": "Fundación Universitaria Tecnológico Comfenalco",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollar aplicaciones web con PHP (Laravel) y JavaScript (React, Next.js)",
+                "Crear interfaces dinámicas y responsivas con React y Next.js",
+                "Construir APIs RESTful y servicios backend en Laravel",
+                "Optimizar y mantener código existente, solucionando bugs y mejorando rendimiento",
+                "Diseñar y gestionar bases de datos relacionales",
+                "Implementar nuevas funcionalidades en frontend y backend",
+                "Ejecutar pruebas unitarias e integración en PHP y JavaScript",
+                "Gestionar el código con Git y colaborar en equipos de desarrollo",
+                "Desplegar y configurar aplicaciones en servidores o plataformas cloud"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Sistemas",
+            "institution": "Fundación Universitaria Tecnológico Comfenalco",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnología en Desarrollo de Software",
+            "institution": "Fundación Universitaria Tecnológico Comfenalco",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "php",
+                "javaScript",
+                "laravel",
+                "react",
+                "next.js",
+                "postgresql",
+                "restful",
+                "git"
+            ],
+            "soft": [
+                "resolución-de-problemas",
+                "proactividad",
+                "aprendizaje-continuo",
+                "comunicación-efectiva"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Nivel básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Julio Orozco Mattos",
+            "relationship": "Coordinador de desarrollo de software",
+            "contact": "coord.cedesoft@tecnologicocomfenalco.edu.co"
+        },
+        {
+            "name": "Juan Carlos Ceballos",
+            "relationship": "Docente de desarrollo de software",
+            "contact": "juan.ceballos@tecnologicocomfenalco.edu.co"
+        }
+    ]
+}

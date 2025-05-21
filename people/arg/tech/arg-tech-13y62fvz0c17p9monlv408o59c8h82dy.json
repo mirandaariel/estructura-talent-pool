@@ -60,48 +60,7 @@
         },
         "detailed": {
             "technical": {
-                "java": [
-                    {
-                        "name": "JavaFX, Swing, Hibernate",
-                        "repository_url": ""
-                    },
-                    {
-                        "name": "Frameworks y herramientas: Spring, Spring Boot, Maven, Lombok",
-                        "repository_url": ""
-                    },
-                    {
-                        "name": "Testeo: JUnit, Mockito",
-                        "repository_url": ""
-                    },
-                    {
-                        "name": "APIs: REST, microservicios",
-                        "repository_url": ""
-                    }
-                ],
-                "javascript": [
-                    {
-                        "name": "TypeScript, Angular",
-                        "repository_url": ""
-                    }
-                ],
-                "python": [
-                    {
-                        "name": "Bibliotecas: NumPy, SymPy, SciPy",
-                        "repository_url": ""
-                    }
-                ],
-                "c++": [
-                    {
-                        "name": "Librería STL (Standard Template Library)",
-                        "repository_url": ""
-                    }
-                ],
-                "databases": [
-                    {
-                        "name": "SQL, MySQL, PostgreSQL",
-                        "repository_url": ""
-                    }
-                ]
+                "javascript": []
             },
             "tools": {
                 "general": [

@@ -1,0 +1,112 @@
+{
+    "personal_info": {
+        "first_name": "Melina",
+        "last_name": "Gamarra",
+        "email": "gamarramelina.2002@gmail.com",
+        "phone": "+54-376-5 058777",
+        "location": {
+            "country": "Argentina",
+            "city": "Posadas",
+            "state": "Misiones"
+        },
+        "linkedin": "www.linkedin.com/in/melina-noemi-gamarra",
+        "website": "https://github.com/Melinagamarra-2023",
+        "portfolio": "",
+        "summary": "Soy Técnico Superior en Programación y Análisis con experiencia en desarrollo backend, especializado en Java y Spring Boot. Enfocado en la creación de API RESTful eficientes y la gestión de bases de datos SQL. Busco oportunidades para aplicar mis conocimientos, asumir nuevos desafíos y seguir creciendo profesionalmente en un entorno dinámico y colaborativo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer & Tester",
+            "company": "ITEC N1",
+            "location": "Posadas, Misiones, Argentina",
+            "start_date": "2024-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de una API RESTful para la gestión de gimnasios con Spring Boot y MySQL.",
+                "Implementación de autenticación y control de acceso con Spring Security y JWT."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Pasante como Backend Developer",
+            "company": "Ministerio de Educación, Ciencia y Tecnología",
+            "location": "Posadas, Misiones, Argentina",
+            "start_date": "2024-10-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de un microservicio con Spring Boot para un sitio web de Support IT para instituciones.",
+                "Configuración y automatización de pipelines CI/CD con GitHub Actions para optimizar la integración y el despliegue continuo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Backend Developer & Tester",
+            "company": "ITEC N1",
+            "location": "Posadas, Misiones, Argentina",
+            "start_date": "2023-11-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y desarrollo de un e-commerce para la gestión de logística y distribución.",
+                "Implementación de pruebas unitarias con JUnit 5 y Mockito.",
+                "Trabajo colaborativo en un entorno ágil bajo la metodología Scrum."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Superior Programador y Analista",
+            "institution": "Instituto Tecnológico N1 (ITEC N1)",
+            "location": "Posadas, Misiones, Argentina",
+            "start_date": "",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring-boot",
+                "spring-security",
+                "jpa",
+                "hibernate",
+                "eclipselink",
+                "mysql",
+                "postgresql",
+                "h2"
+            ],
+            "soft": [],
+            "tools": [
+                "docker",
+                "ci/cd",
+                "github-actions",
+                "maven",
+                "git",
+                "github",
+                "microsoft-office-(word,-excel,-powerpoint)"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio-bajo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

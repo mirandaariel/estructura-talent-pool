@@ -1,0 +1,199 @@
+{
+    "personal_info": {
+        "first_name": "Nicolas Daniel",
+        "last_name": "Espinoza Segovia",
+        "email": "nespinozasegovia@gmail.com",
+        "phone": "+595 971 875556",
+        "location": {
+            "country": "Paraguay",
+            "city": "Encarnación",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Programador con experiencia en el diseño, desarrollo e implementación de sistemas para la gestión de inventarios, finanzas y empresariales, además de habilidades en interpretación de datos y generación de insights valiosos como Analista de Datos Junior. Mi objetivo es consolidarme como un profesional versátil en el ámbito tecnológico, aplicando soluciones innovadoras y eficientes a los desafíos empresariales."
+    },
+    "work_experience": [
+        {
+            "job_title": "Diseñador",
+            "company": "Empresa Infinity Business",
+            "location": "Encarnación, Paraguay",
+            "start_date": "2021-02-01",
+            "end_date": "2021-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación y diseño de llamativos volantes para reclutar personas para oportunidades de trabajo remoto.",
+                "Diseñar y rediseñar estilos de la página web para distintas estaciones del año."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Community Manager",
+            "company": "Empresa Infinity Business",
+            "location": "Encarnación, Paraguay",
+            "start_date": "2021-02-01",
+            "end_date": "2021-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Construcción y gestión de la comunidad en línea.",
+                "Supervisión del control de calidad de diseño de estrategias.",
+                "Monitoreo de la calidad de respuesta del servicio al cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Mentor",
+            "company": "Programando Paraguay",
+            "location": "Encarnación, Paraguay",
+            "start_date": "2024-07-01",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Guiar a participantes en el aprendizaje de conceptos fundamentales del desarrollo web.",
+                "Impartir conocimientos sobre HTML, CSS y JavaScript.",
+                "Planificación y ejecución de sesiones prácticas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack MERN",
+            "company": "No Country",
+            "location": "Encarnación, Paraguay",
+            "start_date": "2024-09-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una aplicación bancaria móvil en colaboración con profesionales de diversas regiones.",
+                "Fortalecimiento de habilidades técnicas y mejora de la capacidad para trabajar en proyectos de gran envergadura."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnico de Mantenimiento de PC",
+            "company": "Independiente",
+            "location": "Encarnación, Paraguay",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Brindar servicios técnicos especializados en mantenimiento y reparación de computadoras.",
+                "Experiencia en ensamblaje personalizado de computadores.",
+                "Diagnósticos detallados, actualizaciones de hardware y software, y asesoramiento técnico."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería Informática",
+            "institution": "Universidad Católica Nuestra Señora de la Asunción",
+            "location": "Encarnación, Paraguay",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Certificado de Técnico en reparación de computadoras",
+            "institution": "Instituto EuroSur",
+            "location": "Paraguay",
+            "start_date": "2023-03-01",
+            "end_date": "2023-07-31",
+            "hours": 0
+        },
+        {
+            "degree": "Certificado de Desarrollador Full-Stack MERN",
+            "institution": "Coding Dojo Latam",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "2024-02-29",
+            "hours": 0
+        },
+        {
+            "degree": "Certificación de Desarrollo Web Full-Stack Python",
+            "institution": "CIDIT",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2024-10-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript",
+                "python",
+                "c++",
+                "mongodb",
+                "express-js",
+                "react-js",
+                "node-js",
+                "next-js",
+                "fastapi",
+                "django",
+                "flask",
+                "bootstrap",
+                "materialui",
+                "mysql",
+                "postgresql",
+                "arangodb",
+                "windows",
+                "linux",
+                "docker",
+                "vercel",
+                "tableau"
+            ],
+            "soft": [
+                "autodiadacta",
+                "responsable",
+                "proactivo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sistema para una empresa Familiar",
+            "description": "Proyecto creado para dar seguimiento a un sistema diseñado para una empresa sin recursos económicos para comprar un sistema hecho por un desarrollador.",
+            "technologies": [],
+            "url": "GitHub"
+        },
+        {
+            "name": "Lista de Tareas",
+            "description": "Aplicación CRUD de listado de tareas utilizando el stack MERN. Permite a los usuarios registrarse, iniciar sesión y agendar tareas pendientes.",
+            "technologies": [],
+            "url": "GitHub"
+        },
+        {
+            "name": "Agendamiento de Citas Médicas",
+            "description": "Aplicación CRUD de agendamiento de citas médicas usando el stack MERN, con funcionalidades para gestionar citas y listar personal médico.",
+            "technologies": [],
+            "url": "GitHub"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "C1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
