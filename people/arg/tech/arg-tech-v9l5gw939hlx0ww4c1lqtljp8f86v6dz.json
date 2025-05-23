@@ -167,6 +167,24 @@
                         "title": "Currying",
                         "description": "Transformación de una función que toma múltiples argumentos en una serie de funciones que toman un solo argumento.",
                         "repository_url": "https://github.com/maximogarmasarvazquez/JavaScript-Skills-Mastery/tree/main/skills/1204-currying"
+                    },
+                     {
+                        "id": 1205,
+                        "title": "Function Composition",
+                        "description": "Técnica que permite encadenar funciones pequeñas en una sola función compleja.",
+                        "repository_url": "https://github.com/maximogarmasarvazquez/JavaScript-Skills-Mastery/tree/main/skills/1205-function-composition"
+                    },
+                    {
+                        "id": 1206,
+                        "title": "Functors and Categories",
+                        "description": "Estructuras que permiten mapear funciones sobre valores envueltos o estructurados.",
+                        "repository_url": "https://github.com/maximogarmasarvazquez/JavaScript-Skills-Mastery/tree/main/skills/1206-functors-and-categories"
+                    },
+                    {
+                        "id": 1207,
+                        "title": "Monads",
+                        "description": "Patrón que permite encadenar operaciones, manejando contextos como la asincronía o el manejo de errores.",
+                        "repository_url": "https://github.com/maximogarmasarvazquez/JavaScript-Skills-Mastery/tree/main/skills/1207-modnas"
                     }
                 ]
             },
