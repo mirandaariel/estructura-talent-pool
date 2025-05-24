@@ -10,9 +10,9 @@
             "state": "BSAS"
         },
         "linkedin": "https://linkedin.com/in/diego-reynoso-234298216",
-        "website": "",
-        "portfolio": "",
-        "summary": "+2 años de experiencia como Desarrollador Web. Soy autodidacta y tengo pasión por aprender y experimentar con nuevas tecnologías. Tengo buen ojo para los detalles y una mentalidad orientada a la resolución de problemas. He completado varios proyectos personales que han fortalecido mis habilidades técnicas. Estoy seguro de que puedo adaptarme rápidamente y hacer una contribución significativa a cualquier equipo de desarrollo."
+        "website": "https://www.ddrdeveloper.online",
+        "portfolio": "https://portfolio-diegoreynoso11.vercel.app",
+        "summary": "+3 años de experiencia como Desarrollador Web. Soy autodidacta y tengo pasión por aprender y experimentar con nuevas tecnologías. Tengo buen ojo para los detalles y una mentalidad orientada a la resolución de problemas. He completado varios proyectos personales que han fortalecido mis habilidades técnicas. Estoy seguro de que puedo adaptarme rápidamente y hacer una contribución significativa a cualquier equipo de desarrollo."
     },
     "work_experience": [],
     "education": [
@@ -37,30 +37,35 @@
         "keywords": {
             "technical": [
                 "css",
-                "talleind",
+                "tailwind",
                 "material-ui",
-                "framer-moon",
-                "shadch",
+                "framer-motion",
+                "shadcn",
                 "html",
                 "astro",
                 "javascript",
                 "typescript",
                 "reactjs",
                 "nextjs",
-                "sqlits",
+                "sqlite",
                 "mongodb",
                 "firebase",
                 "firestore",
-                "strap1",
+                "strapi",
                 "railway",
-                "2od",
+                "zod",
                 "formik",
                 "react-hook-form",
                 "vite",
                 "clerk",
-                "tup"
+                "yup"
             ],
-            "soft": [],
+            "soft": [
+                "Adaptabilidad",
+                "Trabajo en equipo",
+                "Empatía",
+                "Resolución de problemas"
+            ],
             "tools": []
         },
         "detailed": {
@@ -233,6 +238,126 @@
                         "title": "Array Operations (map, filter, reduce)",
                         "description": "Funciones de orden superior para transformar, filtrar y reducir arrays en JavaScript.",
                         "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1305.js"
+                    },
+                    {
+                        "id": 1306,
+                        "title": "Sorting Algorithms",
+                        "description": "Implementación de algoritmos de ordenamiento como bubble sort, quicksort y merge sort.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1306.js"
+                    },
+                    {
+                        "id": 1307,
+                        "title": "Search Algorithms",
+                        "description": "Algoritmos de búsqueda como búsqueda lineal y búsqueda binaria para encontrar elementos en estructuras de datos.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1307.js"
+                    },
+                    {
+                        "id": 1308,
+                        "title": "Abstract Data Types",
+                        "description": "Tipos de datos abstractos como pilas, colas y listas que definen operaciones sin especificar su implementación concreta.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1308.js"
+                    },
+                    {
+                        "id": 1401,
+                        "title": "Callbacks",
+                        "description": "Funciones que se ejecutan después de completar una operación asíncrona, permitiendo la continuación de un flujo de ejecución.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1401.js"
+                    },
+                    {
+                        "id": 1402,
+                        "title": "Promises",
+                        "description": "Objeto que representa la terminación o el fracaso eventual de una operación asíncrona.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1402.js"
+                    },
+                    {
+                        "id": 1403,
+                        "title": "Async/Await",
+                        "description": "Sintaxis que simplifica el manejo de operaciones asíncronas, haciendo que el código sea más legible y fácil de entender.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1403.js"
+                    },
+                    {
+                        "id": 1404,
+                        "title": "Asynchronous Error Handling",
+                        "description": "Manejo de errores en operaciones asíncronas utilizando bloques try, catch y finally.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1404.js"
+                    },
+                    {
+                        "id": 1405,
+                        "title": "Event Loop",
+                        "description": "Mecanismo que permite que JavaScript maneje múltiples operaciones simultáneamente a través de un ciclo de eventos.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1405.js"
+                    },
+                    {
+                        "id": 1406,
+                        "title": "Promise Lifecycle",
+                        "description": "Etapas de una promesa en JavaScript: pendiente, cumplida o rechazada.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1406.js"
+                    },
+                    {
+                        "id": 1501,
+                        "title": "Elements of JavaScript Style",
+                        "description": "Conjunto de convenciones y estilos recomendados para escribir código JavaScript limpio y legible.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1501.js"
+                    },
+                    {
+                        "id": 1502,
+                        "title": "SOLID Principles",
+                        "description": "Conjunto de principios para escribir código que sea mantenible, escalable y fácil de entender.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1502.js"
+                    },
+                    {
+                        "id": 1503,
+                        "title": "DRY (Don't Repeat Yourself)",
+                        "description": "Principio que recomienda evitar la duplicación de código para mejorar la mantenibilidad.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1503.js"
+                    },
+                    {
+                        "id": 1504,
+                        "title": "KISS (Keep It Simple, Stupid)",
+                        "description": "Principio que sugiere mantener el código simple y directo, evitando la complejidad innecesaria.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1504.js"
+                    },
+                    {
+                        "id": 1505,
+                        "title": "YAGNI (You Ain’t Gonna Need It)",
+                        "description": "Principio que recomienda no implementar características innecesarias hasta que sean realmente necesarias.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1505.js"
+                    },
+                    {
+                        "id": 1601,
+                        "title": "Unit Testing",
+                        "description": "Escritura de pruebas automatizadas para verificar funcionalidades específicas de manera aislada.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/tree/main/1601"
+                    },
+                    {
+                        "id": 1602,
+                        "title": "Integration Testing",
+                        "description": "Pruebas que evalúan cómo interactúan diferentes componentes del sistema entre sí.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/tree/main/1602"
+                    },
+                    {
+                        "id": 1603,
+                        "title": "End-to-End Testing",
+                        "description": "Pruebas que simulan el flujo completo de una aplicación para asegurar su correcto funcionamiento desde el principio hasta el fin.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/tree/main/1603"
+                    },
+                    {
+                        "id": 1604,
+                        "title": "Mocking is a Code Smell",
+                        "description": "Evitar el uso excesivo de mocks en las pruebas, ya que puede ser un indicador de un diseño débil.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/tree/main/1604"
+                    },
+                    {
+                        "id": 1605,
+                        "title": "Code Coverage",
+                        "description": "Métrica que indica qué porcentaje del código ha sido ejecutado por las pruebas automatizadas.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/tree/main/1605"
+                    },
+                    {
+                        "id": 1701,
+                        "title": "NPM (Node Package Manager)",
+                        "description": "Herramienta para gestionar paquetes y dependencias en proyectos JavaScript.",
+                        "repository_url": "https://github.com/diegoreynoso11/Estructura-js/blob/main/1701.md"
                     }
                     ]
                 }

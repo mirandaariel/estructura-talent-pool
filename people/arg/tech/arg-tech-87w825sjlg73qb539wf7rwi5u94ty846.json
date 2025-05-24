@@ -1,0 +1,91 @@
+{
+    "personal_info": {
+        "first_name": "Santiago",
+        "last_name": "Bruno",
+        "email": "soysantiagobruno@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/santiago-bruno",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy estudiante de Ingeniería en Sistemas en UTN y me especializo en desarrollo web y creación de API RESTful. Soy una persona ordenada, proactiva y orientada a objetivos, con un fuerte enfoque en el trabajo basado en proyectos que me permitan crecer y adquirir experiencia profesional."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas de Información",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en construcciones edilicias",
+            "institution": "Escuela Ejército de Los Andes",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Inglés B2",
+            "institution": "Instituto Santísima Trinidad",
+            "location": "",
+            "start_date": "2011-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["java", "spring-boot", "hibernate", "maven", "mysql", "angular", "typescript", "bootstrap", "html/css"],
+            "soft": [],
+            "tools": ["git", "postman", "linux-command-line", "scrum"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Lazzo",
+            "description": "Web app para la adopción de mascotas en situación de calle. La app se realizo en un equipo multidisciplinario siguiendo la metodología ágil Scrum. Desarrollo del frontend utilizando los frameworks Angular y Bootstrap realizando los componentes de acuerdo a lo pedido por el diseñador UX/UI e incorporación de Firefoxe para el backend.",
+            "technologies": ["angular", "bootstrap", "scrum"],
+            "url": ""
+        },
+        {
+            "name": "Consumo API fintech",
+            "description": "Desarrollo de una aplicación Front-End en Angular que consume la API de saldo.com.ar para mostrar la tasa de convertibilidad entre diversas divisas.",
+            "technologies": ["angular"],
+            "url": ""
+        },
+        {
+            "name": "Generador de cartas con IA",
+            "description": "Desarrollo de una aplicación web con Spring Boot para poner en práctica la implementación del consumo de APIs. Para la misma se usaron las apis de OpenAI (texto) y EdenAI (imagen).",
+            "technologies": ["spring-boot", "openai", "edenai"],
+            "url": ""
+        },
+        {
+            "name": "Alojamientos turísticos",
+            "description": "Web para la visualización y registro de alojamientos turísticos (CRUD). La aplicación utiliza el framework Spring MVC. Para el front end use el motor de plantillas Thymeleaf y para la base de datos use MySQL.",
+            "technologies": ["spring-mvc", "thymeleaf", "mysql"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,133 @@
+{
+    "personal_info": {
+        "first_name": "José",
+        "last_name": "Ake",
+        "email": "ake03861@gmail.com",
+        "phone": "+529993322286",
+        "location": {
+            "country": "Mexico",
+            "city": "Mérida",
+            "state": "Yucatán"
+        },
+        "linkedin": "https://www.linkedin.com/in/joseguadalupeakesanchez",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero en Mecatrónica con un gran interés por el desarrollo backend y las tecnologías relacionadas. Experiencia en JAVA y programación orientada a objetos, aplicando herencia y polimorfismo. Capacidad de adaptación y aprendizaje, comprometido con buenas prácticas de desarrollo, como escribir código limpio y estructurado. Busco integrarme a un equipo para contribuir, aprender y adquirir experiencia en el desarrollo de soluciones significativas."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Ingeniería Mecatrónica",
+            "institution": "Universidad Tecnológica Metropolitana",
+            "location": "Mérida, Yucatán",
+            "start_date": "2021-09-01",
+            "end_date": "2025-04-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "java",
+                "c#",
+                "c++",
+                "html",
+                "css",
+                "transact-sql"
+            ],
+            "soft": [
+                "adaptación",
+                "aprendizaje",
+                "colaboración",
+                "gestión-de-proyectos"
+            ],
+            "tools": [
+                "intellij",
+                "visual-studio",
+                "netbeans",
+                "sql-server-management-studio"
+            ]
+        },
+        "detailed": {
+            "technical": {
+                "java": [
+                    {
+                        "name": "Programación Orientada a Objetos",
+                        "repository_url": ""
+                    },
+                    {
+                        "name": "Herencia y Polimorfismo",
+                        "repository_url": ""
+                    }
+                ],
+                "javascript": []
+            },
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Curso de Java (POO)",
+            "issuing_organization": "",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Redes",
+            "issuing_organization": "",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de HTML y CSS",
+            "issuing_organization": "",
+            "issue_date": "2020-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Javascript",
+            "issuing_organization": "",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Base de Datos",
+            "description": "Migración de Base de Datos Consultas mediante PLC usando Visual Basic y Transact-SQL",
+            "technologies": [
+                "Visual Basic",
+                "Transact-SQL"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Web To do list",
+            "description": "Animaciones mediante CSS y Javascript. Uso del LocalStorage del navegador",
+            "technologies": [
+                "CSS",
+                "Javascript",
+                "LocalStorage"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        },
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

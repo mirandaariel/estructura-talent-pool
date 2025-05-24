@@ -1,0 +1,104 @@
+{
+    "personal_info": {
+        "first_name": "Jhon Freddy",
+        "last_name": "Ramírez Alban",
+        "email": "jhon.alban23@outlook.com",
+        "phone": "+57 3157217123",
+        "location": {
+            "country": "Colombia",
+            "city": "Cali",
+            "state": "Valle"
+        },
+        "linkedin": "https://linkedin.com/in/jhonramirezalban",
+        "website": "",
+        "portfolio": "",
+        "summary": "Analista desarrollador de software e2e con experiencia de 1 año y 5 meses en el diseño e implementación de soluciones digitales integrales. Capacidad de resolución de conflictos. Fomento del trabajo en equipo, siendo especialmente sensible a las necesidades de los stakeholders y usuarios. Solución rápida de problemas y gran capacidad de integración de tecnologías emergentes en proyectos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador de Software",
+            "company": "Gati Consultores SAS",
+            "location": "",
+            "start_date": "2023-09-15",
+            "end_date": "2025-02-20",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de aplicaciones web orientadas al análisis, gestión y manipulación de datos en laravel y node.js, mejorando la calidad del código mediante prácticas SOLID.",
+                "Creación de interfaces en Angular y Next.js, optimizadas para ofrecer una experiencia rápida e intuitiva.",
+                "Integración de APIs desarrolladas en Python para aplicaciones con inteligencia artificial, optimizando la visualización de consultas y prompts del usuario.",
+                "Conexión y sincronización de consultas en bases de datos MySQL, Oracle y PostgreSQL, garantizando el flujo eficiente de información entre sistemas.",
+                "Presentación de datos mediante gráficos interactivos, ajustados al rol de cada usuario y con enfoque UX.",
+                "Gestión del control de versiones con Git, utilizando Bitbucket y Gitlab, y despliegue continuo a través de pipelines CI/CD.",
+                "Participación activa en equipos ágiles bajo metodología Scrum, colaborando en la planificación, desarrollo y entrega de funcionalidades."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Análisis y Desarrollo de Software",
+            "institution": "Servicio Nacional de Aprendizaje SENA",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "php",
+                "node.js",
+                "angular",
+                "react",
+                "typescript",
+                "sql",
+                "nosql",
+                "git",
+                "gitlab",
+                "github-pages",
+                "azure-cloud"
+            ],
+            "soft": [
+                "pensamiento-analítico",
+                "resolución-de-problemas",
+                "liderazgo",
+                "trabajo-en-equipo",
+                "comunicación"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Artificial Intelligence Fundamentals",
+            "issuing_organization": "IBM",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Introduction to Azure Cloud Services",
+            "issuing_organization": "Microsoft & Coursera",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Pablo César Velasco Góngora",
+            "relationship": "Gerente Operativo y Comercial",
+            "contact": "+573207829335"
+        }
+    ]
+}

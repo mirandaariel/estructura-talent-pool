@@ -1,0 +1,152 @@
+{
+    "personal_info": {
+        "first_name": "Ignacio",
+        "last_name": "Collado",
+        "email": "ignaciocollado@hotmail.com",
+        "phone": "+54 93413491543",
+        "location": {
+            "country": "Argentina",
+            "city": "Rosario",
+            "state": "Santa Fe"
+        },
+        "linkedin": "https://www.linkedin.com/in/ignacio-collado1/",
+        "website": "",
+        "portfolio": "https://github.com/TatooCollado",
+        "summary": "Soy un desarrollador con sólida formación en tecnologías back-end, apasionado por la resolución de problemas y la construcción de soluciones eficientes."
+    },
+    "work_experience": [
+        {
+            "job_title": "Monotributista",
+            "company": "Mensajería freelance",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Encargado",
+            "company": "Davis Rosario",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Coordinación cocina-salón",
+                "Dirección de eventos",
+                "Pagos a personal, diarios y mensuales"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Encargado y jefe de servicio",
+            "company": "Ceviche Rosario",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Manejo de personal, cocina y salón",
+                "Coordinación cocina con barra de sushi",
+                "Manejo de caja, cobros",
+                "Capacitación del personal"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Encargado y jefe de servicio",
+            "company": "Dashi Sushi Rosario",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2018-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Manejo de personal, cocina y salón",
+                "Coordinación cocina con barra de sushi",
+                "Manejo de caja, cobros",
+                "Capacitación del personal"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "c",
+                "c++",
+                "html",
+                "css",
+                "javaScript",
+                "spring-boot",
+                "hibernate",
+                "jpa0",
+                "mysql",
+                "sql",
+                "html5",
+                "bootstrap",
+                "linux",
+                "windows",
+                "virtualización",
+                "contenedores",
+                "bash-scripting"
+            ],
+            "soft": [],
+            "tools": [
+                "maven",
+                "git"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Programación desde Cero",
+            "issuing_organization": "Egg Cooperation",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Java Backend 1 y 2",
+            "issuing_organization": "Egg Cooperation",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Sistema de Gestión de Tareas",
+            "description": "Implementación de un sistema CRUD para la gestión de tareas utilizando Spring Boot.",
+            "technologies": [
+                "Java",
+                "Spring Boot",
+                "MySQL"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
