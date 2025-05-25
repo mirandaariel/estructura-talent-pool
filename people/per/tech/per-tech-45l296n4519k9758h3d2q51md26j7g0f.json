@@ -1,0 +1,219 @@
+{
+  "personal_info": {
+    "first_name": "Miriam",
+    "last_name": "Bautista Torres",
+    "email": "miriambt678@gmail.com",
+    "phone": "+51 981667690",
+    "location": {
+      "country": "Peru",
+      "city": "Lima",
+      "state": ""
+    },
+    "linkedin": "",
+    "website": "",
+    "portfolio": "",
+    "summary": "Full Stack Developer con especialización en Backend y APIs escalables. Desarrolladora con experiencia en Java, JavaScript, TypeScript, Node.js y NestJS, enfocada en la creación de APIs RESTful seguras y optimizadas. Manejo avanzado de PostgreSQL y MongoDB, con integración de autenticación mediante JWT y OAuth."
+  },
+  "work_experience": [
+    {
+      "job_title": "Especialista en Automatización y Optimización de Procesos",
+      "company": "Liquor Store | Francachela",
+      "location": "",
+      "start_date": "2020-08-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Reduje errores manuales en un 20% mediante la automatización de procesos de inventario.",
+        "Diseñé dashboards interactivos con análisis de datos para ventas, aumentando la rentabilidad en 10% anual."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Inversionista en la bolsa de valores | Popular Investor",
+      "company": "Etor",
+      "location": "",
+      "start_date": "2023-08-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Automaticé estrategias de inversión, logrando un retorno del 50% en 2024 mediante análisis de datos."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Educadora Bilingüe",
+      "company": "I.E San Benito de Palermo",
+      "location": "",
+      "start_date": "2018-03-01",
+      "end_date": "2019-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Diseñé planes de enseñanza con herramientas digitales interactivas, mejorando la comprensión del idioma en un 30% en seis meses."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Full Stack Web Developer",
+      "institution": "Henry Bootcamp",
+      "location": "",
+      "start_date": "2024-07-01",
+      "end_date": "2025-03-31",
+      "hours": 0
+    },
+    {
+      "degree": "Certificación en Desarrollo Web Full Stack",
+      "institution": "FreeCodeCamp",
+      "location": "",
+      "start_date": "2022-01-01",
+      "end_date": "2023-05-31",
+      "hours": 0
+    },
+    {
+      "degree": "Frontend Development Training",
+      "institution": "Además",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Licenciatura de Comercio Internacional",
+      "institution": "ISIL",
+      "location": "",
+      "start_date": "2019-03-01",
+      "end_date": "2021-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "English Language Acquisition and Teacher Education",
+      "institution": "Científica del Sur",
+      "location": "",
+      "start_date": "2017-01-01",
+      "end_date": "2017-07-31",
+      "hours": 0
+    },
+    {
+      "degree": "Inglés como lengua extranjera",
+      "institution": "ICPNA",
+      "location": "",
+      "start_date": "2012-01-01",
+      "end_date": "2015-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "java",
+        "c-++",
+        "javascript",
+        "typescript",
+        "nestjs",
+        "express",
+        "node.js",
+        "react",
+        "bootstrap",
+        "tailwind-css",
+        "postgresql",
+        "typeorm",
+        "mongodb",
+        "mongoose",
+        "jwt",
+        "bcrypt",
+        "oauth",
+        "jasmine",
+        "jest",
+        "swagger"
+      ],
+      "soft": [
+        "agile-methodologies",
+        "scrum",
+        "kanban"
+      ],
+      "tools": [
+        "git",
+        "github",
+        "slack",
+        "docker",
+        "ci/cd",
+        "thunderclient",
+        "postman"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {},
+      "tools": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Sistema de Gestión de Reparaciones de Equipos Móviles",
+      "description": "Diseñamos e implementamos una API RESTful escalable con NestJS y PostgreSQL, integrando autenticación segura con JWT y OAuth.",
+      "technologies": [
+        "TypeScript",
+        "NestJS",
+        "PostgreSQL",
+        "TypeORM",
+        "React",
+        "Tailwind CSS",
+        "WebSockets",
+        "OAuth",
+        "Cloud Storage",
+        "Nodemailer",
+        "JobCrons"
+      ],
+      "url": ""
+    },
+    {
+      "name": "API REST ECOMMERCE",
+      "description": "Diseñé e implementé una API RESTful optimizada, permitiendo operaciones CRUD eficientes en la gestión de productos y pedidos.",
+      "technologies": [
+        "JavaScript",
+        "TypeScript",
+        "NestJS",
+        "Express",
+        "Node.js",
+        "React",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "url": ""
+    },
+    {
+      "name": "APP de Gestión de Turnos con PostgreSQL",
+      "description": "Implementé un sistema de autenticación seguro con JWT y cifrado de contraseñas con bcrypt.",
+      "technologies": [
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "TypeORM",
+        "JWT",
+        "React"
+      ],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Intermediate"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

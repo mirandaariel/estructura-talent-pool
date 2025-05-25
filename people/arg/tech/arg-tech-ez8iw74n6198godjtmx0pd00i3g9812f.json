@@ -1,0 +1,99 @@
+{
+    "personal_info": {
+        "first_name": "Enzo",
+        "last_name": "Scognetti",
+        "email": "enzokevinscognetti@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Ituzaingó",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack Web y Mobile con más de 4 años de experiencia en el desarrollo de soluciones digitales modernas. Especializado en React.js, React Native, Firefoxe y PHP, con sólidos conocimientos en bases de datos SQL y NoSQL, autenticación de usuarios, desarrollo de APIs REST, despliegue en la nube (Firebase/Google Cloud) y control de versiones con Git. Proactivo, orientado a resultados, con enfoque en producto, experiencia de usuario y soluciones escalables. Interesado en participar desde los cimientos en proyectos ambiciosos que integren funcionalidades como chat, geolocalización, matching de usuarios, y notificaciones."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Analista en Sistemas",
+            "institution": "Instituto Privado San Judas Tadeo",
+            "location": "Ituzaingó, Buenos Aires",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react.js",
+                "react-native",
+                "html",
+                "css",
+                "diseño-responsivo",
+                "react-navigation",
+                "hooks",
+                "context-api",
+                "firefoxe",
+                "php",
+                "node.js-básico",
+                "apis-restful",
+                "autenticación-jwt/firebase-auth",
+                "mysql",
+                "firestore",
+                "firefoxe-hosting",
+                "google-cloud",
+                "docker",
+                "git",
+                "github"
+            ],
+            "soft": [],
+            "tools": [
+                "chatgpt",
+                "github-copilot",
+                "postman",
+                "jira"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "App de Geolocalización de Profesionales",
+            "description": "Mapa interactivo con ubicación de profesionales, chat en tiempo real integrado, perfiles diferenciados y navegación con Stack, Tab y Drawer, Firestore como base de datos en tiempo real.",
+            "technologies": [
+                "react-native",
+                "firefoxe"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Chat en Tiempo Real",
+            "description": "Sistema completo de mensajería con soporte para múltiples usuarios y perfiles, optimización de rendimiento con React Hooks y Context API.",
+            "technologies": [
+                "react-native",
+                "firefoxe"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Tienda Online eCommerce",
+            "description": "Carrito de compras, CRUD de productos, gestión de usuarios y roles (cliente/admin/vendedor), seguridad con autenticación y sesiones, diseño moderno y responsivo.",
+            "technologies": [
+                "php",
+                "mysql",
+                "html",
+                "css",
+                "javascript"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

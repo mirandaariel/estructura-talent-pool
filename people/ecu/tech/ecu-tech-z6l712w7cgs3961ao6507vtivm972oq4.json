@@ -1,0 +1,165 @@
+{
+    "personal_info": {
+        "first_name": "Nicolás",
+        "last_name": "Toscano Guzmán",
+        "email": "nicolastoscano1@hotmail.com",
+        "phone": "+593 969050965",
+        "location": {
+            "country": "Ecuador",
+            "city": "Quito",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/nicotoscano",
+        "website": "",
+        "portfolio": "",
+        "summary": "Me considero una persona trabajadora y respetuosa, con la capacidad de mantener un ambiente laboral positivo y colaborativo. Mi puntualidad y honestidad son valores fundamentales que guían mi desempeño profesional, respaldados por una responsabilidad que se refleja en mi diligencia y enfoque en cada tarea asignada. Estoy comprometido a contribuir de manera significativa en cualquier entorno laboral, aportando no solo habilidades técnicas, sino también una actitud proactiva y positiva."
+    },
+    "work_experience": [
+        {
+            "job_title": "Pasante de tecnología",
+            "company": "Tatoo Adventure Gear S.A.",
+            "location": "Quito, Ecuador",
+            "start_date": "2024-05-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Ayudé a desarrollar el módulo de marcas para el portal web de administración, optimizando la funcionalidad y experiencia del usuario.",
+                "Realicé diversas actividades relacionadas con la administración y mantenimiento del portal web corporativo.",
+                "Brindé soporte técnico a usuarios, resolviendo incidencias y garantizando la continuidad operativa.",
+                "Ejecuté tareas de mantenimiento preventivo y correctivo en equipos de cómputo, asegurando su óptimo funcionamiento."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ingeniero de desarrollo",
+            "company": "Ecuadorian Software ESOFT",
+            "location": "Quito, Ecuador",
+            "start_date": "2024-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de funcionalidades backend con .NET.",
+                "Implementación y mantenimiento de componentes frontend.",
+                "Pruebas de calidad (QA) en el software desarrollado por el equipo.",
+                "Colaboración en la optimización y mejora del código existente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachillerato en Ciencias",
+            "institution": "Unidad Educativa Municipal Eugenio Espejo",
+            "location": "Quito, Ecuador",
+            "start_date": "2015-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniero de Software",
+            "institution": "Escuela Politécnica Nacional",
+            "location": "Quito, Ecuador",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c++",
+                "java",
+                "scrum",
+                "html",
+                "css",
+                "javascript",
+                "tailwind",
+                "react",
+                "astro",
+                "sql"
+            ],
+            "soft": [],
+            "tools": [
+                "github",
+                "git",
+                "office"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Certificado de Introducción al Desarrollo Web",
+            "issuing_organization": "",
+            "issue_date": "2024-04-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificado de Bases de GIT, GITHUB",
+            "issuing_organization": "",
+            "issue_date": "2023-12-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificado de Programa de Comercio Exterior: Negociando con el mundo",
+            "issuing_organization": "",
+            "issue_date": "2023-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificado Inclusión Digital",
+            "issuing_organization": "",
+            "issue_date": "2022-08-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Academic Two Ciclo 32022",
+            "issuing_organization": "",
+            "issue_date": "2022-08-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificado de Fundamentos Informáticos",
+            "issuing_organization": "",
+            "issue_date": "2020-06-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Instructor en Herramientas Digitales para la Educación",
+            "organization": "Proyecto de Inclusión Digital - Alfabetización Informática",
+            "location": "Quito, Ecuador",
+            "start_date": "2022-05-01",
+            "end_date": "2022-08-31",
+            "responsibilities": [
+                "Compartí mis conocimientos sobre diversas herramientas digitales con el objetivo de fortalecer las habilidades tecnológicas de los docentes.",
+                "Impartir sesiones formativas enfocadas en el uso eficiente de plataformas como Zoom, Jitsi, Teams, Quizziz, Educandy, Google Forms, Genially, PowerPoint, Google Classroom, Edmodo, Google Drive, Gmail y Google Docs."
+            ]
+        }
+    ],
+    "publications": [],
+    "references": []
+}

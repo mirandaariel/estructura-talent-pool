@@ -1,0 +1,146 @@
+{
+    "personal_info": {
+        "first_name": "Kelvin",
+        "last_name": "Rodriguez",
+        "email": "kelvinrodriguez1409@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/kelvin-rodriguez-230188274",
+        "website": "",
+        "portfolio": "https://chic-pathos-h8b75e.netlify.app",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Vendedor",
+            "company": "Vodafone",
+            "location": "España",
+            "start_date": "2019-01-01",
+            "end_date": "2019-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestioné ventas de servicios de internet y telefonía",
+                "Proporcioné asesoramiento personalizado a los clientes",
+                "Utilicé herramientas CRM para realizar seguimientos",
+                "Realicé demostraciones de productos y resolví dudas"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Captación de clientes",
+            "company": "Coast to Coast Motors",
+            "location": "Houston, Texas, Estados Unidos",
+            "start_date": "2020-11-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Identifiqué y contacté a clientes potenciales",
+                "Agendé citas para los clientes interesados en ver los autos",
+                "Realicé un seguimiento proactivo"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollador web Full-Stack",
+            "institution": "Academlo",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-05-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Electrónica",
+            "institution": "UNEXPO Barquisimeto",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "node.js",
+                "express",
+                "sql",
+                "git",
+                "tailwind",
+                "sass",
+                "react"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Ecommerce",
+            "description": "Una tienda en línea especializada en comercio electronico",
+            "technologies": [
+                "react",
+                "node",
+                "express.js",
+                "sequelize",
+                "postgreSQL",
+                "html",
+                "css",
+                "javascript"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Clon de Instagram",
+            "description": "Clon de Instagram con todas sus funcionalidades",
+            "technologies": [
+                "react",
+                "html",
+                "css",
+                "javascript",
+                "node.js",
+                "express.js",
+                "sequelize",
+                "postgreSQL"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Aplicación del clima",
+            "description": "Sirve para obtener los datos del clima de cada estado del mundo",
+            "technologies": [
+                "react",
+                "html",
+                "css",
+                "javascript"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "A2"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,130 @@
+{
+    "personal_info": {
+        "first_name": "Angie Natalia",
+        "last_name": "Molina Cabal",
+        "email": "angiecabal35@gmail.com",
+        "phone": "+57 3116018278",
+        "location": {
+            "country": "Colombia",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "LinkedIn",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrolladora de software e Ingeniera Biomédica con experiencia en desarrollo web y conocimientos en lenguajes como PHP, JavaScript, Python y frameworks como Vue.js, Bootstrap, y Laravel. Dentro de mis intereses se encuentra el desarrollo de aplicaciones y juegos, es por ello que me encuentro aprendiendo actualmente Unity y C# para ampliar mis habilidades. Destaco mi capacidad de comunicación asertiva, capacidad analítica, creatividad y gestión del tiempo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack Junior",
+            "company": "TICKMAKERS",
+            "location": "",
+            "start_date": "2021-12-01",
+            "end_date": "2023-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Optimicé bases de datos SQL, reduciendo los tiempos de consulta en 60% mediante la normalización y uso de índices eficientes.",
+                "Desarrollé y mantuve APIs RESTful en PHP (Laravel), mejorando la eficiencia del backend en 35% y asegurando escalabilidad.",
+                "Implementé mejoras en el frontend con JavaScript (Vue.js / React), optimizando la experiencia del usuario y reduciendo los tiempos de carga en 40%.",
+                "Automaticé procesos internos con scripts en Python, reduciendo la carga operativa del equipo en 30%.",
+                "Colaboré en equipos ágiles (Scrum), mejorando la coordinación interdepartamental en 45% y optimizando los tiempos de entrega."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Training",
+            "company": "AgSoftware",
+            "location": "",
+            "start_date": "2021-04-01",
+            "end_date": "2021-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé aplicaciones web en Java (Spring Boot), mejorando el rendimiento del backend con prácticas de código limpio y escalable.",
+                "Diseñé interfaces de usuario en Vue.js y React, implementando principios de UX/UI para mejorar la usabilidad en un 25%.",
+                "Contribuí en la creación de microservicios en PHP y Python, optimizando la integración y comunicación entre sistemas.",
+                "Participé en pruebas y debugging con herramientas como Postman y Jest, asegurando la calidad y estabilidad del software antes del despliegue."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollador Unity Junior",
+            "institution": "Generation",
+            "location": "Colombia",
+            "start_date": "2024-04-01",
+            "end_date": "2024-09-30",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnología en Desarrollo de Software",
+            "institution": "SENA",
+            "location": "Colombia",
+            "start_date": "2024-07-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Dimplomado en Desarrollo de Software",
+            "institution": "Universidad del Norte",
+            "location": "Barranquilla, Colombia",
+            "start_date": "2021-01-01",
+            "end_date": "2021-10-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Biomédica",
+            "institution": "UAO",
+            "location": "Cali, Colombia",
+            "start_date": "2014-06-01",
+            "end_date": "2021-07-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "php",
+                "javascript",
+                "python",
+                "vue.js",
+                "bootstrap",
+                "laravel",
+                "c#",
+                "unity"
+            ],
+            "soft": [
+                "comunicación",
+                "creatividad",
+                "capacidad-analítica",
+                "gestión-del-tiempo"
+            ],
+            "tools": [
+                "postman",
+                "jest",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

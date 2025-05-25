@@ -1,0 +1,104 @@
+{
+    "personal_info": {
+        "first_name": "Alexmary",
+        "last_name": "Rangel Jiménez",
+        "email": "alexmaryrangel@gmail.com",
+        "phone": "611606181",
+        "location": {
+            "country": "España",
+            "city": "Madrid",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Developer Web Junior en transición desde el sector logístico, con experiencia previa en Amazon. Apasionada por la tecnología y la resolución de problemas, actualmente busco incorporarme al mundo IT como desarrolladora web. Cuento con formación práctica en desarrollo full stack, dominio de tecnologías como HTML, CSS, JavaScript, React, Node.js y SQL, y experiencia en metodologías ágiles como Scrum, documentación y organización con Notion, y control de versiones con Git y GitHub. Me destaco por mi capacidad de adaptación, compromiso con las buenas prácticas y enfoque en construir aplicaciones escalables y robustas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Problem Solver - Support Operations",
+            "company": "Amazon",
+            "location": "",
+            "start_date": "2020-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Proporcióno soporte en el area de operaciones, resolución de problemas con artículos y proveedores, entrada y gestión de mercancía.",
+                "Mejoré la eficiencia en las operaciones diarias."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certificación en Desarrollo Web Full Stack",
+            "institution": "Hack A Boss",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2025-03-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css",
+                "javascript",
+                "react",
+                "tailwind",
+                "astro",
+                "node.js",
+                "express",
+                "sql",
+                "git"
+            ],
+            "soft": [
+                "comunicación-efectiva",
+                "atención-al-detalle",
+                "resolución-de-problemas",
+                "adaptabilidad",
+                "trabajo-en-equipo"
+            ],
+            "tools": [
+                "github",
+                "notion",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Portafolio web profesional",
+            "description": "Construí una SPA (Single Page Application) responsive usando Astro y Tailwind CSS. Implemente un menú accesible y una sección de contacto funcional. Organicé los proyectos con componentes reutilizables y optimización semántica.",
+            "technologies": ["astro", "tailwind"],
+            "url": ""
+        },
+        {
+            "name": "Plataforma Disco Duro Online Hackloud",
+            "description": "Desarrollé la interfaz de usuario con React y Tailwind (Frontend), optimizada para móviles. Implementé parte de la lógica del servidor usando Node.js y Express (Backend) para gestionar tareas y usuarios. Diseñé e integré una base de datos en SQL para almacenar información en tiempo real. Apliqué principios de UI/UX para mejorar la experiencia de usuario.",
+            "technologies": ["react", "node.js", "express", "sql", "tailwind"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
