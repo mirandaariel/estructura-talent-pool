@@ -1,0 +1,98 @@
+{
+    "personal_info": {
+        "first_name": "Pedro",
+        "last_name": "Vilamitjana",
+        "email": "Pedrovilamitjana98@gmail.com",
+        "phone": "+5491150211311",
+        "location": {
+            "country": "Argentina",
+            "city": "San Andrés",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "https://github.com/peter-vilamitjana",
+        "portfolio": "",
+        "summary": "Full Stack Web Developer with experience in scalable application development and process optimization. Specialized in technologies such as React, Node.js, Express.js. Passionate about problem-solving and enhancing web application performance."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Bachelor of Engineering (BE) in Computer Engineering",
+            "institution": "Universidad de Belgrano",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react.js",
+                "next.js",
+                "node.js",
+                "express.js",
+                "mongodb",
+                "agile",
+                "mvc",
+                "restful-apis"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "pyqt5",
+                "uml"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [
+        {
+            "name": "Full Stack Engineer Certificate",
+            "issuing_organization": "Educacion IT",
+            "issue_date": "2022-11-01",
+            "expiration_date": "2023-08-31",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Full Stack Integration Project",
+            "description": "Built a scalable Node.js and Express.js API, optimizing queries and supporting in-memory, file-based, and MongoDB storage. Developed a responsive UI with HTML, CSS, and JavaScript, enabling seamless product management.",
+            "technologies": [
+                "node.js",
+                "express.js",
+                "mongodb",
+                "html",
+                "css",
+                "javascript"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Product Management System (Java)",
+            "description": "Built an inventory management application in Java using MVC architecture, enabling seamless Excel data manipulation. Implemented advanced search and price adjustment features, reducing errors by 40%.",
+            "technologies": [
+                "java",
+                "apache-poi",
+                "mvc"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Spotify Artist Search Application",
+            "description": "Developed a GUI application using PyQt5, optimizing user experience with an interactive design. Integrated the Spotify API to fetch real-time artist data.",
+            "technologies": [
+                "python",
+                "pyqt5",
+                "spotify-api"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

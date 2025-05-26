@@ -1,0 +1,93 @@
+{
+    "personal_info": {
+        "first_name": "Manuel Alejandro",
+        "last_name": "Aguilar Rivas",
+        "email": "manu.ale.agui.rivas@gmail.com",
+        "phone": "+58 412 0985516",
+        "location": {
+            "country": "Venezuela",
+            "city": "Caracas",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/manuel-aguilar",
+        "website": "",
+        "portfolio": "",
+        "summary": "Actualmente, formo parte de un equipo de alto rendimiento dedicado al desarrollo de un sistema basado en arquitectura de micro-servicios utilizando NextJS, con la gestión de múltiples conexiones a bases de datos. Con experiencia previa en Tranred, desarrollé endpoints en Express (Node.js), integrando APIs bancarias para el manejo de una wallet electrónica. Apasionado por el desarrollo de videojuegos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "Consejo Federal de Gobierno (CFG)",
+            "location": "Caracas, Venezuela",
+            "start_date": "2024-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñé y desarrollé múltiples endpoints en NestJS, implementando flujos lógicos complejos requeridos por la institución.",
+                "Implementé conexiones a bases de datos SQL (PostgreSQL) y NoSQL (MongoDB).",
+                "Integré los endpoints desarrollados con el API Gateway.",
+                "Gestioné despliegues en el servidor QA, utilizando Git, GitHub, GitLab para control de versiones y PM2.",
+                "Participé activamente en la definición de flujos y soluciones del sistema."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Backend Pasante",
+            "company": "Tranred",
+            "location": "Caracas, Venezuela",
+            "start_date": "2023-08-01",
+            "end_date": "2023-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Integré APIs bancarias para gestionar transacciones en una wallet electrónica interna.",
+                "Refactoricé y optimicé endpoints sobrecargados, aplicando los principios SOLID."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Informática",
+            "institution": "Universidad Católica Andrés Bello",
+            "location": "Caracas, Venezuela",
+            "start_date": "",
+            "end_date": "2024-05-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "node.js",
+                ".net",
+                "nextjs",
+                "sql",
+                "postgressql",
+                "mongodb"
+            ],
+            "soft": [
+                "aprendizaje-continuo"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "gitlab",
+                "pm2"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -74,7 +74,46 @@
             ]
         },
         "detailed": {
-            "technical": {},
+            "technical": {
+                "javaScript": [
+                    {
+                        "id": 1001,
+                        "title": "Variables and Data Types",
+                        "description": "Declaración de variables usando var, let y const, y comprensión de tipos primitivos y objetos.",
+                        "repository_url": "https://github.com/guilleAlvarenga/javascript_core_concepts/blob/main/Variables_and_Data_Types.js"
+                    },
+                    {
+                        "id": 1002,
+                        "title": "Control Flow",
+                        "description": "Uso de instrucciones condicionales y bucles (if, else, switch, for, while).",
+                        "repository_url": "https://github.com/guilleAlvarenga/javascript_core_concepts/blob/main/08-conditionals.js"
+                    },
+                    {
+                        "id": 1003,
+                        "title": "Functions",
+                        "description": "Declaración y uso de funciones en JavaScript, incluyendo funciones anónimas y de flecha.",
+                        "repository_url": "https://github.com/guilleAlvarenga/javascript_core_concepts/blob/main/16-funciones.js"
+                    },
+                    {
+                        "id": 1008,
+                        "title": "Error Handling and Exceptions",
+                        "description": "Captura y manejo de errores usando try, catch y finally.",
+                        "repository_url": "https://github.com/guilleAlvarenga/javascript_core_concepts/blob/main/24-error-handling.js"
+                    },
+                    {
+                        "id": 1101,
+                        "title": "Objects and Properties",
+                        "description": "Creación y manipulación de objetos, así como el acceso a sus propiedades.",
+                        "repository_url": "https://github.com/guilleAlvarenga/javascript_core_concepts/blob/main/18-objects.js"
+                    },
+                    {
+                        "id": 1103,
+                        "title": "Classes and Modern Syntax",
+                        "description": "Uso de las clases en JavaScript moderno con las palabras clave class, extends y super.",
+                        "repository_url": "https://github.com/guilleAlvarenga/javascript_core_concepts/blob/main/22-classes.js"
+                    }
+                ]
+            },
             "soft": {}
         }
     },

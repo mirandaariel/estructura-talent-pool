@@ -3,7 +3,7 @@
         "first_name": "Iván",
         "last_name": "Belasich",
         "email": "ivanbelasich@gmail.com",
-        "phone": "",
+        "phone": "+5493447543862",
         "location": {
             "country": "Argentina",
             "city": "",
@@ -12,21 +12,39 @@
         "linkedin": "https://linkedin.com/in/ivanbelasich",
         "website": "https://github.com/ivanbelasich",
         "portfolio": "",
-        "summary": "Desarrollador Full Stack con casi 2 años de experiencia en una startup fintech. Especializado en React, React Native, Node.js y TypeScript, con experiencia en desarrollo frontend y backend, integración con APIs, autenticación y despliegue en la nube."
+        "summary": "Desarrollador de Software orientado al frontend y con sólidos conocimientos en backend, con más de 2 años de experiencia en el rubro. Especializado en React, React Native, Node.js, TypeScript y testing con Jest y React Testing Library."
     },
     "work_experience": [
         {
             "job_title": "Full Stack Developer",
             "company": "Bigger",
-            "location": "",
+            "location": "Australia",
             "start_date": "2023-01-01",
-            "end_date": "",
-            "currently_working": true,
+            "end_date": "2024-11-29",
+            "currently_working": false,
             "responsibilities": [
                 "Desarrollo de billeteras blockchain y plataformas fintech.",
                 "Implementación de React, React Native, Node.js y Nest.js en distintos proyectos.",
                 "Integración con AWS Cognito, Docker y bases de datos SQL/NoSQL.",
                 "Participación en revisiones de código y metodologías Agile (Scrum)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "GranMenú",
+            "location": "Chile",
+            "start_date": "2025-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Migración de aplicaciones web a Vite.",
+                "Optimización de código para mejorar el rendimiento y la experiencia del usuario.",
+                "Implementación de nuevas funcionalidades y mejoras en la UI/UX.",
+                "Desarrollo de componentes reutilizables y estilos consistentes utilizando Tailwind CSS.",
+                "Implementación de Chat entre usuarios utilizando WebSockets.",
+                "Implementación de ordenamiento y filtrado de operaciones."
             ],
             "achievements": [],
             "repository_url": ""
@@ -40,6 +58,14 @@
             "start_date": "2016-01-01",
             "end_date": "2016-12-31",
             "hours": 0
+        },
+        {
+            "degree": "Desarrollador Fullstack",
+            "institution": "SoyHenry",
+            "location": "Argentina",
+            "start_date": "2021-03-01",
+            "end_date": "2021-08-31",
+            "hours": 800
         }
     ],
     "skills": {
@@ -53,16 +79,23 @@
                 "node.js",
                 "nest.js",
                 "express.js",
-                "postgresql"
+                "postgresql",
+                "jest",
+                "react-testing-library",
+                "tailwind"
             ],
-            "soft": [],
+            "soft": [
+                "proactive",
+                "team player",
+                "selftaught",
+                "detail-oriented",
+                "quick learner"
+            ],
             "tools": [
                 "docker",
                 "aws-cognito",
                 "git",
                 "github",
-                "jest",
-                "react-testing-library",
                 "postman",
                 "agile",
                 "scrum",
@@ -77,16 +110,57 @@
     "certifications": [],
     "projects": [
         {
-            "name": "Emigro (Billetera Blockchain)",
-            "description": "Creación de una billetera con soporte para pagos con QR, swaps de activos y balance en tiempo real.",
-            "technologies": ["React Native", "Node.js", "Nest.js", "AWS Cognito", "PostgreSQL"],
-            "url": "https://www.youtube.com/watch?v=nS8COzNxajc"
+            "name": "LongX",
+            "description": "Migración de proyecto desde create-react-app a Vite, mejoras en ux/ui utilizando diseño mobile-first, limpieza y organización de código, integración de chat entre 2 personas de una misma operación en tiempo real con WebSockets, filtrado y ordenamiento de operaciones.",
+            "technologies": [
+                "React",
+                "Javascript",
+                "TailwindCSS",
+                "Socket.io",
+                "Formik",
+                "Zustand",
+                "Yup",
+                "Vite"
+            ],
+            "url": "https://drive.google.com/file/d/1nExqDf4dINN_0rkP005YEcIt9nbv1-y9/view?usp=sharing"
         },
         {
             "name": "PlanetPay (Infraestructura financiera)",
-            "description": "Desarrollo del dashboard administrativo, carrito de compras, landing page y flujo KYB para validar clientes.",
-            "technologies": ["React", "TailwindCSS", "Node.js", "Nest.js", "PostgreSQL"],
+            "description": "Desarrollo del dashboard administrativo, carrito de compras, landing page y flujo KYB/KYC para validar empresas/clientes.",
+            "technologies": [
+                "React",
+                "Tailwind",
+                "Typescript",
+                "Node.js",
+                "Nest.js",
+                "PostgreSQL"
+            ],
             "url": "https://planetpay.io/"
+        },
+        {
+            "name": "PlanetPay White Label Wallet",
+            "description": "Desarrollo de una billetera con customización de interfaces para clientes con soporte para pagos, swaps de activos, autenticación segura, ingreso/egreso de dinero, balance de activos y transacciones en tiempo real.",
+            "technologies": [
+                "React Native",
+                "Tailwind",
+                "Typescript",
+                "AWS Cognito"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Emigro (Billetera Blockchain)",
+            "description": "Creación de una billetera con soporte para pagos con QR, swaps de activos, autenticación segura, ingreso/egreso de dinero, balance de activos y transacciones en tiempo real.",
+            "technologies": [
+                "React Native",
+                "Tailwind",
+                "Typescript",
+                "Node.js",
+                "Nest.js",
+                "AWS Cognito",
+                "PostgreSQL"
+            ],
+            "url": "https://www.youtube.com/watch?v=nS8COzNxajc"
         }
     ],
     "languages": [

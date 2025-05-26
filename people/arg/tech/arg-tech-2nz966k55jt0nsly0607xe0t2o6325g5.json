@@ -56,7 +56,22 @@
                 "github"
             ]
         },
-        "detailed": {}
+        "detailed": {
+            "technical": {
+            "javascript": [
+                {
+                    "id": 1001,
+                    "title": "Variables and Data Types",
+                    "repository_url": "https://github.com/ramiroSalv/javascript-skills/blob/main/tiposDatos.js"
+                },
+                {
+                    "id": 1002,
+                    "title": "Control Flow",
+                    "repository_url": "https://github.com/ramiroSalv/javascript-skills/blob/main/estructurasControl.js"
+                }
+            ]
+            }
+        }
     },
     "certifications": [],
     "projects": [

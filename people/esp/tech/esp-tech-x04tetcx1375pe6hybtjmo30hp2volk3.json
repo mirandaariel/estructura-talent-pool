@@ -1,0 +1,185 @@
+{
+    "personal_info": {
+        "first_name": "Natalia",
+        "last_name": "Ercolano",
+        "email": "ercolanonatalia@gmail.com",
+        "phone": "+34 623140713",
+        "location": {
+            "country": "España",
+            "city": "Málaga",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrolladora Fullstack Junior con formación intensiva en el bootcamp de Develhope donde participé en proyectos reales aplicando tecnologías como HTML, CSS, JavaScript, React y Node.js. Mi experiencia previa de más de ocho años en áreas administrativas y comerciales me brindó habilidades clave como la organización, la comunicación efectiva y el enfoque en resultados. Me destaco por ser proactiva, comprometida con el aprendizaje continuo y entusiasta del trabajo en equipo. Estoy buscando mi primera oportunidad en el sector IT para aportar valor desde el inicio y seguir consolidando mi carrera como desarrolladora web."
+    },
+    "work_experience": [
+        {
+            "job_title": "Asesora Inmobiliaria",
+            "company": "Home Hunters Costa del Sol",
+            "location": "Málaga",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención al cliente",
+                "Resolución de incidencias",
+                "Trabajo bajo presión",
+                "Gestión documental",
+                "Dominio de herramientas administrativas",
+                "Enfoque en resultados"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Asesora Comercial",
+            "company": "Miami Beach Alquiler",
+            "location": "Buenos Aires",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención al cliente",
+                "Resolución de incidencias",
+                "Trabajo bajo presión",
+                "Gestión documental",
+                "Dominio de herramientas administrativas",
+                "Enfoque en resultados"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Gestora Vehicular",
+            "company": "Registro Escobar 1",
+            "location": "Buenos Aires",
+            "start_date": "2017-01-01",
+            "end_date": "2020-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención al cliente",
+                "Resolución de incidencias",
+                "Trabajo bajo presión",
+                "Gestión documental",
+                "Dominio de herramientas administrativas",
+                "Enfoque en resultados"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista Nominas Contable",
+            "company": "Estudio Bissio y Asociados",
+            "location": "Buenos Aires",
+            "start_date": "2012-01-01",
+            "end_date": "2016-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención al cliente",
+                "Resolución de incidencias",
+                "Trabajo bajo presión",
+                "Gestión documental",
+                "Dominio de herramientas administrativas",
+                "Enfoque en resultados"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bootcamp Full Stack Web Developer",
+            "institution": "Develhope",
+            "location": "Remoto",
+            "start_date": "2024-03-01",
+            "end_date": "2024-10-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnica en Contabilidad Superior",
+            "institution": "Univ. Nacional de Luján",
+            "location": "Argentina",
+            "start_date": "2016-03-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript-es6+",
+                "react",
+                "vite",
+                "bootstrap",
+                "node.js",
+                "express.js",
+                "sqlite",
+                "postgresql",
+                "git",
+                "github"
+            ],
+            "soft": [
+                "organización",
+                "comunicación-efectiva",
+                "enfoque-en-resultados",
+                "trabajo-en-equipo",
+                "proactividad",
+                "compromiso-con-el-aprendizaje"
+            ],
+            "tools": [
+                "sap",
+                "tango-gestión",
+                "paquete-office-(excel-avanzado)",
+                "figma-(básico)"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Portfolio Natalia Ercolano",
+            "description": "Desarrollo de un portfolio personal con diseño moderno y responsivo, pensado para ofrecer una navegación fluida y clara.",
+            "technologies": ["react", "vite", "javascript", "bootstrap"],
+            "url": ""
+        },
+        {
+            "name": "Juego Poke-Test",
+            "description": "Aplicación web interactiva tipo memotest, con temática Pokémon, pensada para ofrecer una experiencia entretenida y visualmente atractiva.",
+            "technologies": ["html", "css", "javascript"],
+            "url": ""
+        },
+        {
+            "name": "E-commerce 'Proyect Pet'",
+            "description": "Desarrollo de la interfaz de una tienda online especializada en pegatinas para mascotas. Implementación de carrito de compras funcional, navegación fluida y diseño resposivo.",
+            "technologies": ["html", "css", "javascript"],
+            "url": ""
+        },
+        {
+            "name": "Marketplace 'FreelancerHub'",
+            "description": "Plataforma desarrollada en equipo para conectar freelancers con proyectos. Integración completa del frontend y backend, incluyendo el diseño de base de datos, rutas protegidas con autenticación de usuarios, y diseño centrado en la experiencia del usuario.",
+            "technologies": ["react", "node.js", "postgresql"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,160 @@
+{
+    "personal_info": {
+        "first_name": "Henry",
+        "last_name": "Corredor González",
+        "email": "henry.corredor7570@gmail.com",
+        "phone": "+1 457 3144017656",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con experiencia en el ciclo de vida completo del desarrollo de software, tanto en frontend como en backend. Manejo de lenguajes de programación como JavaScript, Java, Python y frameworks como React, Node.js, Angular y Bootstrap. He trabajado en el desarrollo de APIs RESTful y en la implementación de servicios backend, además de diseñar bases de datos SQL y NoSQL, enfocándome en crear interfaces de usuario intuitivas y responsivas. Cuento con facilidad para adaptarme a nuevos entornos y tecnologías, contribuyendo al éxito de los equipos de desarrollo en los que participo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Técnico en Sistemas",
+            "company": "AVGO Soluciones Tics",
+            "location": "",
+            "start_date": "2023-10-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementar interfaces de usuario utilizando HTML, CSS y JavaScript.",
+                "Crear y mantener bases de datos para almacenar y gestionar datos de aplicaciones.",
+                "Depurar y solucionar problemas en el código existente.",
+                "Documentar procesos y código para facilitar el mantenimiento y la mejora continua.",
+                "Instalar y configurar equipos informáticos, actualizar de sistemas operativos, hardware y software."
+            ],
+            "achievements": [
+                "Reducir un 20% las fallas de hardware y software a través de un programa de mantenimiento preventivo, mejorando la eficiencia y la vida útil de los equipos durante el primer semestre del año 2023."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Patrullero",
+            "company": "Policía Nacional de Colombia",
+            "location": "",
+            "start_date": "2010-01-01",
+            "end_date": "2020-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Configurar el hardware y software de equipos informáticos y de telecomunicaciones.",
+                "Instalar y configurar de redes, routers y switchs Cisco.",
+                "Manejo y control de multitudes, patrullaje, vigilancia y prevención de delitos."
+            ],
+            "achievements": [
+                "Obtener un total de 3 condecoraciones y 68 felicitaciones otorgadas por el buen desempeño y profesionalismo."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Sistemas",
+            "institution": "Fundación de Educación Superior San José",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "Diplomado en Desarrollo de Aplicaciones Web",
+            "institution": "UTP",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "Tecnólogo en Telemática",
+            "institution": "Dirección Nacional de escuelas - Policía Nacional",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Profesional en Mantenimiento de Hardware",
+            "institution": "SENA",
+            "location": "",
+            "start_date": "2007-01-01",
+            "end_date": "2009-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "python",
+                "java",
+                "react",
+                "aws",
+                "ia",
+                "postgresql",
+                "bootstrap",
+                "node.js",
+                "mysql",
+                "angular",
+                "html",
+                "git",
+                "apis-restful",
+                "spring-boot",
+                "testing",
+                "github",
+                "scrum",
+                "sql",
+                "css"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Hops Market",
+            "description": "E-commerce de venta de cervezas en línea, que incluye landing page, dashboard de administrador y usuario, pasarela de pagos, registro, login con autenticación de terceros, barras estadísticas, filtros combinados, notificaciones y reseñas.",
+            "technologies": ["react", "node.js", "bootstrap", "redux", "sequelize", "express", "axios", "postgresql", "html", "css", "jwt"],
+            "url": ""
+        },
+        {
+            "name": "Sistema de Control de Clientes",
+            "description": "Aplicación web para el control de clientes que cuenta con sistema de logueo, diseño responsive, internacionalización, seguridad con spring boot y spring security, crud.",
+            "technologies": ["java", "spring-boot", "hibernate", "mysql", "bootstrap", "angular"],
+            "url": ""
+        },
+        {
+            "name": "Task Harbor",
+            "description": "Single Page Application de tareas con diseño responsive, que permite crear, leer, actualizar y eliminar listas de tareas, al igual que el registro y logueo de usuarios en la base de datos.",
+            "technologies": ["javascript", "jwt", "react", "node.js", "vite", "mongodb", "tailwind"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
