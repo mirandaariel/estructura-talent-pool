@@ -1,0 +1,96 @@
+{
+    "personal_info": {
+        "first_name": "Facundo Misael",
+        "last_name": "Pettersson",
+        "email": "facundoelcrak09@gmail.com",
+        "phone": "+54 11-5579-5134",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy desarrollador FullStack enfocado en crear aplicaciones web eficientes y visualmente atractivas. Mi trabajo se centra en implementar soluciones bien pensadas, mejorando la experiencia del usuario y optimizando procesos mediante buenas prácticas de desarrollo. Me destaco por mi autonomía, atención al detalle y mi habilidad para colaborar en equipo, convencido de que los mejores resultados provienen del esfuerzo conjunto y la comunicación efectiva."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Front-End",
+            "company": "No Country",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2024-07-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Conexión de API: Me encargue de conectar la API del Backend con Frontend para poder tener un mejor manejo de la información",
+                "Arquitectura y Enrutado: Creación de arquitectura principal de las carpetas de la aplicación en el lado del cliente, también me encargue la parte del enrutado de la App para una mejor seguridad dentro de la aplicación",
+                "Diseño Mobile y Desktop: Me encargué del diseño móvil y de escritorio de la aplicación, creando ambas versiones para tener una mejor perspectiva.",
+                "Control de Versiones: Me dediqué a controlar las versiones del proyecto.",
+                "Creación de funcionalidades: Me encargue de poder crear las funcionalidades más optimas"
+            ],
+            "achievements": [
+                "Mejora de la Experiencia de Usuario: Realicé mejoras en la velocidad de respuesta de la interfaz, aumentando la satisfacción del usuario en un 25% según encuestas de feedback.",
+                "Desarrollo de Funcionalidades Clave: Diseñé e implementé una funcionalidad innovadora que mejoró la interacción del usuario y fue destacada en el lanzamiento del producto.",
+                "Integración de Nuevas Tecnologías: Introduje nuevas tecnologías o herramientas en el flujo de trabajo que mejoraron la eficiencia del equipo, como la adopción de TypeScript o una nueva librería de UI.",
+                "Documentación y Estándares: Desarrollé una guía de estilo y documentación para el equipo de frontend, mejorando la consistencia del código y facilitando el mantenimiento."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "react-js",
+                "prisma",
+                "css",
+                "sass",
+                "scss",
+                "next-js",
+                "postgresql",
+                "mysql",
+                "mongo-db",
+                "javascript",
+                "typescript",
+                "tailwind",
+                "node-js",
+                "express-js"
+            ],
+            "soft": [],
+            "tools": [
+                "visual-studio-code",
+                "notion",
+                "jira",
+                "trello",
+                "miro",
+                "figma",
+                "canva",
+                "postman",
+                "docker",
+                "github",
+                "git"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

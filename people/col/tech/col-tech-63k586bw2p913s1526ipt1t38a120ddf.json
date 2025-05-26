@@ -1,0 +1,154 @@
+{
+    "personal_info": {
+        "first_name": "Mariana",
+        "last_name": "Rodriguez",
+        "email": "juliethmariana4321@gmail.com",
+        "phone": "+57 319 6659293",
+        "location": {
+            "country": "Colombia",
+            "city": "Santa Rosa de Osos",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/mariana-rodriguez-54a04b228",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Jr. Software Developer",
+            "company": "DS Integrations",
+            "location": "Remote",
+            "start_date": "2024-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed backend for a chatbot application for businesses and chat centers with integrated artificial intelligence using Express.js and the OpenAI API.",
+                "Utilized Zod for data validation and Sequelize for database connectivity with PostgreSQL.",
+                "Managed API calls using Postman and implemented TypeScript for improved development.",
+                "Contributed to frontend features using React.js.",
+                "Assisted in integration with Ivanti for ITSM solutions.",
+                "Worked with AWS services for cloud-based solutions."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Bilingual Advisor",
+            "company": "Concentrix",
+            "location": "Medellín, Colombia",
+            "start_date": "2024-05-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Provided assistance to customers of Avianca Airlines."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Voluntary Web Development Assistant",
+            "company": "Innovapues",
+            "location": "Santa Rosa de Osos, Colombia",
+            "start_date": "2023-11-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Assisted in the development of a website for managing a veterinary clinic, primarily using Express.js for the backend, including APIs, Sequelize for database connectivity with PostgreSQL, Joi for data validation, and Vue.js for various frontend features.",
+                "Utilized Scrum methodology for project management and development processes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Programming Tutor",
+            "company": "Freelance",
+            "location": "Remote",
+            "start_date": "2023-01-01",
+            "end_date": "2023-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Provided private tutoring in English to a couple of children from Miami, teaching programming fundamentals using Pseint, Scratch, and JavaScript."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Voluntary Programming Mentor",
+            "company": "Northverse Community",
+            "location": "Santa Rosa de Osos, Colombia",
+            "start_date": "2022-11-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Mentored new programmers in programming fundamentals, web development with HTML, CSS, and JavaScript.",
+                "Delivered a course titled 'Python for Hackers' covering programming fundamentals using Python.",
+                "Led several groups focused on programming logic and data structures, guiding individuals to enhance their logical thinking and practice syntax across programming languages."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Software and Data Engineering",
+            "institution": "IU Digital de Antioquia",
+            "location": "Remote",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Technical degree in software programming",
+            "institution": "Servicio Nacional de Aprendizaje",
+            "location": "Santa Rosa de Osos, Colombia",
+            "start_date": "2022-02-01",
+            "end_date": "2023-11-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "javascript",
+                "postgresql",
+                "html/css",
+                "python",
+                "express.js",
+                "node.js",
+                "react"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "visual-studio",
+                "vs-code",
+                "intellij",
+                "postman",
+                "aws",
+                "virtualbox"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B2 Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,131 @@
+{
+    "personal_info": {
+        "first_name": "Victor Manuel",
+        "last_name": "Gomez Zarama",
+        "email": "victormanuel272114@gmail.com",
+        "phone": "+57 3127111708",
+        "location": {
+            "country": "Colombia",
+            "city": "Cali",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/victormanuelgomez-backend/",
+        "website": "https://github.com/victorm27",
+        "portfolio": "",
+        "summary": "Ingeniero de Informática en formación con experiencia como Fullstack Developer, especializado en el desarrollo de aplicaciones web frontend y backend. Sólidos conocimientos en lenguajes como Python, JavaScript, TypeScript, Java y C#, aplicados en frameworks como Node.js, FastAPI, NestJS y Django. Experto en la creación y consumo de APIs RESTful, manejo de bases de datos SQL y NoSQL (MySQL, MongoDB), y desarrollo de interfaces de usuario con React, Angular, HTML5, CSS3, Tailwind y Bootstrap. Competente en la integración de APIs, gestión de estados de aplicaciones y trabajo en equipos ágiles con metodologías Scrum. Uso fluido de herramientas como Git, Postman, Jira/Trello y conocimientos básicos en PL/SQL. Destacado en trabajo en equipo, comunicación efectiva y enfoque en escalabilidad y eficiencia de las aplicaciones."
+    },
+    "work_experience": [
+        {
+            "job_title": "Pasante Desarrollador FullStack",
+            "company": "Easydata",
+            "location": "En remoto",
+            "start_date": "2022-08-01",
+            "end_date": "2023-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Contribuir en la creación de lógica y APIs en el Backend de diversas aplicaciones web.",
+                "Mantener un enfoque completo y colaborativo durante todo el ciclo de desarrollo aplicando lenguajes como Python y JavaScript, y usando contenedores Docker y Git.",
+                "Colaborar con equipos multifuncionales, asegurando comunicación fluida y alineación de objetivos.",
+                "Participar en sesiones de revisión de código, aportando sugerencias y mejoras.",
+                "Desarrollar componentes reutilizables en React para mejorar modularidad y eficiencia del código.",
+                "Implementar integración de APIs RESTful en frontend.",
+                "Utilizar Git para el control de versiones en el desarrollo de sprints."
+            ],
+            "achievements": [
+                "Contribuyó a la finalización exitosa de 6 proyectos, asegurando entrega puntual y satisfacción del cliente.",
+                "Diseñó y desarrolló APIs RESTful usando FastAPI, MySQL y MongoDB, optimizando tiempos de respuesta en un 20%.",
+                "Implementó mejoras en la eficiencia del desarrollo, reduciendo en un 15% los tiempos de desarrollo y pruebas.",
+                "Mejoró escalabilidad y estabilidad de aplicaciones en un 30% en términos de rendimiento.",
+                "Contribuyó a la creación de interfaces responsive, mejorando la experiencia del usuario en un 30%.",
+                "Optimizó tiempo de carga de páginas web en un 20% usando lazy loading y optimización de imágenes."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FullStack",
+            "company": "Fundación Comedogs Colitas del Distrito",
+            "location": "En remoto",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Gestionar la conexión y sincronización del backend con el frontend y la base de datos.",
+                "Desarrollar lógica completa del backend para el sitio web desde cero.",
+                "Desarrollar e integrar APIs para mejorar funcionalidad e interactividad del sitio y micrositio.",
+                "Trabajar bajo metodología Scrum, participando en reuniones diarias, sprints y retrospectivas.",
+                "Liderar desarrollo del frontend del sitio web de la fundación usando React.",
+                "Desarrollar componentes personalizados para mejorar eficiencia del desarrollo.",
+                "Implementar funcionalidad del micrositio en React, optimizando interactividad y navegación."
+            ],
+            "achievements": [
+                "Desarrolló e integró APIs RESTful en Node.js, logrando un aumento del 40% en eficiencia y una reducción del 30% en los tiempos de respuesta.",
+                "Implementó sistema robusto de manejo de datos, mejorando integridad de datos en un 50% y reduciendo errores en un 20%.",
+                "Participó en revisión y mejora continua del código, alcanzando un incremento del 35% en calidad del código y eficiencia del desarrollo.",
+                "Mejoró escalabilidad y estabilidad de aplicaciones en un 20% en rendimiento.",
+                "Mejoró experiencia de usuario en un 40% optimizando interfaz e integrando nuevas funcionalidades interactivas.",
+                "Implementó sistema de autenticación de usuarios, mejorando seguridad de la plataforma en un 25%."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "institution": "Universidad Autónoma de Occidente",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-08-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "javascript",
+                "typescript",
+                "java",
+                "c#",
+                "node.js",
+                "fastapi",
+                "nestjs",
+                "django",
+                "mysql",
+                "mongodb",
+                "react",
+                "angular",
+                "html5",
+                "css3",
+                "tailwind",
+                "bootstrap",
+                "pl/sql"
+            ],
+            "soft": [
+                "teamwork",
+                "effective-communication",
+                "scalability",
+                "efficiency"
+            ],
+            "tools": [
+                "git",
+                "postman",
+                "jira/trello"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

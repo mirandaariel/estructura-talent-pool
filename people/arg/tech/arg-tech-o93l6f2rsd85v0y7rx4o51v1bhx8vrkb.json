@@ -65,7 +65,19 @@
                         "title": "Control Flow",
                         "description": "Uso de instrucciones condicionales y bucles (if, else, switch, for, while).",
                         "repository_url": "https://github.com/YoelDB95/JavaScriptTechnicals/tree/main/2%20-%20Control%20Flow"
-                    }
+                    },
+					{
+						"id": 1003,
+						"title": "Functions",
+						"description": "Declaración y uso de funciones en JavaScript, incluyendo funciones anónimas y de flecha.",
+						"repository_url": "https://github.com/YoelDB95/JavaScriptTechnicals/tree/main/3%20-%20Functions"
+					},
+					{
+						"id": 1004,
+						"title": "Scope and Hoisting",
+						"description": "Cómo funcionan los ámbitos léxicos y el comportamiento de elevación de variables en JavaScript.",
+						"repository_url": "https://github.com/YoelDB95/JavaScriptTechnicals/tree/main/4.%20Scope%20and%20Hoisting"
+					}
                 ]
             }
         }

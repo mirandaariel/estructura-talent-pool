@@ -1,0 +1,143 @@
+{
+    "personal_info": {
+        "first_name": "",
+        "last_name": "",
+        "email": "hectorcabrerabarron@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "C# Developer with a strong focus on delivering high-quality, maintainable code. Experienced in designing, consuming, and implementing REST API integrations to enhance system functionality and performance. Lifelong learner currently advancing expertise in AWS, with a strong passion for cybersecurity, particularly in blue team roles. Committed to staying ahead in defending systems and ensuring robust security practices."
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Developer Engineer",
+            "company": "Solera",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "2025-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Started as a QA team member supporting an Android app using the Cucumber framework to automate test cases.",
+                "Transitioned into a backend engineering role focusing on fixing bugs and defects related to app integration.",
+                "Included API consumption and debugging, attaching and testing API calls through Postman, and working with data in JSON format.",
+                "Worked with C# language, .NET framework, and NUnit for unit testing.",
+                "Operated across multiple environments such as LOCAL, TE-DEV, QAE, SANDBOX, and TE-PROD.",
+                "Interacted with SQL databases for data validation and queries, edited .config files to manage application settings, and contributed to API documentation using YAML."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Advanced Service Desk Engineer",
+            "company": "KIO Networks",
+            "location": "",
+            "start_date": "2022-09-01",
+            "end_date": "2023-04-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Provided remote support for Windows and Unix servers for various Mexican government agencies.",
+                "Used MobaXterm to connect via SSH for server administration and troubleshooting.",
+                "Monitored and reviewed active processes to identify performance issues.",
+                "Ensured service continuity in critical systems through prompt remote intervention."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Bilingual Service Desk",
+            "company": "CompuCom",
+            "location": "",
+            "start_date": "2021-10-01",
+            "end_date": "2022-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Provided remote technical support to end users in the USA and Canada.",
+                "Managed Active Directory: password resets, user account creation, and permission updates.",
+                "Used Azure for user provisioning and MFA unlocks through Azure AD cloud portal.",
+                "Troubleshot VPN certificates, network printers, drivers, and other software/hardware issues."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Break and Fix Engineer",
+            "company": "HDDisc",
+            "location": "",
+            "start_date": "2021-04-01",
+            "end_date": "2021-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Provided on-site support for DELL-EMC storage equipment across various data centers.",
+                "Performed hardware troubleshooting, disk replacements, installations, and implementations.",
+                "Used iDRAC connections for in-depth server inspections and diagnostics.",
+                "Performed remote integration of telecommunications sites for T-Mobile USA."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Communications and Electronics Engineering (Bachelor)",
+            "institution": "Instituto Politecnico Nacional",
+            "location": "",
+            "start_date": "2014-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Administration (Degree)",
+            "institution": "Instituto Politecnico Nacional",
+            "location": "",
+            "start_date": "2010-01-01",
+            "end_date": "2014-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                "rest-api",
+                "sql",
+                ".net-framework",
+                "nunit",
+                "yaml",
+                "azure-ad",
+                "mobaXterm",
+                "securecrt"
+            ],
+            "soft": [],
+            "tools": [
+                "postman",
+                "cucumber",
+                "idrac"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Conversational and technical reading/writing"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
