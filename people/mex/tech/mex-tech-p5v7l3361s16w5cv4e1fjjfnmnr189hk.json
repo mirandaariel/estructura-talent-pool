@@ -1,0 +1,156 @@
+{
+    "personal_info": {
+        "first_name": "David",
+        "last_name": "Quintero Garcia",
+        "email": "davidquinterocentro@hotmail.com",
+        "phone": "+52(442) 1437486",
+        "location": {
+            "country": "Mexico",
+            "city": "Querétaro",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/dquintero28/",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Front-end (React + JavaScript)",
+            "company": "DDR Soluciones Tecnológicas",
+            "location": "Querétaro",
+            "start_date": "2024-05-01",
+            "end_date": "2025-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé e implementé interfaces de usuario responsivas y atractivas utilizando React y React Native siguiendo principios de diseño centrado en el usuario.",
+                "Optimicé el rendimiento de aplicaciones web reduciendo tiempos de carga y mejorando la interactividad de componentes críticos.",
+                "Depuré y resolví incidencias técnicas en interfaces existentes, garantizando la continuidad operativa de las aplicaciones.",
+                "Colaboré con equipos multidisciplinarios en el desarrollo integral de soluciones web y móviles, desde la conceptualización hasta la implementación final.",
+                "Documenté exhaustivamente componentes y funcionalidades para facilitar el mantenimiento y escalabilidad de los proyectos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador web y mobile (React/React native + JavaScript)",
+            "company": "FINEX",
+            "location": "Querétaro",
+            "start_date": "2022-01-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé interfaces de usuario dinámicas e intuitivas utilizando React principalmente.",
+                "Transformé maquetas de diseño en componentes funcionales, manteniendo fidelidad visual y optimizando para distintos dispositivos.",
+                "Colaboré con el equipo en la gestión y mantenimiento del código, documentando procesos y pruebas.",
+                "Construí soluciones escalables integrando múltiples APIs y servicios backend.",
+                "Integré APIs y servicios de terceros para la mejora y optimización de la aplicación.",
+                "Configuré sistemas de bases de datos con PostgreSQL, incluyendo reglas de seguridad a nivel de fila (RLS).",
+                "Programé endpoints API con Java, garantizando comunicación eficiente entre frontend y backend."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Front-end (React + JavaScript)",
+            "company": "Panamotors",
+            "location": "Querétaro",
+            "start_date": "2021-09-01",
+            "end_date": "2021-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y desarrollé interfaces de usuario utilizando Figma para prototipado, e implementación con HTML, CSS y JavaScript.",
+                "Incorporé nuevas funcionalidades en aplicaciones existentes utilizando React y jQuery.",
+                "Adapté interfaces para garantizar experiencias óptimas en diferentes dispositivos móviles y navegadores."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ing. Sistemas Computacionales",
+            "institution": "UVEG",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachillerato general",
+            "institution": "COBAQ",
+            "location": "",
+            "start_date": "",
+            "end_date": "2017-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html5",
+                "css",
+                "scss",
+                "react",
+                "redux",
+                "react-native",
+                "expo",
+                "typescript",
+                "tailwind",
+                "node-js",
+                "fireplacebase",
+                "supabase",
+                "angular-17",
+                "sql",
+                "nosql",
+                "git",
+                "github",
+                "figma",
+                "java",
+                "azure-ia"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Certified Scrum Professional",
+            "issuing_organization": "",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": "90390821"
+        },
+        {
+            "name": "JavaScript Intermediate",
+            "issuing_organization": "",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": "ID00cbcdc255f4"
+        },
+        {
+            "name": "Azure az-900",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "GitHub Fundations Certification",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

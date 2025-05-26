@@ -1,0 +1,115 @@
+{
+    "personal_info": {
+        "first_name": "Andi Scott",
+        "last_name": "Aguirre Leon",
+        "email": "darckisgamer@gmail.com",
+        "phone": "+51 914135701",
+        "location": {
+            "country": "Perú",
+            "city": "Huánuco",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "portafolioandidev",
+        "summary": "Desarrollador Front-end con experiencia en la creación de interfaces responsivas y optimizadas. Apasionado por la construcción de aplicaciones web con tecnologías modernas como React, Astro y Tailwind CSS. Busco aportar soluciones innovadoras y eficientes a proyectos desafiantes."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Desarrollo de Sistemas e Información",
+            "institution": "Instituto Superior ISAM (Sabio Nacional Antúnez de Mayolo)",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo web Front-end",
+            "institution": "ONE (Oracle Next Education)",
+            "location": "Lima, Perú",
+            "start_date": "2023-04-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react.js",
+                "javascript",
+                "astro",
+                "css",
+                "tailwind-css",
+                "styled-components",
+                "apis-rest",
+                "sql"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "control-de-versiones",
+                "desarrollo-web-responsivo"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "MovieDev",
+            "description": "Es una aplicación web de búsqueda de películas que utiliza integraciones con APIs para ofrecer información actualizada sobre títulos populares, tendencias y detalles específicos de cada película. El diseño es completamente responsive, garantizando una experiencia óptima en cualquier dispositivo.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React",
+                "APIs externas",
+                "Netlify"
+            ],
+            "url": "https://movie-dev-one.netlify.app/"
+        },
+        {
+            "name": "Mi paciente",
+            "description": "Está diseñada para registrar, organizar y realizar seguimiento de información clínica, ofreciendo un diseño totalmente responsive para garantizar accesibilidad desde cualquier dispositivo.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React",
+                "APIs externas",
+                "Netlify"
+            ],
+            "url": "https://mypacientperu.netlify.app/"
+        },
+        {
+            "name": "Riko's",
+            "description": "Está diseñada para mostrar los productos y promociones de la polleria, con un carrito de compras y envio directo a whatsapp para el delivery.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Tailwind CSS",
+                "JavaScript",
+                "React",
+                "Netlify"
+            ],
+            "url": "https://rikoshuanuco.netlify.app/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

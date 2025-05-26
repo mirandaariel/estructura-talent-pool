@@ -1,0 +1,155 @@
+{
+    "personal_info": {
+        "first_name": "Maira",
+        "last_name": "Zamer",
+        "email": "mairazamer@gmail.com",
+        "phone": "+543482298231",
+        "location": {
+            "country": "Argentina",
+            "city": "Santa Fe",
+            "state": ""
+        },
+        "linkedin": "",
+        "github": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrolladora Full Stack con formación en Soy Henry y múltiples cursos en Udemy. Apasionada por el desarrollo Front-End, con experiencia en React, Next.js y Tailwind CSS. Cuento con sólidos conocimientos en JavaScript, TypeScript, Node.js y Express, así como en bases de datos relacionales con PostgreSQL. Manejo metodologías ágiles (Scrum), Git/GitHub y poseo habilidades en diseño UI/UX con Figma. Me destaco por ser proactiva, orientada a resultados y con gran capacidad de trabajo en equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Front-End Developer Junior",
+            "company": "No Country",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño de un e-commerce de ropa en Figma.",
+                "Desarrollo de la web utilizando Next.js, Tailwind CSS y Material UI."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer Junior",
+            "company": "Soy Henry",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Front-End: Desarrollo de landing page, home page, carrito de compras, dashboard y reviews de clientes.",
+                "Back-End: Implementación de reviews de clientes, sistema de mensajería por correo y modelos con sus controladores."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Developer",
+            "institution": "Soy Henry",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-07-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Superior en Gestión Industrial",
+            "institution": "Escuela Superior de Comercio N° 43",
+            "location": "",
+            "start_date": "",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "next.js",
+                "redux",
+                "express",
+                "node.js",
+                "css",
+                "tailwind-css",
+                "material-ui",
+                "figma",
+                "postgresql",
+                "sequelize"
+            ],
+            "soft": [
+                "proactivity",
+                "teamwork",
+                "result-oriented"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "gitflow",
+                "scrum",
+                "trello",
+                "slack"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "React: De Cero a Experto",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Node.js: De Cero a Experto",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Next.js: El Framework de React para Producción",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Portafolio Web",
+            "description": "Creado con Next.js, Tailwind CSS y Material UI.",
+            "technologies": ["next.js", "tailwind-css", "material-ui"],
+            "url": ""
+        },
+        {
+            "name": "E-Commerce de Libros Electrónicos",
+            "description": "Diseño en Figma, implementación de reviews, desarrollo de componentes como carousel, footer, navbar, detalle y formularios.",
+            "technologies": ["javascript", "react", "redux", "cloudinary", "stripe", "toastify", "node.js", "express", "axios", "nodemailer", "postgresql", "sequelize"],
+            "url": ""
+        },
+        {
+            "name": "Aplicación Web de Pokémons",
+            "description": "Desarrollo de Landing Page, Home Page, Detail Page y Form Page. Implementación de componentes reutilizables: Cards, NavBar, SearchBar.",
+            "technologies": ["javascript", "react", "redux", "node.js", "express", "axios", "postgresql", "sequelize"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Basic"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

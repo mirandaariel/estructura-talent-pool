@@ -1,0 +1,204 @@
+{
+    "personal_info": {
+        "first_name": "Rod",
+        "last_name": "Vlaeminck",
+        "email": "rvlaeminck@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "USA",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Sr. DevOps Engineer, Head of Engineering, Network Engineer, AWS SysOps Administrator with critical thinking, decision making, and problem-solving skills."
+    },
+    "work_experience": [
+        {
+            "job_title": "Engineering Team Lead",
+            "company": "Nowports (Logitech 1)",
+            "location": "LATAM / USA",
+            "start_date": "2024-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Team Lead for Nowports Capital, overseeing onboarding, financing, funding, dispersals, and insurance.",
+                "Alliance with Xepelin for SME funding.",
+                "Sprint and team management, code review, technical lead synchronization, performance reviews, tech initiatives.",
+                "DevOps, AWS, Grafana, Keeper, and managing deployments on beta, ktest, and production environments using Azure.",
+                "100% remote work using Jira, Slack, Google Meet, Google Drive, Parabol, Notion, Azure, Figma, Postman, and DBeaver."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Head of Engineering",
+            "company": "Outbuild (Contech)",
+            "location": "USA",
+            "start_date": "2021-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Led pre-series A in 2021 and series A in 2024.",
+                "Handled support (hotfixes, rollbacks, db), code review, Gitflow, and managed upload environments (pipelines) for test and preprod, and production deployments.",
+                "DevOps, AWS, Nginx, Cloudflare, Sentry, Amplitude.",
+                "Responsible for recruitment.",
+                "100% remote work using Jira, Slack, Zoom, Gitlab, Figma, Postman, and DBeaver."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Engineer",
+            "company": "Xepelin (Fintech 1)",
+            "location": "LATAM",
+            "start_date": "2020-01-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Maintained client app and backoffice.",
+                "Worked on frontend: React Redux Material UI and backend: Node Express Sequelize MariaDB.",
+                "Developed CRUD operations, WebSocket integration, and XML file handling (xml2json).",
+                "Implemented a system of bills rate calculation.",
+                "100% remote work using Clubhouse tickets, Slack, Discord, Github, Adobe xD, Figma, Postman, and HeidiSQL."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "NOC Engineer",
+            "company": "Antel / Dedicado",
+            "location": "Uruguay",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Presales Engineer",
+            "company": "Telefax",
+            "location": "Uruguay",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Datacenter Infrastructure Specialist",
+            "company": "UTE",
+            "location": "Uruguay",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Electrical Engineer (Networks)",
+            "institution": "Universidad de la República",
+            "location": "Uruguay",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Fullstack Engineer",
+            "institution": "Henry",
+            "location": "Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "DevOps Engineer",
+            "institution": "Codyops",
+            "location": "USA",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react/redux",
+                "node/express",
+                "orms",
+                "mongodb",
+                "sql",
+                "aws/azure",
+                "js",
+                "python",
+                "java",
+                "prometheus/grafana/alertmanager",
+                "terraform/pulumi",
+                "helm/kustomize"
+            ],
+            "soft": [
+                "critical-thinking",
+                "decision-making",
+                "problem-solving"
+            ],
+            "tools": [
+                "jira",
+                "github-actions/gitlab-cl",
+                "docker/kubernetes",
+                "keeper",
+                "sentry",
+                "amplitude",
+                "dbeaver",
+                "figma",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Ecommerce Website",
+            "description": "Developed user and admin panel, cart, checkout, Google login, and Nodemailer features.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "HenryApp",
+            "description": "An application for the management of courses and students in Henry. Final Project.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": ""
+        },
+        {
+            "language": "French",
+            "proficiency": ""
+        },
+        {
+            "language": "Portuguese",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

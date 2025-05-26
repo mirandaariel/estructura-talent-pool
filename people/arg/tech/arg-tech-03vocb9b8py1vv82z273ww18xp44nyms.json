@@ -1,0 +1,100 @@
+{
+    "personal_info": {
+        "first_name": "Juan Ignacio",
+        "last_name": "Colli",
+        "email": "juanignaciocolli28@gmail.com",
+        "phone": "+543471670274",
+        "location": {
+            "country": "Argentina",
+            "city": "Cañada de Gómez",
+            "state": "Santa Fe"
+        },
+        "linkedin": "linkedin.com/in/juan-ignacio-colli",
+        "website": "",
+        "portfolio": "juanignaciocolli.netlify.app",
+        "summary": "Busco desarrollar mi carrera como desarrollador web, perfeccionando mis habilidades y aprendiendo continuamente. Soy una persona curiosa y ambiciosa, motivada por enfrentar desafíos y aportar soluciones robustas e innovadoras a los problemas de la sociedad."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web utilizando Next.js, Tailwind CSS, Node.js, Express.js y MongoDB.",
+                "Implementación de autenticación con JWT y NextAuth.",
+                "Integración con API de Cloudinary para gestión de imágenes.",
+                "Configuración y gestión de envío de correos electrónicos transaccionales utilizando Nodemailer."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Curso de programación web Full Stack",
+            "institution": "Egg Educacion",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso de programación Back End",
+            "institution": "Coder House",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react.js",
+                "next.js",
+                "html",
+                "css",
+                "tailwind-css",
+                "node.js",
+                "express.js",
+                "mongodb",
+                "mongoose",
+                "jwt"
+            ],
+            "soft": [
+                "trabajo-colaborativo",
+                "comunicación-efectiva",
+                "capacidad-de-aprendizaje-autodidacta"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "railway",
+                "ajv",
+                "nodemailer"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sistema web de gestión de pedidos",
+            "description": "Desarrollo de una plataforma web utilizando Next.js, MongoDB y Tailwind CSS.",
+            "technologies": ["next.js", "mongodb", "tailwind-css"],
+            "url": "elbacatalini.com"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Ingles",
+            "proficiency": "B2 - Lectura y comprensión de texto fluida, conversación intermedia"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,41 +1,45 @@
 {
     "personal_info": {
         "first_name": "Nicolás",
-        "last_name": "Rapfonaud",
+        "last_name": "Raffonaud",
         "email": "nicolasraffonaudsoft@gmail.com",
-        "phone": "",
+        "phone": "1126252321",
         "location": {
-            "country": "",
+            "country": "Argentina",
             "city": "Bernal",
-            "state": ""
+            "state": "Buenos Aires"
         },
-        "linkedin": "//h/NicolaAuffonaud",
-        "website": "",
-        "portfolio": "",
+        "linkedin": "https://ar.linkedin.com/in/nicolas-gabriel-raffonaud-9aa988106",
+        "website": "https://nicolasraffonaud-portfolio.netlify.app/",
+        "portfolio": "https://nicolasraffonaud-portfolio.netlify.app/",
         "summary": "Me apasiona la programación porque creo que es una herramienta clave para el avance tecnológico y la optimización de procesos. Me destaco por mi atención al detalle, capacidad de innovación y compromiso con la excelencia en cada proyecto que desarrollo."
     },
     "work_experience": [
         {
-            "job_title": "",
+            "job_title": "Encargado de Ventas",
             "company": "Electro y Hogar",
-            "location": "",
-            "start_date": "",
-            "end_date": "",
-            "currently_working": false,
-            "responsibilities": [],
+            "location": "Wilde, Avellaneda, Buenos Aires",
+            "start_date": "01/02/2022",
+            "end_date": "-",
+            "currently_working": true,
+            "responsibilities": [
+                "Encargado de ventas",
+                "Atención, diálogo, negociación y buen trato con el público",
+                "Control de Stock y Cajas"
+            ],
             "achievements": [],
             "repository_url": ""
         },
         {
-            "job_title": "",
+            "job_title": "Operador de servicio técnico",
             "company": "Cablevisión Fibertel",
-            "location": "",
+            "location": "CABA",
             "start_date": "",
             "end_date": "",
             "currently_working": false,
             "responsibilities": [
-                "Soporte Técnico",
-                "Reparación de PC"
+                "Atención al cliente",
+                "Diágnostico de problemas de servicio del cliente"
             ],
             "achievements": [],
             "repository_url": ""
@@ -45,26 +49,26 @@
         {
             "degree": "React",
             "institution": "Coder House",
-            "location": "",
+            "location": "Online",
             "start_date": "2024-01-01",
             "end_date": "2024-12-31",
-            "hours": 0
+            "hours": 30
         },
         {
             "degree": "JavaScript",
             "institution": "Coder House",
-            "location": "",
+            "location": "Online",
             "start_date": "2024-01-01",
             "end_date": "2024-12-31",
-            "hours": 0
+            "hours": 36
         },
         {
             "degree": "Desarrollo web con HTML Y CSS",
             "institution": "Coder House",
-            "location": "",
+            "location": "Online",
             "start_date": "2022-01-01",
             "end_date": "2022-12-31",
-            "hours": 0
+            "hours": 38
         }
     ],
     "skills": {
@@ -90,7 +94,9 @@
                 "resolución-de-problemas",
                 "facilidad-para-trabajar-con-otras-personas"
             ],
-            "tools": []
+            "tools": [
+                "VSC"
+            ]
         },
         "detailed": {
             "technical": [],
