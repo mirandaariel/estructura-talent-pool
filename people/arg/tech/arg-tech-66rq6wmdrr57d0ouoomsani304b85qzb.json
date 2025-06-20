@@ -104,6 +104,18 @@
                         "description": "Uso de instrucciones condicionales y bucles (if, else, switch, for, while).",
                         "repository_url": ""
                     },
+                    {
+                        "id": 1003,
+                        "title": "Functions",
+                        "description": "Declaración y uso de funciones en JavaScript, incluyendo funciones anónimas y de flecha.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1004,
+                        "title": "Scope and Hoisting",
+                        "description": "Cómo funcionan los ámbitos léxicos y el comportamiento de elevación de variables en JavaScript.",
+                        "repository_url": ""
+                    }
                 ]
             },
             "soft": {}
