@@ -115,6 +115,18 @@
                         "title": "Scope and Hoisting",
                         "description": "Cómo funcionan los ámbitos léxicos y el comportamiento de elevación de variables en JavaScript.",
                         "repository_url": ""
+                    },
+                    {
+                        "id": 1005,
+                        "title": "Closures",
+                        "description": "Funciones que capturan el estado de su entorno de creación, permitiendo acceso a variables externas incluso después de finalizar su contexto original.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1006,
+                        "title": "This Context",
+                        "description": "Cómo funciona el contexto de ejecución y cómo cambiarlo en JavaScript.",
+                        "repository_url": ""
                     }
                 ]
             },
