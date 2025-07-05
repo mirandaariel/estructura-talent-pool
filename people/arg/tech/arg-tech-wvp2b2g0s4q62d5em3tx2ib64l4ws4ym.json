@@ -10,8 +10,8 @@
             "state": ""
         },
         "linkedin": "https://linkedin.com/in/estefania-turin",
-        "website": "https://estefi-turin.vercel.app",
-        "portfolio": "https://github.com/code-byestefi",
+        "website": "",
+        "portfolio": "https://estefi-turin.vercel.app",
         "summary": "Estudiante de Ingeniería en Sistemas, apasionada por los desafíos del mundo IT. Proactiva, con habilidades para la resolución de problemas y el trabajo en equipo. Capaz de analizar y comprender información técnica de manera eficiente. Con sólidos conocimientos en front-end, incluyendo React, HTML5, CSS3, JavaScript (ES6+) y TypeScript, además de experiencia práctica en back-end con Spring Boot y Spring Framework."
     },
     "work_experience": [],
@@ -53,7 +53,7 @@
                 "restful-api",
                 "html5",
                 "css3",
-                "javascript",
+                "javascript-es6+",
                 "typescript",
                 "react",
                 "vue.js",
@@ -75,74 +75,20 @@
                 "maven"
             ]
         },
-        "detailed": {
-            "technical": {},
-            "soft": {},
-            "tools": {}
-        }
+        "detailed": {}
     },
-    "certifications": [
-        {
-            "name": "Blockchain",
-            "issuing_organization": "Universidad Blas Pascal",
-            "issue_date": "",
-            "expiration_date": "",
-            "credential_id": ""
-        },
-        {
-            "name": "Testing QA Automatizado",
-            "issuing_organization": "Digital House",
-            "issue_date": "",
-            "expiration_date": "",
-            "credential_id": ""
-        },
-        {
-            "name": "Argentina Programa",
-            "issuing_organization": "CESSI",
-            "issue_date": "",
-            "expiration_date": "",
-            "credential_id": ""
-        },
-        {
-            "name": "Database and SQL",
-            "issuing_organization": "Educación IT",
-            "issue_date": "",
-            "expiration_date": "",
-            "credential_id": ""
-        },
-        {
-            "name": "Full Stack, Spring Boot + React",
-            "issuing_organization": "Udemy",
-            "issue_date": "",
-            "expiration_date": "",
-            "credential_id": ""
-        }
-    ],
+    "certifications": [],
     "projects": [
         {
             "name": "NutriBot-IA",
             "description": "Desarrollé un bot de Telegram para seguimiento nutricional utilizando Python y la API de Anthropic Claude. Implementé arquitectura modular con patrones de diseño Singleton y Repository para servicios de base de datos y análisis de IA. Integré MongoDB Atlas para almacenamiento persistente, APScheduler para notificaciones programadas y python-telegram-bot para la interfaz conversacional. Railway para despliegue en una plataforma cloud.",
-            "technologies": [
-                "python",
-                "mongodb-atlas",
-                "python-telegram-bot",
-                "apscheduler",
-                "railway"
-            ],
+            "technologies": ["python", "api", "telegram-bot", "mongodb-atlas", "apscheduler", "railway"],
             "url": ""
         },
         {
             "name": "Gestor de Contraseñas",
             "description": "Desarrollé una aplicación web full-stack con Spring Boot (backend) y React con TypeScript (frontend) para la gestión segura de contraseñas. Implementé autenticación con JWT, verificación por email y categorización personalizable con búsqueda en tiempo real. Utilicé Docker para despliegue, Swagger para documentar la API REST y TailwindCSS para una interfaz moderna y responsive.",
-            "technologies": [
-                "spring-boot",
-                "react",
-                "typescript",
-                "jwt",
-                "docker",
-                "swagger",
-                "tailwind-css"
-            ],
+            "technologies": ["spring-boot", "react", "typescript", "jwt", "docker", "swagger", "tailwindcss"],
             "url": ""
         }
     ],
@@ -153,7 +99,7 @@
         },
         {
             "language": "Spanish",
-            "proficiency": "Nativo"
+            "proficiency": "Native"
         }
     ],
     "volunteer_experience": [],

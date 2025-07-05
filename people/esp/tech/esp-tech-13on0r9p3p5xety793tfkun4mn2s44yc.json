@@ -9,10 +9,10 @@
             "city": "Madrid",
             "state": ""
         },
-        "linkedin": "https://www.linkedin.com/in/víctor-lópezprofesional-it",
+        "linkedin": "https://www.linkedin.com/in/víctor-lópez-profesional-it",
         "website": "",
         "portfolio": "",
-        "summary": "Soy una persona curiosa y apasionada por el aprendizaje, con experiencia en diferentes ámbitos que complementan mi perfil. He trabajado en el extranjero, lo que me ha permitido una visión global, y actualmente me desarrollo en el sector tecnológico."
+        "summary": "Soy una persona curiosa y apasionada por el aprendizaje, con experiencia en diferentes ámbitos que complementan mi perfil. He trabajado en el extranjero, lo que me ha permitido una visión global, y actualmente me desarrollo en el sector tecnológico. Estoy en proceso de construir una base sólida para especializarme en un futuro, habiendo iniciado mi trayectoria con el FP de ASIR y próximamente finalizando DAW. Durante este tiempo he obtenido diferentes certificaciones en diversas tecnologías, no solo para fortalecer mis habilidades sino por el hecho de aprender y mantenerme actualizado. Siempre busco nuevos retos que me permitan crecer profesionalmente."
     },
     "work_experience": [
         {
@@ -20,7 +20,7 @@
             "company": "Westcon Comstor",
             "location": "Madrid",
             "start_date": "2023-08-01",
-            "end_date": "",
+            "end_date": "9999-12-31",
             "currently_working": true,
             "responsibilities": [
                 "Primera línea de soporte por teléfono, correo electrónico y portal para incidentes y solicitudes de clientes.",
@@ -63,7 +63,7 @@
             "institution": "Coop. José Ramon Otero",
             "location": "",
             "start_date": "2023-09-01",
-            "end_date": "2024-05-30",
+            "end_date": "2024-05-31",
             "hours": 0
         },
         {
@@ -71,7 +71,7 @@
             "institution": "Coop. José Ramon Otero",
             "location": "",
             "start_date": "2021-09-01",
-            "end_date": "2023-05-30",
+            "end_date": "2023-05-31",
             "hours": 0
         }
     ],
@@ -80,27 +80,26 @@
             "technical": [
                 "diseño-de-redes",
                 "administración-de-redes",
-                "support",
                 "microsoft-365",
                 "azure",
-                "docker",
+                "máquinas-virtuales",
+                "windows",
+                "linux",
                 "html",
                 "css",
                 "php",
-                "javaScript",
+                "javascript",
                 "wordpress",
                 "mysql",
                 "mariadb",
                 "oracle",
-                "palo-alto",
-                "check-point"
+                "docker"
             ],
             "soft": [
-                "organización",
+                "capacidad-de-organización",
                 "aprendizaje-continuo",
                 "trabajo-en-equipo",
-                "puntualidad",
-                "compromiso",
+                "puntualidad-y-compromiso",
                 "planificación-de-tareas"
             ],
             "tools": []
@@ -110,55 +109,55 @@
     "certifications": [
         {
             "name": "Palo Alto Networks - Network Security Administrator",
-            "issuing_organization": "Palo Alto Networks",
+            "issuing_organization": "",
             "issue_date": "2024-01-01",
             "expiration_date": "2026-12-31",
             "credential_id": ""
         },
         {
-            "name": "Juniper Networks Associate/security-Routing and switching",
-            "issuing_organization": "Juniper Networks",
+            "name": "Juniper Networks Associate/Security-Routing and Switching",
+            "issuing_organization": "",
             "issue_date": "2024-01-01",
             "expiration_date": "2027-12-31",
             "credential_id": ""
         },
         {
             "name": "Fortinet Associate",
-            "issuing_organization": "Fortinet",
+            "issuing_organization": "",
             "issue_date": "2024-01-01",
             "expiration_date": "2027-12-31",
             "credential_id": ""
         },
         {
-            "name": "Microsoft 365 Certified: Fundamentals",
-            "issuing_organization": "Microsoft",
-            "issue_date": "",
-            "expiration_date": "",
-            "credential_id": ""
-        },
-        {
-            "name": "CCNAv7 - Introducción a redes",
+            "name": "Certificado académico de CCNAv7 - Introducción a redes",
             "issuing_organization": "",
             "issue_date": "2021-01-01",
             "expiration_date": "2022-12-31",
             "credential_id": ""
         },
         {
-            "name": "CCNAv7 - Switching, Routing, and Wireless Essentials",
+            "name": "Certificado académico CCNAv7 - Switching, Routing, and Wireless Essentials",
             "issuing_organization": "",
             "issue_date": "2022-01-01",
             "expiration_date": "2023-12-31",
             "credential_id": ""
         },
         {
-            "name": "CCNAv7 - Redes Empresariales, Seguridad y Automatización",
+            "name": "Certificado académico CCNAv7 - Redes Empresariales, Seguridad y Automatización",
             "issuing_organization": "",
             "issue_date": "2022-01-01",
             "expiration_date": "2023-12-31",
             "credential_id": ""
         },
         {
-            "name": "CYBEROPS ASSOCIATE",
+            "name": "Microsoft 365 Certified: Fundamentals",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificado académico de CYBEROPS ASSOCIATE",
             "issuing_organization": "",
             "issue_date": "2022-01-01",
             "expiration_date": "2023-12-31",

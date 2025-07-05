@@ -5,19 +5,19 @@
         "email": "solucianamontero@outlook.com",
         "phone": "+54 1124060010",
         "location": {
-            "country": "",
+            "country": "Argentina",
             "city": "Villa Ballester",
             "state": ""
         },
-        "linkedin": "https://linkedin.com/in/sol-montero",
+        "linkedin": "",
         "website": "",
         "portfolio": "",
-        "summary": "Tec. Superior en Programación con interés en habilidades técnicas y deseos de crecer laboralmente."
+        "summary": "Mi objetivo actual es encontrar trabajos afines a mis habilidades técnicas para así comenzar mi trayectoria laboral a la par que crezco junto a la empresa."
     },
     "work_experience": [
         {
             "job_title": "Help Desk",
-            "company": "Global Hittss",
+            "company": "Global Hitss",
             "location": "",
             "start_date": "2023-12-01",
             "end_date": "",
@@ -27,16 +27,16 @@
             "repository_url": ""
         },
         {
-            "job_title": "Atención al Cliente",
+            "job_title": "Atencion al cliente",
             "company": "Dash Deportes",
             "location": "",
             "start_date": "2023-01-01",
             "end_date": "2023-06-30",
             "currently_working": false,
             "responsibilities": [
-                "Atencion al cliente",
+                "Atención al cliente",
                 "Orden y limpieza del local",
-                "Control de Stock en sistema"
+                "Control de stock en sistema"
             ],
             "achievements": [],
             "repository_url": ""
@@ -44,15 +44,7 @@
     ],
     "education": [
         {
-            "degree": "Bachillerato con Orientación en Economía",
-            "institution": "Escuela Secundaria 'Manuel Belgrano' N°3",
-            "location": "",
-            "start_date": "2018-01-01",
-            "end_date": "2020-12-31",
-            "hours": 0
-        },
-        {
-            "degree": "Curso de Python Intermedio",
+            "degree": "Curso Power BI",
             "institution": "Coder House",
             "location": "",
             "start_date": "",
@@ -60,11 +52,35 @@
             "hours": 0
         },
         {
-            "degree": "Técnico Superior en Programación",
-            "institution": "Universidad Tecnológica Nacional (UTN F.R.G.P)",
+            "degree": "Curso de Python Intermedio",
+            "institution": "Municipalidad de Tres de Febrero (TECNO3F)",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnica Superior En Programacion",
+            "institution": "Universidad Tecnologica Nacional (UTN F.R.G.P)",
             "location": "",
             "start_date": "2022-01-01",
             "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachillerato con Orientacion en Economia",
+            "institution": "Escuela Secundaria Manuel Belgrano N13",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Con Orientacion a Tec. En Alimentos",
+            "institution": "Escuela Secundaria Tecnica Alemania",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2018-12-31",
             "hours": 0
         }
     ],
@@ -76,25 +92,28 @@
                 "c++",
                 "asp.net",
                 "sql-management-studio",
-                "git",
-                "github",
-                "paradigma-de-programacion-orientada-a-objetos",
-                "requiereimientos-funcionales"
+                "git/github",
+                "programacion-orientada-a-objetos",
+                "requerimientos-funcionales"
             ],
             "soft": [
-                "trabajo-en-equipo",
+                "capacidad-de-trabajo-en-equipo",
                 "resolucion-de-problemas",
                 "asertividad",
                 "proactividad"
             ],
             "tools": [
-                "office"
+                "office",
+                "active-directory",
+                "instalacion-de-s.o.",
+                "soporte-hardware",
+                "soporte-software",
+                "vpn"
             ]
         },
         "detailed": {
             "technical": {},
-            "soft": {},
-            "tools": {}
+            "soft": {}
         }
     },
     "certifications": [],

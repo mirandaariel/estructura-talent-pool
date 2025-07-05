@@ -1,124 +1,124 @@
 {
-  "personal_info": {
-    "first_name": "Lucia",
-    "last_name": "Blanco",
-    "email": "luciablanco995@gmail.com",
-    "phone": "+542494066339",
-    "location": {
-      "country": "Argentina",
-      "city": "Tandil",
-      "state": "Buenos Aires"
+    "personal_info": {
+        "first_name": "Lucia",
+        "last_name": "Blanco",
+        "email": "luciablanco995@gmail.com",
+        "phone": "+54 249 4066339",
+        "location": {
+            "country": "Argentina",
+            "city": "Tandil",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Cuento con experiencia en proyectos dentro de la Universidad Nacional del Centro de la Provincia de Buenos Aires como desarrolladora de software. Mi perfil combina desarrollo de software, UX/UI y diseño gráfico, lo que me permite abordar soluciones desde una perspectiva integral. Me caracterizo por ser perseverante y apasionada por los nuevos desafíos."
     },
-    "linkedin": "",
-    "website": "",
-    "portfolio": "",
-    "summary": "Cuento con experiencia en proyectos dentro de la Universidad Nacional del Centro de la Provincia de Buenos Aires como desarrolladora de software. Mi perfil combina desarrollo de software, UX/UI y diseño gráfico, lo que me permite abordar soluciones desde una perspectiva integral. Me caracterizo por ser perseverante y apasionada por los nuevos desafíos."
-  },
-  "work_experience": [
-    {
-      "job_title": "Técnica informática",
-      "company": "Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN)",
-      "location": "",
-      "start_date": "2022-10-01",
-      "end_date": "",
-      "currently_working": true,
-      "responsibilities": [
-        "Mantenimiento, creación y migración de las páginas web de la Secretaría de Extensión de la UNICEN."
-      ],
-      "achievements": [],
-      "repository_url": ""
+    "work_experience": [
+        {
+            "job_title": "Técnica informática",
+            "company": "Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN)",
+            "location": "",
+            "start_date": "2022-10-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Mantenimiento, creación y migración de las páginas web de la Secretaría de Extensión de la UNICEN."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrolladora PHP",
+            "company": "Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN)",
+            "location": "",
+            "start_date": "2022-04-01",
+            "end_date": "2022-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo frontend y backend de la página web de congresos de la UNICEN."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Curso de React JS",
+            "institution": "Coder House",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2024-08-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas",
+            "institution": "Facultad de Ciencias Exactas - Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN)",
+            "location": "",
+            "start_date": "2021-03-01",
+            "end_date": "2023-11-30",
+            "hours": 0
+        },
+        {
+            "degree": "Carrera de Diseño UX UI",
+            "institution": "Coder House",
+            "location": "",
+            "start_date": "2021-03-01",
+            "end_date": "2021-08-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnicatura en Diseño Gráfico",
+            "institution": "Instituto del Profesorado de Arte de Tandil Nº 4 Escultor Carlos Allende",
+            "location": "",
+            "start_date": "2016-03-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "php",
+                "java",
+                "js",
+                "html",
+                "css",
+                "angular",
+                "wordpress",
+                "react-js"
+            ],
+            "soft": [],
+            "tools": [
+                "illustrator",
+                "photoshop",
+                "figma",
+                "kubernetes",
+                "docker",
+                "git",
+                "jira",
+                "scrum",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
     },
-    {
-      "job_title": "Desarrolladora PHP",
-      "company": "Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN)",
-      "location": "",
-      "start_date": "2022-04-01",
-      "end_date": "2022-07-31",
-      "currently_working": false,
-      "responsibilities": [
-        "Desarrollo frontend y backend de la página web de congresos de la UNICEN."
-      ],
-      "achievements": [],
-      "repository_url": ""
-    }
-  ],
-  "education": [
-    {
-      "degree": "Curso de React JS",
-      "institution": "Coder House",
-      "location": "",
-      "start_date": "2024-06-01",
-      "end_date": "2024-08-31",
-      "hours": 0
-    },
-    {
-      "degree": "Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas",
-      "institution": "Facultad de Ciencias Exactas - Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN)",
-      "location": "",
-      "start_date": "2021-03-01",
-      "end_date": "2023-11-30",
-      "hours": 0
-    },
-    {
-      "degree": "Carrera de Diseño UX UI",
-      "institution": "Coder House",
-      "location": "",
-      "start_date": "2021-03-01",
-      "end_date": "2021-08-31",
-      "hours": 0
-    },
-    {
-      "degree": "Tecnicatura en Diseño Gráfico",
-      "institution": "Instituto del Profesorado de Arte de Tandil No 4 Escultor Carlos Allende",
-      "location": "",
-      "start_date": "2016-03-01",
-      "end_date": "2019-12-31",
-      "hours": 0
-    }
-  ],
-  "skills": {
-    "keywords": {
-      "technical": [
-        "php",
-        "java",
-        "js",
-        "html",
-        "css",
-        "angular",
-        "wordpress",
-        "react-js"
-      ],
-      "soft": [],
-      "tools": [
-        "illustrator",
-        "photoshop",
-        "figma",
-        "kubernetes",
-        "docker",
-        "git",
-        "jira",
-        "scrum",
-        "postman"
-      ]
-    },
-    "detailed": {
-      "technical": {},
-      "soft": {}
-    }
-  },
-  "certifications": [],
-  "projects": [],
-  "languages": [
-    {
-      "language": "Español",
-      "proficiency": "Nativo"
-    },
-    {
-      "language": "Inglés",
-      "proficiency": "B1/B2"
-    }
-  ],
-  "volunteer_experience": [],
-  "publications": [],
-  "references": []
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B1/B2"
+        },
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
 }

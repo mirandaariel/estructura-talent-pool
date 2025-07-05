@@ -16,8 +16,8 @@
     },
     "work_experience": [
         {
-            "job_title": "Monotributista",
-            "company": "Mensajería freelance",
+            "job_title": "Mensajería freelance",
+            "company": "",
             "location": "",
             "start_date": "2024-01-01",
             "end_date": "",
@@ -29,14 +29,14 @@
         {
             "job_title": "Encargado",
             "company": "Davis Rosario",
-            "location": "",
+            "location": "Rosario",
             "start_date": "2022-01-01",
             "end_date": "2023-12-31",
             "currently_working": false,
             "responsibilities": [
-                "Coordinación cocina-salón",
-                "Dirección de eventos",
-                "Pagos a personal, diarios y mensuales"
+                "Coordinación cocina-salón.",
+                "Dirección de eventos.",
+                "Pagos a personal, diarios y mensuales."
             ],
             "achievements": [],
             "repository_url": ""
@@ -44,15 +44,15 @@
         {
             "job_title": "Encargado y jefe de servicio",
             "company": "Ceviche Rosario",
-            "location": "",
+            "location": "Rosario",
             "start_date": "2018-01-01",
             "end_date": "2022-12-31",
             "currently_working": false,
             "responsibilities": [
-                "Manejo de personal, cocina y salón",
-                "Coordinación cocina con barra de sushi",
-                "Manejo de caja, cobros",
-                "Capacitación del personal"
+                "Manejo de personal, cocina y salón.",
+                "Coordinación cocina con barra de sushi.",
+                "Manejo de caja, cobros.",
+                "Capacitación del personal."
             ],
             "achievements": [],
             "repository_url": ""
@@ -60,15 +60,15 @@
         {
             "job_title": "Encargado y jefe de servicio",
             "company": "Dashi Sushi Rosario",
-            "location": "",
+            "location": "Rosario",
             "start_date": "2015-01-01",
             "end_date": "2018-12-31",
             "currently_working": false,
             "responsibilities": [
-                "Manejo de personal, cocina y salón",
-                "Coordinación cocina con barra de sushi",
-                "Manejo de caja, cobros",
-                "Capacitación del personal"
+                "Manejo de personal, cocina y salón.",
+                "Coordinación cocina con barra de sushi.",
+                "Manejo de caja, cobros.",
+                "Capacitación del personal."
             ],
             "achievements": [],
             "repository_url": ""
@@ -92,7 +92,7 @@
                 "c++",
                 "html",
                 "css",
-                "javaScript",
+                "javascript",
                 "spring-boot",
                 "hibernate",
                 "jpa0",
@@ -113,7 +113,11 @@
             ]
         },
         "detailed": {
-            "technical": {},
+            "technical": {
+                "java": [],
+                "spring-boot": [],
+                "hibernate": []
+            },
             "soft": {}
         }
     },
@@ -137,11 +141,7 @@
         {
             "name": "Sistema de Gestión de Tareas",
             "description": "Implementación de un sistema CRUD para la gestión de tareas utilizando Spring Boot.",
-            "technologies": [
-                "Java",
-                "Spring Boot",
-                "MySQL"
-            ],
+            "technologies": ["java", "spring-boot", "mysql"],
             "url": ""
         }
     ],

@@ -12,12 +12,12 @@
         "linkedin": "https://www.linkedin.com/in/carla-patricia-soyomayor-anaya-ti/",
         "website": "https://github.com/capasoan",
         "portfolio": "",
-        "summary": "Soy una profesional autónoma y autodidacta con experiencia en desarrollo FrontEnd, especializada en la creación de interfaces interactivas en aplicaciones webs y aplicaciones móviles. He trabajado con tecnologías como JavaScript, React.js, React Native, Redux, y CSS, a demás de utilizar Canva, lo que me ha permitido desarrollar aplicaciones web y móviles de alto rendimiento, centradas en la experiencia del usuario. Además, he utilizado herramientas como WordPress para la creación y gestión de páginas web, asegurando su funcionamiento óptimo en servidores como Hostgator y Hostinger."
+        "summary": "Soy una profesional autónoma y autodidacta con experiencia en desarrollo FrontEnd, especializada en la creación de interfaces interactivas en aplicaciones webs y aplicaciones móviles. He trabajado con tecnologías como JavaScript, React.js, React Native, Redux, y CSS, además utilizo Canva para desarrollar aplicaciones web y móviles de alto rendimiento, centradas en la experiencia del usuario. He utilizado WordPress para la creación y gestión de páginas web, asegurando su funcionamiento óptimo en servidores como Hostgator y Hostinger."
     },
     "work_experience": [
         {
             "job_title": "Profesional",
-            "company": "Corporación Alianza Formativa",
+            "company": "CORPORACION ALIANZA FORMATIVA",
             "location": "",
             "start_date": "2018-09-01",
             "end_date": "2021-10-31",
@@ -35,13 +35,13 @@
         },
         {
             "job_title": "Profesional del componente psicosocial",
-            "company": "Organización Internacional del Trabajo OIT",
+            "company": "ORGANIZACIÓN INTERNACIONAL DEL TRABAJO OIT",
             "location": "Ovejas, Sucre",
             "start_date": "2023-05-01",
             "end_date": "2023-12-31",
             "currently_working": false,
             "responsibilities": [
-                "Coordiné las actividades en el territorio de Ovejas, Sucre realizando un seguimiento continuo a los participantes del programa \"El Campo es Paz Total\", para evaluar su progreso y ajustar intervenciones según sea necesario.",
+                "Coordiné las actividades en el territorio de Ovejas, Sucre realizando un seguimiento continuo a los participantes del programa 'El Campo es Paz Total', para evaluar su progreso y ajustar intervenciones según sea necesario.",
                 "Implementé enfoques psicosociales con enfoque diferencial y de género.",
                 "Diseñé y llevé a cabo acciones diferenciadas para personas en condición de discapacidad.",
                 "Proporcioné capacitación psicosocial al equipo de trabajo o talento humano."
@@ -85,33 +85,30 @@
                 "hostinger"
             ]
         },
-        "detailed": {
-            "technical": [],
-            "soft": []
-        }
+        "detailed": []
     },
     "certifications": [],
     "projects": [
         {
-            "name": "FrontEnd Web Developer - Bella Muse",
-            "description": "La tienda de ropa virtual Bella muse, para mujeres, ofrece una experiencia de compra en línea intuitiva y completa. Los usuarios pueden filtrar productos por categorías, ordenar por precios y de forma alfabética, y buscar prendas por nombre. La plataforma permite compras en línea a través de Mercado Pago y cuenta con un sistema de registro de usuarios con verificación por correo electrónico, garantizando una experiencia segura y personalizada.",
+            "name": "Bella Muse",
+            "description": "La tienda de ropa virtual Bella Muse para mujeres, ofrece una experiencia de compra en línea intuitiva y completa. Los usuarios pueden filtrar productos por categorías, ordenar por precios y de forma alfabética, y buscar prendas por nombre. La plataforma permite compras en línea a través de Mercado Pago y cuenta con un sistema de registro de usuarios con verificación por correo electrónico, garantizando una experiencia segura y personalizada.",
             "technologies": [
-                "react",
-                "redux",
-                "css",
-                "bootstrap",
-                "postgreSQL",
-                "sequelize",
-                "cloudinary",
-                "railway"
+                "React",
+                "Redux",
+                "CSS",
+                "Bootstrap",
+                "PostgreSQL",
+                "Sequelize",
+                "Railway",
+                "Cloudinary"
             ],
             "url": "https://github.com/Gabriel-Villalba/pfFontEnd"
         },
         {
-            "name": "Wordpress - Coorpoalianza Academy",
-            "description": "La página de Coorpoalianza Academy fue creada para satisfacer la creciente necesidad de ofrecer educación no formal accesible y de calidad tanto a profesionales como a estudiantes. Busca facilitar el acceso a programas de formación, entrenamiento y capacitación a través de una plataforma interactiva que permite a los usuarios participar activamente mediante comentarios, encuestas, calificaciones y acceso a vídeos educativos.",
+            "name": "Coorpoalianza Academy",
+            "description": "La página de Coorpoalianza Academy fue creada para ofrecer educación no formal accesible y de calidad tanto a profesionales como a estudiantes. Busca facilitar el acceso a programas de formación, entrenamiento y capacitación a través de una plataforma interactiva que permite comentarios, encuestas, calificaciones y acceso a vídeos educativos.",
             "technologies": [
-                "wordpress"
+                "WordPress"
             ],
             "url": "https://coorpoalianzaacademy.com/home-1/"
         }

@@ -3,7 +3,7 @@
         "first_name": "Leidy Caterin",
         "last_name": "Rivera Fajardo",
         "email": "leidy.riveraf@gmail.com",
-        "phone": "+57 3138798873",
+        "phone": "+57 313 879 8873",
         "location": {
             "country": "Colombia",
             "city": "Bogotá",
@@ -19,7 +19,7 @@
         {
             "degree": "Desarrollo web full stack",
             "institution": "Fundacion Educamas-SIMPLON",
-            "location": "Bogotá, Colombia",
+            "location": "",
             "start_date": "2022-01-01",
             "end_date": "2023-12-31",
             "hours": 0
@@ -27,7 +27,7 @@
         {
             "degree": "Tecnología en Gestion Ambiental",
             "institution": "Politecnico Grancolombiano",
-            "location": "Bogotá, Colombia",
+            "location": "",
             "start_date": "2013-01-01",
             "end_date": "2016-12-31",
             "hours": 0
@@ -38,8 +38,7 @@
             "technical": [
                 "react",
                 "next.js",
-                "es6+",
-                "javascript",
+                "es6+-javascript",
                 "html",
                 "css",
                 "typescript",
@@ -74,43 +73,43 @@
             "name": "Plataforma E-Commerce de Venta",
             "description": "Desarrollo de una plataforma de comercio electrónico para la venta de licores, con una interfaz de usuario moderna y totalmente responsive.",
             "technologies": [
-                "react",
-                "typescript",
-                "next.js",
-                "tailwind-css"
+                "React",
+                "TypeScript",
+                "Next.js",
+                "Tailwind CSS"
             ],
             "url": ""
         },
         {
-            "name": "Plataforma AUJ - Adopta un Junior",
-            "description": "Plataforma web para gestionar la información de perfiles junior, oportunidades laborales y retos.",
+            "name": "Plataforma AUJ - Adopta Un Junior",
+            "description": "Participé en el desarrollo de una plataforma web para gestionar perfiles junior, oportunidades laborales y retos.",
             "technologies": [
-                "javascript",
-                "reactjs",
-                "nodejs"
+                "JavaScript",
+                "Reactjs",
+                "Nodejs"
             ],
             "url": ""
         },
         {
             "name": "Plataforma Programate School",
-            "description": "Backend para control y manejo de solicitudes HTTP para la plataforma de automatización de procesos de selección.",
+            "description": "Colaboré en la creación e implementación de soluciones backend para el control y manejo de solicitudes HTTP.",
             "technologies": [
-                "javascript",
-                "reactjs",
-                "nodejs",
-                "mongodb"
+                "JavaScript",
+                "Reactjs",
+                "Nodejs",
+                "MongoDB"
             ],
             "url": ""
         }
     ],
     "languages": [
         {
-            "language": "English",
+            "language": "Inglés",
             "proficiency": "A2"
         },
         {
-            "language": "Spanish",
-            "proficiency": "Native"
+            "language": "Español",
+            "proficiency": "Nativo"
         }
     ],
     "volunteer_experience": [],

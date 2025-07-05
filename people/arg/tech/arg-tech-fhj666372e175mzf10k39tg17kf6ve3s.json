@@ -3,16 +3,16 @@
         "first_name": "Lee Marily",
         "last_name": "Chirinos Ochoa",
         "email": "leemarilychirinos@gmail.com",
-        "phone": "+541155943407",
+        "phone": "+54 1155943407",
         "location": {
             "country": "Argentina",
-            "city": "CABA",
-            "state": ""
+            "city": "",
+            "state": "CABA"
         },
         "linkedin": "https://www.linkedin.com/in/lee-marilychirinos-ochoa-a8b44990",
         "website": "",
         "portfolio": "https://github.com/leeChirinos",
-        "summary": "Graduada como Desarrollador FullStack con experiencia como Developer Backend en proyectos tecnológicos y más de 10 años en análisis estadístico basado en investigaciones gubernamentales."
+        "summary": "Soy graduada como Desarrollador FullStack con experiencia en Backend y más de 10 años en análisis estadísticos. Busco desarrollarme en tecnología."
     },
     "work_experience": [
         {
@@ -23,22 +23,10 @@
             "end_date": "",
             "currently_working": true,
             "responsibilities": [
-                "Realizar testing, análisis, depuración y migración de base de datos en NAV 2016.",
+                "Realizar testing, análisis, depuración y migración de base de datos en sistema NAV 2016.",
                 "Coordinar el Sistema de Gestión de Calidad en la fábrica.",
-                "Crear indicadores de calidad y análisis de datos."
-            ],
-            "achievements": [],
-            "repository_url": ""
-        },
-        {
-            "job_title": "Pasantías Desarrollador FullStack",
-            "company": "CILSA-FARA",
-            "location": "Argentina",
-            "start_date": "",
-            "end_date": "",
-            "currently_working": true,
-            "responsibilities": [
-                "Desarrollar la página web de FARA con asesoría del personal técnico CILSA."
+                "Creación de indicadores de calidad.",
+                "Análisis de datos."
             ],
             "achievements": [],
             "repository_url": ""
@@ -46,14 +34,15 @@
         {
             "job_title": "Developer Backend",
             "company": "UTN Buenos Aires",
-            "location": "Buenos Aires, Argentina",
+            "location": "",
             "start_date": "2023-08-01",
             "end_date": "2023-12-31",
             "currently_working": false,
             "responsibilities": [
-                "Trabajo en un Agile Squad utilizando Arquitectura Web Server Side Render con Java 17.",
-                "Usar Spring Boot, Hibernate, MySQL/Maria DB y tecnologías frontend HTML 5, CSS 3, JavaScript.",
-                "Manejo de GIT y Metodología ágil SCRUM."
+                "Desempeño en un Agile Squad en un proyecto orientado a Servicios.",
+                "Trabajo con stack tecnológico: Java 17, Spring Boot, Hibernate, MySQL/Maria DB.",
+                "Utilización de tecnologías frontend: HTML 5, CSS 3, JavaScript.",
+                "Manejo de GIT y seguimiento de metodología SCRUM."
             ],
             "achievements": [],
             "repository_url": ""
@@ -66,8 +55,9 @@
             "end_date": "2019-09-30",
             "currently_working": false,
             "responsibilities": [
-                "Realizar estimaciones estadísticas de población para recolección eficaz de datos.",
-                "Redactar reportes de análisis de datos basados en evaluaciones probabilísticas y matemáticas."
+                "Realizar estimaciones estadísticas de características de la población.",
+                "Redacción de reportes de análisis de datos basados en evaluaciones probabilísticas y matemáticas.",
+                "Eficaz recolección y reportes de análisis de datos."
             ],
             "achievements": [],
             "repository_url": ""
@@ -75,11 +65,19 @@
     ],
     "education": [
         {
-            "degree": "Curso de Bilingue-Ingles",
-            "institution": "",
+            "degree": "Diplomado en Seguridad Higiene y Ambiente",
+            "institution": "Instituto Tecnológico UNIR",
             "location": "",
-            "start_date": "",
-            "end_date": "",
+            "start_date": "2009-01-01",
+            "end_date": "2009-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniera de Petróleo",
+            "institution": "Universidad del Zulia",
+            "location": "",
+            "start_date": "2000-01-01",
+            "end_date": "2007-12-31",
             "hours": 0
         },
         {
@@ -91,17 +89,9 @@
             "hours": 0
         },
         {
-            "degree": "Talento Tech Curso JS Front End",
-            "institution": "",
-            "location": "",
-            "start_date": "",
-            "end_date": "",
-            "hours": 0
-        },
-        {
             "degree": "Machine Learning",
             "institution": "Universidad Tecnológica Nacional de Buenos Aires",
-            "location": "Buenos Aires, Argentina",
+            "location": "",
             "start_date": "2024-02-21",
             "end_date": "2024-03-28",
             "hours": 0
@@ -121,87 +111,54 @@
             "start_date": "2022-11-01",
             "end_date": "2022-12-31",
             "hours": 0
-        },
-        {
-            "degree": "Gestión de Base de Datos",
-            "institution": "Centro de Formación Profesional Nro 8",
-            "location": "",
-            "start_date": "2021-03-01",
-            "end_date": "2022-07-31",
-            "hours": 0
-        },
-        {
-            "degree": "Fundamento de Base de Datos y Lenguaje SQL",
-            "institution": "Academia Vit",
-            "location": "",
-            "start_date": "2022-08-01",
-            "end_date": "2022-08-31",
-            "hours": 0
-        },
-        {
-            "degree": "Inglés para el trabajo IT",
-            "institution": "Agencia de Aprendizaje",
-            "location": "",
-            "start_date": "2022-08-01",
-            "end_date": "2022-12-31",
-            "hours": 0
-        },
-        {
-            "degree": "Diplomado en Seguridad Higiene y Ambiente",
-            "institution": "Instituto Tecnológico UNIR",
-            "location": "",
-            "start_date": "",
-            "end_date": "2009-12-31",
-            "hours": 0
-        },
-        {
-            "degree": "Ingeniera de Petróleo",
-            "institution": "Universidad del Zulia",
-            "location": "",
-            "start_date": "2000-01-01",
-            "end_date": "2007-12-31",
-            "hours": 0
         }
     ],
     "skills": {
         "keywords": {
             "technical": [
+                "html",
+                "css",
                 "javascript",
                 "react.js",
                 "express.js",
+                "mongodb",
                 "mysql",
-                "mariadb",
                 "java",
-                "springboot",
-                "hibernate",
-                "html5",
-                "css3",
-                "git"
+                "spring-boot",
+                "hibernate"
             ],
             "soft": [],
             "tools": [
-                "scrum",
-                "kaggle"
+                "git",
+                "scrum"
             ]
         },
-        "detailed": {
-            "technical": {},
-            "soft": {}
-        }
+        "detailed": {}
     },
     "certifications": [],
     "projects": [],
     "languages": [
         {
-            "language": "Spanish",
+            "language": "Español",
             "proficiency": "Native"
         },
         {
-            "language": "English",
+            "language": "Inglés",
             "proficiency": "Intermediate"
         }
     ],
-    "volunteer_experience": [],
+    "volunteer_experience": [
+        {
+            "role": "Pasantías Desarrollador FullStack",
+            "organization": "CILSA-FARA",
+            "location": "Argentina",
+            "start_date": "",
+            "end_date": "",
+            "responsibilities": [
+                "Participación en desarrollo de la página web de FARA con asesoría técnica de CILSA."
+            ]
+        }
+    ],
     "publications": [],
     "references": []
 }

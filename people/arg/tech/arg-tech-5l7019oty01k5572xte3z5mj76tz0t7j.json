@@ -12,7 +12,7 @@
         "linkedin": "",
         "website": "https://jeidersilgado.com",
         "portfolio": "",
-        "summary": "Soy un desarrollador Fullstack con 1 año de experiencia en .NET, Azure DevOps, C#, MySQL, SQL, APIs, GitHub y metodologías Scrum. Experiencia en desarrollo backend y frontend con JavaScript, React, React Native, Express y Node.js, y en la creación de interfaces interactivas e integración de APIs en entornos cloud."
+        "summary": "Soy un desarrollador Fullstack con 1 año de experiencia trabajando en .NET, Azure DevOps, C#, MySQL, SQL, APIs, GitHub, y metodologías Scrum. He trabajado en el diseño de APIs escalables con arquitectura hexagonal en .NET C#. Además, tengo experiencia en desarrollo backend y frontend en JavaScript (ES6+), React, React Native, Express y Node.js, y con experiencia en la creación de interfaces interactivas e integración de APIs en entornos cloud. Manejo Redux Toolkit, Vite, Tailwind CSS y bases de datos como MongoDB, Firebase y MySQL."
     },
     "work_experience": [
         {
@@ -32,14 +32,14 @@
             "repository_url": ""
         },
         {
-            "job_title": "E-commerce Developer",
+            "job_title": "E-commerce",
             "company": "",
             "location": "",
-            "start_date": "",
-            "end_date": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-10-01",
             "currently_working": false,
             "responsibilities": [
-                "Desarrollé una tienda en línea con React y Firefoxe, implementando autenticación con Google y manejo de usuarios.",
+                "Desarrollé una tienda en línea con React y Firebase, implementando autenticación con Google y manejo de usuarios.",
                 "Creé un carrito de compras interactivo, gestionando el estado global con Redux Toolkit.",
                 "Optimicé el rendimiento con lazy loading y prefetching, reduciendo el tiempo de carga en un 30%.",
                 "Implementé Stripe API para pagos seguros y gestión de transacciones."
@@ -66,10 +66,9 @@
                 "c#",
                 "mysql",
                 "sql",
-                "api",
+                "apis",
                 "github",
-                "scrum",
-                "javascript",
+                "javascript-es6+",
                 "react",
                 "react-native",
                 "express",
@@ -78,14 +77,17 @@
                 "vite",
                 "tailwind-css",
                 "mongodb",
-                "firefoxe"
+                "firebase"
             ],
-            "soft": [],
+            "soft": [
+                "scrum"
+            ],
             "tools": []
         },
         "detailed": {
             "technical": {},
-            "soft": {}
+            "soft": {},
+            "tools": {}
         }
     },
     "certifications": [
@@ -94,7 +96,7 @@
             "issuing_organization": "",
             "issue_date": "",
             "expiration_date": "",
-            "credential_id": "JeiderSilgado-990370"
+            "credential_id": "990370"
         },
         {
             "name": "PCAP Programming Essentials in Python",
@@ -104,7 +106,7 @@
             "credential_id": ""
         },
         {
-            "name": "Introducción a IoT",
+            "name": "Introducción a loT",
             "issuing_organization": "",
             "issue_date": "",
             "expiration_date": "",

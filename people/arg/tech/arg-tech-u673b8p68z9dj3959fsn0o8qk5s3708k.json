@@ -1,150 +1,148 @@
 {
-  "personal_info": {
-    "first_name": "Daniel",
-    "last_name": "Mendoza",
-    "email": "dm1084@gmail.com",
-    "phone": "",
-    "location": {
-      "country": "Argentina",
-      "city": "Buenos Aires",
-      "state": ""
+    "personal_info": {
+        "first_name": "Daniel",
+        "last_name": "Mendoza",
+        "email": "dm1084@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Monitoring Analyst with experience at Johnson Controls, specializing in providing technical support and training in security systems. Strong skills in technological tools and software, with a focus on continuous improvement of security and operational efficiency."
     },
-    "linkedin": "",
-    "website": "",
-    "portfolio": "",
-    "summary": "Monitoring Analyst with experience at Johnson Controls, specializing in providing technical support and training in security systems. Strong skills in technological tools and software, with a focus on continuous improvement of security and operational efficiency."
-  },
-  "work_experience": [
-    {
-      "job_title": "Security Operations Specialist",
-      "company": "Johnson Controls",
-      "location": "",
-      "start_date": "2021-09-01",
-      "end_date": "",
-      "currently_working": true,
-      "responsibilities": [
-        "Teamwork with local and remote collaborators.",
-        "Threat hunting and detection of cybercriminal activities.",
-        "Analysis of cybersecurity threats and fraud schemes.",
-        "Implementation and support of standard incident response procedures.",
-        "Software migrations to different versions.",
-        "Production of findings to support police investigations.",
-        "Development of visualizations, reports, and dashboards in Power BI."
-      ],
-      "achievements": [],
-      "repository_url": ""
+    "work_experience": [
+        {
+            "job_title": "Security Operations Specialist",
+            "company": "Johnson Controls",
+            "location": "",
+            "start_date": "2021-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Teamwork with local and remote collaborators.",
+                "Threat hunting and detection of cybercriminal activities.",
+                "Analysis of cybersecurity threats and fraud schemes.",
+                "Implementation and support of standard incident response procedures.",
+                "Software migrations to different versions.",
+                "Production of findings to support police investigations.",
+                "Development of visualizations, reports, and dashboards in Power BI."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Security Analyst",
+            "company": "Johnson Controls",
+            "location": "",
+            "start_date": "2018-09-01",
+            "end_date": "2021-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Support for security incidents in JCI branches in Latin America.",
+                "Vulnerability analysis and reports to improve security measures.",
+                "Training and advising new employees in monitoring and security controls.",
+                "Coordination of teams and networks for internal audits and problem solving."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Security Operations Specialist",
+            "company": "ADT",
+            "location": "",
+            "start_date": "2007-11-01",
+            "end_date": "2018-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Monitoring alarms and specialized software for threat detection.",
+                "Coordination with teams for timely responses to security incidents.",
+                "Generation of reports in SAP to analyze security gaps.",
+                "Proactive threat management within a robust security framework."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Cybersecurity Career",
+            "institution": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachelor's Degree in Computer Systems",
+            "institution": "Universidad de San Martín",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Security Chief",
+            "institution": "IASI (Argentine Institute of Integral Security)",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "vulnerability-analysis-and-reporting",
+                "implementation-of-security-improvements",
+                "complex-technical-problem-solving",
+                "development-and-maintenance-of-security-networks",
+                "configuration-and-planning-of-security-equipment",
+                "training-and-mentoring-in-monitoring-and-security-controls",
+                "programming-of-automatic-dialers,-integration-with-power-bi,-excel,-and-monitoring-software",
+                "coordination-of-teams-and-internal-audits",
+                "managed-security-services",
+                "cybersecurity-monitoring",
+                "iso-27001",
+                "security-operations",
+                "programming-and-data-analysis",
+                "quality-control"
+            ],
+            "soft": [],
+            "tools": [
+                "python",
+                "microsoft-office-suite",
+                "nac",
+                "mastermind-monitoring",
+                "adobe-photoshop",
+                "excel",
+                "google-analytics",
+                "databricks",
+                "power-bi",
+                "sap"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
     },
-    {
-      "job_title": "Security Analyst",
-      "company": "Johnson Controls",
-      "location": "",
-      "start_date": "2018-09-01",
-      "end_date": "2021-08-31",
-      "currently_working": false,
-      "responsibilities": [
-        "Support for security incidents in JCI branches in Latin America.",
-        "Vulnerability analysis and reports to improve security measures.",
-        "Training and advising new employees in monitoring and security controls.",
-        "Coordination of teams and networks for internal audits and problem solving."
-      ],
-      "achievements": [],
-      "repository_url": ""
-    },
-    {
-      "job_title": "Security Operations Specialist",
-      "company": "ADT",
-      "location": "",
-      "start_date": "2007-11-01",
-      "end_date": "2018-08-31",
-      "currently_working": false,
-      "responsibilities": [
-        "Monitoring alarms and specialized software for threat detection.",
-        "Coordination with teams for timely responses to security incidents.",
-        "Generation of reports in SAP to analyze security gaps.",
-        "Proactive threat management within a robust security framework."
-      ],
-      "achievements": [],
-      "repository_url": ""
-    }
-  ],
-  "education": [
-    {
-      "degree": "Cybersecurity Career (in progress)",
-      "institution": "",
-      "location": "",
-      "start_date": "",
-      "end_date": "",
-      "hours": 0
-    },
-    {
-      "degree": "Bachelor's Degree in Computer Systems (in progress)",
-      "institution": "Universidad de San Martín",
-      "location": "",
-      "start_date": "",
-      "end_date": "",
-      "hours": 0
-    },
-    {
-      "degree": "Security Chief",
-      "institution": "IASI (Argentine Institute of Integral Security)",
-      "location": "",
-      "start_date": "",
-      "end_date": "",
-      "hours": 0
-    }
-  ],
-  "skills": {
-    "keywords": {
-      "technical": [
-        "vulnerability-analysis-and-reporting",
-        "implementation-of-security-improvements",
-        "complex-technical-problem-solving",
-        "development-and-maintenance-of-security-networks",
-        "configuration-and-planning-of-security-equipment",
-        "training-and-mentoring-in-monitoring-and-security-controls",
-        "programming-of-automatic-dialers",
-        "integration-with-power-bi",
-        "excel",
-        "monitoring-software",
-        "managed-security-services",
-        "cybersecurity-monitoring",
-        "iso-27001",
-        "security-operations",
-        "programming-and-data-analysis",
-        "quality-control"
-      ],
-      "soft": [],
-      "tools": [
-        "python",
-        "microsoft-office-suite",
-        "nac",
-        "mastermind-monitoring",
-        "adobe-photoshop",
-        "excel",
-        "google-analytics",
-        "databricks",
-        "power-bi",
-        "sap"
-      ]
-    },
-    "detailed": {
-      "technical": {},
-      "soft": {}
-    }
-  },
-  "certifications": [],
-  "projects": [],
-  "languages": [
-    {
-      "language": "English",
-      "proficiency": "Advanced (B1)"
-    },
-    {
-      "language": "German",
-      "proficiency": "Beginner"
-    }
-  ],
-  "volunteer_experience": [],
-  "publications": [],
-  "references": []
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Advanced"
+        },
+        {
+            "language": "German",
+            "proficiency": "Beginner"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
 }

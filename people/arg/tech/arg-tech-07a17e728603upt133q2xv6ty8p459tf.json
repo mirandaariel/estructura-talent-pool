@@ -1,7 +1,7 @@
 {
     "personal_info": {
-        "first_name": "",
-        "last_name": "Pretill",
+        "first_name": "Milton",
+        "last_name": "Ruiz",
         "email": "miltonfruizok@outlook.es",
         "phone": "",
         "location": {
@@ -9,104 +9,12 @@
             "city": "",
             "state": ""
         },
-        "linkedin": "",
+        "linkedin": "https://linkedin.com/in/miltonfruiz",
         "website": "",
-        "portfolio": "",
+        "portfolio": "https://github.com/miltonfruiz",
         "summary": "Desarrollador Web Full Stack MERN con formación en Ciberseguridad y certificado como Analista SOC. Especializado en crear aplicaciones modernas, seguras y eficientes, priorizando buenas prácticas y protección de datos."
     },
-    "work_experience": [
-        {
-            "job_title": "Full Stack MERN",
-            "company": "No Country",
-            "location": "",
-            "start_date": "2025-01-01",
-            "end_date": "2025-02-28",
-            "currently_working": false,
-            "responsibilities": [
-                "Desarrollo de una web que permite aprender y practicar nuevos idiomas de manera colaborativa entre usuarios."
-            ],
-            "achievements": [],
-            "repository_url": ""
-        },
-        {
-            "job_title": "Full Stack Python",
-            "company": "TUP",
-            "location": "",
-            "start_date": "2024-09-01",
-            "end_date": "2024-11-30",
-            "currently_working": false,
-            "responsibilities": [
-                "Desarrollo de una web que muestra noticias organizadas por categorías, permite a los usuarios comentar o compartir artículos."
-            ],
-            "achievements": [],
-            "repository_url": ""
-        },
-        {
-            "job_title": "Full Stack Python",
-            "company": "TUP",
-            "location": "",
-            "start_date": "2024-10-01",
-            "end_date": "2024-11-30",
-            "currently_working": false,
-            "responsibilities": [
-                "Desarrollo de una web que permite cargar imágenes y asociarlas a títulos y descripciones, facilitando su organización y visualización."
-            ],
-            "achievements": [],
-            "repository_url": ""
-        },
-        {
-            "job_title": "Full Stack Python",
-            "company": "TUP",
-            "location": "",
-            "start_date": "2024-09-01",
-            "end_date": "2024-10-31",
-            "currently_working": false,
-            "responsibilities": [
-                "Desarrollo de una plataforma educativa que permite administrar información de alumnos, profesores y materias."
-            ],
-            "achievements": [],
-            "repository_url": ""
-        },
-        {
-            "job_title": "Full Stack MERN",
-            "company": "MindHub",
-            "location": "",
-            "start_date": "2023-07-01",
-            "end_date": "2023-09-30",
-            "currently_working": false,
-            "responsibilities": [
-                "Desarrollo de una web con autenticación basada en roles que permite interacción entre usuarios y administración de datos."
-            ],
-            "achievements": [],
-            "repository_url": ""
-        },
-        {
-            "job_title": "Frontend",
-            "company": "MindHub",
-            "location": "",
-            "start_date": "2023-02-01",
-            "end_date": "2023-03-31",
-            "currently_working": false,
-            "responsibilities": [
-                "Desarrollo de una web con filtros dinámicos, búsqueda avanzada, e integración de API para ofrecer datos actualizados."
-            ],
-            "achievements": [],
-            "repository_url": ""
-        },
-        {
-            "job_title": "Frontend",
-            "company": "MindHub",
-            "location": "",
-            "start_date": "2023-01-01",
-            "end_date": "2023-02-28",
-            "currently_working": false,
-            "responsibilities": [
-                "Desarrollo de una web con acceso a información y recursos para fomentar la comunicación entre miembros actuales y potenciales."
-            ],
-            "achievements": [],
-            "repository_url": ""
-        }
-    ],
+    "work_experience": [],
     "education": [
         {
             "degree": "Especialista en Seguridad",
@@ -126,7 +34,7 @@
         },
         {
             "degree": "Ingeniero en Sistemas",
-            "institution": "U.T.N.",
+            "institution": "U.T.N",
             "location": "",
             "start_date": "",
             "end_date": "",
@@ -164,10 +72,7 @@
                 "postman"
             ]
         },
-        "detailed": {
-            "technical": [],
-            "soft": []
-        }
+        "detailed": []
     },
     "certifications": [
         {
@@ -185,14 +90,14 @@
             "credential_id": ""
         },
         {
-            "name": "Windows Server Avanzado",
+            "name": "Windows Server Avanzado - Analista en Ciberseguridad - Defensa",
             "issuing_organization": "",
             "issue_date": "",
             "expiration_date": "",
             "credential_id": ""
         },
         {
-            "name": "Analista en Ciberseguridad - Defensa",
+            "name": "CCST",
             "issuing_organization": "",
             "issue_date": "",
             "expiration_date": "",
@@ -201,8 +106,8 @@
         {
             "name": "CCNA1 (Redes)",
             "issuing_organization": "",
-            "issue_date": "2024-01-01",
-            "expiration_date": "",
+            "issue_date": "",
+            "expiration_date": "2024-12-31",
             "credential_id": ""
         },
         {
@@ -211,20 +116,70 @@
             "issue_date": "2023-01-01",
             "expiration_date": "",
             "credential_id": ""
-        },
-        {
-            "name": "Desarrollador Web Frontend",
-            "issuing_organization": "",
-            "issue_date": "",
-            "expiration_date": "",
-            "credential_id": ""
         }
     ],
-    "projects": [],
+    "projects": [
+        {
+            "name": "Parolu!",
+            "description": "Web que permite aprender y practicar nuevos idiomas de manera colaborativa entre usuarios.",
+            "technologies": [
+                "MERN"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Tecnotab",
+            "description": "Web que muestra noticias organizadas por categorías, permite a los usuarios comentar o compartir artículos.",
+            "technologies": [
+                "Full Stack Python"
+            ],
+            "url": ""
+        },
+        {
+            "name": "SnapGallery",
+            "description": "Web que permite cargar imágenes y asociarlas a título, descripción, facilitando su organización y visualización.",
+            "technologies": [
+                "Full Stack Python"
+            ],
+            "url": ""
+        },
+        {
+            "name": "SGCursos",
+            "description": "Web que permite administrar información de alumnos, profesores y materias.",
+            "technologies": [
+                "Full Stack Python"
+            ],
+            "url": ""
+        },
+        {
+            "name": "My Tinerary",
+            "description": "Web con autenticación basada en roles, que permite interacción entre usuarios y administración de datos.",
+            "technologies": [
+                "MERN"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Amazing Events",
+            "description": "Web con filtros dinámicos, búsqueda avanzada, e integración de API para ofrecer datos actualizados.",
+            "technologies": [
+                "Frontend"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Mighty Ducks Hockey League",
+            "description": "Web con acceso a información y recursos para fomentar la comunicación entre miembros actuales y potenciales.",
+            "technologies": [
+                "Frontend"
+            ],
+            "url": ""
+        }
+    ],
     "languages": [
         {
             "language": "Inglés",
-            "proficiency": "B1 (Intermedio Alto)"
+            "proficiency": "Nivel B1 (Intermedio Alto)"
         }
     ],
     "volunteer_experience": [],
