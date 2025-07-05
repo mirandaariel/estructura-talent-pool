@@ -3,16 +3,16 @@
         "first_name": "Santiago",
         "last_name": "Centurion",
         "email": "Santignr10@gmail.com",
-        "phone": "(011) 3930-9160",
+        "phone": "+54 11 3930-9160",
         "location": {
-            "country": "",
+            "country": "Argentina",
             "city": "",
             "state": ""
         },
         "linkedin": "https://www.linkedin.com/in/santiago-centurion-87babb2b1",
         "website": "",
-        "portfolio": "https://proyectofinal-centurion.vercel.app",
-        "summary": "Soy una persona trabajadora, organizada y responsable, con una gran capacidad de aprendizaje y resolución de problemas. Me apasiona el desarrollo web y actualmente busco mi primera experiencia profesional en el sector IT. Actualmente, estoy cursando la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional."
+        "portfolio": "",
+        "summary": "Soy una persona trabajadora, organizada y responsable, con una gran capacidad de aprendizaje y resolución de problemas. Me apasiona el desarrollo web y actualmente busco mi primera experiencia profesional en el sector IT. Cuento con conocimientos en tecnologías como HTML, CSS, JavaScript, SASS, Node.js, Gulp y Bootstrap, aplicadas en proyectos personales."
     },
     "work_experience": [
         {
@@ -40,19 +40,19 @@
     ],
     "education": [
         {
+            "degree": "",
+            "institution": "Instituto de formación técnica superior San miguel arcángel",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        },
+        {
             "degree": "Tecnicatura Universitaria en Programación",
             "institution": "Universidad Tecnológica Nacional",
             "location": "",
             "start_date": "",
             "end_date": "",
-            "hours": 0
-        },
-        {
-            "degree": "",
-            "institution": "Instituto de formación técnica superior San Miguel Arcángel",
-            "location": "",
-            "start_date": "2016-01-01",
-            "end_date": "2019-12-31",
             "hours": 0
         }
     ],
@@ -62,28 +62,30 @@
                 "html",
                 "css",
                 "javascript",
-                "sass",
-                "node.js",
-                "gulp",
+                "es6+",
                 "bootstrap",
-                "c++"
+                "sass",
+                "c++",
+                "git",
+                "github",
+                "gulp",
+                "node.js"
             ],
             "soft": [
-                "creatividad",
-                "innovación",
+                "creatividad-e-innovación",
                 "redacción-de-contenido",
                 "capacidad-de-desarrollo",
                 "productividad",
-                "trabajo-en-equipo",
-                "resolución-de-problemas"
+                "trabajo-en-equipo"
             ],
             "tools": [
-                "git",
-                "github",
-                "gulp"
+                "scrum"
             ]
         },
-        "detailed": {}
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
     },
     "certifications": [],
     "projects": [
@@ -96,12 +98,12 @@
     ],
     "languages": [
         {
-            "language": "Español",
-            "proficiency": "Nativo"
+            "language": "Spanish",
+            "proficiency": "Native"
         },
         {
-            "language": "Inglés",
-            "proficiency": "Básico"
+            "language": "English",
+            "proficiency": "Basic"
         }
     ],
     "volunteer_experience": [],

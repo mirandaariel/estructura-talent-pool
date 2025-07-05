@@ -3,7 +3,7 @@
         "first_name": "Mariquena",
         "last_name": "Allosa",
         "email": "allosamariquena@gmail.com",
-        "phone": "4906954",
+        "phone": "+543764906954",
         "location": {
             "country": "Argentina",
             "city": "Posadas",
@@ -23,14 +23,14 @@
             "end_date": "",
             "currently_working": true,
             "responsibilities": [
-                "Implementé mejoras funcionales y de UI en un sistema de seguimiento de expedientes.",
-                "Refactoricé frontend y backend en un sistema de digitalización documental.",
-                "Brindé soporte y mantenimiento al visor del mapa catastral.",
-                "Coordiné el desarrollo de una app de telemedicina.",
-                "Desarrollo actualmente el frontend de una plataforma documental.",
-                "Participo en tareas de infraestructura en Google Cloud Platform.",
-                "Guié y capacité a un pasante durante 5 meses.",
-                "Participo activamente en sprints y dailies bajo metodología ágil."
+                "Implementé mejoras funcionales y de UI en un sistema de seguimiento de expedientes, incluyendo un sistema de notificaciones automáticas por email para usuarios clave.",
+                "Refactoricé frontend y backend en un sistema de digitalización documental, permitiendo la gestión de múltiples parcelas por documento.",
+                "Brindo soporte y mantenimiento al visor del mapa catastral, asegurando su estabilidad y rendimiento.",
+                "Coordiné el desarrollo de una app de telemedicina, liderando la implementación del frontend en Flutter y participando activamente en el diseño y desarrollo del backend.",
+                "Desarrollo actualmente el frontend de una plataforma documental conectada a una API en Fast API, integrada con flujos automatizados mediante n8n.",
+                "Participo en tareas de infraestructura colaborando en el despliegue de entornos de prueba en Google Cloud Platform.",
+                "Guié y capacité a un pasante durante 5 meses, promoviendo buenas prácticas de desarrollo, revisión de código y trabajo colaborativo.",
+                "Participo activamente en sprints y dailies bajo metodología ágil, mejorando la calidad del código entregado."
             ],
             "achievements": [],
             "repository_url": ""
@@ -43,13 +43,13 @@
             "end_date": "",
             "currently_working": true,
             "responsibilities": [
-                "Desarrollo y mantenimiento del backend de conectando.com.ar.",
-                "Participé en el modelado de datos con el equipo de desarrollo.",
-                "Colaboro con un equipo multidisciplinario.",
-                "Mantengo coordinación constante con otro desarrollador backend.",
-                "Implementé autenticación con JWT.",
-                "Brindo soporte al área de DevOps.",
-                "Reporto avances y obstáculos al project manager."
+                "Desarrollo y mantenimiento del backend de conectando.com.ar, una plataforma destinada a vincular ideas y talentos, utilizando Java y Spring Boot.",
+                "Participé en el modelado de datos junto al equipo de desarrollo, asegurando una estructura sólida y escalable desde etapas tempranas.",
+                "Colaboro con un equipo multidisciplinario que incluye diseñadores, QA, frontend y project managers, promoviendo la comunicación fluida y el trabajo colaborativo.",
+                "Mantengo coordinación constante con otro desarrollador backend para organizar tareas y asegurar continuidad en el desarrollo.",
+                "Implementé autenticación con JWT, mejorando la seguridad del acceso a los recursos de la aplicación.",
+                "Brindo soporte al área de DevOps, entregando la documentación e información necesaria para facilitar los despliegues en distintos entornos.",
+                "Reporto avances y obstáculos mediante reuniones periódicas o mensajes directos al project manager."
             ],
             "achievements": [],
             "repository_url": ""
@@ -62,10 +62,10 @@
             "end_date": "2024-01-31",
             "currently_working": false,
             "responsibilities": [
-                "Desarrollé la API backend de una plataforma para conectar inversores con microemprendedores.",
-                "Implementé soluciones con Java, Spring Boot, JPA y MySQL.",
-                "Trabajé en conjunto con roles clave del proyecto.",
-                "Establecí una base sólida y escalable para la plataforma."
+                "Desarrollé la API backend de una plataforma que conecta inversores con microemprendedores, contribuyendo activamente a la entrega de un MVP funcional.",
+                "Implementé soluciones con Java, Spring Boot, JPA y MySQL, integrando funcionalidades seguras con JWT y autenticación mediante Google OAuth.",
+                "Trabajé en conjunto con roles clave del proyecto (Frontend, Product Owner, PM, y Team Lead), promoviendo una comunicación fluida y colaboración efectiva.",
+                "Mi trabajo estableció una base sólida y escalable para el crecimiento futuro de la plataforma."
             ],
             "achievements": [],
             "repository_url": ""
@@ -75,7 +75,7 @@
         {
             "degree": "Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales",
             "institution": "Instituto Superior Politécnico Córdoba",
-            "location": "Posadas",
+            "location": "Posadas, Misiones",
             "start_date": "2022-01-01",
             "end_date": "2024-12-31",
             "hours": 0
@@ -83,7 +83,7 @@
         {
             "degree": "Desarrollo Full Stack con Java",
             "institution": "Silicon Misiones",
-            "location": "Posadas",
+            "location": "Posadas, Misiones",
             "start_date": "2023-01-01",
             "end_date": "2023-12-31",
             "hours": 60
@@ -94,7 +94,7 @@
             "location": "",
             "start_date": "2023-01-01",
             "end_date": "2023-12-31",
-            "hours": 480
+            "hours": 48
         }
     ],
     "skills": {
@@ -108,7 +108,7 @@
                 "javascript",
                 "typescript",
                 "mysql",
-                "postgreSQL",
+                "postgresql",
                 "git",
                 "github",
                 "python",
@@ -127,12 +127,12 @@
     "projects": [],
     "languages": [
         {
-            "language": "Inglés",
+            "language": "English",
             "proficiency": "B1"
         },
         {
-            "language": "Español",
-            "proficiency": "Nativo"
+            "language": "Spanish",
+            "proficiency": "Native"
         }
     ],
     "volunteer_experience": [],

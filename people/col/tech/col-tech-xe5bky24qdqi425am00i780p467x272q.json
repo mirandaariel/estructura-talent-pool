@@ -14,30 +14,123 @@
         "portfolio": "https://github.com/AndresDM7",
         "summary": "Soy un desarrollador frontend en formación como full stack, destacado por mi habilidad para aprender rápidamente y adaptarme a nuevas tecnologías y entornos laborales. Mi versatilidad me permite abordar desafíos en el desarrollo de software, tanto en el frontend como en el backend. Además, cuento con experiencia en la colaboración con equipos multidisciplinarios, lo que me ha permitido crear soluciones efectivas al aprovechar las fortalezas colectivas para alcanzar los objetivos del proyecto. Estoy comprometido con el aprendizaje continuo y con el perfeccionamiento de mis habilidades técnicas y de trabajo en equipo."
     },
-    "work_experience": [],
+    "work_experience": [
+        {
+            "job_title": "E-commerce FrontEnd Developer",
+            "company": "",
+            "location": "Bogotá D.C, Colombia",
+            "start_date": "2024-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Creación de un carrito de compras interactivo utilizando React.",
+                "Los productos se obtienen dinámicamente a través de una API mediante fetching, lo que permite que el catálogo de productos esté siempre actualizado.",
+                "La aplicación permite a los usuarios agregar y eliminar productos del carrito y gestionar la cantidad de cada producto.",
+                "Se implementaron buenas prácticas en la gestión del estado y en el manejo de la interacción con la API para mejorar la eficiencia y la experiencia de usuario."
+            ],
+            "achievements": [],
+            "repository_url": "https://shopping-cart-with-react-andev.netlify.app"
+        },
+        {
+            "job_title": "JavaScript Quiz FrontEnd Developer",
+            "company": "",
+            "location": "Bogotá D.C, Colombia",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de un quiz interactivo sobre JavaScript, utilizando React y TypeScript.",
+                "La aplicación presenta preguntas sobre distintos conceptos de JavaScript, permitiendo a los usuarios responder y recibir retroalimentación en tiempo real.",
+                "Se utilizó TypeScript para mejorar la robustez del código, asegurando un manejo efectivo de tipos.",
+                "La interfaz es intuitiva, optimizando la experiencia de usuario y fomentando el aprendizaje de manera dinámica."
+            ],
+            "achievements": [],
+            "repository_url": "https://quiz-of-javascript.netlify.app"
+        },
+        {
+            "job_title": "Clon MonkeyType FrontEnd Developer",
+            "company": "",
+            "location": "Bogotá D.C, Colombia",
+            "start_date": "2024-06-01",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Juego interactivo de mecanografía diseñado con JavaScript Vanilla.",
+                "Características principales: generación dinámica de palabras para desafiar velocidad y precisión al escribir.",
+                "Estadísticas detalladas: cálculo en tiempo real de palabras por minuto (WPM) y precisión.",
+                "Cambio de idioma en tiempo real: permite alternar entre distintos idiomas mientras se juega.",
+                "Opciones de personalización: configuración del tiempo de juego para adaptarse a diferentes niveles de dificultad y objetivos."
+            ],
+            "achievements": [],
+            "repository_url": "https://monkeytypeclon.netlify.app"
+        },
+        {
+            "job_title": "Paint-Windows FrontEnd Developer",
+            "company": "",
+            "location": "Bogotá D.C, Colombia",
+            "start_date": "2024-09-01",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Aplicación de dibujo interactiva creada con JavaScript Vanilla, HTML y CSS.",
+                "Herramientas de dibujo: incluye pincel, borrador, rectángulos y elipse.",
+                "Selector de color compatible con la API de EyeDropper para elegir colores directamente del lienzo.",
+                "Interfaz intuitiva con botones interactivos para seleccionar diferentes modos y limpiar el lienzo.",
+                "Efecto de animación para la introducción del texto en pantalla.",
+                "Implementación de eventos de ratón para manejo preciso del dibujo en el lienzo (mousedown, mousemove, mouseup)."
+            ],
+            "achievements": [],
+            "repository_url": "https://paint-window-andev.netlify.app"
+        },
+        {
+            "job_title": "Portafolio FrontEnd Developer",
+            "company": "",
+            "location": "Bogotá D.C, Colombia",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Portafolio personal diseñado para destacar mi trayectoria.",
+                "Incluye secciones que muestran mi vida, proyectos realizados y formación académica.",
+                "Diseño atractivo y organizado que resalta habilidades, experiencias y logros de manera clara y visualmente llamativa.",
+                "Interfaz intuitiva para una navegación sencilla y accesible.",
+                "Optimizado para ofrecer una experiencia dinámica y profesional."
+            ],
+            "achievements": [],
+            "repository_url": "https://portafolio-andev.netlify.app"
+        }
+    ],
     "education": [
         {
             "degree": "Ingeniería de Software",
             "institution": "Universidad Manuela Beltrán",
             "location": "Bogotá D.C, Colombia",
             "start_date": "2021-02-01",
-            "end_date": "2024-12-31",
+            "end_date": "",
             "hours": 0
         },
         {
             "degree": "Curso de React Avanzado",
             "institution": "Platzi",
             "location": "Bogotá D.C, Colombia",
-            "start_date": "2024-11-01",
-            "end_date": "2024-11-30",
+            "start_date": "",
+            "end_date": "2024-11-01",
             "hours": 0
         },
         {
             "degree": "Full Stack Developer con JavaScript",
             "institution": "Platzi",
             "location": "Bogotá D.C, Colombia",
-            "start_date": "2024-10-01",
-            "end_date": "2024-10-31",
+            "start_date": "",
+            "end_date": "2024-10-01",
+            "hours": 0
+        },
+        {
+            "degree": "Scrum Fundamentals Certified",
+            "institution": "Scrum Certifications",
+            "location": "Bogotá D.C, Colombia",
+            "start_date": "",
+            "end_date": "2023-11-01",
             "hours": 0
         }
     ],
@@ -65,38 +158,7 @@
         }
     },
     "certifications": [],
-    "projects": [
-        {
-            "name": "E commerce - Carrito de Compras Interactivo",
-            "description": "Creación de un carrito de compras interactivo utilizando React.",
-            "technologies": ["react"],
-            "url": "https://shopping-cart-with-react-andev.netlify.app"
-        },
-        {
-            "name": "JavaScript Quiz",
-            "description": "Desarrollo de un quiz interactivo sobre JavaScript, utilizando React y TypeScript.",
-            "technologies": ["react", "typescript"],
-            "url": "https://quiz-of-javascript.netlify.app"
-        },
-        {
-            "name": "Clon MonkeyType",
-            "description": "Juego interactivo de mecanografía diseñado con JavaScript Vanilla.",
-            "technologies": ["javascript"],
-            "url": "https://monkeytypeclon.netlify.app"
-        },
-        {
-            "name": "Paint-Windows",
-            "description": "Aplicación de dibujo interactiva creada con JavaScript Vanilla, HTML y CSS.",
-            "technologies": ["javascript", "html", "css"],
-            "url": "https://paint-window-andev.netlify.app"
-        },
-        {
-            "name": "Portafolio",
-            "description": "Portafolio personal diseñado para destacar mi trayectoria.",
-            "technologies": ["html", "css"],
-            "url": "https://portafolio-andev.netlify.app"
-        }
-    ],
+    "projects": [],
     "languages": [
         {
             "language": "Spanish",

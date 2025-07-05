@@ -3,24 +3,24 @@
         "first_name": "Kelvin",
         "last_name": "Rodriguez",
         "email": "kelvinrodriguez1409@gmail.com",
-        "phone": "",
+        "phone": "4584245291561",
         "location": {
             "country": "",
             "city": "",
             "state": ""
         },
-        "linkedin": "https://www.linkedin.com/in/kelvin-rodriguez-230188274",
+        "linkedin": "",
         "website": "",
-        "portfolio": "https://chic-pathos-h8b75e.netlify.app",
+        "portfolio": "",
         "summary": ""
     },
     "work_experience": [
         {
             "job_title": "Vendedor",
-            "company": "Vodafone",
-            "location": "España",
-            "start_date": "2019-01-01",
-            "end_date": "2019-04-30",
+            "company": "Vodaphone",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
             "currently_working": false,
             "responsibilities": [
                 "Gestioné ventas de servicios de internet y telefonía",
@@ -34,9 +34,9 @@
         {
             "job_title": "Captación de clientes",
             "company": "Coast to Coast Motors",
-            "location": "Houston, Texas, Estados Unidos",
-            "start_date": "2020-11-01",
-            "end_date": "2024-01-31",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
             "currently_working": false,
             "responsibilities": [
                 "Identifiqué y contacté a clientes potenciales",
@@ -53,21 +53,22 @@
             "institution": "Academlo",
             "location": "",
             "start_date": "",
-            "end_date": "2024-05-31",
+            "end_date": "",
             "hours": 0
         },
         {
             "degree": "Ingeniería Electrónica",
             "institution": "UNEXPO Barquisimeto",
             "location": "",
-            "start_date": "2018-01-01",
-            "end_date": "2020-12-31",
+            "start_date": "",
+            "end_date": "",
             "hours": 0
         }
     ],
     "skills": {
         "keywords": {
             "technical": [
+                "javascript",
                 "html",
                 "css",
                 "node.js",
@@ -96,7 +97,7 @@
                 "node",
                 "express.js",
                 "sequelize",
-                "postgreSQL",
+                "postgresql",
                 "html",
                 "css",
                 "javascript"
@@ -114,7 +115,7 @@
                 "node.js",
                 "express.js",
                 "sequelize",
-                "postgreSQL"
+                "postgresql"
             ],
             "url": ""
         },

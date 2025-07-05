@@ -10,9 +10,9 @@
             "state": ""
         },
         "linkedin": "https://www.linkedin.com/in/leonel-torres-27333129a/",
-        "website": "https://leo08910.github.io",
+        "website": "",
         "portfolio": "https://leo08910.github.io",
-        "summary": "Desarrollador web orientado al backend, con formación técnica y experiencia en el desarrollo de aplicaciones web usando JavaScript, Python y C#. Participé en la creación de una aplicación para la gestión de tesinas, integrando funcionalidades como encriptacion de contraseñas, autenticación, autorización por roles y alojamiento de archivos en la nube con AWS."
+        "summary": "Desarrollador web orientado al backend, con formación técnica y experiencia en el desarrollo de aplicaciones web usando JavaScript, Python y C#. Participé en la creación de una aplicación para la gestión de tesinas, integrando funcionalidades como encriptacion de contraseñas, autenticación, autorización por roles y alojamiento de archivos en la nube con AWS. Interesado en seguir creciendo profesionalmente en entornos colaborativos y aprender nuevas herramientas."
     },
     "work_experience": [
         {
@@ -44,9 +44,26 @@
     ],
     "skills": {
         "keywords": {
-            "technical": ["javascript", "python", "c#", "react", "express", "sql", "mysql", "restful", "jwt", "bcrypt", "aws-s3", "docker", "cypress"],
+            "technical": [
+                "javascript",
+                "python",
+                "c#",
+                "react",
+                "express",
+                "sql",
+                "mysql",
+                "restful",
+                "jwt",
+                "bcrypt",
+                "aws-s3",
+                "docker",
+                "cypress"
+            ],
             "soft": [],
-            "tools": ["git", "postman"]
+            "tools": [
+                "git",
+                "postman"
+            ]
         },
         "detailed": {
             "technical": {},
@@ -58,7 +75,7 @@
         {
             "name": "Administrador de Tesinas",
             "description": "Aplicación fullstack para gestionar proyectos finales universitarios. Incluye autenticación, autorización, manejo de archivos con AWS S3 y uso de base de datos MySQL.",
-            "technologies": ["authentication", "authorization", "aws-s3", "mysql"],
+            "technologies": ["AWS S3", "MySQL"],
             "url": ""
         }
     ],

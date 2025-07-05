@@ -1,29 +1,29 @@
 {
     "personal_info": {
         "first_name": "Daniel Camilo",
-        "last_name": "Jacquin",
+        "last_name": "Jacquin Velasco",
         "email": "danielcamilo853@gmail.com",
         "phone": "+57 3215118758",
         "location": {
             "country": "Colombia",
-            "city": "Villagorgona-Cadenlaria",
-            "state": ""
+            "city": "Villagorgona",
+            "state": "Candelaria"
         },
         "linkedin": "https://www.linkedin.com/in/daniel-jacquin-velasco-1a58781b4/",
         "website": "",
-        "portfolio": "",
-        "summary": "Trabajé como desarrollador junior en D&T Network SAS durante 10 meses, donde participé activamente en la adición de nuevas funcionalidades al software de la empresa. En este rol, utilicé tecnologías como Vue.js para el frontend, Laravel para el backend y Oracle para la base de datos. Soy una persona respetuosa, con gran entusiasmo por aprender nuevas tecnologías. Me gustaría trabajar en una empresa donde pueda enfrentar nuevos desafíos para mejorar profesionalmente."
+        "portfolio": "https://github.com/danieljacquin",
+        "summary": "Trabajé como desarrollador junior en D&T Network SAS durante 10 meses, donde participé activamente en la adición de nuevas funcionalidades al software de la empresa. Utilicé tecnologías como Vue.js, Laravel y Oracle. Soy respetuoso, con gran entusiasmo por aprender nuevas tecnologías."
     },
     "work_experience": [
         {
             "job_title": "Desarrollador Junior",
-            "company": "D&T NETWORKS SAS",
-            "location": "Colombia",
+            "company": "D&T Network SAS",
+            "location": "",
             "start_date": "2019-02-01",
             "end_date": "2019-11-30",
             "currently_working": false,
             "responsibilities": [
-                "Participación en la adición de nuevas funcionalidades al software de la empresa."
+                "Participar en la adición de nuevas funcionalidades al software de la empresa."
             ],
             "achievements": [],
             "repository_url": ""
@@ -31,7 +31,7 @@
         {
             "job_title": "Pasante",
             "company": "Grupo Consultic",
-            "location": "Colombia",
+            "location": "",
             "start_date": "2023-06-01",
             "end_date": "2023-09-30",
             "currently_working": false,
@@ -45,7 +45,7 @@
             "degree": "Ingeniero en Sistemas",
             "institution": "Institución Universitaria Antonio José Camacho",
             "location": "Cali, Colombia",
-            "start_date": "2023-01-01",
+            "start_date": "",
             "end_date": "2023-12-31",
             "hours": 0
         },
@@ -53,7 +53,7 @@
             "degree": "Tecnólogo ADSI",
             "institution": "SENA",
             "location": "Cali, Colombia",
-            "start_date": "2018-01-01",
+            "start_date": "",
             "end_date": "2018-12-31",
             "hours": 0
         }
@@ -79,8 +79,8 @@
             "tools": []
         },
         "detailed": {
-            "technical": [],
-            "soft": []
+            "technical": {},
+            "soft": {}
         }
     },
     "certifications": [],
@@ -88,7 +88,7 @@
     "languages": [
         {
             "language": "Español",
-            "proficiency": "Native"
+            "proficiency": ""
         },
         {
             "language": "Ingles",

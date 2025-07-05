@@ -1,172 +1,153 @@
 {
-  "personal_info": {
-    "first_name": "Farid",
-    "last_name": "Ale Ali",
-    "email": "faleali.contact@gmail.com",
-    "phone": "+5493812064794",
-    "location": {
-      "country": "United States",
-      "city": "Manhattan",
-      "state": "New York"
+    "personal_info": {
+        "first_name": "Farid",
+        "last_name": "Ale Ali",
+        "email": "faleali.contact@gmail.com",
+        "phone": "+5493812064794",
+        "location": {
+            "country": "United States",
+            "city": "Manhattan",
+            "state": "New York"
+        },
+        "linkedin": "https://linkedin.com/in/alealifarid/",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
     },
-    "linkedin": "https://linkedin.com/in/alealifarid/",
-    "website": "",
-    "portfolio": "",
-    "summary": "QA Automation / QA Analyst with experience in web development quality assurance, test case creation, and product analysis."
-  },
-  "work_experience": [
-    {
-      "job_title": "QA & Product Analyst Jr.",
-      "company": "Alemy",
-      "location": "Manhattan, New York, USA",
-      "start_date": "",
-      "end_date": "",
-      "currently_working": true,
-      "responsibilities": [
-        "Quality assurance for web development.",
-        "Creation of test cases.",
-        "Performance testing using Jmeter and K6.",
-        "API endpoint testing with Python, Swagger, and Postman.",
-        "Automated UI testing with Cypress.",
-        "Code review of developer features.",
-        "Database management with SQL and MongoDB.",
-        "Bug reporting and tracking in JIRA.",
-        "Basic AWS management with EC2, Elastic, S3, RDS, and Lambda.",
-        "Branch deployment to environments through CI/CD with Bitbucket and Jenkins.",
-        "Task and initiative management in JIRA for products.",
-        "Analysis and documentation of requirements and use cases.",
-        "Flowchart creation with Draw.io."
-      ],
-      "achievements": [],
-      "repository_url": ""
+    "work_experience": [
+        {
+            "job_title": "QA & Product Analyst Jr.",
+            "company": "Alkemy",
+            "location": "Manhattan, Nueva York, EE. UU.",
+            "start_date": "2024-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Aseguramiento de calidad (QA) para desarrollo web.",
+                "Creación de casos de pruebas.",
+                "Pruebas de performance usando Jmeter y K6 (Typescript).",
+                "Pruebas a endpoints (API) con Python (Pytest), Swagger y Postman.",
+                "Pruebas automatizadas UI con Cypress (Typescript).",
+                "Revisión de código de los desarrolladores sobre distintas features.",
+                "Uso de base de datos con SQL y MongoDB.",
+                "Reporte y seguimiento de bugs en JIRA.",
+                "Manejo básico de AWS con servicios de EC2, Elastic, S3, RDS y Lambda.",
+                "Deployeo de ramas a entornos mediante CI/CD Bitbucket y Jenkins.",
+                "Gestión de nuevas tareas e iniciativas en JIRA para productos.",
+                "Análisis y documentación de requerimientos y casos de uso.",
+                "Armado de diagramas de flujo con Draw.io."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA Analyst Jr.",
+            "company": "Eynes SRL",
+            "location": "CABA, Buenos Aires, Argentina.",
+            "start_date": "2024-02-01",
+            "end_date": "2024-09-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Manejo y análisis de aseguramiento de calidad (QA) para ERP Odoo.",
+                "Creación y ejecución de casos de prueba.",
+                "Pruebas de integración en sistemas AFIP / ARCA (Argentina) y DGI (Uruguay).",
+                "Pruebas de humo y regresión del ERP.",
+                "Análisis de casos de uso de los módulos de ERP.",
+                "Gestión y control de tareas del proyecto con desarrolladores.",
+                "Colaboración con el equipo de desarrollo y producto.",
+                "Control de versiones de los entornos de pruebas y productivos.",
+                "Análisis de historias de usuario.",
+                "Metodología de trabajo es SCRUM y KANBAN."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Universitario en Tecnología de la Información",
+            "institution": "Universidad Tecnológica Nacional (U.T.N.)",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Contador Publico Nacional",
+            "institution": "Universidad Nacional de Tucuman (U.N.T.)",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "python",
+                "typescript",
+                "programación-orientada-a-objetos",
+                "cypress",
+                "selenium",
+                "jmeter",
+                "k6",
+                "api",
+                "pytest",
+                "swagger",
+                "postman",
+                "react",
+                "node",
+                "express",
+                "sql",
+                "mongodb",
+                "aws",
+                "ec2",
+                "elastic",
+                "s3",
+                "rds",
+                "lambda",
+                "erp",
+                "sap",
+                "odoo"
+            ],
+            "soft": [
+                "comunicación",
+                "pensamiento-crítico",
+                "inteligencia-emocional",
+                "autonomía"
+            ],
+            "tools": [
+                "jira",
+                "trello"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
     },
-    {
-      "job_title": "QA Analyst Jr.",
-      "company": "Eynes SRL",
-      "location": "CABA, Buenos Aires, Argentina",
-      "start_date": "2024-02-01",
-      "end_date": "2024-09-30",
-      "currently_working": false,
-      "responsibilities": [
-        "QA management and analysis for ERP Odoo.",
-        "Creation and execution of test cases.",
-        "Integration testing in AFIP / ARCA (Argentina) and DGI (Uruguay) systems.",
-        "Smoke and regression testing of ERP.",
-        "Use case analysis of ERP modules.",
-        "Project task management and control with developers.",
-        "Collaboration with development and product teams.",
-        "Version control of test and production environments.",
-        "User story analysis.",
-        "SCRUM and KANBAN work methodology."
-      ],
-      "achievements": [],
-      "repository_url": ""
-    }
-  ],
-  "education": [
-    {
-      "degree": "Técnico Universitario en Tecnología de la Información",
-      "institution": "Universidad Tecnológica Nacional (U.T.N.)",
-      "location": "",
-      "start_date": "2024-01-01",
-      "end_date": "",
-      "hours": 0
-    },
-    {
-      "degree": "Contador Público Nacional",
-      "institution": "Universidad Nacional de Tucuman (U.N.T.)",
-      "location": "",
-      "start_date": "2018-01-01",
-      "end_date": "2023-12-31",
-      "hours": 0
-    }
-  ],
-  "skills": {
-    "keywords": {
-      "technical": [
-        "java",
-        "python",
-        "typescript",
-        "poo",
-        "cypress",
-        "selenium",
-        "jmeter",
-        "k6",
-        "pytest",
-        "rest-assured",
-        "swagger",
-        "postman",
-        "react",
-        "node",
-        "express",
-        "sql",
-        "mongodb",
-        "aws",
-        "erp-sap",
-        "erp-odoo"
-      ],
-      "soft": [
-        "comunicación",
-        "pensamiento-crítico",
-        "inteligencia-emocional",
-        "autonomía"
-      ],
-      "tools": [
-        "jira",
-        "trello"
-      ]
-    },
-    "detailed": {}
-  },
-  "certifications": [
-    {
-      "name": "Full Stack Developer",
-      "issuing_organization": "RollingCode School",
-      "issue_date": "",
-      "expiration_date": "",
-      "credential_id": ""
-    },
-    {
-      "name": "QA Automation with Cypress",
-      "issuing_organization": "Santex & Technology with Purpose Foundation",
-      "issue_date": "",
-      "expiration_date": "",
-      "credential_id": ""
-    },
-    {
-      "name": "QA Project management Jira",
-      "issuing_organization": "Instituto Web",
-      "issue_date": "",
-      "expiration_date": "",
-      "credential_id": ""
-    },
-    {
-      "name": "QA Mastering Selenium: Web Automation Essentials",
-      "issuing_organization": "Udemy",
-      "issue_date": "",
-      "expiration_date": "",
-      "credential_id": ""
-    },
-    {
-      "name": "ISTQB Certified Tester Foundation V4",
-      "issuing_organization": "Udemy",
-      "issue_date": "",
-      "expiration_date": "",
-      "credential_id": ""
-    }
-  ],
-  "projects": [],
-  "languages": [
-    {
-      "language": "Español",
-      "proficiency": "Nativo"
-    },
-    {
-      "language": "Ingles",
-      "proficiency": "B1"
-    }
-  ],
-  "volunteer_experience": [],
-  "publications": [],
-  "references": []
+    "certifications": [
+        {
+            "name": "ISTQB Certified Tester Foundation V4",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
 }

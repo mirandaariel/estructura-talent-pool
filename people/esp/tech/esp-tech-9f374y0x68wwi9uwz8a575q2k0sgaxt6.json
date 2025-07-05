@@ -20,11 +20,10 @@
             "company": "Amazon",
             "location": "",
             "start_date": "2020-06-01",
-            "end_date": "",
+            "end_date": "2023-12-31",
             "currently_working": true,
             "responsibilities": [
-                "Proporcióno soporte en el area de operaciones, resolución de problemas con artículos y proveedores, entrada y gestión de mercancía.",
-                "Mejoré la eficiencia en las operaciones diarias."
+                "Proporciono soporte en el área de operaciones, resolución de problemas con artículos y proveedores, entrada y gestión de mercancía, lo que resulta en un buen funcionamiento y mayor eficiencia en las operaciones diarias."
             ],
             "achievements": [],
             "repository_url": ""
@@ -52,7 +51,10 @@
                 "node.js",
                 "express",
                 "sql",
-                "git"
+                "git",
+                "github",
+                "notion",
+                "scrum"
             ],
             "soft": [
                 "comunicación-efectiva",
@@ -61,23 +63,15 @@
                 "adaptabilidad",
                 "trabajo-en-equipo"
             ],
-            "tools": [
-                "github",
-                "notion",
-                "scrum"
-            ]
+            "tools": []
         },
-        "detailed": {
-            "technical": {},
-            "soft": {},
-            "tools": {}
-        }
+        "detailed": {}
     },
     "certifications": [],
     "projects": [
         {
             "name": "Portafolio web profesional",
-            "description": "Construí una SPA (Single Page Application) responsive usando Astro y Tailwind CSS. Implemente un menú accesible y una sección de contacto funcional. Organicé los proyectos con componentes reutilizables y optimización semántica.",
+            "description": "Construí, una SPA (Single Page Application) responsive usando Astro y Tailwind CSS. Implementé un menú accesible y una sección de contacto funcional. Organicé los proyectos con componentes reutilizables y optimización semántica.",
             "technologies": ["astro", "tailwind"],
             "url": ""
         },
@@ -94,7 +88,7 @@
             "proficiency": "Nativo"
         },
         {
-            "language": "Inglés",
+            "language": "Ingles",
             "proficiency": "Básico"
         }
     ],

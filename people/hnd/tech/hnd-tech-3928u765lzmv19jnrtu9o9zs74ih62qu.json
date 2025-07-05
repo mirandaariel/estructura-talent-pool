@@ -1,159 +1,165 @@
 {
-  "personal_info": {
-    "first_name": "Mario",
-    "last_name": "Herrera",
-    "email": "mherrerajt12@gmail.com",
-    "phone": "+50496449899",
-    "location": {
-      "country": "Honduras",
-      "city": "Tegucigalpa",
-      "state": ""
+    "personal_info": {
+        "first_name": "Mario",
+        "last_name": "Herrera",
+        "email": "mherrerajt12@gmail.com",
+        "phone": "+50496449899",
+        "location": {
+            "country": "Honduras",
+            "city": "Tegucigalpa",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/mario-herrera-Sab497212/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador front-end con más de 2 años de experiencia en la entrega de proyectos complejos e intrincados. Competente en diversas plataformas, lenguajes y sistemas embebidos, con experiencia en soluciones de redes, ITO y en la gestión y diseño de bases de datos."
     },
-    "linkedin": "https://www.linkedin.com/in/mario-herrera-Sab497212/",
-    "website": "",
-    "portfolio": "",
-    "summary": "Desarrollador front-end con más de 2 años de experiencia en la entrega de proyectos complejos e intrincados. Competente en diversas plataformas, lenguajes y sistemas embebidos, aprovechando herramientas y procedimientos de desarrollo de vanguardia. Con experiencia en soluciones de redes, ITO y en la gestión y diseño de bases de datos, optimizando el almacenamiento y consulta de datos en proyectos relacionados."
-  },
-  "work_experience": [
-    {
-      "job_title": "Agente de soporte técnico",
-      "company": "OlanchoNet",
-      "location": "",
-      "start_date": "2018-01-01",
-      "end_date": "2023-02-28",
-      "currently_working": false,
-      "responsibilities": [
-        "Principal punto de contacto para diagnosticar y resolver problemas de red, utilizando diagnósticos remotos y scripts, mejorando los tiempos de resolución y la satisfacción del cliente.",
-        "Use herramientas de monitoreo para detectar anomalías, configurar alertas y aplicar respuestas iniciales, manteniendo la fiabilidad de la red y minimizando interrupciones."
-      ],
-      "achievements": [
-        "Diseñe e implemente un sistema automatizado de reportes con SQL y Power BI, incrementando la eficiencia de los informes de incidentes en un 30%."
-      ],
-      "repository_url": ""
+    "work_experience": [
+        {
+            "job_title": "Agente de soporte técnico",
+            "company": "OlanchoNet",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2023-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Soporte al Cliente y Resolución de Problemas: Principal punto de contacto para diagnosticar y resolver problemas de red, mejorando los tiempos de resolución y la satisfacción del cliente.",
+                "Monitoreo de Infraestructura de Red y Respuesta a Incidentes: Mantenimiento de la fiabilidad de la red.",
+                "Proyecto - Sistema de Reporte de Incidentes Automatizado: Diseño e implementación de un sistema automatizado de reportes con SQL y Power BI."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Coordinador de Proyectos",
+            "company": "Servitelf",
+            "location": "",
+            "start_date": "2022-10-01",
+            "end_date": "2023-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideró el diseño y despliegue de sistemas de cámaras de seguridad en múltiples ubicaciones.",
+                "Creación de una base de datos para almacenar bitácoras de gestión de asistencia y generación de reportes.",
+                "Implementación de un servidor de intercomunicador usando API REST y arquitectura de microservicios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Coordinador de cuadrillas",
+            "company": "OlanchoNet",
+            "location": "",
+            "start_date": "2023-05-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Supervisión del despliegue de redes de fibra óptica.",
+                "Creción de un dashboard interactivo con React y Tailwind CSS para visualización en tiempo real.",
+                "Desarrollo de una base de datos para gestionar el inventario de las cuadrillas de instalación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ingeniero NOC",
+            "company": "Agrega",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Administración de Infraestructura en la Nube con GCP e IVANTI.",
+                "Administración y documentación de Infraestructura on premise, Windows y Linux.",
+                "Automatización de Monitoreo del Sistema con Zabbix y Grafana."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ing. en Ciencias de la Computacion",
+            "institution": "Universidad Catolica de Honduras",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Humanidades",
+            "institution": "Instituto Oscar Cardenal Rodriguez",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "front-end",
+                "sql",
+                "power-bi",
+                "react",
+                "tailwind-css",
+                "gcp",
+                "windows",
+                "linux",
+                "zabbix",
+                "grafana",
+                "manageengine",
+                "apis"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
     },
-    {
-      "job_title": "Coordinador de Proyectos",
-      "company": "Servitelf (Practica Profesional Universitaria)",
-      "location": "",
-      "start_date": "2022-10-01",
-      "end_date": "2023-01-31",
-      "currently_working": false,
-      "responsibilities": [
-        "Lideró el diseño y despliegue de sistemas de cámaras de seguridad en múltiples ubicaciones, integrando con la red principal mediante segmentación VLAN, configuración de IP y monitoreo remoto para optimizar control y seguridad.",
-        "Cree una base de datos para almacenar bitácoras de gestión de asistencia y generación de reportes, facilitando el seguimiento de actividades y mejorando la eficiencia en la creación de informes."
-      ],
-      "achievements": [
-        "Implemente un servidor de intercomunicador en el Aeropuerto de Palmerola, usando API REST y arquitectura de microservicios para monitoreo y control de acceso, mejorando la flexibilidad y escalabilidad de los sistemas de comunicación."
-      ],
-      "repository_url": ""
-    },
-    {
-      "job_title": "Coordinador de cuadrillas",
-      "company": "OlanchoNet",
-      "location": "",
-      "start_date": "2023-05-01",
-      "end_date": "2024-07-31",
-      "currently_working": false,
-      "responsibilities": [
-        "Supervise el despliegue de redes de fibra óptica, configurando enrutamiento, QoS y segmentación VLAN para optimizar rendimiento y fiabilidad.",
-        "Cree un tablero interactivo con React y Tailwind CSS para visualización en tiempo real de métricas de red, integrando datos backend mediante APIs REST, mejorando la precisión de la resolución de problemas en campo."
-      ],
-      "achievements": [
-        "Desarrolle una base de datos para gestionar el inventario de las cuadrillas de instalación, utilizada en la creación de reportes de gastos, optimizando el control y seguimiento de recursos."
-      ],
-      "repository_url": ""
-    },
-    {
-      "job_title": "Ingeniero NOC",
-      "company": "Agrega",
-      "location": "",
-      "start_date": "2024-08-01",
-      "end_date": "",
-      "currently_working": true,
-      "responsibilities": [
-        "Administración de Infraestructura en la Nube con GCP e IVANTI.",
-        "Administración y documentación de Infraestructura on premise, Windows y Linux.",
-        "Administración de equipos de red Cisco y Mikrotik.",
-        "Gestion de incidentes segun las practicas de ITIL4.",
-        "Automatización de Monitoreo del Sistema con Zabbix y Grafana."
-      ],
-      "achievements": [
-        "Deploy de herramientas del suite de ManageEngine, como ser AppManager, OpManager y Site 24x7."
-      ],
-      "repository_url": ""
-    }
-  ],
-  "education": [
-    {
-      "degree": "Ing. en Ciencias de la Computacion",
-      "institution": "Universidad Catolica de Honduras",
-      "location": "",
-      "start_date": "2018-01-01",
-      "end_date": "2023-12-31",
-      "hours": 0
-    },
-    {
-      "degree": "Bachiller en Humanidades",
-      "institution": "Instituto Oscar Cardenal Rodriguez",
-      "location": "",
-      "start_date": "2014-01-01",
-      "end_date": "2017-12-31",
-      "hours": 0
-    }
-  ],
-  "skills": {
-    "keywords": {
-      "technical": [],
-      "soft": [],
-      "tools": []
-    },
-    "detailed": {
-      "technical": {},
-      "soft": {}
-    }
-  },
-  "certifications": [
-    {
-      "name": "Responsive Web Design",
-      "issuing_organization": "freeCodeCamp",
-      "issue_date": "",
-      "expiration_date": "",
-      "credential_id": ""
-    },
-    {
-      "name": "Curso de introducción al desarrollo web: HTLM y CSS",
-      "issuing_organization": "Google",
-      "issue_date": "",
-      "expiration_date": "",
-      "credential_id": ""
-    },
-    {
-      "name": "Pre-Sales Engineer",
-      "issuing_organization": "Manage Engine",
-      "issue_date": "",
-      "expiration_date": "",
-      "credential_id": ""
-    },
-    {
-      "name": "Operating Systems Basics",
-      "issuing_organization": "Cisco",
-      "issue_date": "",
-      "expiration_date": "",
-      "credential_id": ""
-    }
-  ],
-  "projects": [],
-  "languages": [
-    {
-      "language": "Español",
-      "proficiency": "Nativo"
-    },
-    {
-      "language": "Ingles",
-      "proficiency": "Avanzado"
-    }
-  ],
-  "volunteer_experience": [],
-  "publications": [],
-  "references": []
+    "certifications": [
+        {
+            "name": "Responsive Web Design",
+            "issuing_organization": "freeCodeCamp",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de introducción al desarrollo web: HTLM y CSS",
+            "issuing_organization": "Google",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Pre-Sales Engineer",
+            "issuing_organization": "Manage Engine",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Operating Sytems Basics",
+            "issuing_organization": "Cisco",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
 }

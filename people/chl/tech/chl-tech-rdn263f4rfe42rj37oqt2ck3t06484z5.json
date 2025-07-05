@@ -1,0 +1,228 @@
+{
+    "personal_info": {
+        "first_name": "Iván Andrés",
+        "last_name": "Castillo Iligaray",
+        "email": "iacastillo.ili2@gmail.com",
+        "phone": "+56 9 66885788",
+        "location": {
+            "country": "Chile",
+            "city": "Santiago",
+            "state": ""
+        },
+        "linkedin": "LinkedIn",
+        "website": "GitHub",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack Junior con un año de experiencia práctica en Morris & Opazo (partner de AWS), especializado en desarrollo frontend con Vue.js y backend con Java/Spring Boot, con experiencia en tecnologías AWS."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer (Prácticas)",
+            "company": "Morris & Opazo | Partner AWS",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideré el desarrollo backend de un CMS para estaciones de carga eléctrica.",
+                "Implementé el frontend con Vue.js 2, TypeScript, HTML, CSS y Bootstrap.",
+                "Configuré infraestructura en AWS (VPC, EC2, Route 53, IAM)."
+            ],
+            "achievements": [
+                "Mejoré la eficiencia de comunicación en un 80% con 4 marcas de cargadores."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Developer",
+            "company": "Proyecto Personal - PodSteam E-commerce",
+            "location": "",
+            "start_date": "2025-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de un e-commerce con Java, Spring Boot y Vue.js 2.",
+                "Implementé autenticación con JWT e integración de gestión de tickets."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Developer",
+            "company": "Proyecto Organizado por Morris & Opazo | Partner AWS",
+            "location": "",
+            "start_date": "2023-12-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé un proyecto de IA para personas con discapacidad visual.",
+                "Utilicé Amazon Rekognition y Polly para procesamiento de imágenes y descripción de objetos."
+            ],
+            "achievements": [
+                "Proyecto destacado por su impacto social."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Developer",
+            "company": "Matolfe - E-commerce",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2023-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementé un e-commerce con frontend en Vue.js 2 y backend en Java y Spring.",
+                "Incluí autenticación de usuarios y gestión de pedidos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Developer",
+            "company": "HomeBanking Brothers - HomeBanking",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2023-09-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una aplicación de banca en línea con frontend en Vue.js 2.",
+                "Implementé gestión de cuentas y seguimiento de transacciones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Data Science e IA - En Curso",
+            "institution": "Oracle Next Education (Alura Latam)",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Inglés - En Curso",
+            "institution": "EnglishLand",
+            "location": "",
+            "start_date": "2025-03-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Colaborativo con Microsoft",
+            "institution": "GitHub Bootcamp",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Backend Developer",
+            "institution": "Oracle Next Education (Alura Latam)",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2025-01-31",
+            "hours": 304
+        },
+        {
+            "degree": "AWS re/Start",
+            "institution": "Morris & Opazo",
+            "location": "",
+            "start_date": "2023-12-01",
+            "end_date": "2024-03-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Web Full Stack",
+            "institution": "MindHub Bootcamp",
+            "location": "",
+            "start_date": "2023-06-01",
+            "end_date": "2023-10-31",
+            "hours": 700
+        },
+        {
+            "degree": "CCNA Routing & Switching",
+            "institution": "Muelles de Alejandría",
+            "location": "",
+            "start_date": "2015-02-01",
+            "end_date": "2015-12-31",
+            "hours": 288
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring-boot",
+                "spring-security",
+                "jwt",
+                "vue.js-2",
+                "typescript",
+                "javascript",
+                "html",
+                "css",
+                "bootstrap",
+                "websocket",
+                "ocpp-1.6",
+                "ocpp-2.0",
+                "aws",
+                "docker",
+                "mysql",
+                "postgresql",
+                "h2",
+                "oracle",
+                "gradle",
+                "git",
+                "github",
+                "apis-restful",
+                "sql",
+                "ia",
+                "data-science",
+                "aws-cli",
+                "alexa-skills-kit",
+                "axios",
+                "postman",
+                "intellij-idea",
+                "visual-studio-code",
+                "sweetalert"
+            ],
+            "soft": [
+                "problem-solving",
+                "adaptability",
+                "learning-continuous",
+                "proactivity"
+            ],
+            "tools": [
+                "trello",
+                "scrum"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Scrum Fundamentals Certified (SFC)",
+            "issuing_organization": "Scrumstudy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Scrum Foundation Professional Certificate (SFPC)",
+            "issuing_organization": "Scrumstudy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "A2 (en curso hacia C2)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

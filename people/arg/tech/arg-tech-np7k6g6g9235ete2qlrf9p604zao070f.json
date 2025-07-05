@@ -5,7 +5,7 @@
         "email": "lauraesplugas@hotmail.com",
         "phone": "1161736614",
         "location": {
-            "country": "Argentina",
+            "country": "",
             "city": "Almagro",
             "state": "CABA"
         },
@@ -17,7 +17,7 @@
     "work_experience": [],
     "education": [
         {
-            "degree": "Tecnicatura en programación",
+            "degree": "Tecnicatura en Programación",
             "institution": "Teclab",
             "location": "",
             "start_date": "2018-01-01",
@@ -25,7 +25,7 @@
             "hours": 0
         },
         {
-            "degree": "Licenciatura en ciencias de la comunicación - Tercer año aprobado",
+            "degree": "Tercer año aprobado en Licenciatura en Ciencias de la Comunicación",
             "institution": "UBA",
             "location": "",
             "start_date": "2016-01-01",
@@ -42,38 +42,15 @@
                 "react",
                 "node",
                 "base-de-datos",
-                "desk-research",
-                "benchmarking",
-                "proto-persona",
-                "user-persona",
-                "encuestas",
-                "entrevista",
-                "user-map-jouney",
-                "empatía",
-                "usabilidad",
-                "equipo-ux",
-                "roles",
-                "diseño-centrado-en-el-usuario",
-                "design-thinking",
-                "desktop-research",
-                "heurísticas",
-                "leyes-ux",
-                "user-flow",
-                "mapa-de-empatía",
-                "qa",
-                "qc",
-                "tester",
-                "ciclo-de-vida-del-software",
-                "casos-de-prueba",
-                "informe-de-errores",
-                "tipos-de-pruebas"
+                "ux",
+                "design-thinking"
             ],
             "soft": [],
             "tools": [
+                "figma",
                 "trello",
                 "azure-devops",
-                "mantis",
-                "figma"
+                "mantis"
             ]
         },
         "detailed": {
@@ -81,12 +58,20 @@
             "soft": {}
         }
     },
-    "certifications": [],
+    "certifications": [
+        {
+            "name": "First Certificate",
+            "issuing_organization": "",
+            "issue_date": "2002-12-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
     "projects": [],
     "languages": [
         {
-            "language": "Inglés",
-            "proficiency": "Intermedio"
+            "language": "English",
+            "proficiency": "Intermediate"
         }
     ],
     "volunteer_experience": [],

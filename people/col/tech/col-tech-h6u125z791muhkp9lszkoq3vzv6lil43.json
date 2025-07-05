@@ -1,6 +1,6 @@
 {
     "personal_info": {
-        "first_name": "Versain",
+        "first_name": "Yersain",
         "last_name": "Castaño Arenas",
         "email": "yercas93@gmail.com",
         "phone": "+57 3154623314",
@@ -12,21 +12,20 @@
         "linkedin": "",
         "website": "",
         "portfolio": "",
-        "summary": "Full-Stack Web Developer"
+        "summary": "Full-Stack Web Developer with experience in developing applications using modern technologies."
     },
     "work_experience": [
         {
             "job_title": "Full-Stack Developer",
-            "company": "Grupoconsultic",
+            "company": "GrupoconsulTIC",
             "location": "",
             "start_date": "2024-07-01",
             "end_date": "",
             "currently_working": true,
             "responsibilities": [
-                "Development of a project in the legal field, with microservices architecture.",
-                "Focused on the incorporation of multi-level security verification for document access and possible modification.",
-                "Back-end framework such as NestJS and APIs such as GraphQL and Front-End NextJS are used.",
-                "Jira for SCRUM methodology, and Docker for containerisation."
+                "Development of a project in the legal field with microservices architecture.",
+                "Incorporation of multi-level security verification for document access.",
+                "Use of NestJS for back-end and NextJS for front-end."
             ],
             "achievements": [],
             "repository_url": ""
@@ -36,12 +35,12 @@
             "company": "GEIICO",
             "location": "",
             "start_date": "2023-07-01",
-            "end_date": "2024-03-31",
+            "end_date": "2024-03-01",
             "currently_working": false,
             "responsibilities": [
-                "Follow-up of the investment plan of the electricity company in electricity network projects.",
+                "Follow-up of the investment plan in electricity network projects.",
                 "Debugging of customer-supplied database and management with Python and PostgreSQL.",
-                "With the management of the audit, it has been possible to reduce the economic differences between the CAPEX and the Investment Plan by 0% for the area of losses of the electricity company."
+                "Reduced economic differences between the CAPEX and the Investment Plan to 0% for the area of losses."
             ],
             "achievements": [],
             "repository_url": ""
@@ -51,11 +50,11 @@
             "company": "Universidad Tecnológica de Pereira, UTP",
             "location": "",
             "start_date": "2021-07-01",
-            "end_date": "2021-11-30",
+            "end_date": "2021-11-01",
             "currently_working": false,
             "responsibilities": [
-                "Provide support to students and teach the basics of HTML, CSS and Python.",
-                "In sessions with groups of up to 10 students."
+                "Provided support to students and taught basics of HTML, CSS, and Python.",
+                "Conducted sessions with groups of up to 10 students."
             ],
             "achievements": [],
             "repository_url": ""
@@ -67,15 +66,15 @@
             "institution": "Academlo",
             "location": "",
             "start_date": "2022-01-01",
-            "end_date": "2023-06-30",
+            "end_date": "2023-06-01",
             "hours": 0
         },
         {
-            "degree": "Electrical Engineering",
+            "degree": "Bachelor's Degree in Electrical Engineering",
             "institution": "Universidad Tecnológica de Pereira",
-            "location": "",
+            "location": "Pereira, Colombia",
             "start_date": "2013-08-01",
-            "end_date": "2019-07-31",
+            "end_date": "2019-07-01",
             "hours": 0
         }
     ],
@@ -94,22 +93,19 @@
                 "nodejs",
                 "express",
                 "sequelize",
-                "postgressql",
-                "mongosdb",
-                "jest-test",
-                "numbpy",
+                "postgresql",
+                "mongodb",
+                "jest",
+                "numpyk",
                 "matplotlib",
                 "pandas",
                 "labview",
                 "autocad",
                 "nextjs",
-                "graphql",
-                "docker"
+                "nestjs"
             ],
             "soft": [],
-            "tools": [
-                "jira"
-            ]
+            "tools": []
         },
         "detailed": {
             "technical": [],
@@ -120,7 +116,7 @@
     "projects": [
         {
             "name": "E-commerce",
-            "description": "E-commerce application developed with ReactJS.",
+            "description": "E-commerce application where a user can make online purchases of electronic devices.",
             "technologies": [
                 "reactjs",
                 "vite",
@@ -132,13 +128,13 @@
                 "css",
                 "nodejs",
                 "postgresql",
-                "jest-test"
+                "jest"
             ],
             "url": ""
         },
         {
             "name": "Pokedex",
-            "description": "Pokédex application developed with ReactJS.",
+            "description": "Pokédex application to perform searches and visualize the abilities of favorite pokemon.",
             "technologies": [
                 "reactjs",
                 "vite",
@@ -153,7 +149,7 @@
         },
         {
             "name": "Users CRUD",
-            "description": "Users application developed with ReactJS.",
+            "description": "Application to create, view, edit and delete users from a database.",
             "technologies": [
                 "reactjs",
                 "vite",
@@ -164,8 +160,8 @@
                 "js",
                 "css",
                 "nodejs",
-                "mongosdb",
-                "jest-test"
+                "mongodb",
+                "jest"
             ],
             "url": ""
         }

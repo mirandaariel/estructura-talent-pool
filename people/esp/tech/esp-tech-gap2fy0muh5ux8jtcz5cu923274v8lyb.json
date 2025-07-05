@@ -1,0 +1,176 @@
+{
+    "personal_info": {
+        "first_name": "Lucila",
+        "last_name": "Di Lorenzo",
+        "email": "luzyla@gmail.com",
+        "phone": "+34658361499",
+        "location": {
+            "country": "Spain",
+            "city": "Malaga",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/luzyla",
+        "website": "https://luzyla.dev",
+        "portfolio": "",
+        "summary": "Problem solver with a scientific mindset. Using my biology background and +4 years of software development skills to create effective solutions. Proficient in JavaScript, React.js, Next.js, HTML and CSS. Experience in leading projects and mentoring teams."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Mate Crew Digital Agency",
+            "location": "Malaga, Spain",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Develop FrontEnd solutions using React, Next.js, and CMS technologies.",
+                "Managed project lifecycles using agile methodologies to ensure efficient and high-quality deliverables.",
+                "Collaborated to create tailored solutions that enhanced their digital presence and user experience."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Web UI Developer",
+            "company": "Globant | Academy",
+            "location": "Malaga, Spain",
+            "start_date": "2025-02-01",
+            "end_date": "2025-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Intensive two-month training focused on FrontEnd technologies, covering HTML5, CSS3, JavaScript, TypeScript, React, Angular, accessibility, and an introduction to backend technologies such as AWS, Node.js, and MongoDB.",
+                "Contributed to a Subscription Management project, building a full-stack CRUD application with React, CSS Modules, Node.js and MongoDB."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Bunny Studio Inc.",
+            "location": "California, USA",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Worked on redesigning pages using React and Next.js to enhance user experience.",
+                "Implemented 301 and 302 redirects to improve site SEO and avoid redirect chains.",
+                "Built dynamic templates managed with GraphQL to streamline content management in the CMS.",
+                "Helped resolve critical PayPal API issues, managing the MySQL database to ensure accurate payments for over 2,000 transactions and 500 users."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Frontend Programmer",
+            "institution": "ADA ITW",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Web Programmer",
+            "institution": "UNIVERSIDAD TECNOLÓGICA NACIONAL",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Biological Science Degree",
+            "institution": "Universidad de Buenos Aires | Facultad de Ciencias Exactas y Naturales",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "next.js",
+                "redux",
+                "custom-hooks",
+                "html5",
+                "css3",
+                "sass",
+                "bootstrap",
+                "tailwind",
+                "flexbox",
+                "git",
+                "github",
+                "npm",
+                "docker",
+                "jenkins",
+                "aws",
+                "rest-api",
+                "graphql-api",
+                "postman",
+                "mysql",
+                "dbeaver",
+                "vscode",
+                "figma"
+            ],
+            "soft": [
+                "problem-solving",
+                "critical-thinking",
+                "attention-to-detail",
+                "adaptability",
+                "communication",
+                "collaboration",
+                "proactivity",
+                "self-management",
+                "continuous-learning",
+                "accountability",
+                "time-management",
+                "openness-to-feedback",
+                "autonomy",
+                "resourcefulness"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "MOVIE SEARCH",
+            "description": "REACT, CSS3 MODULES, TMDB API, NetLIFF.",
+            "technologies": [
+                "react",
+                "css3",
+                "tmdb-api",
+                "netliff"
+            ],
+            "url": ""
+        },
+        {
+            "name": "MEMELANDIA",
+            "description": "VANILLA JS, HTML5 FORMS, CSS3, HOSTINGER.",
+            "technologies": [
+                "vanilla-js",
+                "html5",
+                "css3",
+                "hostinger"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

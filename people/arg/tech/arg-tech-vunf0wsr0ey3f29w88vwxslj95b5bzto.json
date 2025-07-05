@@ -3,16 +3,16 @@
         "first_name": "Lucas",
         "last_name": "Navarro",
         "email": "navarrolucas4668@gmail.com",
-        "phone": "",
+        "phone": "11-2753-5916",
         "location": {
             "country": "Argentina",
-            "city": "",
-            "state": ""
+            "city": "Tres de Febrero",
+            "state": "Buenos Aires"
         },
-        "linkedin": "",
+        "linkedin": "Linkedin",
         "website": "",
-        "portfolio": "",
-        "summary": "Soy una persona resiliente y con escucha activa, características que me permiten abordar problemas de manera analítica y estructurada. Me encanta trabajar en equipo y seguir aprendiendo para estar al día con las nuevas tecnologías. A lo largo de mi carrera, he adquirido competencias tanto en desarrollo backend como frontend, así como en despliegue de aplicaciones en producción y la nube. Mis objetivos a futuro son seguir creciendo en el desarrollo de software hasta alcanzar el rol de Arquitecto de Software."
+        "portfolio": "Portfolio",
+        "summary": "Soy una persona resiliente y con escucha activa, características que me permiten abordar problemas de manera analítica y estructurada. Además, me encanta trabajar en equipo y seguir aprendiendo para estar al día con las nuevas tecnologías. A lo largo de mi carrera, he adquirido competencias tanto en desarrollo backend como frontend, así como en despliegue de aplicaciones en producción y la nube. Mis objetivos a futuro son seguir creciendo en el desarrollo de software hasta alcanzar el rol de Arquitecto de Software. Estoy en búsqueda de un entorno profesional desafiante donde pueda aportar valor y mejorar mis habilidades en proyectos innovadores."
     },
     "work_experience": [
         {
@@ -23,10 +23,10 @@
             "end_date": "2025-12-31",
             "currently_working": false,
             "responsibilities": [
-                "Implementación y seguimiento de sistemas eficientes para el control de inventarios.",
-                "Brindé soporte y asistencia de alta calidad a clientes.",
-                "Coordinación de turnos y horarios del personal.",
-                "Desarrollo y actualización continua de plantillas de productos."
+                "Implementación y seguimiento de sistemas eficientes para el control de inventarios, asegurando la disponibilidad y el orden de los productos.",
+                "Brindé soporte y asistencia de alta calidad a clientes, garantizando una experiencia excepcional y resolviendo inquietudes de manera rápida y efectiva.",
+                "Coordinación de turnos y horarios del personal, optimizando recursos y maximizando la productividad del equipo.",
+                "Desarrollo y actualización continua de plantillas de productos, asegurando una correcta gestión y presentación de la oferta disponible."
             ],
             "achievements": [],
             "repository_url": ""
@@ -37,7 +37,7 @@
             "degree": "Tecnicatura Superior en Análisis de Sistemas",
             "institution": "Instituto de Educación Superior Juan Amos Comenio",
             "location": "",
-            "start_date": "",
+            "start_date": "2023-01-01",
             "end_date": "2023-12-31",
             "hours": 0
         },
@@ -45,7 +45,7 @@
             "degree": "Bachillerato en informática",
             "institution": "Escuela Cristiana Evangelica Argentina",
             "location": "",
-            "start_date": "",
+            "start_date": "2020-01-01",
             "end_date": "2020-12-31",
             "hours": 0
         }
@@ -67,119 +67,59 @@
                 "mysql",
                 "mongodb",
                 "postgresql",
-                "git",
-                "github",
                 "html",
                 "css",
                 "sass",
-                "aws",
-                "docker"
+                "aws"
             ],
             "soft": [
                 "resilience",
                 "active-listening",
-                "teamwork"
+                "teamwork",
+                "analytical-thinking",
+                "structured-thinking"
             ],
             "tools": [
-                "net",
                 "word",
                 "excel",
+                "git",
+                "github",
                 "scrum",
                 "trello",
-                "postman"
+                "postman",
+                "docker"
             ]
         },
         "detailed": {
-            "technical": [],
-            "soft": [],
-            "tools": []
+            "technical": {},
+            "soft": {},
+            "tools": {}
         }
     },
-    "certifications": [
-        {
-            "name": "Combinaciones y subconsultas | Consultas sobre datos agrupados | Insercion, eliminacion y edicion de registros | Tablas y fundamentos de integridad de datos",
-            "issuing_organization": "Desafio Latam",
-            "issue_date": "2024-12-31",
-            "expiration_date": "",
-            "credential_id": ""
-        },
-        {
-            "name": "Desarrollo Backend",
-            "issuing_organization": "Oracle",
-            "issue_date": "2024-12-31",
-            "expiration_date": "",
-            "credential_id": ""
-        },
-        {
-            "name": "Consultas Basicas",
-            "issuing_organization": "Desafio Latam",
-            "issue_date": "2023-12-31",
-            "expiration_date": "",
-            "credential_id": ""
-        },
-        {
-            "name": "Desarrollo web | Javascript | ReactJS",
-            "issuing_organization": "Coderhouse",
-            "issue_date": "2021-12-31",
-            "expiration_date": "",
-            "credential_id": ""
-        }
-    ],
+    "certifications": [],
     "projects": [
         {
             "name": "Aplicación de Asistencias",
-            "description": "Aplicación CRUD para gestionar usuarios y registrar asistencias, con funcionalidades clave como un inicio de sesión seguro, una interfaz interactiva y la capacidad de generar informes en formato PDF.",
-            "technologies": [
-                "php",
-                "mysql",
-                "javascript",
-                "bootstrap",
-                "html",
-                "css",
-                "datatables",
-                "sweetalert"
-            ],
+            "description": "El proyecto consiste en una aplicación CRUD para gestionar usuarios y registrar asistencias, con funcionalidades clave como un inicio de sesión seguro, una interfaz interactiva y la capacidad de generar informes en formato PDF.",
+            "technologies": ["php", "mysql", "javascript", "bootstrap", "html", "css", "datatables", "sweetalert"],
             "url": ""
         },
         {
             "name": "Biblioteca",
-            "description": "Proyecto diseñado para gestionar las operaciones de una biblioteca, con funcionalidades para automatizar el envío de notificaciones a los clientes.",
-            "technologies": [
-                "python",
-                "qt",
-                "mongodb",
-                "uml-diagram"
-            ],
+            "description": "El proyecto está diseñado para gestionar las operaciones de una biblioteca, permitiendo a los empleados realizar altas, bajas y modificaciones de ejemplares y clientes.",
+            "technologies": ["python", "qt", "mongodb", "diagrama-uml"],
             "url": ""
         },
         {
             "name": "Ecommerce de Indumentaria Femenina",
-            "description": "E-commerce especializado en indumentaria femenina, con integración de pagos y estrategia de pruebas unitarias usando TDD.",
-            "technologies": [
-                "html",
-                "css",
-                "bootstrap",
-                "php",
-                "python",
-                "javascript",
-                "mysql",
-                "phpunit",
-                "xampp"
-            ],
+            "description": "Desarrollé un e-commerce especializado en indumentaria femenina, integrando un sistema de pagos a través de la API de Mercado Pago.",
+            "technologies": ["html", "css", "bootstrap", "php", "python", "javascript", "mysql", "phpunit", "xampp"],
             "url": ""
         },
         {
             "name": "ForoHub",
-            "description": "Aplicación diseñada para gestionar diversas entidades a través de una API REST, asegurando una estructura escalable.",
-            "technologies": [
-                "java-17+",
-                "spring-boot-2.6.4",
-                "spring-data-jpa",
-                "mysql",
-                "spring-security",
-                "insomnia",
-                "maven"
-            ],
+            "description": "ForoHub es una aplicación diseñada para gestionar diversas entidades a través de una API REST, permitiendo operaciones CRUD (Crear, Leer, Actualizar, Eliminar) y asegurando una estructura escalable.",
+            "technologies": ["java-17+", "spring-boot-2.6.4", "spring-data-jpa", "mysql", "spring-security", "insomnia", "maven"],
             "url": ""
         }
     ],
