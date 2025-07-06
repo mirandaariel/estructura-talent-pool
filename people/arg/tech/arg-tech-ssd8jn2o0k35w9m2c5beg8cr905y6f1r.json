@@ -1,0 +1,125 @@
+{
+    "personal_info": {
+        "first_name": "Martín",
+        "last_name": "Juárez Brizzi",
+        "email": "martinjuarezbrizzi@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Ciudad Autonoma de Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Front-end developer",
+            "company": "Tecnosapiens",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y desarrollo de web corporativa. Se utilizó Svelte, Tailwind, Nanostores, MUI."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Project Manager / FullStack Developer",
+            "company": "Tecnosapiens",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de web corporativa landing page para promoción de ventas de planes de ahorro.",
+                "Desarrollo de plataforma multiusuario para la gestión y seguimiento de planes de ahorro."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Front-end Software Engineer",
+            "company": "NTT Data",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de 'Temis'. Un proyecto de gestión de créditos y riesgos financieros.",
+                "Se trabajó con React, Material UI, Jest, Redux-Saga, Webpack, CI/CD con Gitlab, Jira."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Front-end Software Engineer",
+            "company": "NTT Data",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de interfaz para sistema ERP para la gestión de pozos petrolíferos.",
+                "Implementación de arquitectura microfrontend."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Título secundario con orientación en humanidades",
+            "institution": "",
+            "location": "",
+            "start_date": "2014-01-01",
+            "end_date": "2014-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Carrera de Arquitectura",
+            "institution": "Universidad de Buenos Aires",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "svelte",
+                "tailwind",
+                "nanostores",
+                "mui",
+                "astro",
+                "prereco",
+                "redux",
+                "jest",
+                "redux-saga",
+                "webpack",
+                "ci/cd",
+                "gitlab",
+                "jira",
+                "microfrontend",
+                "vite"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

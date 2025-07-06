@@ -1,0 +1,139 @@
+{
+    "personal_info": {
+        "first_name": "Javier Enrique",
+        "last_name": "Gutierrez Tubiñez",
+        "email": "javiergutierrez091306@gmail.com",
+        "phone": "3505830273",
+        "location": {
+            "country": "Colombia",
+            "city": "Barranquilla",
+            "state": "Atlántico"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con experiencia en la creación de aplicaciones web interactivas, responsivas y centradas en la experiencia del usuario. Poseo conocimientos en JavaScript, TypeScript, React, Redux, Node.js, Express, MongoDB, JWT, HTML5, CSS3 y Tailwind CSS, así como en el consumo y desarrollo de APIs REST y el uso de metodologías ágiles. Apasionado por el trabajo en equipo, la resolución de problemas y el aprendizaje continuo. Busco integrarme en un equipo dinámico donde pueda aportar valor y seguir creciendo profesionalmente."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Profesional Independiente | My Tinerary",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una aplicación web interactiva para la gestión y reserva de tours y viajes turísticos.",
+                "Implementé un sistema de autenticación segura con JWT.",
+                "Diseñé y desarrollé APIs en Node.js y Express.",
+                "Utilicé React y Redux para construir una interfaz de usuario moderna y responsiva.",
+                "Apliqué metodologías ágiles (Scrum) para organizar el desarrollo.",
+                "Integré MongoDB para la persistencia de datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Profesional Independiente | Amazing Events",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una aplicación web interactiva para la gestión y filtrado de eventos.",
+                "Implementé una interfaz moderna, dinámica y responsiva utilizando Tailwind CSS.",
+                "Desarrollé funcionalidades de búsqueda y filtrado en tiempo real.",
+                "Aplicó mejores prácticas en desarrollo web.",
+                "Desplegué exitosamente la aplicación en Vercel."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bootcamp de Desarrollo Full Stack",
+            "institution": "Mind-Hub (Plataforma Online)",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "2024-01-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "vite",
+                "css",
+                "tailwind-css",
+                "express.js",
+                "mongodb",
+                "jwt",
+                "html5",
+                "apis-rest",
+                "javascript",
+                "redux",
+                "node.js",
+                "typescript",
+                "bootstrap",
+                "vue.js",
+                "axios",
+                "firebase",
+                "git",
+                "github"
+            ],
+            "soft": [
+                "metodologías-agile",
+                "gestión-del-tiempo",
+                "negociación",
+                "orientación-a-resultados",
+                "innovación",
+                "atención-al-detalle"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "My Tinerary",
+            "description": "Aplicación web interactiva para la gestión y reserva de tours y viajes turísticos.",
+            "technologies": [
+                "React",
+                "Redux",
+                "Tailwind CSS",
+                "Node.js",
+                "Express",
+                "MongoDB",
+                "JWT"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Amazing Events",
+            "description": "Aplicación web interactiva para la gestión y filtrado de eventos.",
+            "technologies": [
+                "JavaScript",
+                "HTML5",
+                "CSS3",
+                "Tailwind"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "A1/A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

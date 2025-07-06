@@ -1,0 +1,117 @@
+{
+    "personal_info": {
+        "first_name": "Gonzalo",
+        "last_name": "Mina",
+        "email": "gonzalo.mina@hotmail.com.ar",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Tigre",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/gonzalo-mina-frontend-dev/",
+        "website": "",
+        "portfolio": "https://github.com/dragnee!98",
+        "summary": "Soy un desarrollador full stack especializado en el frontend. Actualmente trabajando en crear productos que no solo sean atractivos sino también intuitivos y accesibles. Soy versátil y puedo adaptarme a múltiples tecnologías. Tengo un blog en el que comparto temas de mi interés relacionados con la tecnología. Estoy en la búsqueda de seguir creciendo en mi carrera y enfrentar nuevos desafíos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Idraet",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2025-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrolle múltiples secciones del e-commerce (carrito, buscador, filtros, login, enrutamiento).",
+                "Ejecute pruebas en diversos navegadores y dispositivos para garantizar una maquetación responsive y una experiencia de usuario consistente.",
+                "Implementé interfaces responsive, garantizando fidelidad al diseño.",
+                "Refactorice código crítico del sistema, reduciendo el código redundante en un 20% y aumentando la legibilidad del código.",
+                "Aumente la performance general del sitio en un 15%, aplicando técnicas como lazy loading y mejorando el manejo de las APIs y evitando el uso de dependencias innecesarias.",
+                "Colabore estrechamente con diseñadores UX/UI, para mejorar la experiencia del usuario.",
+                "Integre pasarelas de pago con APIs externas como Mercado Pago."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Sistemas",
+            "institution": "Universidad Nacional General Sarmiento",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "git",
+                "javascript",
+                "typescript",
+                "react",
+                "reactnative",
+                "sass",
+                "nodejs",
+                "nextjs",
+                "ci/cd",
+                "gitflow",
+                "eslint",
+                "redux",
+                "tailwindcss",
+                "metodologías-agiles",
+                "vite"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Certificados en Inglés Técnico - Nodejs",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "",
+            "credential_url": "https://drive.google.com/drive/folders/1cbaloioSFXv8AqNcE-OdYbK64Fjj0X7z"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Mi Página Web Personal",
+            "description": "Una landing page con mi portfolio.",
+            "technologies": ["nextjs", "html", "css", "javascript"],
+            "url": ""
+        },
+        {
+            "name": "Retro Byte UI",
+            "description": "Librería open source con componentes reutilizables para acelerar el desarrollo.",
+            "technologies": ["react", "reactnative", "typescript"],
+            "url": ""
+        },
+        {
+            "name": "Twitter Clon",
+            "description": "Una app con sistema de autenticación, posteos y chat.",
+            "technologies": ["nextjs", "react", "nodejs", "postgresql"],
+            "url": ""
+        },
+        {
+            "name": "Aplicación de Aprendizaje con IA",
+            "description": "Una aplicación de aprendizaje que emplea IA.",
+            "technologies": ["reactnative", "expo"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,123 @@
+{
+    "personal_info": {
+        "first_name": "Franco",
+        "last_name": "Avanzatti",
+        "email": "avanzatti5@gmail.com",
+        "phone": "+541168123784",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con sólida formación técnica y experiencia en desarrollo de APIs, backend y aplicaciones web escalables. Capacidad demostrada para construir soluciones eficientes en entornos colaborativos, con foco en la experiencia del usuario y la entrega continua de valor. Orientado a resultados, adaptable y con habilidades en proyectos de impacto social. Actualmente profundizando conocimientos en Python para ampliar su stack."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Proyecto Bahía Voluntarios",
+            "location": "Freelance",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y desarrollo de API REST para gestionar rutas, operaciones CRUD y endpoints.",
+                "Participación en solución colaborativa ante emergencias climáticas (Bahía Blanca).",
+                "Implementación de lógica backend con Node.js y Express."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnico de Sonido e Iluminación",
+            "company": "Eventos & Producciones",
+            "location": "Freelance",
+            "start_date": "2021-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Soporte técnico en vivo para conciertos, eventos corporativos y medios audiovisuales.",
+                "Coordinación de sistemas de sonido y equipos de iluminación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollo Full Stack",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Superior en Producción de Sonido",
+            "institution": "EMBA",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Ciencias Sociales y Humanas",
+            "institution": "Inst. Ntra. Sra. de Fátima",
+            "location": "",
+            "start_date": "2007-01-01",
+            "end_date": "2013-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "node.js",
+                "react",
+                "python",
+                "typescript",
+                "mongodb",
+                "html",
+                "css",
+                "expressjs",
+                "firebase"
+            ],
+            "soft": [
+                "creatividad",
+                "trabajo-en-equipo",
+                "proactividad",
+                "atención-al-detalle",
+                "adaptabilidad",
+                "buen-manejo-bajo-presión"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "metodologías-ágiles",
+                "bootstrap"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (B2)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

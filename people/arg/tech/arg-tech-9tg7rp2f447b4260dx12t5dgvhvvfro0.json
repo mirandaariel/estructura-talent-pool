@@ -1,0 +1,131 @@
+{
+    "personal_info": {
+        "first_name": "Harold",
+        "last_name": "Rodriguez",
+        "email": "ahsro99@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador con sólida experiencia full stack en la creación de aplicaciones web escalables y centradas en la experiencia de usuario y sistemas backend. Con experiencia en frameworks frontend, diseño de APIs, infraestructura en la nube y prácticas CI/CD. Fuerte desempeño en equipo con una mentalidad de resolución de problemas, atención al detalle y adaptabilidad en entornos de ritmo rápido."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador de Software Full Stack",
+            "company": "Ioet Inc.",
+            "location": "Remoto",
+            "start_date": "2023-01-01",
+            "end_date": "2025-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación de endpoints para la API del producto, asegurando integraciones eficientes y seguras con servicios de terceros.",
+                "Integración de múltiples servicios externos relacionados con inteligencia artificial y redes sociales para automatizar flujos de marketing.",
+                "Desarrollo de servicios internos adaptados a requerimientos específicos del cliente, optimizando el rendimiento del backend.",
+                "Construcción de nuevas interfaces de usuario y flujos interactivos, mejorando la experiencia de usuario en base a feedback real.",
+                "Incorporación de pruebas unitarias en diversas capas del sistema, promoviendo un desarrollo orientado a calidad y mantenibilidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador de Software Full Stack",
+            "company": "Ioet Inc.",
+            "location": "Remoto",
+            "start_date": "2022-06-01",
+            "end_date": "2023-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y desarrollo de APIs escalables desde cero, siguiendo principios de arquitectura limpia y separación de responsabilidades.",
+                "Automatización del despliegue de aplicaciones utilizando enfoques de infraestructura como código, asegurando entornos reproducibles.",
+                "Aplicación de arquitectura hexagonal para favorecer la mantenibilidad, la escalabilidad y la independencia tecnológica del producto.",
+                "Mejora continua de la interfaz y experiencia de usuario mediante la implementación de nuevos flujos y validaciones interactivas.",
+                "Cobertura completa con pruebas unitarias en todo el proyecto, promoviendo estabilidad y facilidad de refactorización.",
+                "Liderazgo técnico en uno de los proyectos, aportando soluciones técnicas, facilitando decisiones clave y guiando al equipo en la resolución de bloqueos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+          "degree": "",
+          "institution": "Universidad Abierta Interamericana",
+          "location": "",
+          "start_date": "2025-01-01",
+          "end_date": "",
+          "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "html",
+                "css",
+                "material-ui",
+                "tailwind-css",
+                "sass",
+                "python",
+                "fastapi",
+                "node.js",
+                "sql",
+                "nosql",
+                "pinecone(vector-database)",
+                "openai-api",
+                "langchain",
+                "amazon-bedrock",
+                "stabilityai-api",
+                "flutter",
+                "dart",
+                "aws",
+                "git/github",
+                "ci/cd",
+                "docker",
+                "terraform"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Desarrollador Web Full Stack",
+            "issuing_organization": "Sov HENRY - Bootcamp",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Supervised Machine Learning: Regression and Classification",
+            "issuing_organization": "Coursera",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Native"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

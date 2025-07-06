@@ -1,0 +1,117 @@
+{
+    "personal_info": {
+        "first_name": "Lucia",
+        "last_name": "Cerpa",
+        "email": "luciacerpap@gmail.com",
+        "phone": "+52 3931067232",
+        "location": {
+            "country": "Mexico",
+            "city": "La Barca",
+            "state": "Jalisco"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full-Stack Developer specialized in interface improvement and workflow optimization for the insurance sector. Experienced in creating cron jobs to automate critical tasks using technologies such as Java, JSP, Hibernate, JDBC, Spring, Struts, Angular, and SQL Developer."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full-Stack Developer",
+            "company": "Tsastun",
+            "location": "Mexico City",
+            "start_date": "2022-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Improve interfaces and implement strategies to optimize processes in the Total Loss department at Qualitas.",
+                "Develop account statement dashboards for the valuation area to visualize detailed balances of suppliers and part vendors."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Freelancer",
+            "company": "Local Businesses",
+            "location": "",
+            "start_date": "2020-10-01",
+            "end_date": "2022-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed web applications for small local businesses.",
+                "Process automation.",
+                "Technology implementation.",
+                "Workflow optimization.",
+                "Created desktop applications for inventory management."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computer Systems Engineering",
+            "institution": "UVEG University",
+            "location": "Guanajuato, Mexico",
+            "start_date": "2020-10-01",
+            "end_date": "2024-01-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "backend-development",
+                "process-automation",
+                "web-system-optimization",
+                "report-generation",
+                "databases"
+            ],
+            "soft": [],
+            "tools": [
+                "sql-developer",
+                "oracle"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Certified Tech Developer",
+            "issuing_organization": "Digital House",
+            "issue_date": "2022-02-01",
+            "expiration_date": "2025-02-01",
+            "credential_id": ""
+        },
+        {
+            "name": "Python Developer",
+            "issuing_organization": "Tokyo School",
+            "issue_date": "2022-02-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Full-Stack Developer Bootcamp",
+            "issuing_organization": "Academlo",
+            "issue_date": "2022-02-01",
+            "expiration_date": "2024-10-01",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

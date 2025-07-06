@@ -1,0 +1,103 @@
+{
+    "personal_info": {
+        "first_name": "Edwin Andrés",
+        "last_name": "Higuita Chaves",
+        "email": "andreshiguitaamg@gmail.com",
+        "phone": "3164256707",
+        "location": {
+            "country": "Colombia",
+            "city": "Cali",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/edwinandreshiguita/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Frontend con experiencia en React y JavaScript. Cuento con conocimientos de backend, pero actualmente me especializo en crear interfaces dinámicas y escalables. Apasionado por el aprendizaje continuo y el trabajo en equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Asistente de Enseñanza",
+            "company": "Henry",
+            "location": "Remoto",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Acompañé y guié a estudiantes durante la cursada, resolviendo dudas, revisando tareas.",
+                "Colaboré en clases prácticas e invité a profesionales del sector a compartir sus experiencias."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bootcamp Desarrollo Full Stack",
+            "institution": "Soy Henry",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo Frontend con React",
+            "institution": "Aceleradora Alkemy LATAM",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "javascript",
+                "html",
+                "css",
+                "tailwind",
+                "redux",
+                "jest",
+                "node.js",
+                "express",
+                "postgresql"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "vite",
+                "canva"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Buscador de Gifs - React App",
+            "description": "Aplicación web que permite buscar y mostrar imágenes animadas (GIFs) usando una API externa.",
+            "technologies": ["React", "Consumo de API", "Pruebas con Jest"],
+            "url": ""
+        },
+        {
+            "name": "Control de Presupuesto",
+            "description": "Aplicación web para gestión de gastos y presupuestos personales.",
+            "technologies": ["React", "HTML", "CSS", "JavaScript", "LocalStorage"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

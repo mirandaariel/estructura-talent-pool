@@ -1,0 +1,154 @@
+{
+    "personal_info": {
+        "first_name": "Tomás",
+        "last_name": "Guignet",
+        "email": "tomasguignet9@gmail.com",
+        "phone": "+5492613748269",
+        "location": {
+            "country": "Argentina",
+            "city": "Mendoza",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/tomasguignet",
+        "website": "https://github.com/tomasguignet",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack apasionado por crear aplicaciones innovadoras y fáciles de usar. Con habilidades en desarrollo front-end y back-end, con un marcado enfoque en tecnologías front-end. Más de tres años de experiencia práctica en el desarrollo de aplicaciones web modernas y en colaboración con equipos. Motivado por mantenerse actualizado con las últimas tendencias y tecnologías emergentes."
+    },
+    "work_experience": [
+        {
+            "job_title": "Práctica en Desarrollo Front End",
+            "company": "Semillero Latam by Quinto Impacto",
+            "location": "Mendoza, Argentina",
+            "start_date": "2024-03-01",
+            "end_date": "2024-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboré en tareas de desarrollo front-end dentro de un equipo ágil.",
+                "Contribuí a la creación de interfaces de usuario aplicando mejores prácticas de usabilidad y accesibilidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Encargado de Ventas Online",
+            "company": "Shopping del Panadero",
+            "location": "Mendoza, Argentina",
+            "start_date": "2024-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Gestiono la plataforma de ventas online, incluyendo productos, stock y soporte al cliente digital.",
+                "Implemento estrategias digitales (SEO, campañas en redes sociales) para impulsar la interacción y las ventas online."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollo Full Stack",
+            "institution": "EGG Education",
+            "location": "Mendoza, Argentina",
+            "start_date": "2021-10-01",
+            "end_date": "2022-07-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo Web Full Stack",
+            "institution": "Henry Bootcamp",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2022-11-01",
+            "end_date": "2023-03-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react.js",
+                "next.js",
+                "redux",
+                "tailwind-css",
+                "bootstrap",
+                "material-ui",
+                "css3",
+                "html5",
+                "sass",
+                "node.js",
+                "express.js",
+                "nest.js",
+                "sequelize",
+                "postgresql",
+                "mysql"
+            ],
+            "soft": [
+                "colaboración-en-equipo",
+                "compromiso",
+                "aprendizaje-rápido"
+            ],
+            "tools": [
+                "git",
+                "trello",
+                "firebase",
+                "cloudinary",
+                "mercadopago-api",
+                "usecontext"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Henry Food",
+            "description": "Aplicación para obtener recetas de alimentos desde una API externa, con filtros por nombre, dieta y ordenamiento. Permite crear, editar y eliminar recetas.",
+            "technologies": ["javascript", "react", "node", "express", "sequelize", "redux", "css", "html"],
+            "url": ""
+        },
+        {
+            "name": "ICare",
+            "description": "Aplicación de gestión clínica online que permite agendar, realizar consultas virtuales, gestionar historias clínicas y perfiles. Módulo administrativo para gestionar usuarios, comentarios y planes de suscripción.",
+            "technologies": ["javascript", "node", "react", "redux", "postgresql", "express", "firebase", "cloudinary", "mercadopago-api"],
+            "url": ""
+        },
+        {
+            "name": "Ubuntu",
+            "description": "Aplicación móvil que conecta inversores con microemprendedores. Incluye propuestas dinámicas, panel administrativo y formularios.",
+            "technologies": ["javascript", "react", "material-ui", "sass"],
+            "url": ""
+        },
+        {
+            "name": "IQ Argentina",
+            "description": "Sitio e-commerce que muestra productos deportivos (windsurf, foiling). Permite navegar por categoría y contactar directamente a los vendedores.",
+            "technologies": ["javascript", "react", "tailwind-css", "node.js", "nest.js", "postgresql", "cloudinary"],
+            "url": ""
+        },
+        {
+            "name": "Cachypum",
+            "description": "Aplicación front-end para una ONG que muestra programas comunitarios fomentando la inclusión social y la sostenibilidad.",
+            "technologies": ["javascript", "react", "tailwind-css"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado"
+        },
+        {
+            "language": "Portugués",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

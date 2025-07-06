@@ -1,0 +1,149 @@
+{
+    "personal_info": {
+        "first_name": "Laura Andrea",
+        "last_name": "Mamaní",
+        "email": "al.mamani@gmail.com",
+        "phone": "+54 9 351-717-3442",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/andrea-mamani",
+        "website": "https://github.com/almamani",
+        "portfolio": "",
+        "summary": "Soy Analista en Sistemas con experiencia en administración, en paralelo me desempeño como Fullstack Develop Freelance. Mi pasión por la tecnología y la enseñanza me ha llevado a desempeñarme también como docente de informática. Recientemente finalicé la carrera de Desarrollo Full Stack en Henry, lo que me permitió actualizar mis conocimientos en las tecnologías más utilizadas. Gracias a mi formación y experiencia, puedo desempeñarme tanto en la fase de análisis (comunicación con el cliente, determinación de alcances, modelado de wireframes) como en la de implementación (programación). Además, mi facilidad para enseñar, planificar contenidos y liderar me permite desenvolverme como capacitadora en tecnología."
+    },
+    "work_experience": [
+        {
+            "job_title": "Front End Developer",
+            "company": "Cambiá tu Sonrisa",
+            "location": "",
+            "start_date": "2025-02-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y creación de wireframes para definir la estructura y experiencia del usuario.",
+                "Desarrollo y maquetación del sitio web utilizando HTML5, CSS3, JavaScript.",
+                "Implementación de un diseño responsive para garantizar una óptima visualización en distintos dispositivos."
+            ],
+            "achievements": [],
+            "repository_url": "http://www.soycaro.com.ar/01%20odontologia.html"
+        },
+        {
+            "job_title": "Full Stack Web Developer",
+            "company": "Compushop",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Maquetación UX/UI y estilos con Tailwind CSS.",
+                "Autenticación con JWT en Next.js.",
+                "Implementación de componentes del lado del cliente y del servidor.",
+                "Gestión del carrito y consumo de API desde Next.js."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/almamani/PM4FE-almamani"
+        },
+        {
+            "job_title": "Full Stack Teaching Assistant",
+            "company": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Asesoramiento en la resolución de ejercicios y tareas, reforzando conocimientos en JavaScript, React.js, Node.js y bases de datos.",
+                "Coordinación de diversas actividades, promoviendo la integración grupal de los alumnos y el desarrollo de habilidades blandas.",
+                "Mis conocimientos como Analista en Sistemas me permitieron trabajar en la reestructuración del sector Atención de Compañías de Seguros para mejorar la eficiencia operativa.",
+                "Intercomunicación entre la Empresa y los desarrolladores del Sistema de Gestión.",
+                "Gestión administrativa y de cobranzas, optimizando procesos internos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrolladora Freelance",
+            "company": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de sitios web responsivos utilizando HTML, CSS, JavaScript, PHP.",
+                "Configuración y administración de Servidor Cloud (DonWeb) para despliegue de proyectos web.",
+                "Experiencia en gestión de dominios, DNS y configuraciones SSL."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "2025-02-28",
+            "hours": 0
+        },
+        {
+            "degree": "Analista en Sistemas",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "1994-02-01",
+            "end_date": "2002-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "php",
+                "reactjs",
+                "expressjs",
+                "bootstrap",
+                "jest"
+            ],
+            "soft": ["leadership", "teaching"],
+            "tools": [
+                "mongodb",
+                "postgresql",
+                "mysql",
+                "git",
+                "figma",
+                "slack",
+                "trello",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "App de Hospedaje para Gatos",
+            "description": "Aplicación moderna e intuitiva para optimizar el acceso a servicios exclusivos de hospedaje para gatos. La app permite a los usuarios gestionar reservas, recibir notificaciones y comunicarse con los cuidadores mediante un chat en vivo. Cuenta con una bitácora interactiva con fotos y videos sobre la estadía del huésped felino.",
+            "technologies": [
+                "Next.js",
+                "React.js",
+                "Tailwind CSS",
+                "Toastify",
+                "Fetch",
+                "Axios",
+                "PostgreSQL"
+            ],
+            "url": "https://github.com/almamani/henry-pf-grupo-1-front"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

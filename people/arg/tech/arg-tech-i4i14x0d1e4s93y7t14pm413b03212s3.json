@@ -1,0 +1,130 @@
+{
+    "personal_info": {
+        "first_name": "Jonatan",
+        "last_name": "Piedra",
+        "email": "jonatan2502@gmail.com",
+        "phone": "+542216552609",
+        "location": {
+            "country": "Argentina",
+            "city": "La Plata",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un ingeniero de software con experiencia en el desarrollo y mantenimiento de aplicaciones móviles y web. En mi rol en Ensolvers, he trabajado en el mantenimiento de una aplicación móvil de música y también contribuí al desarrollo de un sistema de monitoreo, integrando funcionalidades clave como la gestión de notificaciones a través de APIs de terceros."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Epika Software",
+            "location": "",
+            "start_date": "2025-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de nuevas funcionalidades para aplicaciones móviles y web.",
+                "Mejora y mantenimiento de funcionalidades existentes.",
+                "Consumo e integración de APIs REST.",
+                "Adaptación a diferentes tecnologías y stacks según el proyecto y cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Engineer",
+            "company": "Ensolvers",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Participé en el desarrollo y mantenimiento de una aplicación móvil de música utilizando React Native y Java para frontend y backend respectivamente.",
+                "Formé parte de un equipo para el desarrollo de un sistema que usa inteligencia artificial para monitoreo.",
+                "Llevé a cabo la integración con Telegram para el manejo de notificaciones a los usuarios.",
+                "Parte del equipo de soporte interno de software, resolviendo problemas y optimizando procesos para asegurar un funcionamiento eficiente del sistema de control interno de la empresa."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "HENRY Bootcamp",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 700
+        },
+        {
+            "degree": "Ingeniería de Sistemas",
+            "institution": "U.N.E.F.A.",
+            "location": "Zulia, Venezuela",
+            "start_date": "2010-01-01",
+            "end_date": "2015-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "java",
+                "spring-boot",
+                "react",
+                "node",
+                "express",
+                "sequelize",
+                "postgres",
+                "scrum",
+                "git",
+                "github",
+                "mysql"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "JavaScript Algorithms & Data Structures",
+            "issuing_organization": "freeCodeCamp",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Responsive Web Design",
+            "issuing_organization": "freeCodeCamp",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "CCNA 1 & 2 Routing and Switching",
+            "issuing_organization": "Cisco Networking Academy",
+            "issue_date": "2014-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Intermediate Advanced"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

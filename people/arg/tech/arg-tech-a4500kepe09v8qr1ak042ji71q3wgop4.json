@@ -1,0 +1,105 @@
+{
+    "personal_info": {
+        "first_name": "Franco",
+        "last_name": "Ramiro Kral",
+        "email": "franco_kral@hotmail.com",
+        "phone": "1146734516",
+        "location": {
+            "country": "Argentina",
+            "city": "Berazategui",
+            "state": ""
+        },
+        "linkedin": "LinkedIn",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero en Sistemas de Información con experiencia en desarrollo full stack, participando en proyectos reales con metodologías ágiles. Me apasiona crear soluciones que aporten valor, colaborar en equipo y aprender constantemente de los demás."
+    },
+    "work_experience": [
+        {
+            "job_title": "Ayudante de Cátedra",
+            "company": "UTN FRLP",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Asistencia en la materia Administración de Sistemas informáticos del cuarto año de la carrera (Docker, Azure, Active Directory, Podman)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas de Información",
+            "institution": "Universidad Tecnológica Nacional (UTN) - Facultad Regional La Plata",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "python",
+                "javascript",
+                "spring",
+                "django",
+                "next.js",
+                "angular",
+                "mysql",
+                "postgresql"
+            ],
+            "soft": [],
+            "tools": [
+                "docker",
+                "docker-compose",
+                "podman",
+                "git",
+                "github",
+                "gitlab",
+                "git-workflows",
+                "react",
+                "scrum",
+                "kanban"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Mega Repuestos",
+            "description": "Página web publicitaria. Trabajé de forma directa con el cliente para relevar requerimientos, proponer soluciones y ajustar el producto a medida.",
+            "technologies": ["Spring Boot", "Spring Security", "Next.js", "Tailwind", "MySQL", "AWS S3", "Docker", "DockerCompose", "DonWeb", "Git", "GitHub", "Google Search Console"],
+            "url": ""
+        },
+        {
+            "name": "Proyecto Linsi",
+            "description": "Desarrollo colaborativo de una plataforma interna para la gestión de becarios. Seguridad, envíos de mails y diseño frontend.",
+            "technologies": ["Spring Boot", "Spring Security", "Next.js", "Tailwind", "MySQL", "AWS S3", "Git", "GitHub"],
+            "url": ""
+        },
+        {
+            "name": "Proyecto Adoptr",
+            "description": "Trabajo en equipo para el desarrollo de una red social orientada a la adopción y búsqueda de mascotas. Participación en backend, frontend e integración de APIs.",
+            "technologies": ["Spring Boot", "Spring Security", "Next.js", "Tailwind", "MySQL", "AWS S3", "Git", "GitHub", "SCRUM", "API Mercado Pago"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

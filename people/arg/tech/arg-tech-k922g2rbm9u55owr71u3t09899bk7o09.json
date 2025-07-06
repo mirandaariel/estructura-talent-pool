@@ -1,0 +1,130 @@
+{
+    "personal_info": {
+        "first_name": "Julieta",
+        "last_name": "Sosa",
+        "email": "julietasosa548@gmail.com",
+        "phone": "+54 9 2617232067",
+        "location": {
+            "country": "Argentina",
+            "city": "Mendoza",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/julietasosa548",
+        "website": "",
+        "portfolio": "https://github.com/julieta548",
+        "summary": "Full Stack Developer with experience in both Frontend and Backend projects, using Java, Springboot, Nest.js, Next.js, React js, databases such as MySQL and Postgresql. In addition, I have knowledge in agile methodologies, GIT and data structure. Development experience in some groups of programmers allowed me to develop skills such as teamwork, effective communication and problem solving."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Web Developer",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "2021-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Build landing pages (SPAs), dashboards and online applications using React JS, Nest.js, Nezt.js, Java, MySQL, Postgresql and WordPress.",
+                "Design responsive interfaces and frontend elements, maintain and optimize websites and interfaces.",
+                "Develop microservices and data structures. Develop, communicate and consume Rest APIs."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Egg Bootcamp",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 500
+        },
+        {
+            "degree": "Bachelor of Political Science",
+            "institution": "UNCuyo",
+            "location": "",
+            "start_date": "2013-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachelor of Popular Music",
+            "institution": "UNCuyo",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "javascript",
+                "react-js",
+                "nest.js",
+                "next.js",
+                "spring",
+                "springboot",
+                "sql"
+            ],
+            "soft": [
+                "teamwork",
+                "effective-communication",
+                "problem-solving"
+            ],
+            "tools": [
+                "git",
+                "trello",
+                "figma",
+                "slack"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Freelance Work",
+            "description": "Build landing pages (SPAs), dashboards and online applications.",
+            "technologies": [
+                "react-js",
+                "nest.js",
+                "next.js",
+                "java",
+                "mysql",
+                "postgresql",
+                "wordpress"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Upper Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Federico Pierro Rossi",
+            "relationship": "PR Consulting Reference",
+            "contact": "+54 911 7063-9115"
+        },
+        {
+            "name": "Nathaly Villamor",
+            "relationship": "Guapetones Reference",
+            "contact": "+54 911 2651-1226"
+        }
+    ]
+}

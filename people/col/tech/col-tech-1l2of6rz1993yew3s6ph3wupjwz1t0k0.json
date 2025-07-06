@@ -1,0 +1,203 @@
+{
+    "personal_info": {
+        "first_name": "Lily Johanna",
+        "last_name": "Balcazar Zarta",
+        "email": "lijobazar@gmail.com",
+        "phone": "+57 3232882727",
+        "location": {
+            "country": "Colombia",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/lijobazar/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Tecnóloga en análisis y desarrollo de software con experiencia en administración Jr. de bases de datos, especializada en PostgreSQL, con habilidades en optimización, tuning y gestión de copias de seguridad. Competente en el desarrollo de scripts en Shell y bases de datos NoSQL como Redis y DocumentDB. Experta en análisis de datos y colaboración en equipos ágiles bajo DevOps."
+    },
+    "work_experience": [
+        {
+            "job_title": "Técnico de Aforos",
+            "company": "Giant Industrial SAS",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2025-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión de aforos.",
+                "Conteos.",
+                "Generación de informes.",
+                "Manejo de estadísticas y generación de informes Excel.",
+                "Asignación de aforos.",
+                "Etiquetado de imágenes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Intern Tech",
+            "company": "TUL SAS",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Configuración, administración y mantenimiento de instancias de bases de datos en AWS RDS.",
+                "Implementación de Backup's automáticos y manuales, restauración de datos, y gestión de recuperación ante desastres.",
+                "Monitoreo y ajuste del rendimiento utilizando CloudWatch y herramientas de monitoreo.",
+                "Administración de Usuarios y Seguridad.",
+                "Implementación de políticas de seguridad, incluyendo el cifrado de datos.",
+                "Análisis y optimización de consultas SQL.",
+                "Uso de índices y estadísticas para optimizar el acceso a los datos.",
+                "Planificación y ejecución de migraciones de bases de datos.",
+                "Desarrollo de scripts para automatizar tareas administrativas.",
+                "Implementación de herramientas de Infraestructura como Código (IaC).",
+                "Familiaridad con el uso de lenguaje Gherkin para la creación de escenarios de prueba.",
+                "Realización de pruebas manuales.",
+                "Colaboración en la detección y resolución de incidencias."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Auxiliar Administrativo I",
+            "company": "Hospital Universitario Fundación Valle del Lili",
+            "location": "",
+            "start_date": "2020-12-01",
+            "end_date": "2021-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Generación de informes y estadísticas.",
+                "Administración de oferta hospitalaria.",
+                "Radioperación.",
+                "Tripulante de ambulancia.",
+                "Gestión de tiempos y traslado hospitalario."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Auxiliar de Referencia y Contrareferencia",
+            "company": "Hospital San Juan de Dios (Cali)",
+            "location": "",
+            "start_date": "2019-12-01",
+            "end_date": "2020-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Generación de informes y estadísticas.",
+                "Administración de oferta hospitalaria.",
+                "Referencia y contra referencia de pacientes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Ciencia de Datos",
+            "institution": "Corporación Universitaria Iberoamericana",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnología en Análisis y Desarrollo de Software",
+            "institution": "Servicio Nacional de Aprendizaje (SENA)",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnología en Atención Prehospitalaria",
+            "institution": "Universidad del Valle",
+            "location": "Cali",
+            "start_date": "2012-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "postgresql",
+                "redis",
+                "documentdb",
+                "sql",
+                "shell-scripting",
+                "aws-rds"
+            ],
+            "soft": [
+                "problem-solving",
+                "team-collaboration",
+                "devops"
+            ],
+            "tools": [
+                "cloudwatch",
+                "gherkin",
+                "excel"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Análisis de Datos de Google Certificado Profesional",
+            "issuing_organization": "Coursera",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Oracle Cloud Infrastructure AI Foundations",
+            "issuing_organization": "Oracle University",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Gherkin para Product Owner",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Business Agility",
+            "issuing_organization": "Certiprof",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Especialización Front-End",
+            "issuing_organization": "Alura Latam One - Oracle Next Education",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Software Foundations",
+            "issuing_organization": "Holberton School",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Analítica de Datos con Perspectiva Ética",
+            "issuing_organization": "SheWorks! Academy",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,182 @@
+{
+    "personal_info": {
+        "first_name": "Marcos",
+        "last_name": "Muga",
+        "email": "marcosadrianmuga@gmail.com",
+        "phone": "+54 3425250307",
+        "location": {
+            "country": "Argentina",
+            "city": "Santa Fe",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Como Desarrollador Web Full Stack, aporto una sólida experiencia en la creación y optimización de aplicaciones web, combinando habilidades técnicas con un enfoque orientado al usuario."
+    },
+    "work_experience": [
+        {
+            "job_title": "",
+            "company": "Patagonia Horizons",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "2023-05-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": "https://github.com/DamianBroglia/PF_Back"
+        },
+        {
+            "job_title": "",
+            "company": "Pedidos Crombie",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": "https://drive.google.com/drive/folders/1RY-Ts7VFtyfetgKmrGXTP8YblrDeoAb"
+        },
+        {
+            "job_title": "",
+            "company": "Don May",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "",
+            "company": "Crombie - NFTYDoor",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Soy Henry",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Crombie",
+            "location": "Santa Fe, Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "redux",
+                "node.js",
+                "express.js",
+                "sequelize",
+                "postgresql",
+                "aws"
+            ],
+            "soft": [
+                "scrum",
+                "trabajo-en-equipo",
+                "adaptabilidad",
+                "compromiso",
+                "disponibilidad"
+            ],
+            "tools": [
+                "git",
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Patagonia Horizons",
+            "description": "Tienda online que permite comprar paquetes turísticos en la Patagonia Argentina.",
+            "technologies": [
+                "Material UI",
+                "JavaScript",
+                "React",
+                "Redux Toolkit",
+                "Auth0",
+                "Node Mailer",
+                "PostgreSQL",
+                "Express",
+                "Sequelize"
+            ],
+            "url": "https://github.com/DamianBroglia/PF_Back"
+        },
+        {
+            "name": "Pedidos Crombie",
+            "description": "Aplicación de delivery inspirada en 'Pedidos Ya'.",
+            "technologies": [
+                "React.js",
+                "Node.js",
+                "PostgreSQL",
+                "PayPal API"
+            ],
+            "url": "https://drive.google.com/drive/folders/1RY-Ts7VFtyfetgKmrGXTP8YblrDeoAb"
+        },
+        {
+            "name": "Don May",
+            "description": "Plataforma web para conectar vendedores y clientes, optimizando procesos operativos.",
+            "technologies": [
+                "React.js",
+                "JavaScript",
+                "Node.js",
+                "Express.js",
+                "PostgreSQL",
+                "Sequelize",
+                "Mercado Pago API",
+                "Git/GitHub"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Crombie - NFTYDoor",
+            "description": "Plataforma serverless para préstamos hipotecarios.",
+            "technologies": [
+                "React.js",
+                "TypeScript",
+                "AWS Lambda",
+                "Amazon DynamoDB",
+                "AWS S3",
+                "Serverless Framework"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Upper Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

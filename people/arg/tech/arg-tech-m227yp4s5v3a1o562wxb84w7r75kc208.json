@@ -1,0 +1,146 @@
+{
+    "personal_info": {
+        "first_name": "Jano",
+        "last_name": "Martino",
+        "email": "martinojano0@gmail.com",
+        "phone": "(c) 2236338907",
+        "location": {
+            "country": "Argentina",
+            "city": "La Caleta",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://linkedin.com/in/janomartino/",
+        "website": "",
+        "portfolio": "https://janom2.github.io/",
+        "summary": "Desarrollador Front-End con experiencia en React, Next.js, TypeScript, y más. Organizado y responsable, con buenas habilidades interpersonales."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Cerquetech Solutions",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Asegurar la adaptabilidad en varios dispositivos",
+                "Escribir código eficiente para desarrollar sitios web y aplicaciones web",
+                "Diseñar los componentes y la estructura de la arquitectura del proyecto",
+                "Desarrollar e integrar componentes funcionales y elegantes en aplicaciones de React y Next.js",
+                "Participar en sesiones de revisión de código para mantener la funcionalidad del producto",
+                "Utilizar software de control de versiones para gestionar el código durante las pruebas y el despliegue"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Curso de JavaScript",
+            "institution": "Aprende JavaScript",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso Vue.js: De cero a experto",
+            "institution": "Fernando Herrera",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "next.js",
+                "typescript",
+                "javascript",
+                "node.js",
+                "vue.js",
+                "tailwindcss",
+                "chakraui",
+                "git"
+            ],
+            "soft": [
+                "organization",
+                "responsibility",
+                "interpersonal-skills"
+            ],
+            "tools": [
+                "git",
+                "linear"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Manipulacion del DOM",
+            "description": "",
+            "technologies": [
+                "vanilla-javascript",
+                "html5",
+                "css3",
+                "dom",
+                "bem",
+                "git"
+            ],
+            "url": "https://github.com/JanoM2/DOM-Exercises"
+        },
+        {
+            "name": "Proyectos con Vue.js",
+            "description": "",
+            "technologies": [
+                "vue.js",
+                "vuex",
+                "vue-router",
+                "vanilla-javascript",
+                "css",
+                "html",
+                "git",
+                "api-mapbox",
+                "pokeapi"
+            ],
+            "url": [
+                "https://jano-maps.netlify.app/",
+                "https://game-whos-that-pokemon.netlify.app/",
+                "https://vue-journal-app-jm.netlify.app/"
+            ]
+        },
+        {
+            "name": "Ejercicios con AJAX y APIs",
+            "description": "",
+            "technologies": [
+                "xampp",
+                "php",
+                "rest-api",
+                "ajax",
+                "wordpress-api",
+                "stripe-api",
+                "vanilla-javascript",
+                "html",
+                "css",
+                "git"
+            ],
+            "url": "https://github.com/JanoM2/AJAX-Exercises"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

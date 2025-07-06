@@ -1,0 +1,157 @@
+{
+    "personal_info": {
+        "first_name": "Wilson",
+        "last_name": "Vasquez",
+        "email": "wil.vasquez3@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "Villa Nueva",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/wilson-antonio-vasquez-grijalva-17103811a",
+        "website": "",
+        "portfolio": "http://mycvwv.epizy.com",
+        "summary": "Estudiante de último año de Ingeniería en Tecnologías de la Información con experiencia en administración de servidores y contenedores Docker bajo entornos modulares. Amplio conocimiento en marcos de trabajo como SCRUM y UML, así como en soporte técnico integral (hardware, impresoras y mantenimiento de computadoras). Especialista en mantenimiento de servidores, respaldo de bases de datos en ambientes productivos y en la conceptualización y diagramación de infraestructuras de software. Habilidad para evaluar la viabilidad e impacto de nuevos módulos dentro de un ERP, implementando mejoras que optimizan tiempos de carga y usabilidad. Experto en diseño y normalización de bases de datos, optimización de consultas SQL y automatización de pruebas, garantizando calidad y eficiencia en el desarrollo de software."
+    },
+    "work_experience": [
+        {
+            "job_title": "Encargado de IT / Desarrollador de Software",
+            "company": "Envaseal S.A",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Administrar servidores Linux (Red Hat) y contenedores Docker en modulación",
+                "Soporte técnico, mantenimiento a impresoras y reparación de hardware de computadoras",
+                "Mantenimiento de servidores y realización de copias de seguridad de bases de datos de producción",
+                "Conceptualización, diagramación de bases de datos y estructuración de la infraestructura del software",
+                "Evaluar factibilidad de implementación de nuevos módulos optimizando tiempos de producción",
+                "Implementar nuevos y migrar antiguos módulos a ERP mejorando carga y usabilidad",
+                "Creación de tablas, normalización y mejora de la infraestructura actual de la base de datos",
+                "Optimización y tuning de consultas SQL para reducir tiempos de carga en módulos críticos",
+                "Desarrollo full-stack en ERP bajo arquitectura MVC (PHP, Java, JS, jQuery)",
+                "Uso de Git y GitHub para control de versiones y trabajo colaborativo",
+                "Configuración y evaluación de nuevos puertos de red según requerimientos técnicos",
+                "Automatización de pruebas y control de calidad de software",
+                "Gestión de tareas bajo metodologías ágiles (SCRUM/UML) usando Trello y Jira"
+            ],
+            "achievements": [
+                "Gestión de compras y requisiciones: Automatización y seguimiento completo del proceso, por lo cual se redujo el tiempo de aprobación y la carga de trabajo manual en un 45%.",
+                "Control de autorizaciones: Implementación de validaciones para la creación y aprobación de códigos",
+                "Dashboard de controles: Desarrollo de paneles visuales que centralizan información para la toma de decisiones",
+                "Mejoras en la administración de información en módulos de contabilidad"
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de datos",
+            "company": "Hoosier Manufacturing",
+            "location": "Calzada Concepción 5 calle 5-26 Villa Nueva",
+            "start_date": "2016-01-01",
+            "end_date": "2018-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Soporte técnico",
+                "Conceptualizar bases de datos SQL y POWER BI",
+                "Uso de Git y GitHub para control de versiones y trabajo colaborativo",
+                "Gestión de tareas bajo metodologías ágiles (SCRUM/UML) usando Trello"
+            ],
+            "achievements": [
+                "Gestión de documentación: seguimiento integral de procesos, brindando soporte a usuarios para optimizar el uso de módulos ERP.",
+                "Mejoras en la administración de información en módulos de ingreso materia prima"
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas y Ciencias de la Computación",
+            "institution": "Universidad Mariano Gálvez",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "php",
+                "java",
+                "javascript",
+                "jquery",
+                "sql",
+                "c#",
+                "python",
+                "react",
+                "laravel",
+                "node.js",
+                "mvc",
+                "restful-(api)",
+                "soap-(xml)",
+                "postman",
+                "docker",
+                "virtualbox",
+                "vmware",
+                "ssh",
+                "filezilla",
+                "linux",
+                "windows",
+                "macos"
+            ],
+            "soft": [
+                "leadership",
+                "communication",
+                "problem-solving"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "scrum",
+                "uml",
+                "trello",
+                "jira"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Introduction to Cybersecurity",
+            "issuing_organization": "Cisco",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificación NSE 1 y NSE 2",
+            "issuing_organization": "Fortinet Network Security Associate",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Diplomado USAID English for Working (E4W)",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Ingles",
+            "proficiency": "Avanzado B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

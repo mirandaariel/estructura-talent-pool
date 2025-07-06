@@ -1,0 +1,138 @@
+{
+    "personal_info": {
+        "first_name": "Octavio",
+        "last_name": "Picasso",
+        "email": "octavio.picasso.ma@gmail.com",
+        "phone": "+54 (0249) 4652742",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Frontend developer with knowledge in React and Angular. Strong presentation, communication and motivation skills for the creation of a great environment for work."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "AYI GROUP",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Developing new modules and features within an existing application while ensuring an intuitive user experience.",
+                "Integrated APIs with Axios and documented services using Swagger for seamless backend communication.",
+                "Created component prototypes in Figma, collaborating closely with designers for efficient UI/UX implementation."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "NextJs / React / React Native Developer",
+            "company": "Invow",
+            "location": "",
+            "start_date": "2022-03-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Development of the frontend code for different applications, creating an intuitive and easy experience for the user.",
+                "Designed and developed modules of the Invow platform.",
+                "Implemented Scrum Methodologies."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Angular Developer",
+            "company": "Siete Ideas",
+            "location": "",
+            "start_date": "2019-12-01",
+            "end_date": "2022-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Intranet application based on Angular Material for the management and control of the products.",
+                "Designed and developed responsive solutions for improving the client experience.",
+                "Implemented Agile Methodologies."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "University Technician in Development of Computer Applications",
+            "institution": "T.U.D.A.I.",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Professional Graphic Designer",
+            "institution": "Tandil Institute of Art Teachers (I.P.A.T.)",
+            "location": "",
+            "start_date": "2012-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "English course",
+            "institution": "Municipal School of Languages of Tandil",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "react-native",
+                "angular",
+                "git",
+                "github",
+                "postman",
+                "json-parsing",
+                "poo",
+                "mvc",
+                "debugging",
+                "autolayout",
+                "flexbox",
+                "scss",
+                "html",
+                "ecmascript",
+                "visualcode",
+                "photoshop",
+                "illustrator",
+                "trello",
+                "figma"
+            ],
+            "soft": [
+                "team-work",
+                "empathy",
+                "communication",
+                "efficiency"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Upper Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

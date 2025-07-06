@@ -1,0 +1,129 @@
+{
+  "personal_info": {
+    "first_name": "Tomas",
+    "last_name": "Real",
+    "email": "vrtomas1@gmail.com",
+    "phone": "+5493584843317",
+    "location": {
+      "country": "Argentina",
+      "city": "Río Cuarto",
+      "state": "Córdoba"
+    },
+    "linkedin": "Linkedin",
+    "website": "",
+    "portfolio": "",
+    "summary": "I am a passionate Full Stack Developer who has decided to redirect my career toward technology development. With a strong background in risk management, I focus on applying my experience to solve complex problems and drive innovative projects. I am committed to continuous learning and delivering effective solutions."
+  },
+  "work_experience": [
+    {
+      "job_title": "Full Stack Developer",
+      "company": "TOPTIVE",
+      "location": "Remote, US-based client",
+      "start_date": "2024-11-01",
+      "end_date": "2025-04-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Developed and integrated new features on both frontend and backend based on client requirements.",
+        "Maintained and refactored existing components to improve system performance and scalability.",
+        "Worked with React, Next.js, and Redux to ensure a smooth and efficient user experience.",
+        "Implemented and improved endpoints using Node.js with Express, as well as optimized operations with MongoDB.",
+        "Participated in weekly meetings with the team and client, using Agile Scrum methodologies for project management."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Full Stack Developer",
+      "company": "Stream Games Tournaments Project - SoyHenry Bootcamp",
+      "location": "Remote",
+      "start_date": "2024-04-01",
+      "end_date": "2024-08-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Implemented a robust architecture using NestJS and Prisma for data management and the creation of RESTful APIs.",
+        "Designed and developed a microservices architecture, facilitating system scalability and maintenance.",
+        "Modeled and managed the database with Prisma, ensuring efficient queries and scalable data structures.",
+        "Implemented authentication and authorization strategies using JWT and security middleware."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Head of Safety, Occupational Health, and Environment",
+      "company": "Embalse Nuclear Power Plant",
+      "location": "Embalse, Córdoba",
+      "start_date": "2023-02-01",
+      "end_date": "2023-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Identified and assessed risks.",
+        "Developed detailed reports on risks and mitigation recommendations.",
+        "Trained and coordinated teams (courses, workshops, PPE, and best practices).",
+        "Maintained detailed records of inspections, risk assessments, and accidents.",
+        "Designed and implemented engineering and administrative controls to reduce risks."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Full Stack Web Developer",
+      "institution": "Henry",
+      "location": "",
+      "start_date": "2024-04-01",
+      "end_date": "2024-08-31",
+      "hours": 0
+    },
+    {
+      "degree": "Bachelor's Degree in Hygiene & Safety",
+      "institution": "Universidad Fasta de Mar del Plata (UFASTA)",
+      "location": "",
+      "start_date": "2022-03-01",
+      "end_date": "2023-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Associate Degree in Hygiene & Safety",
+      "institution": "Universidad de Mendoza (UM)",
+      "location": "",
+      "start_date": "2015-02-01",
+      "end_date": "2017-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "react",
+        "next.js",
+        "redux",
+        "node.js",
+        "express",
+        "mongodb",
+        "nestjs",
+        "prisma",
+        "typescript",
+        "typeorm",
+        "postgreSQL"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "B2 (Upper Intermediate)"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

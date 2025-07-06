@@ -1,0 +1,127 @@
+{
+    "personal_info": {
+        "first_name": "Victor",
+        "last_name": "Pestana",
+        "email": "victorpestana13@gmail.com",
+        "phone": "04264611890",
+        "location": {
+            "country": "Venezuela",
+            "city": "Caracas",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/victor-pestana",
+        "website": "",
+        "portfolio": "",
+        "summary": "Utilizar los conocimientos adquiridos para crear algo de valor en el sector IT."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Aurora",
+            "location": "Venezuela",
+            "start_date": "2023-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Lideré el desarrollo integral del front-end, abarcando desde la implementación de la lógica esencial hasta la creación de validaciones en tiempo real.",
+                "Diseñé y estilicé la interfaz de usuario para lograr un diseño atractivo y funcional.",
+                "Desarrollé funciones avanzadas que mejoraron la usabilidad del CRM, como la carga asíncrona de datos, la paginación dinámica y la optimización del rendimiento."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full-Stack Teaching Assistant",
+            "company": "SoyHenry",
+            "location": "Argentina",
+            "start_date": "2022-12-01",
+            "end_date": "2023-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Coordinar un grupo de alumnos vía Slack para lograr la integración al grupo de estudio.",
+                "Guiar a los alumnos en los primeros pasos del curso.",
+                "Ayudar a resolver ejercicios y promover la colaboración en grupo (Pair Programming).",
+                "Proponer ideas para mejorar los procesos de SoyHenry."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Development",
+            "institution": "SoyHenry",
+            "location": "Argentina",
+            "start_date": "2022-07-01",
+            "end_date": "2023-04-30",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Ciencias de la Computación",
+            "institution": "Universidad Central de Venezuela",
+            "location": "Venezuela",
+            "start_date": "2019-05-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript",
+                "typescript",
+                "reactjs",
+                "redux",
+                "zustand",
+                "git/github",
+                "material-ui",
+                "tailwindcss",
+                "nodejs",
+                "express",
+                "oracledb",
+                "postgresql",
+                "nestjs",
+                "python",
+                "c++",
+                "php",
+                "linux"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "BodegasContigo",
+            "description": "Creación de la página web de Bodegas Contigo, empresa dedicada a la venta y distribución al mayor y detal de alimentos y licores a nivel regional en Venezuela.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "PhoneZone",
+            "description": "Desarrollé un sitio web de ecommerce de teléfonos celulares. La plataforma incluyó funcionalidades como búsqueda y filtrado de productos, carrito de compras, integración con Mercado Pago como medio de pago, y un sistema de seguimiento de pedidos.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native or Bilingual Proficiency"
+        },
+        {
+            "language": "English",
+            "proficiency": "Professional Working Proficiency"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,101 @@
+{
+    "personal_info": {
+        "first_name": "Ines",
+        "last_name": "Sanchez Freites",
+        "email": "inessanchez.job@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "Bolívar",
+            "state": "Municipio Caroní"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniera Informática próxima a graduarse, especializada en desarrollo Front-end. Apasionada por crear experiencias de usuario excepcionales, con un dominio sólido de HTML, CSS, JavaScript y React.js. Mi enfoque principal es el diseño y la implementación de interfaces intuitivas y atractivas."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Bootcamp Desarrollo Web Full Stack",
+            "institution": "Desafío LATAM",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Informática",
+            "institution": "",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "java",
+                "python",
+                "react",
+                "nodejs",
+                "sql"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Desarrollo de una Aplicación Web e-commerce para pizzeria",
+            "description": "Implementación de la arquitectura de componentes con React y react-bootstrap. Gestión de estado con useState, y validación de formularios. Manejo de eventos para interacciones de usuario en el menú interactivo, personalización de pizzas y gestión del carrito. React Router para navegación, Context API para gestión global de estado, autenticación con JWT, y consumo de una API backend para pedidos y lógica de negocio completa.",
+            "technologies": [
+                "react",
+                "react-bootstrap",
+                "jwt"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Aplicación móvil con React Native",
+            "description": "Implementación de la comunicación WebSocket para la actualización instantánea de ubicación y transmisión de texto letra por letra. Visualización de la ubicación en tiempo real en mapas interactivos mediante react-native-maps. Diseño e implementación de interfaces de usuario responsivas y uso de tipado estático con TypeScript para un código robusto y escalable.",
+            "technologies": [
+                "react-native",
+                "websocket",
+                "typescript"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Blog informativo para el PNF en Danza Contemporánea de la Unearte",
+            "description": "Creación de una plataforma dedicada a la difusión de información y contenido relevante sobre la danza contemporánea con HTML y CSS.",
+            "technologies": [
+                "html",
+                "css"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

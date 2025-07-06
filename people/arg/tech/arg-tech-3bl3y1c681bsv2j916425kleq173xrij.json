@@ -1,0 +1,175 @@
+{
+    "personal_info": {
+        "first_name": "Eliana",
+        "last_name": "Kaye",
+        "email": "elianakaye13@gmail.com",
+        "phone": "+54 11 3817-5256",
+        "location": {
+            "country": "Argentina",
+            "city": "Belén de Escobar",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy Eliana, una persona creativa, curiosa y con muchas ganas de seguir creciendo. Después de varios años trabajando en atención al cliente y en el área gastronómica, decidí reinventarme profesionalmente para dedicarme a lo que realmente me apasiona: el desarrollo web y la experiencia de usuario. Me formé como desarrolladora con foco en interfaces accesibles e intuitivas, y trabajo con tecnologías como HTML, CSS, JavaScript y React. También me interesa el diseño UX/UI y disfruto planificar los proyectos de forma ordenada, usando metodologías ágiles como Scrum y herramientas como Trello. Valoro mucho el trabajo en equipo, el aprendizaje constante y la posibilidad de sumar en entornos donde se comparta el conocimiento. Todo lo que aprendí en mis trabajos anteriores - como el compromiso, la responsabilidad y la organización- lo aplico hoy en el mundo tech."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrolladora Web",
+            "company": "Proyecto E-commerce para Empresa Local",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una tienda online personalizada para una pyme, trabajando tanto en el frontend como en el backend.",
+                "En el frontend, utilicé React, HTML, CSS y Bootstrap para crear una interfaz intuitiva y adaptable a distintos dispositivos.",
+                "En el backend, implementé funcionalidades como registro y login de usuarios, y gestión de productos, utilizando Node.js, Express y bases de datos como SQL y MongoDB.",
+                "Utilicé herramientas como Trello y metodologías ágiles (Scrum) para organizar las tareas y colaborar con el equipo.",
+                "Participé en el diseño de la experiencia del usuario (UX), desde los primeros bocetos hasta pruebas con usuarios reales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ayudante de Cocina / Líder de Mozas",
+            "company": "Hotel Howard Johnson",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2019-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Coordiné al equipo de mozas durante eventos corporativos, bodas y servicio diario, garantizando puntualidad, presentación profesional y una atención de calidad al cliente.",
+                "Como ayudante de cocina, trabajé en equipo para preparar y despachar más de 120 platos por servicio, manteniendo tiempos precisos y altos estándares de presentación.",
+                "Participé en el montaje y la organización de la cocina antes, durante y después del servicio, cumpliendo con estrictas normas de higiene y seguridad alimentaria.",
+                "Me destaqué por la coordinación eficiente bajo presión, el manejo simultáneo de múltiples tareas y la comunicación efectiva con el equipo de cocina y salón."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Cajera y Atención al Cliente",
+            "company": "Autoservicio El Ciervo",
+            "location": "",
+            "start_date": "2014-01-01",
+            "end_date": "2016-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Realicé cobros en efectivo y con tarjeta, cierre de caja y manejo de facturación en un entorno de alto flujo de clientes.",
+                "Brindé atención personalizada, resolviendo consultas y reclamos con amabilidad y rapidez.",
+                "Participé en la reposición de productos y control de inventario.",
+                "Contribuí a la mejora del orden en góndolas y señalización de precios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Moza",
+            "company": "Lo de Carlitos",
+            "location": "",
+            "start_date": "2012-01-01",
+            "end_date": "2014-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención al cliente en un entorno de trabajo acelerado y estructurado, con procesos similares a cadenas de comida rápida.",
+                "Coordinación precisa con cocina y compañeros para garantizar la calidad y velocidad del servicio.",
+                "Dominio del sistema de carta numérica para realizar pedidos correctos en el menor tiempo posible.",
+                "Fortalecí habilidades de trabajo bajo presión, agilidad mental, memoria visual y trato amable."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Atención al Cliente",
+            "company": "Tienda Marga",
+            "location": "",
+            "start_date": "2011-01-01",
+            "end_date": "2012-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención personalizada, organización del salón y tareas de caja.",
+                "Reposición de mercadería y orden del local."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certificación Profesional en Diseño UX",
+            "institution": "Google (Coursera)",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Superior en Programación",
+            "institution": "Instituto Teclab",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-01-01",
+            "hours": 0
+        },
+        {
+            "degree": "Chef Internacional",
+            "institution": "Instituto IGI",
+            "location": "",
+            "start_date": "2013-01-01",
+            "end_date": "2013-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "node.js",
+                "bootstrap",
+                "mysql",
+                "ux/ui",
+                "accesibilidad",
+                "diseño-centrado-en-el-usuario"
+            ],
+            "soft": [
+                "creatividad",
+                "curiosidad",
+                "trabajo-en-equipo",
+                "aprendizaje-constante",
+                "compromiso",
+                "responsabilidad",
+                "organización"
+            ],
+            "tools": [
+                "git",
+                "json",
+                "trello",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Basic"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

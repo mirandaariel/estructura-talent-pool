@@ -1,0 +1,143 @@
+{
+    "personal_info": {
+        "first_name": "Francisco",
+        "last_name": "Passarelli",
+        "email": "franciscopassarelli7@gmail.com",
+        "phone": "+54 9 11 5466 1930",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/franciscopassarelli",
+        "website": "https://devfran.vercel.app",
+        "portfolio": "https://github.com/franciscopassarelli",
+        "summary": "Soy Francisco, estudiante de Tecnicatura en Tecnologías Web (UNO) y desarrollador Full Stack desde 2022. "
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "En red Consultora",
+            "location": "Freelance",
+            "start_date": "2024-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de sitios web a medida en React y Next.js, con enfoque en interfaces modernas y responsivas.",
+                "Implementación de funcionalidades específicas usando JavaScript, React.js, Node.js y otras tecnologías según proyecto.",
+                "Refactorización y mantenimiento de sitios existentes para mejorar la experiencia de usuario y el rendimiento.",
+                "Análisis técnico y desarrollo de requerimientos para distintos proyectos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "No Country",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "2025-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Participé como desarrollador frontend en una simulación laboral organizada por NoCountry en una plataforma de viajes con reservas flexibles y pasarela de pagos segura."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "2022-04-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "E-commerce y gestión de stock para comercio.",
+                "Sistema gestión de turnos para club deportivo.",
+                "Web app para agencia de viajes (proyecto grupal simulado).",
+                "Provisión de soluciones técnicas para marcas, PyMEs y emprendedores."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Responsable de E-commerce y Ventas Online",
+            "company": "Contactomaq",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Publicación y gestión de productos en Mercado Libre.",
+                "Control de stock, preparación y despacho de pedidos.",
+                "Desarrollo de una tienda online para mejorar la visibilidad de productos.",
+                "Optimización de publicaciones con descripciones claras y técnicas básicas de SEO."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Tecnologías Web",
+            "institution": "Universidad Nacional del Oeste (UNO)",
+            "location": "",
+            "start_date": "2025-02-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Carrera de Desarrollo Front-End React JS",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react-js",
+                "next-js",
+                "node.js",
+                "express.js",
+                "mongodb",
+                "firebase",
+                "c#",
+                ".net",
+                "api-rest",
+                "websockets",
+                "unit-testing",
+                "integration-testing",
+                "manual-testing"
+            ],
+            "soft": [
+                "analysis",
+                "requirements-analysis"
+            ],
+            "tools": [
+                "tailwind-css",
+                "material-ui",
+                "bootstrap",
+                "styled-components",
+                "emotion",
+                "git",
+                "ci/cd-pipelines",
+                "docker",
+                "docker-compose",
+                "scrum",
+                "kanban"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

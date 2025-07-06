@@ -1,0 +1,155 @@
+{
+    "personal_info": {
+        "first_name": "Jorge",
+        "last_name": "Rodriguez",
+        "email": "rjogeluis64@gmail.com",
+        "phone": "3814620822",
+        "location": {
+            "country": "Argentina",
+            "city": "San Miguel de Tucumán",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Frontend Developer con sólida experiencia en el desarrollo de interfaces modernas utilizando React.js y TypeScript, orientado a la creación de productos escalables, responsivos y centrados en el usuario. He contribuido en múltiples proyectos para empresas fintech y e-commerce, integrando REST APIs, optimizando la performance de carga hasta un 35%, y siguiendo prácticas como Clean Code, componentes reutilizables y estilos modulares. Trabajo en entornos Agile/Scrum, aplicando principios de accesibilidad, testeo automatizado y arquitectura desacoplada con micro frontends (MFE)."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Naranja X",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de arquitecturas desacopladas mediante Micro Frontends y Module Federation, facilitando la integración entre equipos y reduciendo la deuda técnica en un 40%.",
+                "Implementación de lazy loading para módulos en Angular, logrando una disminución del uso de recursos en un 30%.",
+                "Mejoras en accesibilidad según WCAG 2.1, incrementando el alcance de usuarios en un 20%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Alkemy",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de funcionalidades clave en React, utilizando hooks personalizados, context API y principios de diseño desacoplado.",
+                "Integración con bases de datos SQL (MySQL) a través de APIs REST, implementando lógica segura y validaciones desde el frontend."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "GlobalTech",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una app en React para visualización geoespacial usando Google Maps API y Google Places API, mejorando la precisión en resultados y experiencia móvil.",
+                "Refactorización del código backend para mejorar mantenibilidad e integración de endpoints personalizados.",
+                "Optimización de consultas en Firestore, con reducción del costo de infraestructura en un 30%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero en Computación",
+            "institution": "Universidad Nacional de Tucumán",
+            "location": "Tucumán, Argentina",
+            "start_date": "",
+            "end_date": "2019-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Posgrado en Bases de Datos Relacionales y Optimización MySQL",
+            "institution": "Universidad Nacional de Tucumán",
+            "location": "Tucumán, Argentina",
+            "start_date": "",
+            "end_date": "2018-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso Avanzado de Desarrollo Web con Vue & React",
+            "institution": "Next_U",
+            "location": "",
+            "start_date": "",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Aceleración en ONG con Laravel, Angular y React Native",
+            "institution": "Alkemy",
+            "location": "",
+            "start_date": "",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "angular",
+                "react.js",
+                "vue.js",
+                "javaScript-es6+",
+                "typescript",
+                "node.js",
+                "rest",
+                "graphql",
+                "zustand",
+                "redux",
+                "mysql",
+                "mongodb",
+                "firebase",
+                "postgresql",
+                "micro-frontends",
+                "module-federation"
+            ],
+            "soft": [],
+            "tools": [
+                "scrum",
+                "kanban",
+                "agile-development",
+                "git",
+                "github",
+                "docker",
+                "ci/cd",
+                "jenkins",
+                "github-actions",
+                "redux",
+                "rest-api",
+                "jest",
+                "cypress",
+                "testing-library"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "Fluido"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

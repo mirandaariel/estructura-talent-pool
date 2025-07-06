@@ -1,0 +1,143 @@
+{
+    "personal_info": {
+        "first_name": "Nicoll",
+        "last_name": "Sevillano",
+        "email": "ns.sevillano@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante de Ingeniería en Sistemas apasionada por el análisis y diseño de sistemas, con experiencia en desarrollo frontend con React.js y backend en C#. Con conocimientos en metodologías ágiles y resolución de problemas, busco oportunidades para aplicar mis habilidades en entornos colaborativos y en proyectos desafiantes que me permitan seguir desarrollándome profesionalmente."
+    },
+    "work_experience": [
+        {
+            "job_title": "Pasante de desarrollo",
+            "company": "Soluciones Informáticas Globales",
+            "location": "",
+            "start_date": "2025-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Migración de bases de datos desde sistemas legados a PostgreSQL, optimizando estructuras y manteniendo integridad de datos.",
+                "Mantenimiento y mejora de formularios para asegurar una correcta visualización y funcionalidad.",
+                "Creación y modificación de procedures y triggers para automatizar procesos dentro de la base de datos.",
+                "Testeo de las modificaciones realizadas en los cambios solicitados."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Personal Administrativo de Soporte Técnico",
+            "company": "Vaneduc - Universidad Abierta Interamericana",
+            "location": "",
+            "start_date": "2022-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Reportes y resolución de problemas mediante la generación de tickets para el equipo de soporte técnico."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Soporte Técnico",
+            "company": "Scarpatti & Asociados",
+            "location": "",
+            "start_date": "2019-03-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Soporte en hardware y software, realizando mantenimiento y configuraciones de computadoras.",
+                "Gestión de incidencias de correo corporativo e instalaciones de software, mejorando el tiempo de respuesta en un 20%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas Informáticos",
+            "institution": "Universidad Abierta Interamericana",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo Front-End con React.js",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c",
+                "c#-.net",
+                "python",
+                "asp.-net-framework",
+                "netcore-9",
+                "mvc",
+                "ms-sql-server",
+                "postgresql",
+                "firebird",
+                "packet-tracer",
+                "linux",
+                "web-apis-rest"
+            ],
+            "soft": [],
+            "tools": [
+                "adobe-illustrator",
+                "photoshop",
+                "canva",
+                "figma",
+                "power-bi",
+                "microsoft-office",
+                "windows",
+                "git",
+                "trello",
+                "notion",
+                "postman",
+                "uml",
+                "bpmn",
+                "diagramas-de-bloques",
+                "xp",
+                "scrum",
+                "kanban"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sistema para realizar reservas a Canchas de futbol",
+            "description": "Sistema que permite a los complejos deportivos realizar reservas y alquilar insumos deportivos.",
+            "technologies": [
+                ".NET",
+                "MS SQL Server"
+            ],
+            "url": "Fulbito"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "A2+"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

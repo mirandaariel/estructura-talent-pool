@@ -1,0 +1,178 @@
+{
+    "personal_info": {
+        "first_name": "Mariano",
+        "last_name": "Rodriguez",
+        "email": "rdzc.mariano@gmail.com",
+        "phone": "+549 115131 3502",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/marianordz",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full-Stack Developer with 4+ years of experience in technologies such as React & Svelte and experience in Node.js, MongoDB and C#."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Kopius",
+            "location": "",
+            "start_date": "2022-12-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Development of various web apps in React, Svelte, Redux, TypeScript and Tailwind related to healthcare, reaching 100% test coverage using Jest/Vitest, reducing production bugs",
+                "Developed a NodeJS app to connect an external API and our internal services, improving reliability and reducing failures",
+                "Led the complete refactor of a 'patient/practitioner' calendar using React, Redux, Tailwind and GraphQL, improving its structure and efficiency"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Solvd",
+            "location": "",
+            "start_date": "2021-10-01",
+            "end_date": "2022-12-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Increased the registration rate by simplifying the onboarding flow and redesigning the registration process using React, Redux, and Tailwind, improving the UX/UI"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full-Stack Developer",
+            "company": "Endava",
+            "location": "",
+            "start_date": "2020-02-01",
+            "end_date": "2021-10-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Development of an app using React, Redux, NodeJS, and MongoDB/PostgreSQL",
+                "Built and maintained a React Native app with focus on compliance with WCAG 2.0 accessibility standards"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Productivity Engineer",
+            "company": "MercadoLibre",
+            "location": "",
+            "start_date": "2017-08-01",
+            "end_date": "2020-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Led the development of internal tools that enhanced the developer experience, including NPM packages, testing kits, and frontends/backends in React and Java",
+                "Improved code quality across the company through workshops, talks, and support on automation and testing for various development teams"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA Automation Engineer",
+            "company": "Intive",
+            "location": "",
+            "start_date": "2016-03-01",
+            "end_date": "2017-08-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Designed the automation solution architecture using C#, Selenium WebDriver, and the PageObject design pattern",
+                "Performed manual testing of features to ensure functionality and quality",
+                "Created, maintained, and executed test cases for regression testing"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Backend Developer",
+            "company": "Accenture",
+            "location": "",
+            "start_date": "2014-09-01",
+            "end_date": "2016-03-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Development of an internal app in C# to assist company managers in expense tracking and cash flows",
+                "Automation of an internal tool using CodedUI",
+                "Led a POC to swap from CodedUI to Selenium WebDriver"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Technical Degree in Programming",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "Avellaneda, Buenos Aires",
+            "start_date": "2009-01-01",
+            "end_date": "2011-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "svelte",
+                "redux",
+                "tailwind",
+                "typescript",
+                "react-native",
+                "graphql",
+                "nodejs",
+                "c#",
+                "express",
+                "rest",
+                "mongodb",
+                "postgresql",
+                "jest",
+                "vitest",
+                "selenium-webdriver",
+                "git",
+                "docker",
+                "ci/cd",
+                "aws",
+                "agile/scrum"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "AWS Certified Developer - Associate (DVA-002)",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Meta Front-End Developer Certificate",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B2 (Upper Intermediate)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

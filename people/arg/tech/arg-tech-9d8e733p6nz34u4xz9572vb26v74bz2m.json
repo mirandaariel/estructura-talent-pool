@@ -1,0 +1,134 @@
+{
+    "personal_info": {
+        "first_name": "Andrés Felipe",
+        "last_name": "Hernández",
+        "email": "felipehernandez1193@gmail.com",
+        "phone": "+573128592641",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/felipe-hernandez",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero informático con disposición de aprendizaje, adaptabilidad al cambio, resolución de conflictos y toma de decisiones. Cuento con conocimiento y experiencia en fomentar SEO (Search Engine Optimization). Además del dominio del lenguaje de programación Python, lo que me permite desarrollar soluciones eficientes y efectivas para una amplia variedad de problemas. Cuento también con experiencia en SQL Server, lo que me facilita la gestión, manipulación y análisis de registros. A la vez cuento con capacidad de autogestión eficaz en proyectos y buenas habilidades de colaboración dentro de un equipo productivo. Mi principal responsabilidad está enfocada en la satisfacción de los usuarios."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista de soporte y desarrollo",
+            "company": "Infodec - Growth & Profit solutions",
+            "location": "",
+            "start_date": "2023-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Brindar monitoreo y supervisión de un portal de pagos.",
+                "Creación y correcta gestión de registros en la base de datos.",
+                "Monitorear continuamente los servidores mediante Zabbix.",
+                "Gestionar y resolver incidentes siguiendo los SLA establecidos por el cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Asistente de contenido web",
+            "company": "Enciso Systems",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "2023-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Subir contenido en diferentes páginas web solicitado mediante el sistema de tickets.",
+                "Administración de información mediante CMS 'Djangoplicity'."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Auditor SEO",
+            "company": "Enciso Systems",
+            "location": "",
+            "start_date": "2022-10-01",
+            "end_date": "2023-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Auditar una página web basada en directrices SEO.",
+                "Arreglar errores de la página tras análisis con 'Siteimprove'."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Programa profesional en ingeniería informática",
+            "institution": "Corporación Universitaria Autónoma de Nariño",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Curso de la alcaldía CaliOpenToWork",
+            "institution": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Curso de cero a master con Python 3",
+            "institution": "Udemy",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "bootstrap",
+                "javascript",
+                "python",
+                "django",
+                "sql-server",
+                "postgresql"
+            ],
+            "soft": [],
+            "tools": [
+                "office",
+                "git",
+                "github",
+                "jira",
+                "djangoplicity",
+                "mailchimp",
+                "siteimprove",
+                "visual-studio-code",
+                "gitlab"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,167 @@
+{
+    "personal_info": {
+        "first_name": "Ain Moises",
+        "last_name": "Ponce",
+        "email": "ponce.ain@gmail.com",
+        "phone": "+541124017335",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/ainponce",
+        "website": "",
+        "portfolio": "",
+        "summary": "Mi pasión por la innovación y la optimización de procesos se manifiesta en el desarrollo de software. Con una trayectoria en desarrollo web que comenzó en el 2023, he acumulado una experiencia significativa en la implementación de soluciones tecnológicas eficaces. Mi compromiso está centrado en la creación y mejora de la eficiencia junto al rendimiento de las aplicaciones que desarrollo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer Ssr",
+            "company": "Labtory S.A",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollador Full Stack con un stack principal que incluye TypeScript, Node.js, Express.js, Prisma, PostgreSQL, Next.js, tRPC, Redux, Material UI, Docker y AWS.",
+                "Experiencia en desarrollo y mantenimiento de funcionalidades frontend y backend.",
+                "Creación de APIs con Express.js y tRPC.",
+                "Integración con bases de datos relacionales mediante Prisma ORM.",
+                "Desarrollo de interfaces con Next.js y gestión de estado con Redux.",
+                "Acostumbrado a la colaboración en equipos ágiles y con un fuerte enfoque en la calidad del código."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "Shalion",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Implementación de web scraping en páginas web a nivel global mediante node.js.",
+                "Recopilar información relativa al contenido y datos de productos para que los clientes puedan analizar la competencia de sus productos en diversas plataformas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Smartway SRL",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Trabajo con JavaScript, HTML, CSS, React.js, Node, Redux, Redux Toolkit, Vite.js.",
+                "Aplicación de metodologías ágiles como SCRUM.",
+                "Planificación de proyectos hasta el despliegue y pruebas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA Analyst",
+            "company": "Smartway SRL",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2023-07-01",
+            "end_date": "2023-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Generación de casos de pruebas detallados.",
+                "Creación de casos de uso claros y precisos.",
+                "Ejecución de pruebas de rendimiento para garantizar que las aplicaciones funcionarán de manera eficiente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Gestión de Tecnologías",
+            "institution": "Universidad Nacional de La Matanza",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnicatura en Desarrollo Web",
+            "institution": "Universidad Nacional de La Matanza",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2021-04-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "bootstrap",
+                "react.js",
+                "redux.js",
+                "angular",
+                "angular-ui",
+                "typescript",
+                "tailwind",
+                "nodejs",
+                "expressjs",
+                "axios",
+                "jest",
+                "storybook",
+                "next.js",
+                "vite.js",
+                "java",
+                "springboot",
+                "hibernate",
+                "mysql",
+                "sql-server",
+                "php"
+            ],
+            "soft": [
+                "leadership",
+                "supervision"
+            ],
+            "tools": [
+                "git",
+                "apache",
+                "workbench",
+                "phpmyadmin",
+                "aws"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Diplomatura en Coaching, Supervisión y Liderazgo",
+            "issuing_organization": "UTN / GestAr",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

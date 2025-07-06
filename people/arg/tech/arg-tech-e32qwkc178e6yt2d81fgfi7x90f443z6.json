@@ -1,0 +1,196 @@
+{
+    "personal_info": {
+        "first_name": "Nelson",
+        "last_name": "Albera",
+        "email": "nalbera@hotmail.com",
+        "phone": "+54 9 3547 636093",
+        "location": {
+            "country": "Argentina",
+            "city": "Alta Gracia",
+            "state": "Córdoba"
+        },
+        "linkedin": "https://www.linkedin.com/in/nelson-albera-fullstack",
+        "website": "https://github.com/nalbera",
+        "portfolio": "",
+        "summary": "Profesional en programación fullstack con mayor experiencia en el backend, con una sólida experiencia en la docencia e investigación de tecnologías de programación en niveles medio y superior de la enseñanza oficial y no oficial. Dos años de experiencia como Full Stack Developer, con orientación al backend."
+    },
+    "work_experience": [
+        {
+            "job_title": "Profesor Bootcamp FullStack y Líder Técnico",
+            "company": "HACK A BOSS",
+            "location": "La Coruña, Galicia, España",
+            "start_date": "2023-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de API RESTful con Node.js, Express, y Sequelize o TypeORM.",
+                "Enseñar y diseñar cómo construir una API RESTFull desde cero.",
+                "Creación de una aplicación Fullstack con React, Redux y Next.js.",
+                "Optimización de aplicaciones en PostgreSQL o MySQL.",
+                "Construcción de aplicaciones estáticas con Gatsby.js.",
+                "Mentoría y desarrollo de habilidades del equipo.",
+                "Gestión del flujo de trabajo y priorización de tareas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Profesor de Bootcamp FullStack",
+            "company": "Digital House",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2022-04-01",
+            "end_date": "2024-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de API RESTful con NodeJs y Express.",
+                "Desarrollo de una Aplicación Web con MVC.",
+                "Desarrollo de SPA con React.",
+                "Implementación de Autenticación y Autorización en Aplicaciones Web.",
+                "Despliegue y Mantenimiento de Aplicaciones Fullstack."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador de Software",
+            "company": "AGOS - Consultoría & Desarrollo",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2022-02-01",
+            "end_date": "2023-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Corrección de errores del subsistema de embargos de sueldos en Aplicación de negocio de tres capas.",
+                "Servicio (API) de impresión masiva de etiquetas de ofertas de productos en Farmacity.",
+                "Aplicación web que monitorea múltiples repositorios de código fuente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Director y docente particular",
+            "company": "Academia de Estudios Milenium",
+            "location": "Alta Gracia, Córdoba, Argentina",
+            "start_date": "2014-03-01",
+            "end_date": "2022-03-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Docencia particular en materias de programación, base de datos, lógica, matemática y física.",
+                "Coordinación del equipo de docentes, confección de horarios y generación de convenios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Programador y docente",
+            "company": "Instituto Superior Manuel de Falla",
+            "location": "",
+            "start_date": "2005-08-01",
+            "end_date": "2014-03-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Enseñanza en programación, Base de Datos, HTML, CSS, Lógica de programación, y Lógica matemática.",
+                "Dictado de materias de la carrera de Analista de Sistemas.",
+                "Desarrollo y mantenimiento de sitio web institucional."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Informática",
+            "institution": "Universidad Blas Pascal",
+            "location": "Córdoba, Argentina",
+            "start_date": "2004-09-01",
+            "end_date": "2009-09-01",
+            "hours": 0
+        },
+        {
+            "degree": "Analista de Sistemas de Computación",
+            "institution": "Instituto Superior Santo Domingo",
+            "location": "Córdoba, Argentina",
+            "start_date": "1997-03-01",
+            "end_date": "2002-06-01",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2021-09-01",
+            "end_date": "2021-12-01",
+            "hours": 800
+        },
+        {
+            "degree": "POO en Java",
+            "institution": "Ministerio de Trabajo - Alkemy IT",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-04-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "nodejs",
+                "javascript",
+                "java",
+                "c#",
+                "react",
+                "react-redux",
+                "express",
+                "nestjs",
+                "nextjs",
+                "gatsbyjs",
+                "sequelize",
+                "typeorm",
+                "mysql",
+                "postgresql",
+                "mariadb",
+                "sql-server"
+            ],
+            "soft": [
+                "comunicación",
+                "autodidacta",
+                "proactivo",
+                "colaborativo"
+            ],
+            "tools": [
+                "git",
+                "jira",
+                "trello",
+                "uml"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Proyecto Food App",
+            "description": "Single Page Application (SPA) que muestra, ordena y filtra información desde una web API de recetas.",
+            "technologies": ["nodejs", "express", "postgresql", "sequelize", "react", "redux"],
+            "url": ""
+        },
+        {
+            "name": "Proyecto Gimme A Ride",
+            "description": "SPA que permite conectar usuarios que viajan a un mismo destino y compartir gastos.",
+            "technologies": ["nodejs", "express", "sequelize", "postgresql", "mercado-pago", "cloudinary", "nodemailer", "mapbox", "oauth", "react", "redux"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

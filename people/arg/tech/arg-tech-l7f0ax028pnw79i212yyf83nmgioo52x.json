@@ -1,0 +1,92 @@
+{
+    "personal_info": {
+        "first_name": "Nicolás",
+        "last_name": "Alvarado",
+        "email": "alvaradonicolas317@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Adelia María",
+            "state": "Córdoba"
+        },
+        "linkedin": "https://linkedin.com/in/nicolas-alvarado10",
+        "website": "",
+        "portfolio": "https://nico-freelance.vercel.app/",
+        "summary": "Soy desarrollador frontend apasionado por crear soluciones innovadoras y eficientes. Actualmente estudiando de forma autodidacta."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Diario El Gobierno Argentina",
+            "location": "Remote",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Encargado del diseño y desarrollo frontend del nuevo sitio de el diario."
+            ],
+            "achievements": [],
+            "repository_url": "https://diarioelgobierno.ar/"
+        },
+        {
+            "job_title": "Personal Projects",
+            "company": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico en Producción Agropecuaria",
+            "institution": "IPEA n 292 agrónoma Liliam Priotto",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "react",
+                "next.js",
+                "tailwind",
+                "astro",
+                "firebase",
+                "git",
+                "github"
+            ],
+            "soft": [],
+            "tools": [
+                "word",
+                "excel",
+                "powerpoint"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Technical"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

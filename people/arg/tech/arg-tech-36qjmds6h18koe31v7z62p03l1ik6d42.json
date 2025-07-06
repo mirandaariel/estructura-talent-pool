@@ -1,0 +1,143 @@
+{
+    "personal_info": {
+        "first_name": "Kritzan",
+        "last_name": "Sullca Espinoza",
+        "email": "kritzansullca@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/kritzan-sullca/",
+        "website": "https://github.com/kritzanyeraldin",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Skytech",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Contribuí en el desarrollo de una plataforma web para visualizar en tiempo real datos sobre la calidad del agua, utilizando React y WebSockets para una experiencia dinámica y actualizaciones instantáneas.",
+                "Diseñé e implementé componentes interactivos que permiten interpretar métricas como pH, turbidez y temperatura de forma clara y responsiva.",
+                "Implementé y gestioné hooks personalizados para el manejo eficiente del estado y la lógica de suscripción a datos en tiempo real, asegurando una estructura modular y reutilizable.",
+                "Colaboré estrechamente con un equipo bajo la metodología Scrum, participando en reuniones diarias, planificación de sprints y retrospectivas para alinearnos con los objetivos y entregables del proyecto."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Acecom",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollar y mantener una librería de componentes reutilizables para Acecom, estandarizando el diseño y optimizando la implementación de la UI.",
+                "Plasmar los diseños existentes de la página de Acecom en Figma y proponer rediseños en caso sea necesario, asegurando consistencia visual y una mejor experiencia de usuario.",
+                "Colaborar estrechamente con un equipo que utiliza la metodología Scrum, participando en reuniones, planificación de sprints y reuniones retrospectivas para alinearse con los objetivos y entregables del proyecto.",
+                "Implementar Storybook para documentar y visualizar componentes, facilitando su integración en diferentes proyectos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ciencias de la Computación",
+            "institution": "Universidad Nacional de Ingenieria",
+            "location": "",
+            "start_date": "2019-08-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c/c++",
+                "java",
+                "python",
+                "javascript",
+                "typescript",
+                "sql",
+                "reactjs",
+                "react-native",
+                "remix",
+                "tailwind-css",
+                "nodejs",
+                "fastapi",
+                "ai-integration",
+                "postgresql",
+                "kafka",
+                "docker",
+                "material-ui",
+                "html",
+                "css"
+            ],
+            "soft": [],
+            "tools": [
+                "figma",
+                "git",
+                "github"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "LearnFrench",
+            "description": "Desarrollar la UI/UX de la plataforma utilizando Figma, CSS y Mantine, asegurar interfaz moderna y responsiva.",
+            "technologies": [
+                "node.js",
+                "react",
+                "typescript",
+                "javascript",
+                "groq-api",
+                "web-speech-api",
+                "mantine",
+                "git",
+                "github",
+                "figma"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Turno-Uni",
+            "description": "Diseñar y desarrollar la UI/UX de la aplicación móvil con Figma, CSS y GlueStack, garantizando experiencia accesible y responsiva.",
+            "technologies": [
+                "node.js",
+                "react-native",
+                "expo",
+                "typescript",
+                "javascript",
+                "python",
+                "apache-kafka",
+                "prometheus",
+                "grafana",
+                "gluestack",
+                "css",
+                "git",
+                "github",
+                "figma"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

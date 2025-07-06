@@ -1,0 +1,120 @@
+{
+    "personal_info": {
+        "first_name": "Martina",
+        "last_name": "Schaller",
+        "email": "martinaschaller12@gmail.com",
+        "phone": "3364212324",
+        "location": {
+            "country": "Argentina",
+            "city": "Rosario",
+            "state": "Santa Fe"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "Portfolio Github LinkedIn",
+        "summary": "Desarrolladora web Full Stack con especial interés en el desarrollo frontend. Tengo experiencia trabajando con tecnologías como React, Tailwind CSS, JavaScript y herramientas modernas de diseño y consumo de APIs. Me destaco por mi compromiso, responsabilidad y enfoque en ofrecer soluciones escalables y centradas en el usuario. Busco seguir creciendo profesionalmente en entornos colaborativos donde pueda aportar valor desde el diseño e implementación de interfaces intuitivas y eficientes."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrolladora de Software",
+            "company": "SICORP SRL",
+            "location": "Rosario, Argentina",
+            "start_date": "2025-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Participación activa en el desarrollo de aplicaciones web como parte del equipo de tecnología.",
+                "Utilización de un stack moderno que incluye NestJS, React, Tailwind CSS, TypeScript y MySQL, colaborando tanto en el frontend como en el backend de los proyectos.",
+                "Diseño e implementación de interfaces responsivas, priorizando la experiencia del usuario y la escalabilidad del código."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrolladora de Software",
+            "company": "Kupner",
+            "location": "Argentina",
+            "start_date": "2023-11-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Realización de servicios profesionales para la empresa Antares Technologies US.",
+                "Creación de un Portfolio de carga de proyectos.",
+                "Utilizando las tecnologías de React, .NET y MySQL para manejo de Base de Datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrolladora de Software",
+            "company": "WB Sistemas",
+            "location": "San Nicolas, Argentina",
+            "start_date": "2023-07-01",
+            "end_date": "2023-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de Aplicaciones Web.",
+                "Diseño y Gestión de Base de Datos.",
+                "Modelado de Entidades y Relaciones.",
+                "Desarrollo de Servicios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas de la Información",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Carrera de Backend en Node.js, Curso de ReactJS",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "2025-02-28",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "javascript",
+                "react",
+                "angular",
+                "nodejs",
+                ".net",
+                "sql",
+                "mongodb",
+                "api-restful"
+            ],
+            "soft": [],
+            "tools": [
+                "postman",
+                "axios",
+                "responsive-design",
+                "swagger",
+                "docker",
+                "github",
+                "git"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,155 @@
+{
+    "personal_info": {
+        "first_name": "Luciano",
+        "last_name": "Aguirre",
+        "email": "lucianoaguirre007@gmail.com",
+        "phone": "+541163641013",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/lucianoaguirre007",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Massive Digital Agency",
+            "location": "CDMX, México",
+            "start_date": "2022-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Encargado del desarrollo frontend en PromoHub, utilizando tecnologías como React, ViteJS, JavaScript, SCSS, Tailwind, Git, SQL Server y Azure.",
+                "Refactorización de la plataforma para su comercialización a grandes marcas de cerveza, implementando Google Analytics para el seguimiento del usuario, bajo la metodología SCRUM."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "3Destiny RA",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2022-03-01",
+            "end_date": "2023-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Encargado del desarrollo frontend de Realidad Aumentada en la plataforma 8thwall.",
+                "Empleando Typescript, React, MongoDB, Node, ViteJS, SCSS y Tailwind."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Mentor",
+            "company": "MindHub / Accenture",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2022-04-01",
+            "end_date": "2022-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Impartí clases en vivo siguiendo metodologías ágiles SCRUM, enseñando HTML5, CSS3, JavaScript, Vue3 y Firebase."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer Trainee",
+            "company": "MindHub",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2021-10-01",
+            "end_date": "2022-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Egresado del bootcamp intensivo de codificación que simula un entorno laboral real mediante la ejecución de diversos proyectos bajo la metodología SCRUM.",
+                "Utilizando el stack MERN."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tec. Programación",
+            "institution": "UTN",
+            "location": "Argentina, Buenos Aires",
+            "start_date": "2025-01-01",
+            "end_date": "2026-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "next.js",
+                "javascript",
+                "typescript",
+                "html5",
+                "css3",
+                "sass/scss",
+                "tailwindcss",
+                "bootstrap",
+                "material-ui",
+                "python",
+                "vue.js",
+                "webpack",
+                "vite",
+                "react-native",
+                "expo",
+                "context",
+                "redux",
+                "zustand",
+                "react-query",
+                "rest-apis",
+                "axios",
+                "scrum",
+                "agile",
+                "node.js",
+                "express.js",
+                "mongodb",
+                "postgresql",
+                "mysql",
+                "firebase",
+                "supabase",
+                "prisma",
+                "mongoose",
+                "microsoft-azure",
+                "aws",
+                "google-cloud-platform",
+                "cdn",
+                "dns-management",
+                "cloudflare"
+            ],
+            "soft": [
+                "autodidacta",
+                "organizado",
+                "proactivo",
+                "comprometido"
+            ],
+            "tools": [
+                "jira",
+                "trello",
+                "azure-boards"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B2 Técnico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

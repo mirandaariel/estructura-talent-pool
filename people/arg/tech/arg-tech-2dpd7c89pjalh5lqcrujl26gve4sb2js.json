@@ -1,0 +1,111 @@
+{
+  "personal_info": {
+    "first_name": "Carlos",
+    "last_name": "Jiménez",
+    "email": "carlosmjimenezg@gmail.com",
+    "phone": "+58 424-8786695",
+    "location": {
+      "country": "",
+      "city": "",
+      "state": ""
+    },
+    "linkedin": "https://linkedin.com/in/carlos-jiménez-garcía",
+    "website": "https://h4ruuuru-portafolio.vercel.app",
+    "portfolio": "",
+    "summary": "Desarrollador Fullstack con experiencia en TypeScript, React.js, Next.js, Python y Node.js. Especializado en el desarrollo de interfaces dinámicas, integración eficiente de APIs y optimización del rendimiento web. Comprometido con la mejora continua, el aprendizaje constante y la aplicación de buenas prácticas de desarrollo."
+  },
+  "work_experience": [
+    {
+      "job_title": "Desarrollador Fullstack",
+      "company": "VOS (Virtual Office System)",
+      "location": "",
+      "start_date": "2024-09-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollo y mantenimiento de aplicaciones web responsivas utilizando Typescript y NextJS.",
+        "Integración eficiente de APIs RESTful, diseñando arquitecturas escalables.",
+        "Gestión de bases de datos relacionales con MySQL y Prisma (ORM), asegurando consultas optimizadas, seguridad de datos y migraciones fluidas."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador Frontend",
+      "company": "Sumerly",
+      "location": "",
+      "start_date": "2024-11-01",
+      "end_date": "2024-11-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo de componentes dinámicos con React y Tailwind.",
+        "Implementación de APIs RESTful.",
+        "Manejo de Prisma para facilitar la interacción eficiente con bases de datos."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollo Frontend (WordPress)",
+      "company": "EasyCreative",
+      "location": "",
+      "start_date": "2023-04-01",
+      "end_date": "2023-10-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Modificaciones a los sitios webs existentes.",
+        "Desarrollo de sitios webs.",
+        "Mantenimiento de la página web."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Licenciatura en Informática",
+      "institution": "Universidad de Oriente",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "typescript",
+        "next.js",
+        "wordpress",
+        "apis-restful",
+        "mysql",
+        "react.js",
+        "nodejs",
+        "tailwind",
+        "prisma",
+        "python"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": ""
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

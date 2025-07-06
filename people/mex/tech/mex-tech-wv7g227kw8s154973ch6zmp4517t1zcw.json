@@ -1,0 +1,178 @@
+{
+    "personal_info": {
+        "first_name": "Alejandro Javier",
+        "last_name": "Albarran Espinosa",
+        "email": "alexalbarrane@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Mexico",
+            "city": "Lerma de Villada",
+            "state": "MEX"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero en Tecnologías de la Información y Comunicación con 3 años de experiencia en desarrollo de software, especializado en desarrollo web. Amplia experiencia trabajando con React, Next.js y NestJS, así como en el consumo y creación de APIs RESTful utilizando Node.js, Express.js y NestJS."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Fuks Empacadora De Alimentos",
+            "location": "Lerma de Villada, México",
+            "start_date": "2019-01-01",
+            "end_date": "2020-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de páginas y sitios web funcionales e intuitivos para el usuario.",
+                "Detección de errores potenciales y elaboración de soluciones para su corrección o neutralización.",
+                "Mantenimiento y actualización de aplicaciones y páginas web.",
+                "Desarrollo y modificación de funcionalidades según las directrices de la empresa.",
+                "Depuración de código para corregir errores.",
+                "Automatización de procesos para optimizar el rendimiento de aplicaciones.",
+                "Programación de sistemas adaptados a las necesidades empresariales.",
+                "Definición de tecnologías adecuadas para cada proyecto.",
+                "Desarrollo de algoritmos para resolver problemas específicos.",
+                "Pruebas de rendimiento para optimización de software."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Tecnologías de la Información y Comunicación",
+            "institution": "Universidad Tecnológica del Valle de Toluca",
+            "location": "Lerma de Villada, MEX",
+            "start_date": "2016-09-01",
+            "end_date": "2020-01-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomado en Ciberseguridad",
+            "institution": "Universidad Nacional de Ingeniería (INICTEL)",
+            "location": "Lima, Peru",
+            "start_date": "2019-09-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "php",
+                "c#",
+                "c++",
+                "sql",
+                "html5",
+                "css3",
+                "tailwind-css"
+            ],
+            "soft": [
+                "analytical-thinking",
+                "adaptability",
+                "communication"
+            ],
+            "tools": [
+                "visual-studio-code",
+                "visual-studio-.net",
+                "qt-creator",
+                "git",
+                "github",
+                "gitlab",
+                "docker",
+                "adobe-photoshop"
+            ]
+        },
+        "detailed": {
+            "technical": {
+                "react": [
+                    {
+                        "name": "Frontend development",
+                        "repository_url": ""
+                    }
+                ],
+                "next.js": [
+                    {
+                        "name": "Frontend development",
+                        "repository_url": ""
+                    }
+                ],
+                "node.js": [
+                    {
+                        "name": "API development",
+                        "repository_url": ""
+                    }
+                ],
+                "nestjs": [
+                    {
+                        "name": "Backend development",
+                        "repository_url": ""
+                    }
+                ],
+                "express.js": [
+                    {
+                        "name": "API REST development",
+                        "repository_url": ""
+                    }
+                ],
+                "prisma": [
+                    {
+                        "name": "Database management with TypeScript",
+                        "repository_url": ""
+                    }
+                ]
+            }
+        }
+    },
+    "certifications": [
+        {
+            "name": "Ciberseguridad",
+            "issuing_organization": "Google",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Análisis de Datos",
+            "issuing_organization": "Google Analytics",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Inteligencia Artificial del Futuro",
+            "issuing_organization": "Santander Universidades",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Master en React",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Full Stack Node.js, React, TypeScript, NestJS, Next.js",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "React y TypeScript: La Guía Completa",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

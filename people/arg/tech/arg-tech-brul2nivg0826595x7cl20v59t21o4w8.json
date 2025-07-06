@@ -1,0 +1,88 @@
+{
+    "personal_info": {
+        "first_name": "Samuel",
+        "last_name": "Duarte",
+        "email": "samu_dmatheu@live.com",
+        "phone": "+5493484545940",
+        "location": {
+            "country": "Argentina",
+            "city": "Jujuy",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/samuduarte12",
+        "website": "",
+        "portfolio": "",
+        "summary": "Busco crecer profesionalmente como desarrollador, consolidando mis habilidades en frontend y adquiriendo experiencia en backend. Mi objetivo es integrarme a equipos donde pueda aportar mis conocimientos, aprender y colaborar en el desarrollo. Aportó compromiso, facilidad para adaptarme y una visión orientada a la calidad y la experiencia del usuario."
+    },
+    "work_experience": [
+        {
+            "job_title": "Front End Developer",
+            "company": "LFT Labs",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé interfaces web responsivas para plataformas logísticas, educativas e institucionales usando React, Next.js, Tailwind y Firebase.",
+                "Trabajé en equipo bajo Scrum, utilizando Jira y Trello para la gestión ágil de tareas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollo Front End (React)",
+            "institution": "Telecom Digitalers",
+            "location": "",
+            "start_date": "2025-05-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "React Js",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2025-02-01",
+            "end_date": "2025-05-01",
+            "hours": 0
+        },
+        {
+            "degree": "Diseño Web",
+            "institution": "Alkemy",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2023-11-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "next.js",
+                "tailwind-css",
+                "firebase"
+            ],
+            "soft": [],
+            "tools": [
+                "trello",
+                "jira",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

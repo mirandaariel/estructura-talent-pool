@@ -1,0 +1,148 @@
+{
+    "personal_info": {
+        "first_name": "Lucas",
+        "last_name": "Nacif",
+        "email": "nacifgaya@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Mendoza",
+            "state": ""
+        },
+        "linkedin": "LinkedIn",
+        "website": "",
+        "portfolio": "",
+        "summary": "Técnico en desarrollo de software con sólidos conocimientos en desarrollo back-end, front-end y bases de datos. Soy responsable, comprometido y capaz de aportar valor en cualquier grupo de trabajo"
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "RST(Red de Salud Tecnologica)",
+            "location": "Mendoza, Argentina",
+            "start_date": "2025-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo servicios RESTful con NestJS y TypeORM para una plataforma de gestión médica.",
+                "Participo en la creación de módulos complejos con autenticación, autorización por roles, paginación, serialización y manejo estructurado de errores, aplicando buenas prácticas y arquitectura escalable."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "Underc0de",
+            "location": "Mendoza, Argentina",
+            "start_date": "2024-09-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboré en el desarrollo de un sistema para gestionar pagos de inscripciones a partidos de futbol.",
+                "Implementé la API de Mercado Pago, facilitando la gestión de pagos y garantizando seguridad.",
+                "Desarrollé el back-end en Node.js y MySQL con Sequelize para la gestión de jugadores y partidos.",
+                "Optimicé la gestión de pagos y confirmación de asistencia, mejorando la transparencia y control."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Superior en Desarrollo de Software",
+            "institution": "Instituto de educación superior-9024",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachillerato en economía y administración",
+            "institution": "Instituto Parroquial Nuestra Señora del Rosario",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "javascript",
+                "c#",
+                "java",
+                "php",
+                "nestjs",
+                "node.js",
+                "express",
+                ".net",
+                "jwt",
+                "angular",
+                "react",
+                "sequelize",
+                "mongoose",
+                "typeorm",
+                "mysql",
+                "postgresql",
+                "sql-server",
+                "sqlite",
+                "mongodb"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "docker",
+                "swagger",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Curso de C# .NET, Azure, DevOps, Open API, Minimal APIs",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Inglés aplicado a las tecnologías",
+            "issuing_organization": "Fundación Trinidad",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Introducción a la ciberseguridad",
+            "issuing_organization": "Cisco Networking Academy",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Análisis y gestión de datos",
+            "issuing_organization": "Fundación Trinidad",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Técnico (Básico)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

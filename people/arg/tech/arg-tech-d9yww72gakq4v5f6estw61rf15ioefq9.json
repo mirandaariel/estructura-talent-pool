@@ -1,0 +1,196 @@
+{
+    "personal_info": {
+        "first_name": "Eber",
+        "last_name": "Coronel",
+        "email": "ebercoronel29@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Mi conocimiento en diseño gráfico y mis ganas de aprender siempre nuevas tecnologías, me llevaron a ser un Full Stack Developer con conocimientos en la programación web con JavaScript y en la programación orientada a objetos con Microsoft .NET (c#). Mi último desafío fue realizar un Coding Bootcamp de más de 800 horas, en el cual encontré una afinidad por el Front-End."
+    },
+    "work_experience": [
+        {
+            "job_title": "FullStack Developer",
+            "company": "ABSTRACT",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "CREACION DE COMPONENTES .ASTRO Y JSX"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "CODE&MATE",
+            "location": "",
+            "start_date": "2022-10-01",
+            "end_date": "2023-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creacion de una SPA (simple page application) - Trabajo freelance"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Tutor en desarrollo web",
+            "company": "CODERHOUSE",
+            "location": "",
+            "start_date": "2022-07-01",
+            "end_date": "2023-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Despejar dudas de los estudiantes durante la clase en vivo.",
+                "Participar de las clases sumando ejemplos, experiencias y haciendo de soporte al docente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Docente en Introducción a la programación",
+            "company": "PLATAFORMA 5",
+            "location": "",
+            "start_date": "2022-04-01",
+            "end_date": "2023-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Encargado de las clases del introductorio a la programación en la academia Plataforma 5.",
+                "Enseñar HTML, CSS y JavaScript."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Docente en desarrollo web",
+            "company": "ARGENTINA PROGRAMA 4.0 - UTN",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "2023-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Encargado de las clases de introductorio a la programación con HTML, CSS y JavaScript y de las clases de React."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Docente y tutor en la carrera full stack",
+            "company": "DESAFIO LATAM",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Docente y tutor en la carrera full stack, enseñando HTML y tecnologías relacionadas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Coding Bootcamp",
+            "institution": "PLATAFORMA 5",
+            "location": "",
+            "start_date": "2021-09-01",
+            "end_date": "2021-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "Licenciatura en teatro",
+            "institution": "UNIVERSIDAD NACIONAL DE CÓRDOBA",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo de software",
+            "institution": "INSTITUTO TÉCNICO SUPERIOR CÓRDOBA",
+            "location": "",
+            "start_date": "2012-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "node",
+                "astro",
+                "git",
+                "material-ui",
+                "express",
+                "c#",
+                "npm",
+                "bootstrap",
+                "passport",
+                "sql-server",
+                "scrum",
+                "html",
+                "postgress",
+                "css",
+                "mysql"
+            ],
+            "soft": [
+                "pair-programming"
+            ],
+            "tools": [
+                "photoshop",
+                "lightroom",
+                "trello"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "CODE&MATE SPA",
+            "description": "Creacion de una SPA (simple page application)",
+            "technologies": [],
+            "url": "https://www.codeandmate.com.ar"
+        },
+        {
+            "name": "TECHO Practica Profesional",
+            "description": "Formé parte del equipo Front-End desarrollando vistas y lógicas para diferentes componentes.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Adventure E-COMMERCE",
+            "description": "Integré el equipo Front-End en donde desarrolle vistas y lógica.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "OMDB",
+            "description": "Creación de páginas para buscar películas o series. Creación y loggin de usuarios.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

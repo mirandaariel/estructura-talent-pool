@@ -1,0 +1,94 @@
+{
+    "personal_info": {
+        "first_name": "Luis",
+        "last_name": "Kislo",
+        "email": "luiskislo15@gmail.com",
+        "phone": "+54 3764657997",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": "Misiones"
+        },
+        "linkedin": "",
+        "website": "https://github.com/kislo-luis",
+        "portfolio": "",
+        "summary": "Soy un aprendiz crónico con mentalidad analítica. Hace más de 4 años inicié mi camino en el desarrollo backend y actualmente formo parte del equipo de software de Silicon Misiones, donde trabajo con TypeScript, Node.js, PostgreSQL y Sequelize. Me interesa ir más allá del código: pensar soluciones desde la arquitectura, entender cómo se conectan las entidades, diseñar flujos claros y tomar decisiones orientadas a mejorar la experiencia de uso. Valoro el análisis por sobre la improvisación: cuestionar, rediseñar y recién ahí ejecutar. Busco seguir creciendo en proyectos que valoren tanto la calidad técnica como el pensamiento detrás de cada decisión."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Backend Jr.",
+            "company": "Silicon Misiones – Digital Factory",
+            "location": "Misiones, Argentina",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Participación en el diseño e implementación de soluciones backend para sitios oficiales de la provincia.",
+                "Trabajo con tecnologías como TypeScript, Node.js, PostgreSQL y Sequelize.",
+                "Involucración en la planificación técnica de cada funcionalidad desde la arquitectura hasta la ejecución del código."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Pasantía en Desarrollo de Software",
+            "company": "Silicon Misiones – Digital Factory",
+            "location": "Misiones, Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Participación activa en proyectos reales del entorno gubernamental.",
+                "Consolidación de conocimientos en programación backend y desarrollo colaborativo.",
+                "Familiarización con herramientas de control de versiones como GitLab y Github."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Beca Full Stack Developer",
+            "institution": "Digital House",
+            "location": "Remoto",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Informática",
+            "institution": "Escuela Industrial N.º 1",
+            "location": "Misiones, Argentina",
+            "start_date": "2002-01-01",
+            "end_date": "2009-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "node.js",
+                "postgresql",
+                "sequelize",
+                "javascript",
+                "express",
+                "html",
+                "css",
+                "bases-de-datos-relacionales"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

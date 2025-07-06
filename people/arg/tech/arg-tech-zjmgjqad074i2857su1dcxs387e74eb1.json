@@ -1,0 +1,122 @@
+{
+    "personal_info": {
+        "first_name": "Omar",
+        "last_name": "Lamadrid",
+        "email": "os.lamadrid95@gmail.com",
+        "phone": "+54 1165776444",
+        "location": {
+            "country": "",
+            "city": "Buenos Aires",
+            "state": "CABA"
+        },
+        "linkedin": "https://www.linkedin.com/lamadrid95",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un Programador de Software orientado a microservicios y con habilidades de front end. Me he desempeñado en distintos roles incluyendo auxiliar de desarrollo, QA Tester y desarrollador web full stack."
+    },
+    "work_experience": [
+        {
+            "job_title": "Quality Assurance Tester y programador Front End",
+            "company": "uTriper",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "2025-03-06",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación y Automatización de código",
+                "Migración y creación de componentes de React para ambiente de producción",
+                "Documentación del código del funcionamiento del sistema",
+                "Búsqueda y testeo de Bugs"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Auxiliar Desarrollador",
+            "company": "Innova Design Audiovisual",
+            "location": "",
+            "start_date": "2015-01-14",
+            "end_date": "2016-04-05",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicaciones de escritorio",
+                "Bases de datos con SQL Server",
+                "Soporte Técnico a clientes del software"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico en programación de Software",
+            "institution": "SENA",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Programación Backend",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Full Stack",
+            "institution": "SoyHenry",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso de SQL",
+            "institution": "Gobierno de la Ciudad",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Excel avanzado",
+            "institution": "Gobierno de la Ciudad",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html",
+                "css",
+                "typescript",
+                "google-apps-script",
+                "react",
+                "node.js",
+                "jest"
+            ],
+            "soft": [],
+            "tools": [
+                "github",
+                "docusaurus",
+                "storybook"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

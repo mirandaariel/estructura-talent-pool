@@ -1,0 +1,93 @@
+{
+    "personal_info": {
+        "first_name": "Cristian",
+        "last_name": "Velazquez",
+        "email": "cfvhca@gmail.com",
+        "phone": "1159764240",
+        "location": {
+            "country": "",
+            "city": "CABA",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/cristian-velazquez-954a61141",
+        "website": "https://github.com/cmk95R",
+        "portfolio": "",
+        "summary": "Me considero apasionado de la programación, con un fuerte interés en resolver problemas mediante soluciones tecnológicas innovadoras. Busco constantemente ampliar mis conocimientos y habilidades, integrando nuevas tecnologías y herramientas. Mi enfoque está en la mejora continua y la búsqueda de nuevos desafíos que me permitan evolucionar y aportar valor en este campo."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Tecnicatura en Desarrollo de Software",
+            "institution": "ITS N°16",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Web Fullstack Mern",
+            "institution": "Digital House - Fundacion Formar",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "nodejs",
+                "next-js",
+                "express",
+                "react",
+                "html",
+                "css",
+                "mysql",
+                "mvc",
+                "api-rest",
+                "jwt"
+            ],
+            "soft": [],
+            "tools": [
+                "github",
+                "metodologías-agiles-scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Tienda de bebidas (e-commerce)",
+            "description": "Desarrollo completo de una plataforma web para la venta de bebidas. Implementación de un sistema de usuarios con autenticación segura utilizando JWT. Funcionalidades destacadas: carrito de compras y gestión de productos. Desarrollo del backend con Node.js y base de datos no relacional en MongoDB.",
+            "technologies": ["nodejs", "mongodb", "jwt"],
+            "url": ""
+        },
+        {
+            "name": "Frontend - Tienda de Muebles",
+            "description": "Diseño y desarrollo de una Landing Page con estructura HTML5 y estilización en CSS3. Creación de un sitio web responsivo con secciones optimizadas para la navegación de productos.",
+            "technologies": ["html5", "css3"],
+            "url": ""
+        },
+        {
+            "name": "Backend - Aplicación Web",
+            "description": "Desarrollo de una API RESTful con rutas protegidas mediante JWT. Creación de múltiples endpoints para operaciones CRUD. Integración de MongoDB Atlas como base de datos.",
+            "technologies": ["api-rest", "jwt", "mongodb-atlas"],
+            "url": ""
+        },
+        {
+            "name": "Proyecto integrador",
+            "description": "Participación en el desarrollo de un proyecto e-commerce para la venta de productos usados, desde la maquetación hasta la funcionalidad completa. Encargado del desarrollo backend, incluyendo diseño e implementación de la lógica del sistema. Colaboración en el frontend como apoyo al equipo, contribuyendo al diseño y funcionalidad de la interfaz. Coordinación del equipo de trabajo, asignando tareas y supervisando el progreso para garantizar el cumplimiento de los objetivos.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

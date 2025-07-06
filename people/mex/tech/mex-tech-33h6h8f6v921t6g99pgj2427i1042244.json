@@ -1,0 +1,186 @@
+{
+    "personal_info": {
+        "first_name": "Kevin Armando",
+        "last_name": "Luciano García",
+        "email": "luciano19940@hotmail.com",
+        "phone": "+527442873814",
+        "location": {
+            "country": "México",
+            "city": "Acapulco",
+            "state": "Guerrero"
+        },
+        "linkedin": "https://www.linkedin.com/in/kalg12",
+        "website": "https://github.com/kalg12",
+        "portfolio": "",
+        "summary": "Desarrollador web orientado a los detalles y apasionado por la creación de sistemas web haciendo uso de tecnologías modernas. Con ganas de explorar oportunidades, aportar creatividad, innovación y experiencia técnica a proyectos de desarrollo de software, así como compartir mis conocimientos con otros más."
+    },
+    "work_experience": [
+        {
+            "job_title": "Coach Instructor - Desarrollo Web JavaScript",
+            "company": "UCAMP",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2025-06-30",
+            "currently_working": true,
+            "responsibilities": [
+                "Impartir cursos de desarrollo web, desde fundamentos de HTML y CSS hasta JavaScript avanzado.",
+                "Asesorar a los estudiantes, fomentando habilidades prácticas mediante proyectos orientados al desarrollo web moderno."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Consultor TI y Soporte",
+            "company": "Onikom",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2025-06-30",
+            "currently_working": true,
+            "responsibilities": [
+                "Administración de la plataforma de capacitación con Moodle, gestionando cursos, implementaciones, configuraciones y correcciones.",
+                "Proporcionar soporte técnico, realizando ajustes y restauración de servicios ante incidencias.",
+                "Gestión de servidores VPS mediante GCP y AWS."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web y Administrador de Infraestructura IT",
+            "company": "Acarentals",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2022-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y mantenimiento del sitio web de la empresa, asegurando su correcto funcionamiento y optimización.",
+                "Creación de APIs para sistema interno.",
+                "Gestión de la infraestructura IT, incluyendo la administración de servidores, configuración de cuentas de correo, implementación de firmas digitales, gestión de redes sociales, configuración de equipos de red y dispositivos de impresión, soporte técnico a empleados, y configuración de email marketing."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bootcamp Desarrollo Web FullStack JavaScript",
+            "institution": "UCAMP",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Maestría en Educación",
+            "institution": "UNID",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Ingeniería en Sistemas de la Información",
+            "institution": "UNID",
+            "location": "",
+            "start_date": "2013-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "desarrollo-web",
+                "administración-de-infraestructura-it",
+                "soporte-técnico",
+                "gestión-de-redes-y-equipos-de-ti",
+                "implementación-y-configuración",
+                "marketing-digital",
+                "asesoría-y-capacitación"
+            ],
+            "soft": [
+                "adaptabilidad",
+                "resolución-de-problemas",
+                "trabajo-en-equipo",
+                "comunicación",
+                "organización",
+                "capacidad-de-aprendizaje"
+            ],
+            "tools": [
+                "html5",
+                "css",
+                "tailwind",
+                "shadcn",
+                "nextui",
+                "javascript",
+                "typescript",
+                "php",
+                "java",
+                "react",
+                "next.js",
+                "vue.js",
+                "astro",
+                "express",
+                "electron-js",
+                "springboot",
+                "node.js",
+                "git",
+                "docker",
+                "wordpress",
+                "woocommerce",
+                "joomla",
+                "moodle",
+                "mysql",
+                "mongodb",
+                "firebase",
+                "postgresql",
+                "prisma",
+                "github",
+                "jira"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sistema de Gestión Académica",
+            "description": "Desarrollo de un sistema donde maestros crean semestres y actividades, y los estudiantes consultan calificaciones por No. de control escolar.",
+            "technologies": [
+                "next.js",
+                "typescript",
+                "mysql",
+                "prisma"
+            ],
+            "url": "https://calificaciones-cetmar.vercel.app/"
+        },
+        {
+            "name": "School Manager System",
+            "description": "Sistema escolar de escritorio desarrollado con Electron JS para la gestión de colegiaturas, horarios docentes, asignación de materias, información de alumnos, entre otros módulos.",
+            "technologies": [
+                "electron-js",
+                "swagger"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Zoohabitat",
+            "description": "Sistema de gestión veterinaria desarrollado con Vue.js.",
+            "technologies": [
+                "vue.js"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

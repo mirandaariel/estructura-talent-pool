@@ -1,0 +1,107 @@
+{
+  "personal_info": {
+    "first_name": "Cristian Steven",
+    "last_name": "González Arango",
+    "email": "cristan2110239@gmail.com",
+    "phone": "+573104607480",
+    "location": {
+      "country": "",
+      "city": "",
+      "state": ""
+    },
+    "linkedin": "",
+    "website": "https://portafolio-cristian-gonzalez.netlify.app/",
+    "portfolio": "https://github.com/You7Cris",
+    "summary": "Soy ingeniero en sistemas de software con experiencia en desarrollo de software Backend con tecnologías Python, apasionado por las soluciones web, el aprendizaje constante y la eficiencia de procesos. Creativo, honesto, ágil, con buena actitud para trabajar en equipo y excelentes relaciones interpersonales."
+  },
+  "work_experience": [
+    {
+      "job_title": "Desarrollador de Software",
+      "company": "Corporación de Estudios Tecnológicos del Norte del Valle",
+      "location": "",
+      "start_date": "2019-01-01",
+      "end_date": "2020-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo de una aplicación de aparcamientos institucionales con Laravel 8 para Cotecnova."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Business Solution Implementer",
+      "company": "Veritran",
+      "location": "",
+      "start_date": "2022-10-03",
+      "end_date": "2023-11-16",
+      "currently_working": false,
+      "responsibilities": [
+        "Elaboración de diseño técnico, funcionalidades, validación, desarrollo utilizando metodologías ágiles SCRUM, Backend y Frontend de aplicaciones, construcción de servicios SOAP y JSON."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Analista Desarrollador Junior",
+      "company": "Inforcol S.A",
+      "location": "",
+      "start_date": "2024-07-15",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Elaboración de nuevos proyectos, implementación de nuevas funcionalidades y módulos, documentación técnica, Backend y Frontend de aplicaciones, construcción de servicios JSON.",
+        "Desarrollo de nuevos plugins para la plataforma de Moodle.",
+        "Desarrollo de un nuevo modulo para la plataforma de OrangeHRM.",
+        "Desarrollo de un nuevo proyecto Frontend con Angular JS utilizando la librería PrimeNG."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ingeniero en sistemas",
+      "institution": "Corporación de Estudios Tecnológicos del Norte del Valle",
+      "location": "",
+      "start_date": "2017-01-01",
+      "end_date": "2022-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "python",
+        "mysql",
+        "flask",
+        "django",
+        "javascript",
+        "git",
+        "c++"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": [
+    {
+      "name": "Juan Carlos Huertas Cardona",
+      "relationship": "Country Manager Colombia",
+      "contact": "+573148250334"
+    },
+    {
+      "name": "Juan Pablo Morales Tames",
+      "relationship": "Arquitecto de Software, Full Stack Developer SemiSenior, One Consultants",
+      "contact": "+573134179048"
+    }
+  ]
+}

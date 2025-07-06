@@ -1,0 +1,89 @@
+{
+    "personal_info": {
+        "first_name": "Nahuel",
+        "last_name": "Guerra",
+        "email": "nahuelguerra56b@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/nahuel-guerra",
+        "website": "https://nahuelguerra.com.ar",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con 2 años de experiencia en la construcción y optimización de aplicaciones web utilizando frameworks modernos de JavaScript. Historial comprobado en el desarrollo de soluciones escalables, mejora de experiencias de usuario y colaboración con equipos multidisciplinarios. Aprendizaje continuo y la mejora de habilidades tanto técnicas como interpersonales."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Web",
+            "company": "FlorcitaNailss",
+            "location": "",
+            "start_date": "2023-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñé y desarrollé el sitio web de Florcita Nails utilizando Astro.",
+                "Desarrollé una plataforma de gestión y venta de cursos online y presenciales utilizando React.js, Next.js y PostgreSQL.",
+                "Implementé integración de MercadoPago, sistema de reservas con Google Calendar, y recordatorios automatizados vía WhatsApp."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Freelance",
+            "company": "HL Transporte",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé el sitio web corporativo de HL Transporte con ReactJS y Next.js."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Informática",
+            "institution": "Universidad Nacional de Córdoba",
+            "location": "Córdoba, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Carrera de Full Stack",
+            "institution": "CoderHouse",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["javascript", "react.js", "next.js", "astro", "postgreSQL"],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "CLI para Proyectos Node.js con Express y TypeScript",
+            "description": "Desarrollé una herramienta CLI que automatiza la creación de proyectos en Node.js con Express y TypeScript.",
+            "technologies": ["node.js", "express", "typescript"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

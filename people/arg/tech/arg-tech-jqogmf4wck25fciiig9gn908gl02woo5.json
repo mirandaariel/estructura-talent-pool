@@ -1,0 +1,97 @@
+{
+  "personal_info": {
+    "first_name": "Carlos",
+    "last_name": "Garay Samudio",
+    "email": "garaycarlosmauricio17@gmail.com",
+    "phone": "1140496173",
+    "location": {
+      "country": "Argentina",
+      "city": "Buenos Aires",
+      "state": ""
+    },
+    "linkedin": "https://linkedin.com/in/garaycarlos",
+    "website": "",
+    "portfolio": "https://github.com/mauriGaray",
+    "summary": "Desarrollador Full Stack con experiencia en Next.js, React y Node.js."
+  },
+  "work_experience": [
+    {
+      "job_title": "Desarrollador Fullstack",
+      "company": "TFM IT Solutions",
+      "location": "",
+      "start_date": "2024-12-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Creación de interfaces y funcionalidades.",
+        "Mantener y refactorizar código.",
+        "Manejo de base de datos SQL.",
+        "Trabajo con metodologías ágiles."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador Fullstack",
+      "company": "Inkua",
+      "location": "",
+      "start_date": "2024-06-01",
+      "end_date": "2025-03-01",
+      "currently_working": false,
+      "responsibilities": [
+        "Creación de interfaces y funcionalidades a partir de Figma.",
+        "Mantener y refactorizar código.",
+        "Recopilación y validación de requisitos de sistema con los stakeholders.",
+        "Trabajo con metodologías ágiles."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ingeniería Informática",
+      "institution": "Universidad Nacional de La Matanza",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "javascript",
+        "node.js",
+        "express.js",
+        "react",
+        "next.js"
+      ],
+      "soft": [],
+      "tools": [
+        "git",
+        "wordpress",
+        "tailwind",
+        "shadcn",
+        "redux-tool-kit",
+        "react-hook-form",
+        "paquete-office-avanzado"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "B2"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

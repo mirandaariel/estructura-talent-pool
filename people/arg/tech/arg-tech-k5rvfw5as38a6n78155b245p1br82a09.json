@@ -1,0 +1,121 @@
+{
+    "personal_info": {
+        "first_name": "Julio",
+        "last_name": "Sierra",
+        "email": "juliosierra299@gmail.com",
+        "phone": "809-852-7811",
+        "location": {
+            "country": "",
+            "city": "Santo Domingo Este",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un ingeniero en sistemas apasionado por el desarrollo de software, con experiencia en gestión ágil de proyectos y creación de soluciones tecnológicas robustas. Mi experiencia abarca tecnologías como React, .NET y Node.js, junto con habilidades en bases de datos y desarrollo multiplataforma con Flutter. Busco oportunidades desafiantes donde pueda aplicar mi conocimiento técnico y creatividad para impulsar innovación y seguir creciendo profesionalmente."
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Developer",
+            "company": "Codika",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Gestión eficiente de proyectos tecnológicos utilizando metodologías ágiles.",
+                "Desarrollo de software siguiendo estándares de calidad y buenas prácticas de la industria."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Soporte Tecnico",
+            "company": "Consejo Estatal del Azúcar (CEA)",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Configuración y mantenimiento de equipos y redes, incluyendo soporte a usuarios y Active Directory"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Carrera de Ingeniería en Sistemas Computacionales",
+            "institution": "Universidad Tecnologica de Santiago (UTESA)",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Desarrollo de Aplicaciones .NET",
+            "institution": "INFOTEP",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "typescript",
+                "dart",
+                "flutter",
+                "desarrollo-web",
+                "net",
+                "c#",
+                "asp.net",
+                "nodejs",
+                "express",
+                "nest",
+                "bases-de-datos",
+                "sql",
+                "no-sql"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Cristian Medrano",
+            "relationship": "",
+            "contact": "(809) 697-2790"
+        },
+        {
+            "name": "Lenny Garcia",
+            "relationship": "",
+            "contact": "(829) 657-2014"
+        },
+        {
+            "name": "Joan Ceballos",
+            "relationship": "",
+            "contact": "(849) 621-6270"
+        }
+    ]
+}

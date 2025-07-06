@@ -1,0 +1,217 @@
+{
+    "personal_info": {
+        "first_name": "Emiliano",
+        "last_name": "Rios",
+        "email": "emilianoluisrios@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Formosa",
+            "state": "Formosa Capital"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Graduado de Licenciado en Sistemas de Información. Cuento con experiencia en Ingeniería de Software y Desarrollo Web Full Stack. Estoy capacitado para el análisis, diseño y gestión de proyectos tecnológicos estratégicos, así como para la dirección de áreas informáticas, auditoría de sistemas, estudios de factibilidad técnico-económica, relevamiento funcional y configuración de infraestructuras de redes."
+    },
+    "work_experience": [
+        {
+            "job_title": "Investigador Desarrollador",
+            "company": "Ci2S Labs",
+            "location": "Buenos Aires, Argentina I Remoto",
+            "start_date": "2023-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñé y desarrollé un prototipo funcional de tecnología asistiva para personas con discapacidad visual, integrando visión por computadora, procesamiento de video en tiempo real y lógica basada en sistemas inteligentes.",
+                "Implementé modelos de detección y reconocimiento de objetos con YOLOv8, optimizados para funcionar en tiempo real y adaptados a entornos urbanos.",
+                "Colaboré en la redacción y presentación de publicaciones científicas, destacando por la innovación técnica y el enfoque inclusivo del proyecto."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Líder de Gestión de Datos y Optimización de Procesos",
+            "company": "Axion Energy - Lubricom S.R.L",
+            "location": "Formosa, Formosa Capital, Argentina I Presencial",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Optimicé el proceso de carga de datos y comunicación con clientes mediante la implementación de Google Forms y WhatsApp Business.",
+                "Coordiné un equipo de tres personas, supervisando la gestión de datos.",
+                "Lideré la gestión y el seguimiento de la entrega de más de 1,500 credenciales.",
+                "Contribuí al éxito de la campaña de fidelización 'Lubricom Card'.",
+                "Propuse mejoras y brindé consultoría especializada en la gestión de datos y la comunicación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Ministerio de Desarrollo Humano",
+            "location": "Formosa, Formosa Capital, Argentina I Presencial",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Analicé el circuito interno del área de informática y desarrollo.",
+                "Desarrollé un sistema de gestión de tareas internas utilizando React, Node, API REST, PostgreSQL, Prisma y Supabase.",
+                "Implementé pruebas de software para validar la robustez de la aplicación.",
+                "Utilicé metodologías ágiles para optimizar el tiempo de entrega."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciado en Sistemas de Información",
+            "institution": "Universidad de la Cuenca del Plata",
+            "location": "Formosa, Formosa Capital, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "python",
+                "php",
+                "java",
+                "html",
+                "css",
+                "react",
+                "three.js",
+                "r3f",
+                "next.js",
+                "nest.js",
+                "django",
+                "flask",
+                "fastapi",
+                "mysql",
+                "postgresql",
+                "mongodb",
+                "redes-neuronales",
+                "yolov8",
+                "opencv",
+                "pytorch",
+                "data-warehouse",
+                "data-sets",
+                "análisis-de-datos",
+                "docker",
+                "kubernetes",
+                "aws",
+                "proxmox",
+                "vmware",
+                "hyper-v",
+                "virtualización-y-redes",
+                "linux",
+                "windows"
+            ],
+            "soft": [
+                "liderazgo-técnico",
+                "pensamiento-crítico",
+                "comunicación-efectiva",
+                "adaptabilidad",
+                "trabajo-en-equipo"
+            ],
+            "tools": [
+                "microsoft-office",
+                "adobe-premiere",
+                "adobe-photoshop",
+                "kanban",
+                "scrum",
+                "figma",
+                "excalidraw",
+                "draw.io",
+                "trello"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Introducción general a la Inteligencia Computacional",
+            "issuing_organization": "",
+            "issue_date": "2025-04-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso introductorio de Redes Neuronales",
+            "issuing_organization": "",
+            "issue_date": "2023-08-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "HOLOTECH x Blind - Tecnologías Asistivas para Personas con Discapacidad Visual",
+            "description": "Desarrollé un prototipo funcional de tecnología asistiva que permite a personas con discapacidad visual navegar y comprender su entorno en tiempo real. Implementé técnicas de visión por computadora usando OpenCV y YOLOv8, para procesar imágenes y proporcionar información táctil y auditiva.",
+            "technologies": [
+                "python",
+                "opencv",
+                "tensorflow",
+                "yolov8"
+            ],
+            "url": ""
+        },
+        {
+            "name": "SCS3D - Simulador Virtual de Criminalística",
+            "description": "Desarrollé un simulador 3D interactivo para prácticas educativas en criminalística, utilizando React Three Fiber para el renderizado en tiempo real.",
+            "technologies": [
+                "react",
+                "three-fiber",
+                "deno",
+                "oak",
+                "websockets"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": ""
+        },
+        {
+            "language": "Portugués",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [
+        {
+            "title": "Sistema de optimización de parámetros para la detección de objetos en tiempo real",
+            "publisher": "Conexiones",
+            "publication_date": "2024-01-01",
+            "url": ""
+        },
+        {
+            "title": "Detección de múltiples objetos en un entorno para asistencia a invidentes",
+            "publisher": "Conexiones",
+            "publication_date": "",
+            "url": ""
+        },
+        {
+            "title": "Detección Automática de Objetos como asistencia a Personas Invidentes",
+            "publisher": "Revista Abierta de Informática Aplicada",
+            "publication_date": "2023-01-01",
+            "url": "https://doi.org/10.59471/raia202356"
+        }
+    ],
+    "references": []
+}

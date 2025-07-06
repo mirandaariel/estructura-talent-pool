@@ -1,0 +1,149 @@
+{
+    "personal_info": {
+        "first_name": "José",
+        "last_name": "Saavedra",
+        "email": "fransaavedra21@gmail.com",
+        "phone": "+54 2616300182",
+        "location": {
+            "country": "Chile",
+            "city": "Santiago",
+            "state": ""
+        },
+        "linkedin": "Francisco Saavedra",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con una sólida comprensión de las tecnologías del momento, teniendo como enfoque el desarrollo de interfaces de usuario funcionales y atractivas. Busco una oportunidad para seguir creciendo profesionalmente en el campo del desarrollo web, puesto que mi objetivo es aprender y crecer en un entorno dinámico, colaborativo y que tenga desafíos, para aplicar mi creatividad y habilidades técnicas para crear aplicaciones excepcionales."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Xcala SPA",
+            "location": "Santiago, Chile",
+            "start_date": "2023-11-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño, análisis y desarrollo FullStack con Reactjs, Nextjs, Reactquery, MUI v5, Figma, HTML, CSS, Emotion, styled components, Node Js, Express, GraphQL.",
+                "Gestión y documentación de la información relevante en el sistema informático.",
+                "Realización de tareas repetitivas, manteniendo la concentración en todo momento."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FullStack",
+            "company": "PradaVil CA",
+            "location": "Maracaibo, Venezuela",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño, análisis y desarrollo FrontEnd con Reactjs, Reactquery, MUI v5.",
+                "Desarrollo de APIS en Axios con Express, Apollo Server GraphQL.",
+                "Administración de BBDD PostgreSQL, DynamoDB, AWS Lambda, S3, Cognito, Cloudwatch."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Sistemas",
+            "institution": "UTN",
+            "location": "Argentina",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Frontend Developer",
+            "institution": "Spartan Devs",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "EnglishConnect1",
+            "institution": "EnglishConnect",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en ciencias",
+            "institution": "Escuela Basica Estadal FVM",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "flex",
+                "grid",
+                "javascript",
+                "react-js",
+                "next-js",
+                "react-query",
+                "apollo-client",
+                "material-ui",
+                "styled-components",
+                "formik",
+                "react-hook-form",
+                "consumo-de-api",
+                "rest",
+                "scrum-agile",
+                "workspaces",
+                "discord",
+                "jira",
+                "youtrack",
+                "git",
+                "github",
+                "typescript",
+                "node-js",
+                "express",
+                "nestjs",
+                "api-rest",
+                "graphql",
+                "apollo-server",
+                "aws-fundamentals",
+                "postgresql"
+            ],
+            "soft": [
+                "trabajador",
+                "organizado",
+                "responsable",
+                "resolutivo",
+                "buen-animo",
+                "capaz-de-resolver-problemas",
+                "integracion-a-equipos",
+                "dispuesto-a-aprender"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Scrum Foundation Professional Certification - SFPC",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

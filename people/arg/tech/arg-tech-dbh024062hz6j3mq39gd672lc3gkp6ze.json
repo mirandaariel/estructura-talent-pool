@@ -1,0 +1,153 @@
+{
+    "personal_info": {
+        "first_name": "Sebastian",
+        "last_name": "Martin Ponce",
+        "email": "sebaottok@gmail.com",
+        "phone": "+5491122926162",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/sebastian-ponce2",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy Ingeniero en Software recibido en la Universidad Siglo 21 y me desempeño como Desarrollador Fullstack con 3 años de experiencia en el rubro. Considero que tengo gran conocimiento en mi stack de programación React js, React Native en frontend, y Node js, Java Springboot, además del uso de Typescript para ambos. PostgreSQL en bases de datos. Busco crecer en base a nuevos desafíos que me permitan aprender nuevas habilidades y me lleven a explotar mi capacidad como profesional. Soy una persona proactiva, con ambición, que trabaja en equipo, resiliente y con capacidad de liderazgo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista Funcional Técnico",
+            "company": "Universidad Siglo 21",
+            "location": "Córdoba, Argentina",
+            "start_date": "2021-05-01",
+            "end_date": "2022-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Análisis funcional técnico de procesos e inconsistencias de datos con base de datos PL/SQL."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "Dux Software",
+            "location": "Córdoba, Argentina",
+            "start_date": "2022-03-01",
+            "end_date": "2022-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo fullstack para sistema de gestión ERP.",
+                "Implementaciones y corrección de errores con las tecnologías JSF, JPA, Hibernate, PostgreSQL, JUnit."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "ITLG",
+            "location": "Córdoba, Argentina",
+            "start_date": "2022-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo fullstack web y mobile de aplicación View.",
+                "Implementación de OAuth, enlaces dinámicos, WebSockets, notificaciones, procedimientos almacenados, creación de tablas con tecnologías React js, React Native, Next js, Typescript, Zustand, Vitest, Springboot, JUnit, PostgreSQL.",
+                "Desarrollo fullstack de aplicación web con tecnologías Angular JS, Typescript, Bootstrap, Jasmine, Karma, Node js, Sequelize, Jest, MySQL, Docker, AWS Lambda."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Análisis de Software",
+            "institution": "Universidad Siglo 21",
+            "location": "Córdoba, Argentina",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en Software",
+            "institution": "Universidad Siglo 21",
+            "location": "Córdoba, Argentina",
+            "start_date": "",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react-js",
+                "react-native",
+                "next-js",
+                "angular-js",
+                "typescript",
+                "zustand",
+                "redux",
+                "css",
+                "sass",
+                "tailwind",
+                "material-ui",
+                "bootstrap",
+                "vitest",
+                "karma",
+                "jasmine",
+                "javascript",
+                "node-js",
+                "java",
+                "springboot",
+                "sequelize",
+                "postgresql",
+                "pl/sql",
+                "mysql",
+                "junit",
+                "mockito",
+                "jest",
+                "firebase",
+                "websockets",
+                "graphql",
+                "vite",
+                "webpack",
+                "docker",
+                "bitbucket",
+                "git/github",
+                "ci/cd",
+                "gcp"
+            ],
+            "soft": [
+                "proactivity",
+                "ambition",
+                "teamwork",
+                "resilience",
+                "leadership"
+            ],
+            "tools": [
+                "firebase",
+                "webpack",
+                "docker",
+                "bitbucket",
+                "git",
+                "github",
+                "ci/cd",
+                "gcp"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

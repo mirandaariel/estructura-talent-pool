@@ -1,0 +1,102 @@
+{
+    "personal_info": {
+        "first_name": "Aldana",
+        "last_name": "Delgado",
+        "email": "aldana_delgado@hotmail.com",
+        "phone": "+5491125071535",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": "GBA"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full Stack Developer con background en estudiante de Contador Público y actualmente estudiante de Analista Universitario en Ciencias de Datos, lo cual me enseñó a trabajar en grupo, ser paciente, autodidacta y resiliente. Tengo conocimientos en metodologías ágiles, GIT, algoritmos, frameworks CSS, Bootstrap. Actualmente estoy aprendiendo Python, con foco en su aplicación en backend y análisis de datos. Experiencia en desarrollo de Front End y Back End con React, Redux, Node, Express, Sequelize, PostgreSQL, SQL. Con adaptabilidad, gestión del tiempo, comunicación efectiva, resolución de problemas y trabajo en equipo."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Contador Publico",
+            "institution": "Universidad Nacional de Luján",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "Analista Universitario en Ciencias de Datos",
+            "institution": "Universidad Nacional de Luján",
+            "location": "",
+            "start_date": "",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "metodologías-agiles",
+                "git",
+                "algoritmos",
+                "css",
+                "bootstrap",
+                "python",
+                "react",
+                "redux",
+                "node",
+                "express",
+                "sequelize",
+                "postgresql",
+                "sql"
+            ],
+            "soft": [
+                "adaptabilidad",
+                "gestión-del-tiempo",
+                "comunicación-efectiva",
+                "resolución-de-problemas",
+                "trabajo-en-equipo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "<ForDevs>",
+            "description": "Una aplicación que permite a los desarrolladores subir sus proyectos, ver otros perfiles, contratar a otros desarrolladores entre otras cosas.",
+            "technologies": [
+                "React",
+                "Redux",
+                "Formik",
+                "Yup",
+                "Express",
+                "Sequelize",
+                "Auth0",
+                "PostgreSQL"
+            ],
+            "url": "Link repositorio"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado C1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

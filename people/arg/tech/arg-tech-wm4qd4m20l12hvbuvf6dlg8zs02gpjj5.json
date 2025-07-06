@@ -1,0 +1,118 @@
+{
+    "personal_info": {
+        "first_name": "Luis Fernando",
+        "last_name": "España",
+        "email": "fernandoesp1711@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy una persona apasionada por el aprendizaje continuo y el crecimiento profesional, con un fuerte sentido del respeto y el trabajo en equipo. Me motivan los retos y siempre busco oportunidades para superarme y aportar valor. Tengo fortalezas en el análisis y manejo de datos, así como en la programación, áreas en las que disfruto profundizar y desarrollar soluciones innovadoras. Fuera del ámbito laboral, me gusta disfrutar de mis hobbies, ya sea jugando videojuegos o saliendo a contemplar el atardecer, actividades que me ayudan a mantener un equilibrio saludable y creativo en mi vida."
+    },
+    "work_experience": [
+        {
+            "job_title": "Administrador del sistema",
+            "company": "IDEMIA | Registraduría Nacional del Estado Civil",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y desarrollo de herramientas para la gestión eficiente de incidencias.",
+                "Generación de informes estratégicos mediante el uso de herramientas de visualización y análisis de datos.",
+                "Automatización de procesos críticos mediante scripting y desarrollo de soluciones.",
+                "Refactorización y optimización de código.",
+                "Administración y modelado de bases de datos relacionales y no relacionales.",
+                "Integración y mantenimiento de soluciones biométricas.",
+                "Soporte técnico y funcional de servicios y aplicaciones.",
+                "Gestión de incidencias mediante sistemas especializados.",
+                "Conocimiento general del funcionamiento y estructura de un Data Center."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ingeniero de software",
+            "company": "IDEMIA",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Capacitación interna en IDEMIA por buen rendimiento.",
+                "Proyecto para recolectar datos estadísticos para el uso de ciclo-rutas.",
+                "Desarrollo de un aplicativo/portal web para la automatización de procesos.",
+                "Implementación de la lógica del back-end con Python y Django.",
+                "Desarrollo del front-end con JavaScript, HTML y consumo de servicios mediante JSON.",
+                "Diseño y gestión de bases de datos utilizando SQL.",
+                "Empaquetado de la aplicación mediante Docker.",
+                "Integración de funcionalidades relacionadas con IPTV y servicios de streaming."
+            ],
+            "achievements": [
+                "Reconocimiento por buen empleado."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Especialización en Ciber-seguridad",
+            "institution": "Universidad Autonoma de Occidente",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniero Electrónico y telecomunicaciones",
+            "institution": "Universidad Autonoma de Occidente",
+            "location": "",
+            "start_date": "",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "sql",
+                "pl-sql",
+                "javascript",
+                "python",
+                "django",
+                "html",
+                "java",
+                "php",
+                "linux",
+                "etl",
+                "centreon"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

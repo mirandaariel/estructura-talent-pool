@@ -1,0 +1,133 @@
+{
+    "personal_info": {
+        "first_name": "Jorge",
+        "last_name": "Nieva",
+        "email": "jorgeln4755@gmail.com",
+        "phone": "+54 3815175867",
+        "location": {
+            "country": "Argentina",
+            "city": "Tucumán",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/jorge-nieva",
+        "website": "",
+        "portfolio": "https://portofolio-theta-two.vercel.app/",
+        "summary": "Software Developer con experiencia en la creación de soluciones escalables y optimización de rendimiento. Especializado en el desarrollo de aplicaciones eficientes, con un enfoque en mejorar la experiencia del usuario y la seguridad de los sistemas"
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Smart Rocks",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé e implementé herramientas web para el análisis de rocas en 2D y 3D con visualización de datos en tiempo real.",
+                "Optimicé el procesamiento asíncrono, mejorando la eficiencia del análisis en un 40%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Backend Developer",
+            "company": "Abi Rached Studios",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementé sistemas de seguridad avanzados, recuperación de contraseñas con tokens temporales, manejo de transacciones seguras y aplicando arquitectura modular y principios SOLID.",
+                "Diseñé la gestión de jugadores, incluyendo inventarios, logros, estadísticas y economía virtual, asegurando eficiencia con paginación, filtrado y soft delete en PostgreSQL + Sequelize."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Jerje Gym",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Implementé autenticación con JWT, junto con control granular de roles, mejorando la seguridad y reduciendo en 30% los tiempos administrativos.",
+                "Diseñé un dashboard interactivo con gráficos dinámicos en Chart.js, facilitando el seguimiento de ingresos y asistencia de usuarios.",
+                "Optimizé la carga de datos con indexación en Mongoose, reduciendo los tiempos de consulta en 25%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "ArbiTrack",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Arquitecté una plataforma escalable para arbitraje de criptomonedas, asegurando integridad de datos y sincronización eficiente entre frontend y backend.",
+                "Refiné la experiencia de usuario (UI/UX) con principios de accesibilidad y Material UI, aumentando la retención de usuarios en un 20%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Development & Tecnologías emergentes",
+            "institution": "",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javaScript",
+                "typeScript",
+                "python",
+                "react",
+                "react-native",
+                "redux",
+                "tailwindcss",
+                "css",
+                "node.js",
+                "express.js",
+                "nest.js",
+                "sequelize",
+                "mongoose",
+                "jest",
+                "react-testing-library",
+                "git",
+                "github",
+                "slack",
+                "trello",
+                "jira",
+                "scrum",
+                "kanban"
+            ],
+            "soft": [
+                "gestión-ágil-de-proyectos",
+                "optimización-y-resolución-de-problemas-técnicos",
+                "trabajo-en-equipo-y-colaboración-en-entornos-remotos",
+                "adaptabilidad-a-nuevas-tecnologías"
+            ],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (B1)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,119 @@
+{
+    "personal_info": {
+        "first_name": "",
+        "last_name": "",
+        "email": "feldmanaaron406@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Administrative Employee",
+            "company": "Cuenta Textil SRL",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "In charge of all administrative paperwork",
+                "Customer service",
+                "Managed various responsibilities"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Software Developer",
+            "company": "Greelow",
+            "location": "",
+            "start_date": "2022-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Full Stack Web Development with ReactJs, NodeJs, Php Laravel"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachiller con especialización en economía y gestión de las organizaciones",
+            "institution": "Toratenu",
+            "location": "Buenos Aires",
+            "start_date": "2014-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "System Analyst",
+            "institution": "Instituto Tecnológico de Educación superior ORT Argentina",
+            "location": "",
+            "start_date": "2019-08-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "poo",
+                "html",
+                "css",
+                "tailwind",
+                "bootstrap",
+                "c#",
+                "entity-framework",
+                "relational-and-no-relational-databases",
+                "nodejs",
+                "expressjs",
+                "nestjs",
+                "typeorm",
+                "sequelize",
+                "typescript",
+                "javascript",
+                "php",
+                "laravel",
+                "react",
+                "nextjs"
+            ],
+            "soft": [],
+            "tools": [
+                "docker",
+                "aws-services"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Conversation mid/high level, Reading high level, Writing high level"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "Hebrew",
+            "proficiency": "Conversation mid level, Reading mid/high level, Writing mid level"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

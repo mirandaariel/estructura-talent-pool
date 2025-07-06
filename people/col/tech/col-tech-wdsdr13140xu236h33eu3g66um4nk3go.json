@@ -1,0 +1,131 @@
+{
+    "personal_info": {
+        "first_name": "Jose Luis",
+        "last_name": "Angarita",
+        "email": "amjose09@gmail.com",
+        "phone": "+57 3014611852",
+        "location": {
+            "country": "Colombia",
+            "city": "Barranquilla",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full-stack Software Developer with 3 years of experience specializing in building scalable and high-performance applications. Expert in frontend development using React, Vue.js, and Next.js, and backend development with NestJS. Proven track record in delivering seamless eCommerce solutions and integrating complex third-party services. Strong focus on user-centric design, quality assurance, and maintaining stability across platforms. Adept in working in Agile teams, collaborating closely with cross-functional teams to deliver robust, user-friendly applications. Passionate about solving complex challenges and continually improving technical skills to deliver impactful solutions."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "INCHCAPE DIGITAL",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed eCommerce solutions for multiple vehicle brands using React and GraphQL, ensuring a dynamic and user-friendly experience.",
+                "Ensured high product quality and stability while adapting to feature changes, maintaining a consistent experience across various brand-specific sites.",
+                "Implemented automated testing with Cypress, ensuring reliable functionality and minimizing errors across the platform."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "FullStack Developer",
+            "company": "GYS INTEGRAL",
+            "location": "",
+            "start_date": "2023-05-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed a full-stack solution as an intermediary for government services, ensuring seamless integration with third-party systems.",
+                "Implemented robust error handling, synchronization, and response management, ensuring reliable data flow and system stability.",
+                "Collaborated with internal and external teams to optimize performance, manage complex workflows, and ensure compliance with strict requirements."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "FullStack Developer",
+            "company": "INTEGRITY",
+            "location": "Barranquilla, Colombia",
+            "start_date": "2022-08-01",
+            "end_date": "2023-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed web and mobile applications using React, Vue.js, and Ionic, ensuring seamless, high-quality, and responsive user experiences across platforms.",
+                "Built backend services with NestJS, focusing on secure, efficient loan processing workflows and maintaining strict quality and performance standards.",
+                "Collaborated in a Scrum environment using GitFlow, ensuring smooth integration of features, efficient delivery, and a consistent user experience across the application."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "LYA ELECTRONIC",
+            "location": "Barranquilla, Colombia",
+            "start_date": "2022-02-01",
+            "end_date": "2023-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed pixel-perfect web applications based on Figma designs, ensuring high-quality visual consistency across different devices and screen sizes.",
+                "Took ownership of front-end decisions, including selecting technologies, building complex layouts, and implementing animations.",
+                "Collaborated with cross-functional teams to deliver responsive, user-friendly websites, balancing design precision with technical execution."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "vue",
+                "next.js",
+                "nest.js"
+            ],
+            "soft": [
+                "problem-solving"
+            ],
+            "tools": []
+        },
+        "detailed": []
+    },
+    "certifications": [
+        {
+            "name": "Versant English Certificate",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "",
+            "credential_url": "https://versant-score.tiny.site/"
+        },
+        {
+            "name": "Emerging Training Leader",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "",
+            "credential_url": "https://www.credential.net/cbc96dcb-b330-419f"
+        },
+        {
+            "name": "EF SET English Certificate",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "",
+            "credential_url": "https://cert.efset.org/2WW4Sz"
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "B2+"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

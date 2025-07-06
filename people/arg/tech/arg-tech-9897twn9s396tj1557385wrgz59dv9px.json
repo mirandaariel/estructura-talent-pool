@@ -1,0 +1,121 @@
+{
+    "personal_info": {
+        "first_name": "Gabriel",
+        "last_name": "Agüero",
+        "email": "aguerogabriel.dev@gmail.com",
+        "phone": "011 1531908198",
+        "location": {
+            "country": "Argentina",
+            "city": "Vicente López",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "https://github.com/gabrielaguero",
+        "portfolio": "https://behance.net/gabriel_aguero",
+        "summary": "Soy estudiante de diseño y programación web, con conocimientos en HTML/CSS y JavaScript. En constante formación en el área de la tecnología e informática. En búsqueda de proyectos para potenciar mis habilidades tanto individuales como en equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Customer/Administración",
+            "company": "Silgab",
+            "location": "",
+            "start_date": "2020-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Tareas administrativas",
+                "Atención telefónica a proveedores y clientes",
+                "Utilización de CRM",
+                "Emisión de facturas"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Operario",
+            "company": "Silgab",
+            "location": "",
+            "start_date": "2017-06-01",
+            "end_date": "2020-08-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Carga y descarga de materia prima y manufacturas",
+                "Preparación de insumos",
+                "Ejecución y control de maquinarias de tejido"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diseño y Programación Web",
+            "institution": "Escuela Da Vinci",
+            "location": "",
+            "start_date": "2022-08-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Front End",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2021-08-01",
+            "end_date": "2022-01-01",
+            "hours": 0
+        },
+        {
+            "degree": "Periodismo Deportivo",
+            "institution": "Escuela de Comunicación ETER",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2016-12-01",
+            "hours": 0
+        },
+        {
+            "degree": "Bachillerato de Economía y Administración",
+            "institution": "Instituto de la Santísima Trinidad",
+            "location": "",
+            "start_date": "2013-12-01",
+            "end_date": "2013-12-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "diseño-web",
+                "html/css",
+                "maquetado-web",
+                "javascript",
+                "react/vue"
+            ],
+            "soft": [
+                "trabajo-en-equipo"
+            ],
+            "tools": [
+                "photoshop/illustrator"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

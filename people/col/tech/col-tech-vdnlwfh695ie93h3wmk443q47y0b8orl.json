@@ -1,0 +1,122 @@
+{
+    "personal_info": {
+        "first_name": "Jorge",
+        "last_name": "Meriño",
+        "email": "jorgemerino743@gmail.com",
+        "phone": "+57 300 247 5473",
+        "location": {
+            "country": "Colombia",
+            "city": "Puerto Colombia",
+            "state": "Atlántico"
+        },
+        "linkedin": "https://www.linkedin.com/in/jorge-meriñomuñoz-63b477246/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador de Software con más de 2 años de experiencia en la creación e implementación de aplicaciones web modernas. Especializado en React, Node.js y JavaScript/ES6, con enfoque en rendimiento, escalabilidad y experiencia de usuario."
+    },
+    "work_experience": [
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Crear Colombia",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de APIs RESTful con Node.js y Express.",
+                "Optimización de bases de datos en MySQL.",
+                "Uso de Docker para ambientes de desarrollo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "ID For Ideas",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Creación de interfaces modernas y responsivas con React.",
+                "Implementación de lógica de negocio en frontend.",
+                "Manejo de estado con Context API y Redux.",
+                "Integración de APIs RESTful.",
+                "Trabajo colaborativo bajo metodología Scrum."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachiller Académico",
+            "institution": "Institución Educativa Eustorgio Salgar",
+            "location": "",
+            "start_date": "2012-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Cursos online",
+            "institution": "Platzi",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "html5",
+                "css3",
+                "javascript",
+                "node.js",
+                "express",
+                "restful",
+                "docker",
+                "ci/cd"
+            ],
+            "soft": [
+                "resolución-de-problemas",
+                "comunicación-efectiva",
+                "mentalidad-de-crecimiento",
+                "trabajo-en-equipo"
+            ],
+            "tools": [
+                "jira",
+                "trello",
+                "git",
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Enciclopedia Pokémon",
+            "description": "Aplicación web creada con Vite + React, consumiendo datos desde la PokéAPI.",
+            "technologies": ["vite", "react", "pokéapi"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

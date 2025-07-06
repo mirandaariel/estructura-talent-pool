@@ -1,0 +1,163 @@
+{
+  "personal_info": {
+    "first_name": "Ignacio Eduardo",
+    "last_name": "Tosolini",
+    "email": "ignaciottosolini@gmail.com",
+    "phone": "+5493425699509",
+    "location": {
+      "country": "Argentina",
+      "city": "Santa Fe",
+      "state": ""
+    },
+    "linkedin": "https://linkedin.com/in/ignaciottosolini/",
+    "website": "",
+    "portfolio": "",
+    "summary": "Desarrollador Full Stack SSR con más de 5 años de experiencia en el desarrollo de aplicaciones web y sistemas escalables, especializado en .NET y Node.js. He liderado proyectos de optimización y automatización, logrando mejoras en rendimiento y procesos administrativos de hasta un 85%."
+  },
+  "work_experience": [
+    {
+      "job_title": "Desarrollador FullStack",
+      "company": "Conmega S.A",
+      "location": "Santa Fe, Argentina",
+      "start_date": "2022-04-01",
+      "end_date": "2024-11-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollé una SPA unificada de componentes y herramientas, mejorando así la experiencia de usuario usando rutas dinámicas consumiendo Microservicios desde una Api.",
+        "Implementé prácticas de CI/CD para mejorar la eficiencia en la entrega de software, reduciendo errores y tiempos de entrega en más de un 80% usando Azure y TFS.",
+        "Aceleré un 85% los procesos de gestión administrativa con herramientas innovadoras implementando microservicios desarrollados en .Net (C#).",
+        "Construí la herramienta de lectura de documentos para que los procesos de documentación sean almacenados en la bd con un 100% de ahorro en recurso humano.",
+        "Poder analítico, agilizando los procesos de desarrollo y documentando cada implementación con Azure DevOps Tools."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador Front-End",
+      "company": "Metalfor S.A",
+      "location": "Córdoba, Argentina",
+      "start_date": "2021-02-01",
+      "end_date": "2023-10-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollé una aplicación web orientada a la telemetría, mejorando la experiencia de usuario en tiempo real.",
+        "Optimicé consultas para reducir el tiempo de carga en el servidor y mejorar la eficiencia de la aplicación en un 70%.",
+        "Implementé diferentes librerías compatibles con angular para mostrar gráficos de manera interactiva y dinámica.",
+        "Toma de decisiones en las tecnologías a implementar.",
+        "Aporte funcionalidades a una aplicación mobile, encargándome de un CRUD aceptando un nuevo desafío ya que no contaba con experiencia en KOTLIN."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Freelance Developer",
+      "company": "",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollé una Plataforma E-Commerce aumentando en un 20% la llegada de posibles clientes con estrategias de marketing e implementación de herramientas de SEO.",
+        "Desarrollo desde 0, maquetando y analizando los requerimientos del cliente, aumentando así mi interpretación técnica también la comunicación.",
+        "Implementación pasarela de pago Mercado Pago, haciendo así un seguimiento de entrega.",
+        "Implementación de autenticación y seguridad (JWT, OAuth2).",
+        "Pruebas unitarias con xUnit mejorando la calidad del producto final."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Técnico Superior en Desarrollo de Software",
+      "institution": "Instituto Superior N° 46 'Domingo Guzman Silva'",
+      "location": "Santa Fe, Argentina",
+      "start_date": "2019-03-01",
+      "end_date": "2023-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Bachiller Informatico",
+      "institution": "Escuela República del Perú N° 340",
+      "location": "Santa Fe, Argentina",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        ".net-core",
+        ".net-6+",
+        "c#",
+        "asp.net-core",
+        "entity-framework-core",
+        "node.js",
+        "express.js",
+        "typeorm",
+        "microservicios",
+        "api-rest",
+        "oauth2",
+        "jwt",
+        "angular",
+        "vue.js",
+        "next.js",
+        "tailwind-css",
+        "material",
+        "bootstrap",
+        "html",
+        "css",
+        "javascript",
+        "typescript",
+        "sql-server",
+        "postgresql",
+        "entity-framework",
+        "aqua-data-studio",
+        "4gl",
+        "azure-devops",
+        "github-actions",
+        "ci/cd",
+        "docker",
+        "kubernetes",
+        "tfs",
+        "git",
+        "control-de-versiones",
+        "flujo-de-trabajo"
+      ],
+      "soft": [
+        "scrum",
+        "agile",
+        "daily-standups",
+        "sprints"
+      ],
+      "tools": [
+        "swagger",
+        "postman",
+        "testing",
+        "xunit",
+        "nunit",
+        "jest"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Ingles",
+      "proficiency": "A2 (Stanford Certification)"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

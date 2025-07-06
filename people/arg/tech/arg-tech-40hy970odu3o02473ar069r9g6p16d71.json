@@ -1,0 +1,105 @@
+{
+    "personal_info": {
+        "first_name": "Valentín",
+        "last_name": "González Trápaga",
+        "email": "gonzaleztrapagav@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador autodidacta. Con capacidades técnicas y de resolución de problemas. Creativo, inquieto y muy curioso, sobre todo con temas relacionados a las ciencias duras. Me gusta trabajar en equipo, ayudar a los demás siempre que puedo y sé cómo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "Neurcrm",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé una aplicación CRM desde cero con NextJS, NestJS, GraphQL y TypeScript.",
+                "Implementé la función de arrastrar y soltar con React Query para actualizaciones optimistas.",
+                "Desarrolle la base de datos SQL con Prisma y AWS DynamoDB.",
+                "Transpuse los diseños de Figma a NextJS.",
+                "Desarrollé una segunda página para mostrar datos y analizar información básica sobre la aplicación, utilizando como tecnologías: NextJS, NestJs, GraphQL y TypeScript."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "EMS Argentina",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrolle una aplicación de gestión de la empresa, llevando control de clientes, stock, trabajos diarios, reportes de balances. Tecnologias: NextJS, NestJS",
+                "Desarrolle la generación de presupuestos de forma automática en formato .pdf a partir del registro de trabajo asignado, consiguiendo que los presupuestos estén listos en 10s. en vez de los 2 minutos que demoraban anteriormente por cada uno.",
+                "Implementé autenticación de usuarios con NextAuth y el backend con trpc, prisma.io y NextJS."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "2022-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé landing pages, SPAs y MPAs con React para diferentes clientes.",
+                "Participé en el diseño y desarrollo de la base de datos relacional (MySQL), la comunicación con ésta a través de Prisma, y el backend para una empresa de venta de tecnología."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html-y-css",
+                "nest",
+                "docker",
+                "javascript",
+                "mongodb",
+                "graphql",
+                "node",
+                "nextjs",
+                "tailwind-css",
+                "typescript",
+                "react",
+                "postgresql"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "C2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

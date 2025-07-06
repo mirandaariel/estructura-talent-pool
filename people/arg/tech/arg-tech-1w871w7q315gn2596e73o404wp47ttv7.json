@@ -1,0 +1,116 @@
+{
+    "personal_info": {
+        "first_name": "Neil Alexis",
+        "last_name": "Indorato",
+        "email": "indoratoneil@gmail.com",
+        "phone": "+5492657263277",
+        "location": {
+            "country": "Argentina",
+            "city": "Villa Mercedes",
+            "state": "San Luis"
+        },
+        "linkedin": "https://linkedin.com/in/indoratoneil/",
+        "website": "",
+        "portfolio": "https://github.com/Neil-Alexis",
+        "summary": "Persona analítica, persuasiva y creativa con capacidad para la adaptación al cambio, la gestión del tiempo, el liderazgo y el trabajo en equipo. Orientado al logro de resultados como Front End Developer."
+    },
+    "work_experience": [
+        {
+            "job_title": "Front End Developer",
+            "company": "Devocamp",
+            "location": "EEUU",
+            "start_date": "2023-04-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y desarrollo de plantillas de currículum interactivas utilizando HTML5, CSS3 y JavaScript.",
+                "Implementación de características personalizadas para resaltar habilidades y experiencias de los usuarios.",
+                "Trabajo colaborativo con el equipo de diseño y los clientes para asegurar una alineación precisa con los objetivos del proyecto.",
+                "Participación en reuniones para evaluar el progreso y realizar ajustes basados en feedback."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Front End Developer",
+            "company": "IMCreate",
+            "location": "EEUU",
+            "start_date": "2021-08-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de un dashboard interactivo utilizando React.js.",
+                "Rediseño de la interfaz de usuario existente usando Tailwind CSS.",
+                "Desarrollo de componentes reutilizables para mejorar la coherencia y eficiencia."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Front End Developer",
+            "company": "MidCircus",
+            "location": "Argentina - España",
+            "start_date": "2024-01-01",
+            "end_date": "2024-04-30",
+            "currently_working": true,
+            "responsibilities": [
+                "Participación en proyecto de Recursos Humanos desarrollando componentes reutilizables en React.",
+                "Implementación de React Hooks para gestión eficiente del estado de las aplicaciones.",
+                "Diseño e implementación de soluciones front-end escalables y modulares.",
+                "Optimización de interfaces orientadas al usuario para mejorar la experiencia y funcionalidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Desarrollo de Software",
+            "institution": "Universidad de La Punta",
+            "location": "San Luis, Argentina",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript",
+                "react.js",
+                "next.js",
+                "tailwind.css",
+                "react-native"
+            ],
+            "soft": [
+                "adaptación-al-cambio",
+                "gestión-del-tiempo",
+                "liderazgo",
+                "trabajo-en-equipo"
+            ],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        },
+        {
+            "language": "Italiano",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

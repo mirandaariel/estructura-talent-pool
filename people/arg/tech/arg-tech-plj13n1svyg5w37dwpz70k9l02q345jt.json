@@ -1,0 +1,96 @@
+{
+    "personal_info": {
+        "first_name": "Manuel",
+        "last_name": "Seisdedos",
+        "email": "seisdedosmanuel2@gmail.com",
+        "phone": "236-4717433",
+        "location": {
+            "country": "Argentina",
+            "city": "Junin",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full Stack Developer con formación como Diseñador Web. Experiencia trabajando en React, NodeJs y MongoDB entre otras tecnologías. Co-fundador de Yeca Desarrollo de Software a medida."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analisis de Soporte Técnico",
+            "company": "Bios Informática",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Asistencia a la resolución de conflictos generados por programas desarrollados específicamente para la empresa.",
+                "Administrador de Base de Datos del Directorio de la empresa.",
+                "Manejo de equipo en proyectos/migraciones de servicio."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Administración de Empresas",
+            "institution": "Universidad Nacional de La Plata",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react",
+                "nodejs",
+                "mongodb"
+            ],
+            "soft": [
+                "analisis-y-resolucion-de-problemas",
+                "escucha-activa",
+                "cooperacion"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Barbershop",
+            "description": "Desarrollas un e-commerce para la venta de artículos de barbería y sistema de reservas.",
+            "technologies": ["react", "tailwind", "nodejs", "express", "mongodb", "mongoose"],
+            "url": ""
+        },
+        {
+            "name": "Dracogames",
+            "description": "Diseñar y desarrollar un e-commerce que permite la compra de productos y CRUD de productos.",
+            "technologies": ["react", "redux", "css", "nodejs", "express", "mongodb"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

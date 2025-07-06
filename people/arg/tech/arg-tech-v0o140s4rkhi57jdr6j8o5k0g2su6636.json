@@ -1,0 +1,157 @@
+{
+    "personal_info": {
+        "first_name": "Paola",
+        "last_name": "Zolenka Campero Medina",
+        "email": "paola.campero.medina@gmail.com",
+        "phone": "+54 9 11 237 31013",
+        "location": {
+            "country": "Argentina",
+            "city": "Nueva Pompeya",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://linkedin.com/in/paola-zolenka-campero-medina",
+        "website": "",
+        "portfolio": "",
+        "summary": "Apasionada por la tecnología y el desarrollo de software, con experiencia académica y práctica en desarrollo de software y QA. Me destaco por mi responsabilidad, iniciativa y capacidad de adaptación a nuevos desafíos. Busco formar parte de proyectos donde pueda aportar valor y desarrollar mis habilidades técnicas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Auxiliar Titular de Laboratorio de Mantenimiento",
+            "company": "Laboratorio INF-SIS (UMSS)",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboré en tareas de mantenimiento preventivo y correctivo de computadoras.",
+                "Brindé soporte en instalaciones de redes, reparación de impresoras y formato de equipos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Pasante Frontend",
+            "company": "Intelligent Society",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2023-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Apoyo en la implementación del frontend para una aplicación de gestión de restaurante.",
+                "Colaboración en la creación de interfaces intuitivas y optimización de la experiencia de usuario."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Ingeniería de Sistemas",
+            "institution": "Universidad Mayor De San Simón",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso Full Stack Developer",
+            "institution": "Centro de Formación CILSA",
+            "location": "Argentina",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "next.js",
+                "javascript",
+                "html",
+                "css",
+                "tailwind-css",
+                "firestore",
+                "java",
+                "sql",
+                "cypress",
+                "python",
+                "virtualización"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "comunicación-efectiva",
+                "atención-al-detalle",
+                "resolución-de-problemas",
+                "adaptabilidad",
+                "aprendizaje-rápido",
+                "pensamiento-analítico",
+                "orientación-a-resultados",
+                "proactividad"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "trello",
+                "google-sheets",
+                "visual-studio-code",
+                "postman",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Mantenimiento de Computadoras",
+            "issuing_organization": "Universidad Mayor de San Simón",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Encaminamiento de Información en Redes",
+            "issuing_organization": "Universidad Mayor de San Simón",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Desarrolladora Web - Gestión de Campeonato de Básquet",
+            "description": "Desarrollo de una aplicación web para la gestión de un campeonato de básquet.",
+            "technologies": ["HTML", "CSS", "JavaScript", "Firestore", "React"],
+            "url": ""
+        },
+        {
+            "name": "QA - Pruebas en Aplicación Web de Venta de Productos",
+            "description": "Pruebas de calidad en una aplicación web de venta de productos.",
+            "technologies": ["Cypress"],
+            "url": ""
+        },
+        {
+            "name": "Desarrolladora Web - Página de Recetas",
+            "description": "Desarrollo de una página web de recetas orientada a los adultos mayores.",
+            "technologies": ["HTML", "CSS", "JavaScript", "Firestore"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

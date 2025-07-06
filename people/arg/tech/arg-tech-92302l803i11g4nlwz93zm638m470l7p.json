@@ -1,0 +1,99 @@
+{
+    "personal_info": {
+        "first_name": "Franco",
+        "last_name": "Mafferra",
+        "email": "francomafferra38@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/francomafferra",
+        "website": "",
+        "portfolio": "",
+        "summary": "Highly skilled Full Stack Developer, familiar with a wide range of programming languages and utilities. Knowledgeable in backend and frontend development requirements, with additional experience as a QA Automation specialist for two years, providing a comprehensive view of the software lifecycle. Able to manage any part of the process with ease. A team player with excellent technical skills and four years of experience in the field. A proactive, analytical problem solver with a complex problem-solving mindset. Dedicated to achieving challenging development goals within tight deadlines, producing flawless code and ensuring quality through effective automated testing."
+    },
+    "work_experience": [
+        {
+            "job_title": "QA Automation",
+            "company": "D8Labs",
+            "location": "Argentina",
+            "start_date": "2023-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Responsible for creating and maintain of automated tests scripts using Cypress and Appium for Android applications."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full-Stack Developer",
+            "company": "Incred Project",
+            "location": "Argentina",
+            "start_date": "2021-02-01",
+            "end_date": "2022-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Develop and support for middleware application using Micronaut: Java 17 + Micronaut 3 + JPA 2.1 (Hibernate) + MongoDB.",
+                "Mainly focused on Frontend development using React-Redux and React Native."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full-Stack Developer",
+            "company": "Ministerio de Hacienda",
+            "location": "Argentina",
+            "start_date": "2022-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Develop and support of a Frontend application working with React.Js and Vue.js 3."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "University Technician in Software Development",
+            "institution": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "bug-fixing",
+                "backend-and-database",
+                "version-control-systems",
+                "javascript",
+                "responsive-web-frontend",
+                "html",
+                "css",
+                "react",
+                "redux",
+                "material-ui",
+                "cypress",
+                "appium"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

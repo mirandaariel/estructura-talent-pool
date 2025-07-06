@@ -1,0 +1,109 @@
+{
+    "personal_info": {
+        "first_name": "Valentín",
+        "last_name": "Salerno",
+        "email": "salerno.valentin.99@gmail.com",
+        "phone": "+54 11 6493-1476",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/valentinsalerno",
+        "website": "",
+        "portfolio": "",
+        "summary": "Passionate web developer with a fast learning curve, eager to grow in a positive work environment while contributing skills and experience."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Engineer",
+            "company": "VieMystiq",
+            "location": "",
+            "start_date": "2020-06-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed ecommerce front-end using React.js, TypeScript, React-Query, React Hook Form, Tailwind."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Sirius Software",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Backend development applying several functionalities.",
+                "Frontend development focusing on UI, UX, and testing."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Technical Bachelor in Computer Science",
+            "institution": "Instituto Sagrado Corazón de Jesus",
+            "location": "Hurlingham",
+            "start_date": "2012-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachelor's Degree in Computer Engineering (In progress)",
+            "institution": "Universidad Nacional de la Matanza",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5-&-css3",
+                "c",
+                "javascript",
+                "typescript",
+                "react.js",
+                "next.js",
+                "node.js",
+                "express.js",
+                "tailwind",
+                "git",
+                "sql"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "CEFR B2 Level (Advanced FCE Certified)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Germán Cutraro",
+            "relationship": "Reference for VieMystiq",
+            "contact": "+54 1156682888"
+        },
+        {
+            "name": "Federico Martucci",
+            "relationship": "Reference for Sirius Software",
+            "contact": "+54 1139137125"
+        }
+    ]
+}

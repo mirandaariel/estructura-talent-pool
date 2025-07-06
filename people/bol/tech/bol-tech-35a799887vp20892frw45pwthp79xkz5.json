@@ -1,0 +1,221 @@
+{
+    "personal_info": {
+        "first_name": "Miguel Esteban",
+        "last_name": "Ayala Chávez",
+        "email": "ayalachavezmiguel@gmail.com",
+        "phone": "+59175718683",
+        "location": {
+            "country": "Bolivia",
+            "city": "La Paz",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy Full Stack Developer con formación en Informática Industrial y experiencia en el desarrollo de soluciones tecnológicas tanto de forma independiente como en equipo. Mi enfoque principal está en el backend y bases de datos, donde diseño e implemento sistemas robustos y escalables. También tengo buenas habilidades en frontend. Me destaco por mi capacidad para resolver problemas bajo presión, y por trabajar con metodologías ágiles y control de versiones (GIT)."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Comercial Chávez",
+            "location": "",
+            "start_date": "2025-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Migración de un sistema heredado en PHP a un stack moderno con TypeScript.",
+                "Desarrollo del backend con NestJS, GraphQL y MongoDB (Mongo Atlas), incluyendo autenticación, seguridad y pruebas unitarias (Jest).",
+                "Desarrollo del frontend con Next.js, Tailwind CSS, shadcn/ui, y Redux Toolkit.",
+                "Uso de Docker para contenedorización del frontend y backend.",
+                "Despliegue en la nube utilizando Render (backend) y Vercel (frontend).",
+                "Enfoque en mejorar la experiencia de usuario, rendimiento y escalabilidad del sistema."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Sistema academico BALLET FOLKLORICO",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé un sistema de gestión de estudiantes para una academia de ballet.",
+                "El sistema permite gestionar horarios, notas, asistencias y más.",
+                "Implementé niveles de acceso y seguridad de datos.",
+                "Mejoré la eficiencia operativa de la academia."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Sistema de ventas LA OLA URBANA",
+            "location": "Argentina",
+            "start_date": "2024-01-01",
+            "end_date": "2024-02-29",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboré en el desarrollo de un sistema e-commerce.",
+                "Implementaciones clave como gestión de usuarios e inventarios.",
+                "Desarrollé un sistema de inventario centralizado."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Sistema de registro de formularios",
+            "location": "Bolivia",
+            "start_date": "2023-10-01",
+            "end_date": "2023-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé un sistema integral de registro de formularios.",
+                "Mejoré la gestión de inventarios y trazabilidad de equipos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Sis. de control, mantenimiento y seguimiento de equipos médicos",
+            "location": "",
+            "start_date": "2022-06-01",
+            "end_date": "2022-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé un sistema para el control de equipos médicos.",
+                "Foco en programación de mantenimientos y gestión de diagnósticos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Sistema de ventas y control de almacén",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé un sistema web para gestión de ventas e inventarios.",
+                "Automatización de procesos operativos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Superior en Informática Industrial",
+            "institution": "Escuela Industrial Pedro Domingo Murillo",
+            "location": "",
+            "start_date": "",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2024-02-29",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Ingeniería de Sistemas",
+            "institution": "Universidad Salesiana de Bolivia",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Inglés",
+            "institution": "Centro de Enseñanza y Traducción de Idiomas (CETI - UMSA)",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "redux",
+                "node.js",
+                "express",
+                "next.js",
+                "nestjs",
+                "docker",
+                "tailwind-css",
+                "sql",
+                "mysql",
+                "postgresql",
+                "nosql",
+                "mongodb",
+                "graphql",
+                "rest"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "slack",
+                "discord",
+                "tello",
+                "linux",
+                "ubuntu",
+                "windows"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Modernización de plataforma e-commerce",
+            "description": "Migración de un sistema heredado en PHP a un stack moderno con TypeScript.",
+            "technologies": [
+                "typescript",
+                "nestjs",
+                "graphql",
+                "mongodb",
+                "next.js",
+                "tailwind-css",
+                "redux"
+            ],
+            "url": "https://github.com/migayalach/E-commerce-distributor-Server"
+        },
+        {
+            "name": "Sistema academico BALLET FOLKLORICO",
+            "description": "Sistema de gestión de estudiantes para academia de ballet.",
+            "technologies": [
+                "node.js",
+                "express",
+                "mysql",
+                "next.js",
+                "redux",
+                "ant-design"
+            ],
+            "url": "https://github.com/migayalach?tab=repositories"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (B1)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

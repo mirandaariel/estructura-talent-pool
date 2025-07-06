@@ -1,0 +1,108 @@
+{
+    "personal_info": {
+        "first_name": "Johan Alejandro",
+        "last_name": "Moreno Gil",
+        "email": "alejandromogil@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Colombia",
+            "city": "Tuluá",
+            "state": "Valle del Cauca"
+        },
+        "linkedin": "https://linkedin.com/in/moalejandro",
+        "website": "https://github.com/amg1114",
+        "portfolio": "",
+        "summary": "Frontend Developer with 4+ years of experience improving performance and scalability in modern web applications. Specialized in React, Vue, and TypeScript, with proven results like reducing load times by up to 90% and streamlining complex UI workflows. Skilled in building reusable component systems, optimizing data-heavy interfaces, and aligning technical solutions with business needs."
+    },
+    "work_experience": [
+        {
+            "job_title": "Fullstack Web Developer",
+            "company": "EaglePeak Consulting",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Led the modernization of 15+ web projects by migrating to DDEV and Vite, reducing asset compilation times and enabling version consistency for PHP and MySQL environments.",
+                "Improved site performance by up to 90% through CSS refactoring and dynamic asset optimization, based on audits using Lighthouse and GTmetrix.",
+                "Redesigned 8+ complex search tools for a legal research platform with 1,435+ global cases using VueJS and Reactjs, enhancing data interactivity and UI responsiveness.",
+                "Built scalable, dynamic UI modules with advanced filtering, lazy loading, and pagination for large datasets.",
+                "Implemented CI pipelines (GitHub Actions) and dependency automation (Dependabot + custom scripts), improving code quality and reducing technical debt.",
+                "Collaborated with company leadership to align technical priorities with business goals; led weekly frontend syncs and managed full SDLC using Agile methodologies."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Systems Engineering",
+            "institution": "Universidad del Valle",
+            "location": "Tuluá, Valle del Cauca",
+            "start_date": "2021-08-01",
+            "end_date": "2026-06-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "reactjs",
+                "vue.js",
+                "angular",
+                "nextjs",
+                "nuxtjs",
+                "tailwindcss",
+                "bootstrap",
+                "nestjs",
+                "php",
+                "laravel",
+                "node.js",
+                "postgresql",
+                "mysql",
+                "graphql"
+            ],
+            "soft": [],
+            "tools": [
+                "docker",
+                "ddev",
+                "railway",
+                "vite",
+                "webpack",
+                "git"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Dinogame",
+            "description": "Agile-driven fullstack marketplace for video games.",
+            "technologies": ["Reactjs", "NextJS", "PostgreSQL", "SSE"],
+            "url": ""
+        },
+        {
+            "name": "GamblerPawns",
+            "description": "Real-time multiplayer chess platform with persistent game state.",
+            "technologies": ["NextJS", "PostgreSQL", "WebSockets"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

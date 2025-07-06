@@ -1,0 +1,107 @@
+{
+    "personal_info": {
+        "first_name": "Celeste",
+        "last_name": "Zo",
+        "email": "zomceleste@gmail.com",
+        "phone": "+5492612518584",
+        "location": {
+            "country": "Argentina",
+            "city": "Mendoza",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/celestezo",
+        "website": "",
+        "portfolio": "https://www.behance.net/celestezo",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer/UX Designer",
+            "company": "Coderslab",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de componentes y manejo de librerías para proyectos en React y NextJs."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Web Developer/UX Designer",
+            "company": "Slingr",
+            "location": "",
+            "start_date": "2022-04-01",
+            "end_date": "2024-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño de prototipos para implementar nuevos cambios del cliente.",
+                "Mantenimiento de los sitios web de la empresa utilizando HTML, Webflow y Squarespace.",
+                "Colaboración con el equipo de plataforma, frontend y marketing."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Quinto Impacto",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de sitios web responsive utilizando HTML, CSS, React y JavaScript desde diseños estáticos hasta su implementación.",
+                "Colaboración con el equipo de UX/UI para mejorar el diseño de sitios web y aplicaciones.",
+                "Mantenimiento diario del código y mejoras de los sitios web.",
+                "Diseño de interfaces de usuario y prototipos visuales utilizando Adobe XD para implementar nuevas funcionalidades."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diseño Gráfico",
+            "institution": "Universidad Nacional de Cuyo",
+            "location": "",
+            "start_date": "2014-03-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "react",
+                "vue.js",
+                "bootstrap",
+                "tailwind-css",
+                "material-ui"
+            ],
+            "soft": [],
+            "tools": [
+                "webflow",
+                "squarespace",
+                "gitlab",
+                "github",
+                "adobe-xd",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

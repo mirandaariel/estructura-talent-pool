@@ -1,0 +1,157 @@
+{
+    "personal_info": {
+        "first_name": "Kenley Josué",
+        "last_name": "Gaitan Evanks",
+        "email": "kenleyjos621@gmail.com",
+        "phone": "+505 58083149",
+        "location": {
+            "country": "Nicaragua",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador web y backend con experiencia en .NET Core, Next.js y manejo de bases de datos SQL. Me apasiona resolver problemas complejos con soluciones eficientes."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Web & Backend",
+            "company": "Smart Business Solutions (SMBS)",
+            "location": "Managua, Nicaragua",
+            "start_date": "2023-05-01",
+            "end_date": "2025-06-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé landing pages con Next.js, SCSS, Bootstrap, Tailwind CSS.",
+                "Implementé APIs Rest usando ASP.NET, LINQ, SQL Server y JWT.",
+                "Uso de herramientas de codificación como Visual Studio Code y Visual Studio 2022, y gestión de bases de datos en SQL Server Management Studio.",
+                "Diseñé una solución de inventario que redujo en un 40% el tiempo de registro de entradas y salidas.",
+                "Utilicé herramientas como: Visual Studio, Postman y gestión de versiones con Git.",
+                "Participé en equipos ágiles gestionados con Jira."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web (Proyecto Universitario)",
+            "company": "Sistema de inventario para ferretería",
+            "location": "Managua, Nicaragua",
+            "start_date": "2023-09-01",
+            "end_date": "2023-11-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo en C# y .NET para gestión de stock, con funciones de consulta en tiempo real y alertas de desabastecimiento.",
+                "Integración con SQL Server, reduciendo un 30% el tiempo de búsqueda de productos.",
+                "Interfaz intuitiva que disminuyó errores de registro en un 20%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en computación",
+            "institution": "Universidad Nacional de Ingeniería",
+            "location": "Managua, Nicaragua",
+            "start_date": "2020-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "tailwind-css",
+                "sass",
+                "bootstrap",
+                "javascript",
+                "typescript",
+                "next.js",
+                "vue.js",
+                "c-sharp",
+                ".net-core",
+                "sql-server",
+                "mysql",
+                "entity-framework"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "postman",
+                "jira"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Event Management System",
+            "description": "Aplicación Web para gestión de eventos desarrollado con Next.js, React y TypeScript. Permite operaciones CRUD completas para 5 entidades principales mediante integración real con API REST. Incluye componentes reutilizables como tablas de datos dinámicas y formularios modales para gestión de entidades.",
+            "technologies": [
+                "Next.js",
+                "React",
+                "TypeScript"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Food Delivery Platform",
+            "description": "Aplicación web desarrollada con React.js que conecta usuarios con restaurantes locales mediante un sistema intuitivo de búsqueda filtrable por categorías, precios y valoraciones. Ofrece un flujo completo de pedidos con carrito dinámico y seguimiento de órdenes.",
+            "technologies": [
+                "React.js"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Asset Loan API",
+            "description": "API RESTful desarrollada en ASP.NET Core para administrar préstamos de recursos. Ofrece autenticación JWT y documentación Swagger/OpenAPI.",
+            "technologies": [
+                "ASP.NET Core",
+                "JWT",
+                "SQL Server"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Digital Library System",
+            "description": "Plataforma integral para bibliotecas, construida con React + TypeScript y ASP.NET Core. El frontend ofrece una interfaz responsive con Tailwind CSS, el backend provee una API RESTful con documentación Swagger.",
+            "technologies": [
+                "React",
+                "TypeScript",
+                "ASP.NET Core",
+                "Tailwind CSS"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Marvel Universe Website",
+            "description": "Sitio web temático de Marvel desarrollado con HTML5, JavaScript puro y SCSS que muestra contenido temático de Marvel con galería interactiva de personajes.",
+            "technologies": [
+                "HTML5",
+                "JavaScript",
+                "SCSS"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio Alto"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

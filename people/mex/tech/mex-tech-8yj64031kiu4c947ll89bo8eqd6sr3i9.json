@@ -1,0 +1,109 @@
+{
+    "personal_info": {
+        "first_name": "José Manuel",
+        "last_name": "Rosales Gómez",
+        "email": "Josemanuelrosales2@gmail.com",
+        "phone": "+52 274 141 34 17",
+        "location": {
+            "country": "Mexico",
+            "city": "CDMX",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/jose-manuel-r",
+        "website": "https://josercode.com",
+        "portfolio": "",
+        "summary": "Más de 3 años de experiencia como Desarrollador de software. Lideré el desarrollo FrontEnd en HostPal, donde logré completar exitosamente el desarrollo de múltiples herramientas clave para la empresa, mejorando la experiencia de usuario y optimizando procesos internos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "HostPal",
+            "location": "CDMX, México",
+            "start_date": "2022-06-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé un sistema de onboarding para recopilar detalles de propietarios y pagos.",
+                "Mejoré el rendimiento de las páginas clave de cara al usuario en el sitio web de la empresa.",
+                "Automatización del ciclo de entrega mediante CI/CD.",
+                "Migré de Power BI a una solución de dashboard propia.",
+                "Lideré el desarrollo de la aplicación móvil para Android e iOS, incluyendo la integración de un chat en tiempo real."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Ezcript",
+            "location": "Lima, Peru",
+            "start_date": "2021-03-01",
+            "end_date": "2022-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementé interfaces para múltiples landing pages.",
+                "Codifiqué plantillas de correo electrónico adaptables.",
+                "Implementé y documenté componentes reutilizables dentro del Design System existente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "nextjs",
+                "sql",
+                "typescript",
+                "react",
+                "aws",
+                "express",
+                "react-native",
+                "storybook",
+                "react-testing-library",
+                "redux/redux-toolkit"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Certificado oficial EF SET 41/100",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Relational Database",
+            "issuing_organization": "Aceleración de Alkemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Next.js: Manejo de Grandes Datasets",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "APIs and Microservices",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

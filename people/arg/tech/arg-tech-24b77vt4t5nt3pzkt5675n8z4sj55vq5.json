@@ -1,0 +1,112 @@
+{
+    "personal_info": {
+        "first_name": "Jacqueline",
+        "last_name": "Leone",
+        "email": "jacqueline.leone02@gmail.com",
+        "phone": "+5492215016596",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy una Desarrolladora de Software viviendo en Buenos Aires, Argentina, especializada en el Frontend y apasionada por la tendencia del código creativo (\"Creative Code\"). Con un buen ojo para el detalle y una inclinación por la innovación, me dedico a la creación de experiencias significativas y memorables para los usuarios. Mi trabajo va más allá de la construcción de sitios web: impulsada por la búsqueda constante de creatividad, combino microanimaciones y diseño para desarrollar soluciones digitales atractivas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrolladora Full Stack",
+            "company": "Delsud",
+            "location": "Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo y optimización de sistemas y herramientas web personalizados.",
+                "Construcción de sitios responsivos e interactivos.",
+                "Generación de código siguiendo los principios 'Clean Code'.",
+                "Colaboración activa en equipo para producir soluciones de calidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Vean Books",
+            "location": "Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de MVP de e-commerce.",
+                "Diseño enfocado en brindar la mejor experiencia al usuario.",
+                "Trabajo en colaboración con el equipo de diseño para garantizar coherencia entre diseño y desarrollo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend Mobile",
+            "company": "Bluerabbit",
+            "location": "Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Integración de la API de Google Maps para geolocalización.",
+                "Desarrollo de sistema de recompensas basado en puntos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Lintegral",
+            "location": "México",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Automatización de procesos manuales.",
+                "Creación integral del sistema abarcando Frontend, Backend y base de datos.",
+                "Creación de un sistema de encuestas y visualización de datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react-js", 
+                "react-native", 
+                "three-js", 
+                "next-js", 
+                "css", 
+                "sass", 
+                "javascript", 
+                "typescript"
+            ],
+            "soft": [],
+            "tools": [
+                "figma", 
+                "framer-motion", 
+                "gsap", 
+                "git", 
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

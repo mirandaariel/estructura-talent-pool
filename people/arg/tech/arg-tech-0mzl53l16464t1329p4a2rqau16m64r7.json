@@ -1,0 +1,113 @@
+{
+    "personal_info": {
+        "first_name": "Martin",
+        "last_name": "Zahlut",
+        "email": "mzahlut@gmail.com",
+        "phone": "+54 11-2297-4706",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/MartinFedericoZahlutLois",
+        "website": "",
+        "portfolio": "https://github.com/Mzahlut",
+        "summary": "Estudiante de Analista de sistemas con un gran interés en desarrollo de aplicaciones web. Tengo buena capacidad para adaptarme a todo tipo de entornos y aportar siempre lo mejor de mí. Me caracterizo por mi facilidad para el trabajo en equipo y mi entusiasmo por aprender y desarrollar mis habilidades. En busca de una oportunidad laboral en la que adquirir más experiencia."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador full stack",
+            "company": "Freelance",
+            "location": "Buenos Aires",
+            "start_date": "2024-02-01",
+            "end_date": "0000-00-00",
+            "currently_working": true,
+            "responsibilities": [
+                "Creación de interfaces de usuario atractivas y funcionales con frameworks como React o Vue.js.",
+                "Implementación de soluciones back-end en Node.js para aplicaciones web.",
+                "Desarrollo de aplicaciones de escritorio utilizando .NET."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de datos",
+            "company": "CISLO S.R.L.",
+            "location": "Buenos Aires",
+            "start_date": "2022-12-01",
+            "end_date": "2023-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de reportes mediante hojas de cálculo y funciones automáticas.",
+                "Gestión y análisis de grandes volúmenes de datos con herramientas de Big Data.",
+                "Extracción de datos, procesamiento, registro y análisis de estos y posterior reporting.",
+                "Uso de software específico de grabación de datos, como Microsoft Excel avanzado o bases de datos SQL.",
+                "Diseño y desarrollo de bases de datos relacionales utilizando SQL Server.",
+                "Configuración y soporte de conexiones VPN para empleados remotos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista de Sistemas",
+            "institution": "ORT",
+            "location": "Buenos Aires",
+            "start_date": "2022-03-01",
+            "end_date": "0000-00-00",
+            "hours": 0
+        },
+        {
+            "degree": "Master en Javascript, NodeJS, Express",
+            "institution": "UDEMY",
+            "location": "Buenos Aires",
+            "start_date": "2022-11-01",
+            "end_date": "2023-01-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "bases-de-datos",
+                "desarrollo-de-software",
+                "javascript",
+                "node.js",
+                "express",
+                "react",
+                "vue.js",
+                ".net",
+                "sql",
+                "sql-server",
+                "big-data",
+                "vpn"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "proactividad-y-eficiencia",
+                "gran-capacidad-de-adaptación"
+            ],
+            "tools": [
+                "microsoft-excel",
+                "vpn"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

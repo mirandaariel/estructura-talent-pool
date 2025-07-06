@@ -1,0 +1,93 @@
+{
+    "personal_info": {
+        "first_name": "Cristian",
+        "last_name": "Suar",
+        "email": "cristsuar@gmail.com",
+        "phone": "+502 46493652",
+        "location": {
+            "country": "Guatemala",
+            "city": "Guatemala",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador de software especializado en frontend, diseño UX/UI de interfaces de usuario intuitivas y modernas, con experiencia en React y React Native, animaciones, desarrollo responsive y optimización del rendimiento de aplicaciones. Apasionado por crear experiencias digitales atractivas y funcionales, atento a los detalles y a la mejora continua. Colaborativo, autodidacta y en constante búsqueda de desafíos tecnológicos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Development Engineer",
+            "company": "Multi",
+            "location": "Guatemala",
+            "start_date": "2023-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web con React + Next.js, usando Zustand para manejo de estado y MUI para interfaces responsive, accesibles y modernas.",
+                "Participación clave en la migración de módulos críticos de AngularJS a React.",
+                "Gestión de autenticación y autorización mediante JWTs, roles y permisos, implementando control de acceso seguro y dinámico dentro de la aplicación.",
+                "Desarrollo de Módulos administrativos y comerciales usando React Native.",
+                "Implementación de animaciones complejas y de alto rendimiento mediante el uso de Reanimated, Gesture handler y Moti.",
+                "Integración de librerías como Geolocalización, Google Maps, Cámara, Fotografías y Almacenamiento.",
+                "Diseño e implementación de servicios de manejo de peticiones en segundo plano, optimizando la carga y transferencia de imágenes y archivos.",
+                "Arquitectura de estado global utilizando Redux Toolkit y manejo eficiente de peticiones asincrónicas con RTK Query."
+            ],
+            "achievements": [
+                "Implementación de pruebas unitarias con Jest y React Native Testing Library.",
+                "Familiaridad con herramientas como Bitbucket Pipelines y GitHub Actions para automatizar builds, pruebas y despliegues.",
+                "Experiencia sólida en metodología ágil SCRUM y en metodología clásica (cascada)."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Perito en informática",
+            "institution": "Fundación KINAL",
+            "location": "Guatemala",
+            "start_date": "2021-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en sistemas",
+            "institution": "Universidad Mariano Gálvez",
+            "location": "Guatemala",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "react",
+                "react-native",
+                "next.js",
+                "redux-toolkit",
+                "rtk-query",
+                "zustand",
+                "jest",
+                "react-native-testing-library",
+                "reanimated",
+                "git",
+                "rest-apis",
+                "xcode",
+                "gradle"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,179 @@
+{
+  "personal_info": {
+    "first_name": "Facundo Anibal",
+    "last_name": "Martinez",
+    "email": "facundo.martinez.dev@gmail.com",
+    "phone": "+543884294258",
+    "location": {
+      "country": "Argentina",
+      "city": "",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/facundo-anibal-martinez/",
+    "website": "",
+    "portfolio": "",
+    "summary": "Desarrollador Front-End con más de 5 años de experiencia en crear aplicaciones y sitios web enfocados en el usuario. Especializado en React.js, Next.js y Astro.js, con fuerte enfoque en el trabajo en equipo y la mejora continua."
+  },
+  "work_experience": [
+    {
+      "job_title": "React Developer",
+      "company": "Team Quality Corp",
+      "location": "Argentina",
+      "start_date": "2024-12-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Mantenimiento de un software corporativo 'Link de pago' construido en React, con estilos en Tailwind CSS y gestión de estado con Redux.",
+        "Diseño e implementación de una consola web de transacciones bancarias con React y Material-UI.",
+        "Creación de un pipeline de despliegue automatizado mediante Azure DevOps y Docker.",
+        "Implementación de un servicio de generación de códigos QR de pago."
+      ],
+      "achievements": [
+        "Reducción en un 30% los tiempos de respuesta en la generación y redirección de los links de pago.",
+        "Automatización del flujo de cobros y mejora de la trazabilidad de las operaciones.",
+        "Reducción del tiempo de entrega en un 50%."
+      ],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Senior Frontend Developer",
+      "company": "Beeping Fulfillment",
+      "location": "Valencia, España",
+      "start_date": "2025-01-01",
+      "end_date": "2025-04-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Lideré la migración completa de un sistema de logística en Livewire PHP a una aplicación SPA construida con Vite, React y TypeScript.",
+        "Incorporé Zustand para centralizar la lógica de estado.",
+        "Diseñé interfaces limpias y consistentes con Tailwind CSS y componentes de shadcn/ui.",
+        "Optimización de las consultas de inventario con React Query."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Frontend Developer Ssr",
+      "company": "Jobint",
+      "location": "Argentina",
+      "start_date": "2021-12-01",
+      "end_date": "2024-11-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Diseño e implementación de componentes para crear contenido con IA.",
+        "Creación de un formulario de postulación altamente accesible y escalable.",
+        "Implementación de React Hook Form para una validación eficiente de los campos."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Frontend Developer",
+      "company": "Navent",
+      "location": "Argentina",
+      "start_date": "2020-06-01",
+      "end_date": "2021-12-01",
+      "currently_working": false,
+      "responsibilities": [
+        "Migración de vistas clave del producto a React.",
+        "Desarrollo de interfaces web usando arquitectura de microfrontends."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ingeniería informática",
+      "institution": "Facultad UCSE- DASS",
+      "location": "",
+      "start_date": "2015-01-01",
+      "end_date": "2022-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Tecnicatura informática",
+      "institution": "Instituto Nuevo Horizonte",
+      "location": "",
+      "start_date": "2014-01-01",
+      "end_date": "2015-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "html5",
+        "css3",
+        "javascript-es6+",
+        "typescript",
+        "php",
+        "jquery",
+        "dom",
+        "ajax",
+        "restful-apis",
+        "react.js",
+        "next.js",
+        "astro.js",
+        "tailwind-css",
+        "styled-components",
+        "shadcn",
+        "material-ui",
+        "less",
+        "sass",
+        "redux",
+        "redux-toolkit",
+        "mobx",
+        "react-query",
+        "react-testing",
+        "jest",
+        "lazy-loading",
+        "git",
+        "github",
+        "pull-requests",
+        "microfrontends",
+        "spas",
+        "mvc",
+        "hexagonal",
+        "scrum",
+        "webpack",
+        "babel",
+        "gulp"
+      ],
+      "soft": [
+        "comunicación-efectiva",
+        "trabajo-en-equipo",
+        "adaptabilidad",
+        "resolución-de-problemas",
+        "innovación",
+        "gestión-del-tiempo",
+        "aprendizaje-continuo"
+      ],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [
+    {
+      "name": "Fundamentos de UX & UI: Diseño de interfaces",
+      "issuing_organization": "",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Principios SOLID y Clean Code",
+      "issuing_organization": "",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    }
+  ],
+  "projects": [],
+  "languages": [],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

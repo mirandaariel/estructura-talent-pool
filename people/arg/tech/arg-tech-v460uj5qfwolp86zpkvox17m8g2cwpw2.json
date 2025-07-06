@@ -1,0 +1,175 @@
+{
+    "personal_info": {
+        "first_name": "Emiliano Joaquín",
+        "last_name": "Longo",
+        "email": "emi.longo@gmail.com",
+        "phone": "+54-93412667096",
+        "location": {
+            "country": "Argentina",
+            "city": "Rosario",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Mi objetivo es continuar desarrollándome profesionalmente, especializándome en tecnologías modernas y trabajando en proyectos que representen un desafío. Aspiro a formar parte de una organización estable donde pueda crecer a largo plazo. Aportando mis habilidades técnicas en React JS y herramientas como Redux, Material UI y Tailwind, y mi experiencia previa en gestión de local y personal y trabajo en equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "BeCode",
+            "location": "Colombia - Remoto",
+            "start_date": "2024-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Encargado de crear una Plataforma de Coordinación de Gimnasios.",
+                "Ayudé a diseñar e implementar un sistema backend utilizando Nest.js, TypeScript y Prisma ORM, estableciendo una arquitectura escalable basada en microservicios.",
+                "Diseñé e implementé endpoints con prácticas modernas incluyendo validación de datos, manejo personalizado de errores y documentación con Postman y Swagger.",
+                "Modelado de Base de Datos SQL, Sistema de Autenticación y Autorización, API RESTful, Gestión de Reservas y Check-in, Procesamiento de Pagos, funcionalidades de Geolocalización, Experiencia de Usuario.",
+                "Desplegado en VPS de Hostinger."
+            ],
+            "achievements": [],
+            "repository_url": "https://wellnetapp.com/"
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Kosten Trek",
+            "location": "Argentina - Freelancer Remoto",
+            "start_date": "2024-12-01",
+            "end_date": "2025-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Encargado de crear una Plataforma de Turismo.",
+                "Desarrollo de la interfaz de usuario utilizando componentes reutilizables en React JS.",
+                "Gestión de estado global y manejo de API con Redux Toolkit.",
+                "Configuración de enrutado dinámico con React RouterDOM.",
+                "Personalización de componentes y temas utilizando Material UI, logrando una consistencia visual.",
+                "Trabajo en equipo con ux/ui.",
+                "Participación en el despliegue de entornos de desarrollo y producción en Hostinger."
+            ],
+            "achievements": [],
+            "repository_url": "https://kostentrek.com/"
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "qoop.AI",
+            "location": "Mexico - Remoto",
+            "start_date": "2024-10-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Encargado de crear y mantener una app innovadora de asistencia personal basada en inteligencia artificial.",
+                "Desarrollo de la interfaz de usuario utilizando componentes reutilizables en React JS.",
+                "Gestión de estado global con Redux Toolkit.",
+                "Configuración del enrutado dinámico con React Router DOM.",
+                "Personalización de componentes y temas utilizando Material UI, logrando una consistencia visual.",
+                "Colaboración con el equipo backend para integrar APIs desarrolladas en FastAPI y axios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "NO-COUNTRY",
+            "location": "Argentina - Remoto",
+            "start_date": "2024-06-01",
+            "end_date": "2024-02-29",
+            "currently_working": false,
+            "responsibilities": [
+                "MVP Proyecto Eureka de cursos virtuales.",
+                "MVP Proyecto Clone de la Tienda de ropa Zara.",
+                "Juego similar a batalla naval.",
+                "Desarrollo en React JS con Vite, Redux, React Router.",
+                "Creado desde un Figma, SEO en el Rendimiento.",
+                "Estilos todo con TailWind, Responsive y Single Page Application.",
+                "Metodologías ágiles y Gitflow."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "MUNDO ADAPTÓGENOS",
+            "location": "Argentina - Freelancer Remoto",
+            "start_date": "2023-12-01",
+            "end_date": "2023-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de E-commerce con JavaScript Vainilla desde cero.",
+                "Estructura del Proyecto, SEO en el Rendimiento.",
+                "Estilos con CSS, Responsive y Mobile First, Deploy en Netlify."
+            ],
+            "achievements": [],
+            "repository_url": "https://mundoadaptogenos.netlify.app/"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista Universitario en Sistemas",
+            "institution": "Inst. Politécnico Superior Gral. San Martín",
+            "location": "Rosario",
+            "start_date": "2024-03-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Node.JS",
+            "institution": "Codo a Codo",
+            "location": "CABA, Remoto",
+            "start_date": "2024-07-01",
+            "end_date": "2024-02-29",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo Web Front End, grupal",
+            "institution": "Potrero Digital",
+            "location": "Rosario, Remoto",
+            "start_date": "2023-08-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "scrum",
+                "gitflow",
+                "react.js",
+                "javascript",
+                "redux-tk",
+                "axios",
+                "material-ui",
+                "tailwind"
+            ],
+            "soft": [
+                "responsabilidad",
+                "adaptación-al-cambio",
+                "creatividad",
+                "gestión-del-tiempo",
+                "flexibilidad",
+                "resolución-de-problemas",
+                "aprendizaje-continuo"
+            ],
+            "tools": [
+                "photoshop",
+                "inkscape"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B1/B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

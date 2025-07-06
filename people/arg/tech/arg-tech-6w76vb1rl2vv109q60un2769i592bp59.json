@@ -1,0 +1,127 @@
+{
+    "personal_info": {
+        "first_name": "Julián",
+        "last_name": "Videla",
+        "email": "Julianvyd@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/julian-videla",
+        "website": "",
+        "portfolio": "",
+        "summary": "Programador frontend con un año de experiencia. Participé en el desarrollo completo de una plataforma en producción (Flexwork LATAM) y también trabajé con clientes como freelance. Me interesa integrarme a equipos donde pueda seguir creciendo, aportar soluciones técnicas escalables y aprender de forma constante."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Flexwork LATAM",
+            "location": "Perú",
+            "start_date": "2024-07-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño e implementación de interfaces con React, TypeScript y Tailwind CSS.",
+                "Aplicación de arquitectura scream para escalabilidad.",
+                "Desarrollo de componentes reutilizables y adaptación de librerías externas.",
+                "Integración de APIs mediante servicios modulares.",
+                "Gestión de estado global con Redux y observación de eventos con RxJS.",
+                "Participación en backend: integración de Cloudinary y métodos de pago."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend y UX",
+            "company": "Proyecto personal (librería de componentes UI)",
+            "location": "Argentina",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé una librería de componentes UI accesibles, personalizables y reutilizables publicada en NPM, con foco en mejorar el flujo de trabajo frontend.",
+                "Desarrollada con React, Next.js y Tailwind CSS, usando clsx para estilos personalizables.",
+                "Los componentes están diseñados con enfoque en accesibilidad y reutilización.",
+                "Implementación de Context API y animaciones con Motion.",
+                "Automatización del build con un CLI propio, que exporta la librería en formatos .js, .jsx y .d.ts.",
+                "Publicación en NPM y gestión de almacenamiento de componentes con Supabase."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Professional Front-End Developer",
+            "institution": "UTN",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Superior en Comercio Internacional",
+            "institution": "IPCA",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "html5",
+                "css3",
+                "json",
+                "react.js",
+                "next.js",
+                "react-native",
+                "node.js",
+                "redux",
+                "rxjs",
+                "tailwind-css",
+                "scss",
+                "clsx",
+                "motion"
+            ],
+            "soft": [
+                "comunicación-efectiva",
+                "trabajo-en-equipo",
+                "proactividad",
+                "aprendizaje-continuo"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "vercel",
+                "figma",
+                "slack",
+                "notion"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B1 (Intermedio)"
+        },
+        {
+            "language": "Portugués",
+            "proficiency": "B1 (Intermedio)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

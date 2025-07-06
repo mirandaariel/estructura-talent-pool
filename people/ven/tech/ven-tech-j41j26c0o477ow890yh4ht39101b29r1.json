@@ -1,0 +1,134 @@
+{
+    "personal_info": {
+        "first_name": "Carlos",
+        "last_name": "Aponte",
+        "email": "carlosd.aponte.dev@gmail.com",
+        "phone": "+584121680428",
+        "location": {
+            "country": "Venezuela",
+            "city": "Los Teques",
+            "state": "Miranda"
+        },
+        "linkedin": "https://www.linkedin.com/in/caponte-dev/",
+        "website": "https://github.com/capontedev",
+        "portfolio": "",
+        "summary": "Fullstack Developer with experience in developing backend systems, payment gateways, and system migrations."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "Semilla Co.",
+            "location": "Orlando, Florida / Remoto",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Creación de workflows para el CI/CD con Github Actions > AWS ECR > App Runner.",
+                "Migración de datos para plataforma de theflou 2.0.",
+                "Integración con ChatGPT mediante consumo de api para la creación de un asistente de contratos musicales.",
+                "Cree un módulo para generar pdfs usando concepto de worker pool y tareas en paralelo usando los CPUs existentes.",
+                "Creación de plataforma webhook para consumo de datos en aplicaciones de terceros.",
+                "Creación de nuevos módulos crud."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Engineer Ssr",
+            "company": "Bable para cliente kuarere.com",
+            "location": "España / Remoto",
+            "start_date": "2023-06-01",
+            "end_date": "2025-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de nuevos módulos siguiendo los requerimientos exigidos por el cliente.",
+                "Refactorizaciones para mejora de SEO.",
+                "Migración de GCP - App Engine a contenedores manejados con Podman y máquinas alojadas en Contabo."
+            ],
+            "achievements": [
+                "Reducción de costos efectiva del 80% en infraestructura."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador",
+            "company": "Cybernetix Servicios Venezuela C.A.",
+            "location": "Maracaibo, Zulia, Venezuela / Remoto",
+            "start_date": "2005-06-01",
+            "end_date": "2023-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de Valery POS y sus motores de reportes.",
+                "Desarrollo de la versión 3 de Valery Software Administrativo.",
+                "Integración de periféricos y APIs de terceros.",
+                "Mantenimiento del sistema y capacitación de clientes y personal."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Superior en Informática",
+            "institution": "CUAM",
+            "location": "Distrito Capital",
+            "start_date": "2001-01-01",
+            "end_date": "2003-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "angular",
+                "ionic",
+                "react.js",
+                "node.js",
+                "html-&-css-&-scss",
+                "typescript",
+                "javascript",
+                "expressjs",
+                "nestjs",
+                "base-de-datos-relacionales",
+                "sql",
+                "mysql",
+                "firebird",
+                "mongodb",
+                "firebase",
+                "typeorm",
+                "sequelize",
+                "git",
+                "aws",
+                "gcp",
+                "creación-de-apis-restful",
+                "integración-con-apis-de-terceros",
+                "soap",
+                "delphi",
+                "java",
+                "python",
+                "redux",
+                "flux",
+                "arquitectura-de-software",
+                "patrones-de-diseño",
+                "solid",
+                "pruebas-unitarias",
+                "jest",
+                "programación-orientada-a-objetos",
+                "docker",
+                "kubernetes"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,149 @@
+{
+    "personal_info": {
+        "first_name": "Ignacio",
+        "last_name": "Martin",
+        "email": "ignaciolmartin@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un desarrollador Full Stack con 10 años de experiencia en la creación y optimización de soluciones web. En el frontend, he trabajado extensamente con React y TypeScript, desarrollando aplicaciones y microfrontends que ofrecen experiencias de usuario dinámicas y escalables. En el backend, tengo experiencia con Node/Express y Nest, donde he desarrollado APIs, BFF (Backend for Frontend) y servicios serverless, optimizando la comunicación entre distintos sistemas y mejorando la eficiencia general de las aplicaciones."
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Engineer Ssr",
+            "company": "Froneus",
+            "location": "",
+            "start_date": "2025-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño y desarrollo de soluciones basadas en micro-frontends en React, optimizando la escalabilidad y modularidad de las aplicaciones.",
+                "Creación del tipado en TypeScript para los micro-frontends, asegurando una integración robusta y consistente entre los módulos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Engineer Ssr",
+            "company": "Santander",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de soluciones de MFE en React y BFF en Nest, migrando pantallas legacy a un diseño moderno y dinámico.",
+                "Desarrollo de servicios en Nest para distintas operaciones bursátiles, mejorando la funcionalidad y eficiencia."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer Jr",
+            "company": "GoJiraf",
+            "location": "",
+            "start_date": "2021-05-01",
+            "end_date": "2023-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Testeo y resolución de bugs en aplicaciones React.",
+                "Mejora de visualización y funcionalidad de aplicaciones.",
+                "Refactorización del código utilizando TypeScript."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Front End Developer",
+            "company": "Noun Seven",
+            "location": "",
+            "start_date": "2012-08-01",
+            "end_date": "2015-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de sitios web y plugins personalizados en WordPress.",
+                "Colaboración cercana con diseñadores, otros desarrolladores, y expertos en marketing digital.",
+                "Despliegue de proyectos en servidores web como Apache."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Front End Developer",
+            "company": "IPtechnology",
+            "location": "",
+            "start_date": "2008-04-01",
+            "end_date": "2012-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de sitios web desde cero utilizando plataformas como Wordpress, Joomla y HTML.",
+                "Especialización en el desarrollo de plugins personalizados.",
+                "Interacción con clientes para entender y cumplir sus necesidades."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "php",
+                "c#",
+                "java",
+                "react.js",
+                "node.js",
+                "express.js",
+                "nest.js",
+                "angular",
+                "flutter",
+                "react-native",
+                "postgresql",
+                "mongodb",
+                "mysql",
+                "firebase",
+                "supabase"
+            ],
+            "soft": [
+                "trabajo-en-equipo"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "gitlab",
+                "jira",
+                "trello",
+                "slack",
+                "confluence",
+                "docker"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

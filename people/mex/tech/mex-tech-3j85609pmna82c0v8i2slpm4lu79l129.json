@@ -1,0 +1,189 @@
+{
+    "personal_info": {
+        "first_name": "Julmer",
+        "last_name": "Olivero",
+        "email": "jolivero.03@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Mexico",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "I am a Frontend Developer with over 10 years of experience, primarily focused on React and JavaScript. Throughout my career, I have also worked as a backend developer with Laravel and Node.js. I specialize in building clean, scalable, and modular interfaces, always with a strong focus on user experience and technical quality."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Specialist",
+            "company": "Meru.com",
+            "location": "Remote - México",
+            "start_date": "2021-04-01",
+            "end_date": "2025-04-30",
+            "currently_working": true,
+            "responsibilities": [
+                "Built responsive user interfaces using React, Next.js, TypeScript/JavaScript, HTML, CSS, and Tailwind CSS.",
+                "Integrated frontend with backend APIs using Axios and related tools.",
+                "Led and developed an internal CRM/ERP product with a team of 6 to 10 developers."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Advisor & Fullstack Developer",
+            "company": "NewSeeds",
+            "location": "Remote - Chile",
+            "start_date": "2021-02-01",
+            "end_date": "2021-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Provided advice on the development of a menu application for restaurants.",
+                "Changed architectures for the project using Laravel and Vue.js."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Phinx Lab",
+            "location": "Remote - Argentina",
+            "start_date": "2020-09-01",
+            "end_date": "2021-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed a company's app based in a CRM using TypeScript, ReactJS, NodeJS, PostgreSQL, and TypeORM.",
+                "Created backend API to support frontend data consumption."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "React & React Native Frontend Developer",
+            "company": "Tigy LLM",
+            "location": "Remote - Ecuador",
+            "start_date": "2019-10-01",
+            "end_date": "2020-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed a product for managing announcements and HR communication using React and React Native.",
+                "Consumed RESTful APIs for JSON and SOAP for XML data."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "React Frontend Developer",
+            "company": "Cobuild Lab",
+            "location": "Remote - Miami",
+            "start_date": "2020-03-01",
+            "end_date": "2020-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Solved tasks and bugs related to CRM creation using React, GraphQL, and 8Base.",
+                "Contributed actively to the development team and conducted code reviews."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "",
+            "location": "",
+            "start_date": "2015-08-01",
+            "end_date": "2017-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed diverse web solutions such as SaaS apps, dashboards, CRMs, and ERPs.",
+                "Worked with clients Minami, The Developer Club, and Che Lagarto Hostels."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Software Engineering",
+            "institution": "Instituto Tecnológico Universitario PEC",
+            "location": "Venezuela",
+            "start_date": "2000-01-01",
+            "end_date": "2006-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react.js",
+                "next.js",
+                "redux",
+                "vue.js",
+                "react-native",
+                "typescript",
+                "javascript-es6+",
+                "wordpress",
+                "html5",
+                "css3",
+                "tailwindcss",
+                "material-ui",
+                "bootstrap",
+                "sass",
+                "less",
+                "php",
+                "node.js",
+                "express.js",
+                "restful-apis",
+                "graphql",
+                "mysql",
+                "mongodb",
+                "sql",
+                "mongoose"
+            ],
+            "soft": [
+                "communication",
+                "team-leadership",
+                "adaptability"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "bitbucket",
+                "ci/cd",
+                "docker",
+                "jira",
+                "scrum",
+                "visual-studio-code",
+                "sublime-text"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Coanime.net",
+            "description": "Development and maintenance of an API for a custom CMS with an admin panel management.",
+            "technologies": [
+                "Next.js",
+                "TanStack/React Query",
+                "React Hook Form",
+                "Zustand",
+                "Yup",
+                "Tailwind CSS",
+                "PHP",
+                "Laravel",
+                "MariaDB"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Professional Working Proficiency"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

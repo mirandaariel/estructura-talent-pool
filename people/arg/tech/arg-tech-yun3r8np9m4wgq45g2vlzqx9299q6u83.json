@@ -1,0 +1,137 @@
+{
+    "personal_info": {
+        "first_name": "Leonardo",
+        "last_name": "Moyano",
+        "email": "leomoyano7@gmail.com",
+        "phone": "+543812030648",
+        "location": {
+            "country": "Argentina",
+            "city": "Tucumán",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/leonardomoyano7",
+        "website": "",
+        "portfolio": "",
+        "summary": "Frontend Developer with 5+ years of experience building web applications using React, Next.js, and TypeScript. Focused on building scalable interfaces, improving performance, and collaborating closely with backend and product teams."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Finalis",
+            "location": "Remote - San Francisco, USA",
+            "start_date": "2022-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Built and maintained reusable UI components using React and TypeScript.",
+                "Contributed to the development of the internal Design System.",
+                "Identified and resolved package security vulnerabilities.",
+                "Migrated critical parts of the platform to Next.js 15 with Server Side Rendering."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "The Fuzzy Fish - Digital Works",
+            "location": "Córdoba, Argentina",
+            "start_date": "2020-12-01",
+            "end_date": "2022-11-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Worked on multiple web applications for international clients: Wheel The World (Chile), Red Bison (USA), Tecme (Argentina), and Upfront (USA).",
+                "Collaborated with distributed teams in fast-paced Agile environments."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "RollingCode School",
+            "location": "Tucumán, Argentina",
+            "start_date": "2020-01-01",
+            "end_date": "2021-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed features for fintech and business platforms in Latin America.",
+                "Projects included Giros y Finanzas (Colombia), Laboris (Argentina), and Stars (Argentina)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Panacea Soft",
+            "location": "Tucumán, Argentina",
+            "start_date": "2019-09-01",
+            "end_date": "2020-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed a full system for medical clinics, including patient appointment management and staff scheduling."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Web Full-Stack Development",
+            "institution": "RollingCode School",
+            "location": "Argentina",
+            "start_date": "2019-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomatura en Desarrollo de Software",
+            "institution": "Universidad de San Pablo - Tucumán",
+            "location": "Argentina",
+            "start_date": "2018-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react.js",
+                "next.js",
+                "typescript",
+                "chakra-ui",
+                "styled-components",
+                "tailwind-css",
+                "zustand",
+                "redux-toolkit",
+                "git",
+                "cypress",
+                "react-testing-library",
+                "graphql",
+                "docker"
+            ],
+            "soft": [],
+            "tools": [
+                "jira",
+                "husky"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Professional Working Proficiency (B2)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

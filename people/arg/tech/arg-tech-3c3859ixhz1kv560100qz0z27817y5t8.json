@@ -1,0 +1,193 @@
+{
+    "personal_info": {
+        "first_name": "María Virginia",
+        "last_name": "Montoya",
+        "email": "mvirginiamontoya@gmail.com",
+        "phone": "+54 91134323534",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full Stack Web Developer con una orientación marcada hacia el desarrollo Frontend, y un fuerte enfoque en la creación de interfaces intuitivas y funcionales. Apasionada por la tecnología y su impacto positivo en el medio ambiente, me motiva contribuir al desarrollo de soluciones sostenibles en proyectos innovadores."
+    },
+    "work_experience": [
+        {
+            "job_title": "Front End Developer - Diseñadora UI",
+            "company": "VizalGroup",
+            "location": "Córdoba, Argentina - remoto",
+            "start_date": "2025-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Crear y/o mantener la arquitectura modularizada del repositorio del Front.",
+                "Diseñar y maquetar la UI según los requerimientos de los diferentes clientes.",
+                "Desarrollar componentes y funciones escalables.",
+                "Estilizar componentes utilizando frameworks CSS y CSS3 vanilla."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Engineer- Front End Developer",
+            "company": "Eléctrica Mosconi",
+            "location": "CABA, Argentina - remoto",
+            "start_date": "2024-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Crear la arquitectura modularizada del repositorio del Back y Front.",
+                "Crear los modelos, handlers y controllers.",
+                "Establecer y declarar las relaciones entre las entidades.",
+                "Crear rutas del servidor según protocolo HTTP, generando el CRUD completo de cada uno de los modelos según requerimientos del Cliente.",
+                "Diseñar y maquetar la UI.",
+                "Desarrollar componentes y funciones escalables del dashboard del usuario y administrador.",
+                "Manejar estados locales y globales.",
+                "Asegurar la protección de rutas tanto del servidor como del cliente.",
+                "Implementar la autenticación del usuario.",
+                "Asegurar la permanencia de datos.",
+                "Gestionar las request al servidor utilizando protocolo HTTP y conexión mediante Websockets, gestionar sus respuestas utilizando librería de alertas y alertas personalizadas.",
+                "Implementar funcionalidad para adjuntar imágenes y archivos en los mensajes de respuesta.",
+                "Estilizar componentes utilizando frameworks CSS y CSS3 vanilla."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Diseñadora || Jefa Dto de Calidad",
+            "company": "Freelance, Markova, KeyBicane, Jazmin Chebar, Allô Martinez, Lacoste Argentina",
+            "location": "Argentina",
+            "start_date": "2005-06-01",
+            "end_date": "2023-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Responsable",
+                "Atención al detalle",
+                "Auditoria de Calidad",
+                "Trabajo en equipo",
+                "Técnicas de Producción",
+                "Networking",
+                "Resolución de cuestiones",
+                "Resolución de problemas",
+                "Liderazgo de equipos",
+                "Negociación",
+                "Soluciones alternativas",
+                "Dinamico",
+                "Optimizacion",
+                "Análisis funcional",
+                "Producción",
+                "Escucha Activa",
+                "Atención al Cliente"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Jefa de Trabajos Prácticos- Docente Titular",
+            "company": "FADU /UBA",
+            "location": "CABA, Argentina",
+            "start_date": "2004-03-01",
+            "end_date": "2011-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Planificar el contenido pedagógico.",
+                "Dictar clases teóricas-prácticas.",
+                "Manejar grupos hacia objetivos definidos con excelentes resultados."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "FullStack Web Developer",
+            "institution": "Soy Henry Bootcamp",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 700
+        },
+        {
+            "degree": "Diseño de Indumentaria",
+            "institution": "FADU - UBA",
+            "location": "",
+            "start_date": "1997-01-01",
+            "end_date": "2009-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html5",
+                "css3",
+                "typescript",
+                "reactjs",
+                "nodejs",
+                "express",
+                "redux",
+                "jest",
+                "socket.io",
+                "sequelize",
+                "tailwindcss",
+                "materialui",
+                "bootstrap-5",
+                "npm",
+                "git",
+                "thunderclient",
+                "postman",
+                "discord",
+                "slack",
+                "trello",
+                "figma",
+                "coreldraw",
+                "photoshop",
+                "postgresql",
+                "axios",
+                "localstorage",
+                "sessionstorage",
+                "cloudinary"
+            ],
+            "soft": [
+                "scrum",
+                "comunicación",
+                "trabajo-en-equipo",
+                "resolución-de-problemas",
+                "empatía",
+                "adaptabilidad",
+                "creatividad",
+                "aprendizaje-continuo"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "figma",
+                "trello",
+                "discord",
+                "slack",
+                "coreldraw",
+                "photoshop"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (B1)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

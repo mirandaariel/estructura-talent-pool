@@ -1,0 +1,159 @@
+{
+    "personal_info": {
+        "first_name": "Sebastian",
+        "last_name": "Avila",
+        "email": "avilasebastianm.dev@gmail.com",
+        "phone": "+54 1139126645",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": "CABA"
+        },
+        "linkedin": "https://linkedin.com/in/avilasebastianm",
+        "website": "https://avilasebastianm.github.io/",
+        "portfolio": "",
+        "summary": "Lideré la creación e implementación de modelos de negocio, optimizando procesos y adoptando tecnologías de vanguardia para mejorar la eficiencia en diversas áreas de la empresa. Como líder de proyecto, me enfoqué en la eficiencia y la calidad, implementando metodologías ágiles y desempeñándome como analista funcional para garantizar la satisfacción del usuario."
+    },
+    "work_experience": [
+        {
+            "job_title": "Lead Developer",
+            "company": "Distrito Moda",
+            "location": "Buenos Aires, CABA",
+            "start_date": "2021-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideré la implementación de metodologías ágiles para optimizar los procesos de negocio.",
+                "Actué como analista funcional para relevar requerimientos del usuario y asegurar la calidad.",
+                "Documenté casos de uso y realicé tareas de QA."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "WordPress Developer",
+            "company": "Soxogui S.R.L (Nare)",
+            "location": "Buenos Aires, CABA",
+            "start_date": "2019-01-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé un e-commerce B2B con WordPress.",
+                "Configuré entorno en Google Cloud.",
+                "Instalé plugins y customicé temas.",
+                "Implementé funcionalidades y vistas personalizadas.",
+                "Integré pasarelas de pago y funciones de AFIP."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Business Developer",
+            "company": "Mafan S.A",
+            "location": "Buenos Aires, CABA",
+            "start_date": "2016-01-01",
+            "end_date": "2019-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creé e implementé modelos de negocio con Business Model Canvas.",
+                "Definí estrategias para optimizar procesos logísticos y trazabilidad.",
+                "Implementé tecnologías para mejorar productividad y eficiencia."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista de Sistemas",
+            "institution": "ORT",
+            "location": "CABA",
+            "start_date": "2021-02-01",
+            "end_date": "2024-03-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "angular",
+                "css",
+                "javascript",
+                "scrum",
+                "typescript",
+                "git",
+                "wordpress",
+                "java",
+                "testing"
+            ],
+            "soft": [],
+            "tools": [
+                "drupal-7",
+                "jquery",
+                "bitbucket",
+                "google-workspace",
+                "google-cloud",
+                "postman",
+                "jetbrains",
+                "jira",
+                "trello",
+                "monday",
+                "zoho",
+                "slack",
+                "miro"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Liderazgo y gestión de equipos",
+            "issuing_organization": "Accenture",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Gestión de Procesos",
+            "issuing_organization": "Academia BA",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollador Java Intermedio - Full Stack",
+            "issuing_organization": "UTN",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Aws Re/Star",
+            "issuing_organization": "Fundación Compromiso",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "www.distritomoda.com.ar",
+            "description": "Product Owner, Documentación, Casos de uso, Desarrollo FrontEnd, Integración Api Correo Argentino",
+            "technologies": [],
+            "url": "http://www.distritomoda.com.ar"
+        },
+        {
+            "name": "www.naremoda.com.ar",
+            "description": "Deploy, Customización de temas, instalación de plugins, Integración Afip",
+            "technologies": [],
+            "url": "http://www.naremoda.com.ar"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

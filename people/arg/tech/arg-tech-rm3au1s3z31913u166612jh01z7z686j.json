@@ -1,0 +1,164 @@
+{
+    "personal_info": {
+        "first_name": "Francisco Emanuel",
+        "last_name": "Montenegro",
+        "email": "emamonte777@gmail.com",
+        "phone": "(3764) 327257",
+        "location": {
+            "country": "Argentina",
+            "city": "Posadas",
+            "state": "Misiones"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy Licenciado en Informática y actualmente curso una Maestría en Redes de Datos. Cuento con 3 años de experiencia profesional en desarrollo de software, habiendo participado en proyectos para distintas empresas, desarrollando soluciones orientadas a la eficiencia, escalabilidad y mejora de procesos. Además, fui personal militar durante 14 años, prestando servicio en Gendarmería Nacional Argentina, donde desempeñé funciones en ICIA y en la unidad de Delitos Informáticos, trabajando en áreas vinculadas al análisis, desarrollo y soporte de sistemas críticos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer SSR",
+            "company": "Agro Sustentable S.A",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé una aplicación SPA con Angular 16, optimizada para dispositivos móviles.",
+                "Integré mapas dinámicos utilizando Leaflet, mejorando la interacción del usuario.",
+                "Implementé NgRx y BehaviorSubject para la gestión de estados y PWA, permitiendo la instalación de la app en dispositivos móviles y mejorando la experiencia offline.",
+                "Colaboré en la autenticación y seguridad con Spring Boot."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Boratti S.A",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2023-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementé un sistema de auditoría para rastrear acciones de usuarios no administradores, mejorando la seguridad en las aplicaciones.",
+                "Refactoricé los mensajes del frontend provenientes de procedimientos almacenados en SQL Server, optimizando la comunicación con el backend.",
+                "Gestioné despliegues en producción a través de SSH, asegurando entregas continuas sin interrupciones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Fiserv",
+            "location": "",
+            "start_date": "2022-10-01",
+            "end_date": "2023-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé y corregí funcionalidades usando Angular 14, mejorando la experiencia del usuario.",
+                "Lideré el diseño e implementación de un módulo para transferencias masivas de CVU y CBU."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Orangedata S.A",
+            "location": "",
+            "start_date": "2022-06-01",
+            "end_date": "2022-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé y corregí funcionalidades usando Angular 14, mejorando la experiencia del usuario.",
+                "Lideré el diseño e implementación de un módulo para transferencias masivas de CVU y CBU.",
+                "Utilicé AWS CloudWatch para monitorear logs de errores y solucionar problemas críticos en Java con Spring Boot.",
+                "Gestioné bases de datos con Oracle SQL, optimizando el rendimiento de la aplicación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Maestría en Redes de Datos",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2027-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Informática",
+            "institution": "Universidad Siglo 21",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Analista Universitario en Sistemas",
+            "institution": "Universidad Siglo 21",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Superior en Seguridad",
+            "institution": "IUGNA",
+            "location": "",
+            "start_date": "2013-01-01",
+            "end_date": "2015-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "angular",
+                "react",
+                "html",
+                "css",
+                "js",
+                "ts",
+                "java",
+                ".net",
+                "c#",
+                "node",
+                "php",
+                "oracle",
+                "sql",
+                "docker",
+                "aws",
+                "firebase"
+            ],
+            "soft": [],
+            "tools": [
+                "github",
+                "gitlab",
+                "scrum",
+                "uml",
+                "jira",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Ingles",
+            "proficiency": "B2"
+        },
+        {
+            "language": "Portugués",
+            "proficiency": "C1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

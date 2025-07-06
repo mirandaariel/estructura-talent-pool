@@ -1,0 +1,138 @@
+{
+    "personal_info": {
+        "first_name": "Juan Ignacio",
+        "last_name": "López",
+        "email": "juan.lopez.violante@gmail.com",
+        "phone": "+598 99148465",
+        "location": {
+            "country": "Uruguay",
+            "city": "Montevideo",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/juan-lopez-frontend/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Frontend especializado en React, con más de tres años de experiencia en el diseño e implementación de interfaces de usuario. Trabajo habitualmente con TypeScript, HTML, CSS y Tailwind. En el backend, tengo experiencia con Node.js, Express y MongoDB. Además, he participado en proyectos utilizando Next.js y PostgreSQL. Manejo Git como sistema de control de versiones y, en ocasiones, Docker para la gestión de entornos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Freelance Developer",
+            "company": "Cliente freelance",
+            "location": "Montevideo, Uruguay",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo frontend de interfaz de usuario para empresa de transporte público de ómnibus en el exterior (MVP).",
+                "Frontend: JavaScript, HTML, CSS, React. Backend: PHP, MySQL, Python."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Yama Group",
+            "location": "Montevideo, Uruguay",
+            "start_date": "2020-06-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web en React para compañías del área farmacéutica.",
+                "Participación en proyectos de corto y largo plazo con distintas librerías y frameworks."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Altimetrik",
+            "location": "Montevideo, Uruguay",
+            "start_date": "2020-01-01",
+            "end_date": "2020-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Participación en bootcamp intensivo de React.js.",
+                "Desarrollo de interfaces en React.js y Vue.js para proyectos internacionales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Innovación Digital",
+            "company": "Banco Santander",
+            "location": "Casa Central - Montevideo, Uruguay",
+            "start_date": "2018-01-01",
+            "end_date": "2019-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Planificación y ejecución de iniciativas digitales.",
+                "Coordinación de tareas para cumplimiento de plazos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Velocity Partners (GumGum)",
+            "location": "Montevideo, Uruguay",
+            "start_date": "2018-01-01",
+            "end_date": "2018-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo web en HTML, CSS y JS",
+                "Trabajo remoto y presencial con equipo en Santa Mónica (EE.UU.)"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Ingeniería Audiovisual",
+            "institution": "Universidad Católica del Uruguay",
+            "location": "Montevideo, Uruguay",
+            "start_date": "2008-01-01",
+            "end_date": "2012-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react.js",
+                "next.js",
+                "typescript",
+                "tailwind-css",
+                "node.js",
+                "express",
+                "mongodb",
+                "jest",
+                "react-testing-library"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "docker"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

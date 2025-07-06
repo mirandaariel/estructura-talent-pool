@@ -1,0 +1,126 @@
+{
+    "personal_info": {
+        "first_name": "Valentin",
+        "last_name": "Carniel",
+        "email": "josevalentincarniel@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador backend apasionado por crear soluciones eficientes usando Python, .NET y SQL Server. Experiencia en desarrollo de APIs, bases de datos y trabajo en equipo ágil."
+    },
+    "work_experience": [
+        {
+            "job_title": "Pasante",
+            "company": "GoodApps",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé APIs REST usando .NET y SQL Server.",
+                "Colaboré en manejo de librerías y optimización de bases de datos.",
+                "Alcancé objetivos semanales y entregas puntuales en un entorno ágil.",
+                "Recibí feedback positivo por adaptabilidad y colaboración con el equipo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en desarrollo de software",
+            "institution": "ISVDR",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnico en Electromecanica",
+            "institution": "Colegio Secundario Ipet 55",
+            "location": "",
+            "start_date": "2013-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "c\\#",
+                ".net",
+                "sql-server",
+                "api-rest",
+                "javascript",
+                "html",
+                "css"
+            ],
+            "soft": [
+                "resolución-de-problemas",
+                "trabajo-en-equipo-y-colaboración",
+                "comunicación",
+                "adaptabilidad",
+                "pensamiento-crítico",
+                "gestión-del-tiempo"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "visual-studio",
+                "vs-code",
+                "metodologías-ágiles-scrum",
+                "sql-server-management-studio",
+                "pruebas-unitarias-básicas"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Juego \"Adivina el número\"",
+            "description": "Juego interactivo donde el usuario intenta adivinar un número generado aleatoriamente por la computadora. Implementación de lógica de control, entradas por consola y manejo de bucles.",
+            "technologies": [
+                "python"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Pequeños juegos Python (Udemy)",
+            "description": "Desarrollo de mini proyectos para practicar lógica de programación, manejo de variables, condicionales y funciones.",
+            "technologies": [
+                "python"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Pruebas de APIs REST locales",
+            "description": "Implementación básica de endpoints REST para aprendizaje personal: operaciones CRUD, validaciones y conexión a base de datos.",
+            "technologies": [
+                ".net",
+                "sql-server"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "C1 (Avanzado)"
+        },
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,127 @@
+{
+    "personal_info": {
+        "first_name": "Lis",
+        "last_name": "Gimena Roa",
+        "email": "lisgimenaroa@gmail.com",
+        "phone": "+5493625143030",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/lisroa/",
+        "website": "https://portfoliolisroa.netlify.app",
+        "portfolio": "",
+        "summary": "Desarrolladora Fullstack con experiencia en Node.js, Next.js, TypeScript, Express, pruebas con Jest y despliegues en Kubernetes/Coolify. Apasionada por resolver problemas complejos y crear soluciones rápidas, eficientes y escalables. En constante aprendizaje y mejora de habilidades técnicas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Stem Group SAS",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé una app web para la Copa Argentina que permitió a los fans del fútbol participar en juegos, trivias, sorteos y subastas.",
+                "Realicé el despliegue de aplicaciones y APIs en producción usando Coolify con Digital Ocean, y Vercel para el frontend.",
+                "Implementé funcionalidades avanzadas como autenticación, almacenamiento en tiempo real y notificaciones push utilizando Firebase Firestore y Cloud Messaging."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Waitry",
+            "location": "",
+            "start_date": "2021-05-01",
+            "end_date": "2023-11-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideré la migración de la app de la empresa de Ionic (Angular) a Flutter.",
+                "Mejoré el proceso de despliegue de las aplicaciones utilizando Fastlane."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "TecnoSapiens",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2021-05-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideré reuniones de relevamiento y diseño técnico de funcionalidades.",
+                "Automaticé procesos de migración de datos mediante scripts.",
+                "Optimicé consultas SQL utilizando herramientas de análisis (profilers) y la query ANALYZE."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Informática",
+            "institution": "UADE",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "next.js",
+                "angular.js",
+                "angular",
+                "vue",
+                "typescript",
+                "tailwind",
+                "shadcn/ui",
+                "material-ui",
+                "redux",
+                "motion",
+                "node.js",
+                "express",
+                "mongodb",
+                "postgresql",
+                "nestjs",
+                "sequelize",
+                "prisma",
+                "hono.js",
+                "resend",
+                "trigger.dev",
+                "coolify",
+                "flutter",
+                "react-native",
+                "git",
+                "docker",
+                "aws",
+                "firebase",
+                "figma"
+            ],
+            "soft": [
+                "adaptabilidad",
+                "comunicación",
+                "resolución-de-problemas",
+                "proactividad",
+                "atención-al-detalle",
+                "trabajo-en-equipo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

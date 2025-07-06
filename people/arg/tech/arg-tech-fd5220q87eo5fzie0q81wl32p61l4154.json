@@ -1,0 +1,178 @@
+{
+    "personal_info": {
+        "first_name": "Valentín",
+        "last_name": "Barthe",
+        "email": "valentinbarther@gmail.com",
+        "phone": "+54 91159743258",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "LinkedIn",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full-Stack con más de 4 años de experiencia en el sector financiero y bancario. Abogado de formación, con fuerte enfoque en soluciones tecnológicas eficientes, automatización de procesos y seguridad informática. Apasionado por el aprendizaje continuo y con sólida experiencia tanto en front-end como back-end utilizando tecnologías modernas. Destaco por mi versatilidad, pensamiento analítico y rápida adaptación a nuevos entornos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full-Stack",
+            "company": "Banco Hipotecario",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2022-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de funcionalidades nuevas, migración y refactorización de código existente.",
+                "Integración de APIs REST y middleware bancario.",
+                "Trabajo en equipo ágil (Scrum/Kanban) con diseño colaborativo en Figma.",
+                "Coordinación con QA, seguridad y UX para entrega continua."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Front-End",
+            "company": "Freelance",
+            "location": "Costa Rica",
+            "start_date": "2021-08-01",
+            "end_date": "2022-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de sitio web en React para la red social 'Peekaboo'."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full-Stack",
+            "company": "IT Resources S.A.",
+            "location": "",
+            "start_date": "2019-10-01",
+            "end_date": "2021-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de funcionalidades en entorno web empresarial para sistema de salud."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Zubdesa S.A.",
+            "location": "",
+            "start_date": "2020-11-01",
+            "end_date": "2021-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de sitio web, adaptado para ser utilizado en distintos dispositivos móviles (responsivo).",
+                "Diseño, maquetado, testeo, puesta en producción."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Development Immersive Bootcamp",
+            "institution": "MINDHUB LA, Ubiqum Code Academy",
+            "location": "Buenos Aires",
+            "start_date": "2019-05-01",
+            "end_date": "2019-09-30",
+            "hours": 720
+        },
+        {
+            "degree": "Desarrollador iOS",
+            "institution": "Digital House",
+            "location": "Buenos Aires",
+            "start_date": "2017-03-01",
+            "end_date": "2017-08-31",
+            "hours": 0
+        },
+        {
+            "degree": "Abogado",
+            "institution": "Universidad Católica Argentina",
+            "location": "",
+            "start_date": "2010-08-01",
+            "end_date": "2017-03-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller Bilingüe en Arte, Diseño & Comunicación",
+            "institution": "St Catherine's Moorlands School",
+            "location": "Buenos Aires",
+            "start_date": "1997-03-01",
+            "end_date": "2009-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "javascript",
+                "html",
+                "css",
+                "sql",
+                "swift",
+                "objective-c",
+                "react",
+                "vue.js",
+                "bootstrap",
+                "spring"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "jira",
+                "figma",
+                "postman",
+                "visual-studio-code",
+                "microsoft-office",
+                "herramientas-de-ia"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Office Banking",
+            "description": "Participación en desarrollo y mantenimiento de la plataforma de banca digital mayorista del Banco Hipotecario.",
+            "technologies": ["java", "spring", "react", "javascript", "html", "css", "sql", "apis-rest"],
+            "url": ""
+        },
+        {
+            "name": "Peekaboo",
+            "description": "Desarrollo de sitio web en React. Red social con funcionalidades de login, carga y visualización de datos para concursos y competencias.",
+            "technologies": ["react"],
+            "url": ""
+        },
+        {
+            "name": "CRM para Swiss Medical",
+            "description": "Desarrollo y mantenimiento de funcionalidades en entorno web empresarial para sistema de salud.",
+            "technologies": ["java", "javascript", "html", "css", "sql"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Bilingual"
+        },
+        {
+            "language": "French",
+            "proficiency": "Intermediate"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,157 @@
+{
+    "personal_info": {
+        "first_name": "Matias",
+        "last_name": "Semelman",
+        "email": "matiassemelman@gmail.com",
+        "phone": "+5491130332808",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Frontend con más de 4 años de experiencia creando interfaces web atractivas, funcionales y escalables con Next y TypeScript. Me especializo en construir componentes reutilizables, mantener consistencia visual, y optimizar el rendimiento de plataformas en producción. Apasionado por el detalle, la colaboración entre equipos y el desarrollo de soluciones simples pero robustas que mejoran la experiencia de usuario."
+    },
+    "work_experience": [
+        {
+            "job_title": "SSR Frontend Developer",
+            "company": "PSH",
+            "location": "Remoto",
+            "start_date": "2024-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de interfaces escalables en Next y TypeScript para plataformas educativas.",
+                "Diseño de componentes reutilizables y mantenibles con Styled Components y Storybook.",
+                "Colaboración estrecha con backend en la integración de APIs (Node + PostgreSQL).",
+                "Mejora del rendimiento en carga y renderizado de vistas (SSR + optimización de assets).",
+                "Participación en decisiones arquitectónicas frontend y entornos Docker personalizados."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Devify",
+            "location": "Remoto",
+            "start_date": "2022-07-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Construcción de 5 apps web responsivas con Next.js y Tailwind.",
+                "Diseño de biblioteca de 15+ componentes UI reutilizables y documentados.",
+                "SSR y optimización de rendimiento: mejora 5x en velocidad de carga.",
+                "Integración de Redux y React Query para mejorar el flujo de datos unificado."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Tutor de Programación",
+            "company": "INTI",
+            "location": "Remoto",
+            "start_date": "2023-03-01",
+            "end_date": "2023-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Enseñanza de fundamentos de programación a estudiantes con foco en JavaScript."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer Jr",
+            "company": "No Country",
+            "location": "Remoto",
+            "start_date": "2022-03-01",
+            "end_date": "2022-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de interfaces dinámicas con React y Tailwind.",
+                "Gestión eficiente de estado con Redux (mejora del 15% tiempo de respuesta).",
+                "Proceso de debugging optimizado para mayor estabilidad de UI."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer Jr",
+            "company": "Jelpin App",
+            "location": "Remoto",
+            "start_date": "2021-06-01",
+            "end_date": "2021-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Responsable del 100% del desarrollo frontend de la app principal.",
+                "Implementación de RESTful APIs y mejora de seguridad con JWT.",
+                "Versionado desde prototipo hasta post-lanzamiento con Git."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Formación en Desarrollo Frontend",
+            "institution": "Go.Elevate",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react-18",
+                "typescript",
+                "redux",
+                "tailwind",
+                "html5",
+                "css3",
+                "styled-components",
+                "hooks",
+                "react-query",
+                "next.js",
+                "storybook",
+                "node.js",
+                "postgresql",
+                "graphql",
+                "vite",
+                "webpack"
+            ],
+            "soft": [
+                "collaboration",
+                "detail-oriented",
+                "problem-solving"
+            ],
+            "tools": [
+                "docker",
+                "git",
+                "ci/cd",
+                "linux",
+                "agile",
+                "scrum",
+                "figma"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

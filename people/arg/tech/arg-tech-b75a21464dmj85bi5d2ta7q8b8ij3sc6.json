@@ -1,0 +1,143 @@
+{
+    "personal_info": {
+        "first_name": "Nicolas",
+        "last_name": "Selicki",
+        "email": "nicolas.selicki@gmail.com",
+        "phone": "+54 9 2255-526270",
+        "location": {
+            "country": "Argentina",
+            "city": "La Plata",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Junior Advance Full Stack Developer with 1 and a half years of experience as a specialized Frontend Developer in JavaScript. I participated in the development of the web and mobile banking application for a prestigious Argentine cooperative bank. My experience allowed me to develop skills such as critical thinking, communication, quick learning, abstraction, and autonomy."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer Junior",
+            "company": "GlobalLogic",
+            "location": "La Plata, Argentina",
+            "start_date": "2021-06-01",
+            "end_date": "2022-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Involved in the development of a highly scalable and widely used Home Banking system for Banco Credicoop.",
+                "Developed landing pages, dashboards, and online applications using JavaScript.",
+                "Designed frontend interfaces and elements, as well as maintained and optimized websites and interfaces."
+            ],
+            "achievements": [
+                "Consistently applied best practices, resulting in significant optimization, fluidity, and rapid response within the application."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Backend Developer Junior",
+            "company": "Kiura",
+            "location": "Remote",
+            "start_date": "2024-03-01",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Designed, developed, and maintained server-side logic and databases.",
+                "Built robust APIs for database management.",
+                "Implemented authentication and authorization mechanisms.",
+                "Designed and developed RESTful services and APIs using Node.js and Express.",
+                "Wrote clean and maintainable code in TypeScript.",
+                "Used Sequelize to interact with the MySQL database."
+            ],
+            "achievements": [
+                "Ensured the scalability of the application by optimizing queries and database architecture."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "institution": "Henry Bootcamp",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2020-01-01",
+            "end_date": "2020-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "",
+            "institution": "TELECOM - Digit@lers",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "Rootstrap",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "UTN Buenos Aires",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2023-11-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "HEDY Bootcamp",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "java",
+                "typescript",
+                "react",
+                "node",
+                "express",
+                "spring-boot",
+                "next",
+                "mysql",
+                "sequelize",
+                "firestore"
+            ],
+            "soft": [
+                "critical-thinking",
+                "communication",
+                "quick-learning",
+                "abstraction",
+                "autonomy"
+            ],
+            "tools": [
+                "git",
+                "jira",
+                "confluence",
+                "slack"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B1 - Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

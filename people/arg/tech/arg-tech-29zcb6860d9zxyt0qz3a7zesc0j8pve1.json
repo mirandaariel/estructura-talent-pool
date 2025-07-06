@@ -1,0 +1,108 @@
+{
+    "personal_info": {
+        "first_name": "Danel",
+        "last_name": "Torchiari",
+        "email": "Danel.t@hotmail.com",
+        "phone": "+54 2983543570",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/daneltorchiari/",
+        "website": "",
+        "portfolio": "https://github.com/Torchiari",
+        "summary": "Desarrollador Fullstack con experiencia en la creación de aplicaciones web escalables utilizando tecnologías modernas como React, Node.js, Express y bases de datos relacionales y no relacionales. Apasionado por resolver problemas complejos y contribuir al éxito del equipo con soluciones innovadoras y eficientes."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Certificado full stack developer",
+            "institution": "Henry",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Analista programador universitario",
+            "institution": "Universidad Nacional de La Plata",
+            "location": "La Plata, Buenos Aires",
+            "start_date": "2018-02-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en administración y economía",
+            "institution": "Colegio inmaculada concepción",
+            "location": "",
+            "start_date": "2001-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "react.js",
+                "next.js",
+                "tailwind",
+                "node.js",
+                "express",
+                "mongoose",
+                "mongodb",
+                "postgresql"
+            ],
+            "soft": [],
+            "tools": [
+                "figma",
+                "git",
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "E-commerce",
+            "description": "Aplicación web funcional con carrito de compras y pasarela de pagos integrada, utilizando React, Next.js y PostgreSQL.",
+            "technologies": [
+                "react",
+                "next.js",
+                "postgresql"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Aplicación de gimnasio",
+            "description": "Diseño y desarrollo de una aplicación web para gestionar turnos, clientes y horarios utilizando React, Express y Tailwind CSS.",
+            "technologies": [
+                "react",
+                "express",
+                "tailwind"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,114 @@
+{
+    "personal_info": {
+        "first_name": "Francisco Javier",
+        "last_name": "Paredes",
+        "email": "franpa619@gmail.com",
+        "phone": "+543883330889",
+        "location": {
+            "country": "Argentina",
+            "city": "Jujuy",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Frontend con pasión por enfrentar desafíos y aprender de manera continua. Con experiencia en mejorar la eficiencia operativa y la experiencia del usuario a través del desarrollo de soluciones web."
+    },
+    "work_experience": [
+        {
+            "job_title": "Front-end Developer",
+            "company": "Freelancer",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño y desarrollo de interfaces web utilizando React, Tailwind CSS y Material UI.",
+                "Creación de componentes reutilizables y escalables para garantizar mantenibilidad.",
+                "Integración de APIs REST para una comunicación eficiente con el backend.",
+                "Colaboración con equipos multidisciplinarios para adaptarse a requerimientos específicos del cliente.",
+                "Gestión autónoma de proyectos, aplicando buenas prácticas de desarrollo, control de versiones y revisión de código."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Front-end Developer",
+            "company": "Novadeha group .srl",
+            "location": "",
+            "start_date": "2025-02-01",
+            "end_date": "2025-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de interfaces accesibles y de alto rendimiento con Next.js y TypeScript.",
+                "Implementación de componentes reutilizables y escalables, asegurando la mantenibilidad del código a largo plazo.",
+                "Integración eficiente de APIs REST para una comunicación fluida con el backend."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Front-end Developer (Pasante)",
+            "company": "Destored",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Maquetación y diseño de interfaces con Tailwind CSS y Material UI.",
+                "Desarrollo frontend con React y JavaScript, mostrando datos de forma dinámica mediante APIs.",
+                "Implementación de Zustand para una gestión de estado eficiente en aplicaciones React.",
+                "Participación activa en un entorno colaborativo, resolviendo desafíos técnicos y mejorando la calidad del producto."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista Programador Universitario",
+            "institution": "Universidad Nacional de Jujuy",
+            "location": "Jujuy, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react-js",
+                "next-js",
+                "typescript",
+                "javascript",
+                "tailwind-css",
+                "material-ui",
+                "shadcdn",
+                "zustand",
+                "node-js",
+                "express"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (Técnico)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

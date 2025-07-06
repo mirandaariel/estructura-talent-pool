@@ -1,0 +1,128 @@
+{
+    "personal_info": {
+        "first_name": "Ignacio",
+        "last_name": "Gómez Rodríguez",
+        "email": "ignaciogomez_rodriguez@hotmail.com",
+        "phone": "11 2760-3533",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/ignacio-gomez-523b03258",
+        "website": "",
+        "portfolio": "https://github.com/Nachorojo2015?tab=repositories",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "",
+            "company": "Diego Vive",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollada con React.js.",
+                "Estilada con Tailwind CSS.",
+                "Enfocada en brindar una experiencia visual impactante y de fácil navegación."
+            ],
+            "achievements": [],
+            "repository_url": "https://www.diegovivetour.com/it"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Informática",
+            "institution": "Universidad Nacional del Oeste",
+            "location": "",
+            "start_date": "2022-03-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Carrera de desarrollo Full Stack",
+            "institution": "CODERHOUSE",
+            "location": "",
+            "start_date": "2022-11-01",
+            "end_date": "2023-11-01",
+            "hours": 0
+        },
+        {
+            "degree": "Programación Full Stack",
+            "institution": "ARGENTINA PROGRAMA",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "2023-11-01",
+            "hours": 0
+        },
+        {
+            "degree": "Diplo. en programación web con React",
+            "institution": "UTN FRBA e-Learning Center",
+            "location": "",
+            "start_date": "2022-04-01",
+            "end_date": "2022-10-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript/typescript",
+                "java",
+                "react.js",
+                "node.js",
+                "express",
+                "html5",
+                "css3",
+                "tailwind-css",
+                "mongodb",
+                "sql"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Mustaque",
+            "description": "Aplicación web desarrollada con Astro, React y Tailwind CSS.",
+            "technologies": [
+                "astro",
+                "react",
+                "tailwind css"
+            ],
+            "url": "mustaque-proyect.vercel.app/"
+        },
+        {
+            "name": "Chatgroup",
+            "description": "Aplicación de chat en tiempo real desarrollada con React y Node.js.",
+            "technologies": [
+                "react",
+                "node.js",
+                "sockets",
+                "zustand",
+                "firebase storage",
+                "mongodb"
+            ],
+            "url": "chatgroup-frontend-production.up.railway.app/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

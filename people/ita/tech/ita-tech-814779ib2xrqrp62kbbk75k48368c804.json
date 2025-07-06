@@ -1,0 +1,83 @@
+{
+    "personal_info": {
+        "first_name": "Arturo",
+        "last_name": "Baduna",
+        "email": "arturobaduna@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Italy",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy una persona autodidacta y apasionada por la tecnología. En cada proyecto en el que trabajé, siempre fui el que investigaba, probaba nuevas soluciones y buscaba la mejor manera de hacer las cosas. Me encanta aprender constantemente y enfrentar nuevos desafíos. Tengo más de 250 repositorios en GitHub y he desarrollado más de 20 proyectos completos, desde la idea inicial hasta su implementación final. Esta experiencia me ha permitido adquirir una gran versatilidad, adaptarme a distintos entornos y resolver problemas de forma eficiente. Siempre estoy buscando cómo mejorar, ya sea perfeccionando mi código, aprendiendo nuevas tecnologías o colaborando con otros para lograr mejores resultados."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador full stack y mobile",
+            "company": "Dreamerz",
+            "location": "Italia",
+            "start_date": "2024-10-01",
+            "end_date": "2025-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una aplicación de marketplace en Flutter junto con un panel de administración y una plataforma para gestionar negocios.",
+                "Desarrollé y consumí APIs REST en Spring Boot y Express.js, optimizando la comunicación entre el frontend y el backend.",
+                "Implementé el sistema de envío de correos automatizados a los usuarios, mejorando la comunicación y experiencia del cliente.",
+                "Investigué e implementé nuevas soluciones tecnológicas según los requerimientos del equipo."
+            ],
+            "achievements": [
+                "Implementé un enlace dinámico que redirige a la aplicación móvil para mejorar la accesibilidad y la experiencia del usuario."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "javascript",
+                "typescript",
+                "php",
+                "dart",
+                "spring-boot",
+                "react.js",
+                "laravel",
+                "node.js",
+                "flutter",
+                "mysql",
+                "postgresql",
+                "mongodb",
+                "docker",
+                "railway",
+                "aws",
+                "kubernetes",
+                "faas",
+                "kafka",
+                "hashicorp",
+                "consul",
+                "mockito",
+                "vitest",
+                "junit"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "autodidacta"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

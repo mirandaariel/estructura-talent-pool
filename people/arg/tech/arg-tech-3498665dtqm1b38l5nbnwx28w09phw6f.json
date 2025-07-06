@@ -1,0 +1,218 @@
+{
+    "personal_info": {
+        "first_name": "Germán",
+        "last_name": "Horianski",
+        "email": "germanezequielhorianski@gmail.com",
+        "phone": "+54 92236216726",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/inghorianskii",
+        "website": "",
+        "portfolio": "https://github.com/GermanEH",
+        "summary": "React Developer con un año y medio de experiencia profesional desarrollando aplicaciones web y como tutor académico. Actualmente lidero uno de los equipos de desarrollo del área de front-end de la empresa en la que trabajo."
+    },
+    "work_experience": [
+        {
+            "job_title": "FrontEnd Developer",
+            "company": "Gravitad",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web con soluciones de I.A. integradas.",
+                "Participé con éxito en ocho MVPs.",
+                "Logré que se incorpore la gestión de errores como buena práctica en todos los proyectos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Soporte técnico freelance",
+            "company": "Chyperis SRL",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2024-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Mantenimiento de una plataforma de gestión de jubilaciones y pensiones desarrollada en Visual Basic y Microsoft SQL Server."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer y soporte técnico",
+            "company": "14x",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2023-07-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Relevamiento, mantenimiento, y desarrollo de una plataforma de gestión de jubilaciones y pensiones.",
+                "Migración de la plataforma a Vue.js.y Node.js."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Tutor Programación backend",
+            "company": "Coder House",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2023-07-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Respuesta a dudas técnicas en las clases en vivo dictadas por el profesor.",
+                "Corrección de más de 120 entregables.",
+                "Acompañamiento académico de 30 estudiantes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "U.T.N.",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Developer",
+            "institution": "SoyHenry Bootcamp",
+            "location": "",
+            "start_date": "2022-07-01",
+            "end_date": "2023-01-31",
+            "hours": 800
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "tailwind",
+                "typescript",
+                "vue.js",
+                "node.js"
+            ],
+            "soft": [],
+            "tools": [
+                "cypress",
+                "puppeteer",
+                "docker"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Lab manager",
+            "description": "Gestor de inventario para especialista en reparación de equipos de laboratorio.",
+            "technologies": [
+                "M.E.R.N."
+            ],
+            "url": ""
+        },
+        {
+            "name": "GDx Solutions",
+            "description": "Aplicación de web scrapping de ejecución automatizada y periódica en la nube. Despliegue en la nube de un algoritmo de Machine Learning.",
+            "technologies": [
+                "puppeteer",
+                "nodejs",
+                "docker",
+                "google-cloud"
+            ],
+            "url": ""
+        },
+        {
+            "name": "S.A.N.V.A.",
+            "description": "\"Bitácora\" para gestión de info. de salud de las personas.",
+            "technologies": [
+                "react",
+                "tailwind",
+                "formik",
+                "python",
+                "mongodb"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Paranoid Bikes",
+            "description": "E-commerce de venta de bicicletas.",
+            "technologies": [
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "express.js",
+                "node.js",
+                "redux",
+                "sequelize",
+                "postgresql",
+                "firebase-google-auth",
+                "stripe",
+                "cloudinary",
+                "react-hook-form"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Pro-fy",
+            "description": "App mobile de contratación de servicios médicos.",
+            "technologies": [
+                "html",
+                "css",
+                "javascript",
+                "react-native",
+                "express.js",
+                "node.js",
+                "redux",
+                "sequelize",
+                "postgresql",
+                "firebase-google-auth",
+                "stripe",
+                "cloudinary",
+                "react-hook-form"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Paws and Claws",
+            "description": "S.P.A. con información general de razas de perro.",
+            "technologies": [
+                "html",
+                "css",
+                "javascript",
+                "react.js",
+                "express.js",
+                "node.js",
+                "redux",
+                "sequelize",
+                "postgresql"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "C2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

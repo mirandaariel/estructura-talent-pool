@@ -1,0 +1,139 @@
+{
+    "personal_info": {
+        "first_name": "Enzo",
+        "last_name": "Agú",
+        "email": "enzo.gustavo.agu@gmail.com",
+        "phone": "+54 3547 453350",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/enzo-agú",
+        "website": "",
+        "portfolio": "",
+        "summary": "Apasionado de la programación y el desarrollo web, en constante aprendizaje de nuevas tecnologías."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollo Full Stack",
+            "company": "Accenture",
+            "location": "",
+            "start_date": "2023-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Uso de Angular, NodeJs y AWS para mantenimiento de aplicaciones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Tutor: Full Stack",
+            "company": "Desafío Latam",
+            "location": "",
+            "start_date": "2023-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Montaje de clases y orientación en la realización de desafíos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollo Front end",
+            "company": "Devias",
+            "location": "",
+            "start_date": "2022-08-01",
+            "end_date": "2023-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Uso de react para crear la plataforma de sesión de la empresa."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Tutor: Desarrollo web",
+            "company": "Coderhouse",
+            "location": "",
+            "start_date": "2021-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Seguimiento de los alumnos durante el curso.",
+                "Guía en la realización de proyectos finales.",
+                "Uso de google front y keepcon para resolver consultas."
+            ],
+            "achievements": [
+                "Llamado para crear contenido para el curso de javascript en Coderhouse."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Tutor: Lógica de programación",
+            "company": "Teclab",
+            "location": "",
+            "start_date": "2022-05-01",
+            "end_date": "2022-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Uso de excel, sharepoints, power bi y zoom, armado de clases."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "angular",
+                "nodejs",
+                "aws",
+                "javascript",
+                "react",
+                "python",
+                "mongodb",
+                "sql"
+            ],
+            "soft": [
+                "metodologías-agiles",
+                "scrum"
+            ],
+            "tools": [
+                "google-front",
+                "keepcon",
+                "excel",
+                "sharepoints",
+                "power-bi",
+                "zoom"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Frontend Developer",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

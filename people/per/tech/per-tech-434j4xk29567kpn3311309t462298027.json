@@ -1,0 +1,169 @@
+{
+    "personal_info": {
+        "first_name": "Lucía",
+        "last_name": "Aliaga Trevejo",
+        "email": "lucia.aliagat@gmail.com",
+        "phone": "+51 948133379",
+        "location": {
+            "country": "Peru",
+            "city": "Lima",
+            "state": ""
+        },
+        "linkedin": "https://linkedin/luciaaliagat",
+        "website": "https://luciaaliagat-portfolio.vercel.app/",
+        "portfolio": "",
+        "summary": "Full Stack Developer constantly striving for excellence. Skilled in web and mobile development using Spring Boot, .NET, Angular, React, Vue, and Flutter."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Software Engineering",
+            "institution": "Universidad Peruana de Ciencias Aplicadas",
+            "location": "",
+            "start_date": "2021-03-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "angular",
+                "vue",
+                "html/css",
+                "flutter",
+                "spring-boot",
+                ".net",
+                "django",
+                "flask",
+                "sql",
+                "postgresql",
+                "mysql",
+                "sqlite",
+                "javascript",
+                "typescript",
+                "c++",
+                "c#",
+                "python",
+                "mockito",
+                "junit",
+                "selenium",
+                "appium",
+                "figma",
+                "git",
+                "agile-methodologies",
+                "scrum"
+            ],
+            "soft": [
+                "problem-solving",
+                "teamwork",
+                "critical-thinking"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Machine Learning with TensorFlow on Google Cloud",
+            "issuing_organization": "Google",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Security Analyst Fundamentals Specialization",
+            "issuing_organization": "IBM",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "IBM Cybersecurity Analyst Specialization",
+            "issuing_organization": "IBM",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Python parabackend",
+            "issuing_organization": "Programa de Formación Renuévate Joven, Municipalidad Metropolitana de Lima",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Programa Oracle Next Education Front-end",
+            "issuing_organization": "Oracle Next Education",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Scrum Fundamentals Certified (SFC)",
+            "issuing_organization": "SCRUMstudy",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Articles Finder",
+            "description": "Collaborative project for article search using BFS (Breadth-First Search) algorithms and graphs.",
+            "technologies": [
+                "django",
+                "python",
+                "sqlite"
+            ],
+            "url": ""
+        },
+        {
+            "name": "NutriTools",
+            "description": "Front-end web application built with React, featuring tools for nutritional assessment, including BMI calculators, body fat percentage estimators, and dynamic growth charts.",
+            "technologies": [
+                "react"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Flexpay",
+            "description": "Web application that enables small businesses to grant credit to their customers, streamlining installment purchase management.",
+            "technologies": [
+                "react",
+                "spring-boot",
+                "docker"
+            ],
+            "url": ""
+        },
+        {
+            "name": "MIAM (Intelligent Elderly Monitoring)",
+            "description": "A system consisting of a landing page, web app, mobile app, and an loT device for real-time monitoring of body temperature, pulse, and movement. Implemented cloud and edge APIs to manage data efficiently.",
+            "technologies": [
+                "angular",
+                "spring-boot",
+                "c++",
+                "flutter",
+                "docker"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Advanced"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

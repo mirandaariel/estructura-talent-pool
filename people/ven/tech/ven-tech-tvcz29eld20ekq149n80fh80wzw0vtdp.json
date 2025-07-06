@@ -1,0 +1,133 @@
+{
+    "personal_info": {
+        "first_name": "Julio",
+        "last_name": "Mijares",
+        "email": "juliooocmc18@gmail.com",
+        "phone": "+58 4241484800",
+        "location": {
+            "country": "Venezuela",
+            "city": "Caracas",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "https://github.com/julioocmc",
+        "portfolio": "",
+        "summary": "Frontend Developer with 2 years of experience building scalable, user-focused web applications. Proven experience in production environments, working remotely and collaboratively with crossfunctional teams. Strong focus on clean structure, reusable components, API integration and good practices. Additional training in backend and electronics, with the ability to tackle technical challenges across multiple domains."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Go-Ya Venezuela",
+            "location": "Remote",
+            "start_date": "2025-02-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Built the entire frontend of an internal administrative platform for managing motorcycle and vehicle financing.",
+                "Developed multiple modules (clients, vehicles, status, branches), implemented role-based access, and maintained a modular project structure."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Makro Redvital",
+            "location": "Caracas",
+            "start_date": "2023-09-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed several internal applications in collaboration with a senior backend developer.",
+                "Projects included: supplier management (dashboards, modules, permissions), ecommerce site, order system, internal complaints system, and a task dashboard."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Electronic Engineering",
+            "institution": "Universidad Nueva Esparta",
+            "location": "Los Naranjos",
+            "start_date": "2019-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "react-native",
+                "node.js",
+                "express",
+                "tailwindcss",
+                "bootstrap",
+                "metronic",
+                "axios",
+                "fetch",
+                "rest",
+                "modular-architecture",
+                "custom-hooks",
+                "role-based-access",
+                "validations",
+                "data-visualization"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "vite",
+                "eslint",
+                "prettier"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Backend Development",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2023-03-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Javascript",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2023-03-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "React.js",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2023-04-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "IoT Monitoring Platform",
+            "description": "Developed a web interface for real-time temperature monitoring in refrigerators used for food and medical supplies, integrating sensor data via ESP32 microcontrollers. Used React and Chart.js for visualizing live and historical data.",
+            "technologies": ["react", "chart.js"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "C1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

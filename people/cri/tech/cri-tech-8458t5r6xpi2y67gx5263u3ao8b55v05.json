@@ -1,0 +1,114 @@
+{
+    "personal_info": {
+        "first_name": "José Andrés",
+        "last_name": "Murillo Ugalde",
+        "email": "joseandresugalde82@gmail.com",
+        "phone": "6298-2265",
+        "location": {
+            "country": "Costa Rica",
+            "city": "Esparza",
+            "state": "Puntarenas"
+        },
+        "linkedin": "https://linkedin.com/in/jose-andres-murillo-ugalde-037033126",
+        "website": "",
+        "portfolio": "",
+        "summary": "Profesional en Ingeniería en Software con experiencia en desarrollo web y back-end en .NET. Persona responsable, proactiva y comprometida con el trabajo, con habilidades que me permiten adaptarme a diferentes áreas laborales, incluyendo atención al cliente, ventas, soporte técnico, trabajos operativos y de campo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Back-End (.NET)",
+            "company": "Lightspeed",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de microservicios con C# .NET.",
+                "Manejo de bases de datos con MariaDB y procedimientos almacenados.",
+                "Uso de herramientas como Redis Cache, Jenkins y patrones de diseño.",
+                "Aplicación de principios SOLID, Clean Code y pruebas unitarias.",
+                "Participación en equipos ágiles y resolución de problemas técnicos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Soporte Técnico y Atención al Cliente",
+            "company": "Varias localidades",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2019-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Reparación de computadoras y asistencia en instalación de software.",
+                "Atención al cliente de forma presencial y telefónica.",
+                "Explicación técnica a usuarios de forma clara y sencilla."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachillerato en Ingeniería en Software",
+            "institution": "Universidad Técnica Nacional (UTN)",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                "javascript",
+                "html",
+                "css",
+                ".net",
+                "entity-framework",
+                "vue.js",
+                "blazor"
+            ],
+            "soft": [
+                "comunicación-efectiva",
+                "trato-con-personas",
+                "trabajo-en-equipo",
+                "bajo-presión",
+                "capacidad-de-adaptación",
+                "organización",
+                "puntualidad",
+                "compromiso"
+            ],
+            "tools": [
+                "git",
+                "jenkins",
+                "redis",
+                "sql-server",
+                "mariadb",
+                "excel",
+                "word",
+                "herramientas-de-oficina"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Nivel intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
