@@ -1,0 +1,110 @@
+{
+    "personal_info": {
+        "first_name": "Agustina Victoria",
+        "last_name": "Lopez",
+        "email": "agusvlopez@gmail.com",
+        "phone": "+54 1134981086",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "I am a software developer with 1 year of professional experience backed by 3 years of dedicated study and hands-on practice. I'm always eager to learn, and my social skills enhance team communication and collaboration."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Invisible Geeks",
+            "location": "Madrid",
+            "start_date": "2024-09-01",
+            "end_date": "2025-03-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Implemented the complete frontend functionality and navigation of the app. Developed reusable components to improve maintainability and scalability.",
+                "Built the backend of the application using Laravel (MVC), including models, views, and controllers to handle application logic, database interactions, and API endpoints.",
+                "Participated in agile development processes including sprint planning and daily stand-ups."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Publicis Groupe",
+            "location": "Buenos Aires",
+            "start_date": "2024-03-01",
+            "end_date": "2024-09-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed web applications. Translated UX/UI designs into responsive interfaces and implemented reusable components to ensure consistency and scalability.",
+                "Designed and created databases and built backend functionality using the MVC pattern. Developed models, controllers, and API endpoints to manage business logic and data flow."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate Degree in Web Design and Development",
+            "institution": "Escuela Da Vinci",
+            "location": "Buenos Aires",
+            "start_date": "2022-03-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "node.js",
+                "php",
+                "react.js",
+                "vue.js",
+                "express.js",
+                "laravel",
+                "mysql",
+                "postgresql",
+                "mongodb",
+                "firebase",
+                "tailwindcss",
+                "sass",
+                "bootstrap",
+                "git",
+                "github",
+                "docker",
+                "redux",
+                "react-router",
+                "jwt",
+                "yup"
+            ],
+            "soft": [],
+            "tools": [
+                "jira",
+                "trello",
+                "figma"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Advanced (C1)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

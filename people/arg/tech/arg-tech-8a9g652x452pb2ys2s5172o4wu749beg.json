@@ -1,0 +1,121 @@
+{
+    "personal_info": {
+        "first_name": "Juan",
+        "last_name": "Aramberri",
+        "email": "Juanaramberri02@gmail.com",
+        "phone": "+542216172539",
+        "location": {
+            "country": "Argentina",
+            "city": "La Plata",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/juanbautistaaramberri",
+        "website": "",
+        "portfolio": "https://github.com/Juamba02",
+        "summary": "Soy estudiante avanzado de Ingeniería en Sistemas y desarrollador web freelance. Me caracterizo por mi iniciativa, capacidad de aprendizaje autónomo y compromiso con la mejora continua. Disfruto de los desafíos técnicos y de trabajar en equipo para crear soluciones con impacto real."
+    },
+    "work_experience": [
+        {
+            "job_title": "Web Developer Freelance",
+            "company": "",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de e-commerce completo con ReactJS y NodeJS, landing pages y sistemas de stock.",
+                "Integración de pasarela de pagos con MercadoPago, incluyendo validaciones, confirmación de compra y manejo de errores.",
+                "Implementación de carrito de compras, manejo de stock y panel de administración.",
+                "Diseño responsive orientado a mejorar la experiencia de usuario (UX).",
+                "Gestión directa con el cliente, toma de requerimientos, diseño de roadmap y entrega iterativa.",
+                "Mantenimiento continuo y soporte post-lanzamiento."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas",
+            "institution": "UTN Facultad Regional La Plata",
+            "location": "La Plata",
+            "start_date": "2020-04-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript",
+                "reactjs",
+                "reactnative",
+                "nodejs",
+                "php",
+                "python",
+                "java",
+                "sql",
+                "mongodb"
+            ],
+            "soft": [
+                "autonomía",
+                "proactividad",
+                "comunicación",
+                "enfoque-al-usuario",
+                "trabajo-en-equipo",
+                "resolución-de-problemas"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Web Development",
+            "issuing_organization": "Oracle ONE & Alura LATAM",
+            "issue_date": "2022-02-01",
+            "expiration_date": "2022-08-31",
+            "credential_id": ""
+        },
+        {
+            "name": "JavaScript",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2022-10-01",
+            "expiration_date": "2022-12-31",
+            "credential_id": ""
+        },
+        {
+            "name": "ReactJS",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2023-01-01",
+            "expiration_date": "2023-03-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Certified Tech Developer (CTD)",
+            "issuing_organization": "Digital House from MELI & Globant",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "C1"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,186 @@
+{
+    "personal_info": {
+        "first_name": "Nilo",
+        "last_name": "Echezarreta",
+        "email": "nilo.echezarreta@gmail.com",
+        "phone": "358-418-6963",
+        "location": {
+            "country": "Argentina",
+            "city": "Río Cuarto",
+            "state": "Córdoba"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Fullstack con experiencia en el diseño, desarrollo e implementación de aplicaciones web escalables, especializado en Node.js, React y AWS. Destaco por mi capacidad para optimizar procesos y traducir necesidades de negocio en soluciones técnicas eficientes. Mi enfoque se centra en la innovación, la resolución de problemas y la entrega de proyectos de alto rendimiento con foco en la mejora continua y metodología agil."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "Brace Developers",
+            "location": "Remote",
+            "start_date": "2023-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web para importantes empresas de Colombia.",
+                "Participo activamente desde la obtención de clientes hasta la organización del equipo de desarrollo con foco en los tiempos entregables para que el proyecto sea rentable.",
+                "Conocimiento y Desarrollo integro de sistemas con Nest, Node Js, PostgreSQL para el backend, y NextJs, React, Tailwind, Figma y otras tecnologías para el FrontEnd.",
+                "Realizo la implementación en la nube especializándome en AWS.",
+                "Mantenimiento y control de las bases de datos de los proyectos de la empresa.",
+                "Mantenimiento y control de la responsividad de las webs y soporte sobre errores ocurridos en front, back, servidores y despliegues."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Freelance",
+            "location": "Remote",
+            "start_date": "2020-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Reuniones y presupuestos con clientes para entender el producto que ellos necesitan y en base a ellas planificar su solución mediante una web o sistema personalizado.",
+                "Planeación, desarrollo, configuración, backend, FrontEnd, Test, entrega de proyectos a los clientes, mantenimiento y postventas.",
+                "Implementación de medidas de seguridad informática básicas, incluyendo backups y eliminación de malware en tareas de soporte técnico."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Tesorero",
+            "company": "Banco Supervielle S.A",
+            "location": "Río Cuarto, Córdoba, Argentina",
+            "start_date": "2010-11-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño, organización y ejecución de las estrategias financieras y contables de la empresa.",
+                "Servicio comercial al cliente con objetivos medibles.",
+                "Gestión de efectivo (efectivo, cheques, cuentas contables).",
+                "Recepción y envío de efectivo para abastecer 3 sucursales en Río Cuarto y 3 en el sur de San Luis.",
+                "Control y auditorías de tarjetas de crédito, pagarés, chequeras.",
+                "Líder de un equipo de más de 10 personas, con foco en alcanzar los objetivos comerciales manteniendo buenas relaciones personales con los miembros de este."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "AWS Cloud Practitioner",
+            "institution": "",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Data Analytics",
+            "institution": "Supervielle",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo Web",
+            "institution": "Google",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Coaching Ontológico",
+            "institution": "Mundos E",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Armado y reparación de PC",
+            "institution": "",
+            "location": "",
+            "start_date": "2009-01-01",
+            "end_date": "2009-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "c#",
+                ".net",
+                "node.js",
+                "react",
+                "react-native",
+                "next",
+                "vue",
+                "express",
+                "angular",
+                "nest",
+                "aws",
+                "swagger",
+                "postgress",
+                "mysql",
+                "mongodb",
+                "windows",
+                "linux",
+                "paquete-office"
+            ],
+            "soft": [
+                "mejora-continua",
+                "resolución-de-problemas",
+                "trabajo-en-equipo",
+                "comunicación",
+                "adaptación"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Maestria Cervecera",
+            "description": "Diseño y desarrollo tanto backend como frontend de una aplicación para autogestión de una cervecería en Colombia.",
+            "technologies": ["NextJs", "Nest", "Tailwind", "Figma", "Swagger", "JWT", "AWS S3", "NodeMailer"],
+            "url": ""
+        },
+        {
+            "name": "Proxum",
+            "description": "Desarrolle tanto backend como FrontEnd de una aplicación de venta y gestión para la distribución de distintas pruebas rápidas de laboratorio.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Proficient"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Programador Web Voluntariado",
+            "organization": "SAIA",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-10-31",
+            "responsibilities": [
+                "Migré por completo la página, de QwickJs a React.",
+                "Colaboré a crear un equipo de 4 desarrolladores para el mantenimiento y mejora de la web."
+            ]
+        }
+    ],
+    "publications": [],
+    "references": []
+}

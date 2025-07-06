@@ -1,0 +1,192 @@
+{
+    "personal_info": {
+        "first_name": "Javier",
+        "last_name": "Gonzalez",
+        "email": "javiergonzalezp23@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Más de 3 años de experiencia como Desarrollador de Software, apasionado con una sólida experiencia en programación y diseño web, y posee sólidas habilidades de desarrollo front-end. Experiencia en tecnologías como JavaScript, React y Vue. Capacitado para trabajar de forma independiente con un enfoque meticuloso, dedicado a mantenerse actualizado y aprender continuamente."
+    },
+    "work_experience": [
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Desafío Latam",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé aplicaciones web fullstack utilizando tecnologías como React, Vue.js, Node.js y TypeScript.",
+                "Implementé interfaces responsivas y dinámicas con HTML, CSS y Material UI, y desarrollé APIs RESTful conectadas a bases de datos como MongoDB, PostgreSQL y SQLite.",
+                "Utilicé Node.js junto con Express y Axios para gestionar solicitudes HTTP y optimizar la comunicación entre el frontend y el backend.",
+                "Optimicé el rendimiento del frontend y backend, integré autenticación con JWT y lideré la implementación de funciones CRUD.",
+                "Proporcioné soporte técnico, resolví problemas de código y colaboré en proyectos educativos, creando material didáctico y guiando a estudiantes en el desarrollo de habilidades prácticas para el desarrollo web."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Smart Latam SpA",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé interfaces de usuario responsivas y dinámicas utilizando tecnologías como React, Vue.js, HTML, CSS, JavaScript y TypeScript.",
+                "Implementé componentes reutilizables con Material UI y optimicé el rendimiento del frontend para mejorar la experiencia del usuario.",
+                "Colaboré en la creación de material didáctico, guiando a estudiantes en el aprendizaje de desarrollo web frontend, resolviendo problemas técnicos y brindando soporte en la implementación de proyectos prácticos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "WallTrip",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé e implementé interfaces de usuario interactivas y optimizadas utilizando React y TypeScript.",
+                "Creé componentes reutilizables y responsivos con Material UI, mejorando la experiencia del usuario y el rendimiento de la aplicación.",
+                "Colaboré estrechamente con el equipo de diseño y backend para garantizar la integración fluida de funcionalidades, aplicando mejores prácticas en desarrollo frontend.",
+                "Optimicé el código para mejorar la velocidad de carga y mantuve actualizada la documentación del proyecto."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Proyectos Freelance",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "He diseñado y desarrollado aplicaciones web responsivas y personalizadas para clientes utilizando React, Vue.js, HTML, CSS, JavaScript y TypeScript.",
+                "Implementé sistemas CRUD, bases de datos como MongoDB y SQLite, y autenticación segura con JWT.",
+                "Creé y optimicé sitios web en WordPress, aplicando estrategias de SEO y mejorando la capacidad de respuesta móvil.",
+                "Trabajé en proyectos de diseño centrado en el usuario (UX) utilizando herramientas como Figma y aplicando metodologías de investigación para mejorar la experiencia del usuario.",
+                "Proporcioné soporte técnico, asesoría en diseño UI/UX y mantenimiento continuo, adaptando cada proyecto a las necesidades específicas del cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "java",
+                "vuejs",
+                "nextjs",
+                "nestjs",
+                "express",
+                "tailwindcss",
+                "springboot",
+                "hibernate",
+                "mysql",
+                "postgresql",
+                "mongodb",
+                "docker"
+            ],
+            "soft": [],
+            "tools": [
+                "scrum",
+                "git",
+                "github-actions"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "UX Design Professional Certificate",
+            "issuing_organization": "Google",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Node JS (MVC, REST APIs, GRAPHQL)",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Bases de Datos Relacionales SQL",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Amazon AWS Cloud Practitioner",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo y Maquetación Web Javascript & React JS",
+            "issuing_organization": "CoderHouse",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificación en Java",
+            "issuing_organization": "ATL Academy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        },
+        {
+            "language": "Português",
+            "proficiency": "Fluido"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Wilson Savage",
+            "relationship": "",
+            "contact": ""
+        },
+        {
+            "name": "Giovanni Molina",
+            "relationship": "",
+            "contact": ""
+        },
+        {
+            "name": "José Torres",
+            "relationship": "",
+            "contact": ""
+        }
+    ]
+}

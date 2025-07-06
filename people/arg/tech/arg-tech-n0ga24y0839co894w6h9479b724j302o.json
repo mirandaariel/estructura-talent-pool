@@ -1,0 +1,118 @@
+{
+    "personal_info": {
+        "first_name": "",
+        "last_name": "",
+        "email": "zequielcoria@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Técnico Universitario en Programación con formación FullStack orientado al Back-End. Experiencia en análisis funcional, obtención de requisitos y diseño, implementación de APIs RESTful, uso de patrones de diseño, y manejo de esquemas relacionales. Experiencia en trabajo con equipos ágiles y tradicionales."
+    },
+    "work_experience": [
+        {
+            "job_title": "Back-End Developer",
+            "company": "\"UniGym\" y \"UniversalSport\"",
+            "location": "",
+            "start_date": "2024-12-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y desarrollé las APIs Restful utilizando .NET y Entity Framework.",
+                "Integré documentación interactiva con Swagger.",
+                "Implementé sistemas de autenticación y autorización con JWT y gestión de roles.",
+                "Desarrollé un sistema de reservas de turnos.",
+                "Estructuré un flujo de eCommerce, gestionando productos, carrito de compras, órdenes y pagos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "New Stars Music App",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboré en el armado del prototipo y planificación de funcionalidades.",
+                "Diseñé y estructuré el modelo de datos relacional.",
+                "Contribuí con la implementación de un Hook personalizado y contexto global del carrito.",
+                "Implementé funcionalidades específicas para la gestión de productos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "U.T.N. Rosario",
+            "location": "Rosario",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "Colegio Salesiano San José № 8013",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "Instituto de idiomas Aricana",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                ".net",
+                "entityframeworkcore",
+                "aspnetcore",
+                "authentication.jwtbearer",
+                "auth0",
+                "automapper",
+                "mvc.newtonsoftjson",
+                "identitymodel.tokens",
+                "pomelo.entityframeworkcore.mysql",
+                "react",
+                "node",
+                "vite",
+                "axios",
+                "auth0-react",
+                "material-tailwind",
+                "tailwindcss"
+            ],
+            "soft": [
+                "communication",
+                "teamwork",
+                "problem-solving"
+            ],
+            "tools": [
+                "swagger"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

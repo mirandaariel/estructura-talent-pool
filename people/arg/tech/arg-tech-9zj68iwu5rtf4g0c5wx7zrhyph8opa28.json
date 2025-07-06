@@ -1,0 +1,137 @@
+{
+    "personal_info": {
+        "first_name": "Gonzalo",
+        "last_name": "Firpi Padro",
+        "email": "gonzalofirpi@gmail.com",
+        "phone": "+54 351 6501583",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "I am a technology enthusiast with a strong passion for continuous learning and improvement. My education and curiosity have led me to gain knowledge across various fields, with strengths in agile methodologies, systems analysis, software development, artificial intelligence, networking, and more. I have experience in mobile development with React Native, which I applied while working in a university research lab and during the development of my final thesis project. I also have professional experience in web development using React and Python, and academic experience with Spring Boot, .NET, and Angular. Currently, I am working on artificial intelligence and computer vision projects focused on industrial automation. I am actively seeking new opportunities that will allow me to grow both personally and professionally."
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Engineer",
+            "company": "MAP S.A.",
+            "location": "",
+            "start_date": "2025-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Fullstack development + Machine Learning with Next.js, FastAPI.",
+                "IoT + Computer Vision using Raspberry Pi."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Engineer Intern",
+            "company": "MAP S.A.",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Data analysis using Power BI.",
+                "Data scripting with Python."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "DIGPATHO",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Digital image processing with Python.",
+                "Web development with React."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Mobile Developer Intern",
+            "company": "CINTRA, CONICET - UTN",
+            "location": "",
+            "start_date": "2023-05-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Mobile application design and development using React Native.",
+                "Low-level audio capture and signal processing."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Information Systems Engineering",
+            "institution": "Universidad Tecnológica Nacional – Facultad Regional Córdoba",
+            "location": "Córdoba, Argentina",
+            "start_date": "2020-03-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "High School Diploma",
+            "institution": "Colegio Nacional de Monserrat",
+            "location": "",
+            "start_date": "2013-03-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "c#",
+                "angular",
+                "java",
+                "react",
+                "python",
+                "react-native",
+                "sql"
+            ],
+            "soft": [
+                "strong-teamwork-skills-and-effective-interpersonal-communication",
+                "creative-approach-to-complex-problem-solving",
+                "proactive-attitude-and-strong-initiative",
+                "solid-analytical-skills",
+                "fast-learner",
+                "efficient-time-management"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Advanced"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

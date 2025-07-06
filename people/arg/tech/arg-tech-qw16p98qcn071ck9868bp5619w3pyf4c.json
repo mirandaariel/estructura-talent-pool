@@ -1,0 +1,55 @@
+{
+    "personal_info": {
+        "first_name": "Julian",
+        "last_name": "Alvarez",
+        "email": "alvarezjuli30@gmail.com",
+        "phone": "11 2330-0065",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/julian-alvarez-285882249/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante avanzado de programación con conocimientos sólidos en desarrollo web, estructuras de datos y POO. Apasionado por la tecnología y el aprendizaje constante, busco aplicar mis habilidades en proyectos con HTML, CSS, JavaScript y React. Cuento con una base fuerte en lógica y fundamentos que me permite incorporar nuevas tecnologías rápidamente."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Técnico Universitario en Programación",
+            "institution": "Universidad Nacional De Hurlingham",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["html", "css", "javascript", "react", "tailwind-css", "typescript", "node.js", "express", "python", "mysql", "mongodb", "git", "github", "docker"],
+            "soft": ["comunicación-efectiva-y-trabajo-en-equipo", "escucha-activa", "aprendizaje-autónomo-y-adaptación-al-cambio", "organización-y-responsabilidad-académica-y-personal"],
+            "tools": ["figma", "microsoft-office"]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Gym control",
+            "description": "Creación de rutinas de gym",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Splitify",
+            "description": "Calculadora de gastos",
+            "technologies": ["react", "typescript"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

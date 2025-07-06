@@ -1,0 +1,103 @@
+{
+  "personal_info": {
+    "first_name": "Juan",
+    "last_name": "Cruz Urban",
+    "email": "urbanjuancruz@gmail.com",
+    "phone": "+54 2284-571438",
+    "location": {
+      "country": "",
+      "city": "",
+      "state": ""
+    },
+    "linkedin": "Juan Cruz urban",
+    "website": "urbanjuancruz.com",
+    "portfolio": "",
+    "summary": "Desarrollador Full Stack con experiencia en React, Node.js y bases de datos SQL. Enfocado en crear aplicaciones eficientes, seguras y centradas en el usuario. Busco desafíos que me permitan crecer profesionalmente y aportar soluciones de valor."
+  },
+  "work_experience": [],
+  "education": [
+    {
+      "degree": "Programacion fullstack",
+      "institution": "Academia For It",
+      "location": "",
+      "start_date": "2025-05-01",
+      "end_date": "2025-08-31",
+      "hours": 0
+    },
+    {
+      "degree": "Programación Full Stack",
+      "institution": "CEPIT",
+      "location": "",
+      "start_date": "2024-03-01",
+      "end_date": "2024-11-30",
+      "hours": 0
+    },
+    {
+      "degree": "Programación Full Stack",
+      "institution": "Egg Cooperation",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "javascript",
+        "react",
+        "typescript",
+        "next.js",
+        "html",
+        "css",
+        "bootstrap",
+        "tailwind",
+        "node.js",
+        "express",
+        "php",
+        "laravel",
+        "c#",
+        "sql",
+        "no-sql"
+      ],
+      "soft": [],
+      "tools": [
+        "github",
+        "webhooks",
+        "apis-rest",
+        "jwt",
+        "vitest",
+        "docker"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "ComponentLab",
+      "description": "Plataforma web para visualizar, testear y gestionar los distintos estados de componentes de React. Permite crear, cargar y descargar estructuras JSX y CSS asociadas, facilitando el diseño y documentación de interfaces reutilizables.",
+      "technologies": ["javascript", "react", "react-bootstrap"],
+      "url": ""
+    },
+    {
+      "name": "Recetapp",
+      "description": "Aplicación web que genera recetas de cocina a partir de ingredientes seleccionados por el usuario, utilizando IA (Gemini API). Incluye registro y login con autenticación segura mediante JWT, verificación por email, y opción para guardar y compartir recetas desde el perfil.",
+      "technologies": ["javascript", "react", "node.js", "sqlite"],
+      "url": ""
+    },
+    {
+      "name": "Federación Ajedrez Olavarría (FAO)",
+      "description": "Diseño y desarrollo fullstack del sitio web de la federación. Incluye sistema de gestión de noticias, eventos, calendario, jugadores y partidas.",
+      "technologies": ["javascript", "react", "node.js", "sqlite", "react-query", "cloudinary", "backblaze"],
+      "url": ""
+    }
+  ],
+  "languages": [],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

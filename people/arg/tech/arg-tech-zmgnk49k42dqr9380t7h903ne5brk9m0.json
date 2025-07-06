@@ -1,0 +1,122 @@
+{
+    "personal_info": {
+        "first_name": "Diego Exequiel",
+        "last_name": "Britos",
+        "email": "dbriitos16@gmail.com",
+        "phone": "+543704605163",
+        "location": {
+            "country": "Argentina",
+            "city": "Formosa",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/diegobritos16",
+        "website": "",
+        "portfolio": "https://github.com/DBritos16",
+        "summary": "Tengo 20 años, soy una persona con actitud proactiva y una fuerte voluntad de aprender. Mi enfoque comprometido y mi disposición para enfrentar nuevos desafíos me convierten en un candidato motivado, listo para contribuir y crecer en cualquier entorno de desarrollo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Instituto Politécnico Formosa",
+            "location": "Formosa",
+            "start_date": "2024-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Formo parte de un equipo de investigación en el cual estamos desarrollando un proyecto privado con inteligencia artificial.",
+                "Cumplo el rol de desarrollador frontend utilizando Nextjs con TypeScript."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Profesor de Programación",
+            "company": "Instituto Politécnico Formosa",
+            "location": "Formosa",
+            "start_date": "2024-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Junto a otros 4 profesores, actualmente estamos dictando clases en primer año sobre HTML, CSS, JavaScript, Bootstrap, Node, Express.",
+                "Iniciando a los alumnos en el mundo de la programación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Profesor de Python",
+            "company": "Instituto Politécnico Formosa",
+            "location": "Formosa",
+            "start_date": "2024-03-01",
+            "end_date": "2024-07-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Formo parte de un grupo de profesores, en este caso mi rol es de ayudante.",
+                "En segundo año, se desarrolla una introducción intensiva a Data Science utilizando Python."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Superior en Desarrollo de Software Multiplataforma",
+            "institution": "Instituto Politécnico Formosa",
+            "location": "Formosa",
+            "start_date": "2022-03-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "bootstrap",
+                "javascript",
+                "react",
+                "react-native",
+                "nextjs",
+                "nodejs",
+                "typescript",
+                "nestjs",
+                "express",
+                "python",
+                "postgresql",
+                "mysql",
+                "mongodb"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "scrum",
+                "jira",
+                "ciencia-de-datos"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "InformAR",
+            "description": "Fue un proyecto realizado con el objetivo de solucionar la carencia de información sobre las ofertas académicas en la provincia que contaba con un apartado publico y uno administrativo para las instituciones.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "SIGAF",
+            "description": "Ganador a mejor proyecto del año. SIGAF es un Sistema de Gestión Agropecuario Formoseño desarrollado con el fin de ayudar a los agricultores de la provincia y de todo el país con la trazabilidad de los cultivos.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

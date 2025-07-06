@@ -1,0 +1,159 @@
+{
+  "personal_info": {
+    "first_name": "Rohith",
+    "last_name": "Kodipaka",
+    "email": "rkodipak@gmail.com",
+    "phone": "(806) 853-7478",
+    "location": {
+      "country": "",
+      "city": "",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/rohithkodipaka/",
+    "website": "",
+    "portfolio": "",
+    "summary": "Over 4 years of experience designing, developing, maintaining, and supporting Java Full Stack enterprise applications, covering the full SDLC activities including requirements analysis, architecture design, implementation, code reviews, unit testing, integration testing, and production deployments. Experience in full-stack development, working with modern front-end frameworks like React.js and Angular, and building dynamic, responsive web applications using HTML5, CSS3, Tailwind CSS or Material-UI, JavaScript (ES6+), Bootstrap, and jQuery. Expertise in Spring Framework (Spring Boot, Spring MVC, Spring Security, Spring Cloud, and Hibernate/JPA) for building RESTful APIs, microservices, and event-driven applications."
+  },
+  "work_experience": [
+    {
+      "job_title": "Java Full Stack Developer",
+      "company": "Square Trade",
+      "location": "San Francisco, CA",
+      "start_date": "2023-10-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Implemented Agile (Scrum) Methodology, conducting daily scrum meetings, sprint planning, Test-Driven Development (TDD) practices.",
+        "Developed Spring Boot-based Microservices interacting through a combination of REST APIs to build, test, and deploy identity Microservices. Utilized the Action Support to integrate Struts and Spring components.",
+        "Designed and developed SPAs using Angular 16+ with TypeScript and React.js, along with HTML5, CSS3, and Angular Material for responsive UI.",
+        "Managed cloud-based solutions on Azure, utilizing Terraform for infrastructure provisioning and orchestrated services across Azure Virtual Machines and Virtual Networks to achieve optimal scalability and security.",
+        "Implemented secure authentication and authorization mechanisms using OAuth 2.0, JWT, Spring Security, and Keycloak to protect application endpoints."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Java Full Stack Developer",
+      "company": "Open Text Technologies",
+      "location": "India",
+      "start_date": "2022-04-01",
+      "end_date": "2023-08-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Designed and developed scalable, high-performance applications using Java 11, and scripting languages like Python and JavaScript.",
+        "Utilized modern UI frameworks and libraries such as React.js, Redux, TypeScript, and Tailwind CSS to create dynamic, responsive, and interactive user interfaces.",
+        "Managed Agile workflows in JIRA, including sprint planning, backlog grooming, and bug triage.",
+        "Deployed and managed applications on AWS, Azure, and Google Cloud, utilizing cloud-native services."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Java Developer",
+      "company": "Apalya Technologies Pvt Ltd",
+      "location": "India",
+      "start_date": "2021-07-01",
+      "end_date": "2022-03-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Involved in SDLC requirements gathering, analysis, design, development, and testing of applications developed using Agile methodology.",
+        "Designed and Developed multi-tier applications using Java, Servlets, JSP, JSF, XML, REST, SOAP, JNDI, JDBC, Web Services, Spring and Spring boot Framework.",
+        "Managed and optimized Azure SQL Databases for backend Java applications, ensuring high availability and performance.",
+        "Involved in Unit testing and System testing of the application, developed test cases, and performed unit testing using JUnit."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science in Computer Science",
+      "institution": "Texas Tech University",
+      "location": "Lubbock, Texas",
+      "start_date": "2023-08-01",
+      "end_date": "",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "java",
+        "j2ee",
+        "sql",
+        "pl/sql",
+        "nosql",
+        "react.js",
+        "angular16+typescript",
+        "tailwind-css",
+        "redux-toolkit",
+        "spring-boot",
+        "spring-security",
+        "spring-batch",
+        "junit",
+        "groovy",
+        "grails",
+        "spring-cloud",
+        "postgresql",
+        "mysql",
+        "db2",
+        "oracle",
+        "mongodb",
+        "cassandra",
+        "couch-db",
+        "dynamodb",
+        "docker",
+        "kubernetes",
+        "jenkins",
+        "maven",
+        "gradle",
+        "sonarqube",
+        "aws",
+        "azure",
+        "gcp",
+        "terraform",
+        "pulumi",
+        "ansible",
+        "graphql"
+      ],
+      "soft": [
+        "agile",
+        "scrum",
+        "project-management"
+      ],
+      "tools": [
+        "jira",
+        "confluence",
+        "git",
+        "svn",
+        "eclipse",
+        "net-beans",
+        "intellij-ide",
+        "visual-studio",
+        "postman"
+      ]
+    },
+    "detailed": {}
+  },
+  "certifications": [
+    {
+      "name": "AWS Certified Developer – Associate",
+      "issuing_organization": "",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Oracle Certified Java Programmer (OCJP)",
+      "issuing_organization": "",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    }
+  ],
+  "projects": [],
+  "languages": [],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

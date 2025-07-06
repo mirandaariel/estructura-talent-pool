@@ -1,0 +1,129 @@
+{
+    "personal_info": {
+        "first_name": "Santiago Ariel",
+        "last_name": "Villanueva",
+        "email": "santiagovillanuevaariel@gmail.com",
+        "phone": "+44 2202 52-9223",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "https://santiagoarielv98.vercel.app",
+        "portfolio": "",
+        "summary": "Desarrollador Front-End con experiencia en la creación de interfaces de usuario dinámicas, atractivas y accesibles, usando tecnologías como React, TypeScript y Angular. Apasionado por el diseño responsivo y la experiencia del usuario, he optimizado funcionalidades que incrementaron la eficiencia y la satisfacción del usuario final. Experto en la integración de API RESTful y GraphQL, así como en el uso de herramientas modernas de diseño y desarrollo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Front-end",
+            "company": "Waco Digital Hub",
+            "location": "Cali, Colombia (Remoto)",
+            "start_date": "2023-10-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementé funcionalidades avanzadas con React y Firebase, mejorando la experiencia del usuario en un 25%.",
+                "Mejoré la accesibilidad internacional mediante la integración de React i18n para soportar múltiples idiomas.",
+                "Diseñé componentes reutilizables y escalables utilizando TypeScript y Material UI, optimizando tiempos de desarrollo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Front-end",
+            "company": "Waco Digital Hub",
+            "location": "Cali, Colombia (Remoto)",
+            "start_date": "2022-01-01",
+            "end_date": "2022-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé interfaces de usuario interactivas con React.js, asegurando diseños responsivos y funcionales.",
+                "Implementé sistemas de gestión de estado utilizando Redux y Context para mejorar la experiencia del usuario.",
+                "Colaboré con diseñadores para crear interfaces consistentes y atractivas utilizando Sass y Figma.",
+                "Implementé diseños responsivos y coherentes usando Material UI, Icons y SASS."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en desarrollo de software",
+            "institution": "Centro Regional Universitario de Ituzaingó",
+            "location": "Ituzaingó, Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "js",
+                "react",
+                "redux",
+                "typescript",
+                "bootstrap",
+                "nextjs",
+                "angular",
+                "nestjs",
+                "laravel",
+                "mysql",
+                "postgresql",
+                "mongodb"
+            ],
+            "soft": [
+                "diseño-centrado-en-el-usuario",
+                "resolución-de-problemas",
+                "colaboración-efectiva"
+            ],
+            "tools": [
+                "figma",
+                "vercel",
+                "firebase",
+                "git",
+                "github-action",
+                "aws"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Angular: De cero a experto",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Spring Framework 6 & Spring Boot 3 desde cero a experto",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "MiMap",
+            "description": "Mapa interactivo de locales y servicios en Ituzaingó, desarrollado con Laravel, React y MySQL.",
+            "technologies": [
+                "Laravel",
+                "React",
+                "MySQL"
+            ],
+            "url": "https://mimap.sharktech.com.ar"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

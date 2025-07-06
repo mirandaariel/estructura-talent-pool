@@ -1,0 +1,175 @@
+{
+    "personal_info": {
+        "first_name": "Fabio Andrés",
+        "last_name": "Estevez Herrera",
+        "email": "fabioaeh96@gmail.com",
+        "phone": "+57 3193517345",
+        "location": {
+            "country": "Colombia",
+            "city": "Floridablanca",
+            "state": "Santander"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full Stack Developer con formación en Diseño Web e Informática, y más de 2 años de experiencia en desarrollo de aplicaciones web y móviles. Me destaco por aprender rápidamente nuevas tecnologías y por colaborar eficazmente en equipos multidisciplinarios. He participado en proyectos exitosos que involucraron tecnologías clave, como React, Node.js, TypeScript, etc, aportando soluciones funcionales y escalables."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Front End",
+            "company": "Sira Agency",
+            "location": "Argentina",
+            "start_date": "2024-10-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Implementación y desarrollo de proyectos web.",
+                "Creación de sitios web responsive, adaptación de diseños, optimización de recursos multimedia.",
+                "Mejora del rendimiento SEO y la implementación de soluciones interactivas utilizando tecnologías como Next.js, Tailwind CSS, TypeScript y Node.js."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Front End",
+            "company": "Importaciones Printec",
+            "location": "Perú",
+            "start_date": "2023-05-01",
+            "end_date": "2024-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una aplicación móvil para sistematizar la operación de la empresa.",
+                "Diseño y maquetación de toda la estructura del cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Front End",
+            "company": "Blacklab Agency",
+            "location": "Argentina",
+            "start_date": "2023-04-01",
+            "end_date": "2024-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo web para el Sanatorio Colegiales, gestión de banners, rutas dinámicas e internacionalización.",
+                "Optimización de imágenes y gestión de formularios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Creador de Contenido en YouTube",
+            "company": "",
+            "location": "Remote",
+            "start_date": "2019-03-01",
+            "end_date": "2019-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Administración y crecimiento de un canal de YouTube enfocado en gaming y tecnología.",
+                "Adquisición de habilidades en marketing digital, gestión de audiencia y edición de video."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Agente de Soporte Técnico",
+            "company": "Atento",
+            "location": "Bucaramanga, Colombia",
+            "start_date": "2018-02-01",
+            "end_date": "2019-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Resolver problemas relacionados con servicios de telecomunicaciones.",
+                "Manejo y escucha activa en servicio al cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 700
+        },
+        {
+            "degree": "3 años de Ingeniería de Sistemas cursados",
+            "institution": "Universidad de Investigación y Desarrollo",
+            "location": "",
+            "start_date": "2014-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react-js",
+                "javascript",
+                "typescript",
+                "css3",
+                "html5",
+                "sass",
+                "node-js",
+                "express",
+                "sql",
+                "postgresql",
+                "mongodb",
+                "redux",
+                "git",
+                "sequelize",
+                "bootstrap",
+                "firebase",
+                "figma",
+                "react-native",
+                "next-js",
+                "tailwind"
+            ],
+            "soft": [
+                "creatividad",
+                "trabajo-en-equipo",
+                "resolutivo",
+                "buena-capacidad-de-comunicacion",
+                "capacidad-analítica",
+                "gestion-de-tiempo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Creative Tools",
+            "description": "Aplicación web innovadora que proporciona una plataforma centralizada para desarrolladores y diseñadores.",
+            "technologies": ["Next.js", "TypeScript", "Next-Auth", "Tailwind", "SWR", "Context", "Ant Design", "Node.js", "Express", "JWT", "Mongoose", "MongoDB"],
+            "url": ""
+        },
+        {
+            "name": "Cava Verdot",
+            "description": "Ecommerce de bebidas desarrollado durante Henry Bootcamp.",
+            "technologies": ["React", "Redux", "CSS", "Node.js", "Express", "PostgreSQL", "Sequelize", "Firebase", "JWT"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Basic"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

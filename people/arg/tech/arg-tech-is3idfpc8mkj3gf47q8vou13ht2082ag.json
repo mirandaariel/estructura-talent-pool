@@ -1,0 +1,133 @@
+{
+    "personal_info": {
+        "first_name": "Ignacio",
+        "last_name": "Martinez",
+        "email": "ignacio.martinez.i@hotmail.com",
+        "phone": "+542613359379",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "¡Hola! Soy Ignacio Martínez, un profesional con una sólida formación en Administración de Empresas y desde hace 4 años desarrollándome como desarrollador full-stack. He liderado equipos y he adquirido grandes habilidades en tecnologías como React, Redux Toolkit, Next.js, React Native, Node.js y Ruby on Rails. Mi pasión por la programación se centra en encontrar soluciones creativas para una amplia variedad de desafíos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Vaypol",
+            "location": "Argentina",
+            "start_date": "2022-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Sistema de generador de sitios web enlatado para personalizar tiendas en línea.",
+                "Mantenimiento general de la aplicación.",
+                "Desarrollé un servicio de gestión de contenido audiovisual para e-commerce.",
+                "Sistema de gestión para E-commerce desde donde se administran las órdenes de compra.",
+                "Lideré el equipo de frontend integrado por dos desarrolladores juniors.",
+                "Encargado de la integración de pasarela de pago MODO payway.",
+                "Desarrollé la ruta lógica del checkout dependiendo del perfil del cliente.",
+                "Encargado del sistema automatizado de mailing de marketing y carrito abandonado.",
+                "Aplicación mobile RetailVa para controlar el estado de los pedidos despachados.",
+                "Desarrollé un sistema de verificación de status de pedidos para encargados de las sucursales.",
+                "Desarrollé un sistema de trackeo para pedidos con envío a domicilio.",
+                "Implementé Google API para crear rutas optimizadas.",
+                "Transformación de una landingPage a un ecommerce."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Trading Bot Developer",
+            "company": "Ctrader",
+            "location": "Mexico",
+            "start_date": "2021-02-01",
+            "end_date": "2022-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y desarrollé robots de trading personalizados.",
+                "Implementé estrategias de trading algorítmico.",
+                "Optimicé las condicionales de ejecución de los robots."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Administración de Empresas",
+            "institution": "Universidad Tecnológica de México",
+            "location": "",
+            "start_date": "2007-01-01",
+            "end_date": "2007-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Web Full-stack",
+            "institution": "Henry Academy",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react",
+                "react-native",
+                "typescript",
+                "nextjs",
+                "node.js",
+                "expressjs",
+                "ruby",
+                "ror",
+                "postgresql",
+                "c++",
+                "c#"
+            ],
+            "soft": [
+                "pensamiento-analítico",
+                "resolución-de-conflictos",
+                "liderazgo",
+                "manejo-de-equipo",
+                "planeación-estratégica",
+                "empatía",
+                "manejo-del-estrés",
+                "enfoque-a-resultados",
+                "tolerancia-a-la-frustración",
+                "pensamiento-lateral"
+            ],
+            "tools": [
+                "scrum",
+                "slack",
+                "figma",
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "C2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,187 @@
+{
+    "personal_info": {
+        "first_name": "Matias Joel",
+        "last_name": "Torres",
+        "email": "matias.jtor@gmail.com",
+        "phone": "+54 9 1124738753",
+        "location": {
+            "country": "Argentina",
+            "city": "San Rafael",
+            "state": "Mendoza"
+        },
+        "linkedin": "https://linkedin.com/in/matiasjtorres/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con background en creación de aplicaciones web escalables utilizando JavaScript, TypeScript, Node.Js, React y bases de datos SQL/NoSQL. Habilidades en metodologías ágiles, control de versiones con Git, y trabajo en equipo. Experiencia en liderazgo de equipos a través de voluntariado y enseñanza efectiva."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "Rombux",
+            "location": "",
+            "start_date": "2025-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de servicios backend con TypeScript, aplicando Clean Architecture y un enfoque de microservicios en monolito modular.",
+                "Implementación de una capa Backend For Frontend (BFF).",
+                "Modelado y gestión de base de datos en AWS (RDS).",
+                "Participación activa en decisiones técnicas, aplicando buenas prácticas y principios SOLID."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Profesor de Música Freelance",
+            "company": "",
+            "location": "",
+            "start_date": "2021-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Clases online personalizadas, adaptadas al nivel y objetivos de cada alumno.",
+                "Planificación y análisis de contenidos, desarrollando pensamiento crítico y organización.",
+                "Estrategias de marketing para ampliar la red de alumnos, fortaleciendo habilidades comunicativas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Teaching Assistant",
+            "company": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Coordinar a un grupo de estudiantes para lograr la integración al equipo de estudio.",
+                "Asistir a la resolución de ejercicios con TypeScript, NestJs y NodeJs, y promover la colaboración grupal (Pair Programming)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Auxiliar de Biblioteca",
+            "company": "Instituto Bíblico Río de La Plata",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2021-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Recepción y manejo de entrada y salida de libros. Encargado de sector fotocopias e impresiones.",
+                "Atención al público."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas de Información",
+            "institution": "UTN",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "2025-04-30",
+            "hours": 0
+        },
+        {
+            "degree": "Bachillerato en Teología con Especialización en Educación Cristiana",
+            "institution": "IBRP",
+            "location": "",
+            "start_date": "2018-09-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "python",
+                "c++",
+                "c",
+                "java",
+                "react",
+                "redux",
+                "next",
+                "nest",
+                "node",
+                "express",
+                "context",
+                "auth0",
+                "socket",
+                "cron",
+                "sequelize",
+                "postgresql",
+                "typeorm",
+                "mongo",
+                "atlas"
+            ],
+            "soft": [
+                "teamwork",
+                "problem-solving",
+                "leadership",
+                "delegation",
+                "conflict-resolution"
+            ],
+            "tools": [
+                "git",
+                "jira",
+                "trello",
+                "slack",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "GeStocker",
+            "description": "Aplicación web de gestión de inventario para PYMEs.",
+            "technologies": ["typescript", "next.js", "sockets", "nestjs", "postgresql", "typeorm"],
+            "url": "https://github.com/MatiasJoelTorres/GeStocker-Back"
+        },
+        {
+            "name": "Proyecto Integrador - Backend de E-commerce",
+            "description": "E-commerce con autenticación, carrito de compras y opciones de gestionar productos.",
+            "technologies": ["nestjs", "auth0", "swagger", "typescript", "postgresql", "typeorm"],
+            "url": "https://github.com/pi-rym/PM4BE-MatiasJoelTorres"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "C1 Advanced"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Coordinador Musical",
+            "organization": "Asociación Civil Vida y Paz (VYP)",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2025-01-31",
+            "responsibilities": [
+                "Coordinación de 60 músicos distribuidos en 6 equipos.",
+                "Gestión de liderazgo, delegación de tareas, toma de decisiones estratégicas.",
+                "Soporte técnico y emocional al equipo, promoviendo el bienestar grupal."
+            ]
+        }
+    ],
+    "publications": [],
+    "references": []
+}

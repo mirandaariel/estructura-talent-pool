@@ -1,0 +1,142 @@
+{
+    "personal_info": {
+        "first_name": "Pilar",
+        "last_name": "Falcone",
+        "email": "pilarfelicitasfalcone@gmail.com",
+        "phone": "+54 221 5063030",
+        "location": {
+            "country": "Argentina",
+            "city": "La Plata",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "https://github.com/Pilar-Code",
+        "portfolio": "",
+        "summary": "Soy una desarrolladora web Front-End apasionada y comprometida con el aprendizaje constante de nuevas tecnologías y lenguajes de programación. Con una sólida ética de trabajo en equipo y colaboración, me esfuerzo por enfrentar desafíos diarios con creatividad. Mi objetivo es integrarme a un equipo dinámico donde pueda aplicar y expandir mis habilidades, contribuyendo al crecimiento del proyecto mientras sigo aprendiendo y desarrollándome profesionalmente."
+    },
+    "work_experience": [
+        {
+            "job_title": "Programadora Freelance",
+            "company": "Freelance",
+            "location": "Remote",
+            "start_date": "2024-07-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Programación y creación de sitio web."
+            ],
+            "achievements": [
+                "Desarrollo de sitio web para casasasesores."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Programadora Front-End",
+            "company": "PL4NNER",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "2024-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de la App PL4NNER.",
+                "Maquetadora y Web Developer - Desarrollo completo de página.",
+                "Desarrolladora Web - Desarrollo de landing."
+            ],
+            "achievements": [
+                "https://app.pl4nner.com/",
+                "https://accounts.pl4nner.com/",
+                "https://pl4nner.com/"
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Carrera de Desarrollo Frontend React",
+            "institution": "Coderhouse",
+            "location": "Remote",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso Diseño UX/UI",
+            "institution": "Talento Tech",
+            "location": "Remote",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "sass",
+                "pug",
+                "javascript",
+                "git",
+                "github",
+                "react-native",
+                "react.js",
+                "node.js",
+                "typescript",
+                "json",
+                "localstorage",
+                "bootstrap",
+                "figma",
+                "xampp",
+                "mysql",
+                "php",
+                "yarn"
+            ],
+            "soft": [
+                "aprendizaje-continuo",
+                "comunicación",
+                "investigación",
+                "manejo-de-crisis",
+                "trato-con-personal"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Landing page",
+            "description": "Desarrollo de una landing page.",
+            "technologies": [],
+            "url": "https://pilar-code.github.io/bioLogica/"
+        },
+        {
+            "name": "Juego didáctico",
+            "description": "Desarrollo de un juego didáctico.",
+            "technologies": [],
+            "url": "https://pilar-code.github.io/Memory/"
+        },
+        {
+            "name": "Landing informativa",
+            "description": "Desarrollo de una landing informativa.",
+            "technologies": [],
+            "url": "https://pilar-code.github.io/CafeteriaProyecto.-Pagina-web/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico (A2)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

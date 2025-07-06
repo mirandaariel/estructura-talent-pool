@@ -1,0 +1,86 @@
+{
+    "personal_info": {
+        "first_name": "Edu Walter",
+        "last_name": "Armas Aliaga",
+        "email": "edu_armas11@hotmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Apasionado Frontend Developer con experiencia en el desarrollo de aplicaciones web interactivas y responsivas. Completé una formación en desarrollo Full Stack en Coderhouse, donde adquirí habilidades en front-end y back-end, bases de datos y creación de aplicaciones web completas. Independientemente desarrollé un proyecto de comercio electrónico utilizando React y Firebase."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "eCommerce Project",
+            "location": "",
+            "start_date": "2022-09-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideré el desarrollo de extremo a extremo de un sitio de comercio electrónico utilizando React para la interfaz de usuario y Firebase para el almacenamiento de datos.",
+                "Implementé un sistema de carrito de compras sin problemas utilizando React Context, lo que permitió a los usuarios agregar productos y proceder con sus compras de manera eficiente.",
+                "Diseñé el sitio con un enfoque fuerte en el diseño receptivo para garantizar una experiencia óptima del usuario en diferentes dispositivos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollo Full Stack",
+            "company": "",
+            "location": "",
+            "start_date": "2023-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Visualización de productos en tiempo real: implementó un sistema de visualización de productos en tiempo real utilizando mongoose-paginate-v2, lo que permite a los usuarios. Explore y navegue por productos de manera eficiente y fluida.",
+                "Gestión Eficiente de Datos con Mongoose: Utilicé Mongoose para definir esquemas de datos sólidos y eficientes, simplificando la gestión y manipulación de datos en la base de datos MongoDB."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Career",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2023-06-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript-(es6+)",
+                "react.js",
+                "frameworks-css",
+                "node.js",
+                "conexión-con-apis-y-servicios-web",
+                "control-de-versiones"
+            ],
+            "soft": [],
+            "tools": [
+                "git-(github)"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

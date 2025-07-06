@@ -1,0 +1,153 @@
+{
+    "personal_info": {
+        "first_name": "Ruth",
+        "last_name": "Condori",
+        "email": "ruthen.condori@gmail.com",
+        "phone": "+5492612092231",
+        "location": {
+            "country": "Argentina",
+            "city": "Mendoza",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrolladora web frontend con experiencia en proyectos académicos y freelance. Me especializo en React, TypeScript y Node.js, creando interfaces accesibles, escalables y optimizadas. Me destaco por mi capacidad de aprendizaje continuo, trabajo en equipo y pasión por crear soluciones tecnológicas funcionales y bien estructuradas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrolladora web",
+            "company": "Proyecto académico",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una API REST con Node.js, Express y Mongoose para la gestión de tareas dentro de sprints y backlogs.",
+                "Implementación de modelos de datos como Task, Backlog y Sprint.",
+                "Desarrollo del frontend utilizando React con TypeScript para visualizar, crear y administrar tareas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrolladora web",
+            "company": "Proyecto freelance",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y desarrollo de una página web institucional utilizando Astro como framework.",
+                "Estructura modular, navegación optimizada y contenido dinámico.",
+                "Enfoque en el rendimiento, la accesibilidad y el diseño responsive."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrolladora web",
+            "company": "Proyecto académico",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de una tienda en línea con funcionalidades diferenciadas para usuarios administradores y clientes.",
+                "Incluye autenticación, gestión de productos, carrito de compras y rutas protegidas.",
+                "Diseño responsive y validación de formularios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en Sistemas de Información",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "sql",
+                "html",
+                "css",
+                "java",
+                "react",
+                "astro",
+                "bootstrap",
+                "node.js",
+                "express",
+                "spring-boot",
+                "mongodb",
+                "mongoose",
+                "mysql",
+                "prisma",
+                "postgres"
+            ],
+            "soft": [
+                "comunicación-efectiva",
+                "adaptabilidad",
+                "gestión-de-tiempo",
+                "trabajo-en-equipo",
+                "aprendizaje-continuo"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "postman",
+                "docker",
+                "nodemon"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sistema de gestión de tareas y sprints",
+            "description": "Desarrollo de una API REST con Node.js, Express y Mongoose para la gestión de tareas dentro de sprints y backlogs.",
+            "technologies": ["Node.js", "Express", "MongoDB", "Mongoose", "JavaScript", "React", "TypeScript"],
+            "url": ""
+        },
+        {
+            "name": "Página web institucional para Digital Advisors",
+            "description": "Diseño y desarrollo de una página web institucional utilizando Astro, enfocada en rendimiento, accesibilidad y diseño responsive.",
+            "technologies": ["Astro", "HTML", "CSS", "JavaScript"],
+            "url": ""
+        },
+        {
+            "name": "E-commerce con panel de administración y clientes (en desarrollo)",
+            "description": "Desarrollo de una tienda en línea con funcionalidades para usuarios administradores y clientes. Incluye autenticación y rutas protegidas.",
+            "technologies": ["React", "React Router", "TypeScript", "Java Spring Boot"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B2 (intermedio)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

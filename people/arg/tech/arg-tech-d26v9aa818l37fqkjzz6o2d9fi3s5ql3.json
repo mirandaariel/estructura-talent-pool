@@ -1,0 +1,164 @@
+{
+    "personal_info": {
+        "first_name": "Pablo",
+        "last_name": "Castillo",
+        "email": "Pablosebastiancastillo@gmail.com",
+        "phone": "351-6143687",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/pabloscastillo",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "2012-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de software de embebidos (C, C++), aplicaciones de escritorio (C#) y web (Java).",
+                "Diseños de PCBs."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Encargado",
+            "company": "Neopharma",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2018-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Verificación y análisis de fallas en placas electrónicas de potencia y control.",
+                "Ensamblado de módulos para expendio automatizado de medicamentos y puesta en marcha.",
+                "Gestión de recursos."
+            ],
+            "achievements": [],
+            "repository_url": "http://neolution.com.ar/"
+        },
+        {
+            "job_title": "Analista Desarrollador",
+            "company": "Topdest",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Relevamientos de requerimientos.",
+                "Desarrollos de evolutivos y nuevas funcionalidades con C#, .NET Core, JS, SQL.",
+                "Investigación y aplicación de nuevas tecnologías."
+            ],
+            "achievements": [],
+            "repository_url": "http://www.topdest.tur.ar/"
+        },
+        {
+            "job_title": "Analista Tecnico - Product Manager",
+            "company": "Universidad Siglo 21",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Trabajo colaborativo con equipos multidisciplinarios.",
+                "Gestión de backlog.",
+                "Relevamiento, análisis y documentación de requerimientos funcionales.",
+                "Testing manual.",
+                "Integraciones.",
+                "Reporteria con Power BI y PL/SQL."
+            ],
+            "achievements": [],
+            "repository_url": "https://21.edu.ar/"
+        },
+        {
+            "job_title": "Analista Desarrollador",
+            "company": "Dicsys - Claro",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño, implementación y mantenimiento de bots conversacionales.",
+                "Creación de flujo con NLP (Natural Language Processing).",
+                "Desarrollos de integraciones con JavaScript."
+            ],
+            "achievements": [],
+            "repository_url": "https://www.dicsys.com/"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tec. Sup. Programación",
+            "institution": "UTN - FRC",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Tec. Sup. Mecatrónica",
+            "institution": "UTN - FRC",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Ing. en Sistemas de Información",
+            "institution": "UTN - FRC",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                "java",
+                "javascript",
+                "sql",
+                ".net-core",
+                "spring-boot",
+                "node",
+                "angular"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Java Avanzado",
+            "issuing_organization": "UTN - FRC",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Fullstack Spring Boot - Angular",
+            "issuing_organization": "BIZIT",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "",
+            "repository_url": "https://www.bizitglobal.com/"
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

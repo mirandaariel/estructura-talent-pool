@@ -1,0 +1,94 @@
+{
+  "personal_info": {
+    "first_name": "Ariel",
+    "last_name": "Almada",
+    "email": "arielalmada861@gmail.com",
+    "phone": "+54 93434475094",
+    "location": {
+      "country": "Argentina",
+      "city": "Curtiembre",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/ariel-almada-4a7133346/",
+    "website": "https://porfolio-ariel.vercel.app/",
+    "portfolio": "",
+    "summary": "Desarrollador backend con conocimientos sólidos en Java y frameworks como Spring Boot. En formación constante (Oracle ONE - Alura), con proyectos propios enfocados en buenas prácticas y arquitectura limpia. Listo para aportar en equipos de desarrollo y seguir aprendiendo en entornos reales."
+  },
+  "work_experience": [],
+  "education": [
+    {
+      "degree": "",
+      "institution": "Alura Latam + Oracle Next Education (ONE)",
+      "location": "",
+      "start_date": "2025-01-01",
+      "end_date": "",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "java",
+        "sql",
+        "spring-boot",
+        "spring-mvc",
+        "spring-security",
+        "hibernate",
+        "jpa",
+        "java-swing",
+        "junit",
+        "mysql",
+        "solid",
+        "clean-code",
+        "weka",
+        "deeplearning4j",
+        "javaml",
+        "opennlp",
+        "stanford-corenlp"
+      ],
+      "soft": [
+        "resolución-de-problemas",
+        "pensamiento-lógico-y-estructurado",
+        "capacidad-de-aprendizaje-autónomo",
+        "trabajo-en-equipo",
+        "comunicación-efectiva",
+        "organización-y-responsabilidad",
+        "adaptabilidad-frente-a-nuevas-tecnologías"
+      ],
+      "tools": [
+        "maven",
+        "gradle",
+        "git",
+        "github",
+        "intellij-idea",
+        "eclipse"
+      ]
+    },
+    "detailed": {}
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Conversor de Moneda - Aplicación de Escritorio Java",
+      "description": "Aplicación desarrollada con Java y Swing, utilizando el patrón MVC. Permite convertir monedas con validaciones en tiempo real, lógica desacoplada y manejo de excepciones. Pruebas unitarias con JUnit.",
+      "technologies": ["Java", "Swing", "MVC", "JUnit"],
+      "url": "https://github.com/tuusuario/conversor-moneda"
+    },
+    {
+      "name": "API REST - Sistema para Restaurante",
+      "description": "Desarrollo de una API RESTful utilizando Spring Boot, JPA, y base de datos MySQL. Implementación de funcionalidades CRUD y gestión de seguridad con Spring Security.",
+      "technologies": ["Spring Boot", "JPA", "MySQL", "Spring Security"],
+      "url": "https://github.com/tuusuario/restaurant-api"
+    },
+    {
+      "name": "Sistema de análisis de texto con NLP en Java",
+      "description": "Utilización de Stanford CoreNLP y Apache OpenNLP para extracción de entidades y análisis sintáctico. Proyecto orientado a herramientas de inteligencia artificial en Java.",
+      "technologies": ["Java", "Stanford CoreNLP", "Apache OpenNLP"],
+      "url": ""
+    }
+  ],
+  "languages": [],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

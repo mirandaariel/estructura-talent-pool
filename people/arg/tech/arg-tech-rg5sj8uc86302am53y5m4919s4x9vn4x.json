@@ -1,0 +1,161 @@
+{
+    "personal_info": {
+        "first_name": "Santiago",
+        "last_name": "Perez Delfino",
+        "email": "santiagoperezdelfino@gmail.com",
+        "phone": "+54 11 7369-1363",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack y aspirante a desarrollador de videojuegos con experiencia en desarrollo backend, automatización y educación. Actualmente trabajo como Full Stack Developer en uTriper y como Asistente de Docencia en la Universidad Tecnológica Nacional (UTN). Tengo experiencia en tecnologías web modernas, metodologías ágiles como Kanban y automatización de procesos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "uTriper",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de aplicaciones web modernas con JavaScript, Node.js, React.js, MariaDB, entre otras tecnologías.",
+                "Implementación de soluciones backend y frontend escalables.",
+                "Trabajo con metodologías ágiles y herramientas de automatización."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Backend Developer",
+            "company": "Universidad Tecnológica Nacional (UTN FRGP)",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-08-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de soluciones backend para proyectos institucionales.",
+                "Optimización de bases de datos y procesos automatizados."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Asistente de Docencia - Laboratorio de Computación I (C++)",
+            "company": "Universidad Tecnológica Nacional (UTN FRGP)",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Asistencia en clases y soporte técnico a estudiantes.",
+                "Desarrollo de material didáctico y tutoriales de programación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Game Developer",
+            "company": "Fernobyte",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "2024-12-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de videojuegos en Unity (2D y 3D).",
+                "Implementación de mecánicas de juego y optimización del rendimiento.",
+                "Desarrollo de videojuegos multijugador en Unity con NetCode."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bootcamp en Desarrollo de Videojuegos",
+            "institution": "UTN BA",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo de Videojuegos en C# y Unity",
+            "institution": "UTN BA",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Programación (En curso - Último cuatrimestre)",
+            "institution": "UTN FRGP",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Curso de Desarrollo Web",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "astro",
+                "javascript",
+                "typescript",
+                "react.js",
+                "next.js",
+                "node.js",
+                "c++",
+                "c#",
+                "visual-basic",
+                "python",
+                "mysql",
+                "postgresql",
+                "microsoft-sql-server",
+                "unity",
+                "godot",
+                "unreal-engine"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "kanban",
+                "automatización-de-procesos"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio-Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,122 @@
+{
+    "personal_info": {
+        "first_name": "Carlos",
+        "last_name": "Cabral",
+        "email": "carlosfcabral90@gmail.com",
+        "phone": "+542235533185",
+        "location": {
+            "country": "Argentina",
+            "city": "Mar del Plata",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "LinkedIn",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Front-End con sólida experiencia en React, Next.js y TypeScript, especializado en la creación de interfaces web modernas, escalables y optimizadas para la experiencia de usuario."
+    },
+    "work_experience": [
+        {
+            "job_title": "Front-End Web Developer",
+            "company": "Apeiron GS",
+            "location": "Mar del Plata, Buenos Aires",
+            "start_date": "2021-08-01",
+            "end_date": "2025-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y optimización de aplicaciones web responsive con foco en rendimiento y experiencia de usuario.",
+                "Creación de componentes reutilizables con buenas prácticas de diseño.",
+                "Despliegue a producción y resolución de problemas funcionales.",
+                "Uso de Slack para comunicación y Jira para gestión de tareas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Jr. Front-End Web Developer",
+            "company": "Gearthlogic",
+            "location": "Mar del Plata, Buenos Aires",
+            "start_date": "2021-05-01",
+            "end_date": "2021-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Mantenimiento y mejora de componentes de interfaz de usuario.",
+                "Resolución de bugs y mejoras de performance.",
+                "Gestión del trabajo diario con Notion y comunicación con el equipo vía Slack."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación (Incompleto)",
+            "institution": "Universidad Tecnológica Nacional (UTN)",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Mecánica (Incompleto)",
+            "institution": "Facultad de Ingeniería, UNMdP",
+            "location": "",
+            "start_date": "2011-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "javascript",
+                "typescript",
+                "react",
+                "next.js",
+                "css3",
+                "tailwind-css",
+                "styled-components",
+                "redux",
+                "context-api",
+                "rest-apis",
+                "jest",
+                "react-testing-library",
+                "git",
+                "github",
+                "vite",
+                "eslint",
+                "prettier"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "resolucion-de-problemas",
+                "adaptabilidad-a-nuevas-tecnologias",
+                "proactividad",
+                "comunicacion-efectiva"
+            ],
+            "tools": [
+                "scrum",
+                "kanban",
+                "jira",
+                "notion",
+                "slack"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (B1-B2)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

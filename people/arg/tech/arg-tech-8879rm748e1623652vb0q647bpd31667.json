@@ -1,0 +1,76 @@
+{
+    "personal_info": {
+        "first_name": "Brian",
+        "last_name": "Martinez",
+        "email": "brian.sebasmart@gmail.com",
+        "phone": "+54 2954 69-7845",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/brianmartinezsebas/",
+        "website": "https://brianmartinezsebas.com.ar",
+        "portfolio": "",
+        "summary": "Soy desarrollador web Full-Stack, animado en implementar soluciones a sus problemas en el desarrollo de aplicaciones web y móviles. Tengo más de 4 años de experiencia desarrollando aplicaciones con Angular y backend con Node.js/Express. Tengo experiencia creando y consumiendo servicios web (REST)."
+    },
+    "work_experience": [
+        {
+            "job_title": "Freelance Web Developer",
+            "company": "",
+            "location": "",
+            "start_date": "2019-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de sitios webs, convirtiendo maquetas en páginas web utilizables con tecnologías de FRONT-END, algunas son: HTML5, CSS3 y JavaScript; Y funcionalidades BACK-END: PHP, MYSQL; También se utilizó JQuery y AJAX.",
+                "Amplia experiencia en programación sobre el framework Angular (Basado en TypeScript). Creación y consumo de API REST e implementación de Sockets, servidor con Express y Node.js.",
+                "Creación y mantenimiento de un sitio web incluyendo diseño adaptativo, optimización para dispositivos lentos e implementación del posicionamiento SEO."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/Brianmartinezsebas"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Secundario completo con orientación en Informática/Robótica",
+            "institution": "Colegio Julio Alejandro Colombato",
+            "location": "",
+            "start_date": "2018-03-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "angular",
+                "express",
+                "socket.io",
+                "node.js",
+                "axios",
+                "mysql",
+                "php",
+                "html5",
+                "css3",
+                "jquery",
+                "git",
+                "github"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

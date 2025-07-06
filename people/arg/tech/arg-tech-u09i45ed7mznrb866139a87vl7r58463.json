@@ -1,0 +1,138 @@
+{
+    "personal_info": {
+        "first_name": "Yosef",
+        "last_name": "Blandin",
+        "email": "yosefleanb@gmail.com",
+        "phone": "+54 3417496492",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/yosefblandin",
+        "website": "",
+        "portfolio": "",
+        "summary": "Frontend Developer with 4+ years of experience creating fast, scalable web and mobile apps using React, React Native, and TypeScript. Proven ability to improve performance, implement clean architecture, and deliver polished user interfaces. Strong focus on maintainability, testing, and UX best practices."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Smart Compliances",
+            "location": "Remote",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Built a responsive monitoring dashboard using Recharts and WebSockets with clean architecture principles.",
+                "Delivered real-time performance charts for high-traffic dashboards."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Partnet Group",
+            "location": "Remote",
+            "start_date": "2023-10-01",
+            "end_date": "2025-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Led and developed features for financial mobile application using React Native (Expo SDK 42 to 50).",
+                "Led the migration of a financial mobile app from JavaScript to TypeScript, improving maintainability and test coverage using Jest.",
+                "Integrated a native QR scanner for both iOS and Android within Expo SDK (42–50).",
+                "Advised on UX best practices across multiple cross-functional teams."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Turpial Development",
+            "location": "Remote",
+            "start_date": "2021-11-01",
+            "end_date": "2023-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Created advanced Angular forms with strong validation layers for an industrial client.",
+                "Boosted page load speed by 6.5 seconds and reduced bounce rate by 13%.",
+                "Integrated third-party APIs and implemented Auth0-based authentication flows."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Wingoo.io",
+            "location": "Remote",
+            "start_date": "2021-07-01",
+            "end_date": "2022-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Migrated the frontend to Next.js, boosting performance and improving maintainability.",
+                "Reduced CSS bloat by 80%, improving load times significantly."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Zumetrics",
+            "location": "Remote",
+            "start_date": "2021-05-01",
+            "end_date": "2022-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Built dashboards with Next.js and TypeScript to visualize subscription analytics."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "65 Certifications in Web Development and English",
+            "institution": "Platzi and LinkedIn",
+            "location": "",
+            "start_date": "2020-08-01",
+            "end_date": "2023-09-30",
+            "hours": 0
+        },
+        {
+            "degree": "EF SET English Certificate 75/100",
+            "institution": "",
+            "location": "",
+            "start_date": "2022-04-01",
+            "end_date": "2022-04-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react",
+                "react-native",
+                "redux",
+                "apollo-client",
+                "jest",
+                "typescript",
+                "angular",
+                "rxjs",
+                "graphql",
+                "formik"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

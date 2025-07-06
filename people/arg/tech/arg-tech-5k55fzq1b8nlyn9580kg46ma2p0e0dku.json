@@ -1,0 +1,116 @@
+{
+    "personal_info": {
+        "first_name": "Santiago",
+        "last_name": "Riera",
+        "email": "santilrier@gmail.com",
+        "phone": "+54 3515529191",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack Junior con experiencia en desarrollo frontend y backend, principalmente con JS y PHP. Estudiante de Ingeniería en Sistemas, con actitud proactiva, compromiso y una gran capacidad para aprender rápido y adaptarme a nuevos entornos. Me destaco por mi buena comunicación, predisposición para trabajar en equipo y entusiasmo por asumir nuevos desafíos. Busco integrarme a un equipo donde se valore el esfuerzo, el mérito y el crecimiento profesional."
+    },
+    "work_experience": [
+        {
+            "job_title": "Soporte Técnico eCommerce",
+            "company": "Wuala",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de nuevas funcionalidades, implementación de cambios y resolución de problemas en tiendas web Prestashop de clientes.",
+                "Atención al cliente mediante tickets y llamadas.",
+                "Utilización de Javascript, HTML, CSS, PHP y SQL.",
+                "Comunicación y trabajo en equipo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Grupo WG",
+            "location": "",
+            "start_date": "2020-10-01",
+            "end_date": "2021-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de nuevos componentes utilizando React.",
+                "Desarrollo de nuevas funcionalidades y mantenimiento de páginas para clientes particulares utilizando Wordpress."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas",
+            "institution": "Universidad Tecnológica Nacional (UTN)",
+            "location": "",
+            "start_date": "2021-03-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react",
+                "typescript",
+                "html",
+                "css",
+                "tailwind",
+                "bootstrap",
+                "server-side-rendering",
+                "ssr",
+                "static-side-generation",
+                "ssg",
+                "react-y-next-routing",
+                "patrones-de-diseño-react",
+                "react-query",
+                "zod",
+                "php",
+                "express",
+                "api-rest",
+                "prestashop",
+                "wordpress",
+                "análisis-de-requerimientos",
+                "modelado-de-sistemas",
+                "sql",
+                "prisma",
+                "postgresql",
+                "mongodb",
+                "vercel",
+                "git",
+                "github"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "colaboración",
+                "auto-aprendizaje",
+                "motivación-para-aprender-nuevas-tecnologías"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B2 a C1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

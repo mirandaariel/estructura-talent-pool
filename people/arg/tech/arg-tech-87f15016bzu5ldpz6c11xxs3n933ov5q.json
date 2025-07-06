@@ -1,0 +1,127 @@
+{
+    "personal_info": {
+        "first_name": "Santiago",
+        "last_name": "Friedrich",
+        "email": "santiago.claros.f@gmail.com",
+        "phone": "+54 376 5045416",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/santiclfriedrich",
+        "website": "",
+        "portfolio": "https://portfolio-xi-taupe-12.vercel.app/",
+        "summary": "Soy estudiante de Ingeniería en Informática, carrera que comencé gracias a una beca otorgada por Fundación Pescar y JP Morgan. Tengo experiencia en desarrollo de software adquirida a través de cursos y formación autodidacta. Me mantengo en constante aprendizaje y busco crecer profesionalmente en un entorno donde pueda aportar valor desde el primer día."
+    },
+    "work_experience": [
+        {
+            "job_title": "Preventista",
+            "company": "Distribuidora Jota Be",
+            "location": "",
+            "start_date": "2020-06-01",
+            "end_date": "2021-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención al Cliente.",
+                "Control de Stock por sistema.",
+                "Ventas"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Informática (Primer año)",
+            "institution": "Universidad del Salvador (USAL)",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "nodejs",
+                "php",
+                "sql",
+                "mongodb"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "trello",
+                "figma",
+                "scrum",
+                "bootstrap",
+                "materialui"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Programación Web Full Stack MERN",
+            "issuing_organization": "JP Morgan | Makro | Fundación Pescar",
+            "issue_date": "2024-05-01",
+            "expiration_date": "2024-12-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Análisis de Datos",
+            "issuing_organization": "Google - Coursera",
+            "issue_date": "2024-06-01",
+            "expiration_date": "2024-11-30",
+            "credential_id": ""
+        },
+        {
+            "name": "Ciberseguridad Esencial",
+            "issuing_organization": "Base4 Security",
+            "issue_date": "2024-07-01",
+            "expiration_date": "2024-08-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Carrera de Desarrollo Full Stack",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2021-06-01",
+            "expiration_date": "2022-11-30",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Vorttex Gaming",
+            "description": "Diseño e implementación de la arquitectura de la aplicación, Desarrollo de frontend con React, Next y backend con Node.js, Integración de la API de PayPal para pagos seguros.",
+            "technologies": ["react", "next", "node.js", "paypal"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "A2 (Elementary)"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Voluntario",
+            "organization": "Voy en bici",
+            "location": "",
+            "start_date": "2025-04-01",
+            "end_date": "",
+            "responsibilities": []
+        }
+    ],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,120 @@
+{
+    "personal_info": {
+        "first_name": "Gabriel Andrés",
+        "last_name": "Rojas",
+        "email": "gabrielrojasokk@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Posadas",
+            "state": "Misiones"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Técnico en Informática y estudiante de Ingeniería en Sistemas, con experiencia en desarrollo web full stack y soporte técnico. Me destaco por mi actitud proactiva, resolución de problemas y compromiso en entornos dinámicos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack Junior",
+            "company": "Teamcubation - Proyecto para Banco Macro",
+            "location": "Trabajo remoto / Buenos Aires - Posadas",
+            "start_date": "2024-11-01",
+            "end_date": "2025-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo frontend con Angular y backend en .NET.",
+                "Modelado y consultas en bases de datos PostgreSQL.",
+                "Apoyo en el desarrollo de la app móvil con Flutter.",
+                "Implementación de pruebas unitarias en frontend y backend.",
+                "Uso de GCP y Looker Studio para análisis y visualización de datos.",
+                "Trabajo colaborativo en equipo ágil con metodología Scrum."
+            ],
+            "achievements": [
+                "Contribución activa al desarrollo de un sistema de mercado digital en un entorno profesional.",
+                "Adquisición intensiva de conocimientos técnicos y buenas prácticas en desarrollo full stack."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Pasante",
+            "company": "Facultad de Humanidades y Ciencias Sociales (FHYCS - UNaM)",
+            "location": "Tucumán 1946, N3300BSP Posadas, Misiones",
+            "start_date": "2024-06-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Soporte técnico (hardware y software).",
+                "Instalación y configuración de software.",
+                "Mantenimiento preventivo.",
+                "Trabajo en equipo.",
+                "Aprendizaje continuo."
+            ],
+            "achievements": [
+                "Reducción del 20% en tiempo de resolución de problemas técnicos."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas de Información",
+            "institution": "Universidad de la Cuenca del Plata",
+            "location": "Posadas, Misiones",
+            "start_date": "2025-02-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Informática Profesional y Personal",
+            "institution": "E.P.E.T.N 1",
+            "location": "Posadas, Misiones",
+            "start_date": "2019-03-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "angular",
+                "react",
+                "net",
+                "python",
+                "c++",
+                "postgresql",
+                "mongodb",
+                "firebase",
+                "git",
+                "google-cloud",
+                "looker-studio",
+                "jira"
+            ],
+            "soft": [
+                "actitud-proactiva",
+                "capacidad-de-aprendizaje",
+                "trabajo-en-equipo",
+                "actitud-positiva",
+                "creatividad-e-innovación",
+                "pasión-por-la-tecnología",
+                "curiosidad"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

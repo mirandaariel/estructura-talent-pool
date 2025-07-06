@@ -1,0 +1,155 @@
+{
+    "personal_info": {
+        "first_name": "Rodrigo",
+        "last_name": "Arellano",
+        "email": "newmearound@outlook.com",
+        "phone": "+525537873168",
+        "location": {
+            "country": "Mexico",
+            "city": "",
+            "state": "Estado de México"
+        },
+        "linkedin": "https://www.linkedin.com/in/rodrigo-arellano-ganem/",
+        "website": "",
+        "portfolio": "https://portfolio-front-end-rodrigo.vercel.app/",
+        "summary": "Fullstack Web Developer with a strong frontend background. Experienced in building responsive, high-performance web interfaces using React, Next.js, and Tailwind CSS. Currently completing the Fullstack Open bootcamp by the University of Helsinki, gaining solid backend skills with Node.js, Express, MongoDB, and GraphQL. Passionate about clean code, great user experiences, and continuous learning."
+    },
+    "work_experience": [
+        {
+            "job_title": "Fullstack Developer (Frontend Oriented)",
+            "company": "Freelance Project - Insurance Platform (Contract)",
+            "location": "Remote",
+            "start_date": "2024-11-01",
+            "end_date": "2025-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Built fast, accessible UIs for two portals: one for clients (Next.js + SSR) and one for agents (React + CSR).",
+                "Implemented role-based authentication and Yup validation.",
+                "Connected with backend services using Axios.",
+                "Collaborated on Express controllers and REST/GraphQL APIs.",
+                "Designed Mongoose schemas and integrated MongoDB.",
+                "Migrated media assets to AWS S3.",
+                "Wrote Cypress tests for auto-filled forms, navigation, and UI flow."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Web Developer",
+            "company": "Freelance",
+            "location": "Remote",
+            "start_date": "2022-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed mobile-first responsive websites, increasing site visits and conversions by 20-35%.",
+                "Created backend controllers and schemas using Express, Mongoose, and MongoDB.",
+                "Created modern UIs using Next.js and Tailwind CSS, enhancing user engagement.",
+                "Built forms with robust validation using Formik and Yup.",
+                "Deployed applications on Vercel (frontend) and Render (backend).",
+                "Tested backend functionality using Postman and Supertest."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "3D Modeler",
+            "company": "Freelance",
+            "location": "Remote",
+            "start_date": "2019-02-01",
+            "end_date": "2022-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Created high-quality 3D character models using Blender.",
+                "Contributed to visual storytelling in indie game projects."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "SEE & Linguistic Analyst",
+            "company": "Appen",
+            "location": "Remote",
+            "start_date": "2014-04-01",
+            "end_date": "2019-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Analyzed and corrected Bing search results to improve relevance.",
+                "Led quality reviews across multiple projects."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "institution": "Self-Taught",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "Fullstack Open Bootcamp - University of Helsinki",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "next.js",
+                "tailwind-css",
+                "responsive-design",
+                "formik",
+                "yup",
+                "cypress",
+                "node.js",
+                "express",
+                "mongodb",
+                "mongoose",
+                "rest-apis",
+                "graphql",
+                "aws-s3",
+                "axios",
+                "git",
+                "github",
+                "vercel",
+                "render"
+            ],
+            "soft": [],
+            "tools": [
+                "postman",
+                "supertest",
+                "cypress"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Highly Proficient"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

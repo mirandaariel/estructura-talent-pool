@@ -1,0 +1,208 @@
+{
+    "personal_info": {
+        "first_name": "Edder",
+        "last_name": "Alvarez",
+        "email": "drexleer01@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Colombia",
+            "city": "Bogota",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/drexleer/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Poseo un sólido conocimiento en la programación y la resolución de problemas, lo cual se traduce en la entrega de soluciones de alta calidad y escalabilidad. Mi enfoque se centra en la colaboración y la comunicación efectiva, lo que me ha permitido trabajar de manera eficiente en equipos multidisciplinarios y gestionar proyectos de manera efectiva."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador FullStack",
+            "company": "Sabores Fronterizos",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2023-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboré en el diseño y desarrollo de la aplicación.",
+                "Aseguré que la experiencia del usuario fuera intuitiva y atractiva.",
+                "Implementé funcionalidades clave como la selección de productos, el proceso de pago y la integración de sistemas de entrega"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador y Gestor Documental",
+            "company": "Enternova SAS",
+            "location": "",
+            "start_date": "2023-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Soy desarrollador y gestor documental con experiencia en entornos de soporte técnico.",
+                "Reduje en un 30% los incidentes recurrentes mediante mejoras en la documentación y atención proactiva.",
+                "Trabajo con PHP y SQL Server, realizando análisis y seguimiento de errores en entornos productivos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FullStack",
+            "company": "CamaroStore",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y desarrollé la arquitectura del backend utilizando .NET y SQL SERVER.",
+                "Implementé sistemas de autenticación y autorización utilizando JWT.",
+                "Creé módulos para la administración de productos, incluyendo la funcionalidad de subir imágenes a Cloudinary.",
+                "Realicé frontend utilizando TypeScript, React y TailwindCSS."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero en Computación",
+            "institution": "Universidad Fermín Toro",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Ciencias",
+            "institution": "Colegio Manual Carlos Piar",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "javascript",
+                "typescript",
+                "php",
+                "reactjs",
+                "angular",
+                "next.js",
+                "zustand",
+                "redux",
+                "redux-toolkit",
+                "css",
+                "tailwind",
+                "styled-components",
+                "bootstrap",
+                "mui",
+                "material-ui",
+                "node.js",
+                "express",
+                "c#",
+                ".net",
+                "nestjs",
+                "sequelize",
+                "typeorm",
+                "socket.io",
+                "mongoose",
+                "jwt",
+                "swagger",
+                "entity-framework",
+                "postgresql",
+                "mongodb",
+                "sql-server",
+                "mysql",
+                "redis"
+            ],
+            "soft": [
+                "adaptabilidad",
+                "metodologías-ágeis-scrum",
+                "resolución-de-problemas",
+                "colaboración",
+                "comunicación-efectiva"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "slack",
+                "scrum",
+                "trello",
+                "vercel",
+                "react-native",
+                "wordpress",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Scrum Fundamentals Certified",
+            "issuing_organization": "",
+            "issue_date": "2023-12-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "UnaChambaYA - APP",
+            "description": "",
+            "technologies": [
+                "React",
+                "Tailwind",
+                "Javascript",
+                "ReduxToolkit",
+                "StyledComponents",
+                "Cloudinary",
+                "Express",
+                "JsonWebtoken",
+                "Multer",
+                "Nodemailer",
+                "Node.js",
+                "PostgreSQL",
+                "Sequelize"
+            ],
+            "url": "http://unachambaya.com/"
+        },
+        {
+            "name": "HuellaEterna - APP",
+            "description": "",
+            "technologies": [
+                "Next.js",
+                "Tailwind",
+                "TypeScript",
+                "Zustand",
+                "Cloudinary",
+                "Express",
+                "JsonWebtoken",
+                "Multer",
+                "Nodemailer",
+                "Nest.js",
+                "PostgreSQL",
+                "TypeORM"
+            ],
+            "url": "https://www.huellaeterna.org/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

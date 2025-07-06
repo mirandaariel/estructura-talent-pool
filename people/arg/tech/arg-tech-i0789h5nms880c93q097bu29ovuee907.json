@@ -1,0 +1,138 @@
+{
+    "personal_info": {
+        "first_name": "Leandro",
+        "last_name": "Romero",
+        "email": "romerodisind@gmail.com",
+        "phone": "+5491155755890",
+        "location": {
+            "country": "Argentina",
+            "city": "Avellaneda",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Frontend con formación en React, JavaScript, TypeScript y Angular. Trabajo principalmente en construir interfaces modernas, escalables y centradas en el usuario con herramientas como Firebase, Zustand, React Router y Redux, integrando APIs y bases de datos en tiempo real. Me adapto con facilidad a equipos colaborativos y metodologías ágiles como Scrum, y aplico buenas prácticas de control de versiones con Git y GitHub. Me enfoco en aportar soluciones funcionales con compromiso y creatividad dentro de cada proyecto. Cuento con nivel básico de inglés y comprensión de textos técnicos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Freelance",
+            "location": "Remoto",
+            "start_date": "2024-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño y desarrollo de sitios web adaptables para emprendimientos y clientes individuales.",
+                "Implementación con React, Next.js y Tailwind CSS.",
+                "Integración de formularios de contacto, bases de datos en Firebase y optimización para SEO básico."
+            ],
+            "achievements": [
+                "Realicé entregas puntuales, recibiendo excelentes valoraciones de clientes por la claridad visual, la funcionalidad y el rendimiento de cada proyecto."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Coderhouse",
+            "location": "",
+            "start_date": "2023-06-01",
+            "end_date": "2023-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de e-commerce funcional con React y Firebase.",
+                "Manejo de estados con Hooks y Redux.",
+                "Implementación de carrito de compras, formularios y rutas dinámicas."
+            ],
+            "achievements": [
+                "Integré Firestore para mejorar la experiencia del usuario en tiempo real."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "No Country",
+            "location": "Remoto",
+            "start_date": "2023-07-01",
+            "end_date": "2023-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de interfaz usando React, TypeScript, Zustand y Material UI.",
+                "Integración con Firebase y autenticación de usuarios.",
+                "Participación en equipo ágil bajo metodología Scrum."
+            ],
+            "achievements": [
+                "Mejoré la experiencia visual y estructura técnica del proyecto colaborativo."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachiller en Ciencias Sociales",
+            "institution": "Escuela Secundaria N4",
+            "location": "Argentina",
+            "start_date": "",
+            "end_date": "2013-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo Frontend",
+            "institution": "Coderhouse",
+            "location": "Argentina",
+            "start_date": "",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "javascript",
+                "typescript",
+                "angular",
+                "firebase",
+                "zustand",
+                "react-router",
+                "redux"
+            ],
+            "soft": [
+                "adaptabilidad",
+                "trabajo-en-equipo",
+                "creatividad"
+            ],
+            "tools": [
+                "visual-studio-code",
+                "git",
+                "github",
+                "vercel",
+                "npm",
+                "figma",
+                "trello",
+                "slack",
+                "google-chrome",
+                "google-drive"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Basic"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

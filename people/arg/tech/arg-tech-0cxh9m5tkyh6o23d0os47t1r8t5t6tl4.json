@@ -1,0 +1,127 @@
+{
+    "personal_info": {
+        "first_name": "Brian",
+        "last_name": "Rojas",
+        "email": "briaan.dc@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Backend con experiencia en Java y JavaScript, especializado en Spring y Node.js. Dominio en bases de datos SQL y MongoDB, con sólidos conocimientos en el patrón de diseño DTO. Experiencia en el desarrollo de API REST, optimización de aplicaciones, y uso de pruebas unitarias para asegurar la calidad del código. Aunque mi fortaleza principal es el backend, también tengo conocimientos en React y Tailwind CSS para el desarrollo frontend. Me destaco por mi capacidad de comunicación y trabajo en equipo, con un enfoque colaborativo y adaptable a nuevos desafíos, actualmente enfocado en microservicios con Spring."
+    },
+    "work_experience": [
+        {
+            "job_title": "Operario en playa",
+            "company": "Shell",
+            "location": "",
+            "start_date": "2018-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Descargo camión cisterna en turno nocturno, generando más ventas al evitar cerrar parte de la estación de servicio durante la jornada.",
+                "Atención al cliente, despacho de combustible.",
+                "Tareas administrativas, asignación de tareas al equipo.",
+                "Descarga de camión cisterna, control de stocks."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Operador de call center",
+            "company": "Phontel",
+            "location": "",
+            "start_date": "2015-03-01",
+            "end_date": "2017-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Di soporte a personal ingresante pudiendo aumentar más fluidamente la eficiencia en tiempos y calidad de atención.",
+                "Recepción de reclamos y ventas.",
+                "Liderar equipo de atención al cliente, control de tiempo y calidad.",
+                "Comunicar resultados mensuales del sector."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollador Backend con Java",
+            "institution": "Henry",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "javascript",
+                "spring",
+                "node.js",
+                "sql",
+                "mongodb",
+                "react",
+                "tailwind-css",
+                "typescript"
+            ],
+            "soft": [
+                "comunicación",
+                "trabajo-en-equipo",
+                "liderazgo"
+            ],
+            "tools": [
+                "scrum",
+                "express.js"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sportvibe",
+            "description": "Proyecto de tienda de ropa deportiva en línea con un backend robusto para la gestión de productos, stock, y pedidos, optimizando la experiencia de compra y el control de inventario.",
+            "technologies": [
+                "Node.js",
+                "Express.js",
+                "PostgreSQL"
+            ],
+            "url": ""
+        },
+        {
+            "name": "ExpenseTracker",
+            "description": "Proyecto de ExpenseTracker desarrollado en Spring Boot, enfocado en facilitar la gestión de gastos personales, proporcionando una plataforma organizada y accesible para el seguimiento financiero.",
+            "technologies": [
+                "Java",
+                "Spring boot",
+                "h2",
+                "Spring data"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        },
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

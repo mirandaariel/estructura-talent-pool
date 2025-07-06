@@ -1,0 +1,203 @@
+{
+  "personal_info": {
+    "first_name": "Roberto",
+    "last_name": "Mauro Perez Olivera",
+    "email": "robertom.perez@outlook.com",
+    "phone": "+54 9 3814676571",
+    "location": {
+      "country": "Argentina",
+      "city": "San Miguel de Tucumán",
+      "state": "Tucumán"
+    },
+    "linkedin": "LinkedIn",
+    "website": "",
+    "portfolio": "",
+    "summary": "Actualmente estoy en busca de nuevas oportunidades como Desarrollador Frontend, preferentemente en modalidad part-time o freelancer. Mi objetivo es adquirir más experiencia y eventualmente alcanzar un nivel de seniority más alto."
+  },
+  "work_experience": [
+    {
+      "job_title": "Docente y Tutor - FullStack JavaScript",
+      "company": "Desafio Latam",
+      "location": "",
+      "start_date": "2024-02-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Diseño y conducción de workshops con enfoque en ejemplos prácticos en vivo, facilitando el aprendizaje interactivo y aplicado."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador front end",
+      "company": "Censys S.A.",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Diseño y desarrollo de aplicaciones web, asegurando una experiencia de usuario fluida y funcional.",
+        "Provisión de soporte técnico y optimización continua de aplicaciones para garantizar su rendimiento óptimo.",
+        "Gestión y resolución de incidencias utilizando Jira, priorizando la eficiencia y la satisfacción del cliente."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Docente en Programación Node Js",
+      "company": "Codo a Codo",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2024-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Planificación y conducción de workshops interactivos con ejemplos en tiempo real, enfocando en el aprendizaje práctico.",
+        "Evaluación y monitoreo del rendimiento de los alumnos, brindando retroalimentación continua para su mejora.",
+        "Desarrollo de actividades recreativas para estimular el aprendizaje en un entorno dinámico y colaborativo."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Docente en Programación React Js",
+      "company": "Codo a Codo",
+      "location": "",
+      "start_date": "2022-01-01",
+      "end_date": "2023-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Preparación y facilitación de workshops con demostraciones en vivo, fomentando el aprendizaje práctico.",
+        "Evaluación y seguimiento personalizado del progreso de los alumnos, garantizando su desarrollo académico.",
+        "Organización de actividades recreativas para promover un ambiente de aprendizaje dinámico y participativo."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Mentor front end",
+      "company": "MindHub",
+      "location": "",
+      "start_date": "2022-01-01",
+      "end_date": "2023-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Diseño e impartición de workshops utilizando ejemplos prácticos en vivo, promoviendo un aprendizaje aplicado.",
+        "Evaluación de tareas y seguimiento del progreso de los alumnos, proporcionando feedback personalizado y participando en daily meetings para asegurar el desarrollo continuo.",
+        "Creación de actividades recreativas para fomentar un ambiente de aprendizaje interactivo y colaborativo."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachillerato con orientación a Ciencias Naturales e Industrias",
+      "institution": "CPET N° 1",
+      "location": "",
+      "start_date": "2004-01-01",
+      "end_date": "2004-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "react-native",
+        "node-js",
+        "express-js",
+        "mongodb",
+        "api-rest",
+        "postman",
+        "tailwind",
+        "mongoose",
+        "html",
+        "css",
+        "javascript",
+        "react-js",
+        "redux",
+        "mysql",
+        "sequelize",
+        "jwt",
+        "cors"
+      ],
+      "soft": [],
+      "tools": [
+        "word",
+        "excel",
+        "powerpoint",
+        "visual-studio-code",
+        "outlook",
+        "jira"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [
+    {
+      "name": "Formador Bootcamp",
+      "issuing_organization": "Desafio Latam",
+      "issue_date": "2024-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Mentor Front End",
+      "issuing_organization": "Mindhub",
+      "issue_date": "2023-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "React Native Global Learning",
+      "issuing_organization": "",
+      "issue_date": "2023-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Node Js desde cero a experto",
+      "issuing_organization": "Udemy",
+      "issue_date": "2022-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Bootcamp desarrollador full stack MERN",
+      "issuing_organization": "MindHub",
+      "issue_date": "2022-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Programación con JavaScript",
+      "issuing_organization": "Fundación Movistar",
+      "issue_date": "2022-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Desarrollador full stack",
+      "issuing_organization": "ACAMICA",
+      "issue_date": "2018-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    }
+  ],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "B1"
+    },
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

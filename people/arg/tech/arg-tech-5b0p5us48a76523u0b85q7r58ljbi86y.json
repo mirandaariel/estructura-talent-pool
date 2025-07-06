@@ -1,0 +1,133 @@
+{
+    "personal_info": {
+        "first_name": "Franco Emanuel",
+        "last_name": "Rantucho",
+        "email": "francorantucho.dev@gmail.com",
+        "phone": "+54 9 2923 43-9562",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/franco-emanuel-rantucho",
+        "website": "http://franco-rantucho.dev",
+        "portfolio": "https://github.com/Fran3003",
+        "summary": "Más de 2 años de experiencia transformando ideas en aplicaciones web funcionales y creativas que simplifican procesos y mejoran resultados. Curiosidad innata para dominar nuevas tecnologías y enfoques, con foco en resultados y experiencias de usuario excepcionales."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Back-end",
+            "company": "BROERS",
+            "location": "Colombia",
+            "start_date": "2024-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño y mantenimiento de API RESTful usando Python, optimizando bases de datos PostgreSQL y MongoDB.",
+                "Implementación de mecanismos de autenticación y seguridad con Keycloak.",
+                "Pruebas automatizadas con Pytest para garantizar confiabilidad del código.",
+                "Colaboración con equipos multidisciplinarios para automatización de procesos empresariales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web Full Stack",
+            "company": "BIGGER",
+            "location": "Australia",
+            "start_date": "2024-06-01",
+            "end_date": "2025-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de APIs RESTful escalables utilizando Nest.js y Express, implementando lógica compleja y gestión de bases de datos con TypeORM.",
+                "Creación de interfaces interactivas y responsivas con React y Next.js, optimizando la experiencia de usuario mediante técnicas de carga progresiva.",
+                "Implementación de estrategias de pruebas automatizadas utilizando SuperTest (integración), Cypress (E2E) y Jest (unitarias).",
+                "Trabajo y colaboración con equipos multifuncionales en revisiones de código y mejora continua de procesos de desarrollo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Mobile",
+            "company": "Notimation",
+            "location": "Argentina",
+            "start_date": "2023-12-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicaciones nativas para iOS y Android utilizando React Native, asegurando compatibilidad multiplataforma y alto rendimiento.",
+                "Colaboración con diseñadores UX/UI para implementar interfaces intuitivas y visualmente atractivas, mejorando la usabilidad general.",
+                "Optimización del rendimiento mediante técnicas avanzadas de gestión de estado con Redux y carga diferida de componentes.",
+                "Participación activa en el ciclo completo de desarrollo, desde el diseño técnico hasta el despliegue en tiendas de aplicaciones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "phyton",
+                "automated-testing",
+                "aws-services",
+                "sonarqube",
+                "nestjs",
+                "express",
+                "mongodb",
+                "prismadb",
+                "postgresql",
+                "mysql",
+                "graphql",
+                "docker",
+                "kafka",
+                "react",
+                "react-native",
+                "tailwindcss",
+                "next.js",
+                "redux",
+                "redux-toolkit",
+                "zustand",
+                "vite",
+                "mui"
+            ],
+            "soft": [
+                "agile-methodologies"
+            ],
+            "tools": [
+                "git",
+                "jest",
+                "cypress",
+                "playwright",
+                "pytest"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Desarrollador Web Full Stack",
+            "issuing_organization": "Henry",
+            "issue_date": "2022-07-01",
+            "expiration_date": "2023-01-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Inglés para Desarrolladores",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2023-06-01",
+            "expiration_date": "2023-10-31",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,149 @@
+{
+    "personal_info": {
+        "first_name": "Mariano",
+        "last_name": "Manzetti",
+        "email": "mariano.manzetti@gmail.com",
+        "phone": "+44493582403523",
+        "location": {
+            "country": "Argentina",
+            "city": "Río Cuarto",
+            "state": "Córdoba"
+        },
+        "linkedin": "https://linkedin.com/in/mariano-manzetti",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador web y móvil con tres años de experiencia, especializado en frontend y backend. He trabajado en la implementación de soluciones utilizando tecnologías como React, Next.js, React Native, Node.js y Django. Me adapto fácilmente a diferentes entornos y metodologías de trabajo, con un enfoque en buenas prácticas de desarrollo, optimización del rendimiento y entrega de soluciones eficientes."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Aplicación Web de Gestión de Datos Personalizados",
+            "location": "",
+            "start_date": "2023-12-01",
+            "end_date": "2025-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboré desde el inicio en el desarrollo frontend de una aplicación web orientada a la gestión de datos personalizados.",
+                "Trabajé con Next.js App Router, React y Redux Toolkit para construir interfaces dinámicas y eficientes.",
+                "Diseñé e implementé componentes reutilizables utilizando Material UI y Tailwind CSS.",
+                "Optimizé el rendimiento del frontend y mejoré la experiencia del usuario a través de pruebas y métricas.",
+                "Colaboré activamente con el equipo backend para la integración efectiva de la API REST."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Móvil",
+            "company": "Aplicación Móvil de Asistencia Mecánica",
+            "location": "",
+            "start_date": "2023-06-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Participé en el desarrollo desde cero de una app móvil que conecta clientes con profesionales de mecánica mediante videollamadas.",
+                "Trabaje con React Native.",
+                "Diseñé e implementé el flujo de solicitudes y asignación de servicios.",
+                "Integré Firebase y Firestore para autenticación y almacenamiento en tiempo real."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Aplicación Web Marketplace",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "2023-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboré en la implementación de nuevas funcionalidades tanto en frontend como en backend.",
+                "Participé en el desarrollo de APIs REST y manejo de datos con MongoDB.",
+                "Tecnologías utilizadas: Node.js, MongoDB, Next.js, React."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Aplicación Web Marketplace",
+            "location": "",
+            "start_date": "2022-04-01",
+            "end_date": "2023-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Formé parte del proceso de migración de una aplicación web marketplace de Laravel a Symfony.",
+                "Desarrollo bajo el patrón MVC utilizando PHP con Symfony y Bootstrap.",
+                "Gestión y optimización de bases de datos MySQL."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador",
+            "company": "Proyectos Actuales",
+            "location": "",
+            "start_date": "2025-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de funcionalidades para una app móvil de cuidado de la piel basada en selfies diarias (Django, React Native, Inertia.js, MySQL).",
+                "Participación en una app web educativa que enseña idiomas a profesionales de enfermería (Laravel, React, MySQL)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista en Computación",
+            "institution": "Universidad Nacional de Río Cuarto",
+            "location": "Río Cuarto, Córdoba",
+            "start_date": "2015-09-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "java",
+                "php",
+                "python",
+                "html",
+                "react",
+                "next.js",
+                "redux-toolkit",
+                "react-native",
+                "laravel",
+                "node.js",
+                "django"
+            ],
+            "soft": [],
+            "tools": [
+                "github",
+                "material-ui",
+                "tailwind-css"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (B2)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

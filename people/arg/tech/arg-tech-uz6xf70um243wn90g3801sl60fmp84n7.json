@@ -1,0 +1,123 @@
+{
+  "personal_info": {
+    "first_name": "Santiago",
+    "last_name": "Alvarez",
+    "email": "santiagoalvarez.job2023@gmail.com",
+    "phone": "+54 9 2477662351",
+    "location": {
+      "country": "Argentina",
+      "city": "Rosario",
+      "state": "Santa Fe"
+    },
+    "linkedin": "https://www.linkedin.com/in/santiagoalvarezwebdeveloper/",
+    "website": "",
+    "portfolio": "https://santiagoalvarezoortfolio.vercel.app/",
+    "summary": "Desarrollador web apasionado, enfocado en un trabajo creativo, eficiente y colaborativo. Con experiencia en metodologías ágiles, GIT, estructuras de datos, algoritmos y frameworks."
+  },
+  "work_experience": [
+    {
+      "job_title": "Frontend Developer",
+      "company": "Esencia",
+      "location": "Santa Fe, Argentina",
+      "start_date": "2024-12-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollé páginas web utilizando React, Javascript y Tailwind.",
+        "Desarrollé diseños para clientes en Figma, creando interfaces atractivas y funcionales.",
+        "Análisis de avances y sistemas en conjunto con clientes de la agencia."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Full Stack Developer (Junior)",
+      "company": "Itecnis",
+      "location": "Buenos Aires, Argentina",
+      "start_date": "2024-01-01",
+      "end_date": "2024-04-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollé páginas web utilizando React, Bootstrap, Tailwind y Odoo.",
+        "Desarrollé web services utilizando Python y Odoo.",
+        "Brindé soporte a clientes con JS, Python, Odoo, OpenERP, Django y React."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Backend Developer (Pasante)",
+      "company": "Educa Ágil Consultores",
+      "location": "Lima, Perú",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollé web services utilizando Express y Node.js.",
+        "Creé la base de datos utilizando PostgreSQL y Sequelize para gestionar y optimizar los datos.",
+        "Implementé autenticación y autorización segura mediante JWT."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Desarrollador Web Full Stack",
+      "institution": "Henry",
+      "location": "",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "hours": 800
+    },
+    {
+      "degree": "",
+      "institution": "BYU–Pathway Worldwide",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "javascript",
+        "python",
+        "react",
+        "node.js",
+        "express",
+        "tailwind-css",
+        "git",
+        "sequelize",
+        "postgresql"
+      ],
+      "soft": [
+        "resolución-rápida-de-problemas",
+        "adaptabilidad",
+        "atención-al-detalle",
+        "aprendizaje-rápido"
+      ],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Intermedio"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

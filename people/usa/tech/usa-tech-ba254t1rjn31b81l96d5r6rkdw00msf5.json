@@ -1,0 +1,151 @@
+{
+    "personal_info": {
+        "first_name": "Sai Teja",
+        "last_name": "Aradhyula",
+        "email": "aradhyulasaiteja@gmail.com",
+        "phone": "(989) 621-4775",
+        "location": {
+            "country": "United States",
+            "city": "Boulder",
+            "state": "Colorado"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Engineer",
+            "company": "Novelty Data Solutions",
+            "location": "Bengaluru, India",
+            "start_date": "2020-09-01",
+            "end_date": "2023-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed 10+ full-stack enterprise healthcare applications using VB.NET, ASP.NET MVC, and SQL Server.",
+                "Designed and integrated Razorpay payment gateways and Meta Cloud APIs into patient-facing apps.",
+                "Built and optimized backend workflows using stored procedures and job schedulers.",
+                "Delivered end-to-end development of Learning Management and Online Examination platforms.",
+                "Developed and maintained RESTful APIs in ASP.NET Core for automating insurance pre-authorization.",
+                "Implemented ambulance geolocation tracking using Google Maps APIs.",
+                "Resolved high-impact production issues, improving system stability."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Associate Software Engineer",
+            "company": "Jai Venkateswara Technologies",
+            "location": "Bengaluru, India",
+            "start_date": "2020-01-01",
+            "end_date": "2020-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Built a full-stack mobile recharge platform using Flask.",
+                "Implemented Razorpay integration for payments.",
+                "Modularized the backend using Blueprints and application factory pattern.",
+                "Created RESTful APIs with Flask and Swagger.",
+                "Added category-based plan filtering and real-time updates."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Associate Software Engineer",
+            "company": "Cutso Foods LLP",
+            "location": "Bengaluru, India",
+            "start_date": "2018-06-01",
+            "end_date": "2019-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed a high-performance order management system using .NET Core.",
+                "Designed and implemented REST APIs to sync inventory, sales, and logistics data.",
+                "Optimized SQL queries and implemented indexing and caching strategies.",
+                "Contributed to migrating applications to a microservices architecture."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters in Computer Science",
+            "institution": "Central Michigan University",
+            "location": "Mount Pleasant, MI",
+            "start_date": "2023-08-23",
+            "end_date": "2025-05-25",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                "python",
+                "vb.net",
+                "sql",
+                "html5",
+                "css3",
+                "asp.net-mvc",
+                "asp.net-core",
+                "flask",
+                "flask-smorest",
+                "fastapi",
+                "jquery",
+                "razor"
+            ],
+            "soft": [
+                "communication",
+                "problem-solving"
+            ],
+            "tools": [
+                "aws",
+                "git",
+                "github",
+                "docker",
+                "ci/cd",
+                "azure-devops",
+                "tfs",
+                "sql-server",
+                "postgresql",
+                "nosql",
+                "razorpay",
+                "meta-cloud-api",
+                "google-maps-apis",
+                "sap",
+                "jira",
+                "sdlc",
+                "agile",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "AWS Cost Management Web Application",
+            "description": "Built a full-stack AWS Cost Management Dashboard using React.js for the frontend and Flask API for the backend.",
+            "technologies": [
+                "react.js",
+                "flask",
+                "aws-cloudwatch",
+                "sns",
+                "scikit-learn",
+                "linear-regression",
+                "chart.js",
+                "aws-trusted-advisor",
+                "cost-explorer"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

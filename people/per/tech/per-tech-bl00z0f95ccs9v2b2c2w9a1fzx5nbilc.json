@@ -1,0 +1,126 @@
+{
+    "personal_info": {
+        "first_name": "Fernando",
+        "last_name": "Altamirano Alca",
+        "email": "fernandoelialtamirano@gmail.com",
+        "phone": "+51 983915772",
+        "location": {
+            "country": "Peru",
+            "city": "Lima",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Frontend Web y Móvil con 4 años de experiencia dentro del sector TI con amplio manejo de herramientas y tecnologías para mejorar la calidad del producto final."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Engineer",
+            "company": "Softtek",
+            "location": "",
+            "start_date": "2025-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Migración de la plataforma hacia React mejorando el rendimiento y la mantenibilidad del código.",
+                "Optimizar el rendimiento del sitio web para mejorar la velocidad de carga y la experiencia del usuario.",
+                "Integración el frontend con APIs y servicios backend para recuperar y enviar datos.",
+                "Adaptar diseños de UI desde Figma a componentes React responsivos y reutilizables, asegurando la consistencia visual en toda la plataforma."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Banexcoin",
+            "location": "",
+            "start_date": "2022-02-01",
+            "end_date": "2025-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Crear y mantener interfaces de usuario intuitivas y atractivas utilizando HTML, CSS y Javascript.",
+                "Proponer mejoras en los prototipos con la finalidad de mejorar la experiencia del usuario final.",
+                "Implementar diseños responsivos que funcionen en diferentes dispositivos y navegadores.",
+                "Optimizar el rendimiento del sitio web para mejorar la velocidad de carga y la experiencia del usuario.",
+                "Integrar el frontend con APIs y servicios backend para obtener y enviar datos.",
+                "Refactorizar el código para mejorar la eficiencia y la mantenibilidad del repositorio del proyecto.",
+                "Trabajar en colaboración con diseñadores, desarrolladores backend y otras áreas para asegurar la calidad del producto final.",
+                "Code review del código de otros desarrolladores del equipo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Freelance",
+            "company": "",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "2023-06-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación del diseño brindado por el cliente haciendo uso de HTML, CSS y Javascript.",
+                "Creación de una vista responsive para dispositivos móviles.",
+                "Despliegue y configuración del entorno para el despliegue de la aplicación.",
+                "Proponer mejoras en los prototipos con la finalidad de mejorar la experiencia del usuario final."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachiller en Ingeniería de Sistemas",
+            "institution": "Universidad Nacional Mayor de San Marcos",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2023-01-01",
+            "hours": 0
+        },
+        {
+            "degree": "Frontend Developer",
+            "institution": "Platzi",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2022-01-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "react",
+                "vite",
+                "storybook",
+                "nextjs",
+                "flutter",
+                "vuejs",
+                "tailwindcss",
+                "node",
+                "vercel"
+            ],
+            "soft": [
+                "trabajo-y-colaboración-en-equipos-multidisciplinarios",
+                "liderazgo",
+                "comunicación-efectiva",
+                "adaptabilidad",
+                "empatía"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

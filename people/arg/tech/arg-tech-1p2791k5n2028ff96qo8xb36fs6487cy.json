@@ -1,0 +1,166 @@
+{
+    "personal_info": {
+        "first_name": "Nicolas",
+        "last_name": "Emanuel Gonzalez",
+        "email": "gonzaleznicolas8000@gmail.com",
+        "phone": "1141904103",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador frontend con más de 3 años de experiencia y sólida formación. Trabaje en proyectos clave utilizando tecnologías como React, desarrollando interfaces modernas, optimizadas y centradas en la experiencia del usuario. Contribuí al rediseño completo de plataformas digitales, tanto de forma individual como en equipo, mejorando su rendimiento, accesibilidad y visibilidad online, logrando un aumento comprobado en las consultas a través de sitios y redes sociales. Busco una oportunidad laboral estable, con proyección a largo plazo, que me permita involucrarme en distintos proyectos y seguir creciendo profesionalmente."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Yoplabs",
+            "location": "",
+            "start_date": "2024-12-01",
+            "end_date": "2025-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Crear una estructura más ordenada y moderna del sitio utilizando React",
+                "Utilizar Redux para gestionar el estado de la aplicación de forma clara",
+                "Implementar estilos con SASS y aprovechar Material UI para desarrollar componentes reutilizables, personalizarlos y respetar la identidad visual del proyecto",
+                "Completar el rediseño en tiempo y forma, sentar bases sólidas para futuras mejoras.",
+                "Mejorar la navegación y el acceso a información clave, incluir sliders personalizados en el área privada del usuario.",
+                "Aplicar metodologías ágiles con gestión en Jira y uso de servicios en la nube mediante AWS"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "PANDAIDX",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Migración de la página principal utilizando Tailwind, Next.js 14 y shadcn.",
+                "Participación en reuniones diarias con el cliente para coordinar avances.",
+                "Gestión de tareas y seguimiento del progreso mediante Notion.",
+                "Resolución de tickets relacionados con el frontend."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador web y encargado de ventas",
+            "company": "Autoescuelasion",
+            "location": "",
+            "start_date": "2020-07-01",
+            "end_date": "2023-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creé un sitio web para esta empresa con el objetivo de mejorar la presencia online, facilitar la atención al cliente y optimizar el proceso de ventas",
+                "Asesoramiento a más de 1200 potenciales alumnos sobre planes y tarifas, logrando una tasa de conversión del 35%",
+                "Coordiné más de 3000 turnos con instructores mediante WhatsApp Business, logrando un cumplimiento de agenda",
+                "Diseñé y ejecuté campañas de difusión por WhatsApp, Facebook, Instagram que aumentaron la captación de nuevos alumnos en un 20%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Quarks consulting",
+            "location": "",
+            "start_date": "2020-06-01",
+            "end_date": "2020-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación de formularios de contacto funcionales con PHP.",
+                "Resolución de problemas técnicos en el sitio web, mejorando la funcionalidad y la experiencia del usuario.",
+                "Colaboración con equipos de diseño para asegurar la coherencia entre el diseño y la funcionalidad"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Sistemas",
+            "institution": "Universidad Nacional Arturo Jauretche",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Diploma de escuela secundaria",
+            "institution": "Instituto Santa Lucía",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "html5",
+                "css3",
+                "php",
+                "python",
+                "sql",
+                "react.js",
+                "next.js",
+                "redux",
+                "tailwind-css",
+                "bootstrap",
+                "material-ui",
+                "axios",
+                "chart.js"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "vite",
+                "webpack",
+                "npm",
+                "eslint",
+                "prettier",
+                "wordpress",
+                "notion",
+                "jira",
+                "aws"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "MEDCITA",
+            "description": "Conexión frontend-backend utilizando Axios para garantizar una comunicación fluida entre ambas partes del sistema. Colabore con el equipo para mantener la coherencia entre el diseño del frontend y la funcionalidad, utilizando SCRUM. Participe en la implementación de inicio de sesión seguro con cookies para la autenticación de usuarios.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "SHOP VALHALA",
+            "description": "Integración de React, Next 13 y Tailwind. Implementación de la API context y Props para la gestión de estados. Filtrado de productos por categoría para una búsqueda más sencilla.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "CONTROL DE GASTOS",
+            "description": "Filtros y clasificación. Integracion con Chart.js. Styled Components. Implementacion de Context API, React, Vite, Local Storage.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

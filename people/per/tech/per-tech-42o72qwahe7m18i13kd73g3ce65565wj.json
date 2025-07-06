@@ -1,0 +1,164 @@
+{
+    "personal_info": {
+        "first_name": "Franchesca",
+        "last_name": "Zelaya Contreras",
+        "email": "fatimapolgar2001@gmail.com",
+        "phone": "+51 983187231",
+        "location": {
+            "country": "Perú",
+            "city": "Lima",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/franchesca-zelaya",
+        "website": "",
+        "portfolio": "https://github.com/FranchescaF",
+        "summary": "Bachiller de la carrera de Ingeniería, con especialización como Desarrolladora Full Stack. Fascinada por la programación y las soluciones, decidí desarrollar prototipos utilizando HTML, CSS, JS a través de proyectos centrados en la necesidad del usuario."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrolladora Web",
+            "company": "OMU UNIFE",
+            "location": "UNIFE",
+            "start_date": "2024-11-01",
+            "end_date": "2025-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Revisar y optimizar el contenido de la plataforma web de la UNIFE.",
+                "Manejar la base de datos mediante CRM de Huspot.",
+                "Encargada de subir contenido por WordPress."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Maestría en Ingeniería de Software",
+            "institution": "",
+            "location": "",
+            "start_date": "2025-05-01",
+            "end_date": "2027-10-31",
+            "hours": 0
+        },
+        {
+            "degree": "Web Developer",
+            "institution": "Laboratoria Bootcamp",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "2024-10-31",
+            "hours": 0
+        },
+        {
+            "degree": "Web Developer",
+            "institution": "TripleTen Bootcamp",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Textil y Confecciones",
+            "institution": "Universidad Nacional Mayor de San Marcos",
+            "location": "",
+            "start_date": "2018-03-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "base-de-datos",
+                "power-bi",
+                "sql-server",
+                "ms-excel",
+                "crm",
+                "huspot",
+                "full-stack",
+                "javascript",
+                "html",
+                "css",
+                "node.js",
+                "api-rest",
+                "spa",
+                "express",
+                "typescript",
+                "http",
+                "wordpress",
+                "react"
+            ],
+            "soft": [
+                "pensamiento-crítico",
+                "adaptabilidad",
+                "disciplina",
+                "trabajo-en-equipo"
+            ],
+            "tools": [
+                "github",
+                "git",
+                "figma",
+                "testing",
+                "scrum",
+                "kanban"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "SQL Server",
+            "issuing_organization": "Datux Perú",
+            "issue_date": "2023-05-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Power BI",
+            "issuing_organization": "Datux Perú",
+            "issue_date": "2022-05-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Ms Excel",
+            "issuing_organization": "CEDHINFO",
+            "issue_date": "2022-06-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Python",
+            "issuing_organization": "Datux Perú",
+            "issue_date": "2021-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Kdrama DataverseChat - Laboratoria",
+            "description": "Filtra los datos de 24 ítems, según sus especificaciones como género, capítulos, año de publicación. Interactúas con cada ítem de forma individual o grupal, mediante la introducción de una API Rest. Muestra 3 estadísticas calculadas y extraídas de la base de datos.",
+            "technologies": ["html", "css", "javascript", "figma", "git", "github", "test-unitarios", "ia", "api", "spa"],
+            "url": ""
+        },
+        {
+            "name": "Web Project Around - TripleTen",
+            "description": "Muestra un diseño de perfil de Instagram, permite eliminar imágenes y darles likes. Puedes cambiar el nombre del usuario y agregar más imágenes.",
+            "technologies": ["html", "css", "javascript", "figma", "git", "github", "api"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

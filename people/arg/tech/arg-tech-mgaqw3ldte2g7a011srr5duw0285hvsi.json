@@ -1,0 +1,101 @@
+{
+    "personal_info": {
+        "first_name": "Martin",
+        "last_name": "Villaló Ruiz",
+        "email": "martinvruiz10@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "CABA",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Frontend Developer con enfoque práctico y mentalidad de producto. Desarrollé aplicaciones completas como Financer y una e-commerce funcional desde cero, aplicando React, Tailwind y Firebase. Me destaco por entregar soluciones reales, cuidar la experiencia en cada detalle, y trabajar de forma autónoma con foco en resultados. Busco sumarme a equipos donde pueda crecer, aportar y entregar valor desde el día uno."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "E-commerce App (Proyecto Final Coderhouse)",
+            "location": "Remoto",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una plataforma de comercio electrónico con gestión completa de usuarios, productos y pedidos.",
+                "Autenticación de usuarios mediante Firebase y sincronización de datos en tiempo real con Firestore.",
+                "Navegación SPA con diseño 100% responsive adaptado a móviles y desktop.",
+                "Resolución de desafíos en gestión de estado, optimización de consultas y flujo seguro de autenticación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "React.js Frontend Development",
+            "institution": "Coderhouse",
+            "location": "Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo de Aplicaciones con React Native",
+            "institution": "Coderhouse",
+            "location": "Argentina",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html",
+                "css",
+                "react.js",
+                "tailwind-css",
+                "bootstrap",
+                "react-native",
+                "firebase",
+                "firestore",
+                "firebase-auth",
+                "git",
+                "github",
+                "rest-apis"
+            ],
+            "soft": [
+                "comunicación",
+                "autonomía",
+                "aprendizaje-continuo",
+                "resolución-de-problemas"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Financer - Aplicación de Finanzas Personales",
+            "description": "Desarrollo de una aplicación web para registrar ingresos y gastos, con categorización de transacciones y visualización del historial financiero.",
+            "technologies": [
+                "React.js",
+                "Tailwind CSS",
+                "Toastify",
+                "localStorage"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

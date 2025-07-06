@@ -1,0 +1,123 @@
+{
+    "personal_info": {
+        "first_name": "Yurani",
+        "last_name": "Rangel",
+        "email": "yuri-066@hotmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniera de sistemas con sólidos conocimientos en Java, JavaScript, TypeScript (Angular), HTML, CSS y bases de datos relacionales. Experiencia en desarrollo de software usando tecnologías modernas como Angular, arquitectura de micro frontend, código limpio y pruebas unitarias con Jasmine y Karma. Competente en servicio al cliente, perfilamiento de casos en mesa de ayuda y soporte de nivel 1 PBX y TI. Destacadas habilidades de trabajo en equipo, orientación al servicio, autonomía y mejoramiento continuo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrolladora Frontend",
+            "company": "Periferia IT Group",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web utilizando Angular.",
+                "Creación de componentes reutilizables y responsivos.",
+                "Implementación de servicios y manejo de estado.",
+                "Integración con APIs RESTful.",
+                "Optimización del rendimiento de aplicaciones Angular.",
+                "Diseño de interfaces de usuario intuitivas.",
+                "Pruebas unitarias con Jasmine y Karma."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnico in-house",
+            "company": "Netcom",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "2023-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Perfilamiento de casos en incidencias y requerimientos.",
+                "Soporte de primer nivel para sistemas PBX e infraestructura TI.",
+                "Asesoramiento directo a clientes sobre problemas técnicos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Sistemas",
+            "institution": "Universidad de Cundinamarca",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bootcamp de Desarrollo de Software",
+            "institution": "Bogotá Institute of Technology",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "angular",
+                "javascript",
+                "typescript",
+                "html",
+                "css",
+                "scss",
+                "jasmine",
+                "karma",
+                "java",
+                "sql",
+                "nosql",
+                "arduino"
+            ],
+            "soft": [
+                "comunicación",
+                "responsabilidad",
+                "compromiso",
+                "honestidad",
+                "trabajo-en-equipo",
+                "liderazgo",
+                "creatividad",
+                "aprendizaje-continuo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Introducción al desarrollo de front-end",
+            "issuing_organization": "Meta",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Ingles",
+            "proficiency": "Intermedio (A2)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

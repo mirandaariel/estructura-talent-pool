@@ -1,0 +1,111 @@
+{
+    "personal_info": {
+        "first_name": "Tomás",
+        "last_name": "Morelli",
+        "email": "tomas.kmorelli@gmail.com",
+        "phone": "+54 93515465700",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Front-End con experiencia en React, Next.js, TypeScript, JavaScript y Tailwind CSS. Con una sólida formación full stack, pero con enfoque y pasión por el desarrollo de interfaces intuitivas y de alto rendimiento. Experiencia liderando equipos y gestionando proyectos desde su concepción hasta su ejecución, combinando habilidades técnicas con formación en administración de empresas. Destaca por su proactividad, liderazgo y capacidad para trabajar en equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Fundador & Líder de Proyecto",
+            "company": "Cervostyle",
+            "location": "",
+            "start_date": "2021-09-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y gestioné la tienda online en Shopify, priorizando la experiencia del usuario, la identidad visual y la conversión, mediante temas personalizados, integraciones y herramientas de análisis.",
+                "Logré un fuerte posicionamiento en redes sociales, especialmente Instagram, mediante contenido orgánico, colaboraciones con influencers y campañas pagas, utilizando Meta Business Suite y métricas de engagement para optimizar resultados.",
+                "Coordiné lanzamientos mediante drops exclusivos, aplicando metodologías ágiles (Scrum), liderando la planificación estratégica, asignación de tareas y gestión del equipo para alcanzar los objetivos de marca."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2025-03-31",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciado en Administración de Empresas",
+            "institution": "Univ. Siglo 21",
+            "location": "",
+            "start_date": "2019-03-01",
+            "end_date": "2024-09-01",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Economía y Gestión",
+            "institution": "Inst. Francisco Luis Bernárdez",
+            "location": "",
+            "start_date": "2013-03-01",
+            "end_date": "2018-12-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "html",
+                "css",
+                "react",
+                "next.js",
+                "node.js",
+                "tailwind-css",
+                "postgresql",
+                "mongodb"
+            ],
+            "soft": [
+                "leadership",
+                "teamwork",
+                "proactivity"
+            ],
+            "tools": [
+                "github",
+                "slack"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Luxora - E-commerce de Muebles de Alta Gama",
+            "description": "Proyecto académico en equipo utilizando metodología Scrum.",
+            "technologies": ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

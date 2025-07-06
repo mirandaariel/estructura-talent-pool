@@ -1,0 +1,120 @@
+{
+    "personal_info": {
+        "first_name": "Santiago",
+        "last_name": "Martín Arab",
+        "email": "santiarab7@gmail.com",
+        "phone": "1133037764",
+        "location": {
+            "country": "Argentina",
+            "city": "San Justo",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "santiago arab",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante avanzado de Ingeniería en Informática con sólidos conocimientos en programación, desarrollo web y automatización de tareas. Apasionado por la tecnología, con experiencia en proyectos propios que incluyen manejo de sockets, APIs y scripting. Busco mi primera pasantía en IT para aplicar mis conocimientos y seguir aprendiendo en un entorno profesional."
+    },
+    "work_experience": [
+        {
+            "job_title": "Empleado de fábrica",
+            "company": "Global Electro ingeniería",
+            "location": "",
+            "start_date": "2022-02-01",
+            "end_date": "2022-03-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Informática",
+            "institution": "UNLaM",
+            "location": "San Justo, Prov. Buenos Aires",
+            "start_date": "2021-03-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "java",
+                "c++",
+                "javascript",
+                "powershell",
+                "bash",
+                "html",
+                "css",
+                "django",
+                "sql-server",
+                "mongodb",
+                "git",
+                "github"
+            ],
+            "soft": [],
+            "tools": [
+                "pandas",
+                "requests",
+                "beautifulsoup",
+                "office"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Data Engineering",
+            "issuing_organization": "UTN Buenos Aires",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "CER-IICNBYC2-1089949"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Memotest Multijugador con Sockets en C++",
+            "description": "Desarrollo de un juego de Memotest multijugador, donde un servidor central maneja la lógica del juego y varios clientes se conectan para participar.",
+            "technologies": ["sockets"],
+            "url": "https://github.com/santiarab/MemoTestClienteServidor"
+        },
+        {
+            "name": "Script de Web Scraping para Mercado Libre en Python",
+            "description": "Desarrollo de un script en Python que lee un archivo Excel con enlaces de productos de Mercado Libre, extrae el título, el precio y el enlace de cada producto.",
+            "technologies": ["pandas", "requests", "beautifulsoup"],
+            "url": "https://github.com/santiarab/WebScraping"
+        },
+        {
+            "name": "Script de Búsqueda de Personajes de Rick and Morty en Bash y PS",
+            "description": "Este script proporciona una manera conveniente de buscar información sobre personajes de Rick and Morty utilizando su ID o nombre a través de la API Rick and Morty.",
+            "technologies": ["bash", "powershell", "api-rest"],
+            "url": "https://github.com/santiarab/RickAndMortyAppSH"
+        },
+        {
+            "name": "TicTacToe Multijugador en Python con Sockets",
+            "description": "Desarrollo de un juego de TicTacToe multijugador en Python donde los jugadores se conectan a través de sockets para competir en tiempo real.",
+            "technologies": ["python", "sockets"],
+            "url": "https://github.com/santiarab/TicTacToe"
+        },
+        {
+            "name": "Chat Simple en Python con Sockets e Hilos",
+            "description": "Implementación de un chat simple en Python donde los mensajes enviados por los clientes son recibidos y mostrados en la consola del servidor.",
+            "technologies": ["python", "sockets", "multithreading"],
+            "url": "https://github.com/santiarab/ChatSimple"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

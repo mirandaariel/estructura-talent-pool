@@ -1,0 +1,157 @@
+{
+    "personal_info": {
+        "first_name": "",
+        "last_name": "",
+        "email": "vladimiragua52@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy ingeniero de software, enfocado en el desarrollo de aplicaciones web. He participado en todo el ciclo de la vida del software, desde el diseño hasta el mantenimiento, pensando en la escalabilidad del producto."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista Programador",
+            "company": "Plasticaucho Industrial S.A.",
+            "location": "",
+            "start_date": "2024-12-01",
+            "end_date": "2025-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Responsable del mantenimiento y evolución de un sistema de gestión de inventarios, centrado en la mejora de la experiencia del usuario y estabilidad de la aplicación.",
+                "Rediseñé completamente la interacción del sistema del lado del cliente, resolviendo múltiples errores críticos que afectaban el flujo de trabajo.",
+                "Realicé una depuración profunda de la base de datos, corrigiendo registros incompletos y previniendo futuras inconsistencias mediante validaciones robustas.",
+                "Administro el CPanel, la base de datos y el despliegue del sistema, garantizando la continuidad operativa."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Gizlo",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé e implementé la interfaz de 'Safe Entry', un sistema para automatizar el ingreso vehicular en urbanizaciones y empresas.",
+                "Mejoré la trazabilidad del control de accesos y reduje errores humanos mediante formularios inteligentes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack (LMS ENAG)",
+            "company": "Freelancer",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "2024-02-29",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé desde cero una plataforma LMS para una institución gastronómica, permitiendo la gestión académica completa: inscripción de docentes y estudiantes, carga de tareas, generación de reportes PDF.",
+                "Diseñé la base de datos y arquitectura del sistema pensando en escalabilidad y facilidad de uso.",
+                "Extendí funcionalidades en SAP utilizando ABAP para mejorar procesos internos.",
+                "Desarrollé soluciones web en JavaScript y servicios en .NET para integrar datos entre plataformas, optimizando el flujo de información."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Pasantía Asistente TI",
+            "company": "Empresa Eléctrica Ambato",
+            "location": "",
+            "start_date": "2022-08-01",
+            "end_date": "2023-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé una aplicación web para reportes de compras públicas mediante dashboards y generación de archivos PDF/Excel.",
+                "Automatizamos procesos manuales y mejoramos el acceso a información clave para la gerencia."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Software",
+            "institution": "Universidad Técnica de Ambato",
+            "location": "",
+            "start_date": "2018-11-01",
+            "end_date": "2024-08-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "javascript",
+                "java",
+                "c#",
+                "abap",
+                "angular",
+                "react",
+                "nextjs",
+                "spring",
+                ".net",
+                "mysql",
+                "oracle-database",
+                "firebase",
+                "git",
+                "rest-apis"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Raquel Navas",
+            "relationship": "Telconet LATAM",
+            "contact": "0979139875"
+        },
+        {
+            "name": "Silvia López",
+            "relationship": "EEASA",
+            "contact": "0998931123"
+        },
+        {
+            "name": "Lizbeth Arboleda",
+            "relationship": "Plasticaucho",
+            "contact": "0987662707"
+        },
+        {
+            "name": "Daniel Pantoja",
+            "relationship": "Plasticaucho",
+            "contact": "0984209366"
+        },
+        {
+            "name": "Jhonatan Tisalema",
+            "relationship": "Seguros Suárez",
+            "contact": "0995868428"
+        }
+    ]
+}

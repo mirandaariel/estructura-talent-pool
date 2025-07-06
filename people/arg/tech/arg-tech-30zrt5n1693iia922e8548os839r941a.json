@@ -1,0 +1,75 @@
+{
+    "personal_info": {
+        "first_name": "Dario",
+        "last_name": "Arica Camacho",
+        "email": "dario241006@gmail.com",
+        "phone": "+51 992 046 840",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/dario-arica-camacho60ab822ba/",
+        "website": "",
+        "portfolio": "https://darioaricav2.netlify.app",
+        "summary": ""
+    },
+    "work_experience": [],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javaScript",
+                "sass",
+                "typescript",
+                "css",
+                "python",
+                "html",
+                "react",
+                "vite-js",
+                "webpack",
+                "git"
+            ],
+            "soft": [],
+            "tools": [
+                "github",
+                "visual-studio-code"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Galactic Fragility - Aplicación de Astronomía",
+            "description": "Aplicación web diseñada para aficionados a la astronomía, que explora las trayectorias de los planetas y las constelaciones con una estética cósmica y elegante. Ofrece una experiencia inmersiva y poética que resalta la belleza y fragilidad del universo.",
+            "technologies": ["jsx", "vite", "netlify-functions", "css", "astronomyapi"],
+            "url": ""
+        },
+        {
+            "name": "Polaris - Travel App",
+            "description": "Plataforma web de planificación de viajes desarrollada en React con un enfoque moderno e intuitivo. Se implementó un diseño limpio, optimizado y responsive enfocado en la experiencia del usuario.",
+            "technologies": ["react", "css", "vite", "jsx"],
+            "url": ""
+        },
+        {
+            "name": "Stellarium - Courier App",
+            "description": "Diseñada con un enfoque minimalista y moderno, priorizando la usabilidad y la UX. Su interfaz es completamente responsive y optimizada para ofrecer una navegación fluida y accesible.",
+            "technologies": ["javaScript", "sass", "html", "netlify"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

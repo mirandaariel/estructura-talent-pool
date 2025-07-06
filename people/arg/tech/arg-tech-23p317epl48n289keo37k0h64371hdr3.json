@@ -1,0 +1,145 @@
+{
+    "personal_info": {
+        "first_name": "Juan",
+        "last_name": "Alejandro",
+        "email": "alejandro4juan@gmail.com",
+        "phone": "+54 115463-0022",
+        "location": {
+            "country": "Argentina",
+            "city": "San Isidro",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://linkedin.com/in/juanagusalej",
+        "website": "",
+        "portfolio": "https://portafolio-juangus.vercel.app",
+        "summary": "Soy un desarrollador Full Stack con más de 3 años de experiencia en IT. Especializado en la creación de aplicaciones web y móviles usando tecnologías como React, React Native, Node.js y bases de datos SQL/NoSQL."
+    },
+    "work_experience": [
+        {
+            "job_title": "SSR React Native Developer",
+            "company": "ItRocks",
+            "location": "",
+            "start_date": "2024-12-01",
+            "end_date": "2025-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Armado de la arquitectura del proyecto",
+                "Desarrollo de la app de la empresa a React Native",
+                "Resolver bug del sistema",
+                "Mantenimiento de la app",
+                "Desarrollar soluciones segun el modelo de negocio"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "React Native Developer",
+            "company": "GlobalNews",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Armado de la arquitectura del proyecto",
+                "Desarrollo de la app de la empresa a React Native",
+                "Resolver bug del sistema",
+                "Mantenimiento de la app",
+                "Desarrollar soluciones segun el modelo de negocio"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Startup - Magnetico",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Participé en el desarrollo de un sistema de gestión de pedidos utilizando Next.js y NestJS.",
+                "Implementé un flujo para controlar y asignar pedidos a diferentes empresas, permitiendo una asignación automática.",
+                "Desarrollé la lógica que permitía a las empresas crear cotizaciones personalizadas.",
+                "Mejoré la eficiencia del proceso de cotización y asignación.",
+                "Contribuí a la integración de microservicios y a la escalabilidad del sistema."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Curso Full Stack y Desarrollo de Aplicaciones Móviles",
+            "institution": "",
+            "location": "",
+            "start_date": "2021-09-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "node.js",
+                "react",
+                "spring-boot",
+                "react-native",
+                "sequelize",
+                "html",
+                "mongodb",
+                "css",
+                "sql",
+                "bootstrap",
+                "git",
+                "java",
+                "javascript",
+                "next.js",
+                "nest.js"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Vecinos App",
+            "description": "Mantente conectado con vecinos, empresas locales, servicios y autoridades.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Prode Tonic3",
+            "description": "Práctica profesional en grupos de cinco personas utilizando React.js, Node.js y MongoDB.",
+            "technologies": [
+                "react",
+                "node.js",
+                "mongodb"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Fast Delivery",
+            "description": "Una empresa de logística que debe poder monitorear la operación de repartidores y reasignar paquetes.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

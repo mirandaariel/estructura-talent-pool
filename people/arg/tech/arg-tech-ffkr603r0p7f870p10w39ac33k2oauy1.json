@@ -1,0 +1,203 @@
+{
+    "personal_info": {
+        "first_name": "Ester",
+        "last_name": "",
+        "email": "Rangeljhon55@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "https://portafolio-mhg0.onrender.com",
+        "summary": "Full-stack developer with 3 years of experience building modern, dynamic, and responsive interfaces using React, Next.js, and Angular. On the backend side, I've developed robust and scalable APIs with Node.js (using Express and Next.js) and Java with Spring Boot, integrating relational and non-relational databases, and ensuring good development practices, security, and performance."
+    },
+    "work_experience": [
+        {
+            "job_title": "Web Developer WordPress",
+            "company": "Zola S.A.S",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creation of website, profiles, profile slider, profile update.",
+                "Implemented features such as custom user profile generation, dynamic profile sliders, and the option to update profile information from the frontend.",
+                "Customized existing themes and developed specific features through custom plugins and functions.php tweaks.",
+                "Integrated forms with validations, user role management, and site performance optimization."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "CIVEL SAS",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Development and maintenance of enterprise applications using the .NET stack for the backend.",
+                "Developed and consumed RESTful APIs, connecting them to databases such as SQL Server and Oracle to efficiently manage business logic and data storage.",
+                "Used Angular along with HTML5, CSS3, and Bootstrap to create dynamic and responsive user interfaces.",
+                "Implemented reactive forms, validations, API consumption, and reusable components that improved code maintainability.",
+                "Worked on service integration."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Java Developer",
+            "company": "",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed applications with Java and Spring Boot, creating REST services, managing databases, and applying best development practices.",
+                "Implemented security with Spring Security."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "Logali SAS",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed a mobile application using React Native, focusing on creating responsive interfaces and fluid user experiences.",
+                "Implemented state management primarily with Redux and Context API.",
+                "Participated in the integration of REST APIs, local storage management with AsyncStorage, and structuring the project with a modular architecture for easy maintenance.",
+                "Collaborated in an agile environment alongside backend and design teams to ensure efficient delivery."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Flutter Developer",
+            "company": "",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Development of cross-platform mobile applications (Android and iOS) using Flutter and Dart.",
+                "Creation of attractive and responsive interfaces following Material Design principles.",
+                "Consumption and integration of RESTful APIs for dynamic data loading and updating.",
+                "State management using Provider, Riverpod, or Bloc, depending on project needs.",
+                "Publishing applications on the Google Play Store and App Store, including certificate configuration and testing."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Systems Engineering",
+            "institution": "Areandina University",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "System Technique",
+            "institution": "Servicio Nacional de Aprendizaje - SENA",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring-boot",
+                "javascript",
+                "html",
+                "css",
+                "react",
+                "react-native",
+                "flutter-(dart)",
+                "angular",
+                "next.js",
+                "vue.js",
+                "c#",
+                ".net",
+                "typescript",
+                "express",
+                "nodejs",
+                "nuxt",
+                "aws",
+                "wordpress",
+                "bulma"
+            ],
+            "soft": [],
+            "tools": [
+                "git-&-github",
+                "postman",
+                "tailwind-css",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "SaleSystem",
+            "description": "A sales management system. The company that hires you has branches at the LATAM level and needs to keep track of its suppliers, vendors, clients, products and sales.",
+            "technologies": [
+                "netzjs",
+                "react",
+                "javascript",
+                "tailwind-css",
+                "firebase"
+            ],
+            "url": "https://sales-system-ons.vercel.app/"
+        },
+        {
+            "name": "Uriel Networker",
+            "description": "Landing page developed using Angular for one of my clients.",
+            "technologies": [
+                "angular",
+                "css"
+            ],
+            "url": "https://uriel-rincon-net.vercel.app/"
+        },
+        {
+            "name": "Hotels Reservations (Booking App)",
+            "description": "An API is consumed to generate hotel reservations, with their respective styles with traditional CSS, apart from the implementation of filtering by hotel names, cities, and price.",
+            "technologies": [
+                "react",
+                "javascript",
+                "css",
+                "api"
+            ],
+            "url": "https://bookingapp-uvy3.onrender.com/"
+        },
+        {
+            "name": "Users - CRUD",
+            "description": "Web application that allows interaction with a Users API through all HTTP methods.",
+            "technologies": [
+                "react",
+                "javascript",
+                "api"
+            ],
+            "url": "https://users-crud-5qub.onrender.com/"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

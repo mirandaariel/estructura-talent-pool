@@ -1,0 +1,107 @@
+{
+    "personal_info": {
+        "first_name": "Angel Ricardo",
+        "last_name": "Chavez Zaragoza",
+        "email": "rcdo.chavezza@gmail.com",
+        "phone": "+52 6142106085",
+        "location": {
+            "country": "Mexico",
+            "city": "Chihuahua",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/rc-chavezza",
+        "website": "",
+        "portfolio": "",
+        "summary": "Junior programmer with technical training in Multiplatform Software Development, skills in Python and Java, and experience in practical project development using Git/GitHub. Self-taught, solution-oriented, and committed to writing clean and efficient code. Constantly learning new technologies, with the ability to quickly adapt to different development environments."
+    },
+    "work_experience": [
+        {
+            "job_title": "Cross-Plataform Mobile Developer",
+            "company": "Martin Engineering",
+            "location": "MTC",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed a Flutter app for PDF and image management, implementing upload, display, and basic editing with specialized libraries.",
+                "Designed custom interfaces (UI/UX) following company guidelines, prioritizing simplicity and intuitive user experience.",
+                "Managed data handling through APIs and local storage (Firebase Storage), optimizing performance on low-resource devices.",
+                "Actively participated in SCRUM ceremonies to align priorities, present progress, and receive constant feedback."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "",
+            "company": "UTCH (Capstone Project)",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed a Flutter app for real-time hive monitoring, connecting IoT sensors that sent structured JSON data (temperature, humidity, activity) to a REST API with SQL backend.",
+                "Designed a UI adaptable to different devices, prioritizing clarity and usability in rural environments with limited connectivity.",
+                "Implemented interactive dashboards for data visualization on mobile and web (Next.js), with automatic alerts for critical changes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "TSU en Desarrollo y Gestión de Software",
+            "institution": "Universidad Tecnologica de Chihuahua (UTCH)",
+            "location": "Mexico, Chih, Chih",
+            "start_date": "2022-09-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingenieria en Desarrollo y Administracion de Software",
+            "institution": "Universidad Tecnologica de Chihuahua (UTCH)",
+            "location": "Mexico, Chih, Chih",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "java",
+                "flutter",
+                "rest-api"
+            ],
+            "soft": [
+                "problem-solving",
+                "self-taught",
+                "adaptability"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "firebase-storage"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Fluent"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

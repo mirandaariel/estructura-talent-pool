@@ -1,0 +1,184 @@
+{
+    "personal_info": {
+        "first_name": "Jesus",
+        "last_name": "Chacon",
+        "email": "jesuszen2.6@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Passionate web developer, with 3 years of experience in creating robust and scalable technology solutions. Specialized in frontend with React, Next.js, Vue.js (Inertia) and TypeScript, and backend with Python (FastAPI), PHP (Laravel), applying best practices to ensure clean code, high performance and robust architectures. Focused on maintainable and scalable projects from their conception, with constant interest in learning new technologies to offer innovative and quality solutions."
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Developer",
+            "company": "Simplified Practice",
+            "location": "",
+            "start_date": "2025-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Maintenance and development of view logic and store views in Shopify using Liquid.",
+                "Creation of themes and/or templates."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "Exceptia",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Development and maintenance of web application on the frontend side.",
+                "Total refactoring with Next and separation of monolith, with backend logic to Nest for web3 application.",
+                "Development and orchestration of web application structure related to dating and escorts."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "Moa Travel",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2025-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Development of a web application for management of agencies and users for contracting trips and activities.",
+                "Logic of operation in the administrative part for management and control of users/agencies."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "Simplified Practice",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Web application development for sale of medicines.",
+                "User data transmission to specific APIs for communication of doctors and pharmacies.",
+                "Management of payment processes and payment subscriptions with Card Connect."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Web Frontend Developer",
+            "company": "Freelancer - Bikdyne",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "2023-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Develop functionalities for specific assigned modules using Typescript, React and Next.",
+                "Validate forms and assign captchas.",
+                "Connect specific endpoints for submit handlers.",
+                "Layout and fix layouts with Tailwind."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Web Frontend Developer",
+            "company": "Freelancer",
+            "location": "",
+            "start_date": "2022-12-01",
+            "end_date": "2023-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Develop functionalities, layout, and logic.",
+                "Integrate JWT client-side with Redux TLK and Context for user data state management.",
+                "Handle API errors using Axios Interceptor and display with Notistack.",
+                "Enhance performance, organization, debugging; validate forms and implement Captcha V3."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "NextStation",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Development of application for management of entities, control, monitoring and work behavior.",
+                "Server-side development with FastApi and PostgreSQL.",
+                "Use of RabbitMQ for microservices communication.",
+                "Client-side development with Typescript, Vue, and Nuxt."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Web Frontend Developer",
+            "company": "Freelancer",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Total refactoring from Vue 2 and Laravel 8 to Vue 3 and Laravel 10.",
+                "Change from Vuetify to custom components.",
+                "Development of web application with multistep, role management, authentication, and authorization.",
+                "Use of Stripe API and business logic development."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Web Developer",
+            "company": "Novadeha SAS",
+            "location": "",
+            "start_date": "2023-06-01",
+            "end_date": "2023-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Development of simultaneous projects including total front-end change.",
+                "Assembling controlled and reusable structures with Javascript Vanilla and Laravel/Blade.",
+                "CRM functionalities like chat with websockets.",
+                "Exhaustive refactoring in datatables."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "next.js",
+                "vue.js",
+                "typescript",
+                "fastapi",
+                "php",
+                "laravel",
+                "python",
+                "shopify",
+                "liquid",
+                "nest"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": []
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

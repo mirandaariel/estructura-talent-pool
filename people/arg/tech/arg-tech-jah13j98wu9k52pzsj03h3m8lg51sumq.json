@@ -1,0 +1,154 @@
+{
+    "personal_info": {
+        "first_name": "Oscar",
+        "last_name": "Flores",
+        "email": "floresquispeoscar109@gmail.com",
+        "phone": "+54 9 1123295492",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "OscarFlores.com",
+        "portfolio": "",
+        "summary": "Soy Oscar Flores, de Buenos Aires, Argentina. Destaco mi compromiso con la investigación y el desarrollo de soluciones eficientes en el mundo IT. Mi enfoque se centra en alcanzar un alto nivel de precisión y calidad en cada proyecto, explorando metodologías y tecnologías emergentes para lograr resultados innovadores y efectivos. Siempre busco la mejora continua como parte de mi trabajo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Agencia Reckless",
+            "location": "Almagro, Capital Federal, Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de soluciones adaptativas y personalizadas, incluyendo interfaces responsivas, servidores optimizados y funcionalidades específicas.",
+                "Optimización en E-commerce y plataformas de e-learning, con enfoque en SEO y optimización de imágenes para mejorar velocidad de carga y experiencia de usuario."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Servant Argentina",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollador web con experiencia en el ciclo completo de desarrollo: diseño frontend, despliegue y gestión de servidores.",
+                "Colaboración efectiva con el equipo de diseño para garantizar desarrollos 'pixel perfect'.",
+                "Implementación de funcionalidades dinámicas optimizadas para mejorar la experiencia del usuario."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Superior en Programación",
+            "institution": "Universidad Tecnológica Nacional (UTN)",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css",
+                "javascript",
+                "golang",
+                "sql",
+                "java"
+            ],
+            "soft": [],
+            "tools": [
+                "next-js",
+                "react-js",
+                "vite-js",
+                "typescript",
+                "node-js",
+                "express",
+                "nest-js",
+                "rexus",
+                "react-native",
+                "expo",
+                "react-cll",
+                "tailwinds-css",
+                "bootstrap-css",
+                "astro",
+                "angular",
+                "postgress",
+                "sqlite",
+                "mongodb",
+                "mysql",
+                "mariadb",
+                "aws",
+                "google-cloud",
+                "redis",
+                "vercel",
+                "render",
+                "hostinger",
+                "github",
+                "visual-code",
+                "postman",
+                "rabbit",
+                "slack",
+                "canva",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Arquitectura MicroServicíos e implementación con Docker",
+            "issuing_organization": "TODO CODE",
+            "issue_date": "2024-01-01",
+            "expiration_date": "2025-12-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Developer Golang Backend",
+            "issuing_organization": "Bootcamp Labora",
+            "issue_date": "2024-01-01",
+            "expiration_date": "2024-12-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Developer React JS 'Master'",
+            "issuing_organization": "Hacker Rank",
+            "issue_date": "2024-01-01",
+            "expiration_date": "2024-12-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Developer Full Stack",
+            "issuing_organization": "Bootcamp Soy Henry",
+            "issue_date": "2023-01-01",
+            "expiration_date": "2023-12-31",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "Básico (A2)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

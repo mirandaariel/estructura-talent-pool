@@ -1,0 +1,151 @@
+{
+    "personal_info": {
+        "first_name": "Claribel",
+        "last_name": "Merlo",
+        "email": "Claribelmerlo@hotmail.com",
+        "phone": "3402-522472",
+        "location": {
+            "country": "Argentina",
+            "city": "Arroyo Seco",
+            "state": "Santa Fe"
+        },
+        "linkedin": "https://linkedin.com/in/claribel-merlo",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy estudiante de la Tecnicatura en Desarrollo de Software, con formación en Java, Spring Boot y React. Tengo experiencia en bases de datos MySQL y PostgreSQL, y manejo metodologías ágiles como SCRUM, además de herramientas como Git y Maven. He obtenido certificaciones en desarrollo web Front-End y Back-End, APIs con Spring Boot, Programación Orientada a Objetos y microservicios con Spring Cloud. Soy proactiva y siempre busco nuevos desafíos para seguir aprendiendo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Recepcionista - Admin. aux",
+            "company": "Claas Arg. S.A.",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2020-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Primera atención al público y recepción de llamadas.",
+                "Gestioné la caja chica, órdenes de compra, archivo de facturación, control de ingresos y egresos de empleados, además del manejo de correo electrónico y otras tareas administrativas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Atención al público",
+            "company": "Verdulería Semilla",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Atención al cliente, gestión de inventario, reposición de mercadería y control de stock, además de mantener el orden y la limpieza del local."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico en equipos e instalaciones electromecánicas",
+            "institution": "EETP N°450",
+            "location": "",
+            "start_date": "2009-01-01",
+            "end_date": "2014-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico superior en desarrollo de software",
+            "institution": "ISP N°21",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "js",
+                "php",
+                "spring-boot",
+                "hibernate",
+                "mysql",
+                "postgresql",
+                "scrum"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "maven"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Desarrollador web Front-End",
+            "issuing_organization": "MindHub",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollador web Java",
+            "issuing_organization": "MindHub",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Programación Orientada a Objetos con Java",
+            "issuing_organization": "TodoCode",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo de APIs en Java con Spring Boot",
+            "issuing_organization": "TodoCode",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Microservicios con Spring Cloud",
+            "issuing_organization": "TodoCode",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Desarrollo de sistema para el Concejo Municipal de Arroyo Seco",
+            "description": "Proyecto en convenio con el ISP N°21 para el desarrollo de una página web y un sistema de gestión interna de normativas.",
+            "technologies": [
+                "react"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        },
+        {
+            "language": "Chino",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

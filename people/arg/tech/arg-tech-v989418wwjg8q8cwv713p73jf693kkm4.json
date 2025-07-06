@@ -1,0 +1,128 @@
+{
+    "personal_info": {
+        "first_name": "Maria Virginia",
+        "last_name": "Espeche",
+        "email": "virginia.espechekaram@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ex abogada que decidió reinventarse profesionalmente al sumergirse en el mundo del desarrollo de software y el diseño de productos con impacto. Con más de 2 años de experiencia como Full-Stack Developer en Rebill.com (pasarela de pagos cross-border respaldada por Y Combinator) y como Software Engineer y Business Analyst en Lemontech, creando soluciones SaaS para el sector legal en 19 países. Actualmente en formación en Product Ownership y UX Research, con el objetivo de seguir creciendo en producto, aportando una mirada integral que une negocio, tecnología y usuario."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full-Stack Developer",
+            "company": "Rebill",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de soluciones de pago crossborder para startups en LATAM.",
+                "Integración de sistemas con tecnologías modernas y enfoque en escalabilidad.",
+                "Empresa respaldada por Y Combinator, Tiger Global, SV Angel, entre otros."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Engineer",
+            "company": "Lemontech",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de software legal (SaaS) con impacto en 19 países.",
+                "Mejora continua de sistemas jurídicos digitales para más de 1000 clientes.",
+                "Trabajo en equipos ágiles, con enfoque en calidad y experiencia de usuario."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Business Analyst",
+            "company": "Lemontech",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Relevamiento de requerimientos y análisis funcional para nuevos módulos del sistema.",
+                "Puente entre el equipo técnico y stakeholders para garantizar soluciones alineadas con el negocio."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full-Stack Developer",
+            "institution": "Soy Henry",
+            "location": "",
+            "start_date": "2021-04-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Abogacia - Corredora inmobiliaria",
+            "institution": "Universidad Siglo 21",
+            "location": "",
+            "start_date": "2014-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "javascript",
+                "node.js",
+                "react",
+                "next.js",
+                "postgresql",
+                "mongodb"
+            ],
+            "soft": [
+                "product-owner",
+                "ux-research",
+                "analisis-funcional",
+                "experiencia-de-usuario",
+                "scrum",
+                "agile"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "rest-apis",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "Basico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

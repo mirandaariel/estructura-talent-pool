@@ -1,0 +1,157 @@
+{
+    "personal_info": {
+        "first_name": "Hernán",
+        "last_name": "Sánchez",
+        "email": "hernan24744@gmail.com",
+        "phone": "1161555257",
+        "location": {
+            "country": "Argentina",
+            "city": "Burzaco",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Cuento con aproximadamente 2 años de experiencia en desarrollo Frontend, sin embargo durante el último tiempo he estado desempeñándome como Fullstack. También tengo nociones en diseño web y experiencia en soporte técnico. Actualmente busco nuevos desafíos para seguir desarrollando mis habilidades y aportar mis conocimientos dentro de un equipo dinámico."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "Fiverr",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo frontend con HTML, CSS, JavaScript, React.js, Vue.js, etc.",
+                "Backend con Node.js, Express y Java con Spring Boot.",
+                "Creación, integración y optimización de APIs RESTful.",
+                "Uso de Tailwind, Bootstrap y metodologías ágiles (scrum | kanban)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Weblabor mx",
+            "location": "",
+            "start_date": "2023-06-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Construcción de interfaces atractivas e interactivas con Livewire, Alpine.js y Vue.js.",
+                "Backend en Laravel y PHP.",
+                "Integración de APIs, mantenimiento de sistemas y mejoras funcionales.",
+                "Metodologías ágiles (kanban)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador web - Diseñador web",
+            "company": "CTeam",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño, desarrollo y mantenimiento de sitios web utilizando WordPress y Elementor.",
+                "Optimización de rendimiento, gestión de hosting e implementación/renovación de certificados SSL.",
+                "Personalizaciones de plantillas mediante HTML, CSS y PHP.",
+                "Trabajó con herramientas de diseño para realizar wireframes y prototipos dinámicos.",
+                "Metodologías ágiles (kanban)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "Universidad Nacional Guillermo Brown",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnicatura en Desarrollo de software",
+            "institution": "Instituto Superior Politécnico Córdoba",
+            "location": "",
+            "start_date": "2021-03-01",
+            "end_date": "2024-07-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "sass",
+                "javascript",
+                "react.js",
+                "vue.js",
+                "angular",
+                "tailwind-css",
+                "bootstrap",
+                "integración-de-apis",
+                "node.js",
+                "express",
+                "java-spring-boot",
+                "mysql",
+                "sql",
+                "php",
+                "wordpress",
+                "elementor"
+            ],
+            "soft": [],
+            "tools": [
+                "figma",
+                "photoshop",
+                "illustrator",
+                "scrum",
+                "kanban",
+                "git",
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Desarrollo Full Stack con Java y Angular",
+            "issuing_organization": "Argentina programa",
+            "issue_date": "2022-04-01",
+            "expiration_date": "2023-01-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo Full Stack con Node y JavaScript",
+            "issuing_organization": "Educación IT (Digitalers)",
+            "issue_date": "2021-04-01",
+            "expiration_date": "2021-11-30",
+            "credential_id": ""
+        },
+        {
+            "name": "Diseño UX/UI",
+            "issuing_organization": "PoloTIC",
+            "issue_date": "2020-07-01",
+            "expiration_date": "2020-11-30",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "A2+"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,203 @@
+{
+    "personal_info": {
+        "first_name": "Rodrigo",
+        "last_name": "Romero",
+        "email": "rodrigo.romero90@outlook.com",
+        "phone": "+5492996039246",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/rodrigo-romero42645222b",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Fullstack Junior con formación en Java, Spring Boot, React.js y MySQL. Me destaco por la resolución de problemas, el trabajo en equipo y la capacidad de aprendizaje autónomo. Busco mi primera experiencia profesional en IT, motivado por seguir creciendo en el sector tecnológico y aportar valor desde el primer día."
+    },
+    "work_experience": [
+        {
+            "job_title": "Operador de radio",
+            "company": "LU5",
+            "location": "",
+            "start_date": "2024-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Operación de consolas de radio."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnico en Sonido",
+            "company": "Independiente",
+            "location": "",
+            "start_date": "2014-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Operación de consolas.",
+                "Producción y postproducción de audio.",
+                "Alquiler y montaje de equipos de sonido para eventos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnico Electricista",
+            "company": "",
+            "location": "",
+            "start_date": "2012-03-01",
+            "end_date": "2022-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Cableado y pruebas de tableros y PLCs para equipos industriales.",
+                "Instalación de sensores, electroválvulas e instrumental."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Telemarketer",
+            "company": "Makro Neuquén",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención al cliente y gestión de presupuestos.",
+                "Manejo de pedidos y despachos, optimización de tiempos de entrega.",
+                "Resolución de problemas y soporte postventa."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Repositor y Control",
+            "company": "Vital Mayorista",
+            "location": "",
+            "start_date": "2018-11-01",
+            "end_date": "2021-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Reposición de mercadería y control de inventarios.",
+                "Manejo de autoelevadores y despacho de productos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Encargado de Depósito y Distribución",
+            "company": "K Distribuciones",
+            "location": "",
+            "start_date": "2009-01-01",
+            "end_date": "2012-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Armado y reparto de pedidos, facturación y control de stock."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico en Desarrollo de Software Fullstack",
+            "institution": "ITS Cipolletti",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo Fullstack con Java",
+            "institution": "Argentina 4.0",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Sonido",
+            "institution": "Sonar Neuquén",
+            "location": "",
+            "start_date": "",
+            "end_date": "2014-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "javascript",
+                "html",
+                "css",
+                "sql",
+                "spring-boot",
+                "react.js",
+                "node.js",
+                "mysql",
+                "mongodb"
+            ],
+            "soft": [
+                "comunicación",
+                "resolución-de-problemas",
+                "adaptabilidad"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sistema de gestión",
+            "description": "Desarrollé una aplicación CRUD con control de usuarios y reportes. Frontend en HTML + Bootstrap. Backend en Java con Spring Boot. Base de datos en MySQL.",
+            "technologies": [
+                "java",
+                "spring-boot",
+                "html",
+                "bootstrap",
+                "mysql"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Sitio dinámico de eventos",
+            "description": "Desarrollé un sitio dinámico que permite ver, filtrar y registrar eventos. Frontend en React.js con Material UI.",
+            "technologies": [
+                "react.js",
+                "material-ui"
+            ],
+            "url": "https://github.com/piloCipo/planillas-pacientes.git"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Omar Romero",
+            "relationship": "Referencia",
+            "contact": "2994101269"
+        },
+        {
+            "name": "Miguel Díaz",
+            "relationship": "Referencia",
+            "contact": "2995150942"
+        }
+    ]
+}

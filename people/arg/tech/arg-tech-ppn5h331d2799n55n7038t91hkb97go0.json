@@ -1,0 +1,108 @@
+{
+    "personal_info": {
+        "first_name": "Alex",
+        "last_name": "Costa",
+        "email": "alexunio28@gmail.com",
+        "phone": "+54 9 11 2331-8739",
+        "location": {
+            "country": "Argentina",
+            "city": "Caseros, Tres de Febrero",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy una persona alegre, me gusta estar en constante aprendizaje para mejorar mis aptitudes tanto laborales como personales. Disfruto mucho trabajando en equipo, compartiendo y ayudando a los demás. Actualmente, estoy en búsqueda de un trabajo que me permita crecer como profesional, tanto en mi área como en otras nuevas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador FrontEnd",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y creación de interfaces de usuario interactivas.",
+                "Colaboración en equipo brindando soluciones sobre el desarrollo y diseño de la aplicación.",
+                "Generación de código reutilizable y estructuración del sistema front-end.",
+                "Consumo de APIs privadas.",
+                "Implementación de Context API para casos específicos y necesarios del sistema."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FrontEnd",
+            "company": "Metalab",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2023-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Aplicación informativa para un centro de cirugías en React Native, para iOs y Android.",
+                "Aplicación web en ReactJS para industria Web3.",
+                "Aplicación mobile en React Native para la industria Web3.",
+                "Consumo de APIs privadas.",
+                "Generación de componentes reutilizables.",
+                "Conexión a blockchain de Polygon para obtener el balance de una wallet y realizar transacciones de tokens.",
+                "Generación e importación de una wallet.",
+                "Compra de tokens vía medios externos de pago.",
+                "Alta y modificación de usuarios.",
+                "Módulo de administrador para alta y modificación de datos y pantallas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista de Sistemas",
+            "institution": "Instituto ORT",
+            "location": "Almagro - Yatay 240",
+            "start_date": "2020-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Perito Mercantil Comercial",
+            "institution": "EEM N 3 D.E. 17 \"Antonio Devoto\"",
+            "location": "Mercedes 4002",
+            "start_date": "2015-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "typescript",
+                "javascript",
+                "sql",
+                "api-rest",
+                "reactjs",
+                "redux",
+                "context-api"
+            ],
+            "soft": [],
+            "tools": [
+                "trello",
+                "git"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Lectura"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

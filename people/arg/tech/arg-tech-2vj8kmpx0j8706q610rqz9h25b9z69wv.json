@@ -1,0 +1,117 @@
+{
+    "personal_info": {
+        "first_name": "Triana",
+        "last_name": "Clavero",
+        "email": "trianaclavero13@gmail.com",
+        "phone": "(54) 1135039639",
+        "location": {
+            "country": "Argentina",
+            "city": "W.C.Morris",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "LinkedIn",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrolladora de Software",
+            "company": "Novigo Technology",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo y personalización de módulos en Frappe y ERPNext utilizando Python y JavaScript.",
+                "Implementación y análisis de pruebas de concepto (PoC) para evaluar nuevas funcionalidades y tecnologías en Frappe y ERPNext, asegurando su viabilidad y optimizando el rendimiento del sistema.",
+                "Adaptación del sistema de gestión a normativas fiscales argentinas y a necesidades empresariales específicas.",
+                "Creación y modificación de DocTypes, scripts, flujos de trabajo e informes personalizados, alineando el sistema con los requerimientos del negocio.",
+                "Integración de ERPNext con otras herramientas mediante APIs y automatización de procesos.",
+                "Optimización del sistema para mejorar la experiencia del usuario y la eficiencia operativa.",
+                "Mantenimiento y soporte técnico para asegurar la estabilidad y evolución del sistema."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Informática",
+            "institution": "Universidad Nacional del Oeste",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "javascript",
+                "sql",
+                "node.js",
+                "express.js",
+                "fastapi",
+                "flask",
+                "django",
+                "restful-apis",
+                "html",
+                "css",
+                "frappe",
+                "erpnext",
+                "prisma",
+                "pandas",
+                "git",
+                "docker",
+                "postman"
+            ],
+            "soft": [
+                "capacidad-para-resolver-problemas",
+                "trabajo-en-equipo-y-colaboración",
+                "actitud-positiva-hacia-el-aprendizaje-y-el-crecimiento",
+                "comunicación-clara-y-efectiva"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "ReportForge - Generador Automatizado de Reportes",
+            "description": "Desarrollo de una aplicación backend con FastAPI que recibe archivos CSV y genera reportes formateados en PDF o HTML. El proyecto incluye validación de archivos, manejo de errores y generación dinámica de contenido.",
+            "technologies": ["FastAPI", "Docker"],
+            "url": "Repositorio en GitHub"
+        },
+        {
+            "name": "API Blog - Fundación Integrar TEC",
+            "description": "Desarrollo de una API RESTful utilizando Node.js y Express. Incluye autenticación, gestión de usuarios y publicaciones, funcionalidades de favoritos, roles de usuario y validación de esquemas para asegurar la integridad de los datos.",
+            "technologies": ["Node.js", "Express"],
+            "url": "Repositorio en GitHub"
+        },
+        {
+            "name": "ToDo API — Gestión de Tareas",
+            "description": "Desarrollo de una API RESTful con FastAPI para la gestión de tareas y usuarios. Incluye operaciones CRUD completas, validación con Pydantic y manejo de relaciones mediante SQLAlchemy y Alembic.",
+            "technologies": ["FastAPI", "SQLAlchemy", "Alembic"],
+            "url": "Repositorio en GitHub"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

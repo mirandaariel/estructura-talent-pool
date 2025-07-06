@@ -1,0 +1,150 @@
+{
+    "personal_info": {
+        "first_name": "Angel Gabriel",
+        "last_name": "Nievas",
+        "email": "angelgabrielnievas@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/gabriel-nievas",
+        "website": "",
+        "portfolio": "https://gabydev.vercel.app",
+        "summary": "Desarrollador Frontend con +3 años de experiencia construyendo aplicaciones escalables. Especializado en integración con APIs REST. Autodidacta comprometido con metodologías ágiles y trabajo en equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "La Dulce Tradición",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé y desplegué un ecommerce completo para un emprendimiento de repostería artesanal utilizando React, Next.js y Tailwind CSS.",
+                "Implementé funcionalidades clave como carrito de compras, autenticación de usuarios y panel de administración.",
+                "Optimicé el rendimiento del sitio mediante lazy loading, SSR (Server-Side Rendering) y caching estratégico."
+            ],
+            "achievements": [],
+            "repository_url": "https://ladulcetradicion.vercel.app"
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Enpatados",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y desarrollé un ecommerce utilizando React, Zustand, Axios, Tanstack Query, Yup y Formik.",
+                "Implementé un panel de control para gestión de inventario."
+            ],
+            "achievements": [],
+            "repository_url": "https://enpatados.vercel.app"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certificación en Desarrollo Web",
+            "institution": "xAcademy",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2023-10-31",
+            "hours": 0
+        },
+        {
+            "degree": "Formación en Desarrollo Ágil",
+            "institution": "Semillero LATAM (Quinto Impacto)",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "2023-05-31",
+            "hours": 0
+        },
+        {
+            "degree": "Introducción a .NET",
+            "institution": "Polotecnológico",
+            "location": "",
+            "start_date": "2022-08-01",
+            "end_date": "2022-10-31",
+            "hours": 0
+        },
+        {
+            "degree": "Programación Orientada a Objetos",
+            "institution": "SeProgramar",
+            "location": "",
+            "start_date": "2022-02-01",
+            "end_date": "2022-04-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "html",
+                "css",
+                "react",
+                "next.js",
+                "node.js",
+                "spring-boot",
+                "mysql"
+            ],
+            "soft": []
+            ,
+            "tools": [
+                "tailwindcss",
+                "zustand",
+                "tanstack-query",
+                "shadcn",
+                "axios",
+                "formik",
+                "react-hook-form",
+                "zod",
+                "yup",
+                "framer-motion",
+                "trello"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Cortate Bien",
+            "description": "Diseñé y desarrollé un SaaS para ayudar a barberos a mostrar sus barberías y facilitar a clientes la visualización de opciones.",
+            "technologies": ["react", "zustand", "axios", "tanstack-query", "shadcn", "react-hook-form", "zod"],
+            "url": "https://www.cortatebien.com"
+        },
+        {
+            "name": "TechLibrary",
+            "description": "Colaboré en el diseño y desarrollo frontend de una plataforma para que desarrolladores encuentren herramientas y librerías usando React.",
+            "technologies": ["react"],
+            "url": "https://tech-library-iota.vercel.app"
+        },
+        {
+            "name": "EcoSistema",
+            "description": "Desarrollé funcionalidades de seguridad en frontend con React y backend con Spring Boot. Participé en metodologías ágiles SCRUM y en la documentación del proyecto.",
+            "technologies": ["react", "spring-boot"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

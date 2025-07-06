@@ -1,0 +1,202 @@
+{
+  "personal_info": {
+    "first_name": "Gabriel",
+    "last_name": "Cornide",
+    "email": "gabrielcornide.pg@gmail.com",
+    "phone": "+541159286582",
+    "location": {
+      "country": "Argentina",
+      "city": "Buenos Aires",
+      "state": ""
+    },
+    "linkedin": "",
+    "website": "",
+    "portfolio": "",
+    "summary": "Desarrollador Frontend Web y Mobile con más de 3 años de experiencia creando interfaces modernas, accesibles y de alto rendimiento. Especializado en React, React Native, TypeScript, Redux y Tailwind CSS. Fuerte enfoque en diseño UI/UX con Figma. Proactivo, autodidacta y comprometido con la mejora continua. Experiencia en metodologías ágiles, trabajo colaborativo y entrega de soluciones efectivas en entornos dinámicos."
+  },
+  "work_experience": [
+    {
+      "job_title": "Frontend Mobile",
+      "company": "Modatex",
+      "location": "CABA (Híbrido)",
+      "start_date": "2024-07-01",
+      "end_date": "2025-05-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Diseñé prototipos en Figma y los implementé como interfaces responsivas en React Native.",
+        "Mejoré la experiencia de usuario mediante nuevas propuestas UI/UX adaptadas a mobile."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Frontend",
+      "company": "HomeDeluxe",
+      "location": "Remoto",
+      "start_date": "2024-01-01",
+      "end_date": "2024-06-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Diseñé prototipos UI en Figma y desarrollé una web corporativa responsive para una constructora.",
+        "Implementé estilos mobile-first con Tailwind CSS.",
+        "Optimizaciones clave para mejorar la performance y tiempos de carga."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Frontend",
+      "company": "Administración Rolon",
+      "location": "Remoto",
+      "start_date": "2024-01-01",
+      "end_date": "2024-04-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Diseñé prototipos UI en Figma y desarrollé una web corporativa en React y TailwindCSS responsive para una constructora.",
+        "Trabajé con Figma para el diseño de interfaces simples y accesibles."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Frontend",
+      "company": "Bluerabbit",
+      "location": "CABA (Remoto)",
+      "start_date": "2023-07-01",
+      "end_date": "2024-06-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo de una plataforma web responsiva con enfoque en experiencia de usuario.",
+        "Integración con Firebase (autenticación y Firestore) y manejo de estado con TanStack Query."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Frontend Mobile",
+      "company": "Techforb",
+      "location": "EE.UU (Remoto)",
+      "start_date": "2023-09-01",
+      "end_date": "2024-04-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo de app híbrida de e-commerce en React Native.",
+        "Integración con Firebase para autenticación y base de datos en tiempo real.",
+        "Manejo de estado con Redux y almacenamiento local con AsyncStorage."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Frontend Developer",
+      "company": "Touken",
+      "location": "Chile (Remoto)",
+      "start_date": "2023-02-01",
+      "end_date": "2023-04-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollo de presentación corporativa en formato web y mobile con React y React Native.",
+        "Integración de funcionalidades básicas usando Firebase y consumo de servicios externos mediante Axios."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Tecnicatura en Programación",
+      "institution": "UTN Avellaneda",
+      "location": "Avellaneda, Argentina",
+      "start_date": "2025-01-01",
+      "end_date": "2025-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Curso Desarrollador Web Full Stack",
+      "institution": "Fundación Pescar / Education IT",
+      "location": "",
+      "start_date": "2024-01-01",
+      "end_date": "2024-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Curso React Native CLI: Aplicaciones nativas para IOS y Android",
+      "institution": "Udemy",
+      "location": "",
+      "start_date": "2024-01-01",
+      "end_date": "2024-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Curso de Figma, Fundamentos de Diseño de Interfaces UX/UI / Curso Manejo de Datos, Estructuras y Funciones",
+      "institution": "Platzi",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2024-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Curso Desarrollador Web & Mobile Full Stack",
+      "institution": "MindHub LA",
+      "location": "",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "javascript",
+        "typescript",
+        "html5",
+        "css3",
+        "react",
+        "react-native",
+        "next.js",
+        "redux",
+        "react-router",
+        "tailwind-css",
+        "asyncstorage",
+        "react-native-navigation",
+        "firebase",
+        "rest-apis",
+        "axios"
+      ],
+      "soft": [
+        "proactivo",
+        "autodidacta",
+        "comprometido",
+        "trabajo-en-equipo"
+      ],
+      "tools": [
+        "git",
+        "github",
+        "postman",
+        "figma",
+        "agile",
+        "scrum"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {},
+      "tools": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Básico"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

@@ -1,0 +1,106 @@
+{
+  "personal_info": {
+    "first_name": "Kenny",
+    "last_name": "Encinas Carrizo",
+    "email": "kenny.e.carrizo@gmail.com",
+    "phone": "1123024364",
+    "location": {
+      "country": "Argentina",
+      "city": "Buenos Aires",
+      "state": ""
+    },
+    "linkedin": "",
+    "website": "",
+    "portfolio": "KennyREC",
+    "summary": "Soy un estudiante de Sistemas y desarrollador web. Soy proactivo, con un pensamiento lógico y creativo. Disfruto aprender constantemente, adaptarme a nuevos desafíos y trabajar en equipo. Busco oportunidades que me permitan seguir creciendo en el mundo IT, aportando valor a través de mis conocimientos técnicos y mi enfoque centrado en el usuario."
+  },
+  "work_experience": [],
+  "education": [
+    {
+      "degree": "",
+      "institution": "UTN INSPT",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "Full Stack",
+      "institution": "Fundacion Banco Nacion | Educacion IT",
+      "location": "",
+      "start_date": "2025-01-01",
+      "end_date": "",
+      "hours": 237
+    },
+    {
+      "degree": "Back-End",
+      "institution": "Oracle Next Education | Alura Latam",
+      "location": "",
+      "start_date": "2025-01-01",
+      "end_date": "",
+      "hours": 309
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "html",
+        "css",
+        "sql",
+        "angular",
+        "javascript",
+        "java",
+        "node-js",
+        "react-js",
+        "c",
+        "python"
+      ],
+      "soft": [],
+      "tools": [
+        "jira",
+        "figma",
+        "word",
+        "git",
+        "excel",
+        "notion",
+        "canva",
+        "trello"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "GoGym",
+      "description": "Plataforma web para la gestión de gimnasios. Permite a los usuarios registrarse, visualizar el estado de su membresía y explorar servicios disponibles. Incluye panel de administración, diseño mobile-first y experiencia optimizada para distintos tipos de usuario.",
+      "technologies": [],
+      "url": ""
+    },
+    {
+      "name": "Hackathon Code for Good - JP Morgan",
+      "description": "Desarrollamos una página web accesible para una ONG dedicada a la adopción de mascotas. Abordamos dos problemáticas clave: migración de información a una base de datos estructurada y rediseño de la interfaz para un público de amplio rango etario. Presentamos la solución ante un jurado técnico y el fundador de la ONG, destacando por su enfoque inclusivo y alto impacto social, donde mi equipo resultó ganador.",
+      "technologies": [
+        "javascript",
+        "figma",
+        "github",
+        "react",
+        "git",
+        "sql"
+      ],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "Intermediate"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

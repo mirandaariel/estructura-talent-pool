@@ -1,0 +1,77 @@
+{
+    "personal_info": {
+        "first_name": "Joaquin",
+        "last_name": "Luna",
+        "email": "Joaquinfluna4@gmail.com",
+        "phone": "+54 3516425023",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/joaquin-luna/",
+        "website": "",
+        "portfolio": "https://portfolio-joa.web.app",
+        "summary": "Desarrollador Fullstack Jr. con formación intensiva en tecnologías como React, .NET y MySQL. Apasionado por crear soluciones web intuitivas y eficientes. Busco activamente mi primera oportunidad laboral para aplicar mis habilidades, contribuir a un equipo dinámico y crecer profesionalmente como desarrollador."
+    },
+    "work_experience": [
+        {
+            "job_title": "Help desk IT",
+            "company": "KONECTA",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Proporcionar soporte técnico y solucionar problemas informáticos.",
+                "Asistencia a usuarios, garantizar el funcionamiento adecuado de los sistemas.",
+                "Creación y mantenimiento de documentación técnica para la resolución de incidentes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react-js",
+                "javascript",
+                "node-js",
+                "html",
+                "css",
+                "my-sql",
+                "net-8",
+                "c#"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Administración de Torneos de TCG",
+            "description": "Diseñé y desarrollé una API RESTful robusta con ASP.NET Core para gestionar una lógica de negocio compleja, incluyendo la planificación de torneos por fases, emparejamientos y la gestión de múltiples roles de usuario (Admin, Organizador, Juez, Jugador). Implementé un sistema de autenticación y autorización basado en tokens (JWT) para proteger los endpoints y asegurar el acceso diferenciado según el rol del usuario. Construí una interfaz de usuario interactiva y responsiva con React, utilizando Redux Toolkit para una gestión de estado global eficiente y React Router para la navegación entre las distintas vistas del sistema.",
+            "technologies": [
+                "React",
+                "Vite",
+                "Redux Toolkit",
+                "Material UI",
+                "ASP.NET Core",
+                "C#",
+                "MySQL",
+                "JWT"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

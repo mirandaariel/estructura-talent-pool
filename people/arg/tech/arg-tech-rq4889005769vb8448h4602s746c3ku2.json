@@ -1,0 +1,161 @@
+{
+    "personal_info": {
+        "first_name": "Ignacio",
+        "last_name": "Wolf",
+        "email": "ignaciowolf10@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full Stack Developer specialized in building robust, scalable, and user-centric applications across the entire development lifecycle. With hands-on experience in technologies like React, Next.js, Node.js, and PostgreSQL."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full-Stack Engineer",
+            "company": "Phinxlab",
+            "location": "Remote",
+            "start_date": "2024-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed and maintained a critical educational platform used by 1,500+ institutions, 600,000+ students, and 150,000+ staff members.",
+                "Contributed to the management of 26 M+ monthly transactions (attendance, grades, tasks, logins).",
+                "Implemented end-to-end testing with Cypress and refactored legacy code for improved performance and maintainability.",
+                "Designed and delivered the 'Comedor Attendance' module, optimizing the data model for scalability.",
+                "Acted as a go-to developer for urgent or complex tasks within the team."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Engineer",
+            "company": "Livosur",
+            "location": "Freelance Project",
+            "start_date": "2024-08-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Led the development of a web platform for managing 78 sports clubs and 8,500 active players.",
+                "Built a full stack architecture with Next.js, Node.js, PostgreSQL, and production VPS deployment.",
+                "Delivered real-time views of fixtures, results, standings; and a backoffice for tournament management, payments, and statistics.",
+                "Achieved 3,000+ unique monthly users (Google Analytics)."
+            ],
+            "achievements": [
+                "Received direct recognition from league leadership for usability and operational impact."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full-Stack Developer",
+            "company": "Thalamus SA",
+            "location": "Remote",
+            "start_date": "2023-01-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Built full stack solutions using React, Angular, Node.js, Laravel, and MySQL for regional and international projects.",
+                "Developed a mobile-first PWA for 15,000-20,000 monthly users across 3 countries.",
+                "Contributed to an international e-commerce platform with dynamic discounts and referral programs.",
+                "Led end-to-end development with pixel-perfect Figma implementation and high client satisfaction."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Junior Full Stack Developer",
+            "company": "Thalamus SA",
+            "location": "Remote",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Automated key processes using JavaScript and SQL, reducing execution time from 4 h to 1 h.",
+                "Managed 9 active platforms across 3 countries and handled 10+ monthly Jira tickets.",
+                "Created operational reports with SQL and Excel, performed functional testing, and supported enterprise clients."
+            ],
+            "achievements": [
+                "Helped the team earn 5/5 satisfaction scores in annual internal surveys."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's in Systems Engineering",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2019-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack MERN Program",
+            "institution": "Coderhouse",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "react",
+                "next.js",
+                "angular",
+                "typescript",
+                "javascript",
+                "figma",
+                "react-query",
+                "node.js",
+                "express",
+                "laravel",
+                "rest-apis",
+                "postgresql",
+                "mysql",
+                "mongodb",
+                "sql",
+                "cypress",
+                "docker",
+                "vps",
+                "git"
+            ],
+            "soft": [
+                "problem-solving",
+                "product-thinking"
+            ],
+            "tools": [
+                "jira",
+                "excel",
+                "google-analytics"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "B2+"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

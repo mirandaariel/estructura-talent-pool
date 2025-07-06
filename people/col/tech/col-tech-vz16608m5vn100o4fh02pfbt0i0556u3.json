@@ -1,0 +1,156 @@
+{
+    "personal_info": {
+        "first_name": "Gengis Salvador",
+        "last_name": "Hidalgo Guevara",
+        "email": "gengis.hidalgo99@gmail.com",
+        "phone": "+57 3184792619",
+        "location": {
+            "country": "Colombia",
+            "city": "Tuluá",
+            "state": "Valle del Cauca"
+        },
+        "linkedin": "https://linkedin.com/in/gengis-hidalgo",
+        "website": "",
+        "portfolio": "https://github.com/gengisKhanDev",
+        "summary": "Ingeniero en Sistemas de la Universidad del Valle. Desarrollador web Full Stack con 4 años de experiencia profesional en aplicaciones web, ERP y CRM bajo el modelo IaaS, optimizando la infraestructura en la nube y diseñando sistemas escalables para la gestión eficiente de datos y usuarios."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "TheMadFox",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Construcción de vistas con React, TypeScript, Tailwind CSS, Vite y Next.js (diseño responsive y mobilefirst).",
+                "Integración de endpoints, generación de reportes y correos automáticos.",
+                "Uso de herramientas de colaboración y documentación: Insomnia, Swagger, AWS Pipeline, Slack, Coda, Clockify, Docker, Makefile, Stripe; metodologías Scrum."
+            ],
+            "achievements": [
+                "Participación en el proyecto Geneuse optimizando IA para cruces de caballos y uso de Stripe para micropagos.",
+                "Optimización en MentorHispano, reduciendo el tiempo de carga en un 60%.",
+                "Ajustes en el dashboard de Red Circular Araucanía y maquetación en Plataforma Nutricional Matty."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Lifestar Vitalcare",
+            "location": "Edinburg, TX (Remoto)",
+            "start_date": "2022-01-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Despliegue en producción usando AWS, asegurando estabilidad y seguridad.",
+                "Implementación de generación de reportes en PDF con PDF.js y filtros avanzados de búsqueda.",
+                "Desarrollo de módulos para conversión de PDF a HTML y visualización de reportes.",
+                "Diseño e implementación de plantillas de email personalizadas.",
+                "Optimización de rendimiento mediante mejoras en bases de datos y actualización de dependencias.",
+                "Contribución al desarrollo de una aplicación web en Kotlin."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Galaxy VR & Game Lounge",
+            "location": "Edinburg, TX (Remoto)",
+            "start_date": "2022-07-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Sistema de personalización de perfiles y reservas de salas de juego.",
+                "Herramientas administrativas para gestión de listados de juegos y eventos.",
+                "Contribución al diseño e implementación web y despliegue en AWS.",
+                "Mantenimiento del backend con MeteorJS y MongoDB."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Sistemas",
+            "institution": "Universidad del Valle",
+            "location": "Tuluá, Valle del Cauca",
+            "start_date": "2018-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "kotlin",
+                "java",
+                "react",
+                "next.js",
+                "vite",
+                "tailwind-css",
+                "html",
+                "css",
+                "node.js",
+                "meteor.js",
+                "insomnia",
+                "swagger",
+                "aws-pipeline",
+                "stripe",
+                "docker",
+                "cloudflare",
+                "mongodb",
+                "postgresql"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "resolución-de-problemas",
+                "adaptabilidad-y-aprendizaje-continuo",
+                "comunicación-efectiva",
+                "trabajo-bajo-presión"
+            ],
+            "tools": [
+                "slack",
+                "coda",
+                "clockify",
+                "scrum",
+                "latex"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "AWS Certified Cloud Practitioner",
+            "issuing_organization": "Amazon Web Services Training and Certification",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "DevOps en AWS y gestión de proyectos",
+            "issuing_organization": "Coursera",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

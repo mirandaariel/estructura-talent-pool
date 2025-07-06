@@ -1,0 +1,111 @@
+{
+    "personal_info": {
+        "first_name": "Eduardo",
+        "last_name": "Rodríguez",
+        "email": "ejrb1234@gmail.com",
+        "phone": "+58 4145882342",
+        "location": {
+            "country": "Venezuela",
+            "city": "Maracay",
+            "state": "Aragua"
+        },
+        "linkedin": "LinkedIn",
+        "website": "",
+        "portfolio": "Portafolio web",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Front-end",
+            "company": "IncubApp Venture Capital",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollar componentes para librería utilizada en distintos proyectos de la organización, mejorando la eficiencia y consistencia en los distintos ámbitos de desarrollo.",
+                "Aplicar estrategias de SEO y optimización web para mejorar la visibilidad, rendimiento y experiencia de usuario en los distintos proyectos.",
+                "Optimizar el rendimiento de la aplicación mediante la mejora de la carga de datos y la reducción del tiempo de respuesta, mejorando significativamente la experiencia del usuario.",
+                "Implementar mejoras continuas basadas en el feedback del equipo y los usuarios finales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Front-end",
+            "company": "No Country",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Implementé el flujo de trabajo GitFlow, organizando el desarrollo en ramas específicas para facilitar la colaboración y el control del código.",
+                "Colaboré en el desarrollo de la interfaz visual, manteniendo un diseño coherente en las pantallas, accesibilidad, despliegue y optimización del rendimiento.",
+                "Realicé revisiones de código, asegurando la calidad y la adherencia a las mejores prácticas de desarrollo.",
+                "Organicé reuniones periódicas para revisar el progreso, discutir desafíos y ajustar el enfoque.",
+                "Colaboré en diseñar; elementos, componentes, y pantallas (guía de estilos, design system, Figma, usabilidad, mobile-first, etc).",
+                "Desarrollé la interfaz visual. Con diseño coherente de pantallas, accesibilidad, despliegue y optimización del rendimiento.",
+                "Implementé la integración entre el back-end y el front-end, asegurando el flujo de datos eficiente y seguro."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de Sistema TI, Auxiliar técnico en Telecomunicaciones",
+            "company": "Servicio Desconcentrado de Telecomunicaciones Aragua",
+            "location": "Maracay, Aragua",
+            "start_date": "2024-03-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé, desarrollé y mantuve el sistema de gestión de inventario para los equipos de radiocomunicación.",
+                "Monitoreé y realicé mantenimiento correctivo y preventivo de la infraestructura informática (redes, hardware, software; servidores).",
+                "Diagnostiqué, realicé mantenimiento, programé e instalé alrededor de 800 equipos de radiocomunicación Motorola (MTP850, MTP3250, MTP3550, MTM700, MTM800, MTM5400).",
+                "Actualicé y realicé mantenimiento tanto a sistemas operativos como infraestructura del estándar TETRA."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Superior en Informática (Magna cum laude)",
+            "institution": "Instituto Universitario de Tecnología de Administración Industrial",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "next.js", "react.js", "expo", "reactnative", "javascript", "typescript", 
+                "html5", "css3", "tailwindcss", "graphql", "axios", "tanstackquery", 
+                "tanstacktable", "styledcomponents", "motion", "reacthookform", "zod", 
+                "zustand", "linux", "figma", "git", "github", "sql", "scrum"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

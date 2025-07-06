@@ -1,0 +1,88 @@
+{
+    "personal_info": {
+        "first_name": "Javier",
+        "last_name": "Lavallen",
+        "email": "javilavallen02@gmail.com",
+        "phone": "11 41879781",
+        "location": {
+            "country": "Argentina",
+            "city": "Pilar",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": ".NET Developer",
+            "company": "Elipsys IT",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2024-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo y mantengo APIs RESTful en ASP.NET Core aplicando DDD.",
+                "Creación de archivos (xml y pdf) con .NET para reportería de incidentes, higiene y seguridad, control de trabajadores, etc.",
+                "Deploys en ISS (Internet Information Services) del backend.",
+                "Desarrollo de un servicio en .NET encargado de informar sobre incidentes y otros aspectos a través de correos electrónicos y envíos de alertas.",
+                "Desarrollo de un componente que analiza el estado de la base de datos y las APIs en tiempo real.",
+                "Uso de Entity Framework como ORM, relaciones entre tablas, migraciones (code first), LINQ.",
+                "Implementación de un componente reutilizable para la visualización en tiempo real de datos provenientes de vistas SQL.",
+                "Fortalecimiento de la seguridad del sistema mediante la mejora en las validaciones de contraseñas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Programación",
+            "institution": "UTN",
+            "location": "Buenos Aires",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachillerato en Economía y Administración",
+            "institution": "Mano Amiga Santa María",
+            "location": "Pilar, Buenos Aires",
+            "start_date": "2017-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                "asp.net-core",
+                ".net-framework",
+                "javascript",
+                "typescript",
+                "angular",
+                "apis-rest",
+                "microservicios",
+                "sql-server",
+                "cqrs",
+                "mediator",
+                "clean-architecture",
+                "ddd"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

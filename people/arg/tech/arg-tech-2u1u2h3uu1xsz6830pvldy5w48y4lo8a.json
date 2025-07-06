@@ -1,0 +1,176 @@
+{
+    "personal_info": {
+        "first_name": "Fernando",
+        "last_name": "Herrera",
+        "email": "herrera.fernando1209@gmail.com",
+        "phone": "+5491140927775",
+        "location": {
+            "country": "Argentina",
+            "city": "Guernica",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://linkedin.com/in/fernandoherrera2190",
+        "website": "https://github.com/fherrera2190",
+        "portfolio": "",
+        "summary": "Técnico electrónico con conocimientos en programación y formación en Ingeniería en Informática. Experiencia en tareas técnicas, administrativas, operativas y de soporte. Responsable, proactivo y facilidad para aprender. Busco oportunidades para crecer profesionalmente y contribuir al trabajo en equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Soporte Técnico I+D",
+            "company": "Rocketbot",
+            "location": "Trabajo Remoto, Chile",
+            "start_date": "2024-03-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención a consultas y resolución de incidencias relacionadas con la plataforma.",
+                "Análisis de causa raíz y aplicación de soluciones efectivas.",
+                "Registro detallado de incidentes, soluciones aplicadas y acciones en la base de datos de seguimiento.",
+                "Capacitación básica a usuarios sobre el uso de Rocketbot y recomendaciones para evitar errores frecuentes.",
+                "Desarrollo de módulos en Python para extender funcionalidades de la plataforma.",
+                "Corrección de bugs y optimización de código existente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnico y Gestor Comercial",
+            "company": "KNOX Soluciones Tecnológicas",
+            "location": "Jujuy, Argentina",
+            "start_date": "2015-08-01",
+            "end_date": "2023-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Diagnóstico y reparación de fallas en celulares, tablets, computadoras y otros dispositivos.",
+                "Reemplazo de componentes: pantallas, baterías, discos, memorias, fuentes, etc.",
+                "Formateo, instalación y configuración de sistemas operativos (Windows, Android, Linux).",
+                "Recuperación de datos.",
+                "Remanufactura de pantallas y reparación avanzada de displays.",
+                "Armado de PCs a medida, según requerimientos del cliente.",
+                "Instalación, configuración y mantenimiento de sistemas de videovigilancia (CCTV, cámaras IP, DVR y NVR).",
+                "Armado, configuración y mantenimiento de redes informáticas.",
+                "Soldadura superficial (SMD) y trabajos de precisión.",
+                "Asesoramiento técnico personalizado y armado de presupuestos.",
+                "Venta de equipos, repuestos y accesorios.",
+                "Gestión de servicios tercerizados para 9 comercios del rubro en Jujuy.",
+                "Manejo de caja: apertura, cierre y cobros mediante distintos medios de pago (tarjeta, efectivo, transferencias, etc.).",
+                "Toma de decisiones comerciales, planificación operativa y resolución de conflictos.",
+                "Gestión de compras, control de stock, relación con proveedores y registro de movimientos de mercadería.",
+                "Coordinación de tareas entre los equipos técnico y de atención al cliente.",
+                "Formación y supervisión del personal."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Encargado de depósito",
+            "company": "Imán Celulares",
+            "location": "Jujuy, Argentina",
+            "start_date": "2014-10-01",
+            "end_date": "2015-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Organización de inventario, control de stock y reposición de productos (fundas, equipos y accesorios).",
+                "Recepción y control de mercadería.",
+                "Coordinación del stock entre dos sucursales.",
+                "Realización de mandados y tareas logísticas menores.",
+                "Apoyo en atención al público durante momentos de alta demanda."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Tester Funcional",
+            "company": "Pragma Consultores",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2014-02-01",
+            "end_date": "2014-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Ejecución de pruebas manuales sobre funcionalidades web y gestión de incidentes.",
+                "Diseño y documentación de casos de prueba.",
+                "Validación de servicios web.",
+                "Consultas en bases de datos SQL para verificar integridad de datos.",
+                "Colaboración con el equipo de desarrollo y participación en pruebas unitarias."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero informático (incompleto)",
+            "institution": "Universidad Nacional de Jujuy",
+            "location": "Jujuy, Argentina",
+            "start_date": "2009-01-01",
+            "end_date": "2013-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico electrónico",
+            "institution": "Escuela de educación técnica N°2",
+            "location": "Jujuy, Argentina",
+            "start_date": "2003-01-01",
+            "end_date": "2008-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "reactjs",
+                "nextjs",
+                "tailwind-css",
+                "redux",
+                "zustand",
+                "nodejs",
+                "express",
+                "nestjs",
+                "mongodb",
+                "mysql",
+                "postgresql",
+                "docker",
+                "github",
+                "kubernetes",
+                "postman",
+                "aws",
+                "rocketbot",
+                "python",
+                "selenium",
+                "automatización-robótica-de-procesos-(rpa)",
+                "java"
+            ],
+            "soft": [
+                "capacidad-de-trabajo-en-equipo",
+                "adaptabilidad-y-flexibilidad",
+                "responsabilidad",
+                "resolución-de-problemas",
+                "comunicación-efectiva"
+            ],
+            "tools": [
+                "word",
+                "excel"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

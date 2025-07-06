@@ -1,0 +1,170 @@
+{
+    "personal_info": {
+        "first_name": "Alejandro",
+        "last_name": "Escandón Escobar",
+        "email": "escandonalejandro16@gmail.com",
+        "phone": "+57 3127110949",
+        "location": {
+            "country": "Colombia",
+            "city": "Tuluá",
+            "state": "Valle del Cauca"
+        },
+        "linkedin": "https://linkedin.com/in/alejandro-escandon-escobar",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero de Sistemas (tesis en curso) con más de 3 años de experiencia en desarrollo web y 1.5 a 2 años en ingeniería DevOps. Especializado en la administración de infraestructura en Google Cloud Platform (GCP), Kubernetes y Docker, optimización de costos y rendimiento. Apasionado por la mejora continua y la entrega eficiente de software."
+    },
+    "work_experience": [
+        {
+            "job_title": "DevOps Engineer",
+            "company": "Vitawork",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé e implementé infraestructura escalable y segura en GCP, optimizando costos y rendimiento.",
+                "Orquesté contenedores utilizando Kubernetes y Docker, mejorando la eficiencia del despliegue.",
+                "Implementé y mantuve pipelines de CI/CD con GitHub Actions, reduciendo el tiempo de entrega en un 40%.",
+                "Configuré soluciones de monitoreo y logging con Prometheus y Grafana, logrando una disponibilidad del 99.9%.",
+                "Gestioné la seguridad de la plataforma mediante la implementación de VPNs, proxies y firewalls."
+            ],
+            "achievements": [],
+            "repository_url": "https://www.vitawork.ai/"
+        },
+        {
+            "job_title": "Desarrollador Web / DevOps en Proyecto Interno",
+            "company": "Irida Store",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé y mantuve una tienda en línea utilizando HTML, CSS, JavaScript y Node.js.",
+                "Implementé despliegues automatizados mediante Jenkins y GitHub Actions para garantizar entregas continuas.",
+                "Configuré contenedores Docker para ambientes de desarrollo y producción, optimizando el uso de recursos.",
+                "Orquesté entornos de staging y producción en la nube, aplicando prácticas de DevOps para escalabilidad y seguridad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Tutor Independiente de Programación / Gestión DevOps en Proyectos Educativos",
+            "company": "",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Impartí tutorías personalizadas en Python, HTML, CSS y JavaScript a estudiantes universitarios.",
+                "Desarrollé y desplegué entornos Docker para enseñar entornos aislados y configuraciones en la nube.",
+                "Configuré servidores Linux para prácticas de administración y despliegue de aplicaciones.",
+                "Introduje a estudiantes en la automatización de procesos con scripts Bash y Git."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Sistemas",
+            "institution": "Unidad Central del Valle del Cauca (UCEVA)",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "google-cloud-platform",
+                "kubernetes",
+                "docker",
+                "jenkins",
+                "github-actions",
+                "gitlab-ci/cd",
+                "terraform",
+                "ansible",
+                "bash",
+                "python",
+                "prometheus",
+                "grafana",
+                "elk-stack",
+                "vpns",
+                "proxies",
+                "firewalls",
+                "git",
+                "scrum",
+                "kanban"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "DevOps (Docker, Linux, CI/CD)",
+            "issuing_organization": "Alura Latam",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Programación (Java, Lógica de Programación)",
+            "issuing_organization": "Alura Latam",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Front End (HTML & CSS, JavaScript, React)",
+            "issuing_organization": "Alura Latam",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Ciencia de Datos (Data Science, Machine Learning, Bases de Datos)",
+            "issuing_organization": "Alura Latam",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Innovación y Gestión (Transformación Ágil, Liderazgo y Gestión de Equipos)",
+            "issuing_organization": "Alura Latam",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Sistema de Gestión Universitaria",
+            "description": "Desarrollo y despliegue en la nube de una aplicación para la gestión de datos académicos utilizando Python y Django.",
+            "technologies": ["python", "django"],
+            "url": ""
+        },
+        {
+            "name": "Aplicación de Tutorías Online",
+            "description": "Plataforma para gestionar y reservar sesiones de tutoría, integrando APIs y utilizando bases de datos relacionales y no relacionales.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

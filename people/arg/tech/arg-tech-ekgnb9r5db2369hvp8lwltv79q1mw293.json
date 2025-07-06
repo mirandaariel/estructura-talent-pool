@@ -1,0 +1,133 @@
+{
+    "personal_info": {
+        "first_name": "Bruno",
+        "last_name": "Cardamone",
+        "email": "brunocardamone03@gmail.com",
+        "phone": "+5492477685189",
+        "location": {
+            "country": "Argentina",
+            "city": "Rosario",
+            "state": "Santa Fe"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Junior Front-end Developer",
+            "company": "Cycle",
+            "location": "Remote",
+            "start_date": "2024-02-01",
+            "end_date": "2024-09-30",
+            "currently_working": true,
+            "responsibilities": [
+                "Created attractive interfaces and solved low to medium complexity technical problems.",
+                "Optimized API consumption and improved code logic and technical documentation.",
+                "Proposed generic reusable classes that accelerated development of new views."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Junior Full Stack Developer",
+            "company": "Cycle",
+            "location": "Remote",
+            "start_date": "2024-09-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Participated in the creation and optimization of APIs and efficient data management.",
+                "Implemented design patterns that improved backend performance.",
+                "Developed generic reusable components and optimized API consumption through asynchronous operations.",
+                "Started teaching and mentoring new developers, which strengthened best practices and elevated code quality."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Mid Senior Full Stack Developer",
+            "company": "Cycle",
+            "location": "Remote",
+            "start_date": "2024-01-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Coordinated complex projects and facilitated communication between multidisciplinary teams.",
+                "Enhanced software architecture by designing and implementing scalable and modular solutions with a focus on quality, security, and performance.",
+                "Optimized development processes with automations and rigorous code reviews.",
+                "Mentored and guided the team, driving innovation and adoption of new technologies."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "AR-WEB",
+            "location": "Remote",
+            "start_date": "2024-01-01",
+            "end_date": "2024-02-29",
+            "currently_working": false,
+            "responsibilities": [
+                "Led the creation of an e-commerce focusing on leadership, UX/UI, and front-end development with React.js and CSS.",
+                "Optimized existing code, implemented complex logic efficiently, and ensured high performance in API consumption.",
+                "Improved documentation and code quality, enhancing skills in communication, stress management, and teamwork."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciado en Ciencias de la Computación",
+            "institution": "Universidad Nacional de Rosario",
+            "location": "Santa Fe, Rosario",
+            "start_date": "2023-03-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "Udemy",
+            "location": "Remote",
+            "start_date": "2023-05-01",
+            "end_date": "2023-11-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "angular.js",
+                "typescript",
+                "scss",
+                "tailwind",
+                "primeng",
+                "asp.net-core",
+                "sql-server"
+            ],
+            "soft": [
+                "buena-comunicación",
+                "eficacia",
+                "liderazgo",
+                "resolución-de-problemas",
+                "manejo-de-estrés",
+                "proactividad",
+                "curiosidad",
+                "comunicación-asertiva"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

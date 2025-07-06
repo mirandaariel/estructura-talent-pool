@@ -1,0 +1,136 @@
+{
+    "personal_info": {
+        "first_name": "Eduardo",
+        "last_name": "Masís Suárez",
+        "email": "erms12.99@gmail.com",
+        "phone": "+505 8149-2458",
+        "location": {
+            "country": "Nicaragua",
+            "city": "Managua",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/eduardo-masís-285454145",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con 2 años de experiencia en Angular, Node.js, TypeScript, .NET y SQL. Especializado en la arquitectura backend con Express y el patrón repositorio, aplicando metodologías ágiles. Apasionado por el desarrollo web, la optimización de código y las buenas prácticas. Experiencia con Git/GitHub y trabajo en equipo. Siempre dispuesto a aprender y mejorar junto a otros profesionales."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé aplicaciones web dinámicas y responsivas con Angular y TypeScript, mejorando la experiencia de usuario y optimizando el rendimiento.",
+                "Implementé APIs REST con Node.js y Express, integrándolas con bases de datos SQL para gestionar usuarios, productos y pedidos.",
+                "Diseñé y optimicé componentes reutilizables en Angular, reduciendo la redundancia de código en un 30%.",
+                "Integré Autenticación y Autorización (JWT, OAuth) para mejorar la seguridad en plataformas web.",
+                "Automaticé despliegues y versionado del código utilizando Git y GitHub, facilitando la colaboración con otros desarrolladores.",
+                "Apliqué metodologías ágiles (Scrum) para mejorar la organización de proyectos y cumplir con tiempos de entrega.",
+                "Realicé mantenimiento y optimización de código, reduciendo tiempos de carga y mejorando la escalabilidad de las aplicaciones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "SIASA",
+            "location": "Managua, Nicaragua",
+            "start_date": "2024-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Participé en la creación y mantenimiento de un CRM y un sistema de órdenes para carritos de compra, utilizando Angular y Node.js para una experiencia fluida y escalable.",
+                "Implementé APIs REST en Node.js con Express para gestionar usuarios, pedidos y procesos de negocio, optimizando tiempos de respuesta en un 40%.",
+                "Diseñé y desarrollé componentes reutilizables en Angular, mejorando la eficiencia del equipo y reduciendo la redundancia de código.",
+                "Integré Jenkins y GitLab CI/CD para automatizar despliegues y pruebas, asegurando entregas más rápidas y confiables.",
+                "Desarrollé y di mantenimiento a un sistema basado en .NET MVC con JavaScript y jQuery, modernizando funcionalidades sin afectar el rendimiento del sistema heredado.",
+                "Optimicé consultas SQL y procedimientos almacenados, reduciendo los tiempos de carga en un 50%.",
+                "Gestioné control de versiones y revisión de código en GitLab, asegurando calidad y buenas prácticas en cada commit."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería Electrónica",
+            "institution": "Universidad Nacional de Ingenieria",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "angular",
+                "typescript",
+                "html",
+                "css",
+                "git",
+                "github",
+                "gitlab",
+                "jenkins",
+                "aws"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "AWS Cloud Practitioner",
+            "issuing_organization": "AWS Training",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Fundamentos de Bases de Datos",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Fundamentos de Ingeniería de Software",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Angular desde cero a Experto",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso definitivo de HTML y CSS",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1+"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

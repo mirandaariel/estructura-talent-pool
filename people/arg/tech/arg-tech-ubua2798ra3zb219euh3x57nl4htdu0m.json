@@ -1,0 +1,198 @@
+{
+    "personal_info": {
+        "first_name": "Mateo",
+        "last_name": "",
+        "email": "mateolaria2021@gmail.com",
+        "phone": "+54 93434500100",
+        "location": {
+            "country": "Argentina",
+            "city": "Paraná",
+            "state": "Entre Ríos"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy Técnico Universitario en Programación por la UTN FRP, un profesional responsable con cuatro años de experiencia en el mundo de la programación y más de un año de experiencia laboral. Poseo sólidos conocimientos en desarrollo Backend y Frontend, con un enfoque actual en la arquitectura y construcción de soluciones Backend."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador de software",
+            "company": "Applica Solutions",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño, desarrollo y mantenimiento de APIs REST en Spring Boot.",
+                "Integración de WebSockets para funcionalidades de comunicación en tiempo real.",
+                "Gestión y optimización de bases de datos relacionales y no relacionales.",
+                "Implementación de autenticación y autorización seguras.",
+                "Desarrollo de pruebas unitarias y de integración para asegurar la calidad.",
+                "Resolución de incidencias, refactorización y optimización del código.",
+                "Colaboración estrecha con el equipo frontend para garantizar una integración eficiente.",
+                "Automatización de procesos de CI/CD utilizando Docker y AWS CodeDeploy.",
+                "Integración con servicios de AWS y sistemas de terceros.",
+                "Desarrollo de servicios para el procesamiento de archivos CSV y el envío de correos electrónicos personalizados."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack | Líder del Proyecto",
+            "company": "Mónico",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de servicios backend en .NET 8 (C#).",
+                "Modelado, normalización y optimización de bases de datos relacionales.",
+                "Integración avanzada con Google Drive API.",
+                "Implementación de aplicaciones frontend como Progressive Web App (PWA).",
+                "Consumo y diseño de APIs RESTful.",
+                "Automatización de despliegues y configuración de entornos en IIS.",
+                "Refactorización y mantenimiento de código legacy.",
+                "Implementación de componentes reutilizables y hooks personalizados en React.",
+                "Colaboración directa con stakeholders y clientes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Universitario en Programación",
+            "institution": "UTN FRP",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachillerato en Ciencias Naturales",
+            "institution": "ICEBEM",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Formación Profesional en Fundamentos de Programación",
+            "institution": "Instituto Celsius",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Agronómica (incompleta)",
+            "institution": "UNER",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Argentina Programa 4.0",
+            "institution": "Desarrollo Web y Móvil",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Codo a Codo",
+            "institution": "FullStack Python",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Step English Language Center",
+            "institution": "Inglés Intermedio",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                "spring-boot",
+                "python",
+                "javascript",
+                "typescript",
+                "react",
+                "next.js",
+                "postgresql",
+                "mysql",
+                "mongodb",
+                "rest-apis",
+                "fastapi",
+                "asp.net",
+                "google-drive-api"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "gestión-del-tiempo",
+                "aprendizaje-autónomo",
+                "adaptación-a-nuevas-tecnologías"
+            ],
+            "tools": [
+                "github",
+                "gitlab",
+                "figma",
+                "visual-studio-code",
+                "visual-studio-community",
+                "eclipse",
+                "intellij-idea"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "DashPass Automated School Dismissal App",
+            "description": "Desarrollador Backend en el proyecto de diseño, desarrollo y mantenimiento de APIs REST.",
+            "technologies": [
+                "spring-boot",
+                "java-21",
+                "mongodb",
+                "mysql",
+                "websockets",
+                "rest-apis",
+                "aws"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Plataforma de gestión de eventos (Mónico)",
+            "description": "Desarrollador Full Stack y líder del proyecto, incluyendo el desarrollo de servicios backend y frontend.",
+            "technologies": [
+                ".net-8",
+                "c#",
+                "postgresql",
+                "sql-server",
+                "reactjs",
+                "typescript",
+                "tailwind-css",
+                "google-drive-api",
+                "iis",
+                "ionos"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

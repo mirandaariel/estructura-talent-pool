@@ -1,0 +1,104 @@
+{
+    "personal_info": {
+        "first_name": "Nicolas",
+        "last_name": "Dorado Soria",
+        "email": "Nicolas_dorado_soria@hotmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante avanzado de la Tecnicatura en Programación Informática (UNSAM) y ayudante de materias. Apasionado por la tecnología y en búsqueda de mi primera experiencia laboral como programador. Trabajo en proyectos personales y académicos aplicando tecnologías como Kotlin, React, Angular, Node.js y bases de datos como PostgreSQL y MongoDB. Me destaco por mi compromiso, capacidad de aprendizaje y ganas de crecer en equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Ayudante",
+            "company": "UNSAM",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Colaboro voluntariamente asistiendo a estudiantes con trabajos prácticos usando Kotlin (back-end) y React o Angular (front-end).",
+                "Apoyo en corrección de trabajos junto al docente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Entrada de datos",
+            "company": "Okey Producciones",
+            "location": "",
+            "start_date": "2010-01-01",
+            "end_date": "2011-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Empresa dedicada a servicios de digitalización de documentos para organismos del Estado."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación Informática",
+            "institution": "Universidad Nacional de San Martín (UNSAM)",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Perito Auxiliar en Sistemas Administrativos",
+            "institution": "CENS N°73, Distrito N°18, CABA",
+            "location": "",
+            "start_date": "2010-01-01",
+            "end_date": "2015-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "kotlin",
+                "react",
+                "postgresql",
+                "angular",
+                "node.js",
+                "mongodb"
+            ],
+            "soft": [
+                "compromiso",
+                "capacidad-de-aprendizaje",
+                "trabajo-en-equipo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [
+        {
+            "role": "Ayudante",
+            "organization": "UNSAM",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "",
+            "responsibilities": [
+                "Colaboro voluntariamente asistiendo a estudiantes con trabajos prácticos usando Kotlin (back-end) y React o Angular (front-end).",
+                "Apoyo en corrección de trabajos junto al docente."
+            ]
+        }
+    ],
+    "publications": [],
+    "references": []
+}

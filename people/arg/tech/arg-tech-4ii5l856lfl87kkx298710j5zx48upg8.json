@@ -1,0 +1,149 @@
+{
+    "personal_info": {
+        "first_name": "Lucas",
+        "last_name": "Cabrera",
+        "email": "cabreralucaspatricio@gmail.com",
+        "phone": "+54 1164380322",
+        "location": {
+            "country": "Argentina",
+            "city": "Monte Grande",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "LinkedIn Profile",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Car2Token",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "2025-04-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed a scalable WebApp and REST API to manage fiduciary loans, used by 200+ users monthly.",
+                "Built a loan simulation tool that reduced manual quoting efforts by 70% and improved user conversion rate by 25%.",
+                "Designed a KYC system with ID scanning and AFIP SDK, cutting manual verification time by 60%.",
+                "Created an internal admin dashboard, improving operational efficiency and reducing support requests by 40%.",
+                "Integrated USDT payment flows on Polygon and Rootstock, handling 300+ transactions securely.",
+                "Authored and deployed Solidity smart contracts for DeFi use cases, with >98% successful interaction rate.",
+                "Improved site speed by 35%, reducing bounce rate on landing pages by 22%.",
+                "Tracked user interactions via META Pixel, increasing marketing attribution accuracy by 30%.",
+                "Integrated Mercado Pago for payments."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "JRC Studio",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2024-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed and deployed 3+ responsive WebApps with pixel-perfect design and cross-browser compatibility.",
+                "Built a PWA integrated with Algorand blockchain and QR scanning, reducing fraud risk in logistics by 50%.",
+                "Designed architecture diagrams and specs, speeding up development handoffs by 30%.",
+                "Created CMS & APIs for data management & business logic.",
+                "Developed Android APKs for logistics and tracking.",
+                "Integrated Mercado Pago for payments."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Development",
+            "institution": "Henry Academy",
+            "location": "Online",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Electromechanical Technician",
+            "institution": "San Bonifacio Technical Institute",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "react",
+                "next.js",
+                "tailwind-css",
+                "mongodb",
+                "express",
+                "google-apis",
+                "jwt",
+                "polygon-blockchain",
+                "rootstock-blockchain",
+                "ethers.js",
+                "solidity",
+                "hardhat",
+                "javascript",
+                "react-native",
+                "node.js",
+                "algorand-blockchain",
+                "css"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Free Programming Classes",
+            "description": "Teaching JavaScript, React, HTML & CSS to beginners and community members.",
+            "technologies": [
+                "javascript",
+                "react",
+                "html",
+                "css"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Sales & Event Management System",
+            "description": "Developed a role-based access control system for different user levels. Created an interactive agenda for sales & admin teams to manage appointments.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Event Ticket Sales WebApp",
+            "description": "Integrated Mercado Pago for secure payments. Generated unique QR codes for identity validation at events. Implemented a promo code discount system & admin dashboard. Optimized frontend with auto-sliders & responsive UI for mobile & desktop. Designed UI/UX using Figma.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Joaquín Repetto Cordeyro",
+            "relationship": "CTO Car2Token & Founder of JRC Studio",
+            "contact": "LinkedIn Profile"
+        },
+        {
+            "name": "Ezequiel Delgado",
+            "relationship": "CEO Car2Token",
+            "contact": "LinkedIn Profile"
+        }
+    ]
+}

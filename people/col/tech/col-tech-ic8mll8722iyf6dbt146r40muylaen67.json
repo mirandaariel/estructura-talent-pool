@@ -1,0 +1,158 @@
+{
+    "personal_info": {
+        "first_name": "Juan José",
+        "last_name": "Rodriguez",
+        "email": "zoranbow@gmail.com",
+        "phone": "+57 3046552825",
+        "location": {
+            "country": "Colombia",
+            "city": "Cali",
+            "state": "Valle"
+        },
+        "linkedin": "https://www.linkedin.com/in/juan-jose-rodriguez-valcke/",
+        "website": "",
+        "portfolio": "https://juan-rodriguez-portafolio.vercel.app",
+        "summary": "Desarrollador Full Stack con trasfondo en artes, filosofía, lenguas e historia. Con conocimientos en Javascript, Typescript, React, Next, Redux, Node, Express, Sequelize, PostgreSQL, MongoDB, HTML y CSS. Con experiencia en desarrollo web de E-Commerce y sitios web de consumo informativo tanto en front-end como en back-end, así como en la gestión de bases de datos SQL y NoSQL. Con pensamiento creativo, trabajo en equipo, aprendizaje activo y habilidades comunicativas y de liderazgo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Tutor de Inglés de Niveles Principiante e Intermedio",
+            "company": "Clases Particulares",
+            "location": "Cali, Colombia",
+            "start_date": "2016-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Metodología basada en juegos de roles, narración, artes escénicas, literatura y música.",
+                "Acercar a los estudiantes al inglés a través del desarrollo de competencias y habilidades artísticas, discursivas y conversacionales de manera natural y especializada."
+            ],
+            "achievements": []
+        },
+        {
+            "job_title": "Dirección Musical en Artes Escénicas",
+            "company": "Instituto Departamental de Bellas Artes",
+            "location": "Cali, Colombia",
+            "start_date": "2018-01-01",
+            "end_date": "2019-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Coordinar y dirigir a un grupo de estudiantes de artes escénicas para las intervenciones musicales en el montaje y presentación continua de la obra El Volcán de la Pena Escupe Llanto.",
+                "Incorporar recursos musicales en las escenas y aportar al desarrollo de habilidades musicales de los participantes."
+            ],
+            "achievements": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 700
+        },
+        {
+            "degree": "4to año de Licenciatura en Lenguas Extranjeras",
+            "institution": "Universidad del Valle",
+            "location": "Cali, Colombia",
+            "start_date": "2014-01-01",
+            "end_date": "2014-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "3er año de Licenciatura en Música",
+            "institution": "Universidad del Valle",
+            "location": "Cali, Colombia",
+            "start_date": "2006-01-01",
+            "end_date": "2006-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "html",
+                "css",
+                "react.js",
+                "next.js",
+                "react-router",
+                "redux",
+                "styled-components",
+                "node.js",
+                "express",
+                "sequelize",
+                "mongoose",
+                "postgresql",
+                "mysql",
+                "mongodb"
+            ],
+            "soft": [
+                "creative-thinking",
+                "teamwork",
+                "active-learning",
+                "communication",
+                "leadership"
+            ],
+            "tools": [
+                "git",
+                "trello",
+                "slack"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Typescript sin fronteras",
+            "issuing_organization": "Nicolas Schurmann, Udemy",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "React - Guia definitiva",
+            "issuing_organization": "Nicolas Schurmann, Udemy",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Zoran's Gallery",
+            "description": "Diseñar y desarrollar una galería de imágenes que incluye: diseño responsive, scroll infinito, data fetching, modelado y validación de datos, renderizado de imágenes ajustado al tamaño individual y búsqueda dinámica por palabras clave.",
+            "technologies": ["Next.js", "Zod", "CSS modules"],
+            "url": "https://github.com/Zoranspiegel/next-pexels-gallery"
+        },
+        {
+            "name": "Dreams Factory",
+            "description": "Diseñar y desarrollar un E-Commerce que incluye: autenticación, pasarela de pagos, búsquedas, filtrados combinados, ordenamientos, dashboard de admin, borrado lógico, notificaciones por email, etc.",
+            "technologies": ["React.js", "Redux", "React-Router", "Toaster", "Express", "Node.js", "MongoDB", "Mongoose"],
+            "url": "https://github.com/Zoranspiegel/dreams-factory-pf"
+        },
+        {
+            "name": "PL4YER Z3RO",
+            "description": "Diseñar y desarrollar una App web sobre información de videojuegos que incluye: búsquedas, filtrados combinados, ordenamientos, formulario de creación, etc.",
+            "technologies": ["React.js", "Redux", "React-Router", "Styled Components", "Express", "Node.js", "PostgreSQL", "Sequelize"],
+            "url": "https://github.com/Zoranspiegel/PI-videogames-main"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "C1 Upper-Intermediate"
+        },
+        {
+            "language": "French",
+            "proficiency": "B1 Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

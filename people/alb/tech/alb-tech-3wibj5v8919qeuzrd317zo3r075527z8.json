@@ -1,0 +1,125 @@
+{
+    "personal_info": {
+        "first_name": "Eljo",
+        "last_name": "Leka",
+        "email": "eljo.lekaa@gmail.com",
+        "phone": "+355676935134",
+        "location": {
+            "country": "Albania",
+            "city": "Tirana",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/eljo-leka",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Engineer",
+            "company": "S2 Global",
+            "location": "Tirana, Albania",
+            "start_date": "2023-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed and optimized core functionalities of a critical internal .NET Core project, achieving 25% faster processing times and significantly reducing vulnerability risks.",
+                "Developed sections of existing applications in Angular using Typescript and PrimeNG, enhancing the user interface and overall user experience.",
+                "Successfully migrated a legacy ASP.NET MVC project using Identity Server to .NET Core WebAPI using Keycloak, along with the required modifications for the Postgres database schema.",
+                "Integrated Amazon S3 and AWS SES into current products, increasing the security and reliability of external data storage and communication, and improving user engagement through automated email notifications.",
+                "Conducted code reviews and wrote detailed documentation for every implemented core feature, ensuring clarity and knowledge transfer within the team and facilitating future maintenance.",
+                "Attended meetings with clients and provided ongoing support for issues within the project scope, troubleshooting and resolving bugs to maintain project integrity and user satisfaction."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "CData Software",
+            "location": "Tirana, Albania",
+            "start_date": "2022-12-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Regularly resolved recurring production issues and implemented enhancements for critical ASP.NET WebForms and WebAPI services, contributing to application stability and user satisfaction.",
+                "Implemented security patches to two production websites in .NET Core, resulting in 99.9% uptime while significantly reducing API response times from the hosted server.",
+                "Developed and improved existing RESTful APIs in .NET Core and NodeJS used in internal company tools and services. Utilized Entity Framework Core and SQL Server for efficient database operations and optimized query performance.",
+                "Leveraged Screaming Frog for comprehensive SEO audits, identifying and resolving 200+ on-page issues to enhance site performance and user experience.",
+                "Designed and maintained custom automation tools with Node.js (Gulp.js) and ArcScript (in-house language), optimizing build pipelines and deployment processes for 2 major projects.",
+                "Integrated existing .NET Core applications with Umbraco CMS, significantly boosting workflow efficiency for the marketing team by nearly 20%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "MSc Information Systems Engineering",
+            "institution": "University of Tirana",
+            "location": "Tirana, Albania",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "BS Informatics",
+            "institution": "University of Tirana",
+            "location": "Tirana, Albania",
+            "start_date": "2020-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                ".net-core",
+                "asp.net",
+                "typescript",
+                "angular",
+                "html/css/javascript"
+            ],
+            "soft": [],
+            "tools": [
+                "umbraco",
+                "sql-server",
+                "postgres",
+                "sqlite",
+                "oracle"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Data Privacy & Information Security V3.2",
+            "issuing_organization": "Traliant",
+            "issue_date": "2023-09-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "General Data Protection Regulation (GDPR)",
+            "issuing_organization": "Traliant",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Aptis General - Listening Reading Speaking Writing - CEFR Level: C",
+            "issuing_organization": "British Council",
+            "issue_date": "2023-09-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

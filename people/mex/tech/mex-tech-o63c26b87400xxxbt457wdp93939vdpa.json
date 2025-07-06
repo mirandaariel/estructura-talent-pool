@@ -1,0 +1,149 @@
+{
+    "personal_info": {
+        "first_name": "Lillys",
+        "last_name": "Hernández Ramos",
+        "email": "lillys.hernandez.ramos@gmail.com",
+        "phone": "+527471368435",
+        "location": {
+            "country": "México",
+            "city": "",
+            "state": "Tabasco"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador de software con 4 años de experiencia en la creación de aplicaciones web robustas y eficientes. Experta en React, HTML, CSS y Python, con un sólido historial en el desarrollo de soluciones innovadoras y personalizadas que mejoran la experiencia del usuario. Excelentes capacidades para trabajar en equipo, resolver problemas de manera creativa y mantener una comunicación efectiva con los stakeholders. Apasionada por aprender y aplicar nuevas tecnologías para optimizar procesos y contribuir al éxito del equipo de desarrollo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrolladora de Software Front End",
+            "company": "DEREVO S.A DE C.V.",
+            "location": "Zapopan, México",
+            "start_date": "2018-10-01",
+            "end_date": "2023-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web, para el manejo de datos internos de cada cliente, tanto para Desktop como Responsive.",
+                "Maquetación de mashups, mediante el uso de herramientas como: HTML, CSS, Bootstrap.",
+                "Funcionalidad de mashups, mediante el uso de AngularJs.",
+                "Integración de objetos usando Qlik Sense como motor de datos.",
+                "Desarrollo de un e-commerce para mascotas usando React, Componentes JSX, Promesas, Async/Await, Hooks, Método MAP consumo de API, enrutamiento, eventos y renderizado."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Supervisor de Control de Calidad",
+            "company": "CEIMIC S.A. DE C.V.",
+            "location": "Villahermosa, México",
+            "start_date": "2014-01-01",
+            "end_date": "2015-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Supervisar y garantizar la aplicación rigurosa de procedimientos durante la fase de construcción, asegurando el cumplimiento de estándares de calidad y la entrega de proyectos impecables.",
+                "Implementar y supervisar procedimientos generales y operativos, optimizando la eficiencia y la coherencia con las especificaciones, instrucciones y demás documentos del Sistema de Gestión.",
+                "Enfoque meticuloso para identificar y corregir desviaciones en los procesos, garantizando la calidad final del producto y minimizando riesgos potenciales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Software Developer",
+            "institution": "4Geeks Academy",
+            "location": "Remoto",
+            "start_date": "2024-02-01",
+            "end_date": "2024-06-01",
+            "hours": 0
+        },
+        {
+            "degree": "Carrera de Desarrollo Web con React",
+            "institution": "Coderhouse",
+            "location": "Remoto",
+            "start_date": "2022-02-01",
+            "end_date": "2022-07-01",
+            "hours": 0
+        },
+        {
+            "degree": "Bootcamp en Desarrollo Web",
+            "institution": "Laboratoria",
+            "location": "Guadalajara, Jalisco, México",
+            "start_date": "2018-02-01",
+            "end_date": "2018-09-01",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en Sistemas Computacionales",
+            "institution": "Instituto Tecnológico Superior de Xalapa",
+            "location": "Xalapa, Veracruz, México",
+            "start_date": "1998-01-01",
+            "end_date": "2003-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html5",
+                "css3",
+                "python",
+                "angularjs",
+                "react",
+                "jwt",
+                "apis",
+                "flux",
+                "postgresql",
+                "sqlalchemy",
+                "fetch"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "bootstrap",
+                "scrum",
+                "qlik-sense"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Doctor Now",
+            "description": "Desarrollo de un sistema de entrada de análisis clínicos que permite a los pacientes registrar análisis de sangre para evaluar su salud.",
+            "technologies": ["react.js", "bootstrap", "flux", "python", "flask", "postgresql", "sqlalchemy", "jwt"],
+            "url": ""
+        },
+        {
+            "name": "Blog de Star Wars",
+            "description": "Desarrollo de una interfaz de usuario con capacidad de respuesta utilizando React.js y Bootstrap, garantizando un excelente rendimiento en todos los dispositivos.",
+            "technologies": ["react.js", "bootstrap", "flux", "api-usage", "fetch", "swapi.tech"],
+            "url": ""
+        },
+        {
+            "name": "Sistema de Autenticación",
+            "description": "Desarrollo de una aplicación web segura y eficiente implementando registro de usuarios, creación de nuevos usuarios en la base de datos y redirigiendo al inicio de sesión tras un registro exitoso.",
+            "technologies": ["react.js", "python", "flask", "bootstrap", "jwt"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

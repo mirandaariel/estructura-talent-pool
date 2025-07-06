@@ -1,0 +1,153 @@
+{
+    "personal_info": {
+        "first_name": "Americo Leandro",
+        "last_name": "Mortarini",
+        "email": "leandromortarini@gmail.com",
+        "phone": "+541126034427",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "LinkedIn",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Front-end con experiencia en la creación de aplicaciones web modernas, dinámicas y responsivas utilizando tecnologías como React, Vue 3, Javascript, Node.js, TypeScript y Express. Me especializo en construir interfaces funcionales orientadas a la experiencia del usuario, trabajando en equipos multidisciplinarios bajo metodologías ágiles como Scrum. Me destaco por mi buena comunicación, capacidad para aportar ideas claras y colaborar activamente en el equipo. Me siento preparado y motivado para asumir un nuevo desafío laboral, donde pueda seguir creciendo profesionalmente y aportando valor a cada proyecto."
+    },
+    "work_experience": [
+        {
+            "job_title": "Front-end Developer",
+            "company": "Inflatrack",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Implementé interfaces modernas y responsivas con React, Styled Components y Material UI, optimizando la experiencia del usuario.",
+                "Desarrollé funcionalidades completas del lado del cliente, como carritos de compras, filtros y formularios dinámicos.",
+                "Integré servicios mediante RTK Query y gestioné el estado global con Redux Toolkit.",
+                "Colaboré activamente con los equipos de backend y diseño bajo metodologías ágiles (Scrum), participando en sprints, dailys y revisiones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Adbize",
+            "location": "",
+            "start_date": "2025-03-01",
+            "end_date": "2025-05-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Realicé refactorizaciones de múltiples aplicaciones desarrolladas en JavaScript, TypeScript, Node.js y Express, corrigiendo funcionalidades obsoletas o con errores críticos.",
+                "Implementé nuevas funcionalidades y mejoré la arquitectura existente para garantizar mayor estabilidad y mantenibilidad.",
+                "Adapté varias aplicaciones a dispositivos móviles, mejorando la accesibilidad y experiencia del usuario final.",
+                "Trabajé en un entorno ágil bajo la modalidad Scrum, participando activamente en sprints, dailys y entregas iterativas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "INNEVO",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2025-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una plataforma interna usando Angular 18, Node, Express, PostgreSQL, Angular Material y SCSS, logrando una interfaz más intuitiva y accesible.",
+                "Implementé servicios compartidos para facilitar el acceso a datos, mejorando la eficiencia del equipo y reduciendo tiempos de desarrollo.",
+                "Diseñé componentes modulares y reutilizables que aumentaron la escalabilidad y velocidad en futuras implementaciones.",
+                "Trabajé de forma colaborativa en entornos ágiles, contribuyendo a entregas rápidas y de calidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Product Designer",
+            "institution": "CoderHouse",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomatura en Programación Web con PHP y MySQL",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "next.js",
+                "vue3",
+                "redux-toolkit",
+                "node",
+                "express",
+                "postgresql"
+            ],
+            "soft": [
+                "buena comunicación",
+                "colaboración",
+                "aporte de ideas claras"
+            ],
+            "tools": [
+                "tailwind-css",
+                "scss",
+                "material-ui",
+                "styled-components",
+                "shadcn-ui",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Gestor de comercio",
+            "description": "Solución avanzada de gestión empresarial: control de inventario, actualización masiva de precios y generación de estadísticas.",
+            "technologies": [
+                "React",
+                "Redux",
+                "Styled Components",
+                "Material UI"
+            ],
+            "url": "https://www.youtube.com/watch?v=1cP4YFZnCbE&t=8s"
+        },
+        {
+            "name": "Ecommerce",
+            "description": "Plataforma para pedidos personalizados mediante correo electrónico.",
+            "technologies": [
+                "Next.js",
+                "TypeScript",
+                "Tailwind"
+            ],
+            "url": "https://www.youtube.com/watch?v=kSwAxLFOJXs"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

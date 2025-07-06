@@ -1,0 +1,113 @@
+{
+    "personal_info": {
+        "first_name": "Milagros",
+        "last_name": "Luna",
+        "email": "lunamilagrosw@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Técnica universitaria en programación graduada en la UTN, con experiencia en Angular, Next.js y React. Competente en bases de datos (Firebase, SQL Server, MySQL) y control de versiones con Git. Experiencia en POO y programación multi-hilo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrolladora Fullstack",
+            "company": "Gobierno de la ciudad de Buenos Aires",
+            "location": "Buenos Aires",
+            "start_date": "2025-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web utilizando React y Next.js, enfocándome en componentes reutilizables y rendimiento optimizado.",
+                "Implementación y mantenimiento de APIs REST siguiendo principios de arquitectura limpia y buenas prácticas de escalabilidad.",
+                "Gestión eficiente de bases de datos MySQL mediante el uso de Prisma como ORM.",
+                "Integración de interfaces modernas, responsivas y accesibles.",
+                "Colaboración estrecha con diseñadores y desarrolladores para mejorar la experiencia de usuario (UX).",
+                "Participación activa en code reviews para mantener la calidad y consistencia del código.",
+                "Uso de herramientas de control de versiones (Git/GitHub) y gestión de paquetes (npm)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrolladora Web",
+            "company": "Proyecto Bot Minero",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé e implementé la interfaz de usuario utilizando Next.js, optimizando la aplicación para mejorar la experiencia del usuario y la eficiencia del desarrollo.",
+                "Utilicé React y Tailwind CSS para crear componentes reutilizables y de alto rendimiento.",
+                "Implementé buenas prácticas en el manejo de Git y en la gestión de versiones, facilitando la colaboración en el proyecto."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrolladora Fullstack",
+            "company": "Gestión de Ingresos - Phoenix Imprenta",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creé una aplicación web para la gestión de ventas y la generación de informes utilizando Angular 16 y Firebase.",
+                "Optimicé el sistema de autenticación y almacenamiento en la nube usando Google Cloud Platform, garantizando la seguridad de los datos.",
+                "Mejoré la usabilidad de la plataforma con la implementación de Bootstrap para una interfaz moderna y responsive."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnicatura Universitaria en Telecomunicaciones",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "angular",
+                "next.js",
+                "react",
+                "firebase",
+                "sql-server",
+                "mysql",
+                "git",
+                "poo",
+                "programación-multi-hilo"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

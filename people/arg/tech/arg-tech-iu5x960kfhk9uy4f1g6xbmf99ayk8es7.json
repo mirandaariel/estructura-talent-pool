@@ -1,0 +1,143 @@
+{
+    "personal_info": {
+        "first_name": "Fausto",
+        "last_name": "Scarmato",
+        "email": "Faustoscarmato@hotmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "PORTAFOLIO, GA, 3NG TECH, COINPAY, BACHSHOP",
+        "summary": "Desarrollador Frontend con formación en tecnologías como React, JavaScript, HTML, CSS y herramientas modernas de desarrollo. Actualmente me desempeño como Soporte Técnico en Informática en la Municipalidad de San Martín, donde desarrollo habilidades de resolución de problemas, atención al usuario y trabajo en equipo. Busco mi primera oportunidad profesional como desarrollador frontend para aplicar mis conocimientos, crecer en entornos reales y aportar compromiso, responsabilidad y ganas de seguir aprendiendo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Gestor de Planes (Fitness)",
+            "location": "",
+            "start_date": "2025-04-01",
+            "end_date": "2025-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo completo de interfaces en React, con diseño responsivo y animaciones CSS personalizadas.",
+                "Implementación de pasarela de pagos utilizando la SDK de MercadoPago.",
+                "Configuración de un backend básico en Node.js para generar preferencias de pago.",
+                "Consumo de APIs y manejo de variables de entorno para despliegue en Vercel y Render.",
+                "Gestión de estados y comportamiento dinámico con React Hooks."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "3NG TECH (startup tecnológica)",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo del sitio web en React con foco en diseño responsivo y usabilidad.",
+                "Integración de estilos con SASS y Bootstrap según el diseño entregado por el equipo de UX/UI.",
+                "Coordinación con product manager, UX/UI y community managers mediante tableros en Trello.",
+                "Enfoque en una landing page moderna, orientada a la conversión de leads para una agencia digital."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend - Proyecto académico",
+            "company": "COINPAY (Banco Digital Web3)",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y desarrollé una aplicación frontend de un banco digital orientado al ecosistema cripto, con funcionalidades modernas y adaptadas a múltiples dispositivos, idiomas y estilos visuales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend - Proyecto académico",
+            "company": "BACHSHOP (Ecommerce de Flores de Bach)",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Aplicación web desarrollada con React para la venta de productos naturales, diseñada con foco en la experiencia del usuario y funcionalidades de e-commerce completas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico en Informática",
+            "institution": "Escuela Secundaria Técnica",
+            "location": "",
+            "start_date": "2012-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Carrera Desarrollo Frontend React",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso de Angular",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react",
+                "angular.js",
+                "bootstrap",
+                "sass",
+                "node.js",
+                "apirest",
+                "axios"
+            ],
+            "soft": [
+                "comunicación",
+                "trabajo-en-equipo",
+                "resolución-de-problemas",
+                "adaptabilidad"
+            ],
+            "tools": [
+                "trello",
+                "figma",
+                "vite",
+                "git",
+                "github",
+                "npm",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

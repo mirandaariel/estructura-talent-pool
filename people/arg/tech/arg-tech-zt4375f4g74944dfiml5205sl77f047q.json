@@ -1,0 +1,104 @@
+{
+    "personal_info": {
+        "first_name": "David",
+        "last_name": "Vaquet",
+        "email": "david_vaquet@hotmail.com",
+        "phone": "+54 3834592677",
+        "location": {
+            "country": "",
+            "city": "San Juan",
+            "state": "Capital"
+        },
+        "linkedin": "",
+        "website": "https://github.com/DavidVaquet",
+        "portfolio": "",
+        "summary": "Actualmente me encuentro en proceso de formación en el área de desarrollo de software, con un fuerte compromiso hacia el aprendizaje y la mejora continua. Me considero una persona organizada, con buena capacidad de comunicación, trabajo en equipo y orientación a resultados. Busco oportunidades que me permitan aplicar mis conocimientos y seguir creciendo dentro del ámbito profesional."
+    },
+    "work_experience": [
+        {
+            "job_title": "Soporte Tecnico IT",
+            "company": "VN Global Claro",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Brindar soporte técnico a clientes, resolviendo problemas relacionados con redes y conectividad a internet.",
+                "Diagnosticar y solucionar incidencias técnicas, asegurando una experiencia satisfactoria para los usuarios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Freelance",
+            "company": "",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo completo de una tienda online utilizando React.js, Node.js y PostgreSQL. Incluye carrito de compras, sistema de registro e inicio de sesión de usuarios, integraciones con pasarelas de pago y panel de administración con control total del stock y gestión de productos.",
+                "Implementación de una solución full stack (Node.js, Express y React.js) para la administración contable de tres locales. Permite cargar, editar y eliminar comprobantes, además de visualizar estadísticas detalladas por local y consolidado general.",
+                "Diseño y desarrollo de una landing page profesional utilizando HTML, CSS, JavaScript y Node.js. Incluye integración de pasarela de pagos y formularios de contacto totalmente funcionales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería Informática",
+            "institution": "Facultad Regional Córdoba - UTN-FRC",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Secundario Completo",
+            "institution": "Universidad Fasta Catamarca",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                "java",
+                "javascript",
+                "nodejs",
+                "reactjs",
+                "sql-server",
+                "mysql",
+                "postgresql",
+                "mongodb",
+                "tailwind",
+                "bootstrap"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

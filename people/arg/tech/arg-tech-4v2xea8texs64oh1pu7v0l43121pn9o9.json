@@ -1,0 +1,102 @@
+{
+  "personal_info": {
+    "first_name": "Gastón",
+    "last_name": "Cargnelutti",
+    "email": "gastoncargnelutti@gmail.com",
+    "phone": "+5493525644646",
+    "location": {
+      "country": "Argentina",
+      "city": "Córdoba Capital",
+      "state": ""
+    },
+    "linkedin": "https://linkedin.com/in/gaston-cargnelutti",
+    "website": "",
+    "portfolio": "https://github.com/GastonCarg",
+    "summary": "Proactive, organized, and responsible. Motivated by learning and implementing innovative languages and tools."
+  },
+  "work_experience": [
+    {
+      "job_title": "Desarrollador React",
+      "company": "Global Think Technology",
+      "location": "Córdoba Capital",
+      "start_date": "2019-10-01",
+      "end_date": "2021-08-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Mantenimiento de servicios API Rest Node.js.",
+        "Desarrollo de aplicaciones web y móvil.",
+        "Generación de documentación."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador React",
+      "company": "Accenture",
+      "location": "",
+      "start_date": "2022-06-01",
+      "end_date": "2025-05-31",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollo de aplicaciones web con React.js.",
+        "Apoyo proactivo al equipo.",
+        "Desarrollo de API en Nest.js.",
+        "Organización y coordinación de trabajo con otros equipos.",
+        "Mentoría a desarrolladores de menor seniority."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ingeniería en Sistemas de Información",
+      "institution": "Universidad Tecnológica Nacional",
+      "location": "",
+      "start_date": "2015-01-01",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "Curso - React.js",
+      "institution": "CoderHouse",
+      "location": "",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "react.js",
+        "node.js",
+        "mongodb",
+        "mysql",
+        "typescript",
+        "github"
+      ],
+      "soft": [],
+      "tools": [
+        "git",
+        "git-flow",
+        "postman",
+        "jira",
+        "slack",
+        "bitbucket",
+        "service-now",
+        "teams"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

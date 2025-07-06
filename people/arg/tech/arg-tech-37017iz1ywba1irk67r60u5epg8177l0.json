@@ -1,0 +1,96 @@
+{
+    "personal_info": {
+        "first_name": "Ignacio",
+        "last_name": "Figueroa",
+        "email": "ignaciofigueroadev@gmail.com",
+        "phone": "+54 911 2806-6862",
+        "location": {
+            "country": "Argentina",
+            "city": "Esteban Echeverría",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://linkedin.com/in/figueroa-ignacio",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full-Stack, apasionado por la arquitectura eficiente, la optimización y el diseño intuitivo. Con un enfoque en frontend (React, Next.js, TypeScript, Tailwind) y backend (Node.js, APIs, bases de datos), aplico tecnologías modernas y buenas prácticas para crear soluciones escalables y de alto rendimiento. En constante aprendizaje, siempre explorando nuevas herramientas para potenciar cada proyecto."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Frontend Jr",
+            "company": "Pawtrics Software",
+            "location": "Remoto",
+            "start_date": "2023-05-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y desarrollo de componentes de interfaz de usuario utilizando Next.js, React y MaterialUI.",
+                "Integración, manejo y gestión de base de datos SQL con PostgreSQL utilizando Supabase como servicio en la nube.",
+                "Implementación del Framework de CSS de Google, MaterialUI, para mantener un sistema de diseño consistente en los componentes.",
+                "Implementación de operaciones CRUD (Create, Read, Update, Delete) y manejo de solicitudes HTTP para la obtención y gestión de datos desde el cliente.",
+                "Gestión del código con Git para el control de versiones y GitHub para la colaboración."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachiller en Ciencias Sociales e Informática Básica",
+            "institution": "Escuela Secundaria N11 de Esteban Echeverría",
+            "location": "Provincia de Buenos Aires",
+            "start_date": "2016-03-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "Universidad Tecnológica Nacional (UTN) - Facultad regional de San Nicolas",
+            "location": "",
+            "start_date": "2025-03-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "next.js",
+                "node",
+                "express",
+                "nest",
+                "css",
+                "css-modules",
+                "tailwindcss",
+                "git",
+                "github",
+                "sql",
+                "postgresql",
+                "prismaorm"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

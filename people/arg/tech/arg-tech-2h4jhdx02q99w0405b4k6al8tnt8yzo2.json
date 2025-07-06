@@ -1,0 +1,116 @@
+{
+    "personal_info": {
+        "first_name": "Maximiliano",
+        "last_name": "Frías",
+        "email": "develop.maxsj@gmail.com",
+        "phone": "+549 3813887102",
+        "location": {
+            "country": "Argentina",
+            "city": "San Miguel de Tucumán",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "https://maximiliano-frias.vercel.app",
+        "summary": "Frontend Developer con experiencia en React, Next.js y Redux, especializado en crear interfaces modernas, accesibles y responsivas. Con sólidos conocimientos en backend."
+    },
+    "work_experience": [
+        {
+            "job_title": "Front end developer",
+            "company": "ByronCode",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Crear interfaces de usuario modernas y eficientes, enfocadas en la experiencia del usuario.",
+                "Convertir diseños en aplicaciones interactivas con React, TypeScript, y Material UI."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Programador Universitario",
+            "institution": "Universidad Nacional de Tucumán",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "react",
+                "redux",
+                "next.js",
+                "tailwind-css",
+                "node.js",
+                "express",
+                "postgresql",
+                "sequelize",
+                "typeorm",
+                "git",
+                "github",
+                "rest-apis",
+                "jwt",
+                "docker",
+                "mvc-architecture"
+            ],
+            "soft": [
+                "aprendizaje",
+                "trabajo-en-equipo",
+                "enfoque-en-la-experiencia-del-usuario"
+            ],
+            "tools": [
+                "agile",
+                "scrum",
+                "responsive-design",
+                "figma",
+                "postman",
+                "insomnia",
+                "fullstack-development"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Introducción al desarrollo web",
+            "issuing_organization": "CoderHouse",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollador Fullstack",
+            "issuing_organization": "Henry",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

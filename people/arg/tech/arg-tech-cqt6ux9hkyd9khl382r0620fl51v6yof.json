@@ -1,0 +1,126 @@
+{
+    "personal_info": {
+        "first_name": "Douglas Gabriel",
+        "last_name": "Rondon",
+        "email": "Douglasgrl27@gmail.com",
+        "phone": "+58 424-7144154",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/douglasgrl27",
+        "website": "",
+        "portfolio": "https://douglasgrl-portafolio.vercel.app/",
+        "summary": "Soy un desarrollador frontend apasionado por la programación y el diseño. Me encanta crear interfaces intuitivas y atractivas. Siempre en busca de nuevos desafíos y oportunidades para crecer profesionalmente. Abierto a nuevas oportunidades en el mundo del desarrollo web."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Mayland Labs",
+            "location": "",
+            "start_date": "2023-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Creación de interfaces atractivas y funcionales.",
+                "Colaboración estrecha.",
+                "Optimización de experiencia del usuario.",
+                "Productos de alta calidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Teaching Assistant",
+            "company": "SoyHenry Bootcamp",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "2023-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Asistente de Docencia (TA).",
+                "Coordinador de éxito académico.",
+                "Apoyo y orientación.",
+                "Trabajo en equipo y liderazgo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma – Full Stack Developer",
+            "institution": "Henry BootCamp",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "",
+            "end_date": "2023-12-31",
+            "hours": 800
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react.js",
+                "react-native",
+                "typescript",
+                "redux",
+                "zustand",
+                "tailwind-css",
+                "html",
+                "css",
+                "javascript",
+                "git",
+                "github"
+            ],
+            "soft": [
+                "adaptabilidad",
+                "resolución-de-problemas",
+                "trabajo-en-equipo",
+                "empatía",
+                "liderazgo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Argencompras Ecommerce",
+            "description": "Desarrollo de un ecommerce para la empresa Argencompras, implementación de la interfaz de usuario y optimización del flujo de compra.",
+            "technologies": ["React", "Redux", "TypeScript", "Tailwind CSS"],
+            "url": "https://Argencompras-Ecommerce/"
+        },
+        {
+            "name": "Mayland Labs",
+            "description": "Creación y mantenimiento de la página web oficial de Mayland Labs, desarrollo de interfaces de usuario atractivas y funcionales.",
+            "technologies": ["React", "TypeScript", "Redux", "Tailwind CSS"],
+            "url": "https://maylandlabs.com/"
+        },
+        {
+            "name": "Workitfy",
+            "description": "Plataforma para la gestión de proyectos y tareas en equipos de trabajo. Desarrollo de componentes interactivos y funcionalidades avanzadas.",
+            "technologies": ["React", "Redux", "TypeScript", "Tailwind CSS"],
+            "url": "https://workitfy.maylandlabs.com/"
+        },
+        {
+            "name": "Hyper Events",
+            "description": "Aplicación web para la gestión y organización de eventos. Desarrollo frontend con funcionalidades para crear y gestionar eventos.",
+            "technologies": ["React", "Redux", "Next.js", "Tailwind CSS"],
+            "url": "https://hyperevent-fe.vercel.app/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

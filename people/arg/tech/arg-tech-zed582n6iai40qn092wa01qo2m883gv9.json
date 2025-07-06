@@ -1,0 +1,156 @@
+{
+    "personal_info": {
+        "first_name": "Emanuel",
+        "last_name": "Bolzico",
+        "email": "bolzicoemanuel@gmail.com",
+        "phone": "+5491165390158",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Passionate software developer with expertise in creating innovative and scalable solutions. Experienced in delivering tailored software for complex industries. Looking forward to working on meaningful projects and making a positive impact."
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Engineer",
+            "company": "FK (Tech)",
+            "location": "Argentina",
+            "start_date": "2022-06-01",
+            "end_date": "2025-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Analysed client requests through direct weekly meetings.",
+                "Developed with React, Typescript, Node, Postgres and tested with K6.",
+                "Developed performance-oriented solutions to ensure a stable product and tools to automate internal processes and integrated 3rd party systems."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "321 Ignition",
+            "location": "Washington, USA",
+            "start_date": "2021-06-01",
+            "end_date": "2022-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Analysed requests in teams with designer and QA analyst.",
+                "Developed responsive solutions to match each client's requests with Vue, Node and Mongo, tested with CircleCI.",
+                "Developed a restyled app for specific customers to aim to a new public, requiring integration of new systems, new layouts and a new microservice."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Freelance",
+            "location": "Argentina",
+            "start_date": "2021-04-01",
+            "end_date": "2021-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed the frontend design with React.",
+                "Developed MercadoPago integration to manage payments with Node.",
+                "Co-developed the interface that translated the customer's design into a file."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Assistant",
+            "company": "Henry",
+            "location": "Argentina",
+            "start_date": "2021-04-01",
+            "end_date": "2021-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Mentored a cohort of 40 students through a full-stack course including JavaScript, React, Node.js, and PostgreSQL.",
+                "Committed to cultivating a new generation of skilled developers with practical, hands-on training."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry - Bootcamp",
+            "location": "",
+            "start_date": "2021-02-01",
+            "end_date": "2021-06-30",
+            "hours": 0
+        },
+        {
+            "degree": "Mechanical Engineering",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2014-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Microcontrollers Programming (Assembler)",
+            "institution": "CFP N 34 (Professional Education Course)",
+            "location": "",
+            "start_date": "2012-01-01",
+            "end_date": "2012-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Electronic Technician",
+            "institution": "Pio IX",
+            "location": "",
+            "start_date": "2008-01-01",
+            "end_date": "2013-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "javascript",
+                "html5",
+                "css3",
+                "react.js",
+                "vue.js",
+                "node.js",
+                "express.js",
+                "mongodb",
+                "mysql",
+                "postgresql",
+                "restful-api-design",
+                "responsive-web-design"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "gitlab"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "C2 Proficient"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

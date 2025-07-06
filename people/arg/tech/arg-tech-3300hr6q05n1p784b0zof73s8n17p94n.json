@@ -1,0 +1,148 @@
+{
+  "personal_info": {
+    "first_name": "Marcos",
+    "last_name": "Esqueda",
+    "email": "bymarcant@gmail.com",
+    "phone": "",
+    "location": {
+      "country": "",
+      "city": "",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/marcos-esqueda",
+    "website": "https://marcosesqueda.dev/",
+    "portfolio": "https://github.com/MarcAnt",
+    "summary": "I am a Front-End Developer and JavaScript programmer with over 6 years of experience. Specialized in React.js and TypeScript. Focus on enhancing performance, ensuring responsiveness, cross-browser compatibility, and improving accessibility."
+  },
+  "work_experience": [
+    {
+      "job_title": "Front-end Developer",
+      "company": "Clorian [Tickets Business]",
+      "location": "Cataluña, Spain",
+      "start_date": "2022-12-01",
+      "end_date": "2024-07-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Developed a comprehensive administrative dashboard for a ticket company handling 3 international companies.",
+        "Created and optimized over 5 reusable components in React.js, contributing to more than 10 dynamic views.",
+        "Collaborated closely with a small team of developers to build a modern, responsive web application."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Web Developer",
+      "company": "Rifplay [Raffles company]",
+      "location": "Colombia",
+      "start_date": "2021-12-01",
+      "end_date": "2022-07-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Developed and implemented some reusable React.js components for user registration, awards, and raffles.",
+        "Improved the user experience over 2 views in the dashboard.",
+        "Modified and created over 5 React components using React-Bootstrap."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Front-end Developer",
+      "company": "Quyumasi [IT company]",
+      "location": "Peru",
+      "start_date": "2021-09-01",
+      "end_date": "2021-10-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Created over 2 components with views in the dashboard for medical scheduling in the clinic.",
+        "Responsible for implementing pixel perfect and responsive views on design in Figma."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Front-end Developer",
+      "company": "Savo [IT, Business, auto parts]",
+      "location": "Venezuela, Aragua",
+      "start_date": "2019-09-01",
+      "end_date": "2020-10-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Crafted multiple views from a Bootstrap 4 Admin Dashboard template.",
+        "Built over 15 views with Blade (Laravel template system) components.",
+        "Adapted legacy Laravel/PHP PDF print libraries for cross-browser compatibility."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's Degree in Education major in Chemistry",
+      "institution": "Universidad Pedagógica Experimental Libertador",
+      "location": "",
+      "start_date": "2007-01-01",
+      "end_date": "2015-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "html",
+        "css",
+        "javascript",
+        "typescript",
+        "react.js",
+        "node.js",
+        "restful-api",
+        "jest",
+        "react-testing-library",
+        "vitest"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [
+    {
+      "name": "React: De cero a experto (Hooks y MERN)",
+      "issuing_organization": "Udemy",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Node: De cero a experto",
+      "issuing_organization": "Udemy",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Bootcamp Full Stack Developer (Node.js, HTML 5, CSS)",
+      "issuing_organization": "Campsite Academy",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": "",
+      "hours": 480
+    }
+  ],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Intermediate"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

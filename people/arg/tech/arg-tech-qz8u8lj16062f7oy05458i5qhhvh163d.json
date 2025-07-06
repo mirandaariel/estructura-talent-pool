@@ -1,0 +1,109 @@
+{
+  "personal_info": {
+    "first_name": "Alison",
+    "last_name": "Roa",
+    "email": "roa.alisonn@gmail.com",
+    "phone": "+5493625277114",
+    "location": {
+      "country": "Argentina",
+      "city": "",
+      "state": "Chaco"
+    },
+    "linkedin": "https://www.linkedin.com/in/alison-roa-59305a259/",
+    "website": "",
+    "portfolio": "",
+    "summary": "Desarrolladora Full-Stack con más de 4 años de experiencia creando productos digitales completos para web y mobile. Me especializo en construir soluciones eficientes, escalables y orientadas al usuario, aplicando buenas prácticas de desarrollo, diseño limpio y foco en la experiencia de uso."
+  },
+  "work_experience": [
+    {
+      "job_title": "Full-Stack Developer",
+      "company": "Rummo",
+      "location": "",
+      "start_date": "2022-01-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollé y mantuve una plataforma full-stack para alquiler de autos, entregando versiones web y mobile con una experiencia consistente entre dispositivos utilizando React y React Native.",
+        "Implementé funcionalidades clave como autenticación de usuarios, flujos de reserva y actualizaciones en tiempo real usando Firebase Authentication, Firestore y FCM.",
+        "Diseñé e implementé APIs REST con Node.js y Express, dando soporte a miles de usuarios diarios y datos de reserva en tiempo real.",
+        "Trabajé en el diseño del esquema de PostgreSQL y optimicé consultas para asegurar la consistencia de los datos y un alto rendimiento bajo concurrencia."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Full-Stack Developer",
+      "company": "Tecnosapiens",
+      "location": "",
+      "start_date": "2021-01-01",
+      "end_date": "2022-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollé y mantuve soluciones full-stack para más de 10 proyectos de clientes, reduciendo hasta un 30% los tiempos de entrega de funcionalidades mediante código reutilizable y arquitecturas modulares.",
+        "Automatizé procesos de migración de datos, reemplazando tareas manuales y acelerando transiciones de sistemas heredados, reduciendo los tiempos de migración de días a menos de 2 horas por sistema.",
+        "Optimizé consultas SQL y el diseño de esquemas, reduciendo en un 40% los tiempos de respuesta en endpoints clave y mejorando la estabilidad bajo uso concurrente."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ingeniería en Sistemas",
+      "institution": "UTN",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "react",
+        "next.js",
+        "angular",
+        "vue",
+        "typescript",
+        "tailwind",
+        "sass",
+        "bootstrap",
+        "node.js",
+        "express",
+        "mongodb",
+        "postgresql",
+        "nestjs",
+        "sequelize",
+        "prisma",
+        "react-native",
+        "firebase"
+      ],
+      "soft": [],
+      "tools": [
+        "git",
+        "docker",
+        "aws",
+        "figma"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "C1"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

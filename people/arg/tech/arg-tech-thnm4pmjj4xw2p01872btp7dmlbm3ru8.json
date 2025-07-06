@@ -1,0 +1,119 @@
+{
+    "personal_info": {
+        "first_name": "Adrian",
+        "last_name": "Enis",
+        "email": "adrianenis2000@gmail.com",
+        "phone": "+5804122146309",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/adrianenis",
+        "website": "https://github.com/adrian-enis",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Front end developer",
+            "company": "Beelink",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Modernicé y mantuve el sitio web corporativo, migrando una base legacy a una arquitectura basada en React, TypeScript y Redux.",
+                "Desarrollé componentes interactivos, incluyendo sliders (integrando Swiper.js), menús dinámicos y grids de productos responsive.",
+                "Optimicé el rendimiento mediante lazy loading en imágenes, reduciendo significativamente los tiempos de carga.",
+                "Integré APIs REST para sincronizar el catálogo de productos y garantizar información actualizada en tiempo real."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Front end developer",
+            "company": "Lebomar",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Maquetación y desarrollo front-end de la tienda online con React.js y TailwindCSS.",
+                "Integración con pasarela de pagos (MercadoPago, PayPal o similar) y gestión de carrito.",
+                "Optimización de rendimiento: Implementé code splitting y lazy loading, mejorando el LCP en un 20%.",
+                "Reduje el CLS mediante carga prioritaria de imágenes y estilos críticos.",
+                "Aplique diseño-responsive (mobile-first) con enfoque en UX/UI.",
+                "Trabaje con APIs REST para sincronización de catálogo de productos y órdenes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Informática",
+            "institution": "Universidad Experimental Nacional de Guayana",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Cursos y Autodidacta",
+            "institution": "freeCodeCamp, Udemy, Platzi, Documentación Oficial",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "html5",
+                "react",
+                "next.js",
+                "angular19",
+                "css-modules",
+                "sass",
+                "tailwindcss",
+                "bootstrap",
+                "flexbox/grid",
+                "zustand",
+                "context-api",
+                "node.js",
+                "express",
+                "apis-rest"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "vite",
+                "npm/yarn"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,121 @@
+{
+    "personal_info": {
+        "first_name": "Jesus Armando",
+        "last_name": "Sanchez Tee",
+        "email": "jesusarmand20@gmail.com",
+        "phone": "9981153555",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/jesus-armando-sanchez-tee-46394425a/",
+        "website": "",
+        "portfolio": "https://github.com/JesusArmandoSanchezTee",
+        "summary": "Desarrollador de software con experiencia en tecnologías como C#, React, Next, JavaScript, y SQL. He trabajado en la creación y mantenimiento de aplicaciones web, tanto en el front-end como en el back-end, desarrollando REST APIs y bases de datos relacionales. Mi enfoque ha estado en la automatización de procesos, mejorando la eficiencia de tareas repetitivas para proyectos. Soy una persona comprometida con el aprendizaje continuo, siempre buscando optimizar mis habilidades y adaptarme a nuevas tecnologías."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador FullStack",
+            "company": "Ancona Autopartes",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "2025-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Manejo e integración con sistemas SAP para consulta directa de tablas e inserción automática de datos mediante interfaces desarrolladas especialmente para automatizar procesos empresariales.",
+                "Creación de aplicaciones web completas mediante tecnologías modernas en frontend (React.js, Next.js, HTML, CSS, JavaScript) y backend (C#, .NET).",
+                "Diseño, implementación y mantenimiento de bases de datos relacionales utilizando SQL Server y MySQL.",
+                "Implementación y gestión de soluciones cloud utilizando AWS (S3, IAM).",
+                "Participación en la planificación, desarrollo y despliegue de sistemas completos tanto en frontend como en backend.",
+                "Diseño y desarrollo de sistemas internos orientados a automatizar procesos repetitivos o resolver problemáticas específicas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Becario en Desarrollo de Software",
+            "company": "Grupo SavaS",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "2023-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Ejecución de pruebas de regresión y validación continua del software desarrollado, identificando errores oportunamente para asegurar la calidad del producto final.",
+                "Desarrollo y mantenimiento de APIs REST utilizando PHP con Laravel, facilitando la comunicación e integración entre sistemas.",
+                "Participación activa en el diseño, desarrollo y optimización del software, proponiendo mejoras técnicas y funcionales basadas en pruebas realizadas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico en soporte y mantenimiento de equipos de cómputo",
+            "institution": "Colegio de Estudios Científicos y Tecnológicos",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2021-09-30",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en Software",
+            "institution": "Universidad Politecnica de Quintana Roo",
+            "location": "",
+            "start_date": "2021-12-01",
+            "end_date": "2025-04-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                "css",
+                "devexpress",
+                "flutter",
+                "git",
+                "github",
+                "html",
+                "javascript",
+                "laravel",
+                "php",
+                "postgresql",
+                "react.js",
+                "react-native",
+                "rest",
+                "scrum",
+                "sqlserver",
+                "typescript",
+                ".net",
+                "gmail",
+                "mysql",
+                "next.js",
+                "jira",
+                "aws",
+                "s3"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "Basico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

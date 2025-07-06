@@ -1,0 +1,180 @@
+{
+  "personal_info": {
+    "first_name": "Gonzalo",
+    "last_name": "Jorge Soria",
+    "email": "gonzalosoria.sg@gmail.com",
+    "phone": "",
+    "location": {
+      "country": "Argentina",
+      "city": "La Plata",
+      "state": "Buenos Aires"
+    },
+    "linkedin": "https://www.linkedin.com/in/gonzalosoria-fullstack",
+    "website": "",
+    "portfolio": "",
+    "summary": "Desarrollador full stack con más de tres años de experiencia profesional en equipos colaborativos bajo metodologías ágiles. Participé de distintos proyectos tanto en frontend, backend y testing. Tengo sólido conocimiento en Javascript utilizando tecnologías como React, React Native, Nodejs, Express. Cuento con experiencia en desarrollo con Java y Spring Boot y manejo de bases de datos con SQL."
+  },
+  "work_experience": [
+    {
+      "job_title": "Software Developer - Fullstack",
+      "company": "Ensolvers",
+      "location": "USA",
+      "start_date": "2022-05-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollo de interfaces web en React y aplicaciones mobile en React Native.",
+        "Implementación de componentes reutilizables, gestión de estado y diseño responsive.",
+        "Desarrollo en android nativo, integraciones con android auto y websockets.",
+        "Integración con APIs REST, backend con Java y spring boot.",
+        "Participación en deploys a producción.",
+        "Automatización de pruebas con Cypress (web) y Appium (mobile)."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Asistente Educativo",
+      "company": "Coderhouse",
+      "location": "",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Apoyo a estudiantes en cursos de desarrollo frontend."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Tutor de Programación",
+      "company": "Digital House",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2024-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Soporte y asistencia en clases de desarrollo web full stack."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ingeniería Electrónica",
+      "institution": "Universidad Nacional de La Plata (UNLP)",
+      "location": "La Plata, Buenos Aires, Argentina",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "EF SET English Certificate - Nivel Avanzado",
+      "institution": "EF SET",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "javascript",
+        "typescript",
+        "java",
+        "html",
+        "css",
+        "react",
+        "react-native",
+        "angular",
+        "redux",
+        "node.js",
+        "bootstrap",
+        "sass",
+        "spring-boot",
+        "cypress",
+        "appium",
+        "postgresql",
+        "mysql"
+      ],
+      "soft": [
+        "scrum",
+        "metodologías-ágiles"
+      ],
+      "tools": [
+        "git",
+        "github",
+        "bitbucket",
+        "docker",
+        "jira",
+        "slack",
+        "ci/cd",
+        "api-rest"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [
+    {
+      "name": "Meta Front-End Developer Professional Certificate",
+      "issuing_organization": "Coursera",
+      "issue_date": "2025-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "React - The Complete Guide",
+      "issuing_organization": "Udemy",
+      "issue_date": "2023-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Bootcamp Henry - Full Stack Developer",
+      "issuing_organization": "Bootcamp Henry",
+      "issue_date": "2022-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Henry Upskilling - Backend con Java y Spring Boot",
+      "issuing_organization": "Henry Upskilling",
+      "issue_date": "2024-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Docker Mastery",
+      "issuing_organization": "Udemy",
+      "issue_date": "2024-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Argentina Programa 4.0 - Full Stack Developer",
+      "issuing_organization": "Argentina Programa 4.0",
+      "issue_date": "2021-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    }
+  ],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Advanced comprehension, intermediate-advanced expression"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

@@ -1,0 +1,104 @@
+{
+    "personal_info": {
+        "first_name": "Neri",
+        "last_name": "Carrera",
+        "email": "nericarrera1825@gmail.com",
+        "phone": "+54 11-21764065",
+        "location": {
+            "country": "Argentina",
+            "city": "San Antonio de Padua",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "I work as a freelance developer, helping those who need help with new technologies. Currently pursuing a degree in Web Technologies at the Universidad Nacional del Oeste (Merlo). Working on personal projects and consider myself an entrepreneur. Studying and developing knowledge in new applications, using tools like Visual Studio and SQL Server. Soon consolidating backend skills like Node.js."
+    },
+    "work_experience": [
+        {
+            "job_title": "Web Developer",
+            "company": "Personal Project",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed and structured the websites, ensuring all needs were met.",
+                "Collaborated with creative teams to offer original and efficient solutions.",
+                "Managed and architected projects.",
+                "Ensured existing websites were in production."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "institution": "Universidad Nacional del Oeste",
+            "location": "Merlo",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "sql",
+                "big-data",
+                "git",
+                "github",
+                "javascript",
+                "html",
+                "css",
+                "bootstrap",
+                "php"
+            ],
+            "soft": [],
+            "tools": [
+                "visual-studio",
+                "sql-server"
+            ]
+        },
+        "detailed": {
+            "technical": {
+                "typescript": [],
+                "sql": [],
+                "big-data": [],
+                "git": [],
+                "github": [],
+                "javascript": [],
+                "html": [],
+                "css": [],
+                "bootstrap": [],
+                "php": []
+            },
+            "soft": [],
+            "tools": {
+                "visual-studio": [],
+                "sql-server": []
+            }
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Ecommerce Site - Daysport & Las Bravas",
+            "description": "Sales sites for a sports clothing store and a women's jeans store.",
+            "technologies": [
+                "SQL",
+                "Bootstrap",
+                "GitHub",
+                "Typescript",
+                "JavaScript"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

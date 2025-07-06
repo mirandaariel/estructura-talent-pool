@@ -1,0 +1,107 @@
+{
+    "personal_info": {
+        "first_name": "Benjamin",
+        "last_name": "Mehrez",
+        "email": "mehrezbenjamin@gmail.com",
+        "phone": "+542613909382",
+        "location": {
+            "country": "Argentina",
+            "city": "Mendoza",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/benjamin-mehrez-ab907b30b",
+        "website": "https://benjaminmehrez.dev",
+        "portfolio": "https://mhf.red/d04cdb42-e0dd-4bfa-baef-6db2eaa4f81c",
+        "summary": "Desarrollador Full-Stack con más de 3 años de experiencia en el diseño, desarrollo y mantenimiento de aplicaciones web escalables y de alto rendimiento. Especializado en crear arquitecturas eficientes, integrar funcionalidades complejas y ofrecer experiencias de usuario fluidas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Independiente",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de soluciones web a medida para clientes locales e internacionales.",
+                "Enfoqué en tiendas online, paneles administrativos y aplicaciones interactivas usando tecnologías como React, Django y PostgreSQL.",
+                "Integré APIs externas, pasarelas de pago y sistemas de autenticación seguros (JWT y OAuth)."
+            ],
+            "achievements": [
+                "Mejora de la conversión y reducción de los tiempos de carga hasta un 40%."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Carrera Full-Stack Developer",
+            "institution": "CoderHouse",
+            "location": "",
+            "start_date": "2022-08-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "python",
+                "nodejs",
+                "django",
+                "html5",
+                "htmx",
+                "expressjs",
+                "ci/cd",
+                "react",
+                "mongodb",
+                "sqlite",
+                "postgresql"
+            ],
+            "soft": [
+                "adaptabilidad-al-cambio",
+                "aprendizaje-continuo",
+                "capacidad-de-escucha"
+            ],
+            "tools": [
+                "css",
+                "django",
+                "express",
+                "git",
+                "github",
+                "html",
+                "javascript",
+                "linux",
+                "mongodb",
+                "nodejs",
+                "postgresql",
+                "python",
+                "react",
+                "sqlite",
+                "tailwind",
+                "typescript",
+                "zustand"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo/Bilingüe"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

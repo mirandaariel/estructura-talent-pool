@@ -1,0 +1,178 @@
+{
+    "personal_info": {
+        "first_name": "Mariel Ivette",
+        "last_name": "Torres",
+        "email": "marieltorres97@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/mariel-torres-front-end/",
+        "website": "https://www.mariel-torres.website",
+        "portfolio": "",
+        "summary": "Desarrolladora front-end con más de un año y medio de experiencia, en React - Next.js, y diseñando interfaces. Con foco en crear experiencias de usuario intuitivas, combinando diseño funcional con código eficiente. Estoy interesada en explorar nuevas tecnologías y nuevos desafíos donde pueda aplicar mis conocimientos y continuar creciendo profesionalmente."
+    },
+    "work_experience": [
+        {
+            "job_title": "Front End Developer",
+            "company": "ScoopsXi",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de formularios inteligentes y widgets web.",
+                "Uso de React y Styled Components para construir interfaces dinámicas.",
+                "Diseño de templates en HTML para correos electrónicos automatizados.",
+                "Análisis de flujos y adaptación de soluciones a necesidades específicas de clientes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Front End Developer",
+            "company": "The Flock",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo del nuevo diseño y experiencia de usuario.",
+                "Mantenimiento y mejora del código existente.",
+                "Gestión del CMS: estructura de campos, modificaciones y eliminaciones.",
+                "Integración de CRM con Pipedrive."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Superior en Programación",
+            "institution": "Teclab - Inst Sup Tecnico",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Historia",
+            "institution": "Universidad Nacional Del Sur",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2021-01-01",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Electromecánico",
+            "institution": "Escuela Superior de Educación Técnica n¹",
+            "location": "",
+            "start_date": "2009-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["html", "css", "sass", "javascript", "typescript", "react", "next-js", "tailwind", "astro", "git", "github"],
+            "soft": [],
+            "tools": ["figma"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Desarrollo Web",
+            "issuing_organization": "Udemy",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Diseño UX/UI Front End",
+            "issuing_organization": "CoderHouse - Oracle Next Education",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Java Inicial Angular",
+            "issuing_organization": "CoderHouse",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Full-Stack Jr",
+            "issuing_organization": "Argentina Programa",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Scrum Fundamentos",
+            "issuing_organization": "Soylider.net",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso Lectura Comprensiva de Textos en Inglés Nivel IIIB",
+            "issuing_organization": "Universidad Nacional Del Sur",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "AutoCAD 2D",
+            "issuing_organization": "Escuela San Roque",
+            "issue_date": "2018-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Next Experience",
+            "description": "Implementé librerías como Tailwind, Yup y fetching de datos, mejorando la funcionalidad del proyecto con SSR y SSO.",
+            "technologies": ["next-js", "typescript", "tailwind-css", "yup", "next-ui"],
+            "url": "https://github.com/DigiChanges/next-experience"
+        },
+        {
+            "name": "Carnívoras Argentinas - Desarrollo Web",
+            "description": "Diseño y creación de Wireframes para la web, e implementación con Next.js, optimizando el rendimiento y seguridad.",
+            "technologies": ["next-js", "tailwind-css", "email3"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Voluntario",
+            "organization": "Universidad Nacional del Sur",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "responsibilities": [
+                "Asesoramiento tecnológico a residentes de centros de jubilados.",
+                "Promoción de la inclusión digital."
+            ]
+        }
+    ],
+    "publications": [],
+    "references": []
+}

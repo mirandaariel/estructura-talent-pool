@@ -1,0 +1,70 @@
+{
+    "personal_info": {
+        "first_name": "Rodrigo",
+        "last_name": "Zapata",
+        "email": "rodrigozapata968@gmail.com",
+        "phone": "+54 9261 518 6883",
+        "location": {
+            "country": "Argentina",
+            "city": "Mendoza",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante Universitario de Programación, a punto de recibirme. Cuento con más de 2 años de estudio autodidacta en desarrollo web, me interesa bastante el campo de la ciberseguridad y desarrollo full-stack. Actualmente buscando mis primeras experiencias laborales en el sector, con ansias de ampliar mis conocimientos."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Técnico Universitario en Programación",
+            "institution": "Universidad Tecnológica Nacional (UTN)",
+            "location": "Mendoza, Argentina",
+            "start_date": "2023-04-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Weather App",
+            "description": "Aplicación de clima con búsqueda por ciudad, visualización de datos diarios y fondo dinámico según hora del día.",
+            "technologies": ["html5", "css3", "js", "open-meteo-api"],
+            "url": ""
+        },
+        {
+            "name": "Desafío Maquetado de Carta",
+            "description": "Proyecto de maquetado basado en desafíos de Frontend Mentor.",
+            "technologies": ["html", "css3"],
+            "url": ""
+        },
+        {
+            "name": "Proyecto Sprints Admin",
+            "description": "Crud con API REST Panel de administración que permite crear, editar y eliminar sprints y tareas con manejo de estados.",
+            "technologies": ["react", "typescript", "json-server", "zustand"],
+            "url": ""
+        },
+        {
+            "name": "E-commerce Proyecto Final",
+            "description": "E-Commerce con Front y Back manejando más de 13 entidades, con panel de administración paginado dinámico etc",
+            "technologies": ["react", "typescript", "mysql", "spring-boot"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

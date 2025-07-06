@@ -1,0 +1,150 @@
+{
+    "personal_info": {
+        "first_name": "Robert",
+        "last_name": "Perez Arica",
+        "email": "paricar.dev@gmail.com",
+        "phone": "+51947964773",
+        "location": {
+            "country": "Peru",
+            "city": "Chiclayo",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/robert-perez-arica-49570b85",
+        "website": "https://robertperezarica.site",
+        "portfolio": "https://github.com/rperez-dev",
+        "summary": "Ingeniero de Sistemas con sólida formación académica y experiencia práctica como desarrollador web en entornos frontend y backend. Destaco por mi capacidad para trabajar en equipo, aplicar buenas prácticas de desarrollo (arquitectura Hexagonal, SOLID, Clean Code) y por mi constante motivación por aprender. He contribuido activamente en proyectos reales para empresas del sector tecnológico, aportando soluciones escalables, bien estructuradas y alineadas a las necesidades del cliente."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer Junior",
+            "company": "Algoritmia S.A.C",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé interfaces responsivas para un ERP usando React JS, mejorando la experiencia del usuario.",
+                "Integré APIs REST (Django DRF), asegurando comunicación fluida entre frontend y backend.",
+                "Apliqué arquitectura Hexagonal y principios SOLID, lo que mejoró la escalabilidad del código.",
+                "Participé activamente en revisiones de código, asegurando la calidad y cumplimiento de estándares."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer Junior",
+            "company": "Ayarcode Consulting SAC",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Migración de plataforma Odoo v10 a React JS + Django, mejorando escalabilidad y rendimiento.",
+                "Desarrollo de dashboards públicos e informes personalizados con acceso segmentado por roles.",
+                "Liderazgo técnico del frontend aplicando arquitectura modular, principios SOLID y buenas prácticas de Git."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Practicas Profesionales",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Programación FullStack en el entorno de Microsoft con C# .NET Core, SQL SERVER y React JS para un proyecto ERP Educativo en los módulos de Seguridad, Administración y Matriculas.",
+                "Contribuí activamente en el análisis de requerimientos y casos de uso, asegurando una mejor comprensión de las necesidades del cliente.",
+                "Participé en la creación de la Base de datos."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Sistemas",
+            "institution": "Universidad Señor de Sipán",
+            "location": "Chiclayo, Peru",
+            "start_date": "",
+            "end_date": "2024-07-01",
+            "hours": 0
+        },
+        {
+            "degree": "Computación e Informática",
+            "institution": "Instituto Tecnológico Privado IDAT CHICLAYO",
+            "location": "Chiclayo, Peru",
+            "start_date": "",
+            "end_date": "2016-12-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react-js",
+                "typescript",
+                "blazor",
+                "jquery",
+                "html",
+                "css",
+                "bootstrap",
+                "tailwind",
+                ".net-core",
+                "django",
+                "python",
+                "sql-server",
+                "postgresql",
+                "mysql",
+                "flutter",
+                "dart"
+            ],
+            "soft": [
+                "liderazgo",
+                "comunicación-efectiva",
+                "trabajo-en-equipo",
+                "adaptabilidad",
+                "pensamiento-crítico",
+                "capacidad-de-aprendizaje-continuo"
+            ],
+            "tools": [
+                "git",
+                "docker",
+                "github-actions",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Curso Flutter - Móvil: De cero a experto",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "2024-06-01",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso Profesional de Git y GitHub",
+            "issuing_organization": "Platzi",
+            "issue_date": "",
+            "expiration_date": "2024-05-01",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso React PRO: Lleva tus bases al siguiente nivel",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "2024-12-01",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

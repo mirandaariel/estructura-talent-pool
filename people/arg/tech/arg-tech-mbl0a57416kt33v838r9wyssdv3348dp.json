@@ -1,0 +1,120 @@
+{
+    "personal_info": {
+        "first_name": "",
+        "last_name": "",
+        "email": "florenciaflandes@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Front End Developer",
+            "company": "Vitau.mx",
+            "location": "",
+            "start_date": "2022-02-01",
+            "end_date": "2023-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación y actualización de componentes, estilos y funcionalidades para mejorar la experiencia del usuario (React,TS, React Native, CSS, HTML5).",
+                "Manejo de API REST con React Query y estado global con Redux.",
+                "Mantenimiento completo del proyecto, incluyendo corrección de errores y optimización del rendimiento.",
+                "Testeo del funcionamiento de la app con Cypress y Jest.",
+                "Gestión de tareas con Jira y documentación del proyecto en Notion en inglés.",
+                "Implementación y actualización de pruebas end-to-end y unitarias.",
+                "Gestión del código con Git y GitHub.",
+                "Contribución en la identificación de mejoras y comprensión de las necesidades de UX con Figma.",
+                "Participación en reuniones para proponer mejoras continuas y planificar sprints."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Developer",
+            "institution": "Academia 'Soy Henry'",
+            "location": "",
+            "start_date": "2021-10-01",
+            "end_date": "2022-01-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ing. en Sistemas de Información",
+            "institution": "Universidad Tecnologica Nacional",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "python",
+                "smalltalk",
+                "haskel",
+                "prolog",
+                "html5",
+                "css3",
+                "bootstrap",
+                "nodejs",
+                "sequelize",
+                "postgresql",
+                "react",
+                "redux",
+                "react-native",
+                "next.js",
+                "express"
+            ],
+            "soft": [
+                "scrum"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "linux",
+                "windows",
+                "jest",
+                "cypress"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Incepta Academy",
+            "description": "Diseño y desarrollo del contenido teórico y práctico para una academia online de desarrollo web Full Stack. Creación de ejercicios, proyectos y material de estudio para facilitar el aprendizaje progresivo. Estructuración del curso desde cero, incluyendo módulos avanzados de JavaScript, CSS y herramientas clave para el mundo laboral. Desarrollo de pruebas de ingreso y preparación para evaluar a futuros estudiantes. Construcción de una metodología de enseñanza efectiva, combinando teoría, práctica y mentoría.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Web de Notas FullStack",
+            "description": "Creación de WEB utilizando React para el frontend y NodeJs en backend. Creación y configuración de base de datos a través Sequelize y PostgreSQL. Manejo de API REST con React Query. Desarrollo de componentes con CSS responsive sin librerías adicionales. Gestión del código con Git y GitHub. Deploy en vercel(frontend y API), y ElephantSQL(db).",
+            "technologies": [
+                "react",
+                "nodejs",
+                "sequelize",
+                "postgresql"
+            ],
+            "url": "https://mywebnotes.vercel.app/"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,139 @@
+{
+    "personal_info": {
+        "first_name": "Maria Alejandra",
+        "last_name": "Romero",
+        "email": "romerobencomo@gmail.com",
+        "phone": "1122509295",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/maria-alejandra-romero-bencomo-44497a123/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full Stack Developer con conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, frameworks CSS,Github, Sequelize. Experiencia en desarrollo de Front-End y Back End, Postgresql con tecnologías como: React, Redux, React Native, Vite, NodeJs, Express. Autodidacta, dedicación, adaptabilidad, Empatía. Con background en ciencias sociales, que me ayudaron a obtener habilidades como: trabajar en equipo, analizar datos de forma masiva, resolución de problemas."
+    },
+    "work_experience": [
+        {
+            "job_title": "HR Analyst",
+            "company": "Puppis Retail",
+            "location": "",
+            "start_date": "2017-07-01",
+            "end_date": "2019-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Política Salarial, resolución de conflictos laborales, negociación colectiva en diferentes áreas de la empresa y con proveedores externos.",
+                "Gestión en la administración."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "SoyHenry Bootcamp",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "Socióloga",
+            "institution": "Universidad del Zulia",
+            "location": "Venezuela",
+            "start_date": "2008-01-01",
+            "end_date": "2013-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "python",
+                "react",
+                "redux",
+                "nodejs",
+                "express",
+                "postgresql",
+                "sequelize"
+            ],
+            "soft": [
+                "autodidacta",
+                "dedicación",
+                "adaptabilidad",
+                "empatía",
+                "trabajar-en-equipo",
+                "resolución-de-problemas"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "slack",
+                "discord",
+                "bootstrap",
+                "tailwind",
+                "material-ui"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Aprende HTML desde Cero hasta Experto",
+            "issuing_organization": "Udemy",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Full Stack Python",
+            "issuing_organization": "Codo a Codo 4.0",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Mundo creativo: Dicción y Manejo del Miedo Escénico",
+            "issuing_organization": "",
+            "issue_date": "2016-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Actívate y Fórmate: Productividad personal",
+            "issuing_organization": "",
+            "issue_date": "2016-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "PI Countries",
+            "description": "Aplicación que tenía como objetivo diseñar y desarrollar búsquedas, filtrados, ordenamientos y creaciones.",
+            "technologies": ["react", "redux", "css", "nodejs", "express", "postgresql", "sequelize"],
+            "url": "https://github.com/Maryxale/PI_countries"
+        },
+        {
+            "name": "PF e-commerce",
+            "description": "Desarrollo de proyecto, e-commerce de comida rápida.",
+            "technologies": ["javascript", "react", "redux", "postgresql", "express", "tailwind"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B1 - Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

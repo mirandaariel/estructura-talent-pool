@@ -1,0 +1,92 @@
+{
+    "personal_info": {
+        "first_name": "Alejandro",
+        "last_name": "TC",
+        "email": "jairotoledo2003@gmail.com",
+        "phone": "+57 3118887059",
+        "location": {
+            "country": "Colombia",
+            "city": "Florencia",
+            "state": "Caquetá"
+        },
+        "linkedin": "https://www.linkedin.com/in/alejandro-tc/",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full-Stack",
+            "company": "Travelandz",
+            "location": "Remoto",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Liderazgo en integración y certificación de API de Viator, habilitando venta de experiencias a través del sistema.",
+                "Desarrollo de pasarela de pago con Stripe, permitiendo almacenamiento seguro y uso dinámico de tarjetas.",
+                "Implementación de sistema de reservas aéreas con validación de disponibilidad, hold de vuelos y conexión con APIs externas.",
+                "Automatización de flujos con cronjobs, incluyendo recordatorios por correo con detalles personalizados de reservas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas",
+            "institution": "Universidad de la Amazonia",
+            "location": "Florencia, Caquetá",
+            "start_date": "",
+            "end_date": "2025-02-28",
+            "hours": 0
+        },
+        {
+            "degree": "Escuela Secundaria",
+            "institution": "Institución Educativa Técnico Industrial",
+            "location": "Florencia, Caquetá",
+            "start_date": "",
+            "end_date": "2019-12-04",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "react-native",
+                "next.js",
+                "node.js",
+                "nestjs",
+                "typescript",
+                "javascript",
+                "mongodb",
+                "prisma",
+                "typeorm",
+                "tanstack-query",
+                "docker"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2 - Intermedio Alto"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

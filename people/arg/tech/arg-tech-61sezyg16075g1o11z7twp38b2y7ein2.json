@@ -1,0 +1,136 @@
+{
+    "personal_info": {
+        "first_name": "Jason",
+        "last_name": "Ollivierre",
+        "email": "jason.a.ollivierre@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "Lanzarote",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full Stack Developer with experience in React, Tailwind, Python and SQL. Previous experience in customer service, bringing a proven track of adaptability, effective communication and reliability. My versatile nature and quick learning abilities allow me to navigate new challenges effectively. My experience in dynamic, fast-paced environments ensures I can collaborate efficiently, meet deadlines, and deliver quality results."
+    },
+    "work_experience": [
+        {
+            "job_title": "Manager",
+            "company": "Escape Room Lanzarote",
+            "location": "Lanzarote",
+            "start_date": "2023-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Greet and assist guests, ensuring a positive experience from start to finish.",
+                "Maintain the flow of the game, ensuring a smooth and immersive experience for participants.",
+                "Manage time efficiently to accommodate multiple bookings throughout the day.",
+                "Manage reservations, handle inquiries, and confirm bookings both in person and via phone or email.",
+                "Address customer concerns, questions, or feedback in a professional manner."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Software Development",
+            "institution": "4Geeks Academy",
+            "location": "Madrid-remote",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "bootstrap",
+                "javascript",
+                "dom",
+                "git",
+                "github",
+                "react.js",
+                "zustand",
+                "tailwindcss",
+                "python",
+                "flask",
+                "apis",
+                "jwt",
+                "sql",
+                "sqlalchemy",
+                "postgres",
+                "appwrite"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Beetrack",
+            "description": "An app designed to help store owners manage inventory by scanning barcodes to track product quantities in real-time. Features include low-stock notifications and a statistics dashboard to monitor sales performance.",
+            "technologies": [
+                "react",
+                "chakra-ui",
+                "zustand",
+                "zod",
+                "react-hook-form",
+                "jquery"
+            ],
+            "url": "https://www.behance.net/gallery/224509729/Beetrack-sales-inventory-manager-Case-Study"
+        },
+        {
+            "name": "Pet Manager",
+            "description": "A web application for managing pet schedules and appointments. Users can track medications, set reminders for vet visits, and organize their pets' care efficiently.",
+            "technologies": [
+                "react",
+                "appwrite",
+                "tailwind-css",
+                "react-big-calendar",
+                "zustand",
+                "react-toastify"
+            ],
+            "url": "https://github.com/GuyFawkess/PetManager"
+        },
+        {
+            "name": "Tap News",
+            "description": "A web application that delivers real-time news with a social twist, enabling users to add friends, chat, and share news stories.",
+            "technologies": [
+                "jwt-authentication",
+                "postgresql",
+                "python",
+                "flask",
+                "sqlalchemy",
+                "react.js",
+                "bootstrap",
+                "appwrite"
+            ],
+            "url": "https://github.com/GuyFawkess/sp78-Final-Project-TapNews"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Native"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,109 @@
+{
+    "personal_info": {
+        "first_name": "Alexis",
+        "last_name": "Recalde",
+        "email": "alexis.recalde@hotmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Fullstack con sólida experiencia en Node.js, React.js, TypeScript, escalabilidad de backend, optimización de frontend, liderazgo de equipos, colaboración ágil, resolución de problemas y aprendizaje continuo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Fullstack Developer",
+            "company": "CompassDatabase",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Implementé lógica de negocio backend utilizando TypeScript y Node.js.",
+                "Desarrollé APIs escalables y realicé pruebas unitarias e integración exhaustivas.",
+                "Optimicé consultas de base de datos con PostgreSQL, reduciendo tiempos de carga de páginas.",
+                "Colaboré con equipos internacionales utilizando React, Sequelize y herramientas de despliegue en la nube como Heroku y Render.",
+                "Lideré esfuerzos de modernización en un sistema legacy."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer React",
+            "company": "DealShop",
+            "location": "",
+            "start_date": "2022-08-01",
+            "end_date": "2023-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Transicioné de desarrollador junior a liderar un equipo pequeño desarrollando funcionalidades críticas para e-commerce.",
+                "Implementé React Query para gestión eficiente del estado, administré despliegues usando Docker y Hostinger.",
+                "Incorporé Next.js, Sass y Material-UI para el desarrollo de UI.",
+                "Coordiné desarrolladores junior y mejoré la organización del trabajo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Profesor de matemáticas",
+            "company": "DGCYE",
+            "location": "",
+            "start_date": "2019-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Gestioné un entorno educativo demandante con recursos limitados.",
+                "Preparé lecciones mejorando las habilidades analíticas y de resolución de problemas de estudiantes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Profesor de matemáticas",
+            "institution": "ISFD Nro 107",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Fullstack Developer Bootcamp",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en informática (Incompleto)",
+            "institution": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["node.js", "react.js", "typescript"],
+            "soft": ["liderazgo-de-equipos", "resolucion-de-problemas", "comunicacion"],
+            "tools": ["docker", "trello", "heroku", "render", "postgresql", "sequelize", "hostinger", "material-ui", "sass"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

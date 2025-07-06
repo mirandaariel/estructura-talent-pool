@@ -1,0 +1,186 @@
+{
+    "personal_info": {
+        "first_name": "Santiago",
+        "last_name": "Cañu",
+        "email": "santisv4@gmail.com",
+        "phone": "+54 92342510893",
+        "location": {
+            "country": "Argentina",
+            "city": "Ciudad Autónoma de Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/santiagocanu",
+        "website": "https://github.com/santic4",
+        "portfolio": "",
+        "summary": "Desarrollador Web Full-Stack con más de 3 años de experiencia entregando soluciones end-to-end para e-commerce, ONG y pymes. Experto en metodologías ágiles, procesos de despliegue y desarrollo de experiencia de usuario."
+    },
+    "work_experience": [
+        {
+            "job_title": "Freelance Full-Stack Developer",
+            "company": "Alfil Digital",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2025-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desplegué plataforma B2C en AWS soportando más de 200 SKUs y 100 pedidos semanales, logrando una disponibilidad del 99.9%.",
+                "Implementé CI/CD con GitHub Actions, reduciendo el tiempo de despliegue en un 50%.",
+                "Integré PayPal y Mercado Pago, aumentando la tasa de conversión en un 12%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Freelance Full-Stack Developer",
+            "company": "Seller Sender",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2025-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y desarrollé back-office para gestionar más de 1,000 mensajes mensuales, agilizando la atención postventa en un 30%.",
+                "Implementé autenticación OAuth con Mercado Libre, incrementando la retención de usuarios en un 20%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Freelance Full-Stack Developer",
+            "company": "MyIssues Charity",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2025-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideré despliegue en AWS con Docker Compose, soportando más de 2,000 donaciones mensuales.",
+                "Diseñé migraciones y materialized views, acelerando consultas en un 60%.",
+                "Gestioné roles y permisos, asegurando seguridad y compliance de datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }, 
+        {
+            "job_title": "Freelance Full-Stack Developer",
+            "company": "ZetaData",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2025-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé dashboard de KPI para pymes, procesando más de 100 archivos diarios y generando reportes en menos de 2 segundos.",
+                "Integré sugerencias automáticas con OpenAI, elevando la satisfacción de usuarios en un 30%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Programación Backend",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2024-03-31",
+            "hours": 0
+        },
+        {
+            "degree": "Contabilidad y Finanzas (incompleta)",
+            "institution": "Universidad de Buenos Aires",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Educación Secundaria Completa",
+            "institution": "Normal №4 'Bragado'",
+            "location": "",
+            "start_date": "2012-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html5",
+                "css3",
+                "sass",
+                "flexbox",
+                "grid",
+                "react.js",
+                "next.js",
+                "express",
+                "nestjs",
+                "mongodb",
+                "postgresql",
+                "materialized-views",
+                "aws",
+                "cloud-servers",
+                "docker",
+                "docker-compose",
+                "github-actions",
+                "paypal",
+                "mercado-pago",
+                "binancepay",
+                "stripe",
+                "oauth",
+                "rest-apis"
+            ],
+            "soft": [
+                "comunicación-efectiva",
+                "trabajo-en-equipo",
+                "liderazgo",
+                "resolución-de-problemas",
+                "adaptabilidad",
+                "gestión-del-tiempo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Node.js & Express Fundamentals",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "",
+            "repository_url": "https://pub.coderhouse.com/legacy-certificates/645cacea4178d8000279bb17?lang=es"
+        },
+        {
+            "name": "Advanced React.js: Hooks & Performance",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "",
+            "repository_url": "https://pub.coderhouse.com/legacy-certificates/64f7bed86ac60f7c46c33e73?lang=es"
+        },
+        {
+            "name": "Docker & CI/CD con GitHub Actions",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "",
+            "repository_url": "https://pub.coderhouse.com/legacy-certificates/6622bd0bdc75eab8c9406a94?lang=es"
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio - B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

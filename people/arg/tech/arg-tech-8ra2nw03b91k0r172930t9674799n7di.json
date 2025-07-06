@@ -1,0 +1,179 @@
+{
+    "personal_info": {
+        "first_name": "Daiana",
+        "last_name": "Vanesa Ortiz",
+        "email": "daiortiz7@gmail.com",
+        "phone": "+54 3425119301",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/daiortiz",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrolladora Frontend con experiencia en React, Node.js y NextJS, enfocada en la creación de interfaces escalables y liderazgo en iniciativas estratégicas. Experta en monitoreo y métricas con Datadog, New Relic y Kibana."
+    },
+    "work_experience": [
+        {
+            "job_title": "Semi Senior Software Engineer",
+            "company": "Mercado Libre",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideré iniciativas estratégicas impactando la estabilidad del producto para más de 10 M de usuarios en LATAM.",
+                "Diseñe y ejecute estrategias de A/B Testing optimizando métricas clave como CTR en la app.",
+                "Actualicé componentes clave de la UI asegurando accesibilidad, usabilidad y consistencia visual.",
+                "Lideré la migración del frontend optimizando estructura, eliminando código obsoleto e implementando nuevas vistas de error.",
+                "Planifiqué e integré servicios escalables y optimizados en Node.js.",
+                "Implementé análisis de métricas con Datadog, New Relic y Kibana.",
+                "Guié equipos internos en UI, negocio y desarrollo para integrar soluciones alineadas con la visión del producto.",
+                "Desarrollé pruebas E2E y unitarias con Jest, Mocha y React Testing Library.",
+                "Implementé componentes de autogestión reduciendo el contact rate significativamente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "Mercado Libre",
+            "location": "",
+            "start_date": "2021-09-01",
+            "end_date": "2024-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y optimicé soluciones para mejorar estabilidad y escalabilidad del producto.",
+                "Participé en la implementación de APIs backend para mejorar la interoperabilidad del sistema.",
+                "Lideré la migración de proyectos legacys a AAAS asegurando continuidad y experiencia de usuario.",
+                "Apoyé la creación de nuevas aplicaciones AAAS alineando estándares técnicos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Superior en Mecatrónica",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "next.js",
+                "html5",
+                "css3",
+                "webpack",
+                "node.js",
+                "jest",
+                "mocha",
+                "react-testing-library",
+                "datadog",
+                "new-relic",
+                "kibana",
+                "grafana",
+                "mysql",
+                "docker"
+            ],
+            "soft": [
+                "mejora-continua",
+                "comunicación-efectiva",
+                "resolución-de-conflictos"
+            ],
+            "tools": [
+                "scrum",
+                "kanban",
+                "git",
+                "github",
+                "npm",
+                "postman",
+                "jira",
+                "asana",
+                "trello",
+                "notion",
+                "confluence",
+                "figma",
+                "canva",
+                "vs-code",
+                "chrome-devtools",
+                "slack",
+                "miro",
+                "windows-office"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "React, Jest, Enzyme & Styled-Components",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-02-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Programación con Flujogramas",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-02-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Acuerdos y Resolución de Conflictos",
+            "issuing_organization": "Axialent",
+            "issue_date": "2023-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Taller de Gestión del Tiempo",
+            "issuing_organization": "Kleer Online Academy",
+            "issue_date": "2023-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Introducción al Testing",
+            "issuing_organization": "Noble Work Foundation",
+            "issue_date": "2022-11-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Aprendiendo a Aprender: Poderosas Herramientas Mentales",
+            "issuing_organization": "Coursera",
+            "issue_date": "2020-09-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Mi Primer Sitio Web HTML5 y CSS3",
+            "issuing_organization": "MindHub LA",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Ingles",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

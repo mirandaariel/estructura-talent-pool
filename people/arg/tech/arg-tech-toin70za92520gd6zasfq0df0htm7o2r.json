@@ -1,0 +1,215 @@
+{
+    "personal_info": {
+        "first_name": "Matias",
+        "last_name": "Moyano",
+        "email": "moyano.matiasnicolas.mm@gmail.com",
+        "phone": "2604617481",
+        "location": {
+            "country": "Argentina",
+            "city": "Ciudad de Mendoza",
+            "state": "Mendoza"
+        },
+        "linkedin": "https://www.linkedin.com/in/matiasnmoyano",
+        "website": "",
+        "portfolio": "",
+        "summary": "Con una marcada pasión por la tecnología y un firme compromiso con la excelencia en el diseño y funcionalidad de software, he aplicado mis conocimientos y habilidades en diversos campos de la industria IT. A lo largo de mi carrera, he demostrado un amplio dominio de herramientas como Javascript, React, Node JS, Express y PostgreSQL. Mi experiencia va desde el desarrollo de plataformas educativas, mantenimiento y producción de software empresarial, hasta la creación de aplicaciones con realidad aumentada y e-commerce. Cada uno de estos desafíos me ha permitido crecer y adaptarme a nuevas tendencias y técnicas. En el plano personal, me destaco por mi adaptabilidad y excelente comunicación. Mi amor por la música me acompaña siempre, alimentando mi creatividad y energía en cada proyecto que emprendo. Mi enfoque está en continuar evolucionando y aprendiendo en este emocionante y cambiante mundo de la tecnología."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Web Developer - 3D developer",
+            "company": "CamOn XR Tech",
+            "location": "Argentina",
+            "start_date": "2023-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de aplicaciones con realidad aumentada y web 360."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "CamOn XR Tech",
+            "location": "Argentina",
+            "start_date": "2022-03-01",
+            "end_date": "2023-12-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Software de Realidad Aumentada y web 360."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "CTO",
+            "company": "JOURNEY",
+            "location": "Provincia de Buenos Aires, Argentina",
+            "start_date": "2023-05-01",
+            "end_date": "2025-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "A cargo de la estrategia tecnológica, la arquitectura y el desarrollo de software.",
+                "Liderazgo técnico e innovación continua."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer - React - Node.js",
+            "company": "SIW CARGO",
+            "location": "Mendoza, Argentina",
+            "start_date": "2021-10-01",
+            "end_date": "2022-03-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Mantenimiento y producción de software utilizado por clientes y empleados de la empresa."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ayudante de profesor - Contenidista Frontend",
+            "company": "Digital House",
+            "location": "Argentina",
+            "start_date": "2021-06-01",
+            "end_date": "2022-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de un Bootcamp de Frontend para ingresantes a Mercado Libre."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Fundación El Potrero",
+            "location": "Argentina",
+            "start_date": "2020-12-01",
+            "end_date": "2021-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Planeamiento general, diagramación y codificación de plataforma educativa."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "I-Gift-You",
+            "location": "Argentina",
+            "start_date": "2020-11-01",
+            "end_date": "2020-12-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de E-Commerce con un sistema de preguntas y respuestas."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/matiasnmoyano/iGiftyouE-commerce"
+        },
+        {
+            "job_title": "Customer Experience",
+            "company": "Ohana Cop Servicios digitales",
+            "location": "San Rafael, Mendoza, Argentina",
+            "start_date": "2019-04-01",
+            "end_date": "2020-06-01",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Programación",
+            "institution": "UTN Facultad Regional San Rafael",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2024-12-01",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo web Fullstack",
+            "institution": "Henry",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnicatura en Desarrollo de Software",
+            "institution": "IES 9-012 de Informática",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso de Marketing Digital",
+            "institution": "Google",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Arquitectura",
+            "institution": "Universidad de Mendoza",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "desarrollo-de-aplicaciones-web",
+                "realidad-aumentada",
+                "amazon-web-services",
+                "javascript",
+                "react",
+                "node-js",
+                "express",
+                "postgresql"
+            ],
+            "soft": [
+                "adaptabilidad",
+                "comunicación"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Desarrollo de Apps Móviles",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Fundamentos del Diseño Gráfico",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Crea un perfil de éxito en LinkedIn",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

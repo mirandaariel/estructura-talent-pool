@@ -1,0 +1,109 @@
+{
+    "personal_info": {
+        "first_name": "Juan Cruz",
+        "last_name": "Dauberte",
+        "email": "juandauberte@gmail.com",
+        "phone": "+54 3329305210",
+        "location": {
+            "country": "Argentina",
+            "city": "Baradero",
+            "state": "Provincia de Buenos Aires"
+        },
+        "linkedin": "https://linkedin.com/in/juancruzdauberte",
+        "website": "",
+        "portfolio": "https://portfolio-two-zeta-37.vercel.app/",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Creador de contenido en catálogo",
+            "company": "Reformam Network 2010 SL - HABITIUM MDF",
+            "location": "Home Office",
+            "start_date": "2024-03-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creador de contenido en catálogo",
+                "Gestión en incidencia de pedidos",
+                "Comunicación con clientes, distribuidores y agencias de transporte"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachiller en economía y administración",
+            "institution": "Instituto San José DIPREGEP No 4136",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Informática",
+            "institution": "Universidad Nacional San Antonio de Areco",
+            "location": "",
+            "start_date": "2022-02-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Web Full Stack",
+            "institution": "CoderHouse",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "java",
+                "sql",
+                "php",
+                "node-js",
+                "react-js",
+                "tanstack-query",
+                "tanstack-form",
+                "git",
+                "github",
+                "postgresql",
+                "mysql",
+                "mongodb",
+                "mongoose",
+                "html",
+                "css",
+                "tailwindcss"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Habits Records",
+            "description": "Habits Records es una aplicación web desarrollada para el crecimiento personal, inspirada en el libro Hábitos Átomicos de James Clear. Utiliza magic link y Google Autenticator para autenticación, Motion para animaciones, TanStack Query y Form para manejo de estados y Supabase para almacenamiento de datos.",
+            "technologies": ["node-js", "typescript", "react", "tanstack-query-form", "supabase", "supabase/auth", "tailwind-css", "motion"],
+            "url": "https://habits-record-sable.vercel.app/"
+        },
+        {
+            "name": "Tierra de Nudos",
+            "description": "Tierra de Nudos es una e-commerce web con productos artesanales. Utiliza Supabase para la gestión de almacenamiento de datos e inicio de sesión, OAuth2 para autenticación con Google, Tanstack-Query y Tanstack-Form para manejar operaciones asíncronas y estilado con TailwindCSS.",
+            "technologies": ["node-js", "typescript", "react", "tanstack-query-form", "supabase", "supabase/auth", "tailwind-css"],
+            "url": "https://tierra-de-nudos.vercel.app/"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

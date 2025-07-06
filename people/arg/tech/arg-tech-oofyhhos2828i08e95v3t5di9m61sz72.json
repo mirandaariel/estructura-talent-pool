@@ -1,0 +1,170 @@
+{
+    "personal_info": {
+        "first_name": "Luis",
+        "last_name": "Fereira",
+        "email": "fereiraluis18051997@gmail.com",
+        "phone": "+54 2613433000",
+        "location": {
+            "country": "Argentina",
+            "city": "Mendoza",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/luisfereira",
+        "website": "",
+        "portfolio": "https://github.com/fereiral18",
+        "summary": "Desarrollador Full Stack con experiencia en desarrollo de aplicaciones escalables y centradas en el usuario, utilizando tecnologías modernas como React.js, Node.js, GraphQL y PostgreSQL. Apasionado por construir software útil, con una base sólida en programación y conocimientos complementarios en economía y telecomunicaciones. Busco sumarme a equipos que valoren la autonomía, la mejora continua y el impacto real del software."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Front end",
+            "company": "Alloys CA",
+            "location": "Maracaibo, Venezuela",
+            "start_date": "2021-08-01",
+            "end_date": "2022-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé interfaces dinámicas y responsivas con React.js y Material UI.",
+                "Mejoré la navegación y estructura de la app, lo que contribuyó a aumentar en un 50% la retención de usuarios.",
+                "Colaboré estrechamente con diseño UX/UI para alinear componentes visuales con flujos de usuario clave, mejorando la conversión en formularios críticos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "PradaVil CA",
+            "location": "Maracaibo, Venezuela",
+            "start_date": "2022-08-01",
+            "end_date": "2023-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé funcionalidades backend con Node.js y GraphQL",
+                "Implementé vistas clave con React.js y PostgreSQL",
+                "Participé en el diseño de arquitectura inicial del proyecto, colaborando con un equipo ágil de 4 desarrolladores y entregando MVP en 2 meses."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador de Software Front end",
+            "company": "Patagonia IT",
+            "location": "Maracaibo, Venezuela",
+            "start_date": "2022-02-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Migré una aplicación legacy de jQuery a React.js, mejorando el rendimiento en un 60% y facilitando el mantenimiento del código.",
+                "Desarrollé componentes reutilizables en React (como modales, formularios dinámicos y un carrito de compras) usando Custom Hooks y Context API, reduciendo la duplicación de código en un 40%.",
+                "Integré APIs REST/GraphQL con React Query y Axios, manejando estados de carga y error de manera eficiente para mejorar la experiencia del usuario."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador de Software Front end",
+            "company": "Epsilon Software Solutions",
+            "location": "Maracaibo, Venezuela",
+            "start_date": "2021-08-01",
+            "end_date": "2022-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Consumí APIs REST usando fetch + useEffect para mostrar datos dinámicos en una app de gestión de tareas.",
+                "Implementé loading skeletons con CSS puro para una mejor experiencia de usuario durante la carga de datos y las interfaces."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Front End",
+            "institution": "Spartan Devs",
+            "location": "Remoto",
+            "start_date": "2020-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "TSU en telecomunicaciones",
+            "institution": "Escuela de la Aviacion Militar Venezolana",
+            "location": "Aragua, Venezuela",
+            "start_date": "2016-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Economía",
+            "institution": "Universidad del Zulia",
+            "location": "Maracaibo, Zulia",
+            "start_date": "2014-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "flex-box",
+                "grid",
+                "javascript",
+                "typescript",
+                "node.j",
+                "react.j",
+                "materialui(mui)",
+                "reactquery",
+                "postgresql",
+                "graphql",
+                "nest.j",
+                "next.j"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "App administrativa",
+            "description": "Aplicación web construida con React.js, Node.js y PostgreSQL. Diseñada para negocios sin formación contable, genera reportes automatizados de ganancias.",
+            "technologies": ["react.js", "node.js", "postgresql"],
+            "url": "https://github.com/Fereiral18/App-panaderia"
+        },
+        {
+            "name": "App de Recargas de streaming",
+            "description": "Plataforma desarrollada en React.js y Node.js. Integra validación de pagos con una API bancaria y envío automatizado de PIN al correo del usuario.",
+            "technologies": ["react.js", "node.js"],
+            "url": "https://github.com/Fereiral18/recargas-app"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Mentor",
+            "organization": "Spartan Devs",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "responsibilities": [
+                "Acompañé a más de 10 alumnos en la resolución de ejercicios semanales, asesoramientos y revisiones de proyectos.",
+                "Apoye a alumnos nuevos en lógica, estructuras de datos y componentes de React."
+            ]
+        }
+    ],
+    "publications": [],
+    "references": []
+}

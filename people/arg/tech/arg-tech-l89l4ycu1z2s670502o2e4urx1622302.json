@@ -1,0 +1,95 @@
+{
+    "personal_info": {
+        "first_name": "Josías",
+        "last_name": "Olave",
+        "email": "mromarolave@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Mi nombre es Josías Omar y tengo 27 años. Soy analista QA y Técnico Universitario en Programación graduado en la UTN. Además de mis estudios formales, me considero autodidacta en el campo de la programación y el testing. Me caracterizo por ser una persona responsable y comprometida con mis tareas y metas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista QA",
+            "company": "Banco Hipotecario (Qualis Lab)",
+            "location": "",
+            "start_date": "2025-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño y ejecución de casos de prueba para validar funcionalidades.",
+                "Uso de Jira para la asignación y seguimiento de tareas, vinculando evidencias a través de SharePoint.",
+                "Comunicación diaria con el equipo mediante Microsoft Teams y Outlook.",
+                "Ejecución y monitoreo de procesos mediante Control-M."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA",
+            "company": "Planexware",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2025-06-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y ejecución de test cases.",
+                "Aplicación de pruebas funcionales y regresivas.",
+                "Participación en reuniones de seguimiento con el equipo de producto y desarrollo.",
+                "Uso de Azure DevOps para la gestión de pruebas, bugs y tareas.",
+                "Automatización de pruebas con Cypress."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Ciencias de Datos",
+            "institution": "Universidad de la Ciudad de Buenos Aires",
+            "location": "",
+            "start_date": "2025-08-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2025-02-28",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [],
+            "soft": [],
+            "tools": [
+                "jira",
+                "sharepoint",
+                "microsoft-teams",
+                "outlook",
+                "control-m",
+                "azure-devops",
+                "cypress"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

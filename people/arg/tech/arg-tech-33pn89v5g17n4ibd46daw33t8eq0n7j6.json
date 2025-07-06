@@ -1,0 +1,112 @@
+{
+    "personal_info": {
+        "first_name": "German",
+        "last_name": "Rudyk",
+        "email": "germanrudyk87@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Unión",
+            "state": "San Luis"
+        },
+        "linkedin": "https://linkedin.com/in/2625-413880",
+        "website": "",
+        "portfolio": "",
+        "summary": "Mi objetivo es seguir creciendo como Desarrollador Full Stack, ya sea en empresas o trabajando como freelance. Busco siempre sumar nuevas experiencias y desafíos que me permitan mejorar mis habilidades y aportar al éxito de cada proyecto."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Profesional independiente",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño y desarrollo de aplicaciones personalizadas para gimnasios, optimizando la gestión de clientes, reservas y seguimiento de pagos.",
+                "Creación de aplicaciones a medida para lubricentros, facilitando la gestión de inventarios, ventas y servicios al cliente.",
+                "Desarrollo de soluciones digitales para librerías, mejorando la gestión de stock, ventas en línea y atención al cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnico Operador",
+            "company": "UTV",
+            "location": "",
+            "start_date": "2012-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Supervisión y ejecución de la instalación y mantenimiento de acometidas, garantizando la conectividad y el rendimiento óptimo de los servicios.",
+                "Gestión operativa en cabecera, asegurando el correcto funcionamiento de los equipos y sistemas de transmisión.",
+                "Mantenimiento y optimización de redes HFC [Hybrid Fiber Coax] y Wireless, asegurando su estabilidad y eficiencia.",
+                "Ejecución de tareas administrativas relacionadas con el seguimiento y control de procesos operativos.",
+                "Atención al cliente, proporcionando soporte y soluciones rápidas y efectivas a las necesidades y consultas de los usuarios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Universitario en Redes y Telecomunicaciones",
+            "institution": "Instituto Tecnológico Universitario",
+            "location": "",
+            "start_date": "2012-01-01",
+            "end_date": "2012-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "microsoft-windows",
+                "linux",
+                "mysql",
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "java",
+                "spring-boot",
+                "nodejs"
+            ],
+            "soft": [],
+            "tools": [
+                "word",
+                "excel",
+                "powerpoint",
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Control de clientes de gimnasio",
+            "description": "El proyecto fue diseñado para satisfacer las necesidades específicas del cliente, garantizando una solución personalizada y eficiente.",
+            "technologies": ["spring-boot", "html", "css", "javascript", "bootstrap", "mysql"],
+            "url": ""
+        },
+        {
+            "name": "SaludApp: Servicios de salud",
+            "description": "Desempeñé el rol de líder técnico, coordinando y ayudando al equipo en las tareas técnicas y asegurando estándares de calidad.",
+            "technologies": ["spring-boot", "html", "css", "javascript", "bootstrap", "mysql"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

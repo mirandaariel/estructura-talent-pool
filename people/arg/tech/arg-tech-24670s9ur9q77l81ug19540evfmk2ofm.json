@@ -1,0 +1,101 @@
+{
+    "personal_info": {
+        "first_name": "Ariel",
+        "last_name": "Salcito",
+        "email": "ariel_salcito@live.com",
+        "phone": "+54 11 6930 3301",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/ariel-salcito",
+        "website": "",
+        "portfolio": "https://portfolio-slasari.vercel.app",
+        "summary": "No conozco a ninguna persona más dedicada que yo, considero que mi sentido de la lógica y mi perseverancia son dos de mis habilidades más valiosas. Soy un gran compañero de equipo y una persona muy sociable, tengo habilidad para tomar decisiones difíciles y generar un cambio positivo. Mi objetivo principal es convertirme en la mejor versión de mí mismo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Administrador",
+            "company": "Uni-Plast",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Gestionar y administrar la base de datos de Uni-Plast.",
+                "Alta y baja de productos, ventas, proveedores, compras y pagos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Vendedor",
+            "company": "Volkswagen",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Conseguir el mayor número de ventas posibles de planes de ahorro 0km.",
+                "Desarrollar habilidades de comunicación con clientes y habilidades de negociación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Developer",
+            "institution": "soyHenry",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "Secundario Completo en Economía y Administración de Empresas",
+            "institution": "Escuela N°1 Perito Moreno",
+            "location": "",
+            "start_date": "2012-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "desarrollo-web",
+                "javascript",
+                "typescript",
+                "excel",
+                "office-pack"
+            ],
+            "soft": [
+                "dedicacion",
+                "perseverancia",
+                "aprendizaje-rapido-y-constante",
+                "buena-presencia",
+                "comunicacion",
+                "liderazgo",
+                "trabajo-en-equipo",
+                "resolucion-de-problemas",
+                "creatividad",
+                "compañerismo"
+            ],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

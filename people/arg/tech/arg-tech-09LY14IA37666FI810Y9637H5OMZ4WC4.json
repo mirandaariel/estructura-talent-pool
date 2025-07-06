@@ -2,57 +2,89 @@
     "personal_info": {
         "first_name": "Santiago",
         "last_name": "Paz",
-        "email": "santiagom.paza@gmail.com",
-        "phone": "+54 54876452",
+        "email": "santiagom.paz@gmail.com",
+        "phone": "+54 1154876452",
         "location": {
             "country": "Argentina",
-            "city": "Colegiales",
-            "state": "Buenos Aires"
+            "city": "Buenos Aires",
+            "state": ""
         },
         "linkedin": "https://www.linkedin.com/in/santiagompaz/",
         "website": "",
         "portfolio": "",
-        "summary": ""
+        "summary": "Analista Administrativo & Project Manager con sólida formación técnica en computación y más de 8 años de experiencia profesional en entornos corporativos y tecnológicos. Especializado en tareas administrativas, gestión de proyectos IT, análisis de procesos y coordinación de equipos. Combinación de perfil técnico y analítico con orientación a resultados, monitoreo de KPIs, uso de métricas de desempeño y mejora continua."
     },
     "work_experience": [
         {
-            "job_title": "Mobile Front-end UI Developer",
-            "company": "",
+            "job_title": "Project Manager Assistant",
+            "company": "ROTOM LABS",
             "location": "",
-            "start_date": "2023-01-01",
-            "end_date": "",
-            "currently_working": true,
+            "start_date": "2022-08-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
             "responsibilities": [
-                "Responsable del maquetado y desarrollo front-end de la App en React Native.",
-                "Colaboración con diseñadores en el re-diseño y asistencia a desarrolladores y líderes de producto."
+                "Coordinación y seguimiento de proyectos con metodologías ágiles (JIRA, Basecamp), controlando KPIs para evaluar el rendimiento del equipo y cumplimiento de plazos.",
+                "Implementación de nuevas funcionalidades en aplicaciones móviles (React Native), con foco en la mejora continua basada en métricas de calidad y feedback de usuarios.",
+                "Interacción directa con stakeholders internos y externos para alinear objetivos del proyecto y resolver impedimentos.",
+                "Aseguramiento de calidad y cumplimiento de entregables mediante revisiones periódicas y testeo funcional.",
+                "Participación activa en procesos de UX/UI (Figma) junto a diseñadores, proponiendo mejoras basadas en user experience."
             ],
             "achievements": [],
             "repository_url": ""
         },
         {
-            "job_title": "Assistant Manager",
-            "company": "",
+            "job_title": "Analista de Prevención de Fraudes",
+            "company": "GRUPO SANCOR SEGUROS",
             "location": "",
             "start_date": "2022-01-01",
-            "end_date": "2023-12-31",
+            "end_date": "2022-07-31",
             "currently_working": false,
             "responsibilities": [
-                "Asistencia a Project Manager en la implementación de nuevas funcionalidades.",
-                "Garantizar los tiempos y calidad de los entregables y su publicación en producción."
+                "Análisis de datos (MS Access) y patrones para identificar potenciales fraudes, generando reportes periódicos con métricas clave de riesgos detectados.",
+                "Colaboración interdepartamental para mejorar procesos de validación y reducir tiempos de resolución mediante dashboards y automatización básica."
             ],
             "achievements": [],
             "repository_url": ""
         },
         {
-            "job_title": "UX UI Designer, Content Producer & QA Tester",
-            "company": "",
+            "job_title": "Analista de Siniestros",
+            "company": "GRUPO SANCOR SEGUROS",
             "location": "",
-            "start_date": "2022-01-01",
-            "end_date": "2022-12-31",
+            "start_date": "2019-01-01",
+            "end_date": "2021-12-31",
             "currently_working": false,
             "responsibilities": [
-                "Colaboración con diseñadores en la traducción de los requisitos del cliente en diseños innovadores.",
-                "Participación en la producción de contenidos digitales y pruebas de usabilidad de la App."
+                "Gestión integral de siniestros (análisis, seguimiento y cierre), evaluando la evolución mensual de casos a través de métricas internas.",
+                "Atención a clientes y Productores Asesores de Seguros, con foco en la satisfacción del cliente como indicador clave.",
+                "Evaluación de coberturas y riesgos técnicos, con foco en el cumplimiento normativo y control documental."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Administrativo de Pagos",
+            "company": "GRUPO SANCOR SEGUROS",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2018-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Control y liquidación de facturas a proveedores (SAP), monitoreando plazos y cumplimiento de políticas internas.",
+                "Emisión y seguimiento de comprobantes y retenciones, reportando mensualmente datos clave al supervisor del área."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Asistente Administrativo",
+            "company": "GRUPO SANCOR SEGUROS",
+            "location": "",
+            "start_date": "2016-03-01",
+            "end_date": "2017-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Carga de denuncias de siniestros con alto nivel de precisión y rapidez.",
+                "Apoyo administrativo a diferentes áreas internas, asegurando el flujo operativo mediante coordinación interdepartamental."
             ],
             "achievements": [],
             "repository_url": ""
@@ -60,19 +92,11 @@
     ],
     "education": [
         {
-            "degree": "",
-            "institution": "Facultad de Arquitectura, Diseño y Urbanismo - UBA",
-            "location": "",
-            "start_date": "",
-            "end_date": "2025-12-31",
-            "hours": 0
-        },
-        {
             "degree": "Técnico en Computación",
-            "institution": "Escuela Técnica N 3 'María Sánchez de Thompson'",
+            "institution": "ESCUELA TÉCNICA № 3",
             "location": "",
-            "start_date": "",
-            "end_date": "",
+            "start_date": "2005-01-01",
+            "end_date": "2010-12-31",
             "hours": 0
         }
     ],
@@ -80,39 +104,66 @@
         "keywords": {
             "technical": [
                 "react-native",
-                "typescript",
-                "swiftui",
-                "jetpack-compose",
-                "react.js",
+                "reactjs",
                 "html",
                 "css",
-                "javascript",
-                "github"
+                "javascript"
             ],
             "soft": [
-                "adaptación-a-cambios",
-                "trabajo-colaborativo",
-                "comunicación-efectiva",
+                "adaptabilidad",
+                "comunicación-asertiva",
+                "liderazgo",
+                "organización-y-planificación",
+                "proactividad-y-autonomía",
                 "resolución-de-problemas",
-                "liderazgo-personal"
+                "trabajo-en-equipo"
             ],
-            "tools": []
+            "tools": [
+                "jira",
+                "basecamp",
+                "mongodb",
+                "sql",
+                "aws",
+                "google-suite",
+                "ms-office",
+                "figma",
+                "sap-fi"
+            ]
         },
-        "detailed": {
-            "technical": {},
-            "soft": {}
-        }
+        "detailed": {}
     },
-    "certifications": [],
+    "certifications": [
+        {
+            "name": "Fundamentos de la gestión de proyectos",
+            "issuing_organization": "LinkedIn Learning",
+            "issue_date": "2025-06-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "ReactJS",
+            "issuing_organization": "Talento Tech, GCBA",
+            "issue_date": "2025-03-01",
+            "expiration_date": "2025-08-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Diseño UX UI",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2021-07-01",
+            "expiration_date": "2021-12-31",
+            "credential_id": ""
+        }
+    ],
     "projects": [],
     "languages": [
         {
-            "language": "Spanish",
-            "proficiency": "Native"
+            "language": "Español",
+            "proficiency": "Nativo"
         },
         {
-            "language": "English",
-            "proficiency": "Intermediate"
+            "language": "Inglés",
+            "proficiency": "Intermedio (B1)"
         }
     ],
     "volunteer_experience": [],

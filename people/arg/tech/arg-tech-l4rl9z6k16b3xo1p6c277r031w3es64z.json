@@ -1,0 +1,141 @@
+{
+    "personal_info": {
+        "first_name": "Victor",
+        "last_name": "Quiñones",
+        "email": "Victor.quinones.ch@gmail.com",
+        "phone": "+58 4127884439",
+        "location": {
+            "country": "",
+            "city": "Bogotá",
+            "state": "Colombia"
+        },
+        "linkedin": "https://linkedin.com/in/victorqui",
+        "website": "https://github.com/vctorqui",
+        "portfolio": "",
+        "summary": "Me especializo en la creación de interfaces web escalables e intuitivas, con un enfoque en el desarrollo de componentes reutilizables y código limpio. Adaptable a nuevas tecnologías y comprometido con el trabajo en equipo para entregar soluciones de alta calidad que mejoran el rendimiento del producto."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "WeAreContent",
+            "location": "Bogotá, Colombia",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñe y desarrollé componentes reutilizables con JavaScript Vanilla, optimizando el flujo de trabajo y reduciendo los tiempos de entrega.",
+                "Implementé estrategias para estructurar y documentar el código, mejorando su legibilidad y facilitando la colaboración entre equipos.",
+                "Coordiné con el equipo backend para optimizar las llamadas a API, logrando una integración eficiente y mejorando la velocidad de respuesta en un 15%.",
+                "Automatización y mantenimiento de más de 4 productos, mejorando la escalabilidad y estabilidad de los sistemas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Front-End",
+            "company": "Coastal Insight Consulting",
+            "location": "Miami, USA",
+            "start_date": "2023-03-01",
+            "end_date": "2025-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé interfaces responsivas usando CSS3, Material UI y Tailwind CSS, asegurando un rendimiento óptimo en múltiples dispositivos.",
+                "Gestioné estados y optimicé el rendimiento de aplicaciones de gran escala utilizando React Context.",
+                "Diseñe puntos de integración con APIs RESTful para sincronización eficiente de datos entre frontend y backend.",
+                "Propuse mejoras en los flujos de trabajo colaborativos con el equipo backend, contribuyendo al mantenimiento y automatización de más de 8 proyectos."
+            ],
+            "achievements": [
+                "Tecnologías: React.js, Next.js, TypeScript, JavaScript, Node.js, Material UI, HTML5, CSS3, Sass."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería Electrónica",
+            "institution": "Universidad de Falcón 'UDEFA'",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript",
+                "typescript",
+                "react.js",
+                "next.js",
+                "astro",
+                "zustand",
+                "vitest",
+                "tailwind-css",
+                "material-ui",
+                "shaden-ui",
+                "node.js",
+                "express",
+                "firebase",
+                "mongodb"
+            ],
+            "soft": [
+                "trabajo-con-equipos-diversos",
+                "capacidad-para-identificar-y-abordar-desafíos-complejos",
+                "proactividad",
+                "capacidad-en-transmitir-ideas"
+            ],
+            "tools": [
+                "vite",
+                "docker",
+                "git",
+                "github",
+                "slack",
+                "jira",
+                "scrum"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [
+        {
+            "name": "Responsive Web Design",
+            "issuing_organization": "FreeCodeCamp",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "React.js con TypeScript",
+            "issuing_organization": "Platzi",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Frontend Developer",
+            "issuing_organization": "Platzi",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Algoritmos y Diagramas de Flujo",
+            "issuing_organization": "Platzi",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Fluent"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

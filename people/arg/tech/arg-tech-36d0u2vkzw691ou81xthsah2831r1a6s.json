@@ -1,0 +1,88 @@
+{
+    "personal_info": {
+        "first_name": "Ernesto",
+        "last_name": "Jimenez",
+        "email": "zynhop6@gmail.com",
+        "phone": "385-5865143",
+        "location": {
+            "country": "Argentina",
+            "city": "Santiago del Estero",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/ernesto-jimenez-073406173",
+        "website": "https://github.com/ErnestoJimenez6",
+        "portfolio": "",
+        "summary": "Aspirante a Desarrollador Frontend, motivado y orientado a los detalles, con pasión por crear aplicaciones web intuitivas y responsivas. Busco aprovechar mis habilidades en HTML, CSS, JavaScript y React para contribuir a proyectos innovadores y crecer como profesional en un entorno de equipo dinámico."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Programador Full-Stack",
+            "institution": "Courser",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Secundario",
+            "institution": "Colegio Big Ben School",
+            "location": "",
+            "start_date": "2004-01-01",
+            "end_date": "2008-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript",
+                "react",
+                "bootstrap",
+                "sass"
+            ],
+            "soft": [
+                "resolución-de-problemas",
+                "metodologías-áGiles",
+                "compatibilidad-entre-navegadores"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "vite",
+                "firebase"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sitio Web de E-commerce",
+            "description": "Desarrollé una aplicación web de e-commerce completamente responsiva utilizando React y Vite. Implementé la renderización dinámica de productos, autenticación de usuarios y un carrito de compras usando Context API y Firebase. Integré React Bootstrap para mejorar los componentes de la interfaz de usuario y aseguré la compatibilidad entre navegadores.",
+            "technologies": [
+                "react",
+                "vite",
+                "context-api",
+                "firebase",
+                "react-bootstrap"
+            ],
+            "url": "https://github.com/ErnestoJimenez6"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Fluido"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

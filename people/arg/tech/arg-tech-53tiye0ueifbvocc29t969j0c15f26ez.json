@@ -1,0 +1,126 @@
+{
+    "personal_info": {
+        "first_name": "Angel",
+        "last_name": "Gomez Arroyo",
+        "email": "angelg.arroyo@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "IT professional with over 10 years of experience in software development, specializing in Java, Spring Boot, and microservices architecture. Proven track record in the financial, insurance, and government sectors. Skilled in backend and full-stack development, integrating secure APIs with JWT and OAuth2, automating processes with Bash and Ansible, and supporting cloud-based deployments (Azure). Strong focus on code quality, security, best practices, and technical documentation. Brings a technical vision and leadership capacity."
+    },
+    "work_experience": [
+        {
+            "job_title": "Java Developer / Full Stack",
+            "company": "Tata Consultancy Services",
+            "location": "",
+            "start_date": "2022-08-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Resolved Level 3 incidents within critical banking applications using ServiceNow, collaborating with L1 and L2 teams to ensure timely analysis, escalation, and root cause identification.",
+                "Developed backend components in Java using Spring Boot, applying layered architecture with DAO, Controller, Business, and Helper classes, while consuming secure APIs authenticated via JWT.",
+                "Automated operational processes and deployment routines using Bash scripting and Ansible, improving efficiency and reducing manual intervention across environments.",
+                "Participated in the CI/CD pipeline setup for Azure migration, contributing to build automation and secure deployments; supported CyberArk updates and monitored application health post-release.",
+                "Maintained and enhanced application security and performance through vulnerability remediation, dependency updates, and response validation for dynamic JSON APIs.",
+                "Produced and maintained technical documentation in Confluence, ensuring knowledge continuity and supporting new team members and audit processes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Java Developer / Full Stack",
+            "company": "Ceeci PYME",
+            "location": "",
+            "start_date": "2015-07-01",
+            "end_date": "2022-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed and maintained full-stack applications using Java (Spring Boot, Hibernate), Angular, and Vue.js, delivering custom business solutions for legal, educational, and CRM platforms.",
+                "Designed and consumed SOAP and REST web services using JAX-WS, JAX-RS, and Spring Web, applying authentication strategies and response validation techniques across distributed systems.",
+                "Participated in the design and implementation of microservices and reusable modules following software design patterns such as DAO, Business Delegate, and Factory, ensuring scalable architecture.",
+                "Led the development of specialized systems, including educational platforms, legal workflow tools, and administrative CRMs, managing integrations with SQL Server, MySQL, and MariaDB.",
+                "Built responsive UIs with PrimeFaces, Bootstrap, and jQuery; implemented interactive forms, catalogs, and dashboards connected to backend services.",
+                "Supported deployment to application servers such as Tomcat and Wildfly, configured build automation with Maven, and contributed to version control using Git and SVN."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Web Developer / Full Stack",
+            "company": "CD CITY",
+            "location": "",
+            "start_date": "2000-08-01",
+            "end_date": "2013-09-30",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Web Designer and Developer",
+            "company": "Futurnet S.A. de C.V.",
+            "location": "",
+            "start_date": "1999-11-01",
+            "end_date": "2000-07-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree in Computer Systems and Informatics",
+            "institution": "Instituto Mixteco de Educación Integral",
+            "location": "",
+            "start_date": "2022-09-01",
+            "end_date": "2026-02-28",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "javaee",
+                "springboot",
+                "microservices",
+                "struts",
+                "primefaces",
+                "tomcat",
+                "tomee",
+                "jsf",
+                "resteasy",
+                "mvc",
+                "linux",
+                "svn",
+                "git",
+                "mysql",
+                "oracle",
+                "maven",
+                "rest",
+                "json",
+                "soap",
+                "jwt"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

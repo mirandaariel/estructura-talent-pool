@@ -1,0 +1,115 @@
+{
+    "personal_info": {
+        "first_name": "Valentin",
+        "last_name": "Vila",
+        "email": "vilavalentin@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Looking for a challenging opportunity where I can leverage my expertise in building scalable systems. I thrive in collaborative environments, adept at working with cross-functional teams, and I'm well-versed in agile methodologies such as Scrum and Kanban."
+    },
+    "work_experience": [
+        {
+            "job_title": "Medi Backend Developer",
+            "company": "Stori Card",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Used Go & AWS to process card payments for +1 M users in real-time."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Medi Backend Developer",
+            "company": "CleverIT Group",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Used Go, JS (Node) & Python to develop and maintain microservices.",
+                "Collaborated with cross-functional teams to implement new features and improve existing systems.",
+                "Deployed to production environments in Argentina, Chile, and other countries in Latam.",
+                "Solved 50% of the backend-end bugs in the old backlog in my dead time, resulting in a 20% increase in the performance and efficiency of resources."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Go Developer",
+            "company": "Ualá",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Worked on Ualá's backend infrastructure and developed features using the Go programming language.",
+                "Collaborated with cross-functional teams to ensure successful deployment in Mexico.",
+                "Led and contributed to the development of microservices.",
+                "Reduced the average process time for cash deposit validation by 2 minutes for 80,000 daily demands through code refactoring in the data validation process."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Pentester",
+            "company": "Faraday",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Conducted external and internal penetration tests for financial institutions, government agencies, and airlines.",
+                "Identified vulnerabilities in web applications, APIs, and internal networks, aiming to strengthen overall security posture.",
+                "Performed web and API penetration testing using Burp Suite, Metasploit, Nmap, and other industry-standard tools.",
+                "Successfully escalated privileges and created unauthorized admin accounts in multiple banks, prompting major security improvements.",
+                "Helped government agencies and airlines enhance their web and API security by addressing critical vulnerabilities."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computer Science",
+            "institution": "Self-Taught w/ MIT OpenCourseWare",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "go",
+                "node.js",
+                "aws",
+                "data-structures",
+                "algorithms"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

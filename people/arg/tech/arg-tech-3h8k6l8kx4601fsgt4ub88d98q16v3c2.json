@@ -1,0 +1,153 @@
+{
+    "personal_info": {
+        "first_name": "",
+        "last_name": "",
+        "email": "luchofseven@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador full stack con +3 años de experiencia creando aplicaciones web eficientes y escalables. Especializado en React, TypeScript y Tailwind para frontend, con experiencia en backend usando NestJS, TypeORM y MySQL/PostgreSQL. Actualmente lidero el desarrollo de ECOMENU, un sistema para la gestión de restaurantes."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñamos y desarrollamos la interfaz de usuario del sistema con React, TypeScript y Tailwind, logrando una experiencia fluida y moderna para los restaurantes.",
+                "Implementamos estados globales con Redux Toolkit.",
+                "Realizamos peticiones a la API con RTK Query.",
+                "Implementamos mejoras en el backend con NestJS y MySQL."
+            ],
+            "achievements": [],
+            "repository_url": "https://ecomenuapp.com"
+        },
+        {
+            "job_title": "Desarrollador Web Freelance",
+            "company": "Midudev",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementamos componentes reutilizables para el footer y la sección \"Los trabajos más cool\", optimizando el código con Astro y Tailwind.",
+                "Implementamos una modal en la sección \"Prepárate para ganar\".",
+                "Optimizamos la búsqueda de palabras clave mediante una API y una función de debouncing, mejorando la velocidad y precisión de las sugerencias.",
+                "Maquetamos y estilamos la página en general, con Astro y Tailwind CSS."
+            ],
+            "achievements": [],
+            "repository_url": "https://primer-trabajo.infojobs.net"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Superior en Análisis Funcional de Sistemas Informáticos",
+            "institution": "COLEGIO SUPERIOR № 42",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "next.js",
+                "astro",
+                "tailwind-css",
+                "sass",
+                "redux-toolkit",
+                "formik",
+                "yup",
+                "tanstack-query",
+                "tanstack-table",
+                "tanstack-router",
+                "node.js",
+                "nestjs",
+                "express.js",
+                "mysql",
+                "postgresql",
+                "firebase",
+                "typeorm"
+            ],
+            "soft": [
+                "creativo",
+                "eficiente",
+                "iniciativa",
+                "resolutivo",
+                "trabajo-en-equipo-eficiente",
+                "formación-continua"
+            ],
+            "tools": [
+                "docker",
+                "git",
+                "github",
+                "jira",
+                "scrum",
+                "ci/cd",
+                "api-rest"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Tesla Landing",
+            "description": "Clon funcional de la web de Tesla, aplicado con Astro para una experiencia optimizada en velocidad y SEO.",
+            "technologies": [
+                "Astro",
+                "Tailwind"
+            ],
+            "url": "https://tesla-clone-henna-nine.vercel.app"
+        },
+        {
+            "name": "Lista de Tareas",
+            "description": "Aplicación de tipo agenda o bloc de notas, en la cual se pueden agregar, editar o eliminar las tareas. Desarrollado con fines prácticos.",
+            "technologies": [
+                "Next.js",
+                "React",
+                "Tailwind"
+            ],
+            "url": "https://todo-app-next-woad.vercel.app"
+        },
+        {
+            "name": "Mohana Indumentaria",
+            "description": "Simulación de un comercio electrónico, donde se pueden ver los productos disponibles, su stock, sus talles, así como también poder añadirlos al carrito de compras. Construido con fines prácticos.",
+            "technologies": [
+                "React",
+                "Sass",
+                "Firebase"
+            ],
+            "url": "https://mohana-proyecto-react.vercel.app"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

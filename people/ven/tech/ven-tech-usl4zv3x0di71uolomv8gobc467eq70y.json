@@ -1,0 +1,163 @@
+{
+    "personal_info": {
+        "first_name": "Aaron",
+        "last_name": "Escobar Cordova",
+        "email": "aaronescobar99@gmail.com",
+        "phone": "+58 4241724001",
+        "location": {
+            "country": "Venezuela",
+            "city": "Caracas",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/aaron-escobar-cordoba/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Fullstack Senior y Líder Backend con más de 6 años de experiencia en todo el ciclo de vida del software. Mi expertise abarca javascript (Node.js, Express, NestJS), frameworks frontend como Angular y React, y bases de datos SQL/NoSQL (MongoDB)."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Fullstack JavaScript / Líder de Área Backend",
+            "company": "Confiao. CA",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñe y desarrollé los módulos common y core, creando librerías y utilidades compartidas.",
+                "Define la arquitectura, el flujo de despliegue y las pipelines CI/CD (Docker, Jenkins).",
+                "Implementé integraciones críticas como MongoDB para almacenamiento.",
+                "Implementé verificación KYC/KYB con SumSub, y envío de OTP por SMS y email.",
+                "Gestioné la administración de dinero, controlando transacciones, conciliaciones y balances."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Infocent LATAM",
+            "location": "",
+            "start_date": "2022-03-01",
+            "end_date": "2025-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de casos de uso, pruebas unitarias y documentación para Nómina.",
+                "Pruebas unitarias desarrolladas en Karma con Jasmine.",
+                "Participación en el diseño y desarrollo de un sistema de gestión de nómina.",
+                "Diseñé y construí módulos y componentes reutilizables."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "FullStack Developer",
+            "company": "Agence Consultoría",
+            "location": "",
+            "start_date": "2022-08-01",
+            "end_date": "2022-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Reducción de un 80% del tiempo de carga de la página mediante mejoras en Angular y Backend."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Agence Consultoría",
+            "location": "",
+            "start_date": "2022-06-01",
+            "end_date": "2022-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Disminuí a menos del 50% las solicitudes mediante desarrollo de proyectos de funcionalidades."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "FullStack Developer",
+            "company": "AmberesCoin C.A.",
+            "location": "",
+            "start_date": "2021-09-01",
+            "end_date": "2022-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Solucioné el 50% de los bugs frontend del sistema de información migrando a Next.js.",
+                "Mejoré el manejo de billeteras mediante integración con Binance APIs."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "FullStack Developer",
+            "company": "Hispanos Soluciones C.A.",
+            "location": "",
+            "start_date": "2020-08-01",
+            "end_date": "2021-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Agilicé en un 40% la culminación de los proyectos mediante un nuevo tipo de comunicación al cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Superior",
+            "institution": "IUTIRLA",
+            "location": "Caracas, Venezuela",
+            "start_date": "",
+            "end_date": "2020-02-29",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "nodejs",
+                "typescript",
+                "python",
+                "solidity",
+                "c#",
+                "express",
+                "reactjs",
+                "angular",
+                ".net",
+                ".net-core",
+                "mongodb",
+                "sql"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "jira",
+                "slack",
+                "unit-test",
+                "karma",
+                "jest",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

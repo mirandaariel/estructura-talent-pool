@@ -1,0 +1,138 @@
+{
+    "personal_info": {
+        "first_name": "Ignacio",
+        "last_name": "Cava",
+        "email": "cavaignacio11@gmail.com",
+        "phone": "+54 1144399658",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/ignacio-cava",
+        "website": "https://portfolionew-ashy.vercel.app/",
+        "portfolio": "",
+        "summary": "Soy un desarrollador fullstack con experiencia construyendo aplicaciones escalables en tiempo real usando tecnologías modernas. Adepto en optimizaciones de rendimiento de frontend, desarrollo de backend y colaboración en equipos agile. Soy altamente motivado, con gran capacidad de aprendizaje, excelentes habilidades de comunicación y pasión por escribir código robusto."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "IKATECH SOLUTIONS",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Participación en desarollo de productos SaaS usando microservicios y microfrontends.",
+                "Diseño de aplicaciones frontend con React y Redux.",
+                "Diseño de APIs escalables con Django y GraphQL.",
+                "Administración de bases de datos PostgreSQL y MongoDB, incluyendo operaciones SQL."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Remotebase",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y optimización de red social Web3.",
+                "Remodelado de la arquitertura del frontend para reducir tiempos de renderizado y mejorar las transmisiones de audio/video.",
+                "Migración de código de legado, componentes de clase a funcionales con React Hooks.",
+                "Escritura de pruebas automatizadas con Jest y React Testing Library."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Freelance",
+            "company": "",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una aplicación en React Native para peluquería \"Rey de Barba\" con MongoDB."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "typescript",
+                "next.js",
+                "redux",
+                "zustand",
+                "tailwind",
+                "styled-components",
+                "sass",
+                "node.js",
+                "express.js",
+                "django",
+                "graphql",
+                "apollo",
+                "sequelize",
+                "prisma",
+                "postgresql",
+                "mongodb",
+                "firebase",
+                "redis"
+            ],
+            "soft": [
+                "comunicación",
+                "colaboración-grupal",
+                "toma-de-decisiones-críticas",
+                "adaptabilidad",
+                "aprendizaje",
+                "resolución-de-problemas",
+                "previsión-de-retos"
+            ],
+            "tools": [
+                "linux",
+                "docker",
+                "git",
+                "figma",
+                "jira"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Messenger app",
+            "description": "Aplicación de chat grupal en tiempo real creada con GraphQL Pub/Sub, Prisma y Docker",
+            "technologies": ["graphql", "prisma", "docker"],
+            "url": ""
+        },
+        {
+            "name": "Trello Clone",
+            "description": "Aplicación de tablero Kanban creada con React y MongoDB.",
+            "technologies": ["react", "mongodb"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "C2"
+        },
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

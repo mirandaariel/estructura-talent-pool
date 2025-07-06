@@ -1,0 +1,215 @@
+{
+    "personal_info": {
+        "first_name": "Francisco",
+        "last_name": "Páez Lastra",
+        "email": "Paezlastrafrancisco@gmail.com",
+        "phone": "+5493814728507",
+        "location": {
+            "country": "Argentina",
+            "city": "Tucumán",
+            "state": ""
+        },
+        "linkedin": "LinkedIn",
+        "website": "",
+        "portfolio": "GitHub",
+        "summary": "Soy un desarrollador Full Stack con experiencia en Java, React, HTML, CSS, Tailwind y WordPress. Me especializo en la creación de aplicaciones web y disfruto liderar proyectos con un enfoque creativo y resolutivo. Me considero proactivo y comprometido, siempre en busca de optimizar procesos y aportar soluciones innovadoras. Valoro el trabajo en equipo y la colaboración, fomentando un ambiente de compañerismo donde surgen y se desarrollan buenas ideas. La resiliencia y la responsabilidad son fundamentales en mi manera de trabajar, así como la escucha activa para entender mejor las necesidades del equipo y del proyecto. Me adapto rápidamente a nuevas tecnologías y busco constantemente mejorar, con un fuerte compromiso hacia el aprendizaje continuo y el crecimiento profesional."
+    },
+    "work_experience": [
+        {
+            "job_title": "Backend Developer",
+            "company": "Uhmo",
+            "location": "",
+            "start_date": "2025-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo del backend con Java y Spring Boot para gestionar productos y recibir pedidos.",
+                "Implementación de registro y login con autenticación mediante JWT.",
+                "Estructura backend basada en POO y patrón MVC.",
+                "Conexión con base de datos PostgreSQL."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Método Ponseti",
+            "location": "",
+            "start_date": "2025-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de frontend con React, Tailwind CSS y Redux.",
+                "Consumo de APIs mediante Axios para gestionar usuarios y reseñas.",
+                "Interfaz desarrollada con React Router DOM."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Developer",
+            "company": "Enaptiq",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una plataforma SaaS de customer analytics.",
+                "Implementación de metodologías ágiles con Scrum.",
+                "Frontend: HTML, CSS, JavaScript, Tailwind, React.",
+                "Consumo de API mediante Axios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "AGP constructora",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicación para la gestión de stock.",
+                "Implementación de metodologías ágiles con Scrum.",
+                "Frontend: HTML, CSS, JavaScript, Tailwind, React.",
+                "Backend: Java, Spring, Spring Boot, PostgreSQL, JWT para autenticación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Developer",
+            "company": "Proyecto Independiente - Gestión de Hamburguesería",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicación para gestionar hamburguesería.",
+                "Frontend: HTML, CSS, JavaScript, Tailwind, React.",
+                "Backend: Java, Spring, Spring Boot, H2, PostgreSQL, JWT para autenticación."
+            ],
+            "achievements": [],
+            "repository_url": "https://nuevorepofrontentvoyager.onrender.com/"
+        },
+        {
+            "job_title": "Developer",
+            "company": "Proyecto Independiente - Aplicación de Homebanking",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicación para gestión financiera.",
+                "Frontend: React, Tailwind CSS.",
+                "Backend: Java, Spring, Spring Boot, H2, PostgreSQL."
+            ],
+            "achievements": [],
+            "repository_url": "https://homebankingfront.onrender.com/"
+        },
+        {
+            "job_title": "Developer",
+            "company": "Proyecto Independiente - Supermercado Online",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de web para supermercado.",
+                "Diseño moderno y responsive utilizando HTML, CSS y JavaScript."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Developer",
+            "company": "Proyecto Independiente - Portal Tabacalero",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de portal con WordPress y Elementor.",
+                "Interfaz intuitiva con secciones de noticias y recursos."
+            ],
+            "achievements": [],
+            "repository_url": "https://portaltabacalero.ar/"
+        },
+        {
+            "job_title": "Developer",
+            "company": "Jose Dumit SA",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de landing page con WordPress y Elementor.",
+                "Interfaz intuitiva con secciones de quienes somos, exportaciones y contacto."
+            ],
+            "achievements": [],
+            "repository_url": "https://josedumitsa.com/"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Dessarrollador Full Stack JAVA",
+            "institution": "Mindhub",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2024-10-31",
+            "hours": 700
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring",
+                "spring-boot",
+                "h2",
+                "postgresql",
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "tailwind-css",
+                "git",
+                "github",
+                "wordpress",
+                "elementor",
+                "axios",
+                "jwt"
+            ],
+            "soft": [
+                "proactivo",
+                "comprometido",
+                "trabajo-en-equipo",
+                "colaboración",
+                "resiliencia",
+                "responsabilidad",
+                "escucha-activa",
+                "adaptabilidad",
+                "aprendizaje-continuo"
+            ],
+            "tools": [
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

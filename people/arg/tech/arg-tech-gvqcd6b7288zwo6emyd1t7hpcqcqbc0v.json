@@ -1,0 +1,108 @@
+{
+    "personal_info": {
+        "first_name": "Abril",
+        "last_name": "Sabatini",
+        "email": "abrilsabatini2004@gmail.com",
+        "phone": "2612158163",
+        "location": {
+            "country": "Argentina",
+            "city": "Maipú",
+            "state": "Mendoza"
+        },
+        "linkedin": "https://www.linkedin.com/in/abrilsabatini",
+        "website": "",
+        "portfolio": "",
+        "summary": "Técnica Universitaria en Programación con experiencia en desarrollo Backend. He trabajado en la creación de APIs RESTful y en la gestión de proyectos bajo metodologías ágiles (Scrum), participando en iniciativas como Full Salud. Cuento con conocimientos en Node.js, TypeScript, NestJS y Java. Familiarizada con herramientas de colaboración como GitHub, Slack y Notion, y con capacidad para colaborar en equipos multidisciplinarios."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrolladora Backend",
+            "company": "RTS Argentina",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideré el proyecto BackEnd para Full Salud, asigné y di seguimiento a las tareas del equipo de desarrollo.",
+                "Gestioné el backlog y planifiqué los sprints.",
+                "Colaboré con las áreas de diseño y FrontEnd."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Prácticas profesionales",
+            "company": "RTS Argentina",
+            "location": "",
+            "start_date": "2023-12-01",
+            "end_date": "2024-02-29",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé servicios y APIs RESTful utilizando NodeJS y Express."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "UTN",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Inglés - Primer año",
+            "institution": "Fundación Learning",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Secundaria",
+            "institution": "Gilda Cosma de Lede",
+            "location": "",
+            "start_date": "",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["node", "typescript", "nestjs", "java"],
+            "soft": [],
+            "tools": ["github", "slack", "notion"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "API Full Salud",
+            "description": "Desarrollo del modelo y BackEnd para una plataforma web de salud que conecta médicos con pacientes, implementando funcionalidades de reserva de turnos, acceso a historiales médicos, generación de recetas y derivaciones enviadas por correo electrónico.",
+            "technologies": ["node", "typescript", "nestjs", "typeorm", "supabase", "auth", "render", "swagger", "s3"],
+            "url": ""
+        },
+        {
+            "name": "API El Buen Sabor",
+            "description": "Desarrollo BackEnd para plataforma de E-commerce, creación y gestión de productos, API de Mercado Pago, generación de facturas PDF, estadísticas de ventas.",
+            "technologies": ["gradle", "java", "spring-boot", "hibernate", "spring-security", "auth0", "mysql", "mapstruct", "cloudinary"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

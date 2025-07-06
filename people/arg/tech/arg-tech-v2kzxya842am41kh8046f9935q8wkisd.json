@@ -1,0 +1,152 @@
+{
+    "personal_info": {
+        "first_name": "Franco Nicolás",
+        "last_name": "Fuentes Garcia",
+        "email": "nicolasfuentesg06@gmail.com",
+        "phone": "+54 3813193531",
+        "location": {
+            "country": "Argentina",
+            "city": "Tucumán",
+            "state": ""
+        },
+        "linkedin": "Go to profile",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador FullStack con experiencia en múltiples proyectos simultáneos. Enfocado en soluciones de alta calidad usando tecnologías modernas como JavaScript y TypeScript."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Bowery",
+            "location": "Argentina",
+            "start_date": "2023-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Liderando la implementación de nuevas funcionalidades.",
+                "Mejora de sistemas existentes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack y Mobile",
+            "company": "Vortex",
+            "location": "Argentina",
+            "start_date": "2023-09-01",
+            "end_date": "2025-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Participando en múltiples proyectos en paralelo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingenieria en sistemas de informacion",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2026-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "javascript",
+                "reactjs",
+                "nextjs",
+                "react-native",
+                "tailwind-css",
+                "nodejs",
+                "nestjs",
+                "prisma",
+                "postgresql",
+                "mongodb",
+                "git",
+                "github",
+                "azure-devops",
+                "docker",
+                "aws",
+                "firebase",
+                "vercel",
+                "figma",
+                "programacion-orientada-a-objetos",
+                "programacion-funcional",
+                "programacion-reactiva",
+                "domain-driven-design",
+                "mvc",
+                "mvvm"
+            ],
+            "soft": [
+                "proactividad",
+                "trabajo-en-equipo",
+                "comunicacion-efectiva",
+                "adaptabilidad",
+                "resolucion-de-problemas",
+                "autodidacta"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Ibaktor",
+            "description": "Desarrollo full stack en una plataforma educativa, implementación de interfaces interactivas, integración de pagos con Mercado Pago, comunicaciones con Twilio y backend escalable con NestJS.",
+            "technologies": ["javascript", "typescript", "reactjs", "nestjs"],
+            "url": ""
+        },
+        {
+            "name": "Casa Almacén",
+            "description": "Aplicación para la exportación de productos textiles, responsabilidad en nuevas funcionalidades, diseño de interfaces y mantenimiento del backend aplicando principios DDD.",
+            "technologies": ["javascript", "typescript", "nodejs", "ddd"],
+            "url": ""
+        },
+        {
+            "name": "Refinor",
+            "description": "Desarrollo y liderazgo técnico de una billetera móvil con React Native para la refinería más grande del norte argentino.",
+            "technologies": ["react-native"],
+            "url": ""
+        },
+        {
+            "name": "Crocpoints",
+            "description": "Plataforma de monitoreo automatizado de invernaderos, desarrollo full stack con ReactJS, Tailwind CSS, WebSockets y NestJS.",
+            "technologies": ["reactjs", "tailwind-css", "websockets", "nestjs"],
+            "url": ""
+        },
+        {
+            "name": "Ampima",
+            "description": "Plataforma para expediciones turísticas científicas. Desarrollo full stack con integración de Chatwoot y automatizaciones con n8n.",
+            "technologies": ["javascript", "typescript", "reactjs", "nestjs", "chatwoot", "n8n"],
+            "url": ""
+        },
+        {
+            "name": "PCN",
+            "description": "Participación activa en el desarrollo de PCN, una red social open-source para ingenieros de software de Latinoamérica, aportando nuevas funcionalidades y mejoras para fortalecer la comunidad.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

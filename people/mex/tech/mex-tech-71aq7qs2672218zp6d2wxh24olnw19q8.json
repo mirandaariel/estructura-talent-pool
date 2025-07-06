@@ -1,0 +1,227 @@
+{
+    "personal_info": {
+        "first_name": "Fredy",
+        "last_name": "Nazario",
+        "email": "fredynn@hotmail.com",
+        "phone": "5511467342",
+        "location": {
+            "country": "Mexico",
+            "city": "Nicolás Romero",
+            "state": "Estado de México"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Fullstack con más de 6 años de experiencia creando soluciones digitales completas, con fuerte enfoque en el desarrollo de interfaces accesibles, funcionales y conectadas con servicios backend."
+    },
+    "work_experience": [
+        {
+            "job_title": "Senior Frontend Developer",
+            "company": "Turn - Desarrollo de Software",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de interfaces en Vue 3 y Nuxt para sistemas internos y CRMs",
+                "Consumo de APIs REST y refactorización de componentes reutilizables",
+                "Trabajo bajo Scrum en colaboración con PO y diseñadores",
+                "Pruebas manuales, debugging y manejo de versiones con Git"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Callitek (Proyectos Fintech)",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de dashboards con React, integración con APIs REST",
+                "Maquetado con CSS, SASS, Bootstrap bajo guías de diseño",
+                "Coordinación con equipo backend para definir contratos y datos"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "OpenFinance",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Interfaz para plataforma de préstamos digitales",
+                "Validaciones personalizadas en formularios con JavaScript",
+                "Optimización de carga, estructura y estilos",
+                "Participación activa en sesiones de revisión técnica"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Web Master",
+            "company": "GPSMarketing Digital",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2020-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Administración de sitios publicitarios",
+                "SEO, banners, correcciones de estilos y formularios"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Junior",
+            "company": "Dimarketing",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2019-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Sitios institucionales y de ecommerce",
+                "HTML, integración de componentes, adaptación móvil"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Administrador Web",
+            "company": "Salix Ingeniería",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2017-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión del contenido web de la empresa.",
+                "Apoyo en diseño gráfico de fichas técnicas y publicaciones.",
+                "Subida de nuevos productos y servicios al sitio web.",
+                "Actualización de noticias del sector e infraestructura."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Difusión Cultural (Freelance)",
+            "company": "Universidad Autónoma de la Ciudad de México",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y desarrollo de múltiples sitios web culturales e institucionales.",
+                "Maquetación accesible y responsiva con HTML5, CSS3 y jQuery.",
+                "Creación de piezas gráficas (banners, encabezados, fondos) con Illustrator y Photoshop.",
+                "Adaptación de contenido académico a interfaces digitales amigables.",
+                "Trabajo autónomo en constante coordinación con el área de comunicación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciado en Comunicación y Cultura",
+            "institution": "Universidad Autónoma de la Ciudad de México",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript",
+                "typescript",
+                "vue-3",
+                "nuxt",
+                "react",
+                "gatsby",
+                "jquery",
+                "sass",
+                "bootstrap",
+                "tailwind",
+                "php",
+                "laravel",
+                "node.js",
+                "express",
+                "rest",
+                "mysql",
+                "firebase",
+                "wordpress",
+                "smtp",
+                "linux"
+            ],
+            "soft": [
+                "scrum",
+                "trabajo-agil",
+                "revision-qa",
+                "colaboracion-tecnica"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "gitlab",
+                "docker",
+                "figma",
+                "photoshop",
+                "illustrator"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sitios culturales para la UACM",
+            "description": "Diseño y desarrollo de sitios web culturales e institucionales.",
+            "technologies": [],
+            "url": "cultura.uacm.edu.mx"
+        },
+        {
+            "name": "CRM personalizados para empresas financieras y de tecnología",
+            "description": "Desarrollo de CRMs a medida para empresas del sector financiero y tecnológico.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Dashboards administrativos funcionales y responsivos",
+            "description": "Creación de dashboards optimizados para la gestión empresarial.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Integraciones con CMS y despliegue de sitios públicos",
+            "description": "Implantación de CMS y publicación de sitios web.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Claudia Berenice Becerra",
+            "relationship": "Scrum Master en Turn",
+            "contact": "Tel: 3335560876"
+        }
+    ]
+}

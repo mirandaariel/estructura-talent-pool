@@ -1,0 +1,160 @@
+{
+    "personal_info": {
+        "first_name": "",
+        "last_name": "",
+        "email": "Villagrajosenicolas@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con sólida experiencia en tecnologías modernas como Node.js, React, Redux, Rust, y Python, además de un fuerte enfoque en desarrollo Blockchain. Especializado en la construcción de DApps sobre la Vara Network y en la creación de smart contracts en Rust, con experiencia tanto en frontend como backend. Con conocimientos en bases de datos SQL y NoSQL como PostgreSQL y MongoDB, e integración con servicios en la nube como AWS (Elastic Beanstalk). Me apasiona desarrollar productos robustos, escalables y centrados en el usuario. Destaco por mi iniciativa, capacidad para resolver problemas complejos, liderazgo técnico y habilidades de comunicación en equipos colaborativos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Software Gaia Ecotrack",
+            "location": "Andromeda",
+            "start_date": "2023-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de una DApp sobre Vara Network, enfocada en sostenibilidad y trazabilidad ambiental.",
+                "Liderazgo técnico en el diseño del frontend con React y Tailwind, e implementación de la lógica de negocio mediante Redux y Gear Protocol.",
+                "Contribución en el backend mediante Node.js y Rust, desarrollando smart contracts e integrando servicios de AWS.",
+                "Integre el equipo de migración, lo cual conllevo a migrar el Back End de Python/Flask a Node.js/Express.",
+                "Colaboración en la arquitectura general del sistema, asegurando escalabilidad y mantenibilidad del producto."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Asistente Técnico de Aire Acondicionado",
+            "company": "",
+            "location": "Córdoba, Argentina",
+            "start_date": "2022-08-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Instalación y mantenimiento de sistemas de aire acondicionado."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ventas de Ropa (Mayorista y Minorista)",
+            "company": "",
+            "location": "Córdoba, Argentina",
+            "start_date": "2020-09-01",
+            "end_date": "2022-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión de redes sociales y atención al cliente.",
+                "Venta y distribución de ropa al por mayor y al por menor."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2023-06-01",
+            "end_date": "2023-07-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react.js",
+                "redux",
+                "css",
+                "node.js",
+                "express",
+                "next.js",
+                "typescript",
+                "rust",
+                "python",
+                "sequelize",
+                "postgresql",
+                "mongodb",
+                "aws"
+            ],
+            "soft": [
+                "initiative",
+                "problem-solving",
+                "leadership",
+                "communication"
+            ],
+            "tools": [
+                "styled-components",
+                "chakra-ui",
+                "tailwind-ui",
+                "git",
+                "jira",
+                "slack",
+                "discord"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Página de Recetas",
+            "description": "Desarrollo de una plataforma web con funcionalidades CRUD, búsqueda, filtrado y ordenamiento.",
+            "technologies": [
+                "react.js",
+                "redux",
+                "css-modules",
+                "node.js",
+                "express",
+                "postgresql",
+                "sequelize"
+            ],
+            "url": "https://github.com/NicolasVillagra/PI-FOOD"
+        },
+        {
+            "name": "Aplicación Web Hotel Oasis",
+            "description": "Implementación completa del frontend en React, con diseño moderno usando Tailwind UI, Material UI y Tremor.",
+            "technologies": [
+                "react.js",
+                "redux",
+                "tailwind-ui",
+                "material-ui",
+                "tremor",
+                "node.js",
+                "express",
+                "firebase",
+                "aws",
+                "postgresql",
+                "sequelize"
+            ],
+            "url": "https://pffront40.onrender.com/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

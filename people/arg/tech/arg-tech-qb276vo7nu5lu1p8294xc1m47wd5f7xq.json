@@ -1,0 +1,131 @@
+{
+    "personal_info": {
+        "first_name": "Facundo",
+        "last_name": "Gonzalez",
+        "email": "facugonzalezz2020@gmail.com",
+        "phone": "+54 1123357593",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "Linkedin",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un apasionado Frontend Developer con cuatro años de experiencia en la industria. Actualmente estoy en la búsqueda de un puesto como Frontend Developer Semi-senior. Me encanta enfrentar nuevos desafíos y estoy constantemente buscando oportunidades para aprender y crecer profesionalmente. Disfruto colaborar con equipos multidisciplinarios donde puedo aportar mi experiencia y trabajar en conjunto para alcanzar objetivos comunes."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Koibanx",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2022-04-01",
+            "end_date": "2025-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollar Backoffice para bancos, permitiendo la gestión de operaciones, usuarios, manejo de roles y flujos ABM. Utilizando Next JS, React y Typescript.",
+                "Migrar componentes propios mediante Storybook, reduciendo tiempos de desarrollo y mejorando la performance del build.",
+                "Desarrollar aplicaciones móviles utilizando React Native.",
+                "Implementar tests unitarios utilizando Jest para garantizar la calidad del código."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Salesforce Developer",
+            "company": "CloudGaia",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2021-08-01",
+            "end_date": "2022-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Crear un dashboard de gestión para Zurich.",
+                "Desarrollar un dashboard de gestión de proyectos para uso interno."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Switch",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollar una PWA para clientes.",
+                "Desarrollar un dashboard de gestión para comercios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico en programación",
+            "institution": "Universidad Almirante Brown",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "next-js",
+                "react",
+                "typescript",
+                "react-native",
+                "context",
+                "redux",
+                "zustand",
+                "sass",
+                "git",
+                "node.js",
+                "api-rest",
+                "jira"
+            ],
+            "soft": [
+                "metodología-scrum",
+                "trabajo-en-equipo",
+                "comunicación-efectiva",
+                "buenas-prácticas-de-arquitectura-de-software"
+            ],
+            "tools": [
+                "figma",
+                "jira"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Coding Bootcamp Full Stack Developer",
+            "issuing_organization": "Plataforma 5",
+            "issue_date": "2021-05-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Salesforce Developer",
+            "issuing_organization": "Plataforma 5 - CloudGaia",
+            "issue_date": "2021-06-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (B1)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

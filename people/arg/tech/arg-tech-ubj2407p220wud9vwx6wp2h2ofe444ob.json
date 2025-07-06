@@ -1,0 +1,166 @@
+{
+    "personal_info": {
+        "first_name": "Leonardo",
+        "last_name": "Fontan",
+        "email": "leonardofontan14@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/leonardo-fontan",
+        "website": "",
+        "portfolio": "https://leonardo-fontan.vercel.app",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Tribekya",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2024-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboré en el desarrollo de aplicaciones utilizando tecnologías como React.js, Next.js, TypeScript y TailwindCSS en el frontend, y Node.js, Express.js, MongoDB y GraphQL en el backend.",
+                "Trabajé bajo metodologías Scrum usando herramientas como Jira, Notion, Slack y GitFlow para la gestión de proyectos.",
+                "Implementé contenedores con Docker y optimicé monorepos con Yarn workspaces y Craco."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "2023-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé y gestioné plataformas web completas, incluyendo frontend, backend y un dashboard administrativo.",
+                "Utilicé Next.js, React.js, TypeScript, Firebase y PostgreSQL para la gestión de datos, autenticación y almacenamiento."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "Typeland",
+            "location": "",
+            "start_date": "2022-10-01",
+            "end_date": "2023-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé una API RESTful utilizando Node.js, Express.js y Docker.",
+                "Colaboré con el equipo de desarrollo para diseñar e implementar soluciones eficientes y escalables."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Software Developer",
+            "institution": "Apx School",
+            "location": "",
+            "start_date": "2021-02-01",
+            "end_date": "2024-10-31",
+            "hours": 0
+        },
+        {
+            "degree": "Lic. en Sistemas",
+            "institution": "Facultad de Ciencias de la Administración (UNER)",
+            "location": "",
+            "start_date": "2021-02-01",
+            "end_date": "2023-05-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "sveltekit",
+                "tailwindcss",
+                "react.js",
+                "firebase",
+                "git",
+                "github",
+                "rest",
+                "graphql",
+                "next.js",
+                "vite.js",
+                "docker",
+                "atomic-design",
+                "html",
+                "css",
+                "axios"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "LearnUp",
+            "description": "Plataforma educativa interactiva diseñada para facilitar el aprendizaje colaborativo entre los usuarios.",
+            "technologies": [],
+            "url": "https://learn-up-six.vercel.app/"
+        },
+        {
+            "name": "New West",
+            "description": "Fuente de noticias generales, que incluye un panel para la creación, edición y estado de publicación de los artículos.",
+            "technologies": [
+                "Vite.js",
+                "Graphql",
+                "React.js",
+                "Typescript",
+                "TailwindCSS",
+                "Atomic-Design",
+                "Mobile-First",
+                "Strapi",
+                "Railway",
+                "PostgreSQL"
+            ],
+            "url": "https://new-west-app.vercel.app/"
+        },
+        {
+            "name": "Strukture",
+            "description": "Diseño del sitio web de una empresa de construcción, revelar información sobre la empresa, servicios ofrecidos, exhibición de productos y cartera de proyectos anteriores.",
+            "technologies": [
+                "Vite.js",
+                "React.js",
+                "Typescript",
+                "TailwindCSS",
+                "Atomic-Design",
+                "Mobile-First"
+            ],
+            "url": "https://struktura-lemon.vercel.app/"
+        },
+        {
+            "name": "Eloquent Journey",
+            "description": "Sitio web de artículos personales, que incluye un panel para la creación, edición y estado de publicación de los artículos.",
+            "technologies": [
+                "Pico.css",
+                "Editor.js",
+                "Redux.js",
+                "React.js",
+                "Styled-Components",
+                "Vite.js",
+                "Typescript"
+            ],
+            "url": "https://eloquent-journey-app.vercel.app/"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

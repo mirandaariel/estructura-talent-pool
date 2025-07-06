@@ -1,0 +1,118 @@
+{
+    "personal_info": {
+        "first_name": "Gonzalo Rodrigo",
+        "last_name": "Caram",
+        "email": "gcaram95@gmail.com",
+        "phone": "+54 9 3816545983",
+        "location": {
+            "country": "Argentina",
+            "city": "Tucumán",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/gonzalo-caram-0b8511214",
+        "website": "",
+        "portfolio": "",
+        "summary": "Apasionado por la tecnología y el aprendizaje continuo. Autodidacta, responsable y orientado al trabajo en equipo, con capacidad de adaptación a nuevas tecnologías."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack Jr.",
+            "company": "Vortex IT",
+            "location": "Tucumán, Argentina",
+            "start_date": "2022-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web responsive utilizando React, JavaScript y TypeScript.",
+                "Implementación de interfaces de usuario con Material UI y gestión de estados con Redux y React Hooks.",
+                "Desarrollo de APIs RESTful con Node.js, Express y NestJS.",
+                "Diseño y mantenimiento de bases de datos MySQL.",
+                "Desarrollo de aplicaciones móviles con React Native.",
+                "Implementación de buenas prácticas de programación y metodologías ágiles.",
+                "Colaboración en equipos multidisciplinarios para el desarrollo de soluciones tecnológicas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Pasante",
+            "company": "Ministerio de Educación (CIIDEPT)",
+            "location": "Tucumán, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de documentación técnica y contenido educativo para capacitaciones con puntaje docente.",
+                "Desarrollo de materiales didácticos digitales.",
+                "Colaboración en la implementación de soluciones tecnológicas para el ámbito educativo.",
+                "Documentación de procesos y procedimientos técnicos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Programador Universitario",
+            "institution": "Universidad Nacional de Tucumán (FACET)",
+            "location": "Tucumán, Argentina",
+            "start_date": "2015-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller Superior Humanista",
+            "institution": "Gymnasium U.N.T.",
+            "location": "Tucumán, Argentina",
+            "start_date": "2006-01-01",
+            "end_date": "2014-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react.js",
+                "javascript",
+                "typescript",
+                "redux",
+                "react-hooks",
+                "material-ui",
+                "html5",
+                "css3",
+                "sass",
+                "responsive-design",
+                "node.js",
+                "express.js",
+                "nestjs",
+                "apis-restful",
+                "mysql",
+                "react-native"
+            ],
+            "soft": [
+                "autodidacta",
+                "responsable",
+                "trabajo-en-equipo",
+                "adaptacion-a-nuevas-tecnologias"
+            ],
+            "tools": [
+                "git",
+                "swagger",
+                "metodologias-agiles",
+                "scrum",
+                "control-de-versiones",
+                "entornos-colaborativos"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

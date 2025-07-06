@@ -1,0 +1,141 @@
+{
+  "personal_info": {
+    "first_name": "Delmer",
+    "last_name": "Rodríguez",
+    "email": "delmer.rodriguez.it@gmail.com",
+    "phone": "(+54 9) 1122540454",
+    "location": {
+      "country": "Argentina",
+      "city": "Buenos Aires",
+      "state": ""
+    },
+    "linkedin": "",
+    "website": "",
+    "portfolio": "",
+    "summary": "Desarrollador backend con conocimientos en Java, C# y bases de datos, en busca de una oportunidad en una empresa tecnológica que valore la innovación. Mi objetivo es contribuir a proyectos que promuevan el desarrollo sostenible y la optimización de procesos mediante software eficiente y escalable."
+  },
+  "work_experience": [
+    {
+      "job_title": "Programador Backend - PM",
+      "company": "NoCountry",
+      "location": "",
+      "start_date": "2024-12-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollo de aplicaciones web utilizando Java Spring Boot, SQL, JavaMailSender y APIs externas.",
+        "Gestión de equipos en servicio técnico: Implementación de un sistema de órdenes de trabajo y reportes con control de versiones (Git, GitHub) y metodologías Agile/Scrum.",
+        "Sistema de gestión financiera: desarrollo de una plataforma con notificaciones en tiempo real, transacciones y consultas de saldo, integrando JavaMailSender para alertas y utilizando APIs externas para calcular rendimientos."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Vendedor de Electrodomésticos",
+      "company": "Coto C.I.C.S.A",
+      "location": "",
+      "start_date": "2017-01-01",
+      "end_date": "2023-07-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Especialista en ventas, gestión de inventario y garantías extendidas.",
+        "Atención personalizada y resolución de incidencias para mejorar la experiencia del cliente."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Encargado de salón de ventas",
+      "company": "Coto C.I.C.S.A",
+      "location": "",
+      "start_date": "2014-03-01",
+      "end_date": "2017-01-01",
+      "currently_working": false,
+      "responsibilities": [
+        "Coordinación de logística y liderazgo de equipo, optimizando la rotación de stock y aumentando ventas.",
+        "Uso de herramientas de gestión, como Excel, para el control de stock y la generación de reportes."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Licenciatura en Tecnologías Digitales",
+      "institution": "Universidad de la Ciudad de Buenos Aires",
+      "location": "",
+      "start_date": "2024-08-01",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "Java Developer Engineer",
+      "institution": "EducaciónIT",
+      "location": "",
+      "start_date": "2024-04-01",
+      "end_date": "2024-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Git: Desarrollo Colaborativo",
+      "institution": "EducaciónIT",
+      "location": "",
+      "start_date": "2024-08-01",
+      "end_date": "2024-09-30",
+      "hours": 0
+    },
+    {
+      "degree": "Analista de Sistemas",
+      "institution": "Instituto de Tecnología ORT",
+      "location": "",
+      "start_date": "2020-07-01",
+      "end_date": "2023-07-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "java",
+        "spring-boot",
+        "hibernate",
+        "c#",
+        "asp.net",
+        "html",
+        "css",
+        "javascript",
+        "sql-server",
+        "power-bi"
+      ],
+      "soft": [
+        "comunicacion-efectiva",
+        "gestion-del-tiempo",
+        "trabajo-en-equipo"
+      ],
+      "tools": [
+        "agile",
+        "scrum",
+        "trello",
+        "git",
+        "github",
+        "patrones-de-diseno"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {},
+      "tools": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "Básico (A2)"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

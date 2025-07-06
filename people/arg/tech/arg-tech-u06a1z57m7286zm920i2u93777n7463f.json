@@ -1,0 +1,147 @@
+{
+    "personal_info": {
+        "first_name": "Santiago",
+        "last_name": "Ocampo",
+        "email": "sanntiocampo@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/santiocampo/",
+        "website": "https://github.com/santiocampo1",
+        "portfolio": "",
+        "summary": "Semi Senior Fullstack Developer con experiencia profesional en proyectos individuales y colaborativos, lo que me ha permitido adaptarme rápidamente a los constantes cambios y aprender de manera autodidacta. Mi stack de tecnologías abarca algunas como Java (Spring Boot), Php, Python, JavaScript/TypeScript, React, Node.js, bases de datos relacionales y no relacionales (PostgreSQL, MySQL y MongoDB), Cloud Computing (AWS) y GIT. Manejo metodologías ágiles SCRUM, cuento con experiencia en pipelines de CI/ID y poseo nivel de inglés avanzado (C1): puedo mantener una comunicación fluida en entornos internacionales, tanto de manera oral como escrita."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer | Backend Developer",
+            "company": "Bizland Tech",
+            "location": "Buenos Aires, Argentina (Remoto)",
+            "start_date": "2024-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo y Mantenimiento de Aplicaciones: Implementación de endpoints RESTful en Java utilizando Spring Boot (compatible con JDK 8, 11 y 21).",
+                "Integración de Sistemas de Pagos: Diseño y desarrollo del backend para sistemas de transacciones internacionales (Western Union y Pago Fácil), integrando lógica de negocio, seguridad en el manejo de datos y validación de transacciones.",
+                "Infraestructura y Base de Datos: Gestión de conexiones y transacciones en MySQL, optimización de consultas y despliegue en AWS para garantizar escalabilidad y alta disponibilidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Taktiful Software Solutions",
+            "location": "Orlando, USA (Remoto)",
+            "start_date": "2023-11-01",
+            "end_date": "2024-10-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y Desarrollo de Aplicaciones: Creación de aplicaciones web robustas utilizando PHP, React y MySQL, asegurando un flujo de trabajo eficiente en entornos remotos.",
+                "Integración de Servicios en la Nube: Uso de AWS Cognito para la autenticación y AWS S3 para el almacenamiento seguro de archivos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "MindQube SAC",
+            "location": "Lima, Perú (Remoto)",
+            "start_date": "2022-10-01",
+            "end_date": "2023-11-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación de Funcionalidades Clave: Desarrollo de módulos para autenticación, automatización de envío de correos y gestión de carga de archivos.",
+                "Aspectos Técnicos: Programación en Java con herramientas como NetBeans y despliegue en servidores Apache Tomcat; uso de React y PostgreSQL para la interfaz y manejo de datos.",
+                "Interacción con Clientes: Comunicación directa para recopilar requerimientos y adaptar actualizaciones sensibles en tiempo real, asegurando la integración sinérgica entre front y backend."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Kreator",
+            "description": "Herramienta avanzada de edición de imágenes basada en inteligencia artificial.",
+            "technologies": ["Meta SAM2", "Machine Learning", "React"],
+            "url": ""
+        },
+        {
+            "name": "Reaktor",
+            "description": "Visualizador 3D interactivo para previsualización de impresiones gráficas.",
+            "technologies": ["Three.js", "Machine Learning"],
+            "url": ""
+        },
+        {
+            "name": "Taktify",
+            "description": "Plataforma para estimación de costos en la industria gráfica del embellecimiento digital, que también actúa como red social para interacción y colaboración entre los usuarios.",
+            "technologies": ["Node.js", "PHP", "APIs"],
+            "url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Superior en Desarrollo de Software",
+            "institution": "IES",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring-boot",
+                "php",
+                "python",
+                "javascript",
+                "typescript",
+                "react",
+                "node.js",
+                "postgresql",
+                "mysql",
+                "mongodb",
+                "cloud-computing",
+                "aws",
+                "git"
+            ],
+            "soft": [
+                "adaptability",
+                "self-learning",
+                "communication"
+            ],
+            "tools": [
+                "scrum",
+                "ci/cd-pipelines",
+                "apache-tomcat",
+                "netbeans"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Advanced (C1)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,113 @@
+{
+    "personal_info": {
+        "first_name": "Leandro Damian",
+        "last_name": "Florentin",
+        "email": "leandro.florentin@hotmail.com",
+        "phone": "+54 9116179 2902",
+        "location": {
+            "country": "Argentina",
+            "city": "Villa Lugano",
+            "state": "CABA"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con más de 3 años de experiencia construyendo aplicaciones web escalables y robustas, tanto del lado del cliente como del servidor. Dominio de tecnologías como React, Node.js y TypeScript, con experiencia en el diseño de APIs, microservicios, desarrollo de interfaces modernas y optimización de rendimiento. Experto en infraestructura en la nube con AWS, bases de datos relacionales (PostgreSQL, MySQL) y automatización de despliegues con Docker y Jenkins. Amplia experiencia en testing con Jest y trabajo en equipos ágiles bajo Scrum. Comprometido con la calidad del código, la mejora continua y la entrega de soluciones eficientes y escalables."
+    },
+    "work_experience": [
+        {
+            "job_title": "Programador Back End",
+            "company": "Simple AI",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2025-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de soluciones Back End con Node.js y TypeScript, integrando inteligencia artificial y funciones serverless en AWS Lambda.",
+                "Uso de SQS para comunicación asincrónica, PostgreSQL como base de datos principal, scraping de datos para análisis automatizado, e integración de APIs externas.",
+                "Implementación de testing unitario e integración con Jest.",
+                "Optimización de procesos y participación en equipos ágiles bajo metodología Scrum."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Programador Full Stack",
+            "company": "Flexit",
+            "location": "",
+            "start_date": "2022-08-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de aplicaciones Full Stack con React en el Front End y Node.js (JavaScript/TypeScript) para microservicios y APIs en el Back End.",
+                "Uso de PostgreSQL, MySQL y SQLite como bases de datos, documentación con Swagger, automatización de despliegues en AWS mediante Jenkins y Docker, e integración de APIs externas.",
+                "Implementación de testing unitario y de integración con Jest, trabajando en equipos ágiles bajo metodología Scrum."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico electrónico",
+            "institution": "E.E.S.T N² Quilmes",
+            "location": "",
+            "start_date": "2012-03-01",
+            "end_date": "2019-11-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "python",
+                "sql",
+                "node.js",
+                "express",
+                "sequelize",
+                "fastapi",
+                "react",
+                "vue",
+                "postgresql",
+                "mysql",
+                "sqlite",
+                "jest",
+                "swagger",
+                "docker",
+                "jenkins",
+                "git",
+                "bitbucket",
+                "aws"
+            ],
+            "soft": [
+                "comunicación-efectiva",
+                "aprendizaje-rápido",
+                "adaptabilidad",
+                "empatía",
+                "pensamiento-crítico"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (B1)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

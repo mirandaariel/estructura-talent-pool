@@ -1,0 +1,122 @@
+{
+    "personal_info": {
+        "first_name": "",
+        "last_name": "",
+        "email": "demiantavolaro6@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Front-End / Soporte Tecnico",
+            "company": "Grupo Solvens",
+            "location": "",
+            "start_date": "2022-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño e implementación del frontend utilizando Html/CSS3 + Javascript.",
+                "Implementación de ReactJs y técnicas modernas de CSS para interfaces de usuario.",
+                "Desarrollo de formulario de inscripción accesible mediante código QR y concurso quincenal con Html, CSS, y Javascript."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Digitalización de Archivos",
+            "company": "Hospital Posadas (Bank SA)",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Manejo de escáner.",
+                "Control de legajos clínicos.",
+                "Tareas administrativas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Data & Analyst",
+            "company": "Teruya & Sterling",
+            "location": "",
+            "start_date": "2021-04-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Soporte y mantenimiento a clientes internos mediante Google Workspace.",
+                "Análisis y extracción de datos.",
+                "Redacción de reportes de productividad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Informatica",
+            "institution": "Universidad Nacional del Oeste",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diseño gráfico y manejo de sistemas de gestión",
+            "institution": "CFP Centro de Formación Profesional",
+            "location": "",
+            "start_date": "2011-01-01",
+            "end_date": "2012-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "scrum",
+                "tdd",
+                "api-rest",
+                "responsive",
+                "mobile-first",
+                "testing",
+                "pruebas-unitarias",
+                "pruebas-de-integracion",
+                "end-to-end"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "resolucion-de-problemas"
+            ],
+            "tools": [
+                "paquete-office",
+                "google-workspace",
+                "analisis-dinamico"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Ingles",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

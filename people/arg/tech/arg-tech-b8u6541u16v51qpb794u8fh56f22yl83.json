@@ -1,0 +1,142 @@
+{
+    "personal_info": {
+        "first_name": "Jorge",
+        "last_name": "Balsamo",
+        "email": "Jorgeb.dev.acc@gmail.com",
+        "phone": "+541123736646",
+        "location": {
+            "country": "Argentina",
+            "city": "Mariano Moreno",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "https://jorgebalsamoportfolio.netlify.app",
+        "portfolio": "",
+        "summary": "Desarrollador web y mobile con experiencia en tecnologías frontend como React, React Native, Expo, Angular y Next.js, y backend con Node.js y Express. Me especializo en crear aplicaciones modernas, optimizando la integración de APIs y bases de datos como MySQL, PostgreSQL y MongoDB. Con conocimientos de Docker y despliegues continuos mediante plataformas como Vercel y Expo, mantengo un fuerte interés en expandir mi experiencia en CI/CD y servicios en la nube como AWS. Busco contribuir con mis habilidades técnicas y mi motivación en un equipo que valore la innovación y el desarrollo profesional."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador frontend web3",
+            "company": "IEscrow",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo la interfaz de usuario para una plataforma de staking de criptomonedas, integrando contratos inteligentes en Solidity mediante Hardhat y web3.js/ethers.js.",
+                "Implementé un gráfico de velas japonesas con datos de liquidity pools en una DEX y optimicé la comunicación entre el frontend y la blockchain.",
+                "Resolvió desafíos técnicos relacionados con la lógica del contrato de staking, asegurando una experiencia fluida para los usuarios y colaborando con el cliente para mejorar la integración y funcionalidad del sistema."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador frontend",
+            "company": "CodeCraft",
+            "location": "",
+            "start_date": "2022-04-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desempeño en el desarrollo y optimización de interfaces interactivas mediante Vue.js, React, HTML, CSS y JavaScript.",
+                "Creación de interfaces responsivas y altamente optimizadas en rendimiento.",
+                "Integración de APIs RESTful para la sincronización de datos en tiempo real.",
+                "Implementación de pruebas unitarias e integrales para garantizar la calidad del código.",
+                "Colaboración directa con equipos de diseño y backend para cumplir con los requisitos técnicos y de experiencia de usuario."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollo web y mobile orientado al Frontend",
+            "institution": "Cursos autodidactas",
+            "location": "",
+            "start_date": "2021-03-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo web full stack",
+            "institution": "Universidad de Helsinki",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Informática",
+            "institution": "Universidad Nacional del Oeste",
+            "location": "",
+            "start_date": "2019-04-01",
+            "end_date": "2021-11-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "expo-cli",
+                "eas-build",
+                "ci/cd",
+                "tailwindcss",
+                "html",
+                "css",
+                "js",
+                "ts",
+                "react",
+                "react-native",
+                "nextjs",
+                "hooks-nativos",
+                "axios/fetch-api",
+                "router-dom",
+                "redux-toolkit",
+                "react-hook-form",
+                "tanstack-query",
+                "librerías-de-componentes",
+                "sass"
+            ],
+            "soft": [],
+            "tools": [
+                "figma",
+                "adobe-illustrator",
+                "react-testing-library",
+                "jest",
+                "nodejs",
+                "expressjs",
+                "git/github",
+                "linux",
+                "docker",
+                "consultas-sql"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Full Stack Open 21",
+            "issuing_organization": "Universidad de Helsinki",
+            "issue_date": "2023-09-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        },
+        {
+            "language": "Español",
+            "proficiency": "Nativa"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

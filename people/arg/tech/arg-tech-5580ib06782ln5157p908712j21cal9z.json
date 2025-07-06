@@ -1,0 +1,143 @@
+{
+    "personal_info": {
+        "first_name": "Martina",
+        "last_name": "Fernandez",
+        "email": "martinafsa8@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/martina-fernandez-suarez/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrolladora web versátil con experiencia en una amplia gama de tecnologías. Me especializo en crear aplicaciones web responsivas, accesibles y fáciles de mantener, utilizando código limpio y reutilizable. Mi trayectoria abarca desde startups hasta corporaciones multinacionales y agencias de diseño, lo que ha fortalecido mi adaptabilidad, autonomía y habilidades de colaboración y gestión del tiempo. Con un buen ojo para el diseño y una gran atención al detalle, disfruto resolviendo desafíos complejos de UI/UX y entregando experiencias digitales pulidas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrolladora Web Fullstack",
+            "company": "Aguaviva (Estudio de diseño)",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de sitios web desde cero utilizando VueJS, Typescript y PHP",
+                "Construcción de sitios utilizando Wordpress y WebFlow e integrando código custom y plugins. Uso de ACF/Collections",
+                "Creación, gestión y migración de bases de datos",
+                "Desarrollo de APIs con PHP",
+                "Creación de componentes de backend reutilizables",
+                "Creación de apps y webparts customizadas para ser consumidas por Sharepoint",
+                "Mantenimiento de múltiples proyectos en simultáneo",
+                "Manejo de tiempos internos y división de tareas",
+                "Trabajo colaborativo con desarrolladores y diseñadores"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrolladora Web Freelance",
+            "company": "Varsity Bridge",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Custom Software Engineering Associate",
+            "company": "Accenture",
+            "location": "",
+            "start_date": "2022-05-01",
+            "end_date": "2024-05-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Mejoras de accesibilidad",
+                "Analisis de problemas programáticos",
+                "Arreglo de bugs",
+                "Migraciones (traducción de scripts y código)",
+                "DevOps: Mantenimiento de servidores y bases de datos, rotación de keys",
+                "Desarrollo Frontend en entorno .NET",
+                "Habilidades adicionales: uso de pipelines CI/CD, Git, testing, consumo de APIs, PostMan"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diseñadora Gráfica",
+            "institution": "Universidad de Buenos Aires",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "vue",
+                "js",
+                "typescript",
+                "jquery",
+                "nodejs",
+                "php",
+                "mysql",
+                "postgresql",
+                "wordpress",
+                "webflow",
+                "sharepoint",
+                "html",
+                "css",
+                "bootstrap",
+                "scss",
+                "web-accessibility-wcag"
+            ],
+            "soft": [
+                "habilidades-de-diseño",
+                "ux-ui"
+            ],
+            "tools": [
+                "figma",
+                "wireframing",
+                "adobe"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Competente"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Diseñadora Gráfica",
+            "organization": "Luz de Esperanza",
+            "location": "",
+            "start_date": "2021-10-01",
+            "end_date": "",
+            "responsibilities": [
+                "Asociación civil sin fines de lucro cuyo objetivo es promover la inclusión laboral de personas en tratamiento integral por consumo problemático y en una situación de vulnerabilidad socioeconómica."
+            ]
+        }
+    ],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,127 @@
+{
+    "personal_info": {
+        "first_name": "Ramiro",
+        "last_name": "Moya",
+        "email": "moya04.ramiro@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/ramiro-moya",
+        "website": "http://ramiromoya.com.ar",
+        "portfolio": "",
+        "summary": "Developer with experience in dynamic projects and scalable solutions. Passionate about technology and teamwork, I always aim to improve the end-user experience with each line of code."
+    },
+    "work_experience": [
+        {
+            "job_title": "Fullstack Engineer",
+            "company": "Hype Sounds",
+            "location": "Remote, Perú",
+            "start_date": "2023-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Increased project outreach to potential investors by 20% by implementing a functional landing page.",
+                "Applied agile practices throughout development, ensuring quick iterations and continuous client feedback.",
+                "Collaborated closely with the client, helping to define their needs and tailoring the technological solution.",
+                "Designed and presented a visual mockup of the website, optimizing the end-user experience.",
+                "Created detailed architecture diagrams, defining key service interconnections for scalability and maintainability."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Deep Dive Into Modern Web Development",
+            "institution": "University of Helsinki",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "2024-11-30",
+            "hours": 0
+        },
+        {
+            "degree": "University Technician in Programming",
+            "institution": "National Technological University",
+            "location": "",
+            "start_date": "2022-02-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "javaScript",
+                "typescript",
+                "mysql",
+                "postgresql",
+                "react",
+                "angular",
+                "spring",
+                "docker",
+                "node.js",
+                "nestjs",
+                "next.js",
+                "mongodb",
+                "auth0",
+                "supabase"
+            ],
+            "soft": [
+                "scrum"
+            ],
+            "tools": [
+                "git",
+                "jira"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "MR NBA",
+            "description": "Web platform focused on managing and displaying NBA teams and results.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "La Velada V Web Oficial",
+            "description": "Official website created for La Velada V, designed to present event information with a clear and attractive layout.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "HypeSounds (BETA)",
+            "description": "Landing page for a music startup focused on showcasing services and capturing user interest quickly.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Joseph Chihuan Lopez",
+            "relationship": "Founder of Hype Sounds",
+            "contact": "+51 967517058"
+        }
+    ]
+}

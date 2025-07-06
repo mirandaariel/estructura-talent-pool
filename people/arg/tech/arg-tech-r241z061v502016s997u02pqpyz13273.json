@@ -1,0 +1,148 @@
+{
+    "personal_info": {
+        "first_name": "Matías",
+        "last_name": "Gelpi",
+        "email": "matiasjgelpi@gmail.com",
+        "phone": "+54 2236687794",
+        "location": {
+            "country": "Argentina",
+            "city": "Mar del Plata",
+            "state": "provincia de Bs.As."
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Web Full Stack con orientación al frontend, apasionado por crear aplicaciones modernas, escalables y con interfaces atractivas. Experiencia con frameworks como React, Angular, Vue.js y Next.js, y conocimientos sólidos en backend con Node.js, NestJS y Laravel. Proactivo, adaptable y con excelentes habilidades de trabajo en equipo. Siempre dispuesto a aprender, colaborar y aportar soluciones creativas para lograr los objetivos del equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Ludela Business Analytics",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web full stack, garantizando escalabilidad y rendimiento.",
+                "Diseño e implementación de interfaces de usuario responsivas utilizando Vue.js, React y Next.js.",
+                "Implementación de soluciones backend con Laravel y NestJS, asegurando la integración eficiente con bases de datos como MySQL y PostgreSQL.",
+                "Optimización de bases de datos para mejorar la eficiencia de consultas y el rendimiento de las aplicaciones.",
+                "Uso de Git y herramientas de control de versiones para la gestión del código y documentación técnica.",
+                "Colaboración con diseñadores y desarrolladores backend para asegurar una integración fluida de componentes.",
+                "Garantía de compatibilidad entre navegadores y dispositivos, mejorando la experiencia del usuario.",
+                "Pruebas y depuración de código para garantizar estabilidad y calidad en los desarrollos.",
+                "Aplicación de principios de diseño y mejores prácticas en el desarrollo de software.",
+                "Gestión y comunicación organizacional mediante la suite de Microsoft 365.",
+                "Seguimiento y gestión de tareas utilizando Good Day."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Software Developer",
+            "company": "Tufud",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2022-09-01",
+            "end_date": "2024-08-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollar e implementar interfaces de usuario responsivas y visualmente perfectas basadas en bocetos y wireframes de diseño.",
+                "Colaborar con los equipos de diseño para garantizar la integración perfecta de elementos UI y componentes visuales.",
+                "Utilizar sistemas de control de versiones (por ejemplo, Git) para gestionar y rastrear cambios en el código base.",
+                "Crear y mantener documentación técnica relacionada con el desarrollo frontend.",
+                "Colaborar con desarrolladores backend para integrar componentes frontend con la lógica del lado del servidor.",
+                "Comunicarse eficazmente con equipos multifuncionales, incluidos desarrolladores backend, gerentes de producto e ingenieros de control de calidad.",
+                "Garantizar experiencias de usuario consistentes en diferentes navegadores y dispositivos.",
+                "Optimizar las aplicaciones web para máxima velocidad y escalabilidad.",
+                "Realizar pruebas exhaustivas de las interfaces de usuario para identificar y corregir errores, asegurando la calidad y confiabilidad de los componentes frontend.",
+                "Colaborar con ingenieros de control de calidad para realizar pruebas exhaustivas.",
+                "Contribuir a la mejora de la experiencia del usuario proporcionando información sobre la usabilidad y funcionalidad durante el proceso de desarrollo.",
+                "Implementar principios de diseño y mejores prácticas para mejorar la satisfacción del usuario.",
+                "Escribir código limpio, bien organizado y mantenible para componentes frontend.",
+                "Implementar y mantener funciones interactivas utilizando frameworks JavaScript como React, Angular o Vue.js.",
+                "Optimizar el código frontend para lograr el máximo rendimiento y velocidad.",
+                "Mantenerse informado sobre las últimas tendencias y mejores prácticas en desarrollo frontend."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachiller en Ciencias Naturales",
+            "institution": "Escuela de Educación Media N.° 1 Domingo Faustino Sarmiento",
+            "location": "",
+            "start_date": "2000-01-01",
+            "end_date": "2003-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "react",
+                "angular",
+                "vue.js",
+                "redux",
+                "next.js",
+                "node.js",
+                "express.js",
+                "nestjs",
+                "postgresql",
+                "mongodb",
+                "mysql",
+                "laravel"
+            ],
+            "soft": [
+                "adaptabilidad",
+                "trabajo-en-equipo",
+                "autonomía",
+                "resolución-de-problemas",
+                "comunicación",
+                "resiliencia",
+                "proactividad",
+                "iniciativa"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "bootstrap",
+                "sass",
+                "tailwind-css",
+                "microsoft-365",
+                "good-day"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [
+        {
+            "name": "Full Stack Web Developer",
+            "issuing_organization": "Henry Bootcamp",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo Web Frontend con React",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

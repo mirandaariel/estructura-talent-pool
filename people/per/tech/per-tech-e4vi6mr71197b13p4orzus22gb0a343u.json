@@ -1,0 +1,142 @@
+{
+    "personal_info": {
+        "first_name": "Deivy",
+        "last_name": "Sanchez Coronado",
+        "email": "sanchezcoronadodeivy5@gmail.com",
+        "phone": "+51 951108576",
+        "location": {
+            "country": "Perú",
+            "city": "San Luis, Cañete",
+            "state": "Lima"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Analista de Sistemas con más de 4 años de experiencia en desarrollo full-stack, gestión de bases de datos y soporte técnico. Especializado en la optimización de sistemas y automatización de procesos utilizando tecnologías como Java, Spring Boot, Angular y metodologías ágiles como Scrum. Poseo amplia experiencia en plataformas de nube (AWS, GCP, Azure) y en bases de datos tanto relacionales como NoSQL. Mi enfoque está en la mejora continua de procesos y en el desarrollo de soluciones innovadoras que agreguen valor a las empresas. Comprometido con la entrega de proyectos de alta calidad y en el impulso de la transformación digital."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Pleno",
+            "company": "INDRA",
+            "location": "Perú",
+            "start_date": "2024-04-01",
+            "end_date": "9999-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Soporte y desarrollo de nuevas características para plataformas existentes, realizando análisis y mejoras de código para optimizar el rendimiento y la calidad del software.",
+                "Desarrollo de una aplicación web de calidad para el monitoreo de datos, permitiendo un control más preciso y efectivo de la información en tiempo real.",
+                "Creación y modificaciones a los microservicios con java spring boot."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Tata Consulting Service",
+            "location": "Perú",
+            "start_date": "2022-10-01",
+            "end_date": "2023-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y optimización de interfaces web utilizando AngularJS, mejorando la experiencia del usuario y la interacción con el sistema.",
+                "Optimización de las peticiones entre el frontend y el backend, logrando una mayor eficiencia y tiempos de respuesta más rápidos.",
+                "Creación y modificación de componentes reutilizables en el frontend, asegurando su escalabilidad y mantenibilidad a largo plazo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista Programador",
+            "company": "Indra",
+            "location": "Perú",
+            "start_date": "2022-04-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Soporte y desarrollo de nuevas características para el sistema SIAM de Telefónica, contribuyendo a la mejora continua de la plataforma.",
+                "Implementación de mejoras tecnológicas utilizando Java Spring Boot, Angular, Tailwind CSS y SQL Server para optimizar el rendimiento y la experiencia del usuario.",
+                "Desarrollé e implementé mejoras que lograron reducir los tiempos de carga en un 20%, mejorando significativamente la eficiencia del sistema."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "FrontEnd Developer",
+            "company": "Esedor Agencia Digital",
+            "location": "Perú",
+            "start_date": "2021-10-01",
+            "end_date": "2022-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Corrección de código en aplicaciones de banca online basadas en microservicios, utilizando Angular 10 y Tailwind CSS para mejorar la interfaz de usuario y el rendimiento.",
+                "Colaboración activa en un equipo ágil bajo el marco de trabajo Scrum, contribuyendo a la entrega de soluciones eficientes y de alta calidad en cada sprint."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Center Jr Backend Java",
+            "company": "NTT DATA",
+            "location": "Perú",
+            "start_date": "2021-08-01",
+            "end_date": "2021-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Corrección y depuración de errores en aplicaciones basadas en SOAP utilizando Java Spring Boot, asegurando la correcta funcionalidad del sistema.",
+                "Implementación de mejoras en la estabilidad del sistema, lo que resultó en una reducción del 15% en los incidentes y una mayor confiabilidad operativa."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico en Análisis de Sistemas",
+            "institution": "IESTP Valle Grande",
+            "location": "Cañete",
+            "start_date": "2018-03-01",
+            "end_date": "2021-02-28",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "angular",
+                "node.js",
+                "python",
+                "react.js",
+                "spring-boot",
+                "linux",
+                "windows",
+                "mysql",
+                "sql-server",
+                "oracle",
+                "postgresql",
+                "mongodb",
+                "google-cloud",
+                "aws",
+                "azure",
+                "docker",
+                "jenkins",
+                "git"
+            ],
+            "soft": [
+                "scrum"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

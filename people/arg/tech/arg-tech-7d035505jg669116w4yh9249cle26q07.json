@@ -1,0 +1,116 @@
+{
+    "personal_info": {
+        "first_name": "Nicolás",
+        "last_name": "Lopez Vidueiros",
+        "email": "nicolas.lopez.vidueiros@gmail.com",
+        "phone": "+54 9 1157607902",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "+3 años de experiencia"
+    },
+    "work_experience": [
+        {
+            "job_title": "Cadete Administrativo",
+            "company": "MV INSTITUTE School of English",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Tareas Administrativas",
+                "Compras de Insumos",
+                "Transporte de Profesoras a Domicilio"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Igrowker | Junior IT Training",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Participé en un proyecto internacional con desarrolladores argentinos y españoles.",
+                "Reuniones diarias y semanales para reportar actividades frontend."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Inglés nivel intermedio (B1+)",
+            "institution": "Universidad de Cambridge",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en Informática",
+            "institution": "Universidad Nacional de Avellaneda",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Economía y Administración",
+            "institution": "Instituto Vicente Pallotti",
+            "location": "",
+            "start_date": "2011-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "gis",
+                "javascript",
+                "sql/nosql",
+                "git",
+                "react",
+                "tailwind",
+                "typescript",
+                "astro",
+                "python",
+                "c++",
+                "haskell",
+                "prolog",
+                "wollok",
+                "java",
+                "arduino",
+                "sass",
+                "php",
+                "gulp",
+                "bootstrap",
+                "node.js",
+                "express.js",
+                "angular",
+                "docker"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

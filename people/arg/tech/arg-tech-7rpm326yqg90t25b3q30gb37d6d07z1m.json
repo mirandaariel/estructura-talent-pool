@@ -1,0 +1,123 @@
+{
+    "personal_info": {
+        "first_name": "Maximiliano Gabriel",
+        "last_name": "Herrera",
+        "email": "Maximilianogabriel0511@gmail.com",
+        "phone": "+54 381-3686226",
+        "location": {
+            "country": "Argentina",
+            "city": "Tafi Viejo",
+            "state": "Tucuman"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "https://portafolioweb-one.vercel.app",
+        "summary": "Profesional con 2 años de experiencia en desarrollo de aplicaciones web y gestión IT. Especializado en crear aplicaciones eficientes, garantizar seguridad de datos, brindar soporte técnico y optimizar sistemas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Auxiliar IT & Desarrollador Full Stack",
+            "company": "ZAFRA S.A.",
+            "location": "Tucuman, Argentina",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Liderar el equipo de desarrollo en la construcción de aplicaciones web personalizadas para automatizar procesos internos, utilizando tecnologías como React, Node.js y MySQL.",
+                "Gestión de soporte técnico, mantenimiento de sistemas y optimización de infraestructura IT.",
+                "Colaboración en la seguridad informática y capacitación a usuarios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnico de Campo",
+            "company": "TCTech",
+            "location": "Córdoba Capital, Argentina",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Instalación y mantenimiento de antenas satelitales VSAT (ARSAT) en Tucumán, Santiago del Estero y Catamarca.",
+                "Configuración de redes y solución de problemas técnicos en ubicaciones remotas.",
+                "Encargado de las instalaciones y mantenimientos en las tres provincias ya mencionadas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Auxiliar IT",
+            "company": "NetWork",
+            "location": "Argentina",
+            "start_date": "2018-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Mantenimiento y reparación de equipos informáticos (hardware/software).",
+                "Instalación de antenas WiFi punto a punto para optimizar conectividad.",
+                "Mantenimiento preventivo de servidores físicos y gestión de redes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Electromecánico",
+            "institution": "Escuela Técnica Profesor Rafael Marino",
+            "location": "Argentina",
+            "start_date": "2010-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "tailwindcss",
+                "javascript",
+                "react",
+                "vite",
+                "express",
+                "node.js",
+                "mysql",
+                "next.js",
+                "redux",
+                "sequelize",
+                "nest.js",
+                "git"
+            ],
+            "soft": [],
+            "tools": [
+                "scrum",
+                "soporte-it"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Desarrollador Full Stack",
+            "issuing_organization": "Academia Sovhenny",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Responsive Web Design",
+            "issuing_organization": "freeCodeCamp",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

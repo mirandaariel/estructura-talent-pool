@@ -1,0 +1,167 @@
+{
+    "personal_info": {
+        "first_name": "Luis Andres",
+        "last_name": "Quesada Rodriguez",
+        "email": "luisdevcol@gmail.com",
+        "phone": "+57 3207895912",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "www.linkedin.com/in/luisandresqr",
+        "website": "",
+        "portfolio": "https://luis-q-portfolio.netlify.app/",
+        "summary": "Desarrollador frontend con experiencia en ReactJS, Next.js, Angular 8 y 12. Conocimientos básicos en Vue 3, gestión de estado con Redux y TanStack, y manejo de solicitudes con React Query. Intermedio en JavaScript y TypeScript. Experiencia en construcción de bibliotecas de componentes, pruebas unitarias y conocimientos en la nube con AWS."
+    },
+    "work_experience": [
+        {
+            "job_title": "Front-End Developer",
+            "company": "LOBO SAS",
+            "location": "",
+            "start_date": "2023-05-01",
+            "end_date": "2025-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollar un sistema de diseño utilizando Material UI para la segunda versión de una plataforma.",
+                "Dar soporte a la primera versión de la plataforma mientras se desarrolla la segunda.",
+                "Apoyar a otros clientes de la empresa en la creación de sistemas de diseño."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Freelancer",
+            "location": "",
+            "start_date": "2022-05-01",
+            "end_date": "2023-05-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Maquetar diseños presentados por el cliente en WordPress/Drupal.",
+                "Configurar y desplegar sitios web según necesidades del cliente.",
+                "Utilizar AWS para desplegar aplicaciones y gestionar información externa a WordPress."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Brandek",
+            "location": "",
+            "start_date": "2021-10-01",
+            "end_date": "2022-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñar maquetas web en WordPress.",
+                "Implementar estrategias de SEO para mejorar visibilidad.",
+                "Gestionar bases de datos para agilizar procesos de configuración."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Freelancer",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollar componentes con React JS para Power Apps en Microsoft Teams.",
+                "Crear pruebas unitarias para cada componente.",
+                "Optimizar rendimiento utilizando lazy loading y memoización."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero de Sistemas",
+            "institution": "Fundación Universitaria Tecnológico Comfenalco",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "reactjs",
+                "next.js",
+                "angular",
+                "vue-3",
+                "redux",
+                "tanstack",
+                "react-query",
+                "javascript",
+                "typescript",
+                "css",
+                "scss",
+                "webpack",
+                "vite",
+                "storybook",
+                "jest",
+                "testing-library",
+                "aws"
+            ],
+            "soft": [
+                "continuous-learning",
+                "adaptability"
+            ],
+            "tools": [
+                "material-ui",
+                "git",
+                "git-actions",
+                "husky"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Fundovida IPS",
+            "description": "",
+            "technologies": [],
+            "url": "https://www.fundovidaips.com/"
+        },
+        {
+            "name": "Espectrum",
+            "description": "",
+            "technologies": [],
+            "url": "https://www.espectrum.com.co/"
+        },
+        {
+            "name": "Clinica de los Rios",
+            "description": "",
+            "technologies": [],
+            "url": "https://www.clinicadelosrios.com/"
+        },
+        {
+            "name": "ForceManager Microsoft Teams",
+            "description": "",
+            "technologies": [],
+            "url": "https://www.forcemanager.com/microsoft-teams/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B2-C1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

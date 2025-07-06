@@ -1,0 +1,107 @@
+{
+    "personal_info": {
+        "first_name": "Eliana",
+        "last_name": "Rosero Castañeda",
+        "email": "elir_94@hotmail.com",
+        "phone": "+57 3143080930",
+        "location": {
+            "country": "Colombia",
+            "city": "Bogotá",
+            "state": ""
+        },
+        "linkedin": "www.linkedin.com/in/eliana-rocas",
+        "website": "",
+        "portfolio": "https://github.com/EliRoCas",
+        "summary": "Frontend Software Developer with experience in HTML5, CSS3, JavaScript, and frameworks such as Angular and React, gained through personal and institutional projects."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Technologist in Software Analysis and Development",
+            "institution": "SENA",
+            "location": "Bogotá, Colombia",
+            "start_date": "2023-02-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachelor's Degree in Spanish and Classical Philology",
+            "institution": "Universidad de Nacional de Colombia",
+            "location": "Bogotá, Colombia",
+            "start_date": "2018-09-01",
+            "end_date": "2018-09-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "sass",
+                "javascript",
+                "react",
+                "angular",
+                "bootstrap",
+                "tailwind",
+                "grid-and-flexbox",
+                "responsive-design",
+                "version-control",
+                "devtools",
+                "agile-methodologies"
+            ],
+            "soft": [
+                "teamwork",
+                "leadership",
+                "assertive-communication",
+                "problem-solving",
+                "technological-and-digital-skills-for-online-teaching"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Financial Management System (SiGef)",
+            "description": "",
+            "technologies": ["angular", "ngrx", "php"],
+            "url": "https://github.com/EliRoCas/fp-sena-frontend"
+        },
+        {
+            "name": "MD-Cocktail-Coders-Trivia-Game",
+            "description": "",
+            "technologies": ["react-redux"],
+            "url": "https://github.com/EliRoCas/MD-Cocktail-Coders-Trivia-Game"
+        },
+        {
+            "name": "MD-note-app-vanillaJS",
+            "description": "",
+            "technologies": ["html", "css", "javascript"],
+            "url": "https://github.com/EliRoCas/MD-note-app-vanillaJS"
+        },
+        {
+            "name": "Final Project - Talento Tech",
+            "description": "",
+            "technologies": ["react", "node.js"],
+            "url": "https://github.com/EliRoCas/tech-frontend-final-project"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Advanced"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

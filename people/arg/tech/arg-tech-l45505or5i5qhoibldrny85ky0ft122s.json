@@ -1,0 +1,118 @@
+{
+    "personal_info": {
+        "first_name": "Eduardo",
+        "last_name": "Sequeira",
+        "email": "eduardoasm19@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full Stack Developer con 3 años de experiencia, especializado en desarrollo backend y construcción de APIs robustas utilizando Node.js. Competente en el manejo de bases de datos relacionales y no relacionales como MongoDB y MySQL, con experiencia en aplicaciones basadas en microservicios y GraphQL. Enfocado en la creación de aplicaciones escalables y en la implementación de buenas prácticas de Clean Code y Desarrollo Ágil (SCRUM)."
+    },
+    "work_experience": [
+        {
+            "job_title": "Backend Developer",
+            "company": "Wirall",
+            "location": "",
+            "start_date": "2025-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Refactorización codigo legacy y mejora de microservicios, optimizando rendimiento y mantenibilidad.",
+                "Manejo de arquitectura hexagonal e implementación de patrones Event-Driven con RabbitMQ para comunicación entre servicios.",
+                "Desarrollo de nuevos microservicios bajo estándares modernos, escalables y desacoplados.",
+                "Análisis y toma de decisiones técnicas en colaboración con el equipo para mejorar la arquitectura."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Backend Developer",
+            "company": "Avila Tek",
+            "location": "",
+            "start_date": "2022-10-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé y mantuve APIs RESTful en Node.js y Express.js, optimizando la velocidad de respuesta en un 30%.",
+                "Gestioné bases de datos MongoDB y MySQL aplicando buenas prácticas de consultas optimizadas.",
+                "Implementación de GraphQL para reducir carga de datos y mejorar eficiencia.",
+                "Implementé integraciones de servicios de terceros (Metamap, StreamChat, Stripe) y productos de AWS, mejorando la funcionalidad del sistema.",
+                "Contribución en wallet de criptomonedas, incluyendo chat en línea y ajustes en microservicios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Etnac",
+            "location": "",
+            "start_date": "2022-04-01",
+            "end_date": "2022-10-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé aplicaciones web con Next.js y Chakra UI para interfaces intuitivas y responsivas, en proyectos orientados a Single Page Applications (SPA).",
+                "Manejo de estado con Redux, optimizando la carga de datos en la UI.",
+                "Trabajé con MySQL para realizar consultas y gestionar la base de datos.",
+                "Colaboré en la integración de APIs y servicios externos para mejorar la funcionalidad del sistema."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura Comercio Internacional",
+            "institution": "Universidad Alejandro De Humboldt",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "nodejs",
+                "typescript",
+                "javascript",
+                "mongodb",
+                "mysql",
+                "graphql",
+                "expressjs",
+                "react",
+                "aws",
+                "git"
+            ],
+            "soft": [
+                "scrum",
+                "clean-code"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Certificado de fundamentos de SCRUM",
+            "issuing_organization": "SCRUMstudy",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

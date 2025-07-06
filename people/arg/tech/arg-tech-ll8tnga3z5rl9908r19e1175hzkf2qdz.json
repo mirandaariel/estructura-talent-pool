@@ -1,0 +1,76 @@
+{
+    "personal_info": {
+        "first_name": "Mauro",
+        "last_name": "Nanda",
+        "email": "mauronanda002@gmail.com",
+        "phone": "+543884419700",
+        "location": {
+            "country": "Argentina",
+            "city": "Jujuy",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/mauronandait",
+        "website": "",
+        "portfolio": "",
+        "summary": "Tengo 29 años y soy un apasionado de la programación. Me mantengo en constante aprendizaje, incorporando nuevas tecnologías y mejores prácticas. Busco formar parte de un equipo de desarrollo donde pueda seguir creciendo profesionalmente, aportando compromiso, responsabilidad y una actitud siempre enfocada en mejorar."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Frontend Jr.",
+            "company": "BIT S.A.",
+            "location": "San Salvador de Jujuy (híbrido)",
+            "start_date": "2023-10-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de interfaces web responsivas para comercios locales.",
+                "Implementación de diseños colaborativos con equipo UX/UI, con foco en accesibilidad y usabilidad.",
+                "Construcción de componentes reutilizables en React, manejo de estados y lógica interactiva.",
+                "Control de versiones con Git y GitHub, seguimiento de tareas con Trello en metodología ágil.",
+                "Participación en reuniones técnicas semanales y soporte a despliegues en entorno de staging."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista Programador Universitario",
+            "institution": "Facultad de Ingeniería - Universidad Nacional de Jujuy",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "node.js",
+                "react",
+                "express",
+                "mysql"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "postman",
+                "axios",
+                "scrum",
+                "agile"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,128 @@
+{
+    "personal_info": {
+        "first_name": "Lucas",
+        "last_name": "Escudero",
+        "email": "lucasescudero2013@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy Lucas Escudero, tengo 26 años y estoy en una busqueda constante de desafíos que me hagan crecer como programador. Me considero responsable, buen compañero, y me gusta trabajar bajo presión."
+    },
+    "work_experience": [
+        {
+            "job_title": "Profesor asistente del Coding Bootcamp",
+            "company": "Plataforma 5",
+            "location": "",
+            "start_date": "2019-04-01",
+            "end_date": "2019-07-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Profesor y Coordinador de la Mesa de Estudio",
+            "company": "Plataforma 5",
+            "location": "",
+            "start_date": "2019-07-01",
+            "end_date": "2020-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Coordinar Mesas de Estudios gestionando entre 3 y 5 alumnos por sesión.",
+                "Diseñar ejercicios de JavaScript orientados a los aspirantes al Coding Bootcamp.",
+                "Enseñar, actualizar y fortalecer bases programáticas aplicando las mejores prácticas del sector.",
+                "Asegurar que los postulantes alcanzaran el nivel adecuado para rendir con éxito el challenge de ingreso al Coding Bootcamp."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "Plataforma 5",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollar aplicaciones internas, incluyendo la landing page de la empresa y una plataforma para gestión de contenido de cursos y administración de usuarios.",
+                "Landing page creada con Gatsby, plataforma desarrollada en React, TypeScript y Redux.",
+                "Utilizar servicios de AWS para despliegue e infraestructura.",
+                "Gestionar el proyecto mediante la metodología Scrum para garantizar un desarrollo Ágil y eficiente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ssr Software Developer",
+            "company": "Scale AI",
+            "location": "",
+            "start_date": "2022-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollar y mantener una extensión de Google Chrome con React y JavaScript vanilla para la extracción de datos.",
+                "Conectar la extensión con un sistema de Backoffice desarrollado en React, TypeScript y Node.js, a través de Firebase.",
+                "Permitir a los usuarios de Backoffice visualizar y manipular los datos extraídos.",
+                "Gestionar usuarios, roles y entrega de información ya procesada en el Backoffice."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico en informática profesional y personal",
+            "institution": "E.E.T. N° 3",
+            "location": "",
+            "start_date": "2010-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Full Stack",
+            "institution": "Plataforma 5",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2019-12-31",
+            "hours": 800
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "javascript",
+                "typescript",
+                "redux",
+                "node.js"
+            ],
+            "soft": [
+                "responsabilidad",
+                "trabajo-bajo-presion"
+            ],
+            "tools": [
+                "gatsby",
+                "aws",
+                "firebase",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

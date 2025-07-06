@@ -1,0 +1,175 @@
+{
+    "personal_info": {
+        "first_name": "Edinson",
+        "last_name": "Madrid",
+        "email": "edinsonmadrid@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/ingedinsonmadrid/",
+        "website": "",
+        "portfolio": "https://portfolio-edidev.vercelapp",
+        "summary": "FullStack Developer - Ingeniero de Sistemas con experiencia trabajando principalmente con ReactTS y otras tecnologías frontend y backend. Soy muy competente, responsable, autónomo, autodidacta, con gran motivación para cumplir objetivos en tiempo y forma. Eficaz, organizado y enfocado siempre en la mejora continua."
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Engineer",
+            "company": "NTT Data",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Modernización de nueva plataforma Upstream, una arquitectura de software orientada a microservicios integrados con API Rest.",
+                "Desarrollo de features, bugfix, hotfix, integración al backend usando microservicios.",
+                "Realización de test unitarios, test integrales, test funcionales, CI/CD, uso de Jira para la gestión de tareas, Jenkins, Bitbucket, SonarQube."
+            ],
+            "achievements": [
+                "Desarrollo implementado en ambiente productivo enero 2025."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador de Software",
+            "company": "CreativeSolutions (Remoto España)",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de software web y pwa para la gestión de entregas de mercadería a través de la asignación de rutas y pedidos a ciclistas, gestión de usuarios, gestión de rutas, entregas, control de pagos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista Funcional Sr",
+            "company": "NTT Data",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Participación en daily meetings con el equipo de desarrollo.",
+                "Propuestas y mejoras al prototipo.",
+                "Creación, configuración y gestión de proyecto en Azure DevOps para el control de tareas del equipo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Developer",
+            "institution": "Henry",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniero de Sistemas",
+            "institution": "UNEXPO - Venezuela",
+            "location": "",
+            "start_date": "2011-01-01",
+            "end_date": "2011-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "reactts",
+                "typescript",
+                "redux-toolkit",
+                "material-ui",
+                "jest",
+                "testing-library",
+                "vitejs",
+                "api-rest",
+                "vue3",
+                "javascript",
+                "pinia",
+                "quasar-dev",
+                "firebase"
+            ],
+            "soft": [
+                "autodidacta",
+                "colaborador",
+                "escucha-activa",
+                "iniciativa",
+                "cooperación-efectiva",
+                "logro-de-objetivos",
+                "orientación-al-cliente",
+                "orientación-a-resultados",
+                "gestión",
+                "responsabilidad",
+                "trabajo-en-equipo"
+            ],
+            "tools": [
+                "jira",
+                "jenkins",
+                "bitbucket",
+                "sonarqube",
+                "azure-devops"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Proyecto Final TuSpacio",
+            "description": "Participación en un equipo de desarrollo ágil, para el desarrollo de un e-commerce.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "SPA Asistente Virtual",
+            "description": "Aplicación para la presentación de servicios como asistente virtual, construido con React.js, Tailwindcss y NextJs. Incluye un formulario de contacto.",
+            "technologies": ["react.js", "tailwindcss", "nextjs"],
+            "url": ""
+        },
+        {
+            "name": "Demo sitio de adopción de mascotas",
+            "description": "Construido con React.js, Material-UI, Vite, Redux para gestión de usuarios, incluye API de mascotas.",
+            "technologies": ["react.js", "material-ui", "vite", "redux"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Native"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Fluent"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Juan Esquer",
+            "relationship": "Project Leader",
+            "contact": "+54 9 11 5511-5402"
+        },
+        {
+            "name": "Isaías Medina",
+            "relationship": "Software Engineer",
+            "contact": "+54 9 3816 15-2792"
+        },
+        {
+            "name": "Fernando Gonzalez",
+            "relationship": "Software Lead Engineer",
+            "contact": "+54 9 261 251-7917"
+        }
+    ]
+}

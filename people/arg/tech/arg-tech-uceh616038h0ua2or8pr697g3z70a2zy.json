@@ -1,0 +1,112 @@
+{
+    "personal_info": {
+        "first_name": "Oscar Gonzalo",
+        "last_name": "Araya",
+        "email": "gonxaraya991@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Fullstack JavaScript Developer con sólida experiencia en React, Next.js, NestJS, Node js, MongoDB y PostgreSQL, construyendo productos escalables y bien estructurados de punta a punta. Especialista en APIs REST/Socket, arquitectura modular y manejo eficiente del estado. Trabajo con enfoque en performance, clean code y experiencia de usuario. Me destaco por una comunicación fluida en inglés profesional (experiencia colaborando con equipos de Asia y Europa) y una fuerte capacidad de adaptación y aprendizaje continuo. Actualmente participo en el desarrollo de una plataforma internacional (NFSeek), asumiendo responsabilidades clave tanto en frontend como backend."
+    },
+    "work_experience": [
+        {
+            "job_title": "Fullstack JavaScript Developer",
+            "company": "NFSeek",
+            "location": "Remoto",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo y evolución de una plataforma para tarjetas de presentación y gestión de negocios, gestión y recuperación de objetos perdidos con tecnología Next.js, NodeJS, MongoDB, Google Cloud y Tailwind.",
+                "Diseñé y programé flujos complejos de contacto entre usuarios, integrando funcionalidades como localización, carga de datos, sistema de notificaciones y manejo avanzado de formularios.",
+                "Participé en decisiones técnicas en la arquitectura del frontend y backend, priorizando escalabilidad y experiencia del usuario.",
+                "Comunicación diaria en inglés profesional con equipos técnicos y de producto de Estados Unidos, Europa y Asia.",
+                "Incorporé lógica geoespacial y consumo de APIs externas (como Google Maps y email services) para enriquecer la plataforma así como también realicé el diseño e implementación de plantillas de negocios y de recuperación de objetos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "Von Haus / Lola Mora",
+            "location": "Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Me desempeñé como desarrollador MERN en un proyecto de landing page personalizado para un cliente de la provincia de Salta.",
+                "Implementé vistas dinámicas y componentes reutilizables usando React.js y TailwindCSS, y un servidor para manejar publicaciones y articulos sobre el cuidado de los animales, así como también un tablero de administración para los mismos.",
+                "Realicé el diseño UX/UI completo de toda la página así como también el desarrollo de la App Web de principio a fin."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Data Annotation Specialist",
+            "company": "Scale AI",
+            "location": "Remoto",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Realicé tareas de entrenamiento de modelos de IA en inglés, aportando precisión en clasificación, análisis semántico y estructura de datos avocado a lenguajes de programación como JavaScript, Python, Java y sus frameworks y bibliotecas.",
+                "Colaboré en la mejora de datasets para clientes de alto nivel como OpenAI, Amazon y Meta.",
+                "Fomenté la eficiencia y calidad a través de una mentalidad analítica y atención al detalle."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react",
+                "next.js",
+                "nestjs",
+                "node.js",
+                "typescript",
+                "mongodb",
+                "postgresql",
+                "docker",
+                "tailwindcss",
+                "google-cloud",
+                "typeorm",
+                "aws"
+            ],
+            "soft": [
+                "communication",
+                "team-work",
+                "result-orientation",
+                "autonomy",
+                "leadership",
+                "rapid-learning",
+                "adaptation"
+            ],
+            "tools": [
+                "google-maps",
+                "emailing",
+                "fly.io"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Professional"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

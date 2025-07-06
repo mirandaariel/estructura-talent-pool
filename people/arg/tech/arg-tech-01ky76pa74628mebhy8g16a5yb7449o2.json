@@ -1,0 +1,150 @@
+{
+    "personal_info": {
+        "first_name": "Martin",
+        "last_name": "Fogliacco",
+        "email": "fogliaccomartin3@gmail.com",
+        "phone": "+54 911 5837-0267",
+        "location": {
+            "country": "Argentina",
+            "city": "CABA",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/martin-fogliacco/",
+        "website": "https://martinfogliacco.vercel.app/",
+        "portfolio": "https://martinfogliacco.vercel.app/",
+        "summary": "Full Stack Developer with a Front-End focus and advanced English proficiency (C1 Advanced, EF SET 50). I have 3 years of experience and a strong passion for building fast, accessible, and user-centered digital experiences. I combine a designer's eye with a software architect's mindset to deliver modern, scalable, and maintainable products. Skilled in tools such as React, Next.js, and TypeScript."
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Architect & Team Mentor",
+            "company": "Viola Creative",
+            "location": "Florida, United States",
+            "start_date": "2023-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Development and styling of modern and responsive graphical interfaces with React, Next, and Astro.",
+                "Connection and management of REST APIs and servers (including databases like MongoDB).",
+                "Design and implementation of authentication systems using credentials and OAuth.",
+                "Development and maintenance of Back-End using Next.js /api route system and Sanity.IO as Headless CMS.",
+                "Integration of online payment methods and transaction flow control.",
+                "SEO optimization and configuration of tools like Google Analytics and Google Search Console for proper indexing.",
+                "Interface design and mockups in Figma, following good UI/UX practices.",
+                "Application internationalization with i18n.",
+                "Process automation using N8N.",
+                "Development of custom bots with Stagehand (Playwright + LLMs) for automated testing and advanced interactions.",
+                "Maintenance, refactoring, and continuous improvement of the codebase.",
+                "Planning for scalability, architecture, and software maintainability.",
+                "Deployment and configuration of projects on platforms like Vercel and Bluehost.",
+                "Technical analysis of requirements, time estimation, and proposal development for clients.",
+                "Direct communication with external collaborators, coordination of integrations, and technical follow-up.",
+                "Task management and development timeline planning.",
+                "Technical leadership in projects with other developers.",
+                "Task assignment according to learning level.",
+                "Mentoring and code review of teammates.",
+                "Team organization to meet objectives on time and effectively."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Front End Developer",
+            "company": "Airtech SA",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "2023-09-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Development and styling of SaaS with React and Redux.",
+                "REST API connections.",
+                "Graphical interface design with Figma.",
+                "Code maintenance and improvement.",
+                "Remote technical support for SaaS.",
+                "Training of new clients.",
+                "Use of SQL Server for ticket resolution."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Informatic Technician",
+            "institution": "E.E.S.T. N° 4 'Ricardo A. López'",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2017-03-01",
+            "end_date": "2020-11-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css/scss",
+                "tailwind",
+                "javascript",
+                "typescript",
+                "react",
+                "redux",
+                "zustand",
+                "next.js",
+                "astro",
+                "liquid",
+                "node.js",
+                "express",
+                "mongodb",
+                "supabase",
+                "sanity.io",
+                "git",
+                "jira",
+                "jest",
+                "figma",
+                "n8n"
+            ],
+            "soft": [
+                "clear-communication",
+                "technical-leadership-and-team-mentoring",
+                "creative-problem-solving-for-complex-challenges",
+                "time-and-deadline-management",
+                "results-oriented-mindset",
+                "self-driven-and-fast-learner"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Full Stack Web Developer",
+            "issuing_organization": "SoyHenry",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "EF SET 50 English Certificate",
+            "issuing_organization": "EF SET",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "C1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
