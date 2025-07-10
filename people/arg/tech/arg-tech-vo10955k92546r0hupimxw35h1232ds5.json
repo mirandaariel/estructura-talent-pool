@@ -6,36 +6,34 @@
         "phone": "+54 2604-829600",
         "location": {
             "country": "Argentina",
-            "city": "",
+            "city": "San Rafael",
             "state": "San Rafael"
         },
         "linkedin": "https://linkedin.com/in/oriana-olaia",
         "website": "https://github.com/OriOlaia",
-        "portfolio": "",
+        "portfolio": "https://oriolaia.netlify.app",
         "summary": "Me considero una persona que le gusta trabajar en equipo y ayudar mutuamente, también coordinar y comentar sobre lo que han realizado intercambiando opiniones y me gusta todo lo relacionado a la tecnología."
     },
     "work_experience": [
         {
             "job_title": "Atención al cliente",
             "company": "De Nuestra Tierra",
-            "location": "",
-            "start_date": "",
+            "location": "San Rafael, Mendoza, Argentina",
+            "start_date": "2018",
             "end_date": "",
             "currently_working": false,
-            "responsibilities": [],
+            "responsibilities": ["Atención al cliente", "Administracion de productos","Publicidad"],
             "achievements": [],
-            "repository_url": ""
         },
         {
             "job_title": "Programadora",
             "company": "Independiente",
-            "location": "",
-            "start_date": "",
+            "location": "San Rafael, Mendoza, Argentina",
+            "start_date": "2019",
             "end_date": "",
             "currently_working": true,
             "responsibilities": [],
-            "achievements": [],
-            "repository_url": ""
+            "achievements": ["Certification: Github, IA, Python (in process)"],
         }
     ],
     "education": [
@@ -44,8 +42,7 @@
             "institution": "I.E.S. 9-012 San Rafael En Informatica",
             "location": "San Rafael, Argentina",
             "start_date": "2019-01-01",
-            "end_date": "2024-12-31",
-            "hours": 0
+            "end_date": "2024-12-15",
         },
         {
             "degree": "Ingeniería en Sistemas de Información",
@@ -53,18 +50,21 @@
             "location": "San Rafael, Argentina",
             "start_date": "2024-01-01",
             "end_date": "",
-            "hours": 0
         }
     ],
     "skills": {
         "keywords": {
             "technical": [
-                "react",
+                "prismasql",
+                "zustand",
+                "mysql",
+                "postrsql",
+            ],
+            "soft": ["react",
                 "astro",
                 "javascript",
-                "typescript"
-            ],
-            "soft": [],
+                "typescript",
+                "nextjs"],
             "tools": [
                 "canva",
                 "figma",
@@ -77,8 +77,8 @@
             "soft": []
         }
     },
-    "certifications": [],
-    "projects": [],
+    "certifications": ["Git y GitHub de cero con TodoCode", "IA with AluraLatam", "Python de 0 en Santander", "Data Science with Python in Desafío Latam"],
+    "projects": ["Manos que bailan (proyecto final)", "My portfolio (in process)"],
     "languages": [
         {
             "language": "Español",
@@ -86,15 +86,15 @@
         },
         {
             "language": "Inglés",
-            "proficiency": ""
+            "proficiency": "intermediate"
         },
         {
             "language": "Japonés",
-            "proficiency": ""
+            "proficiency": "basic"
         },
         {
             "language": "Lengua de señas Argentina",
-            "proficiency": ""
+            "proficiency": "intermediate"
         }
     ],
     "volunteer_experience": [
@@ -102,13 +102,13 @@
             "role": "Desarrolladora web",
             "organization": "Aprendly Now",
             "location": "Remoto",
-            "start_date": "",
+            "start_date": "2024-03-01",
             "end_date": "",
             "responsibilities": [
                 "Participación como desarrolladora web, trabajo en equipo, desarrollando la página web en remoto."
             ]
         }
     ],
-    "publications": [],
-    "references": []
+    "publications": ["https://www.linkedin.com/company/aprendly/"],
+    "references": ["https://www.linkedin.com/in/miurafernandez/"]
 }
