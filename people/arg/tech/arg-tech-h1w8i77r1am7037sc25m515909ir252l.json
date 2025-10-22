@@ -1,0 +1,122 @@
+{
+    "personal_info": {
+        "first_name": "Axel",
+        "last_name": "Bustos",
+        "email": "axel.iva14@gmail.com",
+        "phone": "+5493413753729",
+        "location": {
+            "country": "Argentina",
+            "city": "Rosario",
+            "state": "Santa Fe"
+        },
+        "linkedin": "https://www.linkedin.com/in/axelbustos/",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Developer",
+            "company": "Emblue",
+            "location": "",
+            "start_date": "2021-03-01",
+            "end_date": "2021-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Development using C# .Net, JQuery, SQL, and CSS.",
+                "Participated in the migration from PHP7 to C# .NET Core."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Backend Developer",
+            "company": "Artekium",
+            "location": "",
+            "start_date": "2021-09-01",
+            "end_date": "2022-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Software development using ASP.Net Core, Toad for Oracle, and Blazor."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Backend Developer",
+            "company": "Futuros y Opciones (FyO)",
+            "location": "",
+            "start_date": "2022-07-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Software development using .Net Framework, SQL Server, .Net Core, WPF."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Humanidades y Cs. Sociales",
+            "institution": "Nuestra Señora de La Merced",
+            "location": "",
+            "start_date": "2014-01-01",
+            "end_date": "2014-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en Sistemas",
+            "institution": "UAI - Universidad Abierta Interamericana",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Superior en Desarrollo de Software",
+            "institution": "Terciario J.J. Urquiza",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#-.net-framework",
+                ".net-core",
+                "sql-server",
+                "clean-architecture",
+                "solid-principles",
+                "restful-apis",
+                "asp.net-core",
+                "javaScript",
+                "html",
+                "css",
+                "wpf",
+                "winforms",
+                "entity-framework"
+            ],
+            "soft": [
+                "agile-methodologies",
+                "scrum",
+                "working-in-sprints"
+            ],
+            "tools": [
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,134 @@
+{
+    "personal_info": {
+        "first_name": "Carlos Andrés",
+        "last_name": "Arenas Mejía",
+        "email": "andresam98@hotmail.com",
+        "phone": "3173726755",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Tengo un gran interés en aprender y crecer profesionalmente continuamente. Me caracterizo por trabajar con responsabilidad, compromiso y liderazgo. También disfruto del trabajo en equipo. Me motivan los retos y siempre busco la mejora continua y estoy abierto al cambio."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador de Software",
+            "company": "ALOTI SOFTWARE",
+            "location": "Bogotá - Cundinamarca",
+            "start_date": "2025-03-03",
+            "end_date": "2025-10-06",
+            "currently_working": false,
+            "responsibilities": [
+                "Responsable de la refactorización de código, personalización y mejora de módulos para el sistema ERP/CRM Acacia, alineando las funcionalidades específicas del negocio.",
+                "Se implementaron mejoras significativas en el rendimiento y la escalabilidad del backend, optimizando el código de base de datos PHP y MySQL.",
+                "Gestioné DevOps/Infraestructura para implementaciones y entornos de prueba con AWS Lightsail.",
+                "Mejoré la experiencia del usuario mediante modificaciones de la interfaz usando HTML/CSS, logrando mayor intuitividad y módulos personalizados."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Junior de Software Frontend",
+            "company": "INSOFTAR | INTMARKA S.A.S",
+            "location": "Bogotá - Cundinamarca",
+            "start_date": "2022-06-09",
+            "end_date": "2024-11-07",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo del frontend según los requisitos de los clientes de Bolívar y Davivienda Insurance utilizando tecnologías Javascript, Angular, HTML5 y SCSS para plataformas web y móviles.",
+                "Dando soporte a una aplicación Ionic para el juego de golf y otras aplicaciones para nuevos clientes utilizando tecnología Angular."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador de Software, Proyecto Inbioapp 73202",
+            "company": "INBIONOVA S.A.S",
+            "location": "Armenia - Quindío",
+            "start_date": "2021-05-18",
+            "end_date": "2021-12-07",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de software en Ionic para una aplicación móvil utilizando la metodología Scrum mediante tickets basados en sprints semanales.",
+                "Apoyo a los estilos frontend de la aplicación InbioApp con desarrollo en Javascript/Node.js utilizando el framework Angular con tecnología Ionic 5."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero de Sistemas",
+            "institution": "Universidad Nacional Abierta y a Distancia",
+            "location": "Palmira (Valle)",
+            "start_date": "2015-09-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomado de profundización en Linux",
+            "institution": "Universidad Nacional Abierta y a Distancia",
+            "location": "Palmira (Valle)",
+            "start_date": "2020-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso Avanzado en Excel",
+            "institution": "Centro Nacional de Capacitación Laboral",
+            "location": "Tuluá (Valle)",
+            "start_date": "2018-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "angular",
+                "ionic-5",
+                "spring-boot",
+                "html-5",
+                "css-3",
+                "node.js",
+                "javascript",
+                "php",
+                "mysql",
+                "git"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Carolina Granados",
+            "relationship": "Coordinación Administrativa Insoftar S.A.S",
+            "contact": "3164797778"
+        },
+        {
+            "name": "Nayeli Vélez Hernández",
+            "relationship": "Gerente Administrativa Inbionova S.A.S",
+            "contact": "3104204795"
+        },
+        {
+            "name": "Yoser Pérez",
+            "relationship": "Full stack Developer RUNT",
+            "contact": "3023827770"
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+{
+    "personal_info": {
+        "first_name": "Ronan",
+        "last_name": "Filloy",
+        "email": "ronanfilloy@gmail.com",
+        "phone": "+1124536173",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/ronan-filloy-b5266a1a7/",
+        "website": "https://github.com/RonanFilloy",
+        "portfolio": "",
+        "summary": "A self-taught Developer, former Sourcer/Recruiter, I seek to hone my skills in challenging environments. Currently studying B.Science in Software Development."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analysis and Testing",
+            "company": "Ring (Deviget LLC contractor)",
+            "location": "",
+            "start_date": "2020-05-01",
+            "end_date": "2021-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Analysis and testing of a custom security tool developed with Ring existing technologies.",
+                "Tool performance assessment, new feature proposals and troubleshooting.",
+                "Collaboration with Deviget sourcing/recruiting team."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Recruiting Sourcer",
+            "company": "Deviget LLC",
+            "location": "",
+            "start_date": "2021-05-01",
+            "end_date": "2022-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Talent acquisition, searches based on talent, experience and technical skills for different companies."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Recruiting Services",
+            "company": "RYZ Labs (Freelance)",
+            "location": "",
+            "start_date": "2022-05-01",
+            "end_date": "2022-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Recruiting services for a growing startup.",
+                "Varied searches for talented developers, Designers and/or managers."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Recruiting Services",
+            "company": "Dev-Pro Talent",
+            "location": "",
+            "start_date": "2022-06-01",
+            "end_date": "2022-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Recruiting services for large, US-based companies.",
+                "Varied searches for talented developers with a range of different technologies."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Freelance Web Developer",
+            "company": "Self-employed",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Developing small to mid-size web pages, web apps, and e-commerce platforms for clients across the globe.",
+                "Providing comprehensive solutions including hosting, loading speed optimization, UX/UI design, and all essential services.",
+                "Versatile technology stack tailored to client requirements."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Software Development",
+            "institution": "Universidad del Salvador (USAL)",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachelor in Economics and Management",
+            "institution": "Colegio Sagrado Corazon de Jesus, Quilmes",
+            "location": "",
+            "start_date": "2009-01-01",
+            "end_date": "2015-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "bootstrap",
+                "javascript",
+                "bash",
+                "git",
+                "react",
+                "python",
+                "it-sourcing"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Web Developer Bootcamp with Flask and Python",
+            "issuing_organization": "",
+            "issue_date": "2023-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "React Bootcamp 2023",
+            "issuing_organization": "",
+            "issue_date": "2023-03-01",
+            "expiration_date": "2023-07-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Web Developer Bootcamp 2023",
+            "issuing_organization": "",
+            "issue_date": "2022-11-01",
+            "expiration_date": "2023-02-28",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificate of Proficiency in English - CPE",
+            "issuing_organization": "Cambridge University",
+            "issue_date": "2017-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certificate in Advanced English - CAE",
+            "issuing_organization": "Cambridge University",
+            "issue_date": "2015-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "First Certificate in English - FCE",
+            "issuing_organization": "Cambridge University",
+            "issue_date": "2012-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Movie Searcher",
+            "description": "Ongoing project to build a web page using API's from different movie reviewers so users can search titles and their critics in real time.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "React Projects",
+            "description": "Small projects done to polish react.js skills such as creating a hangman or yahtzee game.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "YelpCamp",
+            "description": "Project done as part of the Web developer bootcamp. It shows camping sites around the globe posted and reviewed by users.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Board Game",
+            "description": "College teamwork Board Game project in C++.",
+            "technologies": [],
+            "url": "https://github.com/PabloGCH/Batalla-de-los-elementos"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

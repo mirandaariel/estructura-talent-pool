@@ -1,0 +1,97 @@
+{
+    "personal_info": {
+        "first_name": "Galo",
+        "last_name": "Martinez",
+        "email": "galomartinez1@hotmail.com",
+        "phone": "11-37918640",
+        "location": {
+            "country": "Argentina",
+            "city": "Ituzaingo",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://linkedin.com/in/galomartinez1",
+        "website": "http://www.martinezgalo.com",
+        "portfolio": "https://github.com/GaloMartinez",
+        "summary": "Desarrollador frontend con 2 años de experiencia creando interfaces modernas y eficientes con React, TypeScript y TailwindCSS. Me destaco por mi enfoque en la experiencia del usuario, la performance y el código limpio. Soy proactivo, autodidacta y busco seguir creciendo en equipos que valoren la calidad y la mejora continua."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Rocking Product",
+            "location": "Buenos Aires, Ituzaingo",
+            "start_date": "2022-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de interfaces web y móviles con React, enfocadas en rendimiento, usabilidad y experiencia de usuario fluida.",
+                "Colaboración directa con el equipo de diseño para traducir wireframes en interfaces intuitivas y atractivas.",
+                "Implementación de mejoras continuas basadas en feedback de usuarios y pruebas de usabilidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Freelance",
+            "location": "Remote",
+            "start_date": "2022-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño e implementación de interfaces interactivas, responsivas y optimizadas para SEO utilizando ReactJS, TypeScript, TailwindCSS y JavaScript.",
+                "Creación de componentes reutilizables, enfoque en rendimiento y adaptación a distintos dispositivos.",
+                "Integración de Firebase para la gestión de datos y desarrollo de funcionalidades personalizadas.",
+                "Trabajo colaborativo y control de versiones con GitHub."
+            ],
+            "achievements": [],
+            "repository_url": "http://www.martinezgalo.com"
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "reactjs",
+                "tailwindcss",
+                "c#",
+                "nodejs",
+                "postgresql",
+                ".net",
+                "css",
+                "bootstrap",
+                "firebase",
+                "netlify"
+            ],
+            "soft": [
+                "proactivo",
+                "autodidacta",
+                "enfoque-en-la-experiencia-del-usuario"
+            ],
+            "tools": [
+                "responsive-design"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

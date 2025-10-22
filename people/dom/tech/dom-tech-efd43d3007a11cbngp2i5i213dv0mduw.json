@@ -1,0 +1,238 @@
+{
+    "personal_info": {
+        "first_name": "Gregory Miguel",
+        "last_name": "Díaz Gómez",
+        "email": "diazgregory@gmail.com",
+        "phone": "+1(809)9057847",
+        "location": {
+            "country": "Dominican Republic",
+            "city": "Santo Domingo",
+            "state": ""
+        },
+        "linkedin": "https://ve.linkedin.com/in/ingdiazgregory",
+        "website": "",
+        "portfolio": "",
+        "summary": "Profesional en el Área de Tecnología con experiencia de más de 4 años en el área de Redes y Soporte Técnico con 5 años en el Área Pruebas de Sistemas (Analista QA) abarcando varios tipos de pruebas. Con interés de instruirse en nuevos retos profesionales y adquirir nuevos conocimientos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Senior QA Engineer",
+            "company": "OpsecSecurity",
+            "location": "Santo Domingo, Dominican Republic",
+            "start_date": "2023-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Creación de test plan en Test Rail",
+                "Ejecución y creación de test tanto manual como automáticos",
+                "Seguimiento de errores, Sanity test, y test con Rest API con Postman y XML con Soapui"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista QA",
+            "company": "Intellisys Corp",
+            "location": "Santiago, Dominican Republic",
+            "start_date": "2016-12-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Elaboración de Test plan",
+                "Verificación y seguimiento de issues",
+                "Trabajo con Metodología Scrum y herramientas como jira"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Especialista en Calidad",
+            "company": "American KPO",
+            "location": "Caracas, Venezuela",
+            "start_date": "2016-07-01",
+            "end_date": "2016-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Análisis de las historias de los springs",
+                "Elaboración de matrices de pruebas",
+                "Detección de incidencias"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Coordinador de Desarrollo Multimedia",
+            "company": "",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2016-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Análisis y resolución de problemas a nivel de código web",
+                "Desarrollo junior en HTML, JavaScript, jQuery, CSS y Java",
+                "Implementación de servidor web Nginx"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Líder de Proyectos",
+            "company": "Indra Company C.A",
+            "location": "Caracas, Venezuela",
+            "start_date": "2015-05-01",
+            "end_date": "2015-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Análisis de Funcional y matriz de prueba de casos",
+                "Elaboración y pruebas con aplicativo CVSC+",
+                "Elaboración de matrices de pruebas de requerimientos"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de Pruebas",
+            "company": "Indra Company C.A",
+            "location": "Caracas, Venezuela",
+            "start_date": "2014-04-01",
+            "end_date": "2015-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de queries en base de datos Oracle",
+                "Elaboración de matriz de pruebas de requerimientos",
+                "Administración de casos de pruebas"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Supervisor de Soporte Técnico",
+            "company": "",
+            "location": "",
+            "start_date": "2013-01-01",
+            "end_date": "2014-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Resolver problemas de índole técnica",
+                "Planificación y ejecución de proyectos tecnológicos",
+                "Administración y mantenimiento de software y servidores"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Nanodegree in Front End Developer",
+            "institution": "Udacity",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "English",
+            "institution": "Eli Instituto",
+            "location": "",
+            "start_date": "",
+            "end_date": "2019-11-30",
+            "hours": 0
+        },
+        {
+            "degree": "English Intermediate Level",
+            "institution": "Instituto KOE",
+            "location": "Venezuela",
+            "start_date": "",
+            "end_date": "2014-07-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ing. en Informática",
+            "institution": "Universidad Alejandro Humboldt",
+            "location": "",
+            "start_date": "",
+            "end_date": "2012-11-30",
+            "hours": 0
+        },
+        {
+            "degree": "T.S.U en Informática",
+            "institution": "Instituto Universitario de Tecnología del Oeste Mariscal Sucre (IUTOMS)",
+            "location": "",
+            "start_date": "",
+            "end_date": "2003-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "c#",
+                "mysql",
+                "sql-server",
+                "linux",
+                "unix",
+                "ubuntu",
+                "debian",
+                "selenium",
+                "robotframework",
+                "nunit"
+            ],
+            "soft": [
+                "facilidad-de-adaptación",
+                "habilidad-de-planificación-y-organización",
+                "proactivo",
+                "trabajo-en-equipo"
+            ],
+            "tools": [
+                "sql-navigator-for-oracle",
+                "hp-quality-center",
+                "secure-crt",
+                "toad-for-oracle",
+                "mysql-workbench",
+                "filezilla",
+                "wordpress",
+                "gitlab"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Ing. Laura Jorge",
+            "relationship": "Coordinadora en Intellisys",
+            "contact": "(849)3605883"
+        },
+        {
+            "name": "Ing. George Di Paula",
+            "relationship": "Desarrollador",
+            "contact": "+1(786)8006044"
+        },
+        {
+            "name": "Ing. Dionisio Atencio",
+            "relationship": "Gerente de Ingenieria - Union Radio Medios C.A.",
+            "contact": "+58(424)2733807"
+        },
+        {
+            "name": "Ing. Karla Parada",
+            "relationship": "Coordinadora SAP en Parmalat Venezuela",
+            "contact": "+58(414)9067915"
+        }
+    ]
+}

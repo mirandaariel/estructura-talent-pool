@@ -1,0 +1,117 @@
+{
+    "personal_info": {
+        "first_name": "Axel",
+        "last_name": "Colamarino",
+        "email": "axelcolamarino@gmail.com",
+        "phone": "+5491138964692",
+        "location": {
+            "country": "Argentina",
+            "city": "Aldo Bonzi",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante IT, me interesa cualquier innovacion y mejora que se le pueda dar a las personas en el dia a dia y la vida de los demas, busco dejar una marca en mi paso por aca. Soy participe de la creacion de proyectos en impresion 3D complementado con electronica y software."
+    },
+    "work_experience": [
+        {
+            "job_title": "Tester QA/QA Manager",
+            "company": "Procontacto",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Cypress pruebas automatizadas",
+                "Análisis de riesgos",
+                "Generación y ejecución de casos de pruebas",
+                "Pruebas de regresión",
+                "Reportes de bugs",
+                "Pruebas de caja negra y blanca",
+                "API testing",
+                "Pruebas unitarias",
+                "Definición de procesos QA",
+                "Mentoría y liderazgo técnico"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingenieria Informatica",
+            "institution": "UNLaM",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "API Testing (SOAP, Postman)",
+            "institution": "Educacion IT",
+            "location": "",
+            "start_date": "",
+            "end_date": "2025-01-01",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller con orientacion en Economia y Administración",
+            "institution": "Escuela secundaria San José Aldo Bonzi",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "sql",
+                "c",
+                "java"
+            ],
+            "soft": [],
+            "tools": [
+                "blender"
+            ]
+        },
+        "detailed": {
+            "technical": {
+                "sql": [
+                    {
+                        "name": "Consultas compuestas, JOINs, DML, func de agregación, stored procedures, triggers, funciones",
+                        "repository_url": ""
+                    }
+                ],
+                "c": [
+                    {
+                        "name": "Punteros, memoria, archivos, depuración y testing, estructuras de datos y algoritmos",
+                        "repository_url": ""
+                    }
+                ],
+                "java": [
+                    {
+                        "name": "Referencias y Gestión de Memoria, Manejo de Archivos, Depuración y Testing, Estructuras de Datos, Algoritmos",
+                        "repository_url": ""
+                    }
+                ]
+            },
+            "tools": {
+                "blender": [
+                    {
+                        "name": "Mecanica, animación, renderizado, impresion 3D",
+                        "repository_url": ""
+                    }
+                ]
+            },
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

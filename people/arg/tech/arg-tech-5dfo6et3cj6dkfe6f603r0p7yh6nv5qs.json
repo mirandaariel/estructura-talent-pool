@@ -1,0 +1,184 @@
+{
+    "personal_info": {
+        "first_name": "Lucas",
+        "last_name": "Ferreyra",
+        "email": "lucasferreyra6991@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Especialista en automatizaciones IT APIs, soporte técnico N2/N3 y desarrollador trainee."
+    },
+    "work_experience": [
+        {
+            "job_title": "Especialista en Automatización e Integraciones API",
+            "company": "Tamgo AI",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de automatizaciones con Make, N8n y Python para clientes y procesos internos.",
+                "Integración y conexión de APIs en GoHighLevel CRM, servicios de mensajería y plataformas externas.",
+                "Creación de agentes conversacionales con IA y prompts personalizados para flujos internos y externos.",
+                "Resolución de fallos técnicos en automatizaciones y envíos automatizados mal procesados."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Especialista en Soporte Técnico N3",
+            "company": "Nextbyn",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Soporte de Software y Base de Datos (SQL).",
+                "Manejo de VPN: Configuración y soporte de conexiones VPN con Forti y AWS.",
+                "Pruebas y Testing: Realización de pruebas de software utilizando herramientas como Swagger y Postman.",
+                "Bases de Datos SQL: Creación y ejecución de consultas complejas, incluyendo subconsultas y JOINS.",
+                "Windows Server: Administración y soporte en servidores Windows.",
+                "APIs: Integración y manejo de APIs para pruebas y desarrollo de software.",
+                "Soporte en Ticketing: Gestión de incidencias y solicitudes utilizando herramientas de ticketing como Zoho."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Soporte Retail - Implementador",
+            "company": "Selec S.A.",
+            "location": "",
+            "start_date": "2023-06-01",
+            "end_date": "2024-02-29",
+            "currently_working": false,
+            "responsibilities": [
+                "Soporte Técnico: Atención a clientes en el rubro mercantil, brindando soporte en software y hardware.",
+                "Implementación de Equipos y Software: Instalación y mantenimiento de equipos Kretz, Hasar y software propio.",
+                "E-commerce: Desarrollo y mantenimiento de plataformas de e-commerce para clientes del sector retail.",
+                "Help-desk: Soporte remoto mediante AnyDesk, y gestión de servidores Windows.",
+                "Gestión de Proyectos: Implementación de proyectos y gestión de soluciones técnicas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web y Técnico de PC",
+            "company": "Palme Tec",
+            "location": "",
+            "start_date": "2022-09-01",
+            "end_date": "2023-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo Web: Creación de diseños y maquetas web, desarrollo de landing pages y sitios de e-commerce.",
+                "Gestión de Clientes: Administración y comunicación con clientes.",
+                "Reparación y Mantenimiento: Diagnóstico y reparación de hardware y software.",
+                "Armado de Equipos: Ensamblaje de PCs personalizadas y rigs de minería.",
+                "Instalación de Sistemas: Instalación de Windows y software específico.",
+                "Soluciones de Software: Resolución de problemas de drivers y optimización de sistemas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Seguridad informática",
+            "institution": "Educacion IT",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "React Js",
+            "institution": "Coder House",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "JavaScript",
+            "institution": "Coder House",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo Web",
+            "institution": "Coder House",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico de PC y Redes",
+            "institution": "Loopian",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2015-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "n8n",
+                "make",
+                "zapier",
+                "pipedream",
+                "rest-api",
+                "webhooks",
+                "openai-api",
+                "postman",
+                "swagger",
+                "javascript",
+                "node.js",
+                "react.js",
+                "next.js",
+                "python",
+                "html",
+                "css",
+                "sql-server",
+                "mysql",
+                "mariadb",
+                "firebase",
+                "mongodb"
+            ],
+            "soft": [
+                "pensamiento-lógico",
+                "resolución-de-problemas-técnicos",
+                "autonomía",
+                "trabajo-en-equipo",
+                "adaptabilidad",
+                "comunicación-efectiva"
+            ],
+            "tools": [
+                "zoho-desk",
+                "anydesk",
+                "clickup",
+                "github",
+                "visual-studio-code",
+                "go-high-level-crm"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

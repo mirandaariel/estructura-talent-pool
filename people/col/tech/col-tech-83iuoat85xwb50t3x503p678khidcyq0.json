@@ -1,0 +1,160 @@
+{
+    "personal_info": {
+        "first_name": "María José",
+        "last_name": "Lanzosa Ostty",
+        "email": "Mjlanzosa24@gmail.com",
+        "phone": "+57 311285 9785",
+        "location": {
+            "country": "Colombia",
+            "city": "Medellín",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero Industrial con más de 4 años de experiencia en aseguramiento de calidad de software, incluyendo 2 años en automatización de pruebas para aplicaciones WEB utilizando Selenium y Serenity BDD con Java, implementando patrón de diseño ScreenPlay."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista de Pruebas",
+            "company": "UX Technology",
+            "location": "",
+            "start_date": "2022-02-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Construcción de pruebas automatizadas para entornos web utilizando Serenity BBD y Selenium, implementando patrón de diseño ScreenPlay con Java como lenguaje de programación.",
+                "Planifico, diseño y mantuvo planes y casos de prueba.",
+                "Ejecuto ciclos completos de testing, incluyendo pruebas funcionales, de regresión y exploratorias.",
+                "Reporto y gestiono incidencias usando Jira y Mantis.",
+                "Participo en análisis de requerimientos y revisiones técnicas.",
+                "Acompañó las entregas de proyectos certificados a clientes.",
+                "Promovió la cultura de calidad en los proyectos."
+            ],
+            "achievements": [
+                "Migración exitosa de una aplicación critica de ventas a arquitectura en la nube.",
+                "Mejora en los tiempos de entrega y eficiencia de pruebas."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de Calidad",
+            "company": "Origen Web",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñó y ejecutó casos de prueba basados en historias de usuario y retroalimentación de clientes, validando la funcionalidad, rendimiento y calidad de los sistemas.",
+                "Facilitó reuniones con clientes para el levantamiento de requisitos, contribuyendo en la elaboración de historias de usuario y fortaleciendo la colaboración en el desarrollo de producto.",
+                "Analizó procesos de negocio de los clientes, identificando oportunidades de mejora que se tradujeron en soluciones innovadoras y en un incremento de la satisfacción del cliente.",
+                "Realizó pruebas manuales de caja negra en entornos web, incluyendo validaciones en interfaces gráficas (GUI) y bases de datos, garantizando la cobertura de escenarios críticos.",
+                "Aplicó los principios de la metodología Scrum, asegurando el cumplimiento de los objetivos de proyecto y adaptándose ágilmente a cambios en los requisitos.",
+                "Trabajó con sistemas POS, validando funcionalidades de pagos en comercio electrónico, asegurando una integración efectiva y operaciones sin interrupciones."
+            ],
+            "achievements": [
+                "Lideró la implementación de mejoras en el proceso de pruebas, reduciendo tiempos de ejecución manual, aumentando la cobertura de pruebas funcionales y mejorando la eficiencia en las entregas de software."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero Industrial",
+            "institution": "Universidad Nacional Experimental Francisco de Miranda",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "selenium",
+                "serenity-bdd",
+                "gherkin",
+                "git",
+                "maven",
+                "gradle",
+                "java",
+                "screenplay",
+                "pruebas-funcionales",
+                "regression",
+                "exploratorias",
+                "uat",
+                "smoke-testing",
+                "pruebas-de-integracion",
+                "testlink",
+                "mantis",
+                "jira",
+                "postman",
+                "soap-ui",
+                "sql-server",
+                "mysql",
+                "oracle",
+                "mongodb",
+                "aws-s3",
+                "scrum"
+            ],
+            "soft": [
+                "atención-al-detalle",
+                "comunicación-efectiva",
+                "pensamiento-crítico-y-enfoque-analítico",
+                "capacidad-para-cuestionar-y-validar-requerimientos",
+                "autogestión",
+                "empatía-y-orientación-al-cliente",
+                "trabajo-en-equipo",
+                "proactividad",
+                "organización-y-manejo-del-tiempo",
+                "adaptación-al-cambio"
+            ],
+            "tools": [
+                "postman",
+                "soapui",
+                "mantis",
+                "testlink",
+                "jenkins",
+                "jira"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [
+        {
+            "name": "Postman REST API Testing",
+            "issuing_organization": "Udemy",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Metodología Scrum",
+            "issuing_organization": "CertiProf",
+            "issue_date": "2021-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Scrum Master Certification",
+            "issuing_organization": "Udemy",
+            "issue_date": "2021-08-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Basic"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

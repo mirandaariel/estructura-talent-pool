@@ -1,0 +1,129 @@
+{
+    "personal_info": {
+        "first_name": "Boris",
+        "last_name": "Waisten",
+        "email": "boriswaisten@gmail.com",
+        "phone": "(549) 3446575620",
+        "location": {
+            "country": "Argentina",
+            "city": "Capital Federal",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/boris-waisten",
+        "website": "",
+        "portfolio": "",
+        "summary": "Analista de Sistemas orientado al desarrollo fullstack con 2 años de experiencia. Especializado en tecnologías como React, Next.js, Node.js, PHP, MongoDb, MySQL, Vercel, Insomnia. Autodidacta y con predisposición al trabajo en equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "Freelance",
+            "location": "Capital Federal, Buenos Aires",
+            "start_date": "2024-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé una plataforma de streaming con sistema de donaciones integrado utilizando Next.js y TypeScript.",
+                "Desarrollé una aplicación robusta para la gestión de ventas, optimizando los procesos internos del cliente.",
+                "Diseñé y desarrollé un sitio institucional para una cámara de comercio regional con catálogo multilingüe.",
+                "Implementé diversas funcionalidades en una aplicación de invitación de boda integrando Firebase.",
+                "Diseñé y desarrollé una demo funcional de e-commerce, resolviendo desafíos técnicos en autenticación y gestión de productos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista de Sistema",
+            "institution": "Instituto Tecnológico ORT",
+            "location": "Capital Federal, Argentina",
+            "start_date": "2021-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "next.js",
+                "node.js",
+                "express.js",
+                "php",
+                "postgresql",
+                "mysql",
+                "firebase",
+                "mongodb",
+                "cloudinary",
+                "vercel",
+                "donweb",
+                "hostinger",
+                "postman",
+                "insomnia"
+            ],
+            "soft": [
+                "autodidacta",
+                "capacidad-de-aprendizaje-continuo",
+                "organización-del-trabajo",
+                "gestión-del-tiempo",
+                "comunicación-efectiva",
+                "orientación-a-resultados",
+                "cumplimiento-de-objetivos",
+                "resolución-de-conflictos",
+                "adaptación-al-cambio"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Plataforma de Streaming",
+            "description": "Desarrollé una plataforma de streaming con sistema de donaciones integrado utilizando Next.js y TypeScript.",
+            "technologies": ["next.js", "material-ui", "typescript", "vercel"],
+            "url": "https://hemosvistosugloria.op.org.ar"
+        },
+        {
+            "name": "Sistema de Gestión de Ventas",
+            "description": "Desarrollé una aplicación robusta para la gestión de ventas, optimizando los procesos internos del cliente.",
+            "technologies": ["php", "mysql", "html", "css", "javascript", "hostinger"],
+            "url": ""
+        },
+        {
+            "name": "Sitio Empresarial Camara Regional",
+            "description": "Diseñé y desarrollé un sitio institucional para una cámara de comercio regional con catálogo multilingüe.",
+            "technologies": ["next.js", "tailwind-css", "vercel", "hostinger", "material-ui", "framer-motion"],
+            "url": "https://acrearg.com"
+        },
+        {
+            "name": "Invitación de Boda",
+            "description": "Implementé diversas funcionalidades en la aplicación integrando Firebase.",
+            "technologies": ["next.js", "tailwind-css", "firebase", "vercel"],
+            "url": ""
+        },
+        {
+            "name": "App E-Commerce",
+            "description": "Diseñé y desarrollé una demo funcional de e-commerce, resolviendo desafíos técnicos en autenticación y gestión de productos.",
+            "technologies": ["next.js", "node.js", "express.js", "mongoDB", "tailwind-css", "vercel"],
+            "url": "https://ecommerce-app-bw.vercel.app"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

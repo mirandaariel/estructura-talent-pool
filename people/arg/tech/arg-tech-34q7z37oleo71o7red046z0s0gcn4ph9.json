@@ -1,0 +1,106 @@
+{
+    "personal_info": {
+        "first_name": "Karen",
+        "last_name": "Giannetto",
+        "email": "karengiannetto99@gmail.com",
+        "phone": "+54 9112255-4913",
+        "location": {
+            "country": "Argentina",
+            "city": "La Plata",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante de segundo año de la carrera Analista Programador (UNLP), en búsqueda de mi primera experiencia profesional en IT. Aspiro a comenzar mi carrera en roles iniciales como asistente IT o desarrolladora junior, donde pueda aportar con mis conocimientos técnicos iniciales, mi curiosidad constante y mi compromiso. Me motiva participar en proyectos reales que me permitan aprender haciendo, sumar valor desde el rol que ocupe y crecer progresivamente en distintas áreas del desarrollo de software."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Tecnicatura en Análisis de Sistemas",
+            "institution": "Universidad Nacional de La Plata",
+            "location": "La Plata, Buenos Aires",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo Web Frontend",
+            "institution": "Fundación YPF + Media Chicas + JUMP! Educación",
+            "location": "",
+            "start_date": "",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diseño UX/UI",
+            "institution": "Fundación YPF + Media Chicas + JUMP! Educación",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Economía y Administración",
+            "institution": "Escuela Secundaria Alberto D. Bourrás",
+            "location": "San Vicente, Buenos Aires",
+            "start_date": "",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "node.js",
+                "java",
+                "pascal"
+            ],
+            "soft": [
+                "pensamiento-crítico-y-resolución-de-problemas",
+                "trabajo-en-equipo-y-comunicación-efectiva",
+                "compromiso-y-responsabilidad",
+                "adaptabilidad-y-aprendizaje-continuo"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "visual-studio-code",
+                "netbeans",
+                "figma",
+                "design-thinking"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "SIEMPRE VERDE TIENDA ONLINE DE PLANTAS",
+            "description": "",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "PSICOGUIA APP SALUD MENTAL",
+            "description": "Aplicación web con cinco secciones, desarrollada con HTML, CSS y JavaScript. Diseño responsivo, validación de formularios, interactividad mediante manipulación del DOM, y control de versiones con Git y GitHub. Diseño de aplicación móvil para búsqueda de profesionales de salud mental. Prototipo interactivo creado en Figma aplicando metodología Design Thinking. Enfoque en experiencia de usuario, accesibilidad y estructura clara de navegación.",
+            "technologies": ["HTML", "CSS", "JavaScript", "Git", "GitHub", "Figma", "Design Thinking"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Nivel básico (buena comprensión lectora, comunicación oral simple)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

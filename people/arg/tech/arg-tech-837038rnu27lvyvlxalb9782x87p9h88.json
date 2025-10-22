@@ -1,0 +1,112 @@
+{
+    "personal_info": {
+        "first_name": "Facundo Emanuel",
+        "last_name": "Stoffel",
+        "email": "stoffelfacu29@gmail.com",
+        "phone": "3743448587",
+        "location": {
+            "country": "Argentina",
+            "city": "Posadas",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/facundo-stoffel/",
+        "website": "https://portfolio-facu-iota.vercel.app/",
+        "portfolio": "",
+        "summary": "Soy Técnico en Programación Web con experiencia en el desarrollo de sitios web, páginas personales y soluciones digitales. Me especializo en HTML, CSS, JavaScript, Bootstrap, y MySQL, junto con tecnologías modernas como React.js, Node.js, y Express. Me enfoco en crear sitios web responsivos y optimizados para motores de búsqueda, asegurando una excelente experiencia de usuario."
+    },
+    "work_experience": [
+        {
+            "job_title": "Freelancer",
+            "company": "",
+            "location": "Argentina",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de páginas web y landing pages tanto para terceros como para proyectos propios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Programador durante prácticas",
+            "company": "",
+            "location": "Argentina",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una página web para una tienda de cuadros.",
+                "Desarrollo de un sistema de gestión de turnos con login y registro para una barbería, con backend y frontend completos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Superior en Programación Web",
+            "institution": "Teclab",
+            "location": "Argentina",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Programador Web Full Stack",
+            "institution": "Silicon Misiones",
+            "location": "Posadas, Argentina",
+            "start_date": "2023-03-01",
+            "end_date": "2023-10-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "javascript-es6+",
+                "react.js",
+                "node.js",
+                "bootstrap",
+                "express.js",
+                "mysql"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "capacidad-de-aprendizaje-continuo",
+                "resolución-de-problemas"
+            ],
+            "tools": [
+                "git",
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Programación con HTML y CSS",
+            "issuing_organization": "IT Master",
+            "issue_date": "2023-10-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Programación Front-end",
+            "issuing_organization": "IT Master",
+            "issue_date": "2023-11-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

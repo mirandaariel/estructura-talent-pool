@@ -1,0 +1,155 @@
+{
+    "personal_info": {
+        "first_name": "Joaquín",
+        "last_name": "Nuñez",
+        "email": "joaquinahuel93@gmail.com",
+        "phone": "+54 93814670737",
+        "location": {
+            "country": "Argentina",
+            "city": "Tucumán",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "SSR Fullstack Developer with over 3 years of experience in end-to-end web application development. Expert in Node.js/NestJS, React, TypeScript and JavaScript, with solid knowledge of SQL (MySQL, PostgreSQL) and relational databases. Extensive experience in SQL query design and execution, REST and SOAP API integration, and functional testing with Postman. Work under agile methodologies (Scrum/Kanban) collaborating with multidisciplinary teams to deliver robust and scalable solutions. Interest and training in AI, NLP and prompt engineering."
+    },
+    "work_experience": [
+        {
+            "job_title": "Fullstack Developer SSR & Functional Analyst",
+            "company": "Conexa",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed and integrated the connection with Bamboo optimizing the authorization margin, reducing capture failures and minimizing excessive retentions.",
+                "Refactored the integration with Pickit, updating the SDK and adapting it to the latest API version.",
+                "Implemented and refactored the Oh GifCard script, improving integration from 30% to 100%.",
+                "Modernized the integration with Klaviyo, achieving a 20% improvement in response performance.",
+                "Design and execution of SQL queries for internal data analysis and reporting.",
+                "Functional testing: developed and executed test cases with Postman to validate REST APIs; familiar with basic SOAP services."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer SSR",
+            "company": "Pixelspace LLC",
+            "location": "",
+            "start_date": "2022-07-01",
+            "end_date": "2024-10-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Led the development of fullstack applications using Next.js, React and React Native, improving user experience and code scalability.",
+                "Developed the Carepanda mobile application in React Native, integrating geolocation modules and push notifications.",
+                "Optimized user interface of chatbot in Next.js, reducing loading time and increasing user interaction rate.",
+                "Implemented backend architectures based on NestJS and Node.js, managing relational and non-relational databases.",
+                "Designed SQL queries and database schemas for reporting and metrics analysis.",
+                "Contributed to AI applications by integrating NLP models and machine learning services.",
+                "Participated in code migrations and refactoring, ensuring optimal performance and adherence to development best practices."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "Sunday Money Startup",
+            "location": "",
+            "start_date": "2021-03-01",
+            "end_date": "2022-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Migrated backend architecture to NestJS, modularizing legacy services into scalable microservices.",
+                "Participated in frontend migration from Angular to React, unifying web and mobile codebase.",
+                "Optimized queries in MySQL and PostgreSQL, improving response times by 35%.",
+                "Collaborated with QA in development of test plans and functionality validation."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Programming Technician",
+            "institution": "UTN",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "react-native",
+                "javascript",
+                "typescript",
+                "html5",
+                "css3",
+                "node.js",
+                "nestjs",
+                "express",
+                "rest-apis",
+                "soap",
+                "mysql",
+                "postgresql",
+                "mongodb",
+                "dynamodb",
+                "sql",
+                "docker",
+                "ci/cd"
+            ],
+            "soft": [
+                "agile-methodologies",
+                "scrum",
+                "kanban"
+            ],
+            "tools": [
+                "git",
+                "postman",
+                "jest"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "NestJS",
+            "issuing_organization": "Udemy / DevTalles (Fernando Herrera)",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Node.js, JavaScript, TypeScript",
+            "issuing_organization": "Udemy",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Front End Engineering",
+            "issuing_organization": "MFN Devlab",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Complete Data Science, Machine Learning, DL, NLP Bootcamp",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,229 @@
+{
+    "personal_info": {
+        "first_name": "Jesús Luis",
+        "last_name": "Rodrigo Lobo",
+        "email": "rolobo2812@gmail.com",
+        "phone": "+54 3865627955",
+        "location": {
+            "country": "Argentina",
+            "city": "Tucumán",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "https://portafolio-rodrigo-lobo-devvercel.app/",
+        "portfolio": "https://github.com/RodrigoLoboDev",
+        "summary": ""
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Profesor Universitario en Computación",
+            "institution": "Universidad Nacional de Catamarca",
+            "location": "San Fernando del Valle de Catamarca, Argentina",
+            "start_date": "",
+            "end_date": "2014-12-31",
+            "hours": 2600
+        },
+        {
+            "degree": "Técnico Superior en Informática Empresarial",
+            "institution": "Instituto Privado Joven Argentino",
+            "location": "Tucumán, Argentina",
+            "start_date": "",
+            "end_date": "2010-12-31",
+            "hours": 2000
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css3",
+                "sass",
+                "tailwindcss",
+                "javascript",
+                "typescript",
+                "react",
+                "react-router-dom",
+                "react-query",
+                "zustand",
+                "zod",
+                "prisma",
+                "sequelize",
+                "mongoose",
+                "next.js",
+                "php",
+                "python",
+                "node.js",
+                "express",
+                "strapi",
+                "cloudinary",
+                "mysql",
+                "postgresql",
+                "mongodb",
+                "git",
+                "github",
+                "swagger",
+                "supertest",
+                "jest",
+                "axios",
+                "aws-lambda",
+                "ec2",
+                "s3",
+                "amplify",
+                "angular",
+                "vue.js",
+                "react-hook-form",
+                "react-toastify",
+                "lucide-react",
+                "markdown-rendering"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Trayecto Full Stack Developer (Frontend y Backend)",
+            "issuing_organization": "",
+            "issue_date": "2023-12-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "React y TypeScript - La Guía Completa",
+            "issuing_organization": "Udemy",
+            "issue_date": "2021-12-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo Web Completo",
+            "issuing_organization": "Udemy",
+            "issue_date": "2021-12-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "APP GUITARLA",
+            "description": "E-commerce de Guitarras con gestión completa de productos y sistema de pagos seguro integrado con MercadoPago.",
+            "technologies": [
+                "React",
+                "TypeScript",
+                "Tailwind CSS",
+                "Zustand",
+                "React Router DOM",
+                "Axios",
+                "Zod",
+                "Strapi",
+                "PostgreSQL",
+                "Node.js"
+            ],
+            "url": "https://guitarlastrapi.netlify.app/"
+        },
+        {
+            "name": "APP LIBRARY",
+            "description": "Administrador de Biblioteca Escolar herramienta para gestionar libros y usuarios con notificaciones en tiempo real.",
+            "technologies": [
+                "React",
+                "TypeScript",
+                "Tailwind CSS",
+                "React Toastify",
+                "Zustand",
+                "React Router DOM",
+                "Zod",
+                "Node.js",
+                "PostgreSQL"
+            ],
+            "url": ""
+        },
+        {
+            "name": "APP CYBER",
+            "description": "Administrador de Cibercafé moderna aplicación para gestión y promoción de cibercafé.",
+            "technologies": [
+                "React",
+                "TypeScript",
+                "Tailwind CSS",
+                "React Toastify",
+                "React Router DOM",
+                "Zod",
+                "Headless UI",
+                "Heroicons",
+                "React Icons",
+                "Swiper",
+                "React Image Gallery",
+                "React Loading Skeleton",
+                "Framer Motion",
+                "React Hook Form",
+                "Axios",
+                "Firebase Authentication",
+                "Firebase Database",
+                "Cloudinary",
+                "EmailJS",
+                "WhatsApp API"
+            ],
+            "url": "https://cyber-progamers.vercel.app/"
+        },
+        {
+            "name": "UPTASK",
+            "description": "Administrador de Tareas plataforma para gestionar proyectos, tareas con autenticación y notificaciones.",
+            "technologies": [
+                "React",
+                "TypeScript",
+                "Tailwind CSS",
+                "React Router DOM",
+                "React Query",
+                "Zod",
+                "React Hook Form",
+                "React Toastify",
+                "Axios",
+                "Framer Motion",
+                "Node.js",
+                "Express",
+                "MongoDB",
+                "Mongoose",
+                "JSON Web Tokens",
+                "Bcrypt",
+                "Nodemailer",
+                "Express Validator",
+                "dotenv",
+                "cors",
+                "colors"
+            ],
+            "url": ""
+        },
+        {
+            "name": "PromptAI",
+            "description": "Clon de ChatGPT que permite mantener conversaciones con modelos de lenguaje a través de la API de OpenRouter (OpenAI).",
+            "technologies": [
+                "React",
+                "TypeScript",
+                "Tailwind CSS",
+                "Zustand",
+                "React Router DOM",
+                "React Hook Form",
+                "React Toastify",
+                "Lucide React",
+                "React Markdown",
+                "remark-gfm",
+                "API"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

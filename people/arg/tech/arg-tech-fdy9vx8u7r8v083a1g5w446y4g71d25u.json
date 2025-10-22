@@ -1,0 +1,136 @@
+{
+    "personal_info": {
+        "first_name": "Tomas",
+        "last_name": "Gonzalez Moron",
+        "email": "tgmoron@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/tomas-gonzalez-moron",
+        "website": "https://t.ly/kizlf",
+        "portfolio": "https://github.com/tomigm",
+        "summary": "I consider myself a solution-seeker and believe that every project should be viewed as a whole. I believe it is crucial to understand users needs and find practical solutions to their problems. As a Developer, I think that every digital product must be as intuitive as possible, and we should see these products as tools for making our daily tasks easier."
+    },
+    "work_experience": [
+        {
+            "job_title": "Front End Developer",
+            "company": "Mobiloud",
+            "location": "",
+            "start_date": "2023-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Responsible for adapting websites to mobile version.",
+                "Creation, CI/CD of web Widgets and NPM libraries using modern technologies (Vite, Astro).",
+                "React development of custom internal products (React, Redux).",
+                "Refactoring of internal JS snippets.",
+                "UX / UI Development.",
+                "Maintenance of Webflow CMS pages content and custom styles (With CSS) ensuring correct readability and understanding for end users.",
+                "Created UX/UI and mockups for State of Atlanta's 311 WebApp Redesign that improved the app conversion rate by 50%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Main Developer",
+            "company": "Fluo Digital",
+            "location": "",
+            "start_date": "2020-12-01",
+            "end_date": "2023-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Led full product lifecycle development, applying CI/CD practices and maintaining strong team communication.",
+                "Selected tools and tech stacks for new projects, including proof of concept trials for emerging technologies.",
+                "Tech stack: Figma, Illustrator, Photoshop, HTML (HTML5, WCAG, SEO), CSS (SASS, Less, Tailwind, Bootstrap), JavaScript (ES6, jQuery), TypeScript, React (Next.js, Express.js), Webflow, Bubble, WordPress, MySQL, Git.",
+                "Managed backlogs using Agile methodologies (Scrum, Kanban) and acted as the primary client liaison.",
+                "Developed high-performance pages using optimization tools like Lighthouse and Devtools."
+            ],
+            "achievements": [
+                "Voting system for Clarin (major media company in Argentina), utilized for 2 consecutive years.",
+                "Custom MVP, integrating RESTful APIs and custom JS scripts.",
+                "Maintained long-term client relationships, resulting in a 50% annual referral increase and 5+ ongoing projects."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Luz libre",
+            "location": "",
+            "start_date": "2021-06-01",
+            "end_date": "2022-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Led the development of a mobile-first, cross-platform app with a focus on resource efficiency and compatibility.",
+                "Conducted testing, deployment, and UX/UI adjustments."
+            ],
+            "achievements": [
+                "App achieved 5k+ downloads and 200+ reviews across the App Store and Play Store.",
+                "Internationalized the app in three languages (Spanish, English, Italian), reaching users in 10+ countries.",
+                "Self-funded the project through donations, covering 100% of development costs."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Front End Developer",
+            "company": "Querelo",
+            "location": "",
+            "start_date": "2020-06-01",
+            "end_date": "2020-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed mobile adaptation, responsive web design, and maintenance for the client's institutional website.",
+                "Adopted Web Accessibility (WCAG) and SEO best practices.",
+                "Led web app redesign, creating a reusable component system for scalability."
+            ],
+            "achievements": [
+                "Improved user experience by 90% through the adoption of a consistent design system and reusable code.",
+                "Designed custom animations using GSAP, enhancing user experience."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [],
+            "soft": [
+                "problem-solving-skills",
+                "excellent-verbal-communication",
+                "interpersonal-skills",
+                "client-management",
+                "internal-and-customer-facing-communication",
+                "working-under-pressure"
+            ],
+            "tools": [
+                "graphic-design-principles-and-good-practices",
+                "responsive-web-design",
+                "performance-seo-optimization",
+                "wireframing-and-prototyping",
+                "agile-methodologies",
+                "html",
+                "css",
+                "sass",
+                "javascript",
+                "reactjs",
+                "nextjs",
+                "nodejs",
+                "webflow",
+                "figma",
+                "illustrator"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

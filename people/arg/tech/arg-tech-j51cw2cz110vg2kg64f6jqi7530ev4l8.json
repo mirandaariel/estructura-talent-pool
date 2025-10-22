@@ -1,0 +1,119 @@
+{
+    "personal_info": {
+        "first_name": "Jean",
+        "last_name": "Torrellas",
+        "email": "Jeanftorrellas@gmail.com",
+        "phone": "+54-1122534294",
+        "location": {
+            "country": "Argentina",
+            "city": "Banfield",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/jean-torrellas-415445294",
+        "website": "",
+        "portfolio": "",
+        "summary": "Me caracterizo por mi facilidad para mantener relaciones interpersonales y trabajo en equipo, con iniciativa para resolver posibles problemas eficientemente, aceptar retos y metas propuestas, capacidad de solventar los defectos/fallas, me motiva la planificación y organización. Adaptación rápida al ambiente laboral, facilidad de comunicación, y capacidad analítica."
+    },
+    "work_experience": [
+        {
+            "job_title": "QA Analyst",
+            "company": "U Test (freelance)",
+            "location": "Buenos Aires",
+            "start_date": "2023-08-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Análisis de requerimientos",
+                "Creación y ejecución de casos de pruebas",
+                "Reporte y seguimiento de bugs",
+                "Documentación de evidencias",
+                "Reporte de finalización de testeos"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA Analyst",
+            "company": "Exentia",
+            "location": "Buenos Aires",
+            "start_date": "2024-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño y ejecución de casos de pruebas",
+                "Validación de casos de pruebas",
+                "Estimación de tiempo de pruebas",
+                "Analizar los requisitos y/o requerimientos funcionales",
+                "Generación de set de datos de prueba",
+                "Realizar reportes y seguimiento de defectos",
+                "Acompañamiento a los usuarios durante las UAT"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Secundaria completa",
+            "institution": "U.E.I \"Santa Teresita Del Niño Jesús\"",
+            "location": "Venezuela",
+            "start_date": "2017-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "QA Analyst",
+            "institution": "Udemy Alummi",
+            "location": "Buenos Aires",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [],
+            "soft": [
+                "proactivo",
+                "responsable",
+                "trabajo-en-equipo",
+                "organización",
+                "pensamiento-crítico",
+                "analítico",
+                "ingles"
+            ],
+            "tools": [
+                "microsoft-excel",
+                "metodologías-agile",
+                "jira",
+                "xray-for-jira",
+                "azure",
+                "trello",
+                "sql-server",
+                "testlink"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Tiffani Vivas",
+            "relationship": "QA Tester",
+            "contact": "Teléfono: 1160491880"
+        },
+        {
+            "name": "Jocelynee Macedo",
+            "relationship": "QA Tester",
+            "contact": "Teléfono: 1125789106"
+        }
+    ]
+}

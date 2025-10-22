@@ -1,0 +1,142 @@
+{
+    "personal_info": {
+        "first_name": "Mariano",
+        "last_name": "García Quevedo",
+        "email": "mgarciaquevedo@hotmail.com",
+        "phone": "+54 911 5107-3642",
+        "location": {
+            "country": "Argentina",
+            "city": "CABA",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/mariano-garcía-quevedo-00734426",
+        "website": "",
+        "portfolio": "",
+        "summary": "Hace más de 14 años que me desempeño en empresas de desarrollo de software cumpliendo roles de Analista Funcional y QA, con amplia experiencia en testing manual y automatizado, análisis de requerimientos, mejora de proceso contínua y aseguramiento de calidad. Mantengo una orientación focalizada en la documentación funcional, migración de sistemas, experiencia de usuario (UX) y soporte al usuario final, post-producción. Para ampliar mis conocimientos y experiencia he realizado cursos y especializaciones en liderazgo, RRHH y coaching, con habilidades blandas orientadas a equipos ágiles de alto rendimiento."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista QA",
+            "company": "Solop Software",
+            "location": "Uruguay",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Testing manual y automatizado de nuevas funcionalidades.",
+                "Documentación técnica y funcional, generación de gifs explicativos.",
+                "Pruebas en entorno de migración tecnológica y soporte funcional."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista Funcional / QA",
+            "company": "Advertmind",
+            "location": "Argentina",
+            "start_date": "2011-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Relevamiento y análisis funcional para sistemas administrativos y financieros LATAM.",
+                "Testing integral, detección de errores, rediseño de UX.",
+                "Migración de plataformas de VB6 a .NET y acompañamiento al usuario."
+            ],
+            "achievements": [
+                "Tuve a mi cargo una migración automatizada de un sistema ERP monolítico en VB6 a .Net logrando con éxito el diseño de los casos de pruebas, ejecución de pruebas funcionales y la implementación en los clientes logrando un porcentaje de errores en producción casi nulo."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diplomatura en Recursos Humanos",
+            "institution": "UTN",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Coaching Ontológico y Lúdico",
+            "institution": "UBA",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Chief Happiness Officer",
+            "institution": "Certificación Internacional",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Certificación Profesional en Testing",
+            "institution": "QAustral",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Arquitectura de Software y UX",
+            "institution": "LinkedIn Learning",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Abogacía (Cursando 4° año)",
+            "institution": "IUPFA",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "qa-funcional",
+                "regresión",
+                "exploratorio",
+                "automatizado",
+                "sql",
+                "vb6",
+                "vb.net"
+            ],
+            "soft": [
+                "liderazgo-empático",
+                "comunicación",
+                "resolución-de-problemas",
+                "chief-happiness-officer"
+            ],
+            "tools": [
+                "selenium",
+                "postman",
+                "jira",
+                "github",
+                "mantis",
+                "enterprise-architect",
+                "help-&-manual",
+                "uml"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

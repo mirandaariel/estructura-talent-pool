@@ -1,0 +1,122 @@
+{
+  "personal_info": {
+    "first_name": "Maximiliano",
+    "last_name": "Ruano",
+    "email": "ruanomaxi@gmail.com",
+    "phone": "01124570484",
+    "location": {
+      "country": "",
+      "city": "Buenos Aires",
+      "state": "Buenos Aires"
+    },
+    "linkedin": "https://www.linkedin.com/in/maximiliano-ruano-077759268/",
+    "website": "",
+    "portfolio": "https://github.com/maxi-ruano",
+    "summary": "Formar parte de una empresa que me brinde la oportunidad de alcanzar metas, como así también mantenerme en constante aprendizaje y crecimiento laboral."
+  },
+  "work_experience": [
+    {
+      "job_title": "Desarrollador Full Stack",
+      "company": "iXpandit",
+      "location": "Buenos Aires, Argentina",
+      "start_date": "2024-03-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Mantenimiento y desarrollo del sitio web de la empresa.",
+        "Creación de nuevos componentes y funcionalidades en React y Laravel.",
+        "Resolución de problemas y depuración de código para garantizar la calidad."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador",
+      "company": "Dirección General de Licencias del Gobierno de la Ciudad de Buenos Aires",
+      "location": "Buenos Aires, Argentina",
+      "start_date": "2022-02-01",
+      "end_date": "2024-03-01",
+      "currently_working": false,
+      "responsibilities": [
+        "Mantenimiento del sistema para el funcionamiento de áreas de la Dirección General de Licencias.",
+        "Administración de bases de datos y integración con servicios externos.",
+        "Uso de PHP, Laravel, MySQL, PostgreSQL, Swagger y Postman."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "",
+      "institution": "Educación IT",
+      "location": "",
+      "start_date": "2021-01-01",
+      "end_date": "2022-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "html5",
+        "css",
+        "javaseript",
+        "react",
+        "node-js",
+        "express",
+        "my-sql",
+        "postgre-sql",
+        "laravel",
+        "php",
+        "git",
+        "ducker",
+        "aws",
+        "metodologia.agil"
+      ],
+      "soft": [
+        "autodidacta",
+        "proactividad",
+        "curiosidad",
+        "creatividad",
+        "flexibilidad",
+        "empatía",
+        "buenas-habilidades-sociales",
+        "trabajo-de-equipo"
+      ],
+      "tools": []
+    },
+    "detailed": {}
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Reporte Patrimonio",
+      "description": "Sistema para completar el ciclo de reportes, asignar lotes y registrar información.",
+      "technologies": ["Laravel", "Postgres"],
+      "url": "https://github.com/maxi-ruano/Reporte-Patrimonio"
+    },
+    {
+      "name": "Inventario Gobierno de la Ciudad",
+      "description": "Sistema de inventario para gestionar artículos utilizados por el personal.",
+      "technologies": ["Laravel", "MySQL"],
+      "url": "https://github.com/maxi-ruano/Inventario-_Gobierno_de_la_ciudad"
+    },
+    {
+      "name": "Reportes de Insumos",
+      "description": "Sistema para rastrear y gestionar plásticos utilizados en producción de tarjetas.",
+      "technologies": ["Laravel", "Postgres"],
+      "url": "https://github.com/maxi-ruano/Reportes-de-Insumos"
+    },
+    {
+      "name": "Reporte de Descartes",
+      "description": "Sistema para identificar y gestionar plásticos descartados.",
+      "technologies": ["Laravel", "Postgres"],
+      "url": "https://github.com/maxi-ruano/Reporte-Descartes-Gobierno-de-laCiudad"
+    }
+  ],
+  "languages": [],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

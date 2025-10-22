@@ -1,0 +1,108 @@
+{
+    "personal_info": {
+        "first_name": "Jose Gabriel",
+        "last_name": "Verutti Narvaez",
+        "email": "verutti.gabriel@gmail.com",
+        "phone": "+57 3174515697",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/gabriel-verutti-narvaez-559576190",
+        "website": "https://joseverutti.netlify.app",
+        "portfolio": "https://github.com/JoseVerutti",
+        "summary": "Self-taught Full Stack Web Developer passionate about transforming innovative ideas into robust, scalable applications. Proactive and ownership-driven, I focus on high-quality code, creative problem-solving, informed technical decisions, and strong collaboration. A quick, adaptable learner with a solid foundation in ReactJS, Python, .NET, and cloud technologies, I aim to contribute significantly to impactful solutions in dynamic and innovative environments."
+    },
+    "work_experience": [
+        {
+            "job_title": "Development Consultant",
+            "company": "Intelecto SAS",
+            "location": "Colombia",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Development and maintenance of websites, portals, and intranets for corporate clients and government institutions, using technologies such as Angular, ReactJS, .NET, SharePoint, PowerApps, and Azure services.",
+                "Collaboration in multidisciplinary teams for the delivery of customized solutions and deployment on cloud platforms like Azure."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Backend Professor",
+            "company": "PONAO National Polytechnic of Arts and Crafts",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Instructed over 120 students in advanced backend development, focusing on Python with FastAPI.",
+                "Designed and delivered modules on cloud services (AWS: DynamoDB, IAM, S3) and AWS AI services.",
+                "Promoted coding best practices, Docker usage, and microservices architecture."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Backend Developer",
+            "company": "Telemetry API Development",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Led the backend development of a RESTful API with FastAPI (Python) for real-time telemetry of an electric car, a competitor in 'EXPOingeniería 2023'.",
+                "Collaborated on frontend development with ReactJS, ensuring seamless integration for data visualization."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería Biomédica",
+            "institution": "Universidad Autónoma de Occidente",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["reactjs", "python", ".net", "angular", "sharepoint", "powerapps", "azure", "docker"],
+            "soft": ["problem-solving", "collaboration", "ownership-driven"],
+            "tools": ["firebase", "mediaPipe", "tensorflow"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "RumbaApp - Event Discovery Web Application",
+            "description": "Conceptualization and development of an MVP web application for users in Colombia to find nearby parties and events. Leading the full development, from user interface to server logic and database.",
+            "technologies": ["ReactJS", "FastAPI", "FireStore", "Google Cloud Services", "Docker"],
+            "url": ""
+        },
+        {
+            "name": "LLM RAG Assistant",
+            "description": "Development of a text review assistant leveraging OpenAI's GPT-3 model and Pinecone. It performs text analysis and research to provide context-based responses (RAG) derived from uploaded documents.",
+            "technologies": ["Python", "OpenAI API", "Pinecone", "Transformers library"],
+            "url": ""
+        },
+        {
+            "name": "Posture Tracker",
+            "description": "Development of a posture tracking application using Python, MediaPipe, and TensorFlow. The system detects and analyzes body posture by identifying key landmarks, and TensorFlow is used to train a model that assesses posture quality. The application provides users with feedback reports to help improve their posture and includes reminders to encourage regular activity breaks.",
+            "technologies": ["Python", "MediaPipe", "TensorFlow"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

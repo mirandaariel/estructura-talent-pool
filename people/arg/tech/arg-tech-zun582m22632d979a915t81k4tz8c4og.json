@@ -1,0 +1,173 @@
+{
+  "personal_info": {
+    "first_name": "David",
+    "last_name": "Vazquez",
+    "email": "davidvp1986@gmail.com",
+    "phone": "+54 911 54245841",
+    "location": {
+      "country": "Argentina",
+      "city": "Ciudad Autonóma de Buenos Aires",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/david-isaac-vazquez",
+    "website": "",
+    "portfolio": "",
+    "summary": "Con más de 10 años de experiencia en el área administrativa, actualmente en transición hacia el análisis de datos. Apasionado por la tecnología y la visualización de datos, he desarrollado habilidades en herramientas como Power BI, Python y Bases de Datos para transformar información en insights accionables que apoyan la toma de decisiones. Enfocado en el aprendizaje continuo y la mejora de procesos mediante soluciones basadas en datos."
+  },
+  "work_experience": [
+    {
+      "job_title": "Administrativo de Fideicomisos",
+      "company": "JB Fiduciaria SA",
+      "location": "Buenos Aires, Argentina",
+      "start_date": "2017-03-01",
+      "end_date": "2023-07-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Realicé conciliaciones bancarias y análisis de datos financieros para los Fideicomitentes.",
+        "Diseñé y automaticé reportes financieros utilizando herramientas como Excel y Power BI para facilitar la toma de decisiones.",
+        "Implementé el seguimiento del flujo de caja (cash flow) mediante técnicas de análisis cuantitativo.",
+        "Gestioné la base de datos y aseguré la calidad y consistencia de la información crítica.",
+        "Elaboré indicadores clave de desempeño (KPIs) para evaluar la eficiencia de la gestión fiduciaria.",
+        "Analicé datos históricos para optimizar la administración del presupuesto de consorcios y generar insights de mejora."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Analista de Cuenta",
+      "company": "Coma S.A.",
+      "location": "Buenos Aires, Argentina",
+      "start_date": "2019-08-01",
+      "end_date": "2021-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Analicé datos de cuentas por pagar, generando informes detallados de comportamiento y tendencias de pagos.",
+        "Implementé la integración y manejo de sistemas de gestión (Calipso) para consolidar y analizar datos de facturación.",
+        "Optimizé la administración de la base de datos financiero, reduciendo errores en un 15%.",
+        "Colaboré en el diseño de dashboards para monitorear el estado financiero de la compañía."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Asistente de Análisis Financiero",
+      "company": "Simple&CO.",
+      "location": "Buenos Aires, Argentina",
+      "start_date": "2016-11-01",
+      "end_date": "2017-03-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollé reportes de inventarios y análisis de rotación de productos mediante Excel para el almacén.",
+        "Realicé análisis de datos de proveedores para identificar oportunidades de ahorro y negociación.",
+        "Gestioné datos sensibles y aseguré la integridad de los registros financieros en sistemas CRM."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ciencia de Datos e Inteligencia Artificial",
+      "institution": "Instituto de Formación Tecnica Superior N°18",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "T.S.U Técnico Superior Universitario de Administración en Contaduría",
+      "institution": "Colegio Universitario de Administración y Mercadeo (CUAM)",
+      "location": "Caracas, Venezuela",
+      "start_date": "2004-01-01",
+      "end_date": "2007-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "análisis-de-datos",
+        "creación-de-dashboards",
+        "power-bi",
+        "excel",
+        "google-sheets",
+        "looker-studio",
+        "limpieza-de-datos",
+        "manipulación-de-datos",
+        "power-query",
+        "python",
+        "bases-de-datos",
+        "sql",
+        "bbdd",
+        "calipso"
+      ],
+      "soft": [
+        "visualización-de-datos",
+        "generación-de-insights",
+        "resolución-de-problemas",
+        "mejora-de-procesos"
+      ],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [
+    {
+      "name": "Fundamentos de Data Analytics",
+      "issuing_organization": "Guayerd & IBM",
+      "issue_date": "2024-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Programación Inicial con Python",
+      "issuing_organization": "Talento Tech",
+      "issue_date": "2024-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Auxiliar de Contabilidad",
+      "issuing_organization": "Sindicato Empleados de Comercio",
+      "issue_date": "2019-01-01",
+      "expiration_date": "",
+      "credential_id": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Análisis Financiero",
+      "description": "Creación de Dashboards interactivos en Looker Studio para visualizar ingresos y egresos de una organización sin fines de lucro.",
+      "technologies": ["looker-studio"],
+      "url": ""
+    },
+    {
+      "name": "Optimización de Flujo de Caja",
+      "description": "Uso de Excel avanzado y Power Query para mejorar el control de flujos financieros.",
+      "technologies": ["excel", "power-query"],
+      "url": ""
+    },
+    {
+      "name": "Visualización de KPIs",
+      "description": "Implementación de indicadores clave para monitorear y mejorar la gestión de procesos administrativos.",
+      "technologies": [],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "A2"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

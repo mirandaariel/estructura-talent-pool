@@ -1,0 +1,105 @@
+{
+    "personal_info": {
+        "first_name": "Luisana",
+        "last_name": "Ochoa",
+        "email": "luisanamarquez810@gmail.com",
+        "phone": "+54 91157602676",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": "Capital Federal"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "QA Engineer con más de 2 años de experiencia en testing funcional y de APIs, especializada en aplicaciones web y móviles en entornos fintech y de ciberseguridad. Cuento con conocimientos en automatización de pruebas con Java y Selenium, Katalon y experiencia validando datos con SQL y APIs con Postman."
+    },
+    "work_experience": [
+        {
+            "job_title": "QA Analyst Semi Senior",
+            "company": "Global66",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2024-07-01",
+            "end_date": "2025-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Ejecuté pruebas funcionales y de regresión sobre aplicaciones web y mobile (Android/iOS) del sector fintech.",
+                "Automatización de pruebas utilizando Katalon Studio para flujos críticos de login, tokenización y validación de datos.",
+                "Integración de pruebas en pipelines de CI/CD con Azure DevOps y versionado en Git.",
+                "Validación de APIs con Postman, y pruebas de carga con JMeter.",
+                "Documentación en Jira + Confluence, casos de prueba y reporte de bugs.",
+                "Participación activa en dailies Scrum, refinamientos y retrospectivas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA Analyst Jr.",
+            "company": "Purple Hub Security",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2022-03-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Uso de Selenium WebDriver para automatización básica de pruebas regresivas con Java.",
+                "Pruebas de integración de servicios B2B/B2C con datos validados por SQL.",
+                "Colaboración con desarrolladores para reproducir errores críticos en ambientes de staging.",
+                "Reportes funcionales semanales para PMs.",
+                "Pruebas de seguridad básica (autenticación, cifrado, etc.)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Curso de testing QA Manual",
+            "institution": "Coderhouse",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Curso de testing",
+            "institution": "Educación IT",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Curso de JavaScript",
+            "institution": "Coderhouse",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Curso de Automatización",
+            "institution": "Udemy",
+            "location": "Remote",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["diseño-y-ejecución-de-casos-de-prueba", "pruebas-de-apis", "consultas-sql", "testing-en-entornos-ágeiles"],
+            "soft": [],
+            "tools": ["postman", "swagger", "jira", "xray"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

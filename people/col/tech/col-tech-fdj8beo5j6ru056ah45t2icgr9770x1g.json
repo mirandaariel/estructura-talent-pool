@@ -1,0 +1,157 @@
+{
+    "personal_info": {
+        "first_name": "Fabián Andrés",
+        "last_name": "Ospina Clavijo",
+        "email": "estructura.disabled557@passinbox.com",
+        "phone": "3219190143-3115377199",
+        "location": {
+            "country": "Colombia",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "www.andres-ospina.dev",
+        "portfolio": "",
+        "summary": "Soy profesional en Tecnologías de la Información con sólida formación académica y experiencia comprobada en liderazgo de servicios TI. Especializado en automatización de procesos, desarrollo de asistentes virtuales multicanal, gestión de requerimientos bajo estándares ITIL v4 e ISO 9001, y soporte técnico integral. Experto en integración de sistemas, APIs de mensajería y gestión de bases de conocimiento. Con enfoque en mejora continua, cumplimiento de KPIs y orientación al cliente, aporto soluciones innovadoras que optimizan la eficiencia operacional y garantizan la satisfacción del usuario final."
+    },
+    "work_experience": [
+        {
+            "job_title": "Gestor de Requerimientos",
+            "company": "Grupo Keralty-Sonda de Colombia",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideré la gestión transversal de requerimientos aplicando estándares ITIL v4 e ISO 9001 para optimizar la eficiencia operativa del grupo.",
+                "Desarrollé e implementé estrategias de reducción de requerimientos mediante mejora continua de procesos y cumplimiento riguroso de KPIs establecidos.",
+                "Diseñé y desplegué soluciones de automatización inteligente utilizando n8n, LangChain y APIs de mensajería para optimizar flujos de trabajo críticos.",
+                "Implementé análisis predictivo mediante Python y SQL para generación de dashboards interactivos en Grafana.",
+                "Creé y mantuve artículos de conocimiento especializados para enriquecer la base de conocimiento organizacional sobre procesos críticos."
+            ],
+            "achievements": [
+                "Implementé sistema de automatización que redujo en 70% el tiempo de procesamiento de datos entre correo electrónico y hojas de cálculo, usando Apps Script.",
+                "Implementé gestión de calidad bajo norma ISO 9001, garantizando cumplimiento del 95% de KPIs establecidos.",
+                "Desarrollé 25+ artículos de conocimiento que mejoraron en 60% la eficiencia de resolución de consultas recurrentes.",
+                "Implementé análisis predictivo de volumen de requerimientos que permitió optimización proactiva de recursos del equipo.",
+                "Diseñé herramientas de notificación en tiempo real utilizando la API de Google Chat y Gmail, mejorando los tiempos de respuesta del equipo de resolución."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Agente Service Desk 1B",
+            "company": "SONDA de Colombia S.A",
+            "location": "",
+            "start_date": "2022-06-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestioné procesos de retroalimentación en bandeja de correos para cumplimiento de entregas de servicios.",
+                "Configuré accesos y permisos de usuarios mediante LDAP y Active Directory, garantizando seguridad y control de identidades corporativas.",
+                "Administré perfiles de usuario en Azure AD para acceso a servicios en la nube.",
+                "Identifiqué oportunidades de automatización en órdenes de servicio e incidentes comunes.",
+                "Diagnostiqué y solucioné problemas en equipos de cómputo incluyendo fallas de sistema operativo, firewall, antivirus y aplicativos web.",
+                "Instalé, configuré y mantuve conexiones VPN.",
+                "Documenté casos y escalé incidentes complejos con evidencias técnicas."
+            ],
+            "achievements": [
+                "Mantuve 95% de cumplimiento en acuerdos de nivel de servicio durante 30 meses consecutivos.",
+                "Identifiqué y documenté 15 procesos de automatización para órdenes de servicio recurrentes.",
+                "Lideré iniciativas de retroalimentación que mejoraron la satisfacción del cliente interno."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Software",
+            "institution": "UCompensar",
+            "location": "Modalidad Virtual",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnólogo en Mantenimiento de Equipos de Cómputo, Diseño e Instalación de Cableado Estructurado",
+            "institution": "Centro de Industria y Construcción - SENA",
+            "location": "",
+            "start_date": "",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnica Profesional en Programación de Aplicaciones de Software",
+            "institution": "UCompensar",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Sistemas",
+            "institution": "Centro de Industria y Construcción - SENA",
+            "location": "",
+            "start_date": "",
+            "end_date": "2017-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "desarrollo-e-implementacion-de-asistentes-virtuales-multicanal",
+                "meta-business-api",
+                "n8n",
+                "mysql",
+                "supabase",
+                "pinecone",
+                "clientify",
+                "chatwoot",
+                "google-apps-script",
+                "html5",
+                "css3",
+                "javascript",
+                "json",
+                "postgresql",
+                "bmc-helix",
+                "itil-v4",
+                "iso-9001",
+                "azure",
+                "docker",
+                "python",
+                "sql",
+                "grafana"
+            ],
+            "soft": [
+                "liderazgo",
+                "mejora-continua",
+                "orientacion-al-cliente"
+            ],
+            "tools": [
+                "postman",
+                "redes-y-vpn",
+                "vps-management"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [
+        {
+            "name": "ITIL 4 Foundation",
+            "issuing_organization": "",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Pre Intermediate - Level 2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

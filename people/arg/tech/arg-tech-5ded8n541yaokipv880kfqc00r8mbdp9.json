@@ -1,0 +1,121 @@
+{
+  "personal_info": {
+    "first_name": "David",
+    "last_name": "Ardizzone",
+    "email": "david.ardizzone@gmail.com",
+    "phone": "",
+    "location": {
+      "country": "",
+      "city": "",
+      "state": ""
+    },
+    "linkedin": "https://linkedin.com/in/davidardizzonedev",
+    "website": "https://github.com/ardizzone8",
+    "portfolio": "",
+    "summary": "Fullstack developer con orientación al frontend. React | Vue | Typescript | Node | Express | MySQL | Wordpress CSS3 | Boostrap | Tailwind."
+  },
+  "work_experience": [
+    {
+      "job_title": "Fullstack Developer",
+      "company": "Minexus SAS",
+      "location": "",
+      "start_date": "2021-09-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollo de aplicaciones SPA con Vue.js y React.js.",
+        "Responsable en el diseño y mejora de interfaces de usuario.",
+        "Implementación de APIs REST y GraphQL con Node.js y Express.",
+        "Gestión de estado y mutaciones con Vuex, implementación de cambios utilizando Options API y Composition API en Vue 3.",
+        "Desarrollo de aplicaciones con React.js, incluyendo enrutamiento y gestión de estado con Redux o Context API.",
+        "Creación y modificación de landing pages con Wordpress.",
+        "Conocimiento en patrones de diseño e implementación de SEO.",
+        "Familiarizado con sistemas de control de versiones como Git y plataformas colaborativas como GitHub y GitLab."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Periodista / Productor",
+      "company": "Radio Mitre",
+      "location": "",
+      "start_date": "2013-03-01",
+      "end_date": "2016-03-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Cronista y productor de contenidos digitales."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Frontend School",
+      "institution": "Platzi",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "Vue master",
+      "institution": "Platzi",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "React master",
+      "institution": "Platzi",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "Master Data Bases (MySQL)",
+      "institution": "Linkedin school",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "Bachelor of Journalism",
+      "institution": "Instituto San Martín",
+      "location": "Rosario",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "react",
+        "typescript",
+        "vue-js",
+        "node-js",
+        "express",
+        "mysql",
+        "css3",
+        "bootstrap",
+        "tailwind"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

@@ -1,0 +1,210 @@
+{
+  "personal_info": {
+    "first_name": "Ignacio",
+    "last_name": "Nava",
+    "email": "nava_ignacio@outlook.com",
+    "phone": "+54 93492 60-7307",
+    "location": {
+      "country": "Argentina",
+      "city": "Ciudad Autónoma Buenos Aires",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/ignacio-nava-64b198125/",
+    "website": "https://github.com/ignacio-nava",
+    "portfolio": "",
+    "summary": "Soy desarrollador web full stack con experiencia en Python, Django, JavaScript y PostgreSQL. Tengo certificaciones que avalan mi conocimiento y experiencia en el desarrollo de aplicaciones web tanto en frontend como backend. Me encuentro en búsqueda de un entorno laboral que fomente el desarrollo profesional y el aprendizaje continuo."
+  },
+  "work_experience": [
+    {
+      "job_title": "Ejecutivo de Cuentas",
+      "company": "Credix S.A.",
+      "location": "",
+      "start_date": "2021-01-01",
+      "end_date": "2023-12-31",
+      "currently_working": true,
+      "responsibilities": [
+        "Gestión de clientes mediante CRM para el seguimiento y cierre de ventas.",
+        "Resolución de problemas relacionados con datos de clientes y sistemas.",
+        "Desarrollo de scripts para análisis de datos."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Operador de Sonido (Freelance)",
+      "company": "",
+      "location": "",
+      "start_date": "2016-01-01",
+      "end_date": "2020-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Coordinación de proyectos técnicos con equipos multidisciplinarios.",
+        "Implementación de soluciones técnicas en tiempo real para eventos en vivo."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Encargado de Técnica",
+      "company": "DMD Sonido",
+      "location": "",
+      "start_date": "2016-01-01",
+      "end_date": "2018-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Diseño y calibración de sistemas de sonido e iluminación para eventos.",
+        "Supervisión de equipos y garantía de calidad en ejecución de proyectos."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Experto Universitario en Hacking Ético",
+      "institution": "Universidad Tecnológica Nacional",
+      "location": "",
+      "start_date": "2024-01-01",
+      "end_date": "2024-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Django Nivel Avanzado",
+      "institution": "Universidad Tecnológica Nacional",
+      "location": "",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Web Applications for Everybody",
+      "institution": "University of Michigan on Coursera",
+      "location": "",
+      "start_date": "2021-01-01",
+      "end_date": "2021-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "PostgreSQL for Everybody",
+      "institution": "University of Michigan on Coursera",
+      "location": "",
+      "start_date": "2021-01-01",
+      "end_date": "2021-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Python for Everybody",
+      "institution": "University of Michigan on Coursera",
+      "location": "",
+      "start_date": "2021-01-01",
+      "end_date": "2021-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Django for Everybody",
+      "institution": "University of Michigan on Coursera",
+      "location": "",
+      "start_date": "2021-01-01",
+      "end_date": "2021-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Licenciatura en Sonorización y Grabación (Incompleto)",
+      "institution": "Universidad Nacional del Litoral",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "python",
+        "django",
+        "api-rest",
+        "postgreSQL",
+        "sqlite",
+        "mySQL",
+        "bigquery",
+        "html5",
+        "css3",
+        "javaScript",
+        "react",
+        "typescript",
+        "jquery",
+        "node.js",
+        "express.js",
+        "pandas",
+        "matplotlib",
+        "numpy",
+        "appscript"
+      ],
+      "soft": [],
+      "tools": [
+        "git",
+        "ci/cd",
+        "scrum"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [
+    {
+      "name": "Experto Universitario en Hacking Ético",
+      "issuing_organization": "Universidad Tecnológica Nacional",
+      "issue_date": "2024-01-01",
+      "expiration_date": "",
+      "credential_id": "CER-5JTFEVVB-1347607"
+    },
+    {
+      "name": "Django Nivel Avanzado",
+      "issuing_organization": "Universidad Tecnológica Nacional",
+      "issue_date": "2023-01-01",
+      "expiration_date": "",
+      "credential_id": "CER-FTPYK1HF-1056065"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Simulación Laboral",
+      "description": "Desarrollo de backend con Django para una aplicación de simulación laboral.",
+      "technologies": ["django", "api-rest"],
+      "url": "https://github.com/No-Country-simulation/c22-19-T-WebApp"
+    },
+    {
+      "name": "Sitio Web de Torneo Interno",
+      "description": "Frontend desarrollado con React y TypeScript.",
+      "technologies": ["react", "typescript", "django"],
+      "url": "https://github.com/ignacio-nava/torneo-futbol"
+    },
+    {
+      "name": "Simulación de E-commerce",
+      "description": "Backend en Django con funcionalidad de scraping de productos.",
+      "technologies": ["django", "playwright", "django-templates", "javascript", "jquery"],
+      "url": "https://github.com/ignacio-nava/ecommerce-model"
+    },
+    {
+      "name": "Contador de Gestiones",
+      "description": "Aplicación web local creada para un cliente externo con HTML, CSS y JavaScript.",
+      "technologies": ["html", "css", "javascript"],
+      "url": "https://github.com/ignacio-nava/contador-de-gestiones"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Avanzado"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

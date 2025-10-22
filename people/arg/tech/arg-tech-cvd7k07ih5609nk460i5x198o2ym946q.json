@@ -1,0 +1,111 @@
+{
+    "personal_info": {
+        "first_name": "Gastón",
+        "last_name": "Laudin",
+        "email": "gastonlaudin@gmail.com",
+        "phone": "+549-3743-483480",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/gaston-laudin",
+        "website": "",
+        "portfolio": "https://gastonlaudin.com",
+        "summary": "Desarrollador Full Stack bien calificado y familiarizado con una variedad de herramientas y lenguajes de programación. Autodidacta, capaz de adaptarse fácilmente a cosas nuevas y siempre dispuesto a aceptar desafíos. Maneja cualquier parte del proceso con facilidad. Trabajador de equipo colaborativo con excelentes habilidades técnicas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Loesen",
+            "location": "",
+            "start_date": "2022-10-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de más de 30 características.",
+                "Migración de todas las aplicaciones backend de JavaScript a TypeScript para garantizar la seguridad de tipado.",
+                "Migración de microservicios a Nest.js siguiendo la arquitectura de diseño MVC en menos de 2 semanas.",
+                "Desarrollo aplicaciones siguiendo metodologías de desarrollo de productos ágiles.",
+                "Implementación y consumo de APIs (pagos, envíos, etc.).",
+                "Implementación de Google Analytics.",
+                "Desarrollo de búsqueda de productos compleja y rápida combinando 3 colecciones diferentes mediante índices de MongoDB."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer (contratista)",
+            "company": "DevelopsToday",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2025-03-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño e mejora de UI/UX.",
+                "Desarrollo e implementación servicios AWS como S3, Lambda, SQS y EC2.",
+                "Reducción del lag y el tiempo de carga de ~1.5 segundos a ~300 ms mejorando el renderizado, reduciendo re-renderizados y optimizando imágenes.",
+                "Creación de un convector de Audio a Letras utilizando el modelo AI Whisper de ChatGPT y diseño de la arquitectura para implementarlo dentro de los servicios de AWS.",
+                "Desarrollo de APIs con Django."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista en Sistemas de Información",
+            "institution": "Universidad Nacional de Misiones",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "next.js",
+                "vue3",
+                "sass",
+                "tailwind",
+                "git",
+                "node.js",
+                "mongodb",
+                "python",
+                "nestjs",
+                "django",
+                "google-analytics",
+                "aws-services",
+                "docker",
+                "postgresql",
+                "mysql",
+                "angular"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Nivel profesional completo"
+        },
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,146 @@
+{
+  "personal_info": {
+    "first_name": "José Fernando",
+    "last_name": "Hernandez Angulo",
+    "email": "josefer.hdeza@gmail.com",
+    "phone": "+52 6441394548",
+    "location": {
+      "country": "Mexico",
+      "city": "",
+      "state": "Sonora"
+    },
+    "linkedin": "https://linkedin.com/in/josefer",
+    "website": "",
+    "portfolio": "",
+    "summary": "FullStack Developer specializing in building scalable web applications with React, Node.js, NestJS, Typescript, Java, Spring Boot, SQL and NoSQL. Experienced in backend modernization, database optimization, and full-cycle Agile development. Ready to deliver robust and high-quality solutions from day one."
+  },
+  "work_experience": [
+    {
+      "job_title": "Full Stack Developer",
+      "company": "RedPoint Arquitectura de negocios",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Develop dynamic and optimized interfaces with React.",
+        "Participate in the migration from Java 7 to Java Spring.",
+        "Modernize and restructure the backend with Spring Boot.",
+        "Improve performance and scalability in migration projects."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Intern",
+      "company": "Down Center",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "currently_working": false,
+      "responsibilities": [
+        "Contributed to the development of a scalable educational management system, participating from requirements analysis to system architecture.",
+        "Implemented high-performance full-stack features using React and Laravel, achieving up to 75% faster load times through advanced caching strategies on the frontend.",
+        "Designed and optimized a relational MySQL database, enhancing query performance and data integrity.",
+        "Acted as SCRUM Master, facilitating Agile ceremonies and ensuring team alignment throughout sprints."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Freelance Project",
+      "company": "Nest UP",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "currently_working": false,
+      "responsibilities": [
+        "Designed and implemented a scalable RESTful API using NestJS, TypeScript, and PostgreSQL.",
+        "Integrated Swagger for complete API documentation and testing.",
+        "Implemented secure user authentication and managed dynamic role-based permissions and ensured proper access control.",
+        "Optimized query time for database requests by around 45%."
+      ],
+      "achievements": [],
+      "repository_url": "https://github.com/josefer09/Nest-Up"
+    },
+    {
+      "job_title": "FullStack Developer",
+      "company": "UpTask",
+      "location": "",
+      "start_date": "2024-07-01",
+      "end_date": "2024-08-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Developed 'UpTask' a comprehensive Kanban board application with authentication, task management, notes, and collaboration features."
+      ],
+      "achievements": [],
+      "repository_url": "https://github.com/josefer09/UpTask_FullStack"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's Degree in Software Engineering",
+      "institution": "INSTITUTO TECNOLOGICO de SONORA",
+      "location": "Sonora, Mexico",
+      "start_date": "2020-08-01",
+      "end_date": "2025-07-01",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "java",
+        "jsp",
+        "jpa",
+        "spring",
+        "spring-security",
+        "spring-cloud",
+        "git",
+        "typescript",
+        "javascript",
+        "react",
+        "node.js",
+        "nestjs",
+        "express.js",
+        "sql",
+        "postgresql",
+        "mongodb",
+        "api",
+        "docker",
+        "kubernetes",
+        "microservices",
+        "mvc",
+        "rup",
+        "tanstack",
+        "react-hooks",
+        "scrum",
+        "uml",
+        "webhooks",
+        "jwt",
+        "auth"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "B2"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

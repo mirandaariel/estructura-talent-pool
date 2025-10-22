@@ -1,0 +1,130 @@
+{
+    "personal_info": {
+        "first_name": "Nicolas",
+        "last_name": "Pinzon",
+        "email": "nicolaspinzon472@gmail.com",
+        "phone": "(57) 116426-2233",
+        "location": {
+            "country": "",
+            "city": "CABA",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Analista QA con más de 5 años de experiencia en testing manual y conocimientos en automatización. Amplia experiencia trabajando con JIRA, pruebas funcionales, documentación de bugs, y generación de informes. Capacidad para trabajar en equipo, metódico, orientado a la mejora continua y con fuerte compromiso con la calidad del software. Conocimientos en SQL, Selenium y herramientas de BI."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista QA Manual & Automation",
+            "company": "All Online Solutions S.U. \"Colppy\"",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Ejecución de pruebas funcionales sobre la plataforma contable y mobile.",
+                "Diseño y ejecución de casos de prueba manuales y automatizados.",
+                "Validación de nuevas funcionalidades y regresiones sobre entornos de testing.",
+                "Identificación, documentación y seguimiento de bugs en JIRA."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista QA SSr",
+            "company": "Tsoft Banco Credicoop",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Ejecución de pruebas funcionales sobre aplicaciones del Banco: Banca ATM y TAS (cajeros automáticos), IVR, Turnero, Billetera 'Mi Pago', Sitio Web y Gestión de Procesos.",
+                "Redacción de plan de pruebas (PDP) previo a la carga en JIRA.",
+                "Elaboración y ejecución de casos de prueba (Test Cases) como subtareas en JIRA.",
+                "Detección y documentación de bugs: generación de tickets y registro de evidencia.",
+                "Seguimiento de defectos junto a desarrolladores."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Consultor BI",
+            "company": "Tsoft",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2021-01-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de dashboards y reportes en Tableau para clientes como Claro.",
+                "Uso de bases de datos SQL para conexión y modelado de datos.",
+                "Creación de reportes forecasting mediante integración de múltiples tablas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Estudio Tecnico en Sistemas",
+            "institution": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "2014-01-01",
+            "hours": 0
+        },
+        {
+            "degree": "Lenguaje de Programacion Visual Basic 6.0",
+            "institution": "Instituto Udemy",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Introducción a Base de datos y SQL",
+            "institution": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador WEB",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "sql",
+                "selenium",
+                "playwright"
+            ],
+            "soft": [
+                "teamwork",
+                "methodical",
+                "commitment"
+            ],
+            "tools": [
+                "jira",
+                "tableau"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

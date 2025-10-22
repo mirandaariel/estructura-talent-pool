@@ -1,0 +1,110 @@
+{
+    "personal_info": {
+        "first_name": "Gianfranco",
+        "last_name": "Moscarella",
+        "email": "giannmosca7@gmail.com",
+        "phone": "+54 11-3946-6807",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/gianfranco-moscarella-387482236/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Profesional con experiencia en gestión de proyectos, administración y capacitación. Orientado a la optimización de procesos y resultados, con habilidades técnicas en desarrollo de software y manejo de herramientas informáticas. Capacidad para coordinar equipos, gestionar recursos y adaptar soluciones en entornos dinámicos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Administrativo (Servicios de Comunicaciones)",
+            "company": "Banco Nación (BNA)",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Gestión y ejecución de proyectos, asegurando su óptima realización en tiempo y forma.",
+                "Control de mutuos, tanto como de líneas móviles, como licencias de Adobe.",
+                "Orientación sobre contrataciones de vinculo de internet a sucursales nivel nacional, comunicación con proveedores y áreas internas del Banco para su coordinación a la hora de contratar el servicio."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Entrenador",
+            "company": "Arcos Dorados S.A.",
+            "location": "",
+            "start_date": "2021-05-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Capacitación y entrenamiento de personal en el uso adecuado de herramientas de trabajo.",
+                "Desarrollo e implementación de programas de formación para mejorar habilidades técnicas y operativas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura Universitaria en Programación",
+            "institution": "Universidad Tecnológica Nacional Avellaneda",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Ciencias Económicas",
+            "institution": "Instituto Inmaculada Concepción",
+            "location": "",
+            "start_date": "2015-03-01",
+            "end_date": "2021-11-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "java",
+                "javascript"
+            ],
+            "soft": [],
+            "tools": [
+                "linux",
+                "docker",
+                "github",
+                "excel"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Desarrollo de un juego",
+            "description": "Desarrollo de un juego como parte del proyecto curricular.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Implementación y despliegue de páginas web",
+            "description": "Implementación y despliegue de páginas web utilizando Docker y Linux.",
+            "technologies": ["docker", "linux"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

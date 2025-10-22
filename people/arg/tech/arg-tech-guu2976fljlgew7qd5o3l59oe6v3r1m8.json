@@ -1,0 +1,146 @@
+{
+    "personal_info": {
+        "first_name": "Leopoldo",
+        "last_name": "Lorenzo",
+        "email": "leolorenzo201123@gmail.com",
+        "phone": "3517569078",
+        "location": {
+            "country": "Argentina",
+            "city": "Cordoba",
+            "state": ""
+        },
+        "linkedin": "LinkedIn Link",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Moderador de Operaciones",
+            "company": "tuQuejaSuma",
+            "location": "Cordoba, Argentina",
+            "start_date": "2022-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Resolví el 85% de las quejas de los consumidores en un plazo promedio de 48 horas, fomentando la confianza y satisfacción entre los usuarios.",
+                "Incrementé la eficiencia en la resolución de reclamos en un 25% mediante la optimización de procesos, reduciendo demoras y mejorando el rendimiento general del equipo.",
+                "Mejoré la experiencia del usuario en un 30% al desarrollar vías de comunicación claras, promoviendo una colaboración fluida entre los consumidores y las empresas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista Funcional",
+            "company": "CIDS",
+            "location": "Cordoba, Argentina",
+            "start_date": "2024-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Mejoré los estándares de documentación de proyectos creando registros completos, lo que permitió una mayor trazabilidad y precisión en la toma de decisiones.",
+                "Optimicé los procesos de solicitud de cambios, reduciendo el tiempo de análisis en un 30% y asegurando la entrega puntual de actualizaciones.",
+                "Perfeccioné los procesos de recopilación de requisitos mediante la introducción de entrevistas estructuradas, incrementando la precisión de los requisitos en un 25%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Testing",
+            "company": "CIDS",
+            "location": "Cordoba, Argentina",
+            "start_date": "2024-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Colaboré con equipos multifuncionales, logrando una reducción del 20% en el tiempo de resolución de errores gracias a la elaboración de informes detallados.",
+                "Optimicé los procesos de creación de casos de prueba, aumentando la velocidad de ejecución en un 15% sin comprometer los estándares de calidad.",
+                "Desarrolé planes de prueba integrales, mejorando la eficiencia del testing en un 25% y asegurando la alineación con los objetivos del proyecto.",
+                "Identifiqué y reporté errores críticos utilizando TFS, reduciendo en un 30% la filtración de defectos en las versiones de producción."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Diseñador UX/UI",
+            "company": "CIDS",
+            "location": "Cordoba, Argentina",
+            "start_date": "2024-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñé prototipos interactivos en Figma, mejorando la experiencia del usuario en un 30% mediante interfaces intuitivas y accesibles.",
+                "Colaboré con analistas y desarrolladores para asegurar la coherencia entre diseño, requerimientos y funcionalidad del producto final.",
+                "Implementé pruebas de usabilidad con usuarios reales, obteniendo feedback valioso que permitió reducir errores de navegación en un 20%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingenieria en Sistemas",
+            "institution": "Universidad Tecnologica de Cordoba",
+            "location": "Cordoba, Argentina",
+            "start_date": "",
+            "end_date": "2026-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "java",
+                "javascript",
+                "html5",
+                "css3",
+                "react.js",
+                "node.js",
+                "express",
+                "sequelize",
+                "sqlite",
+                "sql-server"
+            ],
+            "soft": [],
+            "tools": [
+                "power-bi",
+                "linux",
+                "microsoft-office-2024",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "OJOS EN ALERTA y GUARDIA LOCAL",
+            "description": "Diseñé el prototipo de la interfaz de usuario (UX), mejorando la accesibilidad y la experiencia de los ciudadanos y las autoridades.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "EliReyna",
+            "description": "Diseñé e implementé el 100% de la arquitectura frontend de elireyna.com utilizando componentes de React.js.",
+            "technologies": ["react.js"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

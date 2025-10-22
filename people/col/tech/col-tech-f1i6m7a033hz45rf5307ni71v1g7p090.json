@@ -1,0 +1,164 @@
+{
+    "personal_info": {
+        "first_name": "Welinton",
+        "last_name": "Suarez",
+        "email": "wesgdeveloper@gmail.com",
+        "phone": "+57 3208719438",
+        "location": {
+            "country": "Colombia",
+            "city": "Cucuta",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/welinton-suarez",
+        "website": "https://www.welintondev.com/",
+        "portfolio": "www.github.com/wesgdev1",
+        "summary": "Soy ingeniero de sistemas y desarrollador Full Stack con experiencia en tecnologías como JavaScript, Node, React, Express, SQL y Git. Mi pasión por la tecnología se combina con un estilo de vida activo, donde el equilibrio entre lo digital y lo físico es fundamental. Busco oportunidades desafiantes en el desarrollo web para contribuir con soluciones innovadoras y creativas."
+    },
+    "work_experience": [
+        {
+            "job_title": "Ejecutor técnico",
+            "company": "Talento tech Oriente",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Guiado de estudiantes en la construcción de estructuras web y fundamentos de IA.",
+                "Impartición del Bootcamp de Programación Básica.",
+                "Enseñanza de HTML, CSS, JavaScript y Python."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Backend developer",
+            "company": "No Country",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé APIs REST con JavaScript y TypeScript.",
+                "Implementé servidores con Express e integré Cloudinary y sockets.",
+                "Desarrollé soluciones de envío de correos con NodeMailer."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web Full Stack",
+            "company": "Make It Real",
+            "location": "",
+            "start_date": "2023-05-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideré la implementación de filtros en frontend mejorando la UX.",
+                "Desempeñé un papel clave en pruebas del backend."
+            ],
+            "achievements": [
+                "Mejoró la experiencia del usuario reduciendo el tiempo de búsqueda en un 30%."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Administrador TI",
+            "company": "Prolink comunicaciones",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2023-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementé herramientas para mejorar la gestión y monitoreo de redes."
+            ],
+            "achievements": [
+                "Reducción significativa de tiempos de respuesta ante fallos."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Administrador de Redes",
+            "company": "Emsitel",
+            "location": "",
+            "start_date": "2014-06-01",
+            "end_date": "2017-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestioné la latencia en la red para pérdida de tiempo ante fallos."
+            ],
+            "achievements": [
+                "Mejora del 20% en la fluidez de la navegación de los usuarios."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Developer",
+            "institution": "Make it Real",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniero de Sistemas",
+            "institution": "Universidad Francisco de Paula Santander",
+            "location": "",
+            "start_date": "2007-01-01",
+            "end_date": "2012-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "node",
+                "postgresql",
+                "git",
+                "github",
+                "next-js"
+            ],
+            "soft": [
+                "trabajo-de-equipo",
+                "gestion-del-tiempo",
+                "gestion-del-estres"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Manuel Ortega",
+            "relationship": "Full Stack Web Developer",
+            "contact": "Cél +57 310 6907370"
+        },
+        {
+            "name": "Carlos Sepulveda",
+            "relationship": "Aldeamo/ CTO",
+            "contact": "Cél +57 300 6604966"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "personal_info": {
+        "first_name": "Dany",
+        "last_name": "Mitte Mercado",
+        "email": "mittedany547@gmail.com",
+        "phone": "+593969588973",
+        "location": {
+            "country": "Ecuador",
+            "city": "Quito",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "www.danymitte.vercel.app",
+        "portfolio": "",
+        "summary": "Profesional proactivo y orientado a resultados, con experiencia en entornos dinámicos y capacidad comprobada para adaptarse a nuevos desafíos. Me caracterizo por mi compromiso, habilidades de comunicación y enfoque en la mejora continua. Busco oportunidades que me permitan crecer profesionalmente mientras aporto valor con mis conocimientos y habilidades."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador FullStack",
+            "company": "Almacenes el dorado",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Integré WooCommerce con pasarelas de pago como MedianetPay, y desarrollé un sistema de gestión de pedidos personalizados, permitiendo una operación de ecommerce segura y escalable.",
+                "Diseñe y optimice una API RESTful para conectar el sistema web con un sistema contable externo, utilizando Node.js, mejorando la sincronización de datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FullStack",
+            "company": "Epmapse",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñe y desarrollé una nueva plataforma interna para la gestión de usuarios y Facturacion, implementando una arquitectura modular con Node, Express y Mysql, lo cual permitió automatizar procesos manuales y mejorar la eficiencia operativa."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Backend",
+            "company": "Biresdev",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrolle la lógica de backend para funciones de llamadas y videollamadas en tiempo real utilizando WebRTC, Socket.io y Express, garantizando baja latencia y alta disponibilidad."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ing. Tecnología de la información",
+            "institution": "Universidad Tecnica Luis Vargas Torres",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typecript",
+                "docker",
+                "c#",
+                "net",
+                "vue",
+                "sqlserver",
+                "postgres",
+                "nodejs",
+                "react",
+                "websocket"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Fundamentos Profecionales del Desarrollo del Software",
+            "issuing_organization": "Microsoft y linkedin",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Typecript Avanzado",
+            "issuing_organization": "HackerRank",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Fiorella Prado",
+            "relationship": "Profesional",
+            "contact": "0989833937"
+        },
+        {
+            "name": "Estefanía Veliz",
+            "relationship": "Personal",
+            "contact": "0990459696"
+        },
+        {
+            "name": "Yilson Mitte",
+            "relationship": "Personal",
+            "contact": "0995831948"
+        }
+    ]
+}

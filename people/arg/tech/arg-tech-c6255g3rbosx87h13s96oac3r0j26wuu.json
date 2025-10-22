@@ -1,0 +1,106 @@
+{
+  "personal_info": {
+    "first_name": "Antonella",
+    "last_name": "Aguiar",
+    "email": "antonellasamiraaguiar@gmail.com",
+    "phone": "+54 11 7036-4751",
+    "location": {
+      "country": "Argentina",
+      "city": "Buenos Aires",
+      "state": ""
+    },
+    "linkedin": "https://linkedin.com/in/antonella-aguiar",
+    "website": "https://github.com/antonella-aquiar",
+    "portfolio": "",
+    "summary": "Desarrolladora Full Stack con 2 años de experiencia. Entusiasta del backend y la optimización de procesos, con sólidos conocimientos en React, Laravel y TypeScript, y con facilidad para desarrollar soluciones front-end efectivas. Comprometida con el aprendizaje continuo y motivada por enfrentar nuevos desafíos técnicos y profesionales. Integro herramientas de IA como GitHub Copilot, ChatGPT o V0 para optimizar flujos de desarrollo, resolver bloqueos y mejorar la calidad del código."
+  },
+  "work_experience": [
+    {
+      "job_title": "Desarrolladora Full Stack Junior",
+      "company": "Ikiguiar",
+      "location": "",
+      "start_date": "2024-01-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollé sistemas de facturación y landing pages modernas usando React + Laravel.",
+        "Realicé integración de bases de datos y diseño de modelos con Eloquent.",
+        "Implementé autenticación y validación de formularios complejos con Inertia.js y TypeScript.",
+        "Colaboración en el despliegue de proyectos web mediante Git, FTP y paneles de control (cPanel/Plesk).",
+        "Utilicé herramientas de IA como Copilot y ChatGPT para mejorar la productividad, especialmente en generación de funciones repetitivas y documentación técnica."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachillerato en Economía y Administración",
+      "institution": "Escuela Secundaria N.2 'Bernardino Rivadavia'",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": ["html5", "css", "javascript", "typescript", "react-js", "php", "mysql", "laravel"],
+      "soft": [],
+      "tools": ["github", "ia"]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [
+    {
+      "name": "Desarrollo Web + JavaScript + React",
+      "issuing_organization": "Coderhouse",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Python Principiante",
+      "issuing_organization": "Educación IT",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Mandrake",
+      "description": "Sistema de administración de repuestos automotrices con filtros de búsqueda avanzados, carrito para ventas y ABM de productos. Incluye roles y permisos para controlar accesos y funciones.",
+      "technologies": [],
+      "url": ""
+    },
+    {
+      "name": "Juan Perez",
+      "description": "Panel administrativo para gestionar productos (categoría, color, marca, precio), facturación con AFIP, configuración de caja con lector, administración de usuarios, proveedores y roles. Área exclusiva para proveedores donde pueden gestionar sus ventas y solicitar retiros de crédito.",
+      "technologies": [],
+      "url": ""
+    },
+    {
+      "name": "Rápido Ventas",
+      "description": "Sistema de gestión para administración de ventas, productos, clientes, proveedores y cajeros. Ofrece control detallado de movimientos de caja para una administración precisa.",
+      "technologies": [],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Avanzado"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

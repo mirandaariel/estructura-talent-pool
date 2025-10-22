@@ -1,0 +1,125 @@
+{
+    "personal_info": {
+        "first_name": "Dante Nicolás",
+        "last_name": "Caballero",
+        "email": "dantenico1002@gmail.com",
+        "phone": "3751-564869",
+        "location": {
+            "country": "Argentina",
+            "city": "Montecarlo",
+            "state": "Misiones"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Fullstack en formación con 3 años de experiencia práctica en proyectos personales y voluntarios. Manejo de tecnologías Frontend (HTML, CSS, JavaScript, React.js, Tailwind) y Backend (Node.js, Express, TypeScript). Apasionado por el aprendizaje continuo, trabajo en equipo y buenas prácticas de desarrollo ágil."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "Independiente",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño e implementación de aplicaciones web completas usando React.js, Tailwind CSS y Bootstrap en el Frontend.",
+                "Desarrollo de APIs REST con Node.js, Express y TypeScript para servicios de backend.",
+                "Integración de bases de datos y gestión de datos en proyectos de clientes y proyectos propios.",
+                "Asesoría personalizada y mentoría en tecnologías web, creando ejercicios y pequeños proyectos para estudiantes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend React.js",
+            "company": "Igrowker",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboré en la creación de una App Web para la automatización de eventos utilizando React.js.",
+                "Implementé funcionalidades para el registro y la inscripción de usuarios.",
+                "Desarrollé la generación de códigos QR para el control de asistencia."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Analista de Sistemas",
+            "institution": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "javaScript",
+                "css",
+                "react.js",
+                "bootstrap",
+                "typeScript",
+                "tailwind-css",
+                "node.js",
+                "express"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Introducción al Desarrollo Web",
+            "issuing_organization": "Ticmas Academy",
+            "issue_date": "2021-01-01",
+            "expiration_date": "2022-12-31",
+            "credential_id": ""
+        },
+        {
+            "name": "Lógica de Programación con JavaScript",
+            "issuing_organization": "Alura Latam",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo Frontend React.js",
+            "issuing_organization": "Igrowker",
+            "issue_date": "2024-07-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Ofimática (Word, Excel)",
+            "issuing_organization": "Educación IT",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

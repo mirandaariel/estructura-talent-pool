@@ -1,0 +1,192 @@
+{
+    "personal_info": {
+        "first_name": "Franco",
+        "last_name": "Valdez",
+        "email": "francomartinvaldez99@gmail.com",
+        "phone": "+54 3704616884",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba Capital",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con experiencia en desarrollo web y optimización de e-commerce. Hábil en JavaScript, Node.js, React, SQL y MongoDB. Experiencia en diseño y gestión de plataformas online, logrando incrementos en ventas y automatización de procesos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista de Soporte y Automatización de Procesos",
+            "company": "Zapasclub",
+            "location": "Córdoba, Argentina",
+            "start_date": "2025-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Encargado de la automatización de procesos utilizando la plataforma Make.",
+                "Gestionar la tienda en línea, asegurando una experiencia de usuario fluida y efectiva.",
+                "Proporcionar soporte para la base de datos gestionada en Notion.",
+                "Enfocarse en automatizar tareas repetitivas para liberar tiempo y recursos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Encargado de Logística y Desarrollo E-commerce",
+            "company": "Mundo Estilistas",
+            "location": "Córdoba, Argentina",
+            "start_date": "2023-09-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y optimicé la tienda online utilizando Tienda Nube.",
+                "Implementé estrategias de ventas en Mercado Libre.",
+                "Facturación con Xubio y mejora en procesos de gestión de pedidos.",
+                "Creación de catálogos y listas de precios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "HAMaderas",
+            "location": "",
+            "start_date": "2023-06-01",
+            "end_date": "2023-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño e implementación de página web responsiva con React y Tailwind.",
+                "Integración de EmailJS para consultas de clientes."
+            ],
+            "achievements": [],
+            "repository_url": "https://hamaderas.com"
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "DMArquitectura",
+            "location": "",
+            "start_date": "2023-05-01",
+            "end_date": "2023-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de sitio web responsivo con React.js y CSS.",
+                "Integración de EmailJS para formularios de contacto."
+            ],
+            "achievements": [],
+            "repository_url": "http://dmarquitectura.netlify.app/"
+        },
+        {
+            "job_title": "Cofundador y Administrador de e-commerce",
+            "company": "Vdz Business SAS",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación y administración de tienda virtual de calzados.",
+                "Gestión de órdenes, coordinación con proveedores y optimización de inventario."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Superior en Desarrollo de Software",
+            "institution": "ISPC (Instituto Superior Politécnico de Córdoba)",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Certificado en Desarrollo Full Stack",
+            "institution": "Bootcamp Soy Henry",
+            "location": "",
+            "start_date": "2022-11-01",
+            "end_date": "2023-01-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Electrónica (En curso)",
+            "institution": "Universidad Nacional de Córdoba",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Educación secundaria",
+            "institution": "Instituto San Francisco de Asís",
+            "location": "",
+            "start_date": "2011-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react.js",
+                "redux",
+                "tailwind",
+                "html5",
+                "css3",
+                "node.js",
+                "express.js",
+                "sequelize",
+                "postgreSQL",
+                "mySQL",
+                "javascript",
+                "typescript",
+                "python",
+                "c#"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "firebase-auth",
+                "make(integromat)",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Fusionajob",
+            "description": "Desarrollo de una plataforma de postulaciones para empleo en IT.",
+            "technologies": ["Node.js", "Express", "PostgreSQL", "React", "Redux", "JWT"],
+            "url": "https://fusionajob.vercel.app/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Facilitador e-commerce",
+            "organization": "",
+            "location": "Remote",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "responsibilities": [
+                "Asistencia en gestión de tienda online y atención a clientes.",
+                "Actualización del catálogo de productos y coordinación con el equipo de ventas."
+            ]
+        }
+    ],
+    "publications": [],
+    "references": []
+}

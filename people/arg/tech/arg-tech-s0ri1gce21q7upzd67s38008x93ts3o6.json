@@ -1,0 +1,137 @@
+{
+    "personal_info": {
+        "first_name": "Francisco",
+        "last_name": "Ferreyra",
+        "email": "fran.ferreyra98@gmail.com",
+        "phone": "3515296519",
+        "location": {
+            "country": "Argentina",
+            "city": "Cordoba",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "University student and computer systems analyst with experience in frontend and backend development."
+    },
+    "work_experience": [
+        {
+            "job_title": "Junior Fullstack Developer",
+            "company": "QUANTEX",
+            "location": "Cordoba, Argentina",
+            "start_date": "2022-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Create and maintain user interface components",
+                "Use HTML, CSS, and JavaScript to implement design",
+                "Work to improve the user experience",
+                "Configure the client-side to interact with the backend and database",
+                "Participate in test execution and documentation",
+                "Design, implement, and maintain APIs",
+                "Write basic code",
+                "Fix bugs or error messages",
+                "Unit tests",
+                "Gather user feedback",
+                "Work as a team with other developers and designers"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Checking Accountant Executive",
+            "company": "EDIFICOR",
+            "location": "Cordoba, Argentina",
+            "start_date": "2021-03-01",
+            "end_date": "2022-07-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Purchasing and Production Area Assistant",
+            "company": "WINEEM",
+            "location": "Cordoba, Argentina",
+            "start_date": "2020-03-01",
+            "end_date": "2022-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Management and study of projections sheets according to sales",
+                "Link between production, logistics, and quality"
+            ],
+            "achievements": [],
+            "repository_url": "https://www.wineem.com.ar"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computer Systems Analyst",
+            "institution": "Instituto Educacion Superior (IES)",
+            "location": "Cordoba, Argentina",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "High School with Humanities Orientation",
+            "institution": "Santo Tomas de Aquino",
+            "location": "Cordoba, Argentina",
+            "start_date": "2013-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "svelte",
+                "html",
+                "css",
+                "c#",
+                ".net",
+                "golang",
+                "sql",
+                "python"
+            ],
+            "soft": [],
+            "tools": [
+                "microsoft-office",
+                "autocad",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": {
+                "javascript": [],
+                "python": [],
+                "golang": []
+            },
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "ICC - KET - PET certificates",
+            "issuing_organization": "Kent Institute",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

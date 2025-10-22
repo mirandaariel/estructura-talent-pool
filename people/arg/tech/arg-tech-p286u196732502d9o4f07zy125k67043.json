@@ -1,0 +1,66 @@
+{
+    "personal_info": {
+        "first_name": "Emiliano Ezequiel",
+        "last_name": "Grimaldi",
+        "email": "grimaldi385@gmail.com",
+        "phone": "1141635953",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/emigrima22",
+        "website": "",
+        "portfolio": "https://github.com/emigrima22",
+        "summary": "Enfocado en la solución de problemas, desarrollo de aplicaciones escalables y robustas. Estudiante de la tecnicatura en programación, cursando las últimas materias de la carrera. Capacidad de trabajo en equipo y bajo presión. Siempre dispuesto a seguir aprendiendo en el proceso. Amante de la tecnología, con ganas de poner en práctica mis conocimientos bajo un entorno profesional. Contribuir al progreso de la empresa desde donde me toque estar."
+    },
+    "work_experience": [],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                ".net",
+                "python",
+                "javascript",
+                "express-js",
+                "html",
+                "css",
+                "bootstrap",
+                "git",
+                "linux"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "JUEGO 2D utilizando Python",
+            "description": "Juego 2D utilizando Python con la librería pygame. El objetivo es conseguir el trofeo esquivando los diferentes obstáculos y enemigos del nivel, a medida que se avanza de nivel se van obteniendo poderes. Cuenta con diferentes niveles y mecánicas progresivas que aumentan la dificultad a medida que se avanza.",
+            "technologies": ["python", "pygame"],
+            "url": "https://github.com/<github-url>"
+        },
+        {
+            "name": "Game Reel",
+            "description": "Game Reel es una página ecommerce de juegos y películas. La funcionalidad de la aplicación fue desarrollada con JavaScript sin frameworks. El desarrollo de la API y el backend fue hecho con Express JS y la base de datos con MySQL.",
+            "technologies": ["html", "css", "bootstrap", "javascript", "express-js", "mysql"],
+            "url": "https://github.com/<github-url>"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

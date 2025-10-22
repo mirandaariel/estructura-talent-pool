@@ -1,0 +1,110 @@
+{
+    "personal_info": {
+        "first_name": "Santiago",
+        "last_name": "Diaz F",
+        "email": "diazfiesco@gmail.com",
+        "phone": "311 721 84 79",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/santiago-diaz-fiesco",
+        "website": "",
+        "portfolio": "",
+        "summary": "Tecnólogo de análisis y desarrollo de software en el SENA, dedicado a aprender y reforzar mis conocimientos por medio de distintos medios de aprendizaje. Busco oportunidades de ampliar y aplicar mis conocimientos en pro de mi desarrollo laboral y personal. Soy una persona de valores con una alta disposición frente al trabajo, soy una persona proactiva y capaz de trabajar bajo presión, con una rápida capacidad de aprendizaje y de trabajo en equipo"
+    },
+    "work_experience": [
+        {
+            "job_title": "Auxiliar de operaciones",
+            "company": "Cafeto Software",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollador Auxiliar, apoyo en el área de automatización de los proceso principales de la empresa con el programa de power automate"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador",
+            "company": "Soluciones superiores de ingeniería S.A.S",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollador front end, creación de módulos para la actualización de datos en catastro de Tulua"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachiller Tecnico",
+            "institution": "I. E. CARDENAS M.",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en diseño e integración multimedia",
+            "institution": "SENA",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnólogo en análisis y desarrollo de software",
+            "institution": "SENA",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "node-js",
+                "python",
+                "bootstrap",
+                "mysql"
+            ],
+            "soft": [
+                "aprendizaje-rapido",
+                "comunicación",
+                "toma-de-decisiones",
+                "gestión-del-tiempo",
+                "trabajo-en-equipo"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Software para análisis de datos",
+            "description": "Participación en el desarrollo de un software para análisis de datos, creado en su mayoría con Python. La herramienta permite generar gráficos e información útil para el trabajo del analista.",
+            "technologies": ["python"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

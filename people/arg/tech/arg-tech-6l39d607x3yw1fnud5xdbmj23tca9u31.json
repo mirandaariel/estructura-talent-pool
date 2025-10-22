@@ -1,0 +1,113 @@
+{
+    "personal_info": {
+        "first_name": "Mateo",
+        "last_name": "Mendoza Matus",
+        "email": "mateomendozamatus@gmail.com",
+        "phone": "221 506-5276",
+        "location": {
+            "country": "Argentina",
+            "city": "La Plata",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/mateo-mendoza-matus-b572b7373/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Backend developer with experience and projects in: Spring Boot and JUnit (Java), .NET (C#), Laravel (PHP), and Flask (Python). Strong skills in object-oriented programming, Bash scripting, React, Git, RESTful APIs, testing, refactoring, and design patterns. Currently training in Docker, AWS (Cloud Practitioner), and both relational and non-relational databases. Curious, participative, and critical thinker. Seeking a company where I can grow and keep learning."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Bachelor’s Degree in Computer Science",
+            "institution": "Universidad Nacional de La Plata",
+            "location": "La Plata, Buenos Aires, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "c#",
+                "php",
+                "python",
+                "javascript",
+                "bash",
+                "ruby",
+                "html",
+                "css",
+                "spring-boot",
+                "net",
+                "laravel",
+                "blade",
+                "flask",
+                "react",
+                "mysql",
+                "postgresql",
+                "sqlite",
+                "git",
+                "docker",
+                "mysql-workbench",
+                "vs-code",
+                "restful-apis",
+                "mvc",
+                "solid-principles",
+                "clean-architecture",
+                "refactoring",
+                "unit-testing",
+                "junit",
+                "design-patterns",
+                "aws"
+            ],
+            "soft": [
+                "participative",
+                "self-critical",
+                "curious",
+                "goal-oriented",
+                "adaptable",
+                "quick-learner",
+                "leadership"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Machinery Rental System",
+            "description": "Web application for user management (clients, employees, and administrators) and machinery rental with defined date ranges.",
+            "technologies": ["laravel", "blade", "javascript", "mysql"],
+            "url": "https://github.com/Fraanj/alquiPlus"
+        },
+        {
+            "name": "Case File Information Platform",
+            "description": "Case management system with optimized queries using LINQ.",
+            "technologies": [".net", "blazor", "sqlite"],
+            "url": "https://github.com/CamiiTKD/.NET"
+        },
+        {
+            "name": "Cultural Heritage Registry Application",
+            "description": "Implemented MVC pattern with Flask and a PostgreSQL database.",
+            "technologies": ["flask", "js"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Advanced"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

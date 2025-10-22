@@ -1,0 +1,95 @@
+{
+    "personal_info": {
+        "first_name": "Cristian",
+        "last_name": "Massa",
+        "email": "cristianmassa30@gmail.com",
+        "phone": "+598 092 242 699",
+        "location": {
+            "country": "Uruguay",
+            "city": "Montevideo",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "He impulsado mejoras técnicas que optimizan rendimiento, reducen errores y aceleran tiempos de entrega. Logré escalar sistemas complejos con soluciones eficientes y mantenibles. Mi enfoque combina pensamiento estratégico, autonomía y orientación a resultados. Siempre busco impactar positivamente en el negocio a través de la tecnología."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "D-clicks",
+            "location": "Maldonado, Uruguay",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé dashboards de administración enfocados en una experiencia de usuario intuitiva y funcional.",
+                "Refactoricé funcionalidades existentes para mejorar la mantenibilidad y el rendimiento del código.",
+                "Colaboré en la optimización de queries en la base de datos para acelerar el tiempo de respuesta del sistema.",
+                "Adapté y mejoré el entorno de desarrollo para asegurar compatibilidad con Windows, ya que inicialmente solo funcionaba en entornos Unix."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FullStack",
+            "company": "Freelance",
+            "location": "Montevideo, Uruguay",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web personalizadas para clientes de distintos sectores: e-commerce, gestión de servicios y sistemas internos.",
+                "Participación integral en el ciclo de vida del desarrollo: desde el relevamiento de requerimientos hasta el despliegue en producción.",
+                "Integración de pasarelas de pago (Mercado Pago, Shopify), APIs externas y sistemas de autenticación segura.",
+                "Enfoque en soluciones eficientes, escalables y centradas en la experiencia del usuario final."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas",
+            "institution": "Universidad ORT",
+            "location": "Montevideo, Uruguay",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "react",
+                "next-js"
+            ],
+            "soft": [],
+            "tools": [
+                "material-ui",
+                "redux",
+                "zustand",
+                "context-api"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

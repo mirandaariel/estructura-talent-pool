@@ -1,0 +1,156 @@
+{
+  "personal_info": {
+    "first_name": "Ignacio",
+    "last_name": "Cardozo",
+    "email": "ignaciocardozo745@gmail.com",
+    "phone": "",
+    "location": {
+      "country": "Argentina",
+      "city": "",
+      "state": ""
+    },
+    "linkedin": "",
+    "website": "",
+    "portfolio": "",
+    "summary": "Passionate Software Developer with experience in structuring and developing Software Systems. My goal is to create innovative and scalable technological solutions that drive business growth. I stand out for designing attractive and functional user interfaces, as well as developing dynamic applications, managing from Frontend to Backend. Organized, methodical, responsible and proactive, I look for new challenges to improve my technical skills and deliver high quality results."
+  },
+  "work_experience": [
+    {
+      "job_title": "Full Stack Developer",
+      "company": "Oracle Next Education",
+      "location": "Remote",
+      "start_date": "2023-06-01",
+      "end_date": "2023-07-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Development of landing pages, dashboard and payment gateway using Next, React-Toolkit and Bootstrap.",
+        "Design of interfaces and frontend elements.",
+        "Implementing server logic using Express.js.",
+        "Database construction to store user information."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Backend Developer",
+      "company": "Grupo Consiti",
+      "location": "Remote",
+      "start_date": "2023-09-01",
+      "end_date": "2023-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Implementation of APIs for obtaining meteorological data integrated with OpenWeatherMap.",
+        "Creation of endpoints which query the API to bring up the current weather depending on the country.",
+        "Request Limitation: Set a limit of 50 requests per hour to manage access and ensure responsible use of the API.",
+        "Development of functionalities such as response caching, request throttling and use of Docker."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Backend Developer",
+      "company": "Grupo Consiti",
+      "location": "Remote",
+      "start_date": "2023-12-01",
+      "end_date": "2024-05-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Use of the API of the Ministry of Finance for Electronic Invoices.",
+        "Refactoring the code and creating a Parameter entity with Odoo.",
+        "Development of the Contingency Service using an API from the Ministry of Finance, creating DTOs and controllers.",
+        "Used Swagger to document and facilitate understanding of the service."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Backend Developer",
+      "company": "Grupo Consiti",
+      "location": "Remote",
+      "start_date": "2024-06-01",
+      "end_date": "2024-08-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Creation of reports which allowed downloading of information of different models.",
+        "Creation of Wizard to select a range of dates to obtain desired information."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Backend Developer",
+      "company": "Freelancer",
+      "location": "Remote",
+      "start_date": "2024-10-01",
+      "end_date": "2024-11-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Version migration of different Odoo Modules.",
+        "Upgrade and increase memory for the server hosted in the cloud.",
+        "Creation of services to retrieve products from an external database.",
+        "Creation of User Interface to display service products created with Spring Boot.",
+        "Docker used for better version handling both on the frontend and on the backend."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "",
+      "institution": "Oracle Next Education",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "javascript",
+        "typescript",
+        "java",
+        "python",
+        "spring-frameworks",
+        "nodejs",
+        "nestjs",
+        "nextjs",
+        "react",
+        "react-native",
+        "flutter",
+        "bootstrap",
+        "tailwind",
+        "postgresql",
+        "mongodb",
+        "oracle",
+        "mysql"
+      ],
+      "soft": [
+        "communication",
+        "teamwork",
+        "problem-solving",
+        "responsibility",
+        "proactivity"
+      ],
+      "tools": [
+        "spoon-etl",
+        "odoo",
+        "docker",
+        "jwt",
+        "swagger",
+        "visual-studio",
+        "android-studio",
+        "eclipse-ide",
+        "mobaxterm"
+      ]
+    },
+    "detailed": {}
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

@@ -1,0 +1,123 @@
+{
+    "personal_info": {
+        "first_name": "Claudio Angelo",
+        "last_name": "Chumpitaz Flores",
+        "email": "rideralucar@gmail.com",
+        "phone": "+51 970353163",
+        "location": {
+            "country": "Peru",
+            "city": "Lima",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un FullStack Developer con experiencia en desarrollo web tanto de Frontend como en Backend, Busco colaborar con una empresa para brindar mis servicios en una posición de Desarrollador WEB me distingo por mi colaboración en trabajo en equipo destacando en tecnologías como Node JS ,React y JS y adaptación a los cambios, a la vez destaco en habilidades blandas debido a mi experiencia en trabajos en las que ha requerido atender y persuadir a los clientes."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Aplicaciones Metatrader (Freelance)",
+            "company": "MqI5.com",
+            "location": "",
+            "start_date": "2020-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Realizar aplicaciones de Metatrader de manera freelance a clientes que deseen mis servicios a través de la página MQL5.",
+                "Manejo de lenguaje C++"
+            ],
+            "achievements": [],
+            "repository_url": "https://www.mqI5.com/es/users/claudioangelo"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "BootCamp Henry",
+            "location": "Argentina",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería Electrónica",
+            "institution": "Universidad Peruana de Ciencias aplicadas",
+            "location": "Lima",
+            "start_date": "2015-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "c++",
+                "html",
+                "css",
+                "mql4",
+                "mql5",
+                "c#",
+                "java"
+            ],
+            "soft": [
+                "adaptación",
+                "trabajo-en-equipo"
+            ],
+            "tools": [
+                "git",
+                "slack",
+                "scrum"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Alien Street (E-commerce)",
+            "description": "Aplicación diseñada para crear una experiencia de compra en línea excepcional para los usuarios interesados en moda. La plataforma permite a los usuarios explorar una amplia variedad de prendas de ropa y realizar compras en línea de manera segura.",
+            "technologies": [
+                "react",
+                "node",
+                "postgresql",
+                "sequelize"
+            ],
+            "url": "https://pf-e-commerce-gray.vercel.app/"
+        },
+        {
+            "name": "Citas Medicas (Proyecto Grupal Cibertec)",
+            "description": "Aplicación web moderna para la gestión eficiente de citas médicas, adaptada para administradores, médicos y pacientes. Centraliza la programación, seguimiento y análisis de citas médicas.",
+            "technologies": [
+                "c#",
+                "asp.net-mvc",
+                "sql-server"
+            ],
+            "url": "https://medical-appointmentsystem20250715163914.azurewebsites.net/account/login"
+        },
+        {
+            "name": "BookStudio - Sistema de Préstamos de Libros",
+            "description": "Aplicación web que gestiona de forma eficiente el préstamo y devolución de libros dentro de una biblioteca universitaria, desarrollada con JSP y Servlets en Java.",
+            "technologies": [
+                "java",
+                "jsp",
+                "servlets",
+                "mysql"
+            ],
+            "url": "https://prestamobiblioteca-production.up.railway.app/"
+        },
+        {
+            "name": "Alquiler de Autos MOVIXPRESS (Proyecto Grupal Cibertec)",
+            "description": "Sistema de alquiler de autos desarrollado con Spring Boot que permite gestionar clientes, vehículos y alquileres de manera eficiente.",
+            "technologies": [
+                "spring-boot",
+                "mysql"
+            ],
+            "url": "https://alquilerautos-production.up.railway.app/login"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

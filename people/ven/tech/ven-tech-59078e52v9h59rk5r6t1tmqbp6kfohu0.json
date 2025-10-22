@@ -1,0 +1,153 @@
+{
+    "personal_info": {
+        "first_name": "Josue",
+        "last_name": "Lopez",
+        "email": "joshu_149@hotmail.com",
+        "phone": "+584242881866",
+        "location": {
+            "country": "Venezuela",
+            "city": "Caracas",
+            "state": ""
+        },
+        "linkedin": "Mi Linkedin",
+        "website": "",
+        "portfolio": "Mi portafolio",
+        "summary": "Detail-oriented and passionate QA Tester with a strong foundation in manual testing and a genuine passion for software testing and delivering high-quality user experiences. Skilled in writing and executing test cases, documenting bugs using tools like Jira and Trello, and collaborating effectively with remote development teams. Familiar with the SDLC, Agile methodologies, and basic scripting with Selenium and Java. Eager to grow in automation and continuously improve testing strategies and practices."
+    },
+    "work_experience": [
+        {
+            "job_title": "QA Tester",
+            "company": "Techforb",
+            "location": "",
+            "start_date": "2025-05-01",
+            "end_date": "2025-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Collaborated with the development team to enhance understanding of client requirements.",
+                "Designed comprehensive test plans.",
+                "Analyzed functional requirements in detail.",
+                "Designed test cases focused on defect prevention, significantly reducing customer-reported issues.",
+                "Utilized Trello for incident management, ensuring clear and effective defect documentation.",
+                "Automated the regression test suite, significantly reducing execution time.",
+                "Provided weekly reports on project progress."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Tester",
+            "company": "UTest",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "2025-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Conducted manual, exploratory, and regression testing across 10+ mobile and web applications, identifying 10+ critical bugs that were resolved prior to release.",
+                "Designed and executed over 100 test cases aligned with user stories, contributing to a 20% reduction in post-release issues.",
+                "Reported, tracked, and verified defects using Jira/Xray, ensuring traceability and detailed documentation throughout the bug lifecycle.",
+                "Collaborated with remote cross-functional teams, demonstrating clear written communication to describe defects and provide structured feedback.",
+                "Maintained thorough documentation to support consistent QA workflows and knowledge sharing."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Manual Testing Course",
+            "institution": "Coursera",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Selenium Webdriver with Java",
+            "institution": "Udemy",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 40
+        },
+        {
+            "degree": "API Testing with Postman",
+            "institution": "Udemy",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "javascript",
+                "python",
+                "selenium",
+                "cypress",
+                "playwright"
+            ],
+            "soft": [
+                "communication",
+                "collaboration"
+            ],
+            "tools": [
+                "jira",
+                "trello",
+                "xray",
+                "postman",
+                "maestro",
+                "github-actions",
+                "jenkins",
+                "mysql",
+                "android-studio"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "ISTQB Certified Tester Foundation Level (Version 4.0)",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Automation with Selenium",
+            "description": "Automated end-to-end (E2E) tests to ensure proper functionality of the web application. Implemented search automation on IMDB using Selenium and Java. Performed regression testing of core functionalities.",
+            "technologies": [
+                "selenium",
+                "java"
+            ],
+            "url": ""
+        },
+        {
+            "name": "E-commerce Website - Opencart",
+            "description": "Developed and executed a comprehensive test plan to validate the core functionalities of an Opencart-based e-commerce website. Designed and ran detailed manual test cases, ensuring the platform's stability and reliability.",
+            "technologies": [
+                "opencart"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Advance (C1)"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

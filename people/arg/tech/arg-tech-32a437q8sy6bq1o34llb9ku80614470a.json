@@ -1,0 +1,105 @@
+{
+    "personal_info": {
+        "first_name": "Gimena",
+        "last_name": "Ledesma",
+        "email": "pledesma066@gmail.com",
+        "phone": "03865-391933",
+        "location": {
+            "country": "Argentina",
+            "city": "Concepción",
+            "state": "Tucumán"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Me considero una persona responsable, puntual y proactiva. Me motiva desarrollar nuevas habilidades y aportar con mis conocimientos y experiencia."
+    },
+    "work_experience": [
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Antonio Luquin S.A.",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "2024-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación de soluciones Fullstack con PHP y Vue.js.",
+                "Gestión de tareas y documentación con Notion.",
+                "Integración de bases de datos con MySQL y SQL Server."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Sitenso (Tensolite S.A.)",
+            "location": "",
+            "start_date": "2021-12-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de secciones robustas y funcionales con PHP (Laravel) bajo arquitecturas MVC y hexagonal.",
+                "Trabajo en equipo bajo metodología ágil Scrum.",
+                "Desarrollo integral de proyectos (frontend y backend).",
+                "Aplicación de metodologías ágiles (Scrum): participación en sprints, daily meetings y retrospectivas.",
+                "Implementación de APIs y pruebas con Postman.",
+                "Maquetación y diseño de interfaces con Bootstrap, Figma y Adobe Illustrator.",
+                "Optimización de bases de datos con MySQL y SQL Server."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Ingeniería de Software",
+            "institution": "TECH Universidad Tecnológica",
+            "location": "A distancia, España",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Electromecánico",
+            "institution": "Escuela Técnica N¹",
+            "location": "Concepción, Tucumán",
+            "start_date": "2007-01-01",
+            "end_date": "2014-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "php",
+                "vue.js",
+                "javaScript",
+                "html",
+                "css",
+                "bootstrap",
+                "mysql",
+                "sql-server"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "gitlab",
+                "notion",
+                "postman",
+                "figma",
+                "adobe-illustrator"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

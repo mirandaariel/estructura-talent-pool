@@ -1,0 +1,185 @@
+{
+    "personal_info": {
+        "first_name": "Dilker",
+        "last_name": "Cartagena Pedraza",
+        "email": "dilker72@gmail.com",
+        "phone": "+5491124785495",
+        "location": {
+            "country": "Bolivia",
+            "city": "Santa Cruz",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/dilker-cartagena-pedraza-1b2b4019b",
+        "website": "",
+        "portfolio": "https://funny-arithmetic-cb7e23.netlify.app",
+        "summary": "Software Developer"
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Unlimitech Cloud",
+            "location": "Remote",
+            "start_date": "2025-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed and maintained scalable full-stack web applications using Node.js (with TypeScript) on the backend and React on the frontend.",
+                "Built secure and modular RESTful APIs for core business logic, integrating external services and managing authentication with JWT.",
+                "Designed responsive and dynamic user interfaces using React.",
+                "Implemented asynchronous communication between services using RabbitMQ to improve performance and decouple processes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Backend Developer",
+            "company": "Batebol - Toyo Batteries",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Designed and implemented a RESTful API microservice for user authentication and registration using Node.js.",
+                "Integrated facial recognition APIs (Luxand) for secure identity validation.",
+                "Used MongoDB and SQL Server for data storage and JWT for authentication.",
+                "Contributed to the migration from a monolithic architecture to microservices using .NET, enhancing system scalability and modularity."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Nsoft",
+            "location": "",
+            "start_date": "2022-11-01",
+            "end_date": "2023-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed and maintained web applications using Node.js, TypeScript, and React (Vite) and C#.Net.",
+                "Designed RESTful APIs with Express, ensuring efficient backend communication.",
+                "Worked with MySQL, SQL Server, and MongoDB for database management.",
+                "Applied design patterns and best practices to optimize code maintainability."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Backend Developer",
+            "company": "Faculty of Humanities - UAGRM",
+            "location": "",
+            "start_date": "2021-03-01",
+            "end_date": "2022-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed a library system for book lending and automated email notifications.",
+                "Worked in a team of 4 developers, managing the project on GitHub.",
+                "Built the backend with Node.js and the frontend with Vue.js and Bootstrap."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Teaching Assistant",
+            "company": "Gabriel René Moreno University - UAGRM",
+            "location": "",
+            "start_date": "2020-02-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Assisted in Data Structures and Introduction to Computer Science courses.",
+                "Provided support in Java and Python programming.",
+                "Guided students in algorithm design and problem-solving.",
+                "Provided support in Databases Course using SQL Server, PostgreSQL, MySQL."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree in Computer Engineering",
+            "institution": "Gabriel Rene Moreno University",
+            "location": "Santa Cruz, Bolivia",
+            "start_date": "",
+            "end_date": "2023-01-01",
+            "hours": 0
+        },
+        {
+            "degree": "English Language Course",
+            "institution": "CBA (Centro Boliviano Americano)",
+            "location": "Santa Cruz, Bolivia",
+            "start_date": "",
+            "end_date": "2024-01-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "node.js",
+                "c#-.net",
+                "javascript",
+                "typescript",
+                "react.js",
+                "nest.js",
+                "java",
+                "python",
+                "algorithms"
+            ],
+            "soft": [],
+            "tools": [
+                "scrum",
+                "git-github",
+                "postman",
+                "swagger",
+                "sql",
+                "nosql",
+                "rabbitmq",
+                "aws-ec2",
+                "aws-s3",
+                "aws-lambda"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "",
+            "issuing_organization": "Hackerrank",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "9d92d13b0f29"
+        },
+        {
+            "name": "",
+            "issuing_organization": "Hackerrank",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "56c27ba4d460"
+        },
+        {
+            "name": "",
+            "issuing_organization": "Hackerrank",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "60bccd781c55"
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "B2"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

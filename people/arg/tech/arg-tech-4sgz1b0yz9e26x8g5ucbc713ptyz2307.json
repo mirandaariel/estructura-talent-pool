@@ -1,0 +1,198 @@
+{
+    "personal_info": {
+        "first_name": "Lair",
+        "last_name": "Belen",
+        "email": "belenlair17@gmail.com",
+        "phone": "+54 3624127420",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Motivada, proactiva y organizada. Apasionada por el mundo IT, disfruto trabajando en equipo y resolviendo problemas de manera creativa e innovadora desde hace 3 años. Mi formación en desarrollo frontend, backend y diseño web, me brinda una perspectiva integral, permitiéndome aportar soluciones completas y bien fundamentadas. Tengo la capacidad de comprender y plasmar la esencia del diseño en cada proyecto, logrando sinergia entre funcionalidad y estética."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Milktech",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo del sitio usando Next.js para aprovechar el SSR y obtener un excelente rendimiento y SEO.",
+                "Creación de componentes responsive y estilos utilizando tailwind css.",
+                "Creación de animaciones en css."
+            ],
+            "achievements": [
+                "Se obtuvo la calificacion maxima en buenas practicas, accesibilidad y SEO segun Lighthouse."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Disruptive Studio",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de componentes responsive en Next.js y TailwindCSS siguiendo principios de clean code (ATOMIC Design, SOLID).",
+                "Implementación de internacionalización (i18n) para múltiples idiomas.",
+                "Integración de APIs y Websockets para datos en tiempo real con Axios.",
+                "Diseño de lógica para manejo de errores en consultas a la base de datos.",
+                "Creación de sistema de branding con personalización de interfaz.",
+                "Implementación de lógica para gestión de permisos según roles de usuario.",
+                "Responsable del proceso de Code Review del frontend."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Disruptive Studio",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Responsable del diseño UX/UI para una experiencia de usuario optimizada.",
+                "Creación de interfaces accesibles y gestión de permisos de clientes.",
+                "Integración con APIs para gestión de usuarios y administradores.",
+                "Creacion de web components para optimizar carga y para garantizar escalabilidad.",
+                "Responsable de brindar diseño responsive a todo el proyecto."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Disruptive Studio",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de componentes reutilizables con principios SOLID.",
+                "Internacionalización del sitio para múltiples idiomas.",
+                "Implementación de temas dinámicos y dark mode.",
+                "Integración de APIs y gestión avanzada de errores."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Disruptive Studio",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo completo de componentes con diseño responsive.",
+                "Implementación de internacionalización para múltiples idiomas.",
+                "Consumo de APIs y Websockets para datos en tiempo real.",
+                "Gestion de errores en todo el sitio para garantizar una experiencia de usuario optima."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 700
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 450
+        },
+        {
+            "degree": "Frontend Developer",
+            "institution": "Autodidacta",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "html5",
+                "css3",
+                "sass",
+                "react",
+                "next.js",
+                "redux",
+                "tailwindcss",
+                "axios",
+                "websockets",
+                "graphql",
+                "framer-motion",
+                "storybook",
+                "i18n",
+                "node.js"
+            ],
+            "soft": [
+                "responsable",
+                "actitud-positiva",
+                "autodidacta",
+                "adaptable",
+                "creativa",
+                "sociable"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "gitlab",
+                "azure-repos",
+                "webpack",
+                "azure",
+                "figma",
+                "postman",
+                "aws-cloudfront",
+                "jest",
+                "react-testing-library",
+                "cypress"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "SCRUM Certification - Fundamentals of Project Management",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "C1 (Reading, writing, listening), B2 (Speaking)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

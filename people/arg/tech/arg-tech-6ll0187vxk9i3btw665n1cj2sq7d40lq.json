@@ -1,0 +1,169 @@
+{
+    "personal_info": {
+        "first_name": "Kevin Agustin",
+        "last_name": "Ruiz",
+        "email": "kevinagustinrockz@gmail.com",
+        "phone": "+54 11-5596-3637",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "LinkedIn",
+        "website": "",
+        "portfolio": "GitHub",
+        "summary": "Soy un desarrollador en formación con experiencia en proyectos personales, donde he aplicado el stack MERN, Python y otros lenguajes para crear soluciones prácticas y funcionales."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2020-04-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "php",
+                "nodejs",
+                "python",
+                "c",
+                "c++",
+                "scss",
+                "tailwind",
+                "expressjs",
+                "reactjs"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "gulpjs",
+                "mysql",
+                "mathplotlib",
+                "pandas",
+                "zustand",
+                "zod",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Desarrollo Web",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Python",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo de Software",
+            "issuing_organization": "Grupo NEORIS Online",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Administrador de Proyectos UpTask",
+            "description": "Plataforma web para administrar proyectos, con interacción de jefes - miembros y gestión de tareas con notas del proyecto.",
+            "technologies": ["apisrest", "react", "typescript", "tailwindcss", "nodejs", "express", "postgresql"],
+            "url": ""
+        },
+        {
+            "name": "RestAPI Administrador de Productos",
+            "description": "Plataforma web para administrar productos, desarrollada como práctica para desarrollar APIsRest.",
+            "technologies": ["apisrest", "react", "typescript", "tailwindcss", "nodejs", "express", "postgresql"],
+            "url": ""
+        },
+        {
+            "name": "Cocktail Finder",
+            "description": "Plataforma web para buscar recetas de cócteles y tragos, con IA para recomendaciones y búsqueda manual.",
+            "technologies": ["react", "typescript", "tailwindcss"],
+            "url": ""
+        },
+        {
+            "name": "Alura Store Challenge",
+            "description": "Aplicación Python en Google Colab analizando rendimiento de ventas de tiendas y categorías.",
+            "technologies": ["python", "numpy", "pandas", "matplotlib"],
+            "url": ""
+        },
+        {
+            "name": "Crypto Rate Checker",
+            "description": "Plataforma para verificar la cotización de criptomonedas en diferentes monedas locales.",
+            "technologies": ["react", "typescript", "tailwindcss"],
+            "url": ""
+        },
+        {
+            "name": "Weather Tracking",
+            "description": "Plataforma para conocer el clima de una zona específica.",
+            "technologies": ["react", "typescript", "tailwindcss"],
+            "url": ""
+        },
+        {
+            "name": "Pocket Control",
+            "description": "Plataforma para el seguimiento de gastos personales.",
+            "technologies": ["react", "typescript", "tailwindcss"],
+            "url": ""
+        },
+        {
+            "name": "Calorie Tracker",
+            "description": "Plataforma para el seguimiento de calorías consumidas.",
+            "technologies": ["react", "typescript", "tailwindcss"],
+            "url": ""
+        },
+        {
+            "name": "Calcutip",
+            "description": "Aplicación web para calcular órdenes y propinas.",
+            "technologies": ["react", "typescript", "tailwindcss"],
+            "url": ""
+        },
+        {
+            "name": "Guitarla",
+            "description": "E-commerce para la venta de instrumentos musicales.",
+            "technologies": ["react", "typescript", "tailwindcss"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (B1)"
+        },
+        {
+            "language": "Portugués",
+            "proficiency": "Intermedio (B1)"
+        },
+        {
+            "language": "Italiano",
+            "proficiency": "Principiante (A1)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

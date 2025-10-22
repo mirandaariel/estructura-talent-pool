@@ -1,0 +1,206 @@
+{
+    "personal_info": {
+        "first_name": "José Joel",
+        "last_name": "Ramos Tanca",
+        "email": "joel2064@gmail.com",
+        "phone": "+51 942027586",
+        "location": {
+            "country": "Perú",
+            "city": "Lima",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Analista de calidad de software con más de 5 años de experiencia, especializado en proyectos ágiles con un fuerte enfoque en la automatización de pruebas y la optimización de procesos. He implementado pipelines CI/CD que han mejorado los tiempos de despliegue en un 30% y he trabajado con diversas tecnologías como Terraform, Docker y Jenkins. Mi experiencia incluye pruebas en Backend, APIs, performance, integridad y web en diferentes sectores como telecomunicaciones, banca y wallets. Mi sólida formación en Ingeniería de Sistemas junto con mi compromiso hacia la mejora continua me permite aportar valor para asegurar la calidad de las aplicaciones en entornos exigentes y dinámicos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista QA",
+            "company": "Experis",
+            "location": "Lima, Perú",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Proyectos en el sector banca (Santander).",
+                "Participación en ceremonias del marco ágil con diferentes proveedores (consultoras) y perfiles profesionales.",
+                "Coordinación con diferentes áreas para recabo de información de modelo de negocio y revisión de documentación funcional de cara a implementación, diseño y ejecución de escenarios de pruebas.",
+                "Implementación y automatización de API Testing con Postman y Newman con reportes.",
+                "Implementación de Pruebas de integridad de data para migración de base de datos.",
+                "Implementación de Performance Testing, Web Testing con Selenium, Gherkin y Cucumber."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Tester BackEnd",
+            "company": "Stefanini",
+            "location": "Lima, Perú (Remoto)",
+            "start_date": "2021-05-01",
+            "end_date": "2023-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Proyectos en el sector telecomunicaciones (Telefónica) y billeteras digitales (Izipay).",
+                "Implementación de pipelines CI/CD que redujeron el tiempo de despliegue en un 30%.",
+                "Realización de pruebas de coverage de los proyectos manejados.",
+                "Pruebas de automatización web con Selenium y Cucumber.",
+                "Pruebas de API Testing y Performance.",
+                "Apoyo en el plan de implementación Devops alineado a los trenes de desarrollo y colaboración en las ceremonias de los proyectos ágiles."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Tester",
+            "company": "Entelgy",
+            "location": "Lima, Perú",
+            "start_date": "2020-01-01",
+            "end_date": "2021-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Proyectos en el sector banca (BBVA).",
+                "Pases a producción y atención de incidencias reactivas y proactivas.",
+                "Documentación de base de conocimiento de cara a una wiki."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de Datos del Área de Riesgos",
+            "company": "Banco Central de Reserva del Perú",
+            "location": "Lima, Perú",
+            "start_date": "2018-10-01",
+            "end_date": "2019-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Generación y evaluación de reportes trimestrales al área de Análisis y gestión de riesgo de TI.",
+                "Soporte al desarrollo del plan operativo informático (POI 2018 y 2019) a Secretaría de Gobierno Digital del Perú.",
+                "Revisión de indicadores para coordinación entre las áreas de tecnología."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollo en Área de Estrategia y Control de Gestión",
+            "company": "Petroperu",
+            "location": "Lima, Perú",
+            "start_date": "2017-01-01",
+            "end_date": "2017-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Automatización de aplicación y mejoramiento de Dashboards en el Área de Planeamiento, Gestión y Riesgos.",
+                "Seguimiento del sistema de evaluación financiera y presupuestaria mediante la identificación de KPIs."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Maestría en DevOps",
+            "institution": "Universidad Internacional de La Rioja (UNIR)",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Ingeniería de Sistemas e Informática",
+            "institution": "Universidad Nacional Mayor de San Marcos (UNMSM)",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Educación Secundaria",
+            "institution": "Escuela José Maria Arguedas",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "vagrant",
+                "sonarqube",
+                "azure",
+                "tableau",
+                "puppet",
+                "selenium",
+                "devops",
+                "carto",
+                "chef",
+                "cucumber",
+                "jira",
+                "power-bi",
+                "terraform",
+                "junit",
+                "github",
+                "sql-server",
+                "aws",
+                "bruno",
+                "gitlab",
+                "postgresql",
+                "essentials",
+                "postman",
+                "bitbucket",
+                "office",
+                "docker",
+                "newman",
+                "java",
+                "photohop",
+                "compose",
+                "karate",
+                "maven",
+                "linux",
+                "jmeter",
+                "c++",
+                "bashscript",
+                "jenkins",
+                "soapui",
+                "knime",
+                "okr"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "ISTQB Foundation Level",
+            "issuing_organization": "",
+            "issue_date": "2021-09-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Scrum Foundation Professional (SFPC)",
+            "issuing_organization": "",
+            "issue_date": "2021-07-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Methodology"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

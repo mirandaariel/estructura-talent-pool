@@ -1,0 +1,149 @@
+{
+    "personal_info": {
+        "first_name": "Victoria",
+        "last_name": "Carril",
+        "email": "Vic.mxc@hotmail.com",
+        "phone": "+54 911 2717-4159",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/mcarril/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Especialista en atención al cliente y data entry, con experiencia comprobable en entornos operativos y administrativos. Actualmente en transición al mundo IT, con formación universitaria en programación y capacitación intensiva en QA Testing. Trabajo detallista, aprendizaje rápido y habilidades analíticas aplicadas a proyectos de estudio con enfoque en calidad de software."
+    },
+    "work_experience": [
+        {
+            "job_title": "Digitadora",
+            "company": "Bayton S.A.",
+            "location": "CABA",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Carga precisa de datos en sistemas administrativos.",
+                "Validación de información y control documental."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Operadora / Atención al cliente",
+            "company": "Agencia de Lotería de la Ciudad",
+            "location": "CABA",
+            "start_date": "2018-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión de apuestas, validación de tickets, manejo de caja.",
+                "Aplicación de normativas internas y resolución de errores numéricos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Data Entry & Web Scraping",
+            "company": "Freelance",
+            "location": "Latinoamérica",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Recolección de datos de emisoras radiales y carga en Excel.",
+                "Automatización básica con Python para extraer y organizar la información."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Programación Informática",
+            "institution": "UNQ",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Curso QA Manual y Automatizado",
+            "institution": "ADA ITW",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Fundamentos de Data Analytics",
+            "institution": "IBM + Guayerd",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "sql",
+                "pruebas-manuales",
+                "cargade-datos",
+                "power-bi",
+                "google-sheets",
+                "python"
+            ],
+            "soft": [
+                "comunicación",
+                "atención-al-detalle"
+            ],
+            "tools": [
+                "jira",
+                "postman",
+                "trello",
+                "notion",
+                "excel"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Testing funcional y exploratorio sobre la app AcuWeather (Android)",
+            "description": "Diseño de casos de prueba, ejecución manual, reporte de bugs.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Pruebas de APIs con Postman",
+            "description": "Validación de endpoints, chequeo de respuestas, status codes y estructura.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Gestión de pruebas en JIRA y TestLink",
+            "description": "Documentación de pruebas, creación de matrices y seguimiento de incidencias.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico (A2)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

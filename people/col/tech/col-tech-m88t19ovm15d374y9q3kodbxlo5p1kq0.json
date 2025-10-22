@@ -1,0 +1,111 @@
+{
+    "personal_info": {
+        "first_name": "John Alexander",
+        "last_name": "Forero Rubio",
+        "email": "johnalexfr@gmail.com",
+        "phone": "+57 3202173409",
+        "location": {
+            "country": "Colombia",
+            "city": "Bogotá",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con experiencia en la creación de aplicaciones web responsivas además de la creación y consumo de APIs RESTful. Dominio de Java, Spring Boot, JavaScript, HTML, CSS, Boostrap y bases de datos MySQL. Conozco la metodología ágil Scrum con manejo de tareas con Jira. Destaco por mi orientación al detalle y capacidad para trabajar en equipo. Apasionado por el aprendizaje continuo y la resolución de problemas, busco oportunidades para aplicar mis conocimientos y generar un impacto positivo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Técnico instalador",
+            "company": "Security Tech Control S.A.S.",
+            "location": "Bogotá, Colombia",
+            "start_date": "2018-07-01",
+            "end_date": "2023-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestioné y ejecuté el mantenimiento e instalación de sistemas de seguridad electrónica, sistemas eléctricos y redes de datos, reduciendo en un 70% las visitas de seguimiento al asegurar la correcta funcionalidad en la primera intervención."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnólogo en Análisis y desarrollo de software",
+            "institution": "SENA (Servicio Nacional de Aprendizaje)",
+            "location": "",
+            "start_date": "2025-04-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Junior Full – Stack / Java",
+            "institution": "Generation Colombia",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "2024-11-30",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnólogo en electrónica",
+            "institution": "Universidad Distrital Francisco José de Caldas",
+            "location": "",
+            "start_date": "2011-08-01",
+            "end_date": "2016-04-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "spring-boot",
+                "api-rest",
+                "javascript",
+                "html",
+                "css",
+                "python",
+                "mysql",
+                "bootstrap",
+                "git",
+                "scrum",
+                "aws",
+                "diseño-responsivo",
+                "consumo-de-apis"
+            ],
+            "soft": [],
+            "tools": [
+                "git-hub",
+                "visual-studio-code"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Gourmet Box",
+            "description": "Desarrollé un e-commerce colaborativo utilizando Java, Spring Boot, MySQL, HTML, CSS, JavaScript y Boostrap, siguiendo la metodología Scrum. Implementé funcionalidades de registro de usuarios, carrito de compras y gestión de productos (CRUD) para un usuario administrador. Desplegué la API en Railway y la base de datos en AWS RDS.",
+            "technologies": ["Java", "Spring Boot", "MySQL", "HTML", "CSS", "JavaScript", "Bootstrap"],
+            "url": ""
+        },
+        {
+            "name": "TCompra",
+            "description": "Desarrollé colaborativamente una landing page de e-commerce para artículos de tenis utilizando HTML, CSS, JavaScript, Bootstrap y SweetAlert. Implementé la funcionalidad completa del carrito de compras, incluyendo la edición y eliminación de productos.",
+            "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "SweetAlert"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

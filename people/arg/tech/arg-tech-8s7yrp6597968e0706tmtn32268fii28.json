@@ -1,0 +1,118 @@
+{
+    "personal_info": {
+        "first_name": "Gabriel",
+        "last_name": "Suarez",
+        "email": "gabrielsuarez89@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "As a Frontend Developer well-versed in object-oriented and functional programming paradigms, and proficient in technologies like ReactJS, Angular and Vue. I specialize in crafting seamless user experiences. Passionate about innovation, I continuously pursue mastery in cutting-edge technologies, with a focus on React.js for creating robust web applications. Committed to delivering high-quality code and collaborating effectively within multidisciplinary teams, my goal is to create forward-thinking applications that redefine user interaction."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Developer",
+            "company": "Valaone",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Led the development of innovative applications using React.js.",
+                "Developed customized point of sale (POS) systems for various clients.",
+                "Delivered efficient and high-quality solutions, following the latest frontend trends.",
+                "Collaborated with multidisciplinary teams to optimize the user experience and meet demanding deadlines."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Fullstack Developer",
+            "institution": "Henry",
+            "location": "",
+            "start_date": "2022-02-01",
+            "end_date": "2022-09-30",
+            "hours": 0
+        },
+        {
+            "degree": "Frontend Developer",
+            "institution": "Alkemy",
+            "location": "",
+            "start_date": "2021-04-01",
+            "end_date": "2021-08-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "reactjs",
+                "redux",
+                "vue.js",
+                "angular.js",
+                "next.js",
+                "nodejs",
+                "express.js",
+                "api-restful",
+                "postgresql",
+                "sql",
+                "mongodb",
+                "mysql",
+                "javascript",
+                "python",
+                "typescript",
+                "django"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "git-flow",
+                "github",
+                "cypress",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Make me a Millionaire",
+            "description": "A space where every pixel has value and every artist can buy and claim their little piece of the site to showcase their art.",
+            "technologies": [],
+            "url": "makemeamillionaire"
+        },
+        {
+            "name": "Blockbuster",
+            "description": "Project created at Henry's bootcamp related to the old physical movie and video game rental store.",
+            "technologies": [],
+            "url": "blockbuster"
+        },
+        {
+            "name": "Music Player",
+            "description": "Music player with its own minimalist design and connection to the Spotify API.",
+            "technologies": [],
+            "url": "MusicPlayer"
+        },
+        {
+            "name": "Xtrememe",
+            "description": "Learn more about this fun project. Create your own meme and share it with the people you like the most.",
+            "technologies": [],
+            "url": "Xtrememe"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

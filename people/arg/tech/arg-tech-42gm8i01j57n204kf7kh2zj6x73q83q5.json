@@ -1,0 +1,103 @@
+{
+    "personal_info": {
+        "first_name": "Martín",
+        "last_name": "Negro Ruffino",
+        "email": "mnegroruffino@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/martinnegro/",
+        "website": "http://martindev.ar",
+        "portfolio": "https://github.com/martinnegro",
+        "summary": "Soy un desarrollador web con experiencia en el desarrollo de aplicaciones web y mobile trabajando con React/Next, Flutter y plataformas no-code como Wordpress y Shopify. En backend trabajo con NodeJS utilizando TypeScript y cuento con experiencia en DevOps trabajando con AWS y Firebase."
+    },
+    "work_experience": [
+        {
+            "job_title": "Backend Developer - DevOps",
+            "company": "IT-TechGroup",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2022-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Configuración de webhooks en QuickBooks para recibir notificaciones en tiempo real de la creación de facturas (invoices).",
+                "Desarrollo de una Cloud Function en Firebase (TypeScript) que autentica los datos mediante hashes, se conecta a la API de QuickBooks, y obtiene información detallada del invoice.",
+                "Implementación de una lógica de transformación para convertir el JSON del invoice en archivos CSV que contienen datos de clientes, productos y costos.",
+                "Automatización del proceso de envío de los archivos CSV a servidores FTP específicos según el cliente.",
+                "Gestión de Base de Datos en Firebase Firestore.",
+                "Despliegue de función Lambda en AWS para script de OCR en Python.",
+                "Desarrollo de Cloud Functions con TypeScript para el manejo de expiración de puntos y premios.",
+                "Implementación de reproductor de audio personalizado utilizando Flutter.",
+                "Manejo personalizado de notificaciones con Firebase Cloud Functions.",
+                "Desarrollo de formulario personalizado con NextJS para la inscripción de profesores, con autenticación mediante Firebase Auth y validación de datos previa al acceso.",
+                "Gestión de Django API desplegada en EC2.",
+                "Modificación de API para desarrollo de nuevas features.",
+                "Resolución de bugs: configurando correctamente Route53, ACM y ELB para la instancia de EC2.",
+                "Implementación de CloudFront para la distribución de imágenes y videos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Web Developer",
+            "company": "AdAstra",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2023-07-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de sitios web con React, Wordpress y Shopify.",
+                "Tracking de proyectos",
+                "Comunicación con clientes para evaluación de progreso y eventuales cambios y mejoras.",
+                "Publicación de Apps en App Store y Play Store.",
+                "Lanzamiento coordinado de versiones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Programación",
+            "institution": "UTN",
+            "location": "Argentina",
+            "start_date": "2025-03-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciado en Administración Gastronómica",
+            "institution": "IAG - UADE",
+            "location": "Argentina",
+            "start_date": "2015-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["typescript", "flutter", "react", "next", "nodejs", "nestjs", "postgres"],
+            "soft": ["project-management", "client-communication"],
+            "tools": ["aws", "firebase", "google-cloud"]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

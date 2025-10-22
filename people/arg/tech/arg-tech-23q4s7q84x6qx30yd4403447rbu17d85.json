@@ -1,0 +1,214 @@
+{
+    "personal_info": {
+        "first_name": "Dabianska",
+        "last_name": "Acosta",
+        "email": "Dabianskaa@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Licenciada en Aduanas y Comercio Exterior, con formación en QA (testing manual, HTML, CSS, UX/UI) y experiencia tanto en aseguramiento de calidad como en gestión administrativa. Me especializo en analizar procesos, detectar errores, proponer mejoras y optimizar bases de datos para lograr mayor eficiencia operativa. Poseo un enfoque metódico, atención al detalle y rápida adaptación a herramientas digitales y entornos dinámicos. Me defino como proactiva, organizada y orientada a resultados, con buenas habilidades de comunicación y trabajo colaborativo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Software QA Analyst",
+            "company": "Bowery",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2023-06-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Elaboración de casos de prueba y estrategias de testing.",
+                "Ejecución de pruebas: de humo, integración, unitarias, EzE y regresión.",
+                "Registro, reporte y seguimiento de bugs.",
+                "Documentación de procesos y generación de evidencias de pruebas."
+            ],
+            "achievements": [
+                "Participación activa en un proyecto internacional para EE.UU., que requirió habilidades lingüísticas en inglés técnico.",
+                "Estandaricé el flujo de pruebas mediante casos reutilizables y ordenados."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Responsable de Atención al Cliente y Soporte Operativo",
+            "company": "Distrito Moda",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2020-05-01",
+            "end_date": "2023-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión de pedidos y atención a distintos tipos de clientes.",
+                "Coordinación de tareas con equipos de armadores, recepción y despacho.",
+                "Seguimiento de envíos e incidencias.",
+                "Relevamiento de datos y soporte postventa."
+            ],
+            "achievements": [
+                "Implementé plantillas y procedimientos que optimizaron tiempos operativos.",
+                "Creé instructivos para nuevos procesos de atención y seguimiento."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Asistente de Logística y Atención al Cliente",
+            "company": "Century 21",
+            "location": "Caracas, Venezuela",
+            "start_date": "2018-12-01",
+            "end_date": "2019-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Organización operativa y soporte a las áreas de capacitación y mercadeo.",
+                "Elaboración de agendas y coordinación de reuniones.",
+                "Captación de proveedores y seguimiento de franquicias.",
+                "Relevamiento de datos para procesos de marketing y formación."
+            ],
+            "achievements": [
+                "Mejoré los formatos de recolección de datos para optimizar la planificación."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Aduanas y Comercio Exterior",
+            "institution": "ENAHP -IUT",
+            "location": "Venezuela",
+            "start_date": "2014-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "qa-manual-testing",
+                "sql",
+                "cypress",
+                "scrum",
+                "kanban",
+                "html",
+                "css",
+                "ux/ui",
+                "jira",
+                "trello",
+                "slack",
+                "google-workspace",
+                "ms-office",
+                "photoshop"
+            ],
+            "soft": [
+                "atención-al-detalle",
+                "pensamiento-analítico",
+                "comunicación-efectiva",
+                "organización-y-gestión-del-tiempo",
+                "adaptabilidad-y-resiliencia",
+                "trabajo-en-equipo",
+                "aprendizaje-continuo",
+                "responsabilidad-y-ética-profesional"
+            ],
+            "tools": [
+                "figma",
+                "zephyr-scale",
+                "teams"
+            ]
+        },
+        "detailed": {
+            "technical": {
+                "qa-manual-testing": [
+                    {
+                        "name": "Detección de errores, casos de prueba, validación de datos",
+                        "repository_url": ""
+                    }
+                ],
+                "cypress": [
+                    {
+                        "name": "Tests EzE",
+                        "repository_url": ""
+                    }
+                ],
+                "sql": [
+                    {
+                        "name": "Consultas simples",
+                        "repository_url": ""
+                    }
+                ]
+            },
+            "soft": {
+                "atención-al-detalle": [
+                    {
+                        "name": "Control de calidad, precisión documental",
+                        "description": ""
+                    }
+                ],
+                "pensamiento-analítico": [
+                    {
+                        "name": "Identificación de errores, interpretación de datos",
+                        "description": ""
+                    }
+                ]
+            }
+        }
+    },
+    "certifications": [
+        {
+            "name": "Software Testing de aplicaciones. Postman. Testing de API",
+            "issuing_organization": "Udemy",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Cypress para principiante Avanzado",
+            "issuing_organization": "Udemy",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Software Tester QA: Planes de Prueba y testing completo",
+            "issuing_organization": "Educación IT",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Introducción al Testing de Software: Para Principiantes!",
+            "issuing_organization": "Udemy",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Diseño UX course: Experiencia de Usuario UX / UI",
+            "issuing_organization": "Udem",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "UX & Web Design Master Course: Strategy, Design, Development",
+            "issuing_organization": "Udemy",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Advanced"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

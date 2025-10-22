@@ -1,0 +1,129 @@
+{
+    "personal_info": {
+        "first_name": "Edith",
+        "last_name": "Teodocia Camacho",
+        "email": "edith.teodocia@gmail.com",
+        "phone": "+591 67428813",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "https://github.com/EdiTeo",
+        "portfolio": "",
+        "summary": "Egresada de Ingeniería en Sistemas, apasionada por el desarrollo de software. Interesada en aplicar mis conocimientos en programación para crear soluciones eficientes e innovadoras, mientras continúo creciendo profesionalmente en el ámbito tecnológico."
+    },
+    "work_experience": [
+        {
+            "job_title": "Pasantía en DTIC",
+            "company": "UMSS",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Análisis de requerimientos",
+                "Diseño de prototipos en Figma",
+                "Apoyo con el desarrollo frontend en React",
+                "Apoyo en mantenimiento de software"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Tienda Online de Gafas",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "E-commerce responsive con backend en Node.js y frontend en React",
+                "Incluye carrito, login y conexión con base de datos"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer",
+            "company": "Fulltis",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de un sistema académico con gestión de grupos, entregables y rúbricas",
+                "Validación de usuarios, generación de reportes y backlog con historias de usuario",
+                "Aplicamos metodología SCRUM"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas",
+            "institution": "Universidad Mayor de San Simón (UMSS)",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "figma",
+                "html-css",
+                "java",
+                "sql-server",
+                "github",
+                "javascript",
+                "react.js",
+                "node.js",
+                "php",
+                "laravel"
+            ],
+            "soft": [
+                "resolución-de-problemas",
+                "trabajo-en-equipo",
+                "adaptabilidad",
+                "pensamiento-crítico"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "SQL Server",
+            "issuing_organization": "HackerRank",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso GitHub",
+            "issuing_organization": "Platzi",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Frontend Developer",
+            "issuing_organization": "Platzi",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

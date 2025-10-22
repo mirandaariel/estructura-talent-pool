@@ -1,0 +1,164 @@
+{
+    "personal_info": {
+        "first_name": "Daniel Alejandro",
+        "last_name": "Colina Avila",
+        "email": "Danielc123avila@icloud.com",
+        "phone": "+573014032650",
+        "location": {
+            "country": "Colombia",
+            "city": "Villavicencio",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/danielcolina",
+        "website": "https://github.com/danielc123avila",
+        "portfolio": "",
+        "summary": "Soy desarrollador web con experiencia en diseño y desarrollo de aplicaciones web frontend y backend, especializado en Angular para frontend y Node.js para backend. Poseo habilidades en bases de datos NoSQL, control de versiones, despliegue en la nube y metodologías ágiles."
+    },
+    "work_experience": [
+        {
+            "job_title": "Prácticas profesional Desarrollador Full Stack",
+            "company": "Foo Talent",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Definir el stack tecnológico óptimo para el proyecto utilizando Angular y Node.js con Express.",
+                "Implementar la estructura del servidor con modelos CRUD, controladores, rutas y conexión a MongoDB.",
+                "Diseñar el frontend en Angular integrando servicios, componentes y comunicación con la API.",
+                "Desplegar la aplicación en DigitalOcean configurando el entorno de producción.",
+                "Elaborar reportes del progreso del proyecto y recibir retroalimentación continua."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñar e implementar interfaces de usuario responsivas con HTML, CSS y Angular.",
+                "Diseñar y construir APIs REST con Node.js y Express para la comunicación cliente-servidor.",
+                "Administrar bases de datos NoSQL asegurando seguridad y escalabilidad.",
+                "Utilizar herramientas de control de versiones como Git/GitHub."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnico encargado de reparación de equipos Apple",
+            "company": "Wiltech",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Resolución de fallas electrónicas y de software en equipos Apple.",
+                "Atención al cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Programador Full Stack",
+            "company": "Bogotá Institute of Technology",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñar e implementar interfaces de usuario con HTML, CSS y Angular.",
+                "Desarrollar APIs REST con Node.js, Express.js y manejar bases de datos NoSQL con MongoDB.",
+                "Mejorar infraestructura y rendimiento con AWS y Docker.",
+                "Implementar pruebas unitarias para frontend y backend."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Especialización en AWS-Docker",
+            "institution": "Bogotá Institute of Technology",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "2025-01-31",
+            "hours": 0
+        },
+        {
+            "degree": "Programación Full Stack",
+            "institution": "Bogotá Institute of Technology",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "2024-10-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en reparación y mantenimiento Apple (iOS)",
+            "institution": "Willtech Academy",
+            "location": "",
+            "start_date": "2021-03-01",
+            "end_date": "2021-05-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "html",
+                "node.js",
+                "express",
+                "angular",
+                "nosql"
+            ],
+            "soft": [
+                "communication",
+                "attention-to-detail",
+                "analytical"
+            ],
+            "tools": [
+                "docker",
+                "digitalocean",
+                "git",
+                "aws"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Proyecto Pet-Connect",
+            "description": "Implementación de sitio web para búsqueda de mascotas perdidas.",
+            "technologies": [
+                "Angular",
+                "Node.js",
+                "Express",
+                "MongoDB"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "B1"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

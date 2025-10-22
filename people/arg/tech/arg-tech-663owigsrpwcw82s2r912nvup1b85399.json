@@ -1,0 +1,142 @@
+{
+    "personal_info": {
+        "first_name": "Carlos",
+        "last_name": "Saldaña",
+        "email": "Carlosjoelsalda@gmail.com",
+        "phone": "+5491136585581",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/carlos-salda%C3%B1a-b248a21a4/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Programador Full-stack (BE first) desde 2020 resolviendo problemas y ajustándolos a las necesidades solicitadas, en proyectos de carácter privado y público. Rápido entendimiento y adaptación al proyecto / equipo. Apasionado por la escalabilidad y el trabajo en equipo, entrego código robusto y eficiente para proyectos de alto impacto."
+    },
+    "work_experience": [
+        {
+            "job_title": "Back-end Developer",
+            "company": "Soullt (Proyecto Termap)",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2025-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Back-end NestJs + Swagger + TypeOrm SQL y Front-end React con MUI",
+                "Automatización de tareas, generación de pdf con datos exactos para laboratorios petroleros.",
+                "Diseño de vistas para la demostración de Muestras con su información"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Developer",
+            "company": "Leadaki",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Back-end SailsJs/ Python / Java y Front-end React",
+                "Rediseño de Web interna y diseño de nuevas herramientas para uso interno.",
+                "Generación de gráficos para el usuario, automatización de excel y Data science con pandas.",
+                "Migración de backend y/o funciones a Javascript",
+                "Uso de Bigdata / GTM / Supabase",
+                "Modificaciones en Webs de clientes, para la captura de leads."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Developer",
+            "company": "IOMA",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Back-end .NET y Front-end HTML",
+                "Creación de cartillas medicas, uso de geolocalización y funciones de Jquery.",
+                "Creación de Formularios para Solicitudes medicas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Lic. en Desarrollo de Software",
+            "institution": "Universidad Nacional de Quilmes",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Instituto de lengua ingles",
+            "institution": "Denver",
+            "location": "",
+            "start_date": "2010-01-01",
+            "end_date": "2015-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "aws",
+                "s3",
+                "express",
+                "sails",
+                "nestjs",
+                "react",
+                "vue",
+                "next",
+                "typescript",
+                "python",
+                "pandas",
+                "google-cloud",
+                "gtm",
+                "supabase",
+                "sql",
+                "mongodb",
+                "redis",
+                "handlebars",
+                "puppeteer",
+                "facebook-sdk",
+                "google-ads",
+                "afip-sdk"
+            ],
+            "soft": [
+                "metodologías-agiles"
+            ],
+            "tools": [
+                "docker",
+                "git",
+                "azure",
+                "bitbucket",
+                "gitlab",
+                "asana",
+                "trello",
+                "clickup"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Advanced"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

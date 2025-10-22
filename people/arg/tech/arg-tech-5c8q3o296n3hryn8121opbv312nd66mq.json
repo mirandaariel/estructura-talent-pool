@@ -1,0 +1,152 @@
+{
+    "personal_info": {
+        "first_name": "Juan Jose",
+        "last_name": "Velazquez",
+        "email": "velazquez7372@gmail.com",
+        "phone": "+54 11 3286 9436",
+        "location": {
+            "country": "Argentina",
+            "city": "González Catan",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista Tester Ssr",
+            "company": "CFOTech (cliente banco Supervielle)",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Análisis de documentos técnicos y funcionales para el armado de casos de prueba.",
+                "Pruebas funcionales, de regresión y smoke test.",
+                "Reporte y seguimiento de bugs.",
+                "Uso de Postman y SOAP para pruebas de servicios.",
+                "Uso de la herramienta jira.",
+                "Consulta y actualización de datos en PL/SQL developer.",
+                "Procesos batch.",
+                "Implementación de servicios y despliegue de versiones en los distintos ambientes de prueba."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista QA",
+            "company": "Global Processing",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Análisis de documento funcional para la creación de casos de pruebas.",
+                "Ejecución de pruebas garantizando la calidad de los entregables.",
+                "Reportes y seguimiento de Bug.",
+                "Uso de Postman y Soap para pruebas de Apis.",
+                "Consulta y actualización de datos en MySQL.",
+                "Conocimiento en el área de Issuering Application Support Analyst.",
+                "Seguimiento de incidente productivo, control de implementación en ambiente QA-UAT-Productivo.",
+                "Coordinación de implementaciones en sistemas y revisión de Logs."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista QA Junior",
+            "company": "Origin Software",
+            "location": "",
+            "start_date": "2021-02-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Análisis de documento funcional para testeo de página web.",
+                "Armado de casos de prueba.",
+                "Ejecución de casos de prueba.",
+                "Reporte de bug.",
+                "Uso de Postman para pruebas contra API.",
+                "Uso de la herramienta jira para verificar las tareas asignadas.",
+                "La creación de ciclos de pruebas carga de casos de prueba y reporte de bug.",
+                "Consulta y actualización de datos en SQL Server."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Logística",
+            "company": "Descartables Caromar S.A",
+            "location": "",
+            "start_date": "2012-05-01",
+            "end_date": "2021-01-10",
+            "currently_working": false,
+            "responsibilities": [
+                "Realización de inventario, gestión y elaboración de pedidos e informe para sucursales y supermercados.",
+                "Control del circuito de la mercadería solicitado por el cliente, situarlo en la zona de expedición de forma eficiente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Superior Universitario en Programación",
+            "institution": "Instituto Teclab",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller con orientación en administración de empresas",
+            "institution": "Centro Educativo F.P. Veron",
+            "location": "",
+            "start_date": "2001-09-01",
+            "end_date": "2007-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "mysql",
+                "sql",
+                "selenium-webdriver",
+                "pytest",
+                "jira",
+                "postman",
+                "soap-ui",
+                "scrum",
+                "office-suite"
+            ],
+            "soft": [],
+            "tools": [
+                "postman",
+                "soap",
+                "jira",
+                "pl/sql-developer"
+            ]
+        },
+        "detailed": {
+            "technical": {
+                "selenium-webdriver": [
+                    {
+                        "name": "Automatización de pruebas con Selenium WebDriver y Python",
+                        "repository_url": ""
+                    }
+                ],
+                "mysql": [],
+                "jira": []
+            },
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

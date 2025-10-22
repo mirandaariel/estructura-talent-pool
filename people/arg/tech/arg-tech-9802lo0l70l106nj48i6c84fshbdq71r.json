@@ -1,0 +1,120 @@
+{
+    "personal_info": {
+        "first_name": "Germán",
+        "last_name": "Lagger",
+        "email": "germilagger@gmail.com",
+        "phone": "+54 342 5285858",
+        "location": {
+            "country": "Argentina",
+            "city": "Santa Fe",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador fullstack junior con experiencia en React y en el ecosistema Spring (Spring Boot, Spring Security, Spring Data JPA), especializado en el desarrollo de aplicaciones web y APIs REST. Mi formación técnica, sumada a mi trayectoria en marketing digital, me permitió desarrollar habilidades clave como la comunicación, la autonomía y el pensamiento creativo orientado al usuario. Actualmente enfocado en consolidar mi carrera en desarrollo, con varios proyectos propios en producción donde aplico buenas prácticas, arquitectura en capas y herramientas modernas. Busco integrarme a equipos dinámicos donde pueda aportar desde el primer día, seguir aprendiendo y crecer como profesional."
+    },
+    "work_experience": [
+        {
+            "job_title": "Community Manager",
+            "company": "Bluered Media",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Creación y gestión de contenido en redes sociales.",
+                "Estrategias de crecimiento digital para clientes.",
+                "Edición de videos y diseño gráfico."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Informática (en pausa)",
+            "institution": "Universidad Nacional del Litoral",
+            "location": "",
+            "start_date": "2014-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Industria de Procesos",
+            "institution": "E.E. Técnico Profesional NRO 298 'Don Miguel Manfredi'",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "tailwind",
+                "material-ui",
+                "sass",
+                "java",
+                "spring-boot",
+                "jpa",
+                "hibernate",
+                "mysql",
+                "postgresql"
+            ],
+            "soft": [
+                "comunicación",
+                "autonomía",
+                "pensamiento-creativo"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "postman",
+                "docker"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Alumnado",
+            "description": "CRUD de alumnos y profesores con autenticación JWT y arquitectura en capas (JPA + lógica de negocio).",
+            "technologies": ["Spring Boot", "React"],
+            "url": "GitHub"
+        },
+        {
+            "name": "Sneaker Market",
+            "description": "Demo E-commerce con catálogo interactivo, filtros y diseño responsive con Tailwind.",
+            "technologies": ["React"],
+            "url": "GitHub"
+        },
+        {
+            "name": "Movie Landia",
+            "description": "Demo Buscador de películas con consumo de API externa y resultados en tiempo real.",
+            "technologies": ["JavaScript"],
+            "url": "GitHub"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1 - Writing, Listening, Reading: Avanzado | Speaking: Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

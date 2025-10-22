@@ -1,0 +1,125 @@
+{
+    "personal_info": {
+        "first_name": "Aldo Rodrigo",
+        "last_name": "Ruiz Gerez",
+        "email": "Ruizgerezr@gmail.com",
+        "phone": "+543812077892",
+        "location": {
+            "country": "Argentina",
+            "city": "Yerba Buena",
+            "state": "Tucumán"
+        },
+        "linkedin": "https://linkedin.com/in/rodrigorg",
+        "website": "https://rrg-portfolio.vercel.app/",
+        "portfolio": "",
+        "summary": "Desarrollador Fullstack con +5 años de experiencia en JavaScript, especializado en construir aplicaciones web/móviles escalables. Historial de liderazgo en migraciones (Angular a React) y contribuciones a bibliotecas internas en empresas como Santander y Telecom. Enfoque en eficiencia, calidad de código y trabajo en equipo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Freelance",
+            "location": "Remoto",
+            "start_date": "2024-04-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Gestioné 5+ proyectos end-to-end con React, Node.js y MongoDB, cumpliendo plazos con 100% de satisfacción del cliente.",
+                "Lideré la definición de arquitecturas, estimación de tiempos y comunicación directa con stakeholders."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "SSR Software Engineer",
+            "company": "Banco Santander",
+            "location": "Buenos Aires",
+            "start_date": "2021-07-01",
+            "end_date": "2024-04-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé componentes accesibles (W3C) para FlameUI, usados en 80% de los micro-frontends del Home Banking.",
+                "Integré soluciones SPA para Home Banking Empresas/Personas con React, Redux y TypeScript."
+            ],
+            "achievements": [
+                "Reduje bugs en producción en un 30% mediante turnos on-call proactivos."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Telecom Argentina",
+            "location": "Buenos Aires",
+            "start_date": "2019-10-01",
+            "end_date": "2021-07-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Migré exitosamente un panel de administración de Angular a React, mejorando el rendimiento en un 40%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack JavaScript Developer",
+            "institution": "Bootcamp P5",
+            "location": "Buenos Aires",
+            "start_date": "2017-01-01",
+            "end_date": "2018-12-31",
+            "hours": 500
+        },
+        {
+            "degree": "Técnico Superior en Programación",
+            "institution": "UTN Tucumán",
+            "location": "Argentina",
+            "start_date": "2016-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "next.js",
+                "redux",
+                "styled-components",
+                "html5",
+                "css3",
+                "node.js",
+                "express",
+                "restful-apis",
+                "mongodb",
+                "postgresql",
+                "firebase",
+                "aws",
+                "docker",
+                "react-native",
+                "ionic",
+                "cordova",
+                "expo"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Técnico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

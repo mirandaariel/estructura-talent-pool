@@ -1,0 +1,116 @@
+{
+    "personal_info": {
+        "first_name": "Walter David",
+        "last_name": "Caballo Visconte",
+        "email": "waltercabvis@hotmail.com",
+        "phone": "11 6768-7446",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "QA Tester Manual & Automation enfocado en garantizar la calidad del software en cada etapa del desarrollo, con experiencia validando flujos de usuario, contenido multimedia y experiencia general en plataformas de entretenimiento y streaming. Destaco por mi enfoque en la calidad, atención al detalle y capacidad para detectar fallas que afectan la experiencia del usuario final, lo que me mantiene en constante aprendizaje en las herramientas y formas de testear."
+    },
+    "work_experience": [
+        {
+            "job_title": "QA Tester",
+            "company": "uTest",
+            "location": "",
+            "start_date": "2022-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Realicé pruebas manuales funcionales, exploratorias y de regresión en entornos Web y Mobile.",
+                "Validé nuevas funcionalidades, pruebas de compatibilidad y flujos de usuarios.",
+                "Identifiqué y reporté errores, con la descripción detallada, pasos de reproducción y severidad.",
+                "Validé contenido UX como: subtítulos, navegación, errores de carga, fallas en reproducción."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "testing",
+                "funcional",
+                "no-funcional",
+                "regresión",
+                "confirmación",
+                "reporte-y-seguimiento-de-errores",
+                "metodologías-ágiles",
+                "creación-de-casos-de-prueba",
+                "stlc",
+                "sdlc",
+                "java",
+                "selenium",
+                "postman",
+                "mysql",
+                "git",
+                "github"
+            ],
+            "soft": [
+                "pensamiento-crítico",
+                "capacidad-de-análisis",
+                "atención-al-detalle",
+                "orientación-a-la-calidad",
+                "trabajo-en-equipo",
+                "colaboración-interdisciplinaria",
+                "proactividad",
+                "aprendizaje-autónomo",
+                "organización",
+                "gestión-del-tiempo",
+                "comunicación-efectiva",
+                "adaptabilidad-al-cambio"
+            ],
+            "tools": [
+                "jira",
+                "trello",
+                "azure-devops",
+                "ms-teams",
+                "discord",
+                "slack",
+                "zoom"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "MundoAzulgrana.com.ar",
+            "description": "Automatización de pruebas funcionales para la navegación en diferentes secciones de la web.",
+            "technologies": [
+                "Selenium",
+                "Java",
+                "Maven",
+                "TestNG",
+                "Git",
+                "GitHub"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Soycuervo.com",
+            "description": "Análisis de la estructura y componentes de la web. Creación y ejecución de casos de prueba.",
+            "technologies": [
+                "MS Excel",
+                "MS Word",
+                "Postman",
+                "Chrome DevTools"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

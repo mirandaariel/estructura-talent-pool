@@ -1,0 +1,126 @@
+{
+    "personal_info": {
+        "first_name": "Esteban",
+        "last_name": "Muchenvicz",
+        "email": "esteban.muchenvicz@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full Stack Developer con un background en Comunicación Social que me permite fusionar habilidades técnicas y comunicativas para crear experiencias digitales atractivas y efectivas. Con experiencia en tecnologías como React, JavaScript, Tailwind, MaterialUI, Node.js, Express, y PostgreSQL, me dedico a desarrollar aplicaciones web modernas y altamente funcionales, con interfaces responsivas y backend robusto. Mis conocimientos en metodologías ágiles, GIT, estructura de datos y algoritmos, junto con mi adaptabilidad, atención a los detalles, capacidad de colaboración y pensamiento crítico, me permiten entregar soluciones completas que superan las expectativas del cliente."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer Junior",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "2021-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de sitios web en WordPress, con un enfoque en optimización SEO.",
+                "Utilización de HTML, CSS, React.js, JavaScript y MySQL."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador de FrontEnd",
+            "company": "Semillero Latam",
+            "location": "Remoto",
+            "start_date": "2024-06-01",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una aplicación web utilizando React.js y Material UI para una interfaz de usuario dinámica y accesible.",
+                "Colaboración en equipo ágil con metodologías Scrum, gestionando tareas y progreso en Trello."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 800
+        },
+        {
+            "degree": "Tecnicatura en Comunicación Social",
+            "institution": "IPESO",
+            "location": "",
+            "start_date": "2010-01-01",
+            "end_date": "2013-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "javascript",
+                "css",
+                "html",
+                "tailwind",
+                "axios",
+                "materialui",
+                "wordpress",
+                "postgresql",
+                "mongodb",
+                "node-js",
+                "express"
+            ],
+            "soft": [
+                "adaptabilidad",
+                "atencion-a-los-detalles",
+                "colaboracion",
+                "pensamiento-critico"
+            ],
+            "tools": [
+                "photoshop",
+                "illustrator"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Custom Caft",
+            "description": "Participación en el desarrollo de una aplicación web que permite a los usuarios diseñar sus propias prendas de vestir a través de modelos 3D, comprarlas y compartirlas con otros usuarios en un Marketplace.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Videogames",
+            "description": "Creación de una Single Page Application que muestra cards con información de videojuegos, permitiendo búsquedas, filtros, ordenamientos y agregar nuevos videojuegos a la base de datos, y registro y login.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Native"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2 - Intermedio. Certificado"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,181 @@
+{
+    "personal_info": {
+        "first_name": "Diego",
+        "last_name": "Jaramillo",
+        "email": "dgojramllo@hotmail.com",
+        "phone": "+57 3147970397",
+        "location": {
+            "country": "Colombia",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/diegojaramillo",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero de Software con experiencia sólida en el ecosistema TI, especializado en automatización de pruebas, aseguramiento de la calidad, DevOps e integración de soluciones en entornos altamente exigentes y regulados. Aprendizaje ágil, ejecución con excelencia y liderazgo con ejemplo son mis características principales. La mejora continua es mi pilar personal y profesional."
+    },
+    "work_experience": [
+        {
+            "job_title": "Ingeniero de Software",
+            "company": "Grupo Bancolombia",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Liderar e implementar prácticas de ingeniería y estrategias de calidad en el desarrollo del software.",
+                "Certificación de servicios y productos software para la industria bancaria.",
+                "Automatización de pruebas e integración continua en entornos DevOps."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Profesor Cátedra",
+            "company": "Universidad de Antioquia",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Mentoría y docencia de programación nivel básico al avanzado."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de Pruebas / Analista de Pruebas Móviles",
+            "company": "Choucair Testing S.A.",
+            "location": "Colombia / Panamá",
+            "start_date": "2021-10-01",
+            "end_date": "2024-03-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño e implementación de estrategias de calidad para aplicaciones web y móviles.",
+                "Liderar e implementar mejoras en procesos y productos.",
+                "Asegurar la calidad del producto y servicio mediante la centralización de la información."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Contratista de Desarrollo de Software",
+            "company": "Institución Universitaria Pascual Bravo",
+            "location": "Colombia / México",
+            "start_date": "2019-03-01",
+            "end_date": "2020-04-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñar, desarrollar e implementar soluciones de software basadas en requerimientos.",
+                "Garantizar la calidad del producto de software antes y después del despliegue.",
+                "Dirigir equipo de desarrollo de software y planificar decisiones estratégicas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Doble Titulación en Ingeniería de Software y Tecnología en Desarrollo de Software",
+            "institution": "Institución Universitaria Pascual Bravo",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "automatización-qa",
+                "integracion-de-apis",
+                "ci/cd-devops-pipelines",
+                "cultura-ágil",
+                "contenerización-y-cloud",
+                "inteligencia-artificial",
+                "liderazgo-técnico",
+                "performance",
+                "desarrollo-de-software",
+                "análisis-técnico-de-requerimientos",
+                "gestión-de-proyectos-ti"
+            ],
+            "soft": [
+                "rigurosidad",
+                "capacidad-analítica",
+                "lógica-computacional",
+                "resolución-de-problemas",
+                "capacidad-de-adaptación",
+                "toma-de-decisiones",
+                "pensamiento-crítico"
+            ],
+            "tools": [
+                "java",
+                "python",
+                "selenium",
+                "cucumber",
+                "gradle",
+                "gherkin",
+                "maven",
+                "git",
+                "azure-devops",
+                "poo",
+                "sql",
+                "office-suite",
+                "appium",
+                "postman",
+                "pom",
+                "screenplay",
+                "jmeter",
+                "jira",
+                "confluence",
+                "slack",
+                "aws",
+                "eks",
+                "rest",
+                "json",
+                "low-code",
+                "spring-boot",
+                "principios-solid"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "ISTQB Certified Tester Foundation Level",
+            "issuing_organization": "Hispanic American Testing Qualifications Board",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Scrum Master Professional Certificate",
+            "issuing_organization": "Certiprof",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Blockchain Professional Certificate",
+            "issuing_organization": "Certiprof",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "English EF SET Certificate",
+            "issuing_organization": "EF International Language Centers",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

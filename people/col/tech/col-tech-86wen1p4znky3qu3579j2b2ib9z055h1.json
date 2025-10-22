@@ -1,0 +1,174 @@
+{
+    "personal_info": {
+        "first_name": "Jader Alexis",
+        "last_name": "Guaza Gonzalez",
+        "email": "bonilladani2020@gmail.com",
+        "phone": "+573122003487",
+        "location": {
+            "country": "Colombia",
+            "city": "Cali",
+            "state": "Valle del Cauca"
+        },
+        "linkedin": "https://www.linkedin.com/in/alexis-guaza/",
+        "website": "https://github.com/0alexis",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Auxiliar de Soporte de TI",
+            "company": "Universidad Autónoma de Occidente",
+            "location": "Cali, Valle del Cauca, Colombia",
+            "start_date": "2023-05-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Brindé asistencia técnica y soporte a usuarios finales, resolviendo incidencias relacionadas con hardware, software y manejo de datos de estudiantes.",
+                "Control de datos y solicitudes, control de solicitudes estudiantiles en plataforma Salesforce entre otros programas como universitas xxi.",
+                "Colaboré en la implementación de soluciones tecnológicas para mejorar la eficiencia operativa y participé en la capacitación de usuarios en el uso de herramientas y aplicaciones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero de Sistemas",
+            "institution": "Institución Universitaria Antonio José Camacho",
+            "location": "Cali, Valle del Cauca",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller con profundización en educación",
+            "institution": "Institución Educativa Timba Cauca",
+            "location": "Timba, Cauca",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "python",
+                "html",
+                "css",
+                "sql",
+                "postgresql",
+                "mongodb"
+            ],
+            "soft": [],
+            "tools": [
+                "android-studio",
+                "visual-studio-code",
+                "visual-studio",
+                "intellij",
+                "git",
+                "github",
+                "windows",
+                "linux",
+                "figma",
+                "canva"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "IAeyesNet: Sistema para la detección de somnolencia en vehículos de transporte",
+            "description": "Desarrollé un sistema basado en TensorFlow y redes convolucionales para detectar patrones de somnolencia en conductores en tiempo real. Utilicé Azure Vision para implementar detección facial.",
+            "technologies": [
+                "TensorFlow",
+                "Azure Vision"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Desarrollo de una Plataforma web para enviar correos electrónicos de manera masiva",
+            "description": "Actualmente en desarrollo, con backend implementado en Spring Boot para enviar correos electrónicos de manera masiva con una interfaz amigable.",
+            "technologies": [
+                "Spring Boot"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Desarrollo de una web para concesionario de vehículos",
+            "description": "Desarrollo colaborativo de un sitio web utilizando React, HTML, SCSS y JavaScript, con backend en Java.",
+            "technologies": [
+                "React",
+                "HTML",
+                "SCSS",
+                "JavaScript",
+                "Java"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Aplicación de canto de Aves",
+            "description": "Desarrollo colaborativo de una aplicación con Angular, Java y AndroidStudio, utilizando MySQL y JWT para seguridad.",
+            "technologies": [
+                "Angular",
+                "Java",
+                "AndroidStudio",
+                "MySQL",
+                "JWT"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Generador de tablas de verdad",
+            "description": "Desarrollo de una web para calcular tablas de verdad con JavaScript y TailwindCss.",
+            "technologies": [
+                "JavaScript",
+                "TailwindCss"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "German Andrés Morales Leon",
+            "relationship": "Docente de tiempo completo",
+            "contact": "+573183106493"
+        },
+        {
+            "name": "Juan Pablo Diaz C.",
+            "relationship": "Estudiante de ingeniería de sistemas",
+            "contact": "+573245642266"
+        },
+        {
+            "name": "Daniel Steven Viafara R.",
+            "relationship": "Estudiante de ingeniería de sistemas",
+            "contact": "+573158827507"
+        },
+        {
+            "name": "Jhon Deivy Rivas B.",
+            "relationship": "Estudiante de ingeniería de sistemas",
+            "contact": "+573217706324"
+        },
+        {
+            "name": "Juan Camilo Gallego",
+            "relationship": "Estudiante de ingeniería de sistemas",
+            "contact": "+573154007910"
+        }
+    ]
+}

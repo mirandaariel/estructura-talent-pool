@@ -1,0 +1,222 @@
+{
+    "personal_info": {
+        "first_name": "Carlos Michael",
+        "last_name": "Barboza",
+        "email": "michaelbarboza7@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un desarrollador apasionado con experiencia en la creación de soluciones tecnológicas innovadoras. Mi enfoque se centra en el desarrollo de aplicaciones web y móviles, utilizando tecnologías modernas. Estoy comprometido con el aprendizaje continuo y la mejora de mis habilidades, buscando siempre aportar valor a los proyectos en los que participo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Programador Full Stack Jr.",
+            "company": "Synerfy",
+            "location": "",
+            "start_date": "2025-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de aplicación con React.js / TypeScript, mediante optimización de Webpack.",
+                "Implementación de Laravel, (PHP 8.3) con integración RESTful API.",
+                "Utilización de Figma para diseño de componentes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y mantenimiento de aplicaciones web utilizando React.js, Node.js y Mongo DB.",
+                "Implementación de APIs RESTful para integración de servicios y manejo de datos.",
+                "Colaboración directa con clientes para definir requisitos y ofrecer soluciones personalizadas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Front-End Developer / PM",
+            "company": "No Country (Boot Camp)",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de plataforma web con Next.js 14 / TypeScript.",
+                "Implementación de diseño accesible usando Storybook.",
+                "Arquitectura serverless con AWS Lambda.",
+                "Integración de Webpack 5 / Treeshaking.",
+                "Coordinación de equipo de 4 desarrolladores usando SCRUM (Jira)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Front-End Developer",
+            "company": "Foo Talent (Boot Camp)",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Participación en desarrollo de plataforma de fisioterapia con React.js, Vite, Tailwind CSS y Socket.io.",
+                "Implementación de un sistema de reservas.",
+                "Optimización de rendimiento mediante lazy loading y code splitting."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Front-End Developer",
+            "company": "Foo Talent (Boot Camp)",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web con React 18, TypeScript y Tailwind CSS.",
+                "Implementación de sistemas de routing con React Router DOM.",
+                "Uso de metodologías ágiles SCRUM con Jira.",
+                "Creación de prototipos en Figma con enfoque mobile-first."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Analista de Sistemas (1 año, actual)",
+            "institution": "Instituto Superior Leonardo Da Vinci",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Especialización Front-End / Back-End",
+            "institution": "Digital House",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Carrera de Product Design",
+            "institution": "Coder House",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso Cloud Computing (AWS)",
+            "institution": "Coder House",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Backend Developer",
+            "institution": "UTN B.A.",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Certified Tech Developer: Professional Developer",
+            "institution": "Digital House",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Carrera Node JS",
+            "institution": "Educación IT",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Profesional Front-End Developer, Especializado en React",
+            "institution": "UTN B.A.",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ciberseguridad",
+            "institution": "Coder House",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react.js",
+                "typescript",
+                "webpack",
+                "laravel",
+                "php",
+                "restful-api",
+                "next.js",
+                "storybook",
+                "aws-lambda",
+                "vite",
+                "tailwind-css",
+                "socket.io",
+                "react-router-dom",
+                "css",
+                "css-grid",
+                "flexbox",
+                "scrum",
+                "jira",
+                "figma",
+                "git",
+                "docker",
+                "aws",
+                "postman",
+                "node.js",
+                "mongo-db"
+            ],
+            "soft": [
+                "communication",
+                "teamworking",
+                "problem-solving",
+                "client-collaboration"
+            ],
+            "tools": [
+                "figma",
+                "jira",
+                "webpack",
+                "storybook",
+                "vite"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

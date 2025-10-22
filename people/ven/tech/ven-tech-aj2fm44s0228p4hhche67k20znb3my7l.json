@@ -1,0 +1,103 @@
+{
+    "personal_info": {
+        "first_name": "Juan",
+        "last_name": "Pinto",
+        "email": "juanperezferrari@hotmail.com",
+        "phone": "",
+        "location": {
+            "country": "Venezuela",
+            "city": "Caracas",
+            "state": "Distrito Federal"
+        },
+        "linkedin": "www.linkedin.com/in/juan-pinto-85ba83251",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Web Full Stack Jr. con 1 año de experiencia en JavaScript y el stack MERN (MongoDB, Express.js, React.js, Node.js). Busco activamente una oportunidad para aplicar y expandir mis conocimientos en un entorno dinámico. Habilidades blandas: Destaco por mi proactividad, rápida adaptación a nuevas tecnologías y sólida capacidad para trabajar en equipo y bajo presión. Apasionado por el aprendizaje continuo y enfocado en la entrega de resultados de calidad."
+    },
+    "work_experience": [
+        {
+            "job_title": "Técnico telecomunicaciones e infraestructura de redes",
+            "company": "Corporación Galalt.c.a",
+            "location": "Caracas, Distrito Federal, Venezuela",
+            "start_date": "2021-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Resolución de problemas: Resolución de averías e incidencias complejas.",
+                "Manejo de sistemas complejos/infraestructura: Manejo de tecnologías de Red Ethernet/FO/WISP (Cisco/Mikrotik/Ubiquiti).",
+                "Documentación/Organización: Elaboración de informes técnicos.",
+                "Atención al detalle: Implícita en la instalación y mantenimiento.",
+                "Trabajo bajo presión/proyectos: Instalación / Puesta en Marcha / Soporte y Mantenimiento de todos los equipos de redes y comunicaciones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Programador Full Stack",
+            "institution": "EDTecnica",
+            "location": "Distrito Federal, Venezuela",
+            "start_date": "2024-03-01",
+            "end_date": "2024-08-31",
+            "hours": 0
+        },
+        {
+            "degree": "TSU en Informática",
+            "institution": "Colegio Universitario de Los Teques Cecilio Acosta",
+            "location": "Los Teques, Venezuela",
+            "start_date": "2010-01-01",
+            "end_date": "2013-07-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "mern-stack",
+                "node.js"
+            ],
+            "soft": [
+                "proactividad",
+                "rápida-adaptación-a-nuevas-tecnologías",
+                "trabajo-en-equipo",
+                "trabajo-bajo-presión"
+            ],
+            "tools": [
+                "github",
+                "tailwind-css",
+                "axios.js",
+                "jwt"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Aplicación de gestión administrativa y contable",
+            "description": "Desarrollo integral de una aplicación de gestión administrativa y contable para empresas utilizando el stack MERN.",
+            "technologies": [
+                "MongoDB",
+                "Express.js",
+                "React.js",
+                "Node.js"
+            ],
+            "url": "https://github.com/juanpintodev/backendprueba.git"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Fluent"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,144 @@
+{
+    "personal_info": {
+        "first_name": "Robert Sebastián",
+        "last_name": "Muñoz Clasing",
+        "email": "robertclasing@gmail.com",
+        "phone": "+56944746190",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "https://rm-portafolio.netlify.app",
+        "portfolio": "",
+        "summary": "Profesional con dos años de experiencia, con conocimientos en área de analista gestión de cambio TI, Analista Gestión de redes Noc1, Analista soporte TI. Además poseo conocimientos de React,JS,Next,Bootstrap,MySQL,Tailwind,Linux y Excel."
+    },
+    "work_experience": [
+        {
+            "job_title": "Técnico de soporte TI",
+            "company": "Entel connect center",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "2025-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Resolver incidencias en la clínica alemana e instalar impresoras hp brother laser y multifuncionales.",
+                "Resolver incidencias de varios dispositivos médicos.",
+                "Gestionar los diferentes tickets de incidencias y de requerimientos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista gestión de cambio TI",
+            "company": "Team Mate",
+            "location": "",
+            "start_date": "2022-09-01",
+            "end_date": "2023-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestione solicitudes de AS400 y Jenkins que llegaban al correo corporativo del banco, incluyendo BOM, P10 y las piezas.",
+                "Instalación de pasos a producción: Piezas AS400, PPYME, Anthos, Android, Huawei, IOS."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista Gestión de Redes NOC1",
+            "company": "Fractalia",
+            "location": "",
+            "start_date": "2022-02-01",
+            "end_date": "2022-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión de enlaces de red del cliente a través de la plataforma Remedy, informando al cliente si el enlace estaba caído o estable, y derivando a telemático a través de las pruebas troubleshooting."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista soporte TI",
+            "company": "",
+            "location": "",
+            "start_date": "2019-10-01",
+            "end_date": "2019-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestione solicitudes en la plataforma Remedy. Consiste en gestionar la caída de enlace del cliente, para restablecer la conexión."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Informática",
+            "institution": "Universidad Tecnológica de Chile INACAP",
+            "location": "",
+            "start_date": "2015-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "js",
+                "java",
+                "vba",
+                "mysql",
+                "sql",
+                "firebase",
+                "as400",
+                "react",
+                "bootstrap",
+                "tailwind",
+                "jquery",
+                "next",
+                "linux"
+            ],
+            "soft": [
+                "proactivo",
+                "trabajo-en-equipo",
+                "responsabilidad",
+                "buena-disposición",
+                "ganas-de-aprender"
+            ],
+            "tools": [
+                "excel",
+                "vsc",
+                "git"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Portafolio",
+            "description": "Consiste en una colección de proyectos y muestras de trabajo que demuestran tus habilidades en diseño y desarrollo web.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Blog",
+            "description": "Consiste que tiene distintos posts a través de una paginación realizada con la lógica de react y js.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Formulario-Dinámico",
+            "description": "Consiste en una práctica de formularios.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

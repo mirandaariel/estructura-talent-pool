@@ -1,0 +1,132 @@
+{
+    "personal_info": {
+        "first_name": "Alejandro",
+        "last_name": "Sáez",
+        "email": "saezfvet@gmail.com",
+        "phone": "+54-911-67545374",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/alejandrosaezgonzalez",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy desarrollador front-end con sólida experiencia en React, Next, Redux, TypeScript y testing con Jest y React Testing Library. Trabajé 3 años en el Mercado Argentino de Valores, participando en proyectos complejos con arquitecturas modernas como microfrontends y herramientas de UI como Ant Design. Además de programar, disfruto colaborar, compartir conocimientos y acompañar a juniors."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Front End",
+            "company": "Mercado Argentino de Valores S.A.",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2022-05-01",
+            "end_date": "2025-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollar funcionalidades que cumplan los estándares de calidad de la empresa, incluyendo escalabilidad, solidez, optimización y rendimiento.",
+                "Proponer y desarrollar ideas para mejorar la experiencia de usuario.",
+                "Asegurar que el proceso, desde la carga de cheques hasta su negociación, sea lo más fluido y cómodo posible."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Docente Auxiliar Bootcamp Mercado Libre",
+            "company": "Digital House",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2021-08-01",
+            "end_date": "2022-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Realizar la capacitación técnica de alumnos ingresantes al equipo de front end de Mercado Libre en entornos y tecnologías propias de la empresa."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Tutor React Js",
+            "company": "Coder House",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2021-01-01",
+            "end_date": "2021-08-31",
+            "currently_working": false,
+            "responsibilities": [],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Programación Fullstack",
+            "institution": "Digital House",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2020-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso React Js",
+            "institution": "Coder House",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2020-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Programación Orientada a Objetos",
+            "institution": "UTN",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2019-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react-js",
+                "next-js",
+                "redux-js",
+                "jest",
+                "react-testing",
+                "microfrontend",
+                "typescript",
+                "solid",
+                "html",
+                "ant-design",
+                "git",
+                "css"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "adaptabilidad-y-flexibilidad",
+                "comunicación-y-colaboración",
+                "formación-constante"
+            ],
+            "tools": [
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

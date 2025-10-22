@@ -1,0 +1,142 @@
+{
+    "personal_info": {
+        "first_name": "Alejandro",
+        "last_name": "Mederico",
+        "email": "mederico.alejandro1988@gmail.com",
+        "phone": "+5491167907265",
+        "location": {
+            "country": "Argentina",
+            "city": "Capital Federal",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://www.linkedin.com/in/alejandromederico/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero Electrónico con 4 años de experiencia como Full Stack Developer, especializado en Node.js, TypeScript, NestJS y FastAPI para crear APIs escalables y robustas. Experiencia en AWS (Lambda, S3, EC2), CI/CD (GitHub Actions, Jenkins), Docker y manejo de bases de datos relacionales y no relacionales. Combino React con tecnologías de IA como Python, LangChain y Ollama para desarrollar soluciones inteligentes e integradas. Soy proactivo, creativo y orientado a resultados, siempre listo para nuevos desafíos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Software Development Engineer",
+            "company": "FKtech Arcos Dorados (McDonalds)",
+            "location": "Argentina",
+            "start_date": "2022-02-01",
+            "end_date": "2025-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web y escritorio para McDonald's utilizando principalmente React.js, TypeScript y Redux en el frontend.",
+                "Implementación y mantenimiento de servicios backend con Node.js y NestJS, integrados con APIs internas y microservicios para soportar funcionalidades críticas.",
+                "Creación de un sistema de asistencia con IA para programadores que sugiere autocompletado de código y lógica de negocio, usando Python, Ollama, Llama y LangChain.",
+                "Refactorización completa del core de la aplicación Flex, mejorando la velocidad en un 70% gracias a la detección y corrección de memory leaks.",
+                "Desarrollo de herramientas predictivas con Python y LangChain para estimar tiempos de desarrollo basados en datos históricos de Jira."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend Developer",
+            "company": "Alkemy",
+            "location": "Argentina",
+            "start_date": "2021-08-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y desarrollo de interfaces de usuario interactivas con React.js y TypeScript.",
+                "Participación en proyectos intensivos de desarrollo de software."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ingeniero Electrónico",
+            "company": "ECOTERMO",
+            "location": "Argentina",
+            "start_date": "2019-08-01",
+            "end_date": "2020-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Programación de PLC y Arduino para sistemas de control electrónico.",
+                "Desarrollo de soluciones de automatización para procesos industriales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ingeniero Electrónico",
+            "company": "Central Hidroeléctrica",
+            "location": "Venezuela",
+            "start_date": "2015-06-01",
+            "end_date": "2019-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Supervisión y mantenimiento de sistemas de instrumentación y control.",
+                "Liderazgo de equipos para asegurar la operación eficiente de equipos industriales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero Electrónico",
+            "institution": "Unexpo",
+            "location": "Venezuela",
+            "start_date": "2005-07-01",
+            "end_date": "2015-09-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "node.js",
+                "typescript",
+                "python",
+                "c++",
+                "docker",
+                "react.js",
+                "redux",
+                "nest.js",
+                "express.js",
+                "fastapi",
+                "langchain",
+                "bootstrap",
+                "anaconda",
+                "n8n",
+                "openai",
+                "postgresql",
+                "mysql",
+                "sql-server",
+                "mongodb",
+                "html",
+                "css",
+                "microservicios",
+                "programación-de-microcontroladores"
+            ],
+            "soft": ["proactive", "creative", "result-oriented"],
+            "tools": [
+                "github",
+                "jira",
+                "scrum",
+                "github-copilot",
+                "notion"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Intermediate (Reading, Writing)"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,163 @@
+{
+    "personal_info": {
+        "first_name": "Cuauhtemoc",
+        "last_name": "Pascual Pineda",
+        "email": "cuauhpineda87@gmail.com",
+        "phone": "2282423046",
+        "location": {
+            "country": "Mexico",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/cuauhtémoc-pascual-pineda-794b28256",
+        "website": "https://github.com/cuauh87",
+        "portfolio": "",
+        "summary": "Full Stack Developer with a background in business and over 10 years of experience leading entrepreneurial projects, managing teams, and driving marketing strategies. Passionate about technology, efficiency, and building simple solutions to complex problems. I bring a well-rounded perspective that blends technical expertise with business insight. Team player, fast learner, and ready to add value from day one."
+    },
+    "work_experience": [
+        {
+            "job_title": "Founder & Owner",
+            "company": "Private Company",
+            "location": "",
+            "start_date": "2013-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Specialized in the distribution of chemical products for the food industry.",
+                "Managed an e-commerce platform aimed at small and medium-sized businesses.",
+                "Served producers of meat products, sausages, dairy products, seafood, fruit, vegetable derivatives, and beauty products."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Director of Relations",
+            "company": "SITUX SA. DE CV.",
+            "location": "Xalapa, Mexico",
+            "start_date": "2012-01-01",
+            "end_date": "2023-05-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Company dedicated to urban and suburban mass transportation of passengers via fixed-route buses."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Chief Marketing Officer",
+            "company": "Unknown Company",
+            "location": "",
+            "start_date": "2018-04-01",
+            "end_date": "2022-05-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Created IZEL to drive change in fashion industry production methods by designing Just-In-Time production systems using cutting-edge technology and a multi-level marketing structure."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full-Stack Web Development Bootcamp",
+            "institution": "Henrry Bootcamp",
+            "location": "Argentina",
+            "start_date": "2023-05-01",
+            "end_date": "2024-04-01",
+            "hours": 0
+        },
+        {
+            "degree": "Master's Degree in Marketing",
+            "institution": "Universidad Anáhuac",
+            "location": "",
+            "start_date": "2013-01-01",
+            "end_date": "2015-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bachelor of Business Administration",
+            "institution": "Universidad Anáhuac",
+            "location": "",
+            "start_date": "2006-01-01",
+            "end_date": "2011-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "python",
+                "ruby",
+                "sql",
+                "html",
+                "css",
+                "react",
+                "html5",
+                "css3",
+                "responsive-design",
+                "json",
+                "node.js",
+                "express.js",
+                "rest-apis",
+                "sqlite"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "postman",
+                "trello",
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "crud-fullstack-sqlite",
+            "description": "Full-stack CRUD application using JavaScript, Express, and SQLite. Demonstrates backend API development with a lightweight relational database and frontend integration for efficient data management.",
+            "technologies": [
+                "javascript",
+                "express",
+                "sqlite"
+            ],
+            "url": ""
+        },
+        {
+            "name": "cli-calc",
+            "description": "Command-line calculator built in Node.js, supporting basic arithmetic operations. Highlights skills in building terminal-based tools with effective input/output handling.",
+            "technologies": [
+                "node.js"
+            ],
+            "url": ""
+        },
+        {
+            "name": "crud-node-mongodb",
+            "description": "Full-stack CRUD application using Node.js, Express, and MongoDB with Mongoose. Showcases NoSQL database management, REST API design, and scalable backend development.",
+            "technologies": [
+                "node.js",
+                "express",
+                "mongodb"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": ""
+        },
+        {
+            "language": "Spanish",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

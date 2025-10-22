@@ -1,0 +1,124 @@
+{
+    "personal_info": {
+        "first_name": "Nicolas",
+        "last_name": "Trucco",
+        "email": "nhtrucco@gmail.com",
+        "phone": "+54 341 672 6253",
+        "location": {
+            "country": "Argentina",
+            "city": "Funes",
+            "state": "Santa Fe"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "Nicolas Trucco Dev",
+        "summary": "Junior Front-End Developer with knowledge of HTML, CSS, and JavaScript, focused on building intuitive, responsive, and user-centered interfaces. Proactive, quick to learn, and comfortable working in team environments. Eager to apply technical skills in real-world projects and contribute to the development of modern web solutions."
+    },
+    "work_experience": [
+        {
+            "job_title": "Web Developer",
+            "company": "Aura Lash Estudio",
+            "location": "",
+            "start_date": "2025-05-01",
+            "end_date": "2025-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed a responsive web application using React and TypeScript.",
+                "Integrated service management in Firestore with category filtering.",
+                "Setup integration with the WhatsApp API for direct contact."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Web Developer",
+            "company": "Sistemas Automatismos Industriales",
+            "location": "",
+            "start_date": "2025-04-01",
+            "end_date": "2025-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Built an e-commerce platform using React JS and SASS.",
+                "Implemented real-time data handling with Firestore.",
+                "Integrated with the WhatsApp API for direct contact."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Web Developer",
+            "company": "Malek Fara Automóvil",
+            "location": "",
+            "start_date": "2024-12-01",
+            "end_date": "2025-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed a responsive application for vehicle management using React and TypeScript.",
+                "Utilized Firestore for real-time data administration."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Engineering in Industrial",
+            "institution": "Pontifical Catholic University of Argentina",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "sass",
+                "javascript",
+                "typescript",
+                "react",
+                "git",
+                "express.js",
+                "node.js",
+                "github"
+            ],
+            "soft": [
+                "problem-analysis",
+                "planning-and-organization",
+                "critical-thinking"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Basic"
+        },
+        {
+            "language": "Italian",
+            "proficiency": "Basic"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "",
+            "relationship": "",
+            "contact": ""
+        }
+    ]
+}

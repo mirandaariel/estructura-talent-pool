@@ -1,0 +1,114 @@
+{
+    "personal_info": {
+        "first_name": "Diosmelys",
+        "last_name": "Rodríguez Zamora",
+        "email": "Diosmelys3@gmail.com",
+        "phone": "+542994287214",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": "Neuquén"
+        },
+        "linkedin": "https://www.linkedin.com/in/diosmelysrodriguez",
+        "website": "",
+        "portfolio": "",
+        "summary": "QA Analyst con formación en Administración de empresas y amplia experiencia práctica en testing manual y entornos ágiles (SCRUM). En más de 1 año de experiencia he colaborado en varios proyectos de desarrollo de servicios digitales enfocados en web y mobile, realizando pruebas funcionales y sus distintos tipos, reporte y seguimiento de bugs, revisión y análisis de especificaciones, feedback para mejoramiento de producto, y colaboración cercana con todo el equipo multidisciplinario, especialmente con desarrolladores, para asegurar la calidad del producto."
+    },
+    "work_experience": [
+        {
+            "job_title": "QA Analyst",
+            "company": "Skynoff Technology and development",
+            "location": "Remoto | Anzoátegui, Venezuela",
+            "start_date": "2024-08-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé, redacté y ejecuté casos de pruebas manuales para la aplicación, tanto para web como mobile.",
+                "Utilicé herramientas como Jira para el seguimiento del flujo del proyecto, y excel y Xray para la gestión de test cases y seguimiento de tareas.",
+                "Usé Firebase para validar flujos de datos, autenticación y almacenamiento en tiempo real.",
+                "Realicé pruebas de regresión y smoke",
+                "Analicé requerimientos funcionales, colaborando cercanamente con el equipo.",
+                "Realicé validaciones de endpoints mediante Postman y consultas básicas en SQL para verificación de datos.",
+                "Usé Slack y Discord como herramientas de comunicación."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Asistente Administrativo",
+            "company": "Inmobiliaria Dávila&Flores",
+            "location": "Presencial | Lima, Perú",
+            "start_date": "2019-03-01",
+            "end_date": "2023-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Registro y control de ingresos y egresos utilizando Excel.",
+                "Gestión de pagos de servicios: seguimiento, control y archivo de comprobantes.",
+                "Emisión y cobro de recibos por mantenimiento de propiedades.",
+                "Control y registro de sueldos del personal.",
+                "Apoyo en trámites municipales: gestión de documentación y seguimiento de licencias de funcionamiento."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico en Administración de Empresas",
+            "institution": "Instituto San Ignacio de Loyola (ISIL)",
+            "location": "Perú",
+            "start_date": "2022-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico en Contaduría Pública",
+            "institution": "Universidad Politécnica Territorial José Antonio Anzoátegui (UPTJAA)",
+            "location": "Venezuela",
+            "start_date": "2013-01-01",
+            "end_date": "2017-01-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "postman",
+                "sql",
+                "pruebas-de-regresión",
+                "pruebas-smoke",
+                "diseño-de-test-cases",
+                "bug-life-cycle",
+                "jira",
+                "xray",
+                "android-studio",
+                "devtools",
+                "scrum"
+            ],
+            "soft": [
+                "feedback",
+                "colaboración",
+                "comunicación"
+            ],
+            "tools": [
+                "jira",
+                "xray",
+                "confluence",
+                "discord",
+                "slack",
+                "google-calendar",
+                "mirro"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}
