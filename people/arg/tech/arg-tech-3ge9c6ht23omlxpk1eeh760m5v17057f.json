@@ -1,0 +1,164 @@
+{
+    "personal_info": {
+        "first_name": "Ciro",
+        "last_name": "Derito",
+        "email": "deritociro.trabajo@gmail.com",
+        "phone": "+54 1166865308",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/ciro-derito/",
+        "website": "https://ciroderito.vercel.app/",
+        "portfolio": "",
+        "summary": "Soy un desarrollador web con una sólida base profesional y experiencia práctica, especializado en el desarrollo backend. Actualmente, estoy ampliando mis habilidades en frontend con tecnologías como React, React-Native, Angular y Next.js, lo que me permite entregar soluciones completas, eficientes, seguras y de alta calidad. Me destaco por mi enfoque en la mejora continua y actualmente me preparo para alcanzar un nivel de inglés bilingüe (B2-C1), con el objetivo de desempeñarme eficazmente en entornos internacionales."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador No-Code | Backend",
+            "company": "Bord",
+            "location": "",
+            "start_date": "2025-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño e implementación de soluciones backend usando herramientas no-code como Glide, Make y Airtable.",
+                "Integración de APIs, automatización de procesos y gestión de datos para productos digitales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Fullstack Freelance",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé APIs RESTful, optimicé el rendimiento y mantuve los componentes backend, colaborando con los equipos de frontend, QA y diseño dentro de un marco Ágil Scrum."
+            ],
+            "achievements": [
+                "Diseñé e implementé APIs RESTful, mejorando la comunicación entre el frontend y el backend.",
+                "Reduje los tiempos de respuesta del servidor mediante optimizaciones específicas.",
+                "Apliqué principios de 'Arquitectura Limpia' y 'Código Limpio' para mejorar la mantenibilidad.",
+                "Eliminé librerías obsoletas, mejorando los tiempos de compilación y el rendimiento del sistema.",
+                "Amplié mis conocimientos en SQL, NoSQL, microservicios y Docker."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Supervisor",
+            "company": "Cimes",
+            "location": "",
+            "start_date": "2019-04-01",
+            "end_date": "2023-11-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Supervisar el equipo, gestionar entregas y controlar el inventario.",
+                "Capacitar al personal nuevo y coordinar eficientemente las entregas para garantizar un servicio óptimo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Secundario completo",
+            "institution": "Ing Pablo Nogues",
+            "location": "Mendoza",
+            "start_date": "",
+            "end_date": "2017-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingenieria en Sistemas",
+            "institution": "Universidad de Buenos Aires",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "styled-components",
+                "react",
+                "vite",
+                "tailwind",
+                "redux",
+                "bootstrap",
+                "context-api",
+                "jest",
+                "tdd",
+                "typescript",
+                "next",
+                "angular",
+                "node",
+                "python",
+                "django",
+                "graphql",
+                "express",
+                "nest-js",
+                "typeorm",
+                "sql",
+                "mongo-db",
+                "microservices",
+                "docker",
+                "git",
+                "ciicd",
+                "swagger",
+                "jwt",
+                "api-rest",
+                "postgresql",
+                "jest",
+                "jasmine",
+                "oauth"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Desarrollador Web Inicial",
+            "issuing_organization": "Universidad Tecnológica Nacional",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollador Web Avanzado",
+            "issuing_organization": "Universidad Tecnológica Nacional",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Diplomatura en Desarrollo Full Stack",
+            "issuing_organization": "Universidad Tecnológica Nacional",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

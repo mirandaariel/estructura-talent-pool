@@ -1,0 +1,183 @@
+{
+    "personal_info": {
+        "first_name": "Diego",
+        "last_name": "Marín",
+        "email": "paolo05061@gmail.com",
+        "phone": "+54 11-23908766",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Frontend Developer con sólidos conocimientos en diseño, back-end y análisis de datos, Estudiante de una tecnicatura en programación en la UTN con el 20% de las materias aprobadas y siendo autodidacta con casi 2 años de experiencia en desarrollo web, aprendiendo tecnologías y siguiendo las últimas tendencias."
+    },
+    "work_experience": [
+        {
+            "job_title": "Front End Developer",
+            "company": "Dazlab",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Codificar las interfaces y componentes visuales requeridos en Figma.",
+                "Proporcionar una experiencia de usuario fluida y atractiva usando técnicas avanzadas de SEO.",
+                "Implementar la lógica programática para hacer las interfaces funcionales."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Zite",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2024-11-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollar y reportar KPIs clave con métricas mensuales para seguimiento.",
+                "Visualizar información en gráficos y generar reportes automatizados con IA."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Front-end",
+            "company": "Cerrajería Sheifer",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "2024-09-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollar página de aterrizaje tipo funnel para un cliente cerrajero.",
+                "Generar tráfico orgánico de 20 usuarios únicos por día."
+            ],
+            "achievements": [],
+            "repository_url": "https://cerrajero24horasarg.com"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Superior en Programación",
+            "institution": "UTN Avellaneda",
+            "location": "",
+            "start_date": "2022-09-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-08-01",
+            "hours": 800
+        },
+        {
+            "degree": "Data Analyst",
+            "institution": "CoderHouse",
+            "location": "",
+            "start_date": "2022-03-01",
+            "end_date": "2022-08-01",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Developer con JavaScript",
+            "institution": "Platzi",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-07-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "c",
+                "python",
+                "c#",
+                "react",
+                "next.js",
+                "astro",
+                "node.js",
+                "bootstrap",
+                ".net",
+                "tailwind",
+                "docker",
+                "supabase",
+                "redux",
+                "html5",
+                "css3",
+                "webpack",
+                "jest",
+                "sass",
+                "mysql",
+                "mongodb",
+                "postgresql",
+                "power-bi",
+                "excel",
+                "storytelling",
+                "data-visualization"
+            ],
+            "soft": [
+                "disciplina",
+                "gestión-del-tiempo",
+                "actitud",
+                "planificación",
+                "proactividad"
+            ],
+            "tools": [
+                "figma",
+                "photoshop",
+                "git",
+                "notion",
+                "slack",
+                "jira",
+                "scrum"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "EduFee",
+            "description": "Aplicación web desarrollada con una pasarela de pagos que permitiera a los estudiantes realizar pagos de cuotas y matrículas de manera segura y eficiente.",
+            "technologies": [
+                "next",
+                "tailwind-css",
+                "nest.js",
+                "node.js",
+                "postgresql",
+                "socket.io",
+                "auth0",
+                "zustand",
+                "api-stripe",
+                "nodemailer"
+            ],
+            "url": "https://edufee.vercel.app/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (B2)"
+        },
+        {
+            "language": "Portugués",
+            "proficiency": "Básico (A2)"
+        },
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

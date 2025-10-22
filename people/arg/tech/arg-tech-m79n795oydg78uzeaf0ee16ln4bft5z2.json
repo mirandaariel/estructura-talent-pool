@@ -1,0 +1,98 @@
+{
+    "personal_info": {
+        "first_name": "Santiago",
+        "last_name": "Pérez",
+        "email": "santi__@live.com.ar",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Pergamino",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Backend con experiencia en el diseño, desarrollo y mantenimiento de aplicaciones web escalables. Especializado en APIs REST y bases de datos relacionales/no relacionales. Competente en Python, JavaScript y SQL, con foco en optimización de rendimiento y calidad del código. Estudiante avanzado de Licenciatura en Sistemas. Apasionado por resolver problemas complejos y entregar soluciones de alto impacto."
+    },
+    "work_experience": [
+        {
+            "job_title": "Programador Full Stack",
+            "company": "NEXA Informática",
+            "location": "Argentina",
+            "start_date": "2023-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñé e implementé APIs REST con .NET, ampliando y creando nuevas funcionalidades, optimizando código.",
+                "Desarrollé interfaces web modernas utilizando React y Material UI, desde el diseño de vistas hasta su implementación.",
+                "Participé en varias propuestas para nuevas aplicaciones web, diseñé las vistas y utilicé Material UI como biblioteca de componentes para realizarlas.",
+                "Realicé desarrollos nuevos, mantenimiento y mejoras en aplicaciones web, aprendí técnicas de escalado para optimizar cargas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Sistemas",
+            "institution": "Universidad Nacional del Noroeste de la Provincia de Buenos Aires (UNNOBA)",
+            "location": "",
+            "start_date": "2017-02-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "javascript",
+                "java",
+                "c#",
+                "flask",
+                ".net",
+                "git",
+                "react",
+                "react-router-dom",
+                "react-query",
+                "material-ui",
+                "postgresql",
+                "mongodb",
+                "mysql",
+                "sql-server",
+                "pruebas-unitarias",
+                "postman",
+                "scrum",
+                "ci/cd",
+                "linux",
+                "fetch-api"
+            ],
+            "soft": [
+                "resolución-de-problemas",
+                "trabajo-en-equipo",
+                "comunicación-efectiva",
+                "orientación-a-resultados"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

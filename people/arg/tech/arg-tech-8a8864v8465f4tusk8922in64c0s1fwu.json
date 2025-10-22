@@ -1,0 +1,114 @@
+{
+    "personal_info": {
+        "first_name": "Santiago",
+        "last_name": "Ibarlucía",
+        "email": "sibarlucia99@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy desarrollador web freelancer y hago aplicaciones con front-end en React y backends que pueden variar entre node.js y Java con bases de datos en MySql o MongoDB dependiendo de las necesidades."
+    },
+    "work_experience": [
+        {
+            "job_title": "Administrador de bases de datos y bibliotecario",
+            "company": "CIF (Centro de Investigaciones Filosóficas)",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2019-02-01",
+            "end_date": "2020-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Tomé inventario completo de los libros, los catalogué y utilicé un programa obsoleto para ingresar su información al sistema.",
+                "Renové el sistema en un proyecto, CIF ya no utiliza Winisis sino una base de datos MongoDB con su propio servidor en AWS."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Assistant",
+            "company": "Territorio",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2023-03-01",
+            "end_date": "2023-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Compré y serví café, creé y gestioné servidores de Discord, direccioné direcciones de correo electrónico y gestioné los dominios para las páginas web ya existentes."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería electrónica",
+            "institution": "Universidad Nacional de San Martín (UNSAM)",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2025-03-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Certified Tech Developer",
+            "institution": "Digital House",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2021-07-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller",
+            "institution": "Colegio Nacional de Buenos Aires",
+            "location": "Buenos Aires, Capital Federal",
+            "start_date": "2013-03-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "javascript",
+                "springboot",
+                "react.js",
+                "node.js",
+                "mysql",
+                "mongodb",
+                "h2",
+                "linux",
+                "shell",
+                "bash",
+                "aws",
+                "docker",
+                "kubernetes",
+                "ci/cd",
+                "arduino",
+                "esp32",
+                "bluetooth"
+            ],
+            "soft": [],
+            "tools": [
+                "figma",
+                "postman",
+                "selenium",
+                "scrum",
+                "kanban"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

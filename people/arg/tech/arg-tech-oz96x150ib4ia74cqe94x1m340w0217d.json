@@ -1,0 +1,118 @@
+{
+  "personal_info": {
+    "first_name": "Patricio Daniel",
+    "last_name": "Mainero",
+    "email": "patricio1984@gmail.com",
+    "phone": "+54 2216341555",
+    "location": {
+      "country": "Argentina",
+      "city": "Ensenada",
+      "state": ""
+    },
+    "linkedin": "https://linkedin.com/in/patriciomainero",
+    "website": "",
+    "portfolio": "",
+    "summary": "Desarrollador Front End con más de 4 años de experiencia construyendo interfaces modernas, accesibles y escalables. Especializado en React.js y en la implementación de buenas prácticas web (WCAG, responsive design, rendimiento). Proactivo, adaptable y con inglés técnico intermedio/avanzado."
+  },
+  "work_experience": [
+    {
+      "job_title": "Front End Developer",
+      "company": "Avature",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "currently_working": false,
+      "responsibilities": [
+        "Lideré el desarrollo y mantenimiento de portales corporativos accesibles (WCAG) usando HTML, Twig y React.",
+        "Refactoricé componentes críticos, mejorando escalabilidad y tiempos de carga en un 30%.",
+        "Colaboré con equipos de UX y QA para optimizar la experiencia e inclusividad de los productos.",
+        "Impulsé mejoras de accesibilidad web que garantizaron cumplimiento con WCAG 2.2.",
+        "Entregué proyectos de alto estándar técnico de forma consistente, con foco en calidad y deadlines."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Front End Developer",
+      "company": "Freelance",
+      "location": "",
+      "start_date": "2020-03-01",
+      "end_date": "2023-12-31",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollé múltiples sitios responsive y SPAs con React para clientes diversos.",
+        "Integré APIs RESTful con fetch/axios, optimizando tiempos de carga hasta un 40%.",
+        "Implementé gestión de estados compleja con hooks personalizados y useContext/useReducer.",
+        "Gestioné proyectos completos, desde GitHub hasta despliegue, con entregas exitosas.",
+        "Traduje requerimientos de clientes y diseño en soluciones funcionales y atractivas."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Full Stack Development Program",
+      "institution": "FREECODECAMP",
+      "location": "Remoto, Argentina",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "Front End Developer",
+      "institution": "BITDEGREE",
+      "location": "Remoto, Argentina",
+      "start_date": "2020-02-01",
+      "end_date": "2020-08-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "react",
+        "next.js",
+        "javascript",
+        "typescript",
+        "html",
+        "css",
+        "tailwind-css",
+        "node.js",
+        "mongodb",
+        "graphql",
+        "git",
+        "github",
+        "npm",
+        "webpack",
+        "responsive-web-design",
+        "seo",
+        "web-accessibility-(wcag)",
+        "jquery",
+        "bootstrap",
+        "twig"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Fluido técnico"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

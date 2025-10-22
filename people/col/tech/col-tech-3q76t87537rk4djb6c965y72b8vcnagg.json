@@ -1,0 +1,122 @@
+{
+    "personal_info": {
+        "first_name": "Jhonatan",
+        "last_name": "Mendez",
+        "email": "jhonatanmendez959@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Colombia",
+            "city": "Bucaramanga",
+            "state": "Santander"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero de sistemas con más de 2 años de experiencia en desarrollo, principalmente con NodeJS, Java. Experiencia en el diseño y la implementación de arquitecturas escalables y nativas de la nube mediante servicios de AWS como Lambda, Cognito. También he contribuido al desarrollo full-stack usando Angular, dándome una fuerte visibilidad en la integración frontend-backend. Soy proactivo y aprendo rápido, apasionado por resolver problemas del mundo real a través de sistemas backend robustos y eficientes. Actualmente busco oportunidades para crecer en sistemas distribuidos y entornos de desarrollo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Ingeniero Desarrollador",
+            "company": "Informatix de Colombia",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Contribuyo al desarrollo de servicios backend utilizando Lambda Functions, NodeJS, integrando la lógica de negocio con bases de datos DynamoDB.",
+                "Construí y mantuve módulos frontales en Angular 19, asegurando la alineación con las mejores prácticas de UX/UI.",
+                "Integración de servicios AWS incluyendo Lambda, EC2, y Cognito para despliegues.",
+                "Trabajó en un entorno basado en Linux, utilizando Git y SVN para el control de versiones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Junior Developer",
+            "company": "Contoda",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "2023-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Contribuí al desarrollo de un sistema POS y una plataforma de facturación electrónica.",
+                "Trabajé en funciones de backend utilizando PHP y Laravel, y construí interfaces de usuario con JavaScript, jQuery y Bootstrap.",
+                "Diseñé y optimicé estructuras de bases de datos MySQL para soportar integridad transaccional.",
+                "Colaboré con el equipo utilizando Git, siguiendo metodologías ágiles.",
+                "Adquirí experiencia en desarrollo full stack asegurando la calidad y mantenibilidad del código."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero de Sistemas",
+            "institution": "Corporación Unificada Nacional de Educación Superior",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnólogo en Desarrollo de Software y Redes",
+            "institution": "Corporación Unificada Nacional de Educación Superior",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Profesional de Sistemas y Soporte Informático",
+            "institution": "Corporación Unificada Nacional de Educación Superior",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "nodejs",
+                "aws-lambda",
+                "aws-cognito",
+                "angular",
+                "postgresql",
+                "mysql",
+                "php",
+                "laravel"
+            ],
+            "soft": [
+                "proactivo",
+                "aprendizaje-rapido",
+                "resolucion-de-problemas"
+            ],
+            "tools": [
+                "git",
+                "svn",
+                "linux"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Certified Cloud Computing",
+            "issuing_organization": "",
+            "issue_date": "2020-08-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

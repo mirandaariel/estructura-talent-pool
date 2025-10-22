@@ -1,0 +1,122 @@
+{
+    "personal_info": {
+        "first_name": "Carlos",
+        "last_name": "Cabral",
+        "email": "carlosfcabral. 90@gmail.com",
+        "phone": "+542235533185",
+        "location": {
+            "country": "Argentina",
+            "city": "Mar del Plata",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Front-End Developer with solid experience in React, Next.js, and TypeScript, specialized in creating modern, scalable, and user-experience-optimized web interfaces."
+    },
+    "work_experience": [
+        {
+            "job_title": "Front-End Web Developer",
+            "company": "Apeiron GS",
+            "location": "Mar del Plata, Buenos Aires",
+            "start_date": "2021-08-01",
+            "end_date": "2025-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed and optimized responsive web applications focused on performance.",
+                "Created over 15 reusable components following best design practices.",
+                "Deployed to production and solved bugs in live environments.",
+                "Managed communication and tasks using Slack and Jira."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Jr. Front-End Web Developer",
+            "company": "Gearthlogic",
+            "location": "Mar del Plata, Buenos Aires",
+            "start_date": "2021-05-01",
+            "end_date": "2021-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Maintained and improved UI components in React-based applications.",
+                "Fixed bugs and enhanced performance.",
+                "Managed daily tasks and team communication using Notion and Slack."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "University Technician in Programming (Incomplete)",
+            "institution": "National Technological University (UTN)",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Mechanical Engineering (Incomplete)",
+            "institution": "Faculty of Engineering, UNMdP",
+            "location": "",
+            "start_date": "2011-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "javascript",
+                "typescript",
+                "react",
+                "next.js",
+                "css3",
+                "tailwind-css",
+                "styled-components",
+                "redux",
+                "context-api",
+                "rest-apis",
+                "jest",
+                "react-testing-library"
+            ],
+            "soft": [
+                "teamwork",
+                "problem-solving",
+                "adaptability-to-new-technologies",
+                "proactivity",
+                "effective-communication"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "vite",
+                "eslint",
+                "prettier",
+                "agile",
+                "scrum",
+                "kanban",
+                "jira",
+                "notion",
+                "slack"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,202 @@
+{
+    "personal_info": {
+        "first_name": "Fabrizio",
+        "last_name": "Gonzalez",
+        "email": "Fabriziogonzalez@live.com",
+        "phone": "+5491164419396",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "www.linkedin.com/in/fabriziogonzalez",
+        "website": "",
+        "portfolio": "https://github.com/Fabrizio23",
+        "summary": "Analista y tester QA Manual con experiencia en validación de aplicaciones web y móviles. Experto en pruebas funcionales y no funcionales, metodologías ágiles y herramientas como Jira, Postman, Maestro Dev y SQL."
+    },
+    "work_experience": [
+        {
+            "job_title": "QA Manual | Analista QA",
+            "company": "Banza",
+            "location": "",
+            "start_date": "2023-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Análisis de escenarios y casos de prueba desde estados tempranos de desarrollo",
+                "Reporte y seguimiento de errores y mejoras sugeridas",
+                "Ejecución de pruebas funcionales y no funcionales sobre una aplicación fintech móvil",
+                "Revisión de logs via OpenSearch",
+                "Validación de APIs con Postman y consultas a bases de datos con SQL Server",
+                "Automatización de flujos de prueba con Maestro"
+            ],
+            "achievements": [
+                "Mejora considerable en la calidad del producto al estandarizar las pruebas"
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA Manual - Voluntariado",
+            "company": "CodificAR",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2024-02-29",
+            "currently_working": false,
+            "responsibilities": [
+                "Pruebas funcionales en un bot de Telegram",
+                "Revisión de código, reporte de errores y trabajo en metodología Scrumban",
+                "Participación activa como scrum master en ceremonias y mejoras de proceso"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Pasante QA Manual",
+            "company": "JalaSoft",
+            "location": "",
+            "start_date": "2022-11-01",
+            "end_date": "2023-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y ejecución de casos de prueba en Excel",
+                "Detección, reporte y seguimiento de errores",
+                "Participación en decisiones funcionales en contextos Scrum"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA Manual | Analista QA",
+            "company": "Inmodeus",
+            "location": "",
+            "start_date": "2022-08-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Responsable del inicio de los criterios de calidad de la página",
+                "Diseño y ejecución de casos de prueba en Excel",
+                "Detección, reporte y seguimiento de errores",
+                "Participación en decisiones funcionales en contextos Scrum",
+                "Apoyo en tareas de testing para la página web de Inmodeus"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Python para principiantes",
+            "institution": "Talento Tech",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Software Tester Professional",
+            "institution": "Fundación Jala",
+            "location": "",
+            "start_date": "2022-05-01",
+            "end_date": "2022-11-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "pruebas-funcionales",
+                "pruebas-no-funcionales",
+                "regresión",
+                "smoke-testing",
+                "test-planning",
+                "jira",
+                "postman",
+                "sql-server",
+                "mysql",
+                "testlink",
+                "testmo",
+                "excel",
+                "maestro",
+                "appium-inspector",
+                "gitHub",
+                "python-básico",
+                "virtualBox",
+                "microsoft-teams",
+                "figma"
+            ],
+            "soft": [
+                "curioso",
+                "autodidacta",
+                "entusiasta-del-aprendizaje-continuo"
+            ],
+            "tools": [
+                "jira",
+                "postman",
+                "sql",
+                "excel",
+                "appium-inspector",
+                "maestro-dev"
+            ]
+        },
+        "detailed": {
+            "technical": {
+                "jira": [],
+                "postman": [],
+                "sql": [],
+                "python-básico": []
+            },
+            "soft": {
+                "team-work": [],
+                "problem-solving": []
+            }
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2 (oral y escrito)"
+        },
+        {
+            "language": "Alemán",
+            "proficiency": "Básico (oral y escrito)"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "QA Manual - Voluntariado",
+            "organization": "CodificAR",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2024-02-29",
+            "responsibilities": [
+                "Pruebas funcionales en un bot de Telegram",
+                "Revisión de código, reporte de errores y trabajo en metodología Scrumban",
+                "Participación activa como scrum master en ceremonias y mejoras de proceso"
+            ]
+        }
+    ],
+    "publications": [],
+    "references": [
+        {
+            "name": "Melisa Garcia Pizzi",
+            "relationship": "PM en banza",
+            "contact": ""
+        },
+        {
+            "name": "Franco Raineri",
+            "relationship": "Backend lead en banza",
+            "contact": ""
+        },
+        {
+            "name": "Lautaro Fernandez",
+            "relationship": "Frontend lead en banza",
+            "contact": ""
+        }
+    ]
+}

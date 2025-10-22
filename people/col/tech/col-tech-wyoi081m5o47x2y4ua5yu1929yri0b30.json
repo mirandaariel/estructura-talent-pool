@@ -1,0 +1,145 @@
+{
+    "personal_info": {
+        "first_name": "Brian",
+        "last_name": "Chacon",
+        "email": "brianchacon140@gmail.com",
+        "phone": "+57 3223880641",
+        "location": {
+            "country": "Colombia",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/brian-chacon",
+        "website": "",
+        "portfolio": "",
+        "summary": "Ingeniero en Sistemas con más de 3 años de experiencia construyendo interfaces modernas y eficientes con React y Liferay DXP. Apasionado por el rendimiento web, la accesibilidad (WCAG 2.1 AA) y la experiencia del usuario. He liderado reestructuraciones de portales corporativos que redujeron el TTI en un 45 % y aumentaron la conversión B2B. En cada proyecto busco aportar soluciones limpias, escalables y orientadas a negocio."
+    },
+    "work_experience": [
+        {
+            "job_title": "Ingeniero Liferay Front-End",
+            "company": "VASS",
+            "location": "Colombia-remoto",
+            "start_date": "2024-08-01",
+            "end_date": "2025-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Re-ingenié 12 portlets Liferay en React, reduciendo el First Contentful Paint 55 % y elevando la conversión B2B +8 %.",
+                "Integré el design system de Claro Empresas, entregando UI responsive pixel-perfect para 3 breakpoints en menos de 6 semanas.",
+                "Automatizé el pipeline CI con GitHub Actions, bajando el tiempo de despliegue manual de 1h a 10 min.",
+                "Lideré auditoría de accesibilidad (WCAG 2.1 AA), corrigiendo 100+ incidencias y subiendo la puntuación de Lighthouse de 54→92."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Engineer Front-End",
+            "company": "Babel",
+            "location": "Colombia-remoto",
+            "start_date": "2024-04-01",
+            "end_date": "2024-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Entregué portal de seguimiento de envíos para Morocco Post (Liferay 7.4), soportando 2 M consultas diarias con -1s de respuesta.",
+                "Desarrollé plantillas ADT dinámicas, reduciendo el esfuerzo de actualización de contenido ~40 %.",
+                "Mejoré el pipeline de pruebas con Jest & Cypress, recortando los bugs en producción ~60 %."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Front-End / Liferay",
+            "company": "Periferia It Group",
+            "location": "Colombia-remoto",
+            "start_date": "2022-05-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Creé un formulario de solicitud para Promigas que redujo el tiempo de procesamiento manual ~30 %.",
+                "Diseñé SPA modular para Brilla, disminuyendo tamaño de bundle ~25 % mediante lazy-loading y code-splitting.",
+                "Migré a React Hooks en todo el código, aumentando la mantenibilidad y acelerando la incorporación de nuevos devs +20 %.",
+                "Colaboré con UX en experimentos A/B que mejoraron la tasa de finalización de tareas +12 %."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniero en Sistemas",
+            "institution": "Corporación Unificada Nacional de Educación Superior",
+            "location": "Colombia",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react-18",
+                "javascript-es6+",
+                "liferay-dxp-7.x",
+                "vite",
+                "webpack",
+                "jest",
+                "rtl",
+                "cypress",
+                "tailwind-css",
+                "sass",
+                "spa",
+                "graphql",
+                "rest",
+                "ajax",
+                "git",
+                "github-actions",
+                "angular",
+                "node.js",
+                "express",
+                "typescript"
+            ],
+            "soft": [],
+            "tools": [
+                "figma",
+                "adobe-xd",
+                "sentry",
+                "jira"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Scrum Foundation Professional Certificate (SFPC)",
+            "issuing_organization": "",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Diplomado Inteligencia Artificial Para la Resolución de Problemas de Negocio",
+            "issuing_organization": "",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Responsive Web Design",
+            "issuing_organization": "FreeCodeCamp",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Front End Development Libraries",
+            "issuing_organization": "FreeCodeCamp",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

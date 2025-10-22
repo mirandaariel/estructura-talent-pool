@@ -1,0 +1,145 @@
+{
+  "personal_info": {
+    "first_name": "Gonzalo Emanuel",
+    "last_name": "Petenar",
+    "email": "gonzalopetenar@gmail.com",
+    "phone": "+54 11 4093-5909",
+    "location": {
+      "country": "Argentina",
+      "city": "Buenos Aires",
+      "state": ""
+    },
+    "linkedin": "https://linkedin.com/in/gonzaloemaueloetenar",
+    "website": "",
+    "portfolio": "",
+    "summary": "Soy una persona responsable, proactiva y con un fuerte interés en aprender y desarrollarme en el área de la informática. Disfruto trabajando en equipo, y mis habilidades de comunicación y colaboración me permiten adaptarme rápidamente a nuevos entornos laborales. Estoy comprometido con la mejora continua y con aportar valor a los proyectos en los que participo."
+  },
+  "work_experience": [
+    {
+      "job_title": "Software QA Tester - Freelancer",
+      "company": "Nucleo Records",
+      "location": "",
+      "start_date": "2023-07-01",
+      "end_date": "2025-02-28",
+      "currently_working": false,
+      "responsibilities": [
+        "Realicé pruebas funcionales para asegurar el correcto funcionamiento de la página web de una productora musical.",
+        "Ejecuté pruebas manuales, verifiqué respuestas de APIs con Postman y automatice casos de prueba con Cypress.",
+        "Documenté hallazgos y elaboré reportes detallados para el equipo de desarrollo, mejorando la calidad del producto."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Analista Funcional - Tester",
+      "company": "AGC",
+      "location": "",
+      "start_date": "2022-11-01",
+      "end_date": "2023-02-28",
+      "currently_working": false,
+      "responsibilities": [
+        "Diseñé y creé casos de prueba, ejecutándolos y reportando bugs.",
+        "Me enfoqué en la validación de funcionalidades de e-commerce.",
+        "Utilicé Jira para la gestión de bugs bajo metodologías ágiles (Scrum)."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Analista QA",
+      "company": "Upex Academy",
+      "location": "",
+      "start_date": "2021-12-01",
+      "end_date": "2022-10-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Diseñé y ejecuté casos de prueba, reportando defectos.",
+        "Realicé consultas en MySQL para análisis detallado de la base de datos.",
+        "Implementé pruebas automatizadas con Cypress como parte del equipo de QA Automation."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Testing de Software",
+      "institution": "Upex Academy",
+      "location": "Buenos Aires",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Testing Funcional",
+      "institution": "Proyecto Nahual",
+      "location": "",
+      "start_date": "2020-01-01",
+      "end_date": "2020-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "stlc",
+        "sdlc",
+        "metodologías-ágiles",
+        "scrum",
+        "bdd",
+        "gherkin",
+        "jira",
+        "xray",
+        "trello",
+        "confluence",
+        "erp",
+        "odoo",
+        "control-de-versiones",
+        "github",
+        "sql",
+        "dml",
+        "mysql-workbench",
+        "postman",
+        "jmeter",
+        "cypress",
+        "selenium",
+        "python",
+        "fastapi",
+        "rest-apis",
+        "crud-operations"
+      ],
+      "soft": [
+        "trabajo-en-equipo",
+        "comunicación-efectiva",
+        "compromiso",
+        "responsabilidad",
+        "creatividad",
+        "pensamiento-crítico",
+        "proactividad",
+        "adaptabilidad-al-cambio"
+      ],
+      "tools": []
+    },
+    "detailed": {
+      "technical": [],
+      "soft": []
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "B1 (en curso)"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": [
+    {
+      "name": "Martin Di Lacio",
+      "relationship": "Cliente",
+      "contact": "+54 9 11 5979-6943"
+    }
+  ]
+}

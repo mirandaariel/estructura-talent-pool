@@ -1,0 +1,138 @@
+{
+    "personal_info": {
+        "first_name": "Juan",
+        "last_name": "Cruz Romero",
+        "email": "Juancore9@gmail.com",
+        "phone": "+54 3518023302",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": "Córdoba"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "QA Engineer Internship",
+            "company": "EPAM Systems",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "QA testing and functional testing at EPAM systems.",
+                "Training program participation."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Sysadmin",
+            "company": "Morgan Software",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "On-site level 1 and level 2 support.",
+                "Leadership of technical support teams.",
+                "Server Management.",
+                "Network Administration.",
+                "System Security.",
+                "Hardware and Software Maintenance."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "On Site IT Technical Manager",
+            "company": "Nox E-sports Club",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Hardware and Software Maintenance.",
+                "Monitoring and Reporting.",
+                "User Support and Troubleshooting.",
+                "Network Administration."
+            ],
+            "achievements": [
+                "Led a team of IT support technicians.",
+                "Conducted regular meetings to resolve issues and align priorities."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computer Science",
+            "institution": "Universidad Nacional de Córdoba, FAMAF",
+            "location": "Córdoba, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Functional testing / Manual testing",
+            "institution": "Universidad Tecnológica de Córdoba",
+            "location": "Córdoba, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": ".NET Training",
+            "institution": "Accenture .NET Internship",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "agile-methodology",
+                "python-programming",
+                "golang-programming",
+                "manual-testing",
+                "virtualization",
+                "jira",
+                "postman",
+                "functional-testing",
+                "mysql",
+                "azure-fundamentals",
+                "aws",
+                "ubuntu-linux",
+                "operative-systems",
+                "hardware-and-software-maintenance",
+                "office-365"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "C1"
+        },
+        {
+            "language": "Japanese",
+            "proficiency": "A1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

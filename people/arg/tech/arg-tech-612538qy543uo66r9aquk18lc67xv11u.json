@@ -1,0 +1,167 @@
+{
+  "personal_info": {
+    "first_name": "Javier",
+    "last_name": "Chang",
+    "email": "javi.c97@hotmail.com",
+    "phone": "+54 9 11 4026 0773",
+    "location": {
+      "country": "Argentina",
+      "city": "Merlo",
+      "state": "Buenos Aires"
+    },
+    "linkedin": "https://linkedin.com/in/javierchang97",
+    "website": "https://github.com/tuusuario",
+    "portfolio": "",
+    "summary": "Desarrollador Backend Jr especializado en NestJS, TypeScript, PostgreSQL y MongoDB, con experiencia en API REST, autenticación JWT, ORM (TypeORM) y documentación con Swagger. Manejo de control de versiones (Git) y despliegues en Render/Hostinger. Experiencia en desarrollo de sitios web con WordPress/WooCommerce. Busco crecer en entornos ágiles y proyectos escalables."
+  },
+  "work_experience": [
+    {
+      "job_title": "Analista de Cuenta / Desarrollador WordPress",
+      "company": "Eli Publicidad BA",
+      "location": "",
+      "start_date": "2024-02-01",
+      "end_date": "",
+      "currently_working": true,
+      "responsibilities": [
+        "Desarrollo y personalización de sitios WordPress/WooCommerce",
+        "Implementación de plugins/temas y optimización SEO",
+        "Integración de funcionalidades a medida"
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Controlador / Administrativo",
+      "company": "Bajo Cero S.A.",
+      "location": "",
+      "start_date": "2018-02-01",
+      "end_date": "2024-03-01",
+      "currently_working": false,
+      "responsibilities": [
+        "Control de stock y registros en sistemas",
+        "Trabajo con procesos de importación/exportación"
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Empleado",
+      "company": "Mostaza",
+      "location": "",
+      "start_date": "2017-02-01",
+      "end_date": "2018-01-01",
+      "currently_working": false,
+      "responsibilities": [
+        "Atención al cliente en mostrador y caja",
+        "Preparación de pedidos bajo protocolos de calidad"
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Técnico en Desarrollo de Software",
+      "institution": "CRUI (Centro Regional Universitario de Ituzaingó)",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    },
+    {
+      "degree": "Desarrollador Full-Stack",
+      "institution": "Henry Bootcamp",
+      "location": "",
+      "start_date": "",
+      "end_date": "2024-01-01",
+      "hours": 0
+    },
+    {
+      "degree": "Armado y Reparación de PC",
+      "institution": "UTN",
+      "location": "",
+      "start_date": "",
+      "end_date": "2019-01-01",
+      "hours": 0
+    },
+    {
+      "degree": "Técnico en Informática Personal y Profesional",
+      "institution": "E.E.T. N°1, Ituzaingó",
+      "location": "",
+      "start_date": "",
+      "end_date": "2016-01-01",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "javascript",
+        "typescript",
+        "node.js",
+        "nestjs",
+        "typeorm",
+        "postgreSQL",
+        "mongodb",
+        "rest",
+        "jwt",
+        "swagger",
+        "postman"
+      ],
+      "soft": [],
+      "tools": [
+        "git",
+        "docker",
+        "ci/cd",
+        "wordpress",
+        "woocommerce",
+        "acf",
+        "seo"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Turnero Municipal",
+      "description": "API de turnos con roles, validaciones y notificaciones.",
+      "technologies": ["nestjs", "react", "postgresql"],
+      "url": ""
+    },
+    {
+      "name": "CRM Imprenta",
+      "description": "Modelado de entidades, endpoints REST, documentación Swagger.",
+      "technologies": ["nestjs", "postgresql"],
+      "url": ""
+    },
+    {
+      "name": "Integración AFIP e-Factura",
+      "description": "Emisión de facturas electrónicas (A/B) con tokens AFIP.",
+      "technologies": ["nestjs"],
+      "url": ""
+    },
+    {
+      "name": "WordPress/WooCommerce Sites",
+      "description": "Personalización con ACF, hooks y optimización de performance.",
+      "technologies": ["wordpress", "woocommerce"],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Intermedio (B1/B2 aprox.)"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

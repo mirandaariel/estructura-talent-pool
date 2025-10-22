@@ -1,0 +1,84 @@
+{
+    "personal_info": {
+        "first_name": "Jesús Gerardo",
+        "last_name": "Zamora Conde",
+        "email": "jgerardozc02@outlook.com",
+        "phone": "+52 9333252915",
+        "location": {
+            "country": "Mexico",
+            "city": "Querétaro",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/jgerardo-zamora/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador de software fullstack con más de 1 año de experiencia profesional en desarrollo web usando tecnologías como Laravel, Vue.js, MySQL y WordPress. Enfocado en diseño de interfaces intuitivas, optimización de bases de datos y mejora continua basada en métricas de rendimiento. Apasionado por la resolución de problemas y la mejora de procesos internos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack (Vue + Laravel) y Diseñador UX/UI",
+            "company": "PR Calibradores",
+            "location": "San Juan del Río, Querétaro",
+            "start_date": "2023-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Analicé flujos de procesos internos para desarrollar módulos digitales que mejoraron la eficiencia operativa.",
+                "Optimizé funcionalidades mediante enfoque basado en datos, asegurando la estabilidad de las plataformas.",
+                "Mejoré la estructura de bases de datos mediante diseño y migración de esquemas.",
+                "Colaboré en soluciones front-end y back-end basadas en KPI's.",
+                "Diseñé interfaces en Figma enfocadas en usabilidad y requerimientos del cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Estudio 201",
+            "location": "Querétaro, México",
+            "start_date": "2025-01-01",
+            "end_date": "2025-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Recopilé y analicé requerimientos para crear soluciones web personalizadas.",
+                "Aumenté el rendimiento SEO y la velocidad de carga mediante refactorización de estructura.",
+                "Implementé pruebas de usabilidad en diseños responsivos.",
+                "Utilicé WordPress y Elementor para crear interfaces adaptadas al cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Software",
+            "institution": "Universidad Autónoma de Querétaro",
+            "location": "Juriquilla, Querétaro",
+            "start_date": "2021-01-01",
+            "end_date": "2025-06-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["php", "javascript", "laravel", "vue.js", "bootstrap", "mysql", "wordpress", "elementor"],
+            "soft": [],
+            "tools": ["figma", "scrum"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Intermediate (B1)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

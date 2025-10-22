@@ -1,0 +1,250 @@
+{
+    "personal_info": {
+        "first_name": "Florencia",
+        "last_name": "Oldani",
+        "email": "floroldani@hotmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrolladora Full Stack con más de 3 años de experiencia profesional, especializada en Frontend con React y con sólidos conocimientos de backend con Node.js. Experiencia en la migración de aplicaciones, diseño e implementación de nuevas funcionalidades desde cero, consumo e integración de APIs REST y GraphQL, y conexión con CMSs y backends externos. Manejo de herramientas como Docker, GitHub y Firebase, con un fuerte compromiso con principios SOLID y Clean Code. Experiencia en testing con Jest y desarrollo en entornos serverless con Next.js API Routes. Me destaco por la atención al detalle, el enfoque en buenas prácticas de desarrollo, y la comunicación efectiva con equipos multidisciplinarios en entornos ágiles. Busco oportunidades como Frontend o Full Stack Semi Senior Developer, donde pueda seguir aplicando y profundizando mis conocimientos técnicos dentro de equipos colaborativos y orientados a buenas prácticas."
+    },
+    "work_experience": [
+        {
+            "job_title": "SSR. React Developer",
+            "company": "Avatar World Group",
+            "location": "",
+            "start_date": "2023-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Participación activa en pruebas, debugging y colaboración en el desarrollo de productos.",
+                "Migración completa de aplicaciones desde Angular a React/Next.js, construyendo nuevas arquitecturas desde cero.",
+                "Mantenimiento de código existente y desarrollo de nuevas funcionalidades.",
+                "Desarrollo frontend con tecnologías como Next.js (App Router y API Routes), React, Redux Toolkit, Chakra UI, SCSS, GraphQL, Apollo y JavaScript.",
+                "Gestión e integración de contenido mediante CMS y consultas eficientes a bases de datos utilizando GraphQL.",
+                "Integración y mantenimiento de APIs externas (como Firebase) y servicios internos de la empresa.",
+                "Desarrollo en entornos serverless, utilizando las API Routes de Next.js como backend y contenedores con Docker para facilitar el desarrollo, testing y despliegue.",
+                "Colaboración interdisciplinaria con equipos de producto, diseño y Product Managers.",
+                "Trabajo bajo metodologías ágiles (Scrum) con herramientas como Jira para gestión de tareas y GitHub para control de versiones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Gesprender",
+            "location": "",
+            "start_date": "2022-08-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de componentes front-end con HTML, CSS, JavaScript, React, Bootstrap.",
+                "Soporte en el backend con Express js.",
+                "Colaboración en pruebas y debugging."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Freelancer",
+            "location": "",
+            "start_date": "2022-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo y diseño de sitios webs a medida utilizando React y Node."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Developer",
+            "institution": "Henry",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Farmacéutica",
+            "institution": "Universidad Católica de Córdoba",
+            "location": "",
+            "start_date": "2013-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "javascript",
+                "typescript",
+                "css",
+                "node",
+                "react",
+                "next-js",
+                "redux",
+                "zustand",
+                "react-native",
+                "express",
+                "sql",
+                "mongo-db",
+                "firebase",
+                "graphql"
+            ],
+            "soft": [],
+            "tools": [
+                "aws",
+                "méthodologías-áglies",
+                "jest",
+                "docker",
+                "sass",
+                "styled-components",
+                "material-ui",
+                "chakra-ui",
+                "tailwind-css",
+                "figma",
+                "adobe"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Docker - Guía práctica de uso para desarrolladores",
+            "issuing_organization": "Udemy",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Principios SOLID y Clean Code",
+            "issuing_organization": "Udemy",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "AWS Cloud Practitioner Essentials",
+            "issuing_organization": "AWS",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Testing react with jest and react testing library",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Understanding typescript",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Next.js: El framework de React para producción",
+            "issuing_organization": "Udemy",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "React Native: Aplicaciones nativas para IOS y Android",
+            "issuing_organization": "Udemy",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "React: De cero a experto (Hooks y MERN)",
+            "issuing_organization": "Udemy",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Metodologías ágiles. Scrum",
+            "issuing_organization": "Udemy",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Master en Css",
+            "issuing_organization": "Udemy",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Photoshop e Illustrator",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Motor de Encuestas para la Universidad de Buenos Aires (UBA)",
+            "description": "Desarrollo de un sistema completo para la creación y gestión de encuestas institucionales.",
+            "technologies": [
+                "Next.js",
+                "Express",
+                "Prisma",
+                "PostgreSQL",
+                "Chakra UI"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Cabañas Villa Melisa",
+            "description": "Creación de la página web para unas cabañas desde el diseño en Figma hasta el código.",
+            "technologies": [
+                "React",
+                "Next.js",
+                "Chakra UI",
+                "Figma",
+                "Google Reviews",
+                "Email.js"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Emirat Propiedades",
+            "description": "Creación de la página web para una inmobiliaria desde el diseño en Figma hasta el código.",
+            "technologies": [
+                "React",
+                "Next.js",
+                "Squidex (CMS)",
+                "Chakra UI",
+                "Figma",
+                "Google Maps",
+                "GraphQL",
+                "Email.js"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,111 @@
+{
+    "personal_info": {
+        "first_name": "Micaela Soledad",
+        "last_name": "Calviño",
+        "email": "micaela.s.calvino@gmail.com",
+        "phone": "+54 11 6983 4849",
+        "location": {
+            "country": "Argentina",
+            "city": "General Rodríguez",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Apasionada por la programación, con experiencia en desarrollo web, enfocada principalmente en el Back End. Mi formación es en gran parte autodidacta, lo que refleja mi curiosidad, autodisciplina y compromiso con el aprendizaje continuo. Soy creativa y motivada por resolver problemas que aporten valor y mejoren la vida de las personas. Busco oportunidades en entornos dinámicos que fomenten la innovación y el trabajo en equipo, donde pueda aplicar mis habilidades en programación y diseño de sitios web, además de seguir creciendo profesionalmente en proyectos desafiantes e innovadores."
+    },
+    "work_experience": [
+        {
+            "job_title": "Community Manager",
+            "company": "Patti Cocina",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de contenido atractivo y relevante para potenciar la visibilidad y el engagement de marcas en plataformas digitales.",
+                "Manejo y optimización de cuentas en redes sociales para diversos emprendimientos, implementando estrategias de crecimiento, branding y fidelización de audiencias.",
+                "Proporciono atención personalizada y resolución eficaz de consultas, garantizando una experiencia positiva y mejorando la satisfacción del cliente."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ejecutiva Comercial",
+            "company": "AVC Marketing",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2017-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Participación activa en la planificación y ejecución de estrategias promocionales para campañas de marketing, contribuyendo al aumento de la visibilidad y alcance de la marca.",
+                "Creación de propuestas comerciales atractivas y efectiva generación de nuevos clientes en puntos de venta, impulsando el crecimiento y las ventas de los productos o servicios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Administrativa",
+            "company": "Municipio de General Rodríguez",
+            "location": "General Rodríguez, Buenos Aires",
+            "start_date": "2014-01-01",
+            "end_date": "2016-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Brindé atención y soporte personalizado a clientes.",
+                "Realicé gestión y organización de documentos.",
+                "Supervisé y actualicé valuaciones fiscales.",
+                "Gestioné legajos de ingresos brutos, asegurando su correcta actualización."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Sistemas (en curso)",
+            "institution": "Universidad Nacional de Luján",
+            "location": "Luján, Buenos Aires",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "java-poo",
+                "php",
+                "mysql",
+                "github",
+                "spring-boot",
+                "html",
+                "css",
+                "bootstrap",
+                "python",
+                "flask",
+                "jpa"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Pullo - Tienda de E-commerce",
+            "description": "Me encargué del diseño y desarrollo completo del proyecto utilizando tecnologías PHP, MySQL, HTML.",
+            "technologies": ["PHP", "MySQL", "HTML"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

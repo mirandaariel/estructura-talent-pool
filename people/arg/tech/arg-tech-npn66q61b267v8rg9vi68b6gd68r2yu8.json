@@ -1,0 +1,215 @@
+{
+  "personal_info": {
+    "first_name": "Franco",
+    "last_name": "Corniglione",
+    "email": "francocorniglione5@gmail.com",
+    "phone": "+542954553956",
+    "location": {
+      "country": "Argentina",
+      "city": "Santa Rosa",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/franco-corniglione/",
+    "website": "https://github.com/Francormin",
+    "portfolio": "",
+    "summary": "Desarrollador de software con un nivel de inglés B1 y un mayor énfasis en backend y bases de datos, utilizando JavaScript con tecnologías como Node.js, Express, PostgreSQL y MongoDB, además de conocimientos en frontend usando React, Redux, HTML y CSS."
+  },
+  "work_experience": [
+    {
+      "job_title": "Desarrollador Backend",
+      "company": "No Country",
+      "location": "Remoto",
+      "start_date": "2023-01-01",
+      "end_date": "2023-06-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Idear, planificar y diseñar la estructura y arquitectura del servidor en cada proyecto.",
+        "Pensar, diagramar y estructurar las bases de datos, con sus correspondientes modelos y relaciones.",
+        "Organizar las tareas para lograr mayor eficiencia y optimización del tiempo personal.",
+        "Analizar e identificar bugs o problemas internos del código.",
+        "Proponer nuevas features o funcionalidades, considerando la factibilidad y tiempo de los miembros del grupo.",
+        "Brindar apoyo a los compañeros de equipo en la implementación de tecnologías y librerías."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador Full Stack",
+      "company": "Henry",
+      "location": "Remoto",
+      "start_date": "2022-01-01",
+      "end_date": "2022-11-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Organizar tareas para mayor eficiencia personal.",
+        "Coordinar planificación de tareas en el proyecto final.",
+        "Analizar e identificar bugs en el proyecto final.",
+        "Proponer ideas para nuevas funcionalidades en el proyecto final.",
+        "Ayudar en la aplicación de nuevas tecnologías.",
+        "Colaborar con el equipo para finalizar el proyecto."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Desarrollo Web Full Stack",
+      "institution": "Henry",
+      "location": "Remoto",
+      "start_date": "2022-01-01",
+      "end_date": "2022-11-30",
+      "hours": 0
+    },
+    {
+      "degree": "Cursos particulares de italiano",
+      "institution": "Gobierno de la Provincia de Córdoba",
+      "location": "Córdoba, Argentina",
+      "start_date": "2018-01-01",
+      "end_date": "2019-12-31",
+      "hours": 0
+    },
+    {
+      "degree": "Tecnicatura en Comunicación Social",
+      "institution": "Universidad Nacional de Córdoba",
+      "location": "Córdoba, Argentina",
+      "start_date": "2013-02-01",
+      "end_date": "2017-02-28",
+      "hours": 0
+    },
+    {
+      "degree": "Cursos particulares de inglés",
+      "institution": "Asociación Pampeana de Cultura Inglesa",
+      "location": "Santa Rosa, Argentina",
+      "start_date": "2006-01-01",
+      "end_date": "2012-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "javascript",
+        "java",
+        "html",
+        "css",
+        "node.js",
+        "express",
+        "spring-boot",
+        "postgresql",
+        "mongodb",
+        "react",
+        "redux",
+        "scrum",
+        "git"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [
+    {
+      "name": "Arquitectura de Microservicios",
+      "issuing_organization": "Henry",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    },
+    {
+      "name": "Backend con Java",
+      "issuing_organization": "Henry",
+      "issue_date": "",
+      "expiration_date": "",
+      "credential_id": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "CookMeal",
+      "description": "Aplicación web para la autogeneración de recetas mediante inteligencia artificial de OpenAI.",
+      "technologies": [
+        "MER",
+        "TypeScript",
+        "Typegoose",
+        "bcrypt",
+        "JWT",
+        "Passport",
+        "Stripe",
+        "OpenAI",
+        "Next.js",
+        "Tailwind CSS",
+        "SweetAlert"
+      ],
+      "url": "https://github.com/No-Country/s8-17-ft-node-react"
+    },
+    {
+      "name": "The Question",
+      "description": "Aplicación web basada en el clásico juego de trivia de preguntas y respuestas.",
+      "technologies": [
+        "Sequelize",
+        "bcrypt",
+        "JWT",
+        "Nodemailer",
+        "Socket.io",
+        "Swagger",
+        "Redux Toolkit",
+        "Next.js",
+        "CSS Modules"
+      ],
+      "url": "https://github.com/No-Country/S7-17-NODEREACT"
+    },
+    {
+      "name": "MascotApp",
+      "description": "App centrada en la atención y el cuidado de las mascotas.",
+      "technologies": [
+        "PERN",
+        "React Native",
+        "Sequelize",
+        "bcrypt",
+        "Redux Toolkit",
+        "Tailwind CSS",
+        "Firebase",
+        "Cloudinary"
+      ],
+      "url": "https://github.com/No-Country/C9-37-ReactNative"
+    },
+    {
+      "name": "Coffee Street",
+      "description": "E-commerce para una tienda física de café.",
+      "technologies": [
+        "Prisma",
+        "bcrypt",
+        "JWT",
+        "Nodemailer",
+        "Mercado Pago",
+        "Redux",
+        "CSS",
+        "Auth0",
+        "Cloudinary",
+        "Formik",
+        "SweetAlert",
+        "Yup"
+      ],
+      "url": "https://github.com/R03M/CoffeeStreet-BackEnd"
+    },
+    {
+      "name": "Coffee Street Frontend",
+      "description": "Frontend del e-commerce Coffee Street.",
+      "technologies": [],
+      "url": "https://github.com/R03M/CoffeeStreet-FrontEnd"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "Intermedio"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

@@ -1,0 +1,92 @@
+{
+    "personal_info": {
+        "first_name": "Michael",
+        "last_name": "Vargas Rodriguez",
+        "email": "michael.vargasr98@gmail.com",
+        "phone": "+56955377838",
+        "location": {
+            "country": "Chile",
+            "city": "Frutillar",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/michael-vargas-dev/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Más de 2 años de experiencia como Desarrollador de Software. Lideré el desarrollo Full Stack en Stratum IT, logrando una mejora del 70% en el rendimiento web y una optimización significativa en la calidad del código."
+    },
+    "work_experience": [
+        {
+            "job_title": "Grown Tech Lead",
+            "company": "Stratum IT",
+            "location": "Luzern, Suiza",
+            "start_date": "2024-06-01",
+            "end_date": "2025-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Apoyé el crecimiento técnico de mis compañeros mediante mentorías, revisiones de código y sesiones de pair programming.",
+                "Fomenté el aprendizaje continuo y compartí buenas prácticas con el equipo.",
+                "Establecí y supervisé estándares de calidad en el código a través de revisiones constantes de PRs.",
+                "Guié al equipo en la toma de decisiones técnicas, evaluando pros y contras para encontrar la solución más eficiente."
+            ],
+            "achievements": [
+                "Mi transición a Tech Lead fue reconocida de forma orgánica por el CTO y el equipo gracias a mi capacidad de organización, adaptabilidad, visión técnica y empatía."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FullStack",
+            "company": "Stratum IT",
+            "location": "Luzern, Suiza",
+            "start_date": "2023-01-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Optimicé la carga de contenido, logrando una mejora del 70% en los tiempos de respuesta.",
+                "Implementé un sistema de tickets con funcionalidad de conversación en tiempo real y subida de imágenes, utilizando AWS S3 para el almacenamiento de archivos.",
+                "Configuré pipelines de integración y despliegue continuo (CI/CD) utilizando GitHub Actions.",
+                "Escribí pruebas unitarias y de integración utilizando Jest para asegurar la estabilidad del código.",
+                "Diseñé e implementé funciones AWS Lambda para manejar procesos de forma escalable y desacoplada.",
+                "Modelé e implementé nuevos esquemas relacionales adaptados a los requerimientos del negocio, asegurando integridad y escalabilidad de la base de datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico en informática",
+            "institution": "IUFRONT",
+            "location": "San Cristóbal, Venezuela",
+            "start_date": "2017-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["react", "node.js", "typescript", "next.js", "nestjs", "aws", "jest", "mongodb", "postgresql", "aws-cloudformation"],
+            "soft": ["mentorship", "organization", "adaptability"],
+            "tools": ["github-actions", "aws-lambda"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

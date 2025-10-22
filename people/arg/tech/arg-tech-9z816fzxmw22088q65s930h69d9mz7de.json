@@ -1,0 +1,121 @@
+{
+    "personal_info": {
+        "first_name": "Juan",
+        "last_name": "Cruz Barberis",
+        "email": "juanbarberis.97@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/juancruzbarberis/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Full Stack Developer con 2 años de experiencia en el desarrollo de Aplicaciones web y Mobile Apps. Soy una persona proactiva y curiosa, capaz de enfrentar cualquier desafío con determinación y perseverancia, apasionada por el aprendizaje y la mejora continua. Me encuentro en la busqueda de nuevos desafios que me permitan ampliar mis conocimientos dentro del desarrollo de aplicaciones."
+    },
+    "work_experience": [
+        {
+            "job_title": "React Native Developer",
+            "company": "Nexo Soluciones - Beevai",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé aplicación mobile e implementé desde cero utilizando React Native, Expo Router y Firebase.",
+                "Integré funcionalidades claves como autenticación (Google/Facebook), carga de imágenes/videos mediante firebase, mapas interactivos y geolocalización para gestión orientadas al usuario.",
+                "Desarrollé conexiones completas con bases de datos, optimizando el flujo de información y mejorando la experiencia del usuario final."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "React Native Developer",
+            "company": "StartApp X",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Mejoré la experiencia del usuario mediante la incorporación de nuevas funcionalidades y la corrección de Bugs.",
+                "Implementé e integre API para facilitar la carga y descarga de elementos, archivos, imágenes y PDF."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer & Mobile Apps",
+            "company": "FutuWaveTech",
+            "location": "",
+            "start_date": "2023-05-01",
+            "end_date": "2024-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Logré una colaboración de forma efectiva para el Desarrollo y mantenimiento de multiples aplicaciones.",
+                "Mejoré la experiencia de usuario mediante la detección y corrección de bugs.",
+                "Mantenimiento e implementación de base de datos, soporte de clientes, publicación de actualizaciones en diversas plataformas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "MindHub",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé un eCommerce de productos relacionados al Mate, donde el usuario puede efectuar la compra mediante mercado pago.",
+                "Colaboré en la creación de un sitio web y una aplicación móvil dinámica que interactúa con una API externa.",
+                "Desarrollé la aplicación de cómics que incluye autenticación de usuarios, seguridad en las rutas y la capacidad de realizar comentarios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bootcamp Desarrollador Web Full Stack MERN & Mobile Apps",
+            "institution": "MindHub",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react.js",
+                "react-native",
+                "redux",
+                "mongodb"
+            ],
+            "soft": [],
+            "tools": [
+                "github",
+                "gitlab",
+                "slack",
+                "discord"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

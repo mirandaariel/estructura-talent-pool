@@ -1,0 +1,134 @@
+{
+    "personal_info": {
+        "first_name": "Marvin",
+        "last_name": "Achas",
+        "email": "marvinj.isd@gmail.com",
+        "phone": "+51993620749",
+        "location": {
+            "country": "Perú",
+            "city": "Arequipa",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/marvin-joel",
+        "website": "",
+        "portfolio": "https://github.com/marvinjoel",
+        "summary": "Estudiante de Ingeniería de Sistemas y Desarrollador. Cuento con experiencia práctica en el desarrollo de soluciones de software, incluyendo la creación de bots conversacionales y sistemas de monitoreo. Anteriormente, contribuí al desarrollo de soluciones para un proyecto de Bitcoin, integrando plataformas como Binance y Bybit."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "",
+            "institution": "Lite Thinking",
+            "location": "",
+            "start_date": "2023-11-14",
+            "end_date": "2023-12-21",
+            "hours": 0
+        },
+        {
+            "degree": "English language and literature",
+            "institution": "Peruvian Cultural Center",
+            "location": "",
+            "start_date": "2022-08-01",
+            "end_date": "2022-08-01",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "TechWorld with Nana",
+            "location": "",
+            "start_date": "2022-05-31",
+            "end_date": "2022-06-02",
+            "hours": 0
+        },
+        {
+            "degree": "",
+            "institution": "Código Facilito",
+            "location": "",
+            "start_date": "2021-11-25",
+            "end_date": "2021-11-25",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería de Sistemas e Informática",
+            "institution": "Universidad Telesup",
+            "location": "",
+            "start_date": "2013-11-23",
+            "end_date": "2013-11-23",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "java",
+                "spring",
+                "django",
+                "fastapi",
+                "postgresql",
+                "opensearch",
+                "celery",
+                "sqlite",
+                "rabbitmq",
+                "kafka",
+                "github",
+                "docker"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "GHL&INGENIEROS Bot Conversacional",
+            "description": "Desarrollo de bot conversacional para asistencia al cliente, utilizando Python Rasa y Meta Chatbot para la integración con plataformas de mensajerías.",
+            "technologies": [
+                "python",
+                "fastapi",
+                "rasa",
+                "meta chatbot",
+                "chatwoot",
+                "github"
+            ],
+            "url": ""
+        },
+        {
+            "name": "KNEUROS API de Trading Automatizado",
+            "description": "Desarrollo de API para sistema de trading automatizado utilizando la librería Binance Connector en Python. Implementación de funciones avanzadas para la interacción con mercados de criptomonedas.",
+            "technologies": [
+                "python",
+                "fastapi",
+                "rabbitmq",
+                "socket",
+                "docker",
+                "github"
+            ],
+            "url": ""
+        },
+        {
+            "name": "GHL&INGENIEROS Sistema de Monitoreo",
+            "description": "Desarrollo de API sistema de monitoreo utilizando PLC y pylogix para obtener los datos de cada máquina.",
+            "technologies": [
+                "python",
+                "fastapi",
+                "socket",
+                "postgres",
+                "opensearch",
+                "docker",
+                "celery",
+                "rabbitmq",
+                "github"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

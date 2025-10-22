@@ -1,0 +1,164 @@
+{
+    "personal_info": {
+        "first_name": "Brian Nicolás",
+        "last_name": "Diaz",
+        "email": "beerre1996@gmail.com",
+        "phone": "+54 11 6839-8054",
+        "location": {
+            "country": "Argentina",
+            "city": "Belgrano",
+            "state": "CABA"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "https://brian-diaz-portfolio.netlify.app/",
+        "summary": "Desarrollador Full Stack con experiencia en ReactJS, Node.js y SQL. Apasionado por la programación y la resolución de problemas, con habilidades para el trabajo en equipo y rápida adaptación a nuevas tecnologías. Busco incorporarme a un equipo dinámico donde pueda aplicar y expandir mis conocimientos en desarrollo web y software."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista Senior",
+            "company": "Unión Personal Civil de la Nación - Accord Salud",
+            "location": "CABA",
+            "start_date": "2017-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Gestión de liquidación de prestadores en Cuentas a Pagar.",
+                "Aplicación de notas de crédito, pagos y anticipos de prestaciones.",
+                "Manejo de órdenes de compra y remitos en sistemas ERP/HMS.",
+                "Coordinación de equipo de 5 personas.",
+                "Supervisión, control de tareas y resolución de conflictos.",
+                "Gestión de facturación y mesa de entradas.",
+                "Recepción e ingreso de facturas en ERP/HMS."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Arcanus Games",
+            "location": "",
+            "start_date": "2025-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Participación clave en el desarrollo integral de una plataforma web para un producto del sector gaming.",
+                "Construcción del sitio principal orientado al usuario y un panel de administración interno sobre arquitectura segura y escalable.",
+                "Desarrollo completo del frontend y backend del sistema de gestión de cuentas con autenticación mediante JWT y cifrado con Bcrypt.",
+                "Implementación de funcionalidades avanzadas: recuperación de cuentas y personajes, administración de personajes vinculados a cuentas, búsquedas personalizadas y sistemas de ranking general y por clase.",
+                "Desarrollo de módulos dinámicos como noticias extraídas desde base de datos, sistema de soporte (usuario-staff) y creación de cuentas nuevas.",
+                "Construcción de una API REST segura y optimizada para manejar toda la interacción entre cliente y servidor, con uso de middleware y cacheo en memoria.",
+                "Desarrollo de herramientas internas para la gestión de cuentas, roles de usuario, contenido y solicitudes de soporte.",
+                "Integración con el servidor de juego en tiempo real mediante WebSockets, y acciones de mantenimiento offline a través de la base de datos.",
+                "Implementación de sistema de login para administradores con control de permisos basado en roles.",
+                "Diseño y desarrollo del backend para ejecutar todas las operaciones administrativas con seguridad, control de tasa de peticiones y protección de endpoints críticos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollador Java Full Stack",
+            "institution": "Codo a Codo 4.0",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo Front-End",
+            "institution": "CoderHouse",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "SQL",
+            "institution": "CoderHouse",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo Web Responsive",
+            "institution": "freeCodeCamp",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Algoritmos y Estructuras de Datos en JavaScript",
+            "institution": "freeCodeCamp",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html",
+                "css",
+                "sql",
+                "java",
+                "reactjs",
+                "nodejs",
+                "express.js",
+                "bootstrap",
+                "sass",
+                "mysql"
+            ],
+            "soft": [
+                "teamwork",
+                "adaptability",
+                "problem-solving"
+            ],
+            "tools": [
+                "git/github",
+                "vite",
+                "erp/hms",
+                "excel-avanzado"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Excel Avanzado",
+            "issuing_organization": "Educación IT",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Power BI",
+            "issuing_organization": "Educación IT",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,131 @@
+{
+    "personal_info": {
+        "first_name": "Julian",
+        "last_name": "Flores",
+        "email": "julianfloresdev@gmail.com",
+        "phone": "+54(0341) 2824516",
+        "location": {
+            "country": "Argentina",
+            "city": "Rosario",
+            "state": "Santa Fe"
+        },
+        "linkedin": "https://linkedin.com/in/julian-flores-dev",
+        "website": "",
+        "portfolio": "",
+        "summary": "Graduated as a Mathematics Teacher at high school level, currently pursuing a University Degree in Systems Analyst. Passionate about taking on new challenges, exploring limits, and learning new things. Values quality, precision, and detail. Teacher training provided tools for clear communication and effective collaboration."
+    },
+    "work_experience": [
+        {
+            "job_title": "Fullstack Developer",
+            "company": "RocketCode",
+            "location": "Remote",
+            "start_date": "2023-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed and maintained autonomous products providing automated solutions in insurance and financial sectors.",
+                "Utilized Lagnchain and Langgraph architecture, Javascript, Typescript, Nest.js, Python, and React.js."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Freelance Web Developer",
+            "company": "Freelance",
+            "location": "Remote",
+            "start_date": "2023-01-01",
+            "end_date": "2023-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gained practice and experience through freelance projects and opensource contributions."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Math Teacher",
+            "company": "Secondary schools",
+            "location": "Rosario",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Teaching practice in secondary schools in the city of Rosario."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "University Analyst in Computer Information Systems",
+            "institution": "Instituto Politécnico Superior",
+            "location": "Rosario",
+            "start_date": "2022-03-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Mathematics and Physics Teacher",
+            "institution": "Instituto Superior Olga Cossettini",
+            "location": "Rosario",
+            "start_date": "2015-03-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react.js",
+                "next.js",
+                "redux",
+                "zustard",
+                "recoil",
+                "nest.js",
+                "typescript",
+                "node.js",
+                "python",
+                "rest-apis",
+                "langchain",
+                "langgraph"
+            ],
+            "soft": [
+                "analytical-thinking",
+                "autonomous-learning",
+                "adaptability",
+                "clear-technical-communication",
+                "attention-to-detail",
+                "effective-collaboration"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Become a Software Professional",
+            "issuing_organization": "Radium Rocket",
+            "issue_date": "2022-08-01",
+            "expiration_date": "2022-12-31",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

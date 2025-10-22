@@ -1,0 +1,128 @@
+{
+    "personal_info": {
+        "first_name": "María Milagros",
+        "last_name": "Rodríguez",
+        "email": "milagrosrdzz@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Técnica en Desarrollo Web y Aplicaciones Digitales"
+    },
+    "work_experience": [
+        {
+            "job_title": "QA Automation",
+            "company": "VODEMIA ERP",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Pruebas automatizadas con Java, Selenium utilizando Gherkin y Cucumber",
+                "Diseño y ejecución de casos de prueba",
+                "Mantenimiento y optimización de casos de prueba",
+                "Desarrollo nuevas funcionalidades"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Help Desk",
+            "company": "VODEMIA ERP",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-04-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Resolución y derivación de incidencias en ERP",
+                "Consultas y manipulación de base de datos SQL",
+                "Testeo de sistemas, documentación y capacitaciones a clientes",
+                "Creación y modificación de reportes con Jasper Reports"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Administrativa",
+            "company": "NORTE ALUMINIO",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión administrativa y de redes sociales"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales",
+            "institution": "Instituto Superior Politécnico Córdoba",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Programación Web Full Stack Java",
+            "institution": "T.TEC",
+            "location": "",
+            "start_date": "2021-05-01",
+            "end_date": "2021-12-31",
+            "hours": 500
+        },
+        {
+            "degree": "QA Testing",
+            "institution": "Codo a Codo",
+            "location": "",
+            "start_date": "2022-08-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "javascript",
+                "spring",
+                "thymeleaf",
+                "mysql",
+                "selenium",
+                "gherkin",
+                "cucumber",
+                "sql",
+                "jmeter",
+                "react"
+            ],
+            "soft": [
+                "pensamiento-analítico",
+                "atención-al-detalle",
+                "trabajo-en-equipo",
+                "resolución-de-problemas"
+            ],
+            "tools": [
+                "apache-jmeter",
+                "jasper-reports"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,185 @@
+{
+    "personal_info": {
+        "first_name": "Luciano",
+        "last_name": "Recchini",
+        "email": "reqini@gmail.com",
+        "phone": "1151347453",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/lucianorecchini",
+        "website": "https://github.com/reqini",
+        "portfolio": "",
+        "summary": "Desarrollador Frontend con enfoque UX/UI, especializado en React y React Native. Experiencia liderando proyectos, creando Design Systems y optimizando experiencias digitales. Capacidad para liderar equipos y construir soluciones escalables, combinando código limpio con diseño centrado en el usuario."
+    },
+    "work_experience": [
+        {
+            "job_title": "Founder & CEO",
+            "company": "Catálogo Simple",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñó y lanzó Catálogo Simple, herramienta de gestión para emprendedoras Essen.",
+                "Automatizó precios, cuotas y envíos.",
+                "Escaló la experiencia usando React, TypeScript y Atomic Design, ayudando a cientos de usuarios a profesionalizar sus ventas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "UX/UI Design Specialist",
+            "company": "MindShore",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Consultoría en desarrollo web y mejora de experiencia de usuario.",
+                "Optimización de flujos y validación de prototipos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "UX/UI Designer Ssr.",
+            "company": "Flybondi",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2021-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideró el rediseño del email de confirmación y optimización de landing pages.",
+                "Armó Design System basado en Atomic Design y Storybook."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer Ssr.",
+            "company": "Global Hitss (Claro Video)",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2019-01-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrolló Claro Video para Smart TV, Roku y PS4.",
+                "Combinó desarrollo Frontend y diseño UX/UI."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Frontend & UX Designer Ssr.",
+            "company": "Grupo Cutrounos",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2016-01-01",
+            "end_date": "2019-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "En Ideame (Crowdfunding): desarrolló el Frontend (Angular) y definió la UI.",
+                "En Upate (Turismo): lideró el rediseño web y creó el área UX/UI desde cero."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Web Developer & Designer",
+            "company": "Grupo Argentina Web",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2012-01-01",
+            "end_date": "2015-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo PHP, maquetado HTML/CSS y diseño web.",
+                "Mantenimiento en WordPress y sitios prearmados."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Curso Avanzado React & Next.js",
+            "institution": "Udemy",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "UX/UI Design",
+            "institution": "Platzi",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Google UX Design Certificate",
+            "institution": "Coursera",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "react-native",
+                "next.js",
+                "typescript",
+                "javascript",
+                "html",
+                "css",
+                "tailwind",
+                "material-ui",
+                "styled-components"
+            ],
+            "soft": [],
+            "tools": [
+                "figma",
+                "sketch",
+                "storybook",
+                "git",
+                "firebase",
+                "google-sheets-api",
+                "node.js"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Catálogo Simple",
+            "description": "Gestión de catálogos y ventas con integración a Google Sheets.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Generador de Placas",
+            "description": "Creación de imágenes promocionales.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Essen Tools",
+            "description": "Automatización de procesos para emprendedoras Essen.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,88 @@
+{
+    "personal_info": {
+        "first_name": "Agustina",
+        "last_name": "Flores",
+        "email": "agustina.flores.mail@gmail.com",
+        "phone": "02612652432",
+        "location": {
+            "country": "Argentina",
+            "city": "Mendoza",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/agustina-floress/",
+        "website": "https://github.com/Agustina-Flores",
+        "portfolio": "",
+        "summary": "Soy estudiante de la tecnicatura superior en programación en la Facultad UTN y actualmente estoy buscando un puesto como programadora. He complementado mi formación con cursos en desarrollo web, especialmente en Node.js y React. Mi objetivo a corto plazo es perfeccionar mis habilidades y continuar aprendiendo. En el último año, me desempeñé como desarrolladora fullstack, utilizando tecnologías .NET Core para el backend y Angular para el frontend."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrolladora .NET",
+            "company": "WIRSOLUT",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación, modificación y optimización de sitios web utilizando AngularJS junto con C# (.NET).",
+                "Realizar consultas con LINQ para interactuar con colecciones de datos.",
+                "Optimización de Base de Datos: Utilización de ORM como NHibernate para la gestión de datos en bases de datos MSSQL Server.",
+                "Gestión de Tareas: Coordinación de actividades mediante Jira, Discord, y control de versiones con Git."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Superior en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "c#",
+                ".net-framework",
+                "linq",
+                ".net-core",
+                "nhibernate-orm",
+                "angularjs",
+                "reactjs",
+                "typescript",
+                "mssql",
+                "postgresql"
+            ],
+            "soft": [
+                "organización",
+                "responsabilidad",
+                "trabajo-en-equipo",
+                "predispuesta-a-aprender"
+            ],
+            "tools": [
+                "git/github",
+                "jira",
+                "visual-studio-code",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

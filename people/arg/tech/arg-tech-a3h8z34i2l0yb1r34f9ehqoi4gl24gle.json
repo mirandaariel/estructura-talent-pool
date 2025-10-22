@@ -1,0 +1,102 @@
+{
+    "personal_info": {
+        "first_name": "Gonzalo",
+        "last_name": "Copes",
+        "email": "gonzalo.copes@hotmail.com",
+        "phone": "+5491136424020",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/gonzalo-copes7a9277205",
+        "website": "https://portafolio-gonzalo-copes.netlify.app/",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con foco en Front-End. Experiencia en la creación de interfaces modernas y soluciones web escalables. Proactivo, detallista y orientado a la mejora continua. Enfocado en automatizar procesos, mejorar la experiencia del usuario y colaborar en equipo bajo metodologías ágiles. Adaptable a nuevos desafíos y comprometido con la calidad del producto."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Workgroup",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de interfaces web con HTML, CSS, JavaScript, React y Bootstrap.",
+                "Optimización UX/UI y adaptación responsive para distintos dispositivos.",
+                "Soporte técnico de integraciones (WebServices), resolución de incidencias y gestión de tickets.",
+                "Control de despliegues, monitoreo de pods y logs con Kubernetes, Docker y Azure.",
+                "Automatización de tareas internas mediante scripts en Python para acelerar procesos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en programación",
+            "institution": "Universidad Nacional Guillermo Brown",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Curso Desarrollo Web Completo",
+            "institution": "Udemy",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "react.js",
+                "bootstrap",
+                "wordpress",
+                "python",
+                "java",
+                "node.js",
+                "sql-server",
+                "mysql"
+            ],
+            "soft": [],
+            "tools": [
+                "docker",
+                "kubernetes",
+                "azure",
+                "git",
+                "postman",
+                "soapui",
+                "linux",
+                "visual-studio-code",
+                "cursor"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (B1)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

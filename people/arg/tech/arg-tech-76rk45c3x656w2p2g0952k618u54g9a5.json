@@ -1,0 +1,136 @@
+{
+    "personal_info": {
+        "first_name": "Francisco",
+        "last_name": "Percivaldi",
+        "email": "franpercivaldi@gmail.com",
+        "phone": "+54 351560034",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/francisco-percivaldi/",
+        "website": "",
+        "portfolio": "https://github.com/franpercivaldi",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador full stack",
+            "company": "UNIVERSIDAD CATOLICA DE CORDOBA",
+            "location": "Córdoba, Argentina",
+            "start_date": "2023-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollado y mantenido aplicaciones web utilizando React, JavaScript, PHP, HTML y CSS para mejorar la experiencia del usuario y la eficiencia operativa.",
+                "Implementado un sistema de microservicio en Python para la impresión de certificados, optimizando el tiempo de generación de certificados de 2 minutos a 5 segundos, incrementando la productividad un 95%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Entrenador de IA",
+            "company": "REMOTASK",
+            "location": "Freelance",
+            "start_date": "2023-05-01",
+            "end_date": "2023-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Evaluado bloques de código para seleccionar soluciones óptimas, aplicando criterios de eficiencia, legibilidad y buenas prácticas de programación.",
+                "Proporcionando justificaciones detalladas sobre las decisiones de selección, mejorando la precisión y efectividad del modelo de IA en el reconocimiento de calidad de código.",
+                "Contribuyó al refinamiento del modelo de IA mediante análisis comparativo y feedback estructurado, incrementando la precisión en un entorno de machine learning."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Lic en ciencias de la computación",
+            "institution": "Universidad nacional de Córdoba (FAMAF)",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en ciencias naturales",
+            "institution": "Amparo de maria",
+            "location": "",
+            "start_date": "2014-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "javascript",
+                "php",
+                "html",
+                "css",
+                "python",
+                "node.js",
+                "sql",
+                "git",
+                "docker",
+                "jenkins"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "LenioLabs Bootcamp Frontend",
+            "issuing_organization": "",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Udemy Js ES9 Html Css Node.js",
+            "issuing_organization": "Udemy",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Udemy React full course",
+            "issuing_organization": "Udemy",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Proyecto de Microservicio en Python",
+            "description": "Desarrollado e implementado un microservicio en Python para optimizar la impresión de certificados, logrando una mejora del 95% en velocidad de procesamiento.",
+            "technologies": ["Python"],
+            "url": ""
+        },
+        {
+            "name": "Migración de API de PHP a Node.js",
+            "description": "Co-liderado el proceso de migración de una API de PHP a Node.js junto a un líder técnico, mejorando la tecnología y alineando el sistema con estándares modernos de desarrollo.",
+            "technologies": ["PHP", "Node.js"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

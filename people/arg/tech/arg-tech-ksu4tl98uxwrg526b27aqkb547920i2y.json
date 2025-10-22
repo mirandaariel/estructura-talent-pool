@@ -1,0 +1,162 @@
+{
+    "personal_info": {
+        "first_name": "Manuel Alexis",
+        "last_name": "Zuñiga Goddard",
+        "email": "manuelalexis68@hotmail.com",
+        "phone": "+54 9 2664920868",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador de software con más de 3 años de experiencia en el ciclo completo de desarrollo: desde el backend (Node.js, Express, Prisma) hasta el frontend web (React, TypeScript, HTML/CSS) y mobile con React Native. Me destaco optimizando rendimiento, creando interfaces claras y manteniendo código escalable. Mi enfoque se basa en la resolución de problemas, el compromiso con la calidad y la proactividad. Tengo conocimientos de buenas prácticas como Clean Code, testing y arquitectura escalable. Actualmente me encuentro cursando la Tecnicatura en Desarrollo de Software y perfeccionando mi inglés e intereses en plataformas de despliegue como Docker y OpenShift para desempeñarme en entornos internacionales."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Backend Junior/Semi-senior",
+            "company": "Gravitad",
+            "location": "España",
+            "start_date": "2024-08-01",
+            "end_date": "2025-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y desarrollé soluciones de software con Node.js, optimizando la eficiencia y el rendimiento de las aplicaciones en web y mobile.",
+                "Implementé nuevas funcionalidades y realicé mejoras en sistemas existentes, asegurando su estabilidad y escalabilidad.",
+                "Brindé soporte técnico para la integración y mantenimiento de los servicios.",
+                "Participé en proyectos bajo metodologías ágiles, colaborando con equipos de frontend, diseño y QA."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Software Developer Junior",
+            "company": "Andrómeda App",
+            "location": "Argentina",
+            "start_date": "2023-04-01",
+            "end_date": "2023-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Lideré el desarrollo y mantenimiento de una aplicación móvil educativa para escuelas, utilizando React Native y Node.js.",
+                "Me encargué de gestionar la evolución del producto, desde la planificación de funcionalidades hasta la publicación en entornos productivos.",
+                "Trabajé en la integración con bases de datos no relacionales (MongoDB) y la creación de endpoints eficientes para consumo móvil.",
+                "Coordiné con el equipo de diseño UX/UI para implementar interfaces amigables y adaptables a distintos dispositivos.",
+                "Participé en sprints y tareas planificadas con metodología ágil, manteniendo comunicación constante con producto y QA."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Teaching Assistant",
+            "company": "Henry Bootcamp",
+            "location": "Argentina",
+            "start_date": "2023-02-01",
+            "end_date": "2023-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Acompañé a más de 20 estudiantes en su proceso formativo, promoviendo el trabajo colaborativo mediante Pair Programming.",
+                "Asistí en la resolución de ejercicios prácticos y proyectos grupales, facilitando su comprensión de conceptos clave en desarrollo web.",
+                "Propuse mejoras en la dinámica del Bootcamp para optimizar la experiencia educativa y técnica."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer - Certificado",
+            "institution": "Henry",
+            "location": "Argentina",
+            "start_date": "2022-10-01",
+            "end_date": "2023-04-30",
+            "hours": 0
+        },
+        {
+            "degree": "Programación Backend - Certificado",
+            "institution": "CoderHouse",
+            "location": "Argentina",
+            "start_date": "2024-02-01",
+            "end_date": "2024-09-30",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnicatura en Desarrollo de Software",
+            "institution": "Universidad De La Punta",
+            "location": "Argentina",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "backend",
+                "node.js",
+                "express",
+                "prisma",
+                "typescript",
+                "javascript",
+                "java",
+                "net",
+                "docker",
+                "jquery",
+                "mongodb",
+                "mongoose",
+                "postgresql",
+                "sequelize",
+                "sql",
+                "frontend",
+                "css",
+                "html",
+                "react",
+                "json",
+                "redux",
+                "zustand",
+                "mobile",
+                "react-native",
+                "bootstrap",
+                "google-firebase",
+                "redux-toolkit",
+                "expo"
+            ],
+            "soft": [
+                ""
+            ],
+            "tools": [
+                "git",
+                "github",
+                "docker",
+                "agile",
+                "clean-code",
+                "google-firebase",
+                "openshift",
+                "postman",
+                "scrum",
+                "unit-testing",
+                "gitflow"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (B1)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

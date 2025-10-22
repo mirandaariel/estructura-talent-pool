@@ -1,0 +1,109 @@
+{
+  "personal_info": {
+    "first_name": "Jorge",
+    "last_name": "Zabbara",
+    "email": "jorgezabbaram@gmail.com",
+    "phone": "",
+    "location": {
+      "country": "Argentina",
+      "city": "",
+      "state": ""
+    },
+    "linkedin": "https://www.linkedin.com/in/jorge-zabbara-b080252a8",
+    "website": "",
+    "portfolio": "",
+    "summary": "Full-Stack Developer with over 8 years of experience, specializing in building high-performance, scalable web applications. Proven leader in delivering complex projects from concept to deployment, optimizing for concurrency and low latency. Passionate about leveraging Golang and modern tech to create impactful software. Seeking challenging opportunities in collaborative environments."
+  },
+  "work_experience": [
+    {
+      "job_title": "Desarrollador full stack",
+      "company": "Aplazo",
+      "location": "",
+      "start_date": "2022-09-01",
+      "end_date": "2025-01-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Led the creation of a B2B content delivery service, optimizing for high concurrency and low latency to meet demanding client needs, using Golang for backend services and WebComponents for client consume across platforms such as WooCommerce, Shopify, and custom integrations in HTML5.",
+        "Developed and launched a POS application with integrated BNPL functionality, enhancing the customer experience and facilitating seamless transactions. Built on top of Golang service and Angular client."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Desarrollador full stack",
+      "company": "Adludio",
+      "location": "",
+      "start_date": "2019-02-01",
+      "end_date": "2022-08-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Working as Senior full stack developer building and maintaining in-house tools. Leading projects development stack using Docker, React, Node.js (TypeScript), MongoDB, MySQL, and AWS."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Programador full stack",
+      "company": "Scrummers",
+      "location": "",
+      "start_date": "2016-04-01",
+      "end_date": "2018-12-31",
+      "currently_working": false,
+      "responsibilities": [
+        "As Fullstack Developer, built and designed solutions for multiple products using Node.js (NestJS), Angular 8+, Java, React.js, and Flutter.",
+        "Set up basic development pipelines in multiple CI/CD providers such as GitLab and Bitbucket.",
+        "Set up applications infrastructure environments and services across multiple cloud providers like GoogleRun, GCE, Amazon ECS, Azure Service, and others."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Tecnico Superior En Electronica",
+      "institution": "Universidad Nacional Experimental Politécnica 'Antonio José de Sucre'",
+      "location": "",
+      "start_date": "2006-01-01",
+      "end_date": "2010-01-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "react.js",
+        "angular",
+        "mongodb",
+        "golang",
+        "node.js",
+        "typescript",
+        "nestjs",
+        "java",
+        "postgresql",
+        "mysql",
+        "webcomponents",
+        "woocommerce",
+        "shopify",
+        "ci/cd",
+        "gitlab",
+        "bitbucket",
+        "aws",
+        "google-cloud",
+        "azure",
+        "docker"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

@@ -1,0 +1,176 @@
+{
+    "personal_info": {
+        "first_name": "Martin",
+        "last_name": "Cornejo",
+        "email": "fmartin.conrjo@gmail.com",
+        "phone": "+54 2644528003",
+        "location": {
+            "country": "Argentina",
+            "city": "San Juan",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "https://github.com/martincornejo92",
+        "portfolio": "",
+        "summary": "Mobile Developer with over 4 years of experience building scalable mobile apps using React Native and Flutter. I've led development teams, improved app performance, and increased user engagement. I specialize in creating high-performance apps that solve real-world problems and enhance user experience."
+    },
+    "work_experience": [
+        {
+            "job_title": "Senior Mobile Developer",
+            "company": "ITR",
+            "location": "San Juan, Argentina",
+            "start_date": "2023-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Developed and optimized mobile apps with 10,000+ users using React Native and Flutter, reducing load times by 30%.",
+                "Led a team of 3 developers, delivering features on schedule and reducing bugs by 40%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Senior Mobile Developer",
+            "company": "Groomit for Pets",
+            "location": "Remote, USA",
+            "start_date": "2021-12-01",
+            "end_date": "2023-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed a pet care app with 20,000+ users, increasing engagement by 25%.",
+                "Integrated secure payment systems, cutting transaction failures by 15%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Mobile Developer",
+            "company": "Folcode",
+            "location": "San Juan, Argentina",
+            "start_date": "2021-07-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Delivered 5+ apps, improving client delivery times by 20%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Mobile Developer",
+            "company": "NEC Argentina",
+            "location": "San Juan, Argentina",
+            "start_date": "2021-03-01",
+            "end_date": "2021-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed internal apps that improved operational efficiency by 15%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Freelance Mobile Developer",
+            "company": "Freelance",
+            "location": "San Juan, Argentina",
+            "start_date": "2019-10-01",
+            "end_date": "2020-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Delivered mobile solutions to 3 local businesses, increasing their online reach and customer engagement."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "PhD in Computer Science",
+            "institution": "National University of San Juan",
+            "location": "San Juan, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachelor of Computer Science",
+            "institution": "National University of San Juan",
+            "location": "San Juan, Argentina",
+            "start_date": "2017-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react-native",
+                "flutter",
+                "firebase",
+                "mysql",
+                "google-cloud",
+                "aws",
+                "hadoop"
+            ],
+            "soft": [],
+            "tools": [
+                "unit-testing",
+                "ci/cd",
+                "git",
+                "agile-(scrum)"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Degustur",
+            "description": "Lead the development of a tourism app using Flutter & Firebase, achieving 5,000+ downloads and a 4.8 rating. Implemented features that boosted user engagement and retention.",
+            "technologies": [
+                "flutter",
+                "firebase"
+            ],
+            "url": "https://github.com/martincornejo92/degustur"
+        },
+        {
+            "name": "DeepLearningUnicen",
+            "description": "Developed deep learning models for educational purposes using TensorFlow and Keras, improving the learning experience for students.",
+            "technologies": [
+                "tensorflow",
+                "keras"
+            ],
+            "url": "https://github.com/martincornejo92/DeepLearningUnicen"
+        },
+        {
+            "name": "twitter-sentiment-training",
+            "description": "Created a sentiment analysis dataset with 5,500+ tweets to train ML models, contributing to improved accuracy in sentiment prediction.",
+            "technologies": [],
+            "url": "https://github.com/martincornejo92/twitter-sentiment-training"
+        },
+        {
+            "name": "React Native Login Example",
+            "description": "Developed a mobile authentication demo using React Native, implementing a secure login screen for mobile apps.",
+            "technologies": [
+                "react-native"
+            ],
+            "url": "https://github.com/martincornejo92/Example-Login-Screen-with-React-NativeDrixit"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Intermediate (B1)"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,104 @@
+{
+    "personal_info": {
+        "first_name": "Gerardo",
+        "last_name": "Aranciaga",
+        "email": "gerardoaranciaga60@gmail.com",
+        "phone": "2268406507",
+        "location": {
+            "country": "Argentina",
+            "city": "Tandil",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "QA Manual Tester detallista y proactivo con 3 años de experiencia práctica en el aseguramiento de la calidad del software. Experiencia en el diseño y ejecución de casos de prueba, reporte de defectos y entrega de métricas de control de calidad. Experiencia en estimación, planificación y pensamiento estratégico de control de calidad en entornos Agile/Scrum."
+    },
+    "work_experience": [
+        {
+            "job_title": "QA Engineer",
+            "company": "Clickup",
+            "location": "",
+            "start_date": "2022-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño y mantenimiento de casos de prueba.",
+                "Ciclo de vida de los errores.",
+                "Pruebas de regresión, pruebas de integración, pruebas de humo, pruebas funcionales y no funcionales.",
+                "Postman, Swagger, Split (para feature flags), GitHub.",
+                "Métricas e informes.",
+                "Estimación y planificación.",
+                "Logs y consola.",
+                "Gestión de versiones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Systems Engineer",
+            "institution": "UNICEN",
+            "location": "Tandil",
+            "start_date": "2016-09-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tech in App Development",
+            "institution": "IT UNICEN",
+            "location": "Tandil",
+            "start_date": "2020-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "css3",
+                "html5",
+                "git",
+                "sql",
+                "php",
+                "javascript",
+                "java"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Soccer Page Project",
+            "description": "Page with HTML, CSS, JAVASCRIPT and SQL works.",
+            "technologies": ["html", "css", "javascript", "sql"],
+            "url": "https://github.com/leandroidiez/TPE-WEB2/tree/master/Futzone"
+        },
+        {
+            "name": "Project Page Collection of materials",
+            "description": "Great SQL language development.",
+            "technologies": ["sql"],
+            "url": "https://github.com/ValentinSvedas/TPEMetodologia-Grupo9"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

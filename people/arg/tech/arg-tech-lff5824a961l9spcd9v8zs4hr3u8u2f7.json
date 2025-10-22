@@ -1,0 +1,141 @@
+{
+    "personal_info": {
+        "first_name": "Matias",
+        "last_name": "Vazquez",
+        "email": "matyv15@gmail.com",
+        "phone": "+5493425111861",
+        "location": {
+            "country": "Argentina",
+            "city": "Santa Fe",
+            "state": ""
+        },
+        "linkedin": "https://mativazq",
+        "website": "https://matias-vazquez.netlify.app",
+        "portfolio": "",
+        "summary": "Desarrollador Frontend Jr. con formación técnica y sólida base en HTML, CSS, JavaScript y React. Apasionado por la creación de interfaces limpias y responsivas. Experiencia en proyectos personales y académicos que integran buenas prácticas de desarrollo. Me destaco por mi proactividad, adaptabilidad y compromiso con el aprendizaje continuo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Digital Savings Plan Seller",
+            "company": "Coinauto S.A",
+            "location": "Santa Fe, Argentina",
+            "start_date": "2025-07-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Telephone savings plan seller."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Cashier",
+            "company": "Kilbel Supermercados",
+            "location": "Santa Fe, Argentina",
+            "start_date": "2020-08-01",
+            "end_date": "2025-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Cashier/web order taker."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Telephone Salesperson",
+            "company": "Musimundo S.A",
+            "location": "Santa Fe, Argentina",
+            "start_date": "2015-03-01",
+            "end_date": "2019-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Telephone seller of household goods."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Cashier",
+            "company": "Mc Donalds",
+            "location": "Santa Fe, Argentina",
+            "start_date": "2010-11-01",
+            "end_date": "2014-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Collecting and assembling orders in a restaurant."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Degree in Computer Science Applied to Multimedia and Web Design",
+            "institution": "National University of the Virtual Litoral",
+            "location": "Santa Fe, Argentina",
+            "start_date": "2025-03-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Python",
+            "institution": "Coderhouse",
+            "location": "Santa Fe, Argentina",
+            "start_date": "2024-01-01",
+            "end_date": "2024-04-30",
+            "hours": 0
+        },
+        {
+            "degree": "Frontend Developer",
+            "institution": "Coderhouse",
+            "location": "Santa Fe, Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "2023-07-31",
+            "hours": 0
+        },
+        {
+            "degree": "Professional and Personal IT Technician",
+            "institution": "E.E.T.P. N°480 'Manuel Belgrano'",
+            "location": "Santa Fe, Argentina",
+            "start_date": "2006-03-01",
+            "end_date": "2012-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": ["html", "css", "javascript", "python"],
+            "soft": [],
+            "tools": ["git", "github", "firebase", "diseño-responsive", "consumo-de-apis"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sitio Web Portafolio",
+            "description": "Sitio web personal con diseño responsivo, secciones animadas y presentación de proyectos personales.",
+            "technologies": ["html", "css", "react", "react-router"],
+            "url": "http://matias-vazquez.netlify.app"
+        },
+        {
+            "name": "Mi Tiendita NBA",
+            "description": "Este es un proyecto de ecommerce básico. La aplicación permite ver una lista de productos de la NBA y realizar compras en línea. Los productos y las órdenes de compra se almacenan en Firebase.",
+            "technologies": ["vite", "react", "react-router", "firebase"],
+            "url": "https://mi-tienda-vazquez-matias.netlify.app/"
+        },
+        {
+            "name": "Gefes con G",
+            "description": "Sitio web para empresa de coaching. Diseño totalmente responsivo con formulario de contacto funcional.",
+            "technologies": ["html", "css", "javascript"],
+            "url": "https://mativazq.github.io/GefesConG/"
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

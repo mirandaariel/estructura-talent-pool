@@ -1,0 +1,142 @@
+{
+    "personal_info": {
+        "first_name": "Franco",
+        "last_name": "Pagano",
+        "email": "franco.pagano66@gmail.com",
+        "phone": "+54 9 11 2276 2306",
+        "location": {
+            "country": "Argentina",
+            "city": "San Justo",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador apasionado por la tecnología con experiencia en React JS y Next 14, especializado en la creación de aplicaciones SPA, SSG y SSR."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full-Stack",
+            "company": "Phinx Lab",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo y escalabilidad del marketplace de e-commerce PipeStore.",
+                "Desarrollar y mantener la plataforma digital educativa Aprende BA."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full-Stack",
+            "company": "Developfit",
+            "location": "",
+            "start_date": "2023-02-01",
+            "end_date": "2024-11-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de interfaces de usuario modernas y responsivas utilizando React.js.",
+                "Implementación de lógica de negocio y servicios RESTful en el backend con Java Spring Boot.",
+                "Diseño y mantenimiento de bases de datos relacionales con MYSQL.",
+                "Contenerización de aplicaciones y entornos de desarrollo utilizando Docker."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura Universitaria en Programación",
+            "institution": "UTN",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "React.JS Next.JS",
+            "institution": "Udemy",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Javascript",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "React.JS",
+            "institution": "Udemy",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "typescript",
+                "java",
+                "node-js",
+                "sql",
+                "react-js",
+                "next-js",
+                "restful-apis",
+                "graphql"
+            ],
+            "soft": [
+                "colaboracion-en-equipo"
+            ],
+            "tools": [
+                "vs-code",
+                "intellij",
+                "webpack",
+                "react-devtools",
+                "datagrip",
+                "docker",
+                "git"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Aprende BA",
+            "description": "Plataforma digital educativa orientada a docentes y estudiantes.",
+            "technologies": ["typescript", "node.js", "sql"],
+            "url": "https://miescuela.bue.edu.ar"
+        },
+        {
+            "name": "PipeStore",
+            "description": "Desarrollo y escalabilidad del marketplace de e-commerce.",
+            "technologies": ["typescript", "java", "docker", "sql"],
+            "url": "https://Pipe.store"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

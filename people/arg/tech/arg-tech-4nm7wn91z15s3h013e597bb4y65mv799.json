@@ -1,0 +1,114 @@
+{
+    "personal_info": {
+        "first_name": "Maximiliano",
+        "last_name": "Scarpatti",
+        "email": "maxi.scarpatti@gmail.com",
+        "phone": "3517041122",
+        "location": {
+            "country": "Argentina",
+            "city": "Embalse",
+            "state": "Córdoba"
+        },
+        "linkedin": "https://linkedin.com/in/maximiliano-scarpatti",
+        "website": "",
+        "portfolio": "https://github.com/MaxiScarpatti",
+        "summary": "Desarrollador Trainee con formación en desarrollo de software y experiencia en proyectos personales y bootcamps. Conocimientos en tecnologías Frontend y Backend, incluyendo ReactJS, JavaScript, NodeJs. Capacidad de aprendizaje rápido, resolución de problemas y trabajo en equipo. Busco mi primera oportunidad en IT para aplicar mis habilidades en un entorno profesional."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Comunicador Social",
+            "institution": "Universidad Nacional de Río Cuarto",
+            "location": "Río Cuarto, Córdoba",
+            "start_date": "2003-03-01",
+            "end_date": "2009-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnicatura en Desarrollo de Software",
+            "institution": "Instituto Superior Politécnico de Córdoba",
+            "location": "Córdoba, Argentina",
+            "start_date": "2024-02-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "metodologías-ágiles-(scrum)",
+                "javascript",
+                "reactjs",
+                "node.js",
+                "html",
+                "css",
+                "gif",
+                "firebase"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": []
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "ARG_BROKER",
+            "description": "App para inversores",
+            "technologies": [],
+            "url": "",
+            "start_date": "2024-08-01",
+            "end_date": "2024-11-30",
+            "location": "Córdoba",
+            "responsibilities": [
+                "Colaboración como Scrum Master en el equipo y Developer FrontEnd",
+                "Armado de scrips con consultas SQL",
+                "Resolución de problemas técnicos diversos"
+            ]
+        },
+        {
+            "name": "Web Federación Cordobesa de Motociclismo",
+            "description": "Modificación de la web anterior de la FCM a una actual realizada en ReactJS",
+            "technologies": [],
+            "url": "",
+            "start_date": "2024-12-01",
+            "end_date": "2025-01-31",
+            "location": "Córdoba",
+            "responsibilities": [
+                "Reunir información clave que tendrá la web",
+                "Armado de requisitos funcionales"
+            ]
+        },
+        {
+            "name": "App Alquiler bienes muebles",
+            "description": "Desarrollo de una aplicación para gestionar alquileres",
+            "technologies": [
+                "React-Router",
+                "Axios",
+                "TailwindCSS"
+            ],
+            "url": "",
+            "start_date": "2023-03-01",
+            "end_date": "2023-12-31",
+            "location": "Córdoba, Santex",
+            "responsibilities": [
+                "Configuración de React-Router",
+                "Integré Axios para la comunicación con el backend, gestionando autenticación",
+                "Implementé componentes reutilizables en React con TailwindCSS"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Competencia Profesional Plena"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Competencia Profesional de Trabajo"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

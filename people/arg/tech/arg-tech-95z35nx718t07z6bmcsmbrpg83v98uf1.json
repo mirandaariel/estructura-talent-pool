@@ -1,0 +1,135 @@
+{
+    "personal_info": {
+        "first_name": "Nicolás",
+        "last_name": "Zunino",
+        "email": "nicolaszuninodev@gmail.com",
+        "phone": "+54 2346-419298",
+        "location": {
+            "country": "Argentina",
+            "city": "Chivilcoy",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "https://nicolaszunino.vercel.app",
+        "portfolio": "https://github.com/nicoz23",
+        "summary": "Desarrollador web con interés en el desarrollo frontend con React y tecnologías modernas, así como en aplicaciones full-stack."
+    },
+    "work_experience": [
+        {
+            "job_title": "Productor de seguros",
+            "company": "GMG Seguros",
+            "location": "Chivilcoy, Buenos Aires",
+            "start_date": "2021-04-01",
+            "end_date": "2024-02-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Atención al cliente.",
+                "Gestión de seguros."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura universitaria en programación",
+            "institution": "UTN San Nicolás",
+            "location": "Remoto",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Inglés Principiante",
+            "institution": "UNLu (CIDELE)",
+            "location": "Chivilcoy, Buenos Aires",
+            "start_date": "2024-03-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "tailwindcss",
+                "bootstrap",
+                "sass",
+                "responsive-design",
+                "javascript",
+                "reactjs",
+                "jquery",
+                "typescript",
+                "wordpress",
+                "php",
+                "mysql"
+            ],
+            "soft": [],
+            "tools": [
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Curso HTML y CSS",
+            "issuing_organization": "OpenBootcamp",
+            "issue_date": "2021-06-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso Responsive Design, SASS, LESS, Flex, CSS Grid, Bootstrap 5",
+            "issuing_organization": "Udemy",
+            "issue_date": "2022-03-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso JavaScript, jQuery, TypeScript, Angular, Node",
+            "issuing_organization": "Udemy",
+            "issue_date": "2022-04-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso DB, SQL, MySQL, POO, MVC, Laravel 10, Symfony 6, WordPress",
+            "issuing_organization": "Udemy",
+            "issue_date": "2022-06-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "App de Recetas",
+            "description": "Desarrollé una aplicación web usando React que permite a los usuarios buscar recetas de comidas. Integré una API externa para obtener los datos de las recetas e implementé rutas dinámicas para mostrar los resultados de búsqueda.",
+            "technologies": ["react"],
+            "url": ""
+        },
+        {
+            "name": "App de E-commerce",
+            "description": "Desarrollé un e-commerce con React y Node.js, que incluye autenticación de usuarios, listado de productos y un carrito de compras. Actualmente estoy trabajando en la integración de una pasarela de pagos.",
+            "technologies": ["react", "node.js"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,108 @@
+{
+    "personal_info": {
+        "first_name": "Mario",
+        "last_name": "Pazmiño",
+        "email": "mario.daniel.quinteros.pazmino@hotmail.com",
+        "phone": "+593 0982981564",
+        "location": {
+            "country": "Ecuador",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/mario-pazmiño",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy desarrollador backend con conocimientos en Python (Django, Django Rest Framework, FastAPI), Go y Java(Springboot), experto en la generación de APIs para diferentes servicios de internet. Me concentro en crear soluciones eficientes y escalables."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "Monkey Computer",
+            "location": "Ecuador",
+            "start_date": "2022-09-01",
+            "end_date": "2023-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollador de software especializado en la creación de APIs y sistemas de control utilizando Python(Django, FastAPI), Java (Spring Boot), Go.",
+                "Elaboración y desarrollo de APIs robustas y escalables a través de FastAPI en Python y Spring Boot en Java, poniendo en marcha soluciones eficientes para la integración de servicios, mejora del rendimiento y tratamiento seguro de datos.",
+                "Experiencia en la construcción de sistemas de autenticación sólidos, gestión eficaz de bases de datos e implementación en ambientes productivos, garantizando la escalabilidad y seguridad de las aplicaciones."
+            ],
+            "achievements": [
+                "Creé una API para un sistema jurídico enfocado en casos judiciales que utiliza Go, aplicando patrones de diseño para mejorar la durabilidad y escalabilidad del sistema.",
+                "Optimizé el rendimiento de las consultas con PostgreSQL, lo que facilitó la gestión de grandes cantidades de datos de forma más eficaz.",
+                "Empleé AWS para asegurar la escalabilidad y el almacenamiento seguro de documentos legales.",
+                "Desarrollé un sistema de autenticación utilizando JWT para garantizar el acceso regulado y salvaguardar los datos delicados de los usuarios."
+            ],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Trainee backend",
+            "company": "Pywombat",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Trainee en desarrollo web backend, centrado en Python, Django y FastAPI.",
+                "Colaboró en la puesta en marcha y conservación de APIs RESTful utilizando Django Rest Framework.",
+                "Producción de material didáctico para la enseñanza de Python."
+            ],
+            "achievements": [
+                "Perfeccionando la administración de datos y potenciando la comunicación entre sistemas para incrementar la eficiencia y la escalabilidad."
+            ],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnólogo superior en desarrollo de software",
+            "institution": "Instituto Superior Tecnológico Riobamba",
+            "location": "Ecuador",
+            "start_date": "",
+            "end_date": "2023-09-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "django",
+                "django-rest-framework",
+                "fastapi",
+                "go",
+                "java",
+                "springboot",
+                "api",
+                "aws",
+                "postgreSQL"
+            ],
+            "soft": [],
+            "tools": [
+                "shopify",
+                "woocommerce",
+                "wordpress",
+                "astro.js"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "Fluido"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

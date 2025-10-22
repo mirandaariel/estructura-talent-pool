@@ -1,0 +1,155 @@
+{
+    "personal_info": {
+        "first_name": "Eduardo",
+        "last_name": "Parra P",
+        "email": "eduardojr14@hotmail.com",
+        "phone": "+34616368929",
+        "location": {
+            "country": "Spain",
+            "city": "Valladolid",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/eduardo-j-parra-p/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy Analista QA Tester certificado por ISTQB/HASTQB, con experiencia en pruebas automatizadas y manuales. He trabajado con metodologías ágiles y tradicionales, domino herramientas como Cypress, Postman, Selenium y Jmeter. Tengo experiencia en la identificación y documentación de defectos, así como en la elaboración de informes detallados para equipos de pruebas funcionales y no funcionales en diversos proyectos. Poseo sólidos conocimientos en análisis de datos, bases de datos y en desarrollo web. Soy dinámico y detallista, con habilidades en organización y análisis."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Páginas Web",
+            "company": "Profesional Autónomo",
+            "location": "",
+            "start_date": "2021-10-01",
+            "end_date": "2024-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño y maquetación eficiente y responsivo de sitios web utilizando HTML5, CSS3 y JavaScript.",
+                "Priorización de accesibilidad, usabilidad e interactividad para mejorar la experiencia del usuario.",
+                "Implementación de estrategias de SEO para mejorar la visibilidad y el ranking en motores de búsqueda.",
+                "Mantenimiento periódico y actualización de sitios web para asegurar su correcto funcionamiento.",
+                "Manejo de bases de datos relacionales para la gestión eficiente de la información del sitio web."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista QA Manual/Automatización",
+            "company": "Núcleo IT",
+            "location": "Argentina",
+            "start_date": "2021-10-01",
+            "end_date": "2023-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Colaboración con stakeholders para documentar requisitos funcionales y no funcionales.",
+                "Elaboración de especificaciones, requerimientos, historias de usuario y épicas.",
+                "Creación y ejecución de planes de prueba manuales y automatizados.",
+                "Implementación de suites de pruebas para asegurar la calidad de sistemas.",
+                "Desarrollo de scripts de automatización con Cypress y JMeter."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista QA Manual Tester",
+            "company": "Upex",
+            "location": "Argentina",
+            "start_date": "2020-10-01",
+            "end_date": "2021-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Participación en Sprint Planning, Dailys y Retrospectivas.",
+                "Gestión de issues y tareas en Jira, y uso de XRay.",
+                "Creación y ejecución de planes de prueba manuales y automatizados.",
+                "Implementación de suites de pruebas y reporte de bugs.",
+                "Ejecución de pruebas de regresión y retesting."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciado en Administración de Empresas",
+            "institution": "Universidad Nacional Abierta",
+            "location": "",
+            "start_date": "1999-07-01",
+            "end_date": "2004-07-31",
+            "hours": 0
+        },
+        {
+            "degree": "Técnico Superior Universitario en Informática",
+            "institution": "Instituto Universitario Tecnológico Industrial Rodolfo Loero Arismendi",
+            "location": "",
+            "start_date": "1994-02-01",
+            "end_date": "1997-10-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "visual-studio-code", 
+                "html5", 
+                "css3", 
+                "javascript", 
+                "java", 
+                "eclipse", 
+                "nodejs"
+            ],
+            "soft": [
+                "organización", 
+                "adaptabilidad", 
+                "análisis-y-solución-de-problemas", 
+                "atención-al-detalle", 
+                "pensamiento-crítico", 
+                "resolución-de-conflictos", 
+                "proactividad", 
+                "capacidad-de-aprendizaje"
+            ],
+            "tools": [
+                "cypress", 
+                "postman", 
+                "selenium", 
+                "jmeter", 
+                "jira", 
+                "trello", 
+                "github", 
+                "figma"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Testing en Automatización de Calidad en Desarrollo de Software QA con Appium, JS, WebDriverIO, Emulator ADB, App.Inspector",
+            "issuing_organization": "Instituto Web",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Certified Tester Foundation Level V.3.1",
+            "issuing_organization": "ISTQB/HASTQB",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Portuguese",
+            "proficiency": "A2"
+        },
+        {
+            "language": "English",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,210 @@
+{
+    "personal_info": {
+        "first_name": "Johana",
+        "last_name": "Testa",
+        "email": "johatesta@gmail.com",
+        "phone": "+54 3571327047",
+        "location": {
+            "country": "Argentina",
+            "city": "Río Tercero",
+            "state": "Córdoba"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy Qa engineer con más de 4 años de experiencia en testing, implemento pruebas de manera manual y automatizada utilizando frameworks modernos y robustos que me permite siempre estar actualizada con las nuevas tecnologías emergentes, además he participado como desarrolladora front end y back end y algunos proyectos freelancers por ende tengo algo de experiencia en ese rol."
+    },
+    "work_experience": [
+        {
+            "job_title": "QA Engineer",
+            "company": "Monnet Payments Solutions",
+            "location": "Remote",
+            "start_date": "2024-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Realice pruebas automatizadas usando playwright como framework para el desarrollo de las mismas",
+                "Estime esfuerzo de pruebas priorizando puntos críticos de la feature",
+                "Realice mantenimiento de suits automatizadas, refactorizando código y aplicando buenas prácticas",
+                "Participe en pases a producción asegurando la consistencia entre ambientes",
+                "Realice pruebas de APIs y BDD para asegurar la consistencias de las request",
+                "Participe en etapas tempranas del desarrollo como refinamientos",
+                "Aplique el Ciclo de vida de pruebas pasando por todas sus etapas (STLC)"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA Funcional Sr",
+            "company": "BOZ IT Development",
+            "location": "Remote",
+            "start_date": "2024-08-01",
+            "end_date": "2025-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Documente las casos de pruebas en matrices funcionales",
+                "Realice pruebas en Apps móviles tanto en Android como IOS",
+                "Utilice herramientas como trello para reportar errores",
+                "Realice pruebas en Base de datos para asegurar consistencia en los datos",
+                "Realice pruebas web",
+                "Entrene a una IA para una aplicación móvil enviando prompts de manera asertiva",
+                "Estime esfuerzo y realice inducción a otros QAs a los proyectos"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA Engineer",
+            "company": "Bitlogic",
+            "location": "Córdoba",
+            "start_date": "2022-08-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Realice pruebas web y móviles para importante universidad en Argentina (siglo xxi)",
+                "Realice pruebas de manera automatizada utilizando selenium y playwright",
+                "Aplique patrones de automatización como BDD y POM",
+                "Realice consultas robustas en BDD para asegurar un suit de pruebas adecuado",
+                "Participe de las ceremonias de SCRUM y de triage de defectos para mantener una comunicación asertiva",
+                "Documente las pruebas utilizando herramientas de gestión como XRAY o QATOUCH",
+                "Realice pruebas de compatibilidad y usabilidad en la app móvil",
+                "Propuse mejoras a la hora de probar en IOS",
+                "Realice pasaje de conocimientos a Pasantes en el equipo"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Pasantía Testing",
+            "company": "Universidad Blas Pascal",
+            "location": "Córdoba",
+            "start_date": "2020-01-01",
+            "end_date": "2021-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Pasantía realizada como parte de las prácticas profesionalizantes en la universidad",
+                "Realice pruebas de manera manual",
+                "Reporte incidentes en la aplicación"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Web Developer",
+            "company": "Freelance",
+            "location": "Córdoba",
+            "start_date": "2019-01-01",
+            "end_date": "2020-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Realice el frontend en REACT js y el backend en Django (python)",
+                "Desarrollos simples como paginas web",
+                "Consumo de APIs públicas como la de Mercado Pago"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnica superior en informática",
+            "institution": "IDES Río Tercero",
+            "location": "Río Tercero",
+            "start_date": "2017-03-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciada en sistemas de la información",
+            "institution": "Universidad Blas Pascal",
+            "location": "Córdoba",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "playwright",
+                "selenium",
+                "cucumber",
+                "soapui",
+                "postman",
+                "swagger",
+                "sql-server",
+                "oracle",
+                "mongodb",
+                "mysql",
+                "typescript",
+                "javascript",
+                "python",
+                "golang",
+                "react.js",
+                "bash",
+                "jenkins",
+                "git",
+                "docker",
+                "kubernetes",
+                "azure-devops"
+            ],
+            "soft": [
+                "comunicación-efectiva",
+                "trabajo-en-equipo",
+                "mentoring",
+                "liderazgo-de-calidad",
+                "atención-al-detalle",
+                "pensamiento-crítico"
+            ],
+            "tools": [
+                "trello",
+                "jira",
+                "xray",
+                "confluence",
+                "office-365",
+                "slack"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "ISTQB Foundation Level",
+            "issuing_organization": "",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Automatización con Python / Playwright",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "EF SET English C1 (67/100)",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Advanced"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

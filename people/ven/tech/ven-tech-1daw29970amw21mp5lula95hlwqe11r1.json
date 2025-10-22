@@ -1,0 +1,161 @@
+{
+    "personal_info": {
+        "first_name": "Gabriel",
+        "last_name": "Ramirez",
+        "email": "minombresgabriel@gmail.com",
+        "phone": "+58 412-200-9688",
+        "location": {
+            "country": "Venezuela",
+            "city": "Caracas",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "https://github.com/minombresgabriel",
+        "portfolio": "",
+        "summary": "Desarrollador de Software motivado y de rápido aprendizaje, con enfoque en desarrollo backend y full stack. Experiencia creando APIs seguras y escalables utilizando Node.js, con sólidos conocimientos en MongoDB, Express y React. Graduado como Técnico en Informática, actualmente desarrollando proyectos reales y prácticos. Abierto a oportunidades de trabajo remoto, con ganas de crecer y aportar en equipos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Programador (Pasantias)",
+            "company": "Unicasa",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de APIs escalables utilizando C# y .NET Core.",
+                "Migración de código de .NET Framework a .NET Core para optimización del rendimiento.",
+                "Despliegue completo de aplicaciones en IIS Server.",
+                "Creación de una aplicación web moderna utilizando React y Vite.",
+                "Consultas y gestión de bases de datos en SQL Server."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Web Master Developer",
+            "company": "Hatel Studio",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y desarrollo de sitios web con WordPress y Elementor.",
+                "Optimización SEO y gestión de contenido para blogs.",
+                "Personalización avanzada de funciones y resolución de errores en producción.",
+                "Gestión simultánea de múltiples sitios y mejora en la organización de tareas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Programador",
+            "company": "Rubicon Software",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño e implementación de interfaces UI/UX enfocadas en usabilidad.",
+                "Optimización de software y mejora del rendimiento en frontend.",
+                "Configuración de bases de datos y estructuras lógicas.",
+                "Participación en procesos de QA para asegurar la calidad del software."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Superior Universitario",
+            "institution": "Instituto Universitario de Mercadotecnia ISUM",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachiller en Ciencias",
+            "institution": "Colegio El Carmelo",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "node",
+                "react",
+                "mongo",
+                "express",
+                "javascript",
+                "c#",
+                "java",
+                "sql",
+                "mysql",
+                "wordpress"
+            ],
+            "soft": [
+                "versatilidad",
+                "responsabilidad"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "API RESTful para gestión de tareas",
+            "description": "Gestión de tareas con autenticación JWT, control de acceso, filtros por estado y prioridad, ordenamiento y CRUD completo.",
+            "technologies": [
+                "Node.js",
+                "Express",
+                "MongoDB",
+                "JWT",
+                "Postman"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Sitios web responsivos",
+            "description": "Diseño y creación de múltiples sitios web responsivos utilizando WordPress y Elementor. Integración de funcionalidades personalizadas y optimización SEO básica.",
+            "technologies": [
+                "WordPress",
+                "Elementor",
+                "HTML",
+                "CSS",
+                "SEO",
+                "Google Analytics",
+                "Yoast SEO"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Visualizaciones interactivas en Power BI",
+            "description": "Limpieza y transformación de datos brutos a partir de un caso práctico para generar visualizaciones interactivas.",
+            "technologies": [
+                "Power BI",
+                "Excel",
+                "Data Cleaning",
+                "DAX",
+                "Visualización de datos"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,108 @@
+{
+    "personal_info": {
+        "first_name": "Miguel Eduardo",
+        "last_name": "Gonzalez Fofe",
+        "email": "247mmgg@gmail.com",
+        "phone": "+54 91167554915",
+        "location": {
+            "country": "Argentina",
+            "city": "CABA Almagro",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/miguel-gonzalez-07392b187/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Frontend orientado a resultados, con experiencia en la creación de interfaces modernas, accesibles y eficientes. Manejo sólido de HTML, CSS y JavaScript, con formación continua en React y metodologías ágiles. Capaz de transformar ideas en productos digitales funcionales, enfocados en la experiencia del usuario y el rendimiento. Con una mentalidad de mejora continua y fuerte autogestión, estoy listo para asumir desafíos reales en entornos dinámicos y colaborativos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Go for marketing & Ecommerce",
+            "location": "Argentina",
+            "start_date": "2025-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollé más de 10 landing pages optimizadas para conversión, adaptadas a múltiples dispositivos.",
+                "Implementé componentes reutilizables con JavaScript vanilla acelerando el tiempo de desarrollo en un 30%.",
+                "Apliqué buenas prácticas de accesibilidad y usabilidad, mejorando la experiencia de navegación.",
+                "Trabajé en conjunto con equipos de diseño y marketing para lanzar campañas efectivas en tiempo récord."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diseñador Web, Web Development",
+            "institution": "Coderhouse",
+            "location": "Argentina",
+            "start_date": "2023-11-01",
+            "end_date": "2023-11-30",
+            "hours": 0
+        },
+        {
+            "degree": "JavaScript, Programación orientada a objetos",
+            "institution": "Coderhouse",
+            "location": "Argentina",
+            "start_date": "2024-03-01",
+            "end_date": "2024-03-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "react",
+                "javascript",
+                "git"
+            ],
+            "soft": [
+                "aprendizaje-continuo",
+                "auto-gestión",
+                "habilidades-de-análisis",
+                "resolución-de-problemas",
+                "habilidades-comunicativas",
+                "paciencia",
+                "creatividad"
+            ],
+            "tools": [
+                "bootstrap",
+                "firebase",
+                "microsoft-clarity",
+                "google-search-console"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "My Task",
+            "description": "Aplicación web para organizar el día a día, permitiendo tomar notas, crear listas de tareas desde cualquier dispositivo.",
+            "technologies": ["HTML", "CSS", "JavaScript", "Git"],
+            "url": "",
+            "responsibilities": [
+                "Desarrollé una interfaz responsiva y moderna, accesible desde móvil y escritorio.",
+                "Integré Firebase para almacenamiento en la nube y persistencia de datos del usuario.",
+                "Implementé funciones como creación, edición y eliminación de notas y tareas."
+            ]
+        },
+        {
+            "name": "Blog Personal sobre Desarrollo Web y SEO",
+            "description": "Blog técnico donde comparto aprendizajes y prácticas sobre programación.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "url": "",
+            "responsibilities": [
+                "Redacté artículos educativos sobre HTML, CSS, JavaScript.",
+                "Apliqué principios de SEO on-page: uso correcto de etiquetas, títulos jerárquicos (<h1> a <h6>), meta descripciones y optimización de tiempos de carga."
+            ]
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

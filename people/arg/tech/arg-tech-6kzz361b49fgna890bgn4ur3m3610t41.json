@@ -1,0 +1,122 @@
+{
+    "personal_info": {
+        "first_name": "Emiliano",
+        "last_name": "Ciurcilo",
+        "email": "emilianociurcilo@gmail.com",
+        "phone": "+54 91132556163",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": "Ciudad Autónoma de Buenos Aires"
+        },
+        "linkedin": "https://linkedin.com/in/emilianociurcilo",
+        "website": "",
+        "portfolio": "https://portfolio.com/emilianociurcilo",
+        "summary": "Apasionado por la tecnología. Me destaco por poseer rápida adaptabilidad a los cambios y proactividad para encarar nuevos desafíos. Poseo habilidades sólidas para trabajar en equipos dinámicos y estoy muy entusiasmado por ganar experiencia laboral."
+    },
+    "work_experience": [
+        {
+            "job_title": "Freelancer",
+            "company": "",
+            "location": "",
+            "start_date": "2023-07-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Creación y administración de datos en bases de datos SQL con MySQL.",
+                "Desarrollo Backend con Nodejs, Expressjs, Router, Multer, Websockets, MongoDB, Mongoose.",
+                "Implementación de JWT, Passport, arquitectura del servidor, mailing y mensajería.",
+                "Testing, optimización, performance, escalabilidad, seguridad, documentación con NestJS y Docker."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/emilianociurcilo"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Informática",
+            "institution": "Universidad de Buenos Aires",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Carrera de Desarrollador Web Backend",
+            "institution": "CoderHouse",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "2025-04-30",
+            "hours": 0
+        },
+        {
+            "degree": "Certificación ReactJS",
+            "institution": "CoderHouse",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "2024-01-31",
+            "hours": 0
+        },
+        {
+            "degree": "Certificación Javascript",
+            "institution": "CoderHouse",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2023-10-31",
+            "hours": 0
+        },
+        {
+            "degree": "Certificación de Desarrollo Web - HTML - CSS - JAVASCRIPT",
+            "institution": "BA Multiplica 2.0",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "2023-07-31",
+            "hours": 0
+        },
+        {
+            "degree": "Administración de empresas",
+            "institution": "Instituto Cristo Rey",
+            "location": "",
+            "start_date": "",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "react",
+                "nodejs",
+                "expressjs",
+                "mongodb",
+                "mysql",
+                "tailwind",
+                "git"
+            ],
+            "soft": [
+                "creatividad",
+                "organización",
+                "adaptabilidad"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Básico"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

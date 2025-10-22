@@ -1,0 +1,94 @@
+{
+  "personal_info": {
+    "first_name": "Pablo",
+    "last_name": "Fernandez",
+    "email": "pablodanyfer@gmail.com",
+    "phone": "+54 9370 469-3979",
+    "location": {
+      "country": "Argentina",
+      "city": "Formosa",
+      "state": ""
+    },
+    "linkedin": "https://linkedin.com/in/pablo-fzl",
+    "website": "",
+    "portfolio": "https://pablofernz.vercel.app",
+    "summary": "Full Stack Developer with 2+ years of experience in web development. Skilled in both Front End and Back End, building scalable and efficient applications. Focused on creating functional solutions with a great user experience, using a variety of technologies and agile methodologies."
+  },
+  "work_experience": [],
+  "education": [
+    {
+      "degree": "Full Stack Developer",
+      "institution": "Henry Tech LLC",
+      "location": "",
+      "start_date": "2023-02-01",
+      "end_date": "2023-11-30",
+      "hours": 800
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "html/css",
+        "javascript",
+        "typescript",
+        "python",
+        "java",
+        "next.js",
+        "express.js",
+        "tailwind",
+        "sass",
+        "node.js",
+        "jest.js",
+        "nest.js",
+        "spring-boot",
+        "react.js",
+        "redux.js",
+        "firebase",
+        "framer-motion",
+        "gsap",
+        "typeorm",
+        "sequelize",
+        "mongoose",
+        "mongodb",
+        "postgresql",
+        "mysql",
+        "mariadb",
+        "cockroachdb"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "name": "Zen - Website",
+      "description": "Task manager website",
+      "technologies": ["HTML", "CSS", "React", "Redux", "Framer Motion", "Node.js", "Express", "Firebase", "MongoDB", "JWT", "Kanban"],
+      "url": ""
+    },
+    {
+      "name": "Indico - Website",
+      "description": "Food e-commerce website concept",
+      "technologies": ["HTML", "CSS", "React", "Redux", "Framer Motion", "Node.js", "Express", "Firebase", "MongoDB", "Kanban"],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "C1 Advanced EFSET"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

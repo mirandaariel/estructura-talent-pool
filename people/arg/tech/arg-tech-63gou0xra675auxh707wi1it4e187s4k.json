@@ -1,0 +1,127 @@
+{
+    "personal_info": {
+        "first_name": "Kevin",
+        "last_name": "Castro",
+        "email": "kevincastro920@gmail.com",
+        "phone": "+5493516862090",
+        "location": {
+            "country": "Argentina",
+            "city": "Cordoba",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador FullStack apasionado por crear páginas web responsivas, aplicando buenas prácticas de diseño para ofrecer sitios atractivos y funcionales. Experiencia desarrollando proyectos en WordPress y tecnologías como HTML, CSS, JavaScript y bases de datos SQL y noSQL. Orientado al aprendizaje continuo, testing y optimización de sitios web."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador frontend",
+            "company": "",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de landing pages, dashboard y aplicaciones online utilizando HTML, CSS, Javascript, y Elementor en Wordpress.",
+                "Desarrollo de sitios web basados en diseños en Figma."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2025-03-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollo FullStack",
+            "institution": "Universidad Tecnológica Nacional UTN",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "html",
+                "css",
+                "bootstrap",
+                "tailwind",
+                "wordpress",
+                "elementor",
+                "react",
+                "next-js",
+                "node.js",
+                "jest",
+                "jasmin",
+                "mariadb",
+                "postgresql",
+                "mongodb"
+            ],
+            "soft": [],
+            "tools": [
+                "figma",
+                "adobe-illustrator",
+                "canva",
+                "git",
+                "slack",
+                "trello",
+                "agile-scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Canal de YouTube",
+            "description": "Canal creado para enseñar programación, diseño responsive y consumo de Api a nuevos desarrolladores.",
+            "technologies": [],
+            "url": "https://www.youtube.com/@practicandoprogramacion2022"
+        },
+        {
+            "name": "Portafolio Personal",
+            "description": "Sitio web donde muestro alguno de los trabajos que he realizado y otros proyectos personales.",
+            "technologies": ["React", "HTML", "CSS", "Javascript"],
+            "url": "https://portafolio3-95zh.vercel.app"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Full Stack Teaching Assistant",
+            "organization": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2025-06-01",
+            "end_date": "",
+            "responsibilities": [
+                "Coordinar a un grupo de estudiantes para lograr la integración al equipo de estudio.",
+                "Asistir a la resolución de ejercicios con Javascript y typescript, promoviendo la colaboración grupal (Pair Programming)."
+            ]
+        }
+    ],
+    "publications": [],
+    "references": []
+}

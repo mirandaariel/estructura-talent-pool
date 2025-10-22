@@ -1,0 +1,104 @@
+{
+    "personal_info": {
+        "first_name": "Jose María",
+        "last_name": "Coronel",
+        "email": "josecoronel20@outlook.com",
+        "phone": "+54 1135028931",
+        "location": {
+            "country": "Argentina",
+            "city": "Pilar",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Self-taught Fullstack Developer, with focus on frontend (React, TypeScript, Next.js) and solid backend experience (Node.js, Express, PostgreSQL). Capable of building complete applications applying best practices, strong validation, and secure authentication."
+    },
+    "work_experience": [],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "next.js",
+                "tailwind-css",
+                "zustand",
+                "react-hook-form",
+                "node.js",
+                "express",
+                "postgresql",
+                "jwt",
+                "cookies",
+                "jest",
+                "react-testing-library",
+                "zod",
+                "ssr",
+                "swr"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "visual-studio-code",
+                "cursor",
+                "ci/cd-basic"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Chapel Football - Player Management System",
+            "description": "Fullstack web application to manage detailed profiles of football players, including statistics, skills and multimedia. It includes secure authentication, complex forms, and file uploads.",
+            "technologies": [
+                "Next.js",
+                "React",
+                "Tailwind CSS",
+                "TypeScript",
+                "Node.js",
+                "Express",
+                "PostgreSQL",
+                "Prisma",
+                "JWT",
+                "Supabase Storage"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Back-Ecommerce",
+            "description": "E-commerce platform with secure login, product CRUD, cart with persistence and automated testing. Full deployment in real environment.",
+            "technologies": [
+                "React",
+                "Next.js",
+                "Tailwind CSS",
+                "Node.js",
+                "Express",
+                "PostgreSQL",
+                "JWT",
+                "Jest"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate/Advanced (Technical, Reading and Writing)"
+        },
+        {
+            "language": "Portuguese",
+            "proficiency": "Basic"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

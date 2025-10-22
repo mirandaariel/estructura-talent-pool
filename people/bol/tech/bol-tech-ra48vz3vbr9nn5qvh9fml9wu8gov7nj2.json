@@ -1,0 +1,139 @@
+{
+    "personal_info": {
+        "first_name": "Miguel Benjamin",
+        "last_name": "Zubieta Rios",
+        "email": "estructura.fantasize622@passinbox.com",
+        "phone": "+591 79723232",
+        "location": {
+            "country": "Bolivia",
+            "city": "Cochabamba",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Mobile Developer (Intern)",
+            "company": "iKonSoft",
+            "location": "Cochabamba, Bolivia",
+            "start_date": "2024-03-01",
+            "end_date": "2024-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicación móvil para gestión de cobros, pedidos y ventas en la industria avícola.",
+                "Implementación de lógica de negocio y estructura de datos para usuarios, productos y transacciones.",
+                "Integración de funcionalidades clave como notificaciones, formularios dinámicos y sincronización con servidor.",
+                "Interlocutor técnico entre el equipo de desarrollo y los usuarios finales para recopilar requisitos y feedback."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Web Developer (Intern)",
+            "company": "Marketing Lab",
+            "location": "Cochabamba, Bolivia",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Coordinación y desarrollo de una landing page y una tienda en línea.",
+                "Implementación de CMS para facilitar la gestión y actualización del contenido del sitio.",
+                "Configuración de pipelines CI/CD para despliegues automáticos y control de versiones.",
+                "Despliegue exitoso del sitio web en entorno de producción asegurando estabilidad y rendimiento."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Ingeniería Informática",
+            "institution": "Universidad Mayor de San Simón",
+            "location": "Cochabamba, BO",
+            "start_date": "",
+            "end_date": "2026-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "rust",
+                "python",
+                "typescript",
+                "nodejs",
+                "expressjs",
+                "react",
+                "next.js",
+                "astro",
+                "vue",
+                "nuxt",
+                "tailwind",
+                "docker",
+                "git",
+                "sql"
+            ],
+            "soft": [],
+            "tools": [
+                "figma",
+                "canva",
+                "strapi",
+                "jira",
+                "linux",
+                "wordpress",
+                "inglés",
+                "scrum",
+                "firebase",
+                "cloud"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Proyecto Final de Ingeniería de Software",
+            "description": "Implementación de una aplicación móvil, implementada en React Native usando servicios de Google Cloud, bajo un marco de trabajo ágil (SCRUM).",
+            "technologies": [
+                "react-native",
+                "google-cloud",
+                "scrum"
+            ],
+            "url": "https://github.com/Synergy-UMSS/throwback-app"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": ""
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Coordinator",
+            "organization": "HackLab Brickheads",
+            "location": "Cochabamba, Bolivia",
+            "start_date": "2023-12-01",
+            "end_date": "",
+            "responsibilities": [
+                "Organización de eventos formativos, talleres técnicos y campañas de recolección de donaciones.",
+                "Coordinación de proyectos estudiantiles y gestión de reuniones con equipos multidisciplinarios.",
+                "Administración de redes sociales y difusión de actividades de la comunidad.",
+                "Colaboración en la organización de eventos tecnológicos locales.",
+                "Apoyo en áreas de logística, comunicación y gestión de redes sociales."
+            ]
+        }
+    ],
+    "publications": [],
+    "references": []
+}

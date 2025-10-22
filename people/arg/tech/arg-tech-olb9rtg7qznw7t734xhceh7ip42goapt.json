@@ -1,0 +1,137 @@
+{
+    "personal_info": {
+        "first_name": "Franco Exequiel",
+        "last_name": "Fernández",
+        "email": "fernandezfranco13@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Corrientes",
+            "state": "Corrientes"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un freelancer en búsqueda de conocimiento en programación, y con ganas de crecer en este mundo en el cual tanto me interesa desarrollando paginas web y aplicaciones."
+    },
+    "work_experience": [
+        {
+            "job_title": "",
+            "company": "TelCo",
+            "location": "Corrientes Capital",
+            "start_date": "2024-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Creación de una pagina donde utilizaremos el front-end y el back-end con tecnologías PHP, y frameworks (Codeigniter 3, Bootstrap) y aprender a utilizar bases de datos como MySQL."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachiller en Ciencias Sociales",
+            "institution": "Pte. Hipolito Yrigoyen",
+            "location": "Corrientes Capital",
+            "start_date": "2012-03-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura en Sistemas de la Información",
+            "institution": "UNNE - Universidad Nacional del Nordeste",
+            "location": "Corrientes Capital",
+            "start_date": "2023-03-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "bootstrap",
+                "php",
+                "react",
+                "git"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "comunicación",
+                "adaptabilidad",
+                "aprendizaje-rápido",
+                "resolución-de-problemas"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "Certificado Yo puedo programar",
+            "issuing_organization": "",
+            "issue_date": "2021-07-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Programacion Desde 0",
+            "issuing_organization": "EDteam",
+            "issue_date": "2021-09-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Proyecto personal creado en clases de Junior Achievement",
+            "description": "Proyecto personal utilizando HTML/CSS, Bootstrap y JS para crear una aplicación web, la función que cumple es informar a las personas sobre la cultura general de Corrientes, capital.",
+            "technologies": [
+                "HTML/CSS",
+                "Bootstrap",
+                "JavaScript"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Proyecto Pomodoro",
+            "description": "Creación de un Pomodoro que sea funcional, simple y bonito. con HTML, CSS y JS.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Proyecto pagina web de TelCo",
+            "description": "Creación de una pagina donde utilizaremos el front-end y el back-end con tecnologías PHP, y frameworks (Codeigniter 3, Bootstrap) y aprender a utilizar bases de datos como MySQL.",
+            "technologies": [
+                "PHP",
+                "Codeigniter 3",
+                "Bootstrap",
+                "MySQL"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "A1"
+        },
+        {
+            "language": "Portugués",
+            "proficiency": "A2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

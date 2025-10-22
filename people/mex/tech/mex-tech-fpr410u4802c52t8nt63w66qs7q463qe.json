@@ -1,0 +1,121 @@
+{
+    "personal_info": {
+        "first_name": "Manuel",
+        "last_name": "Flores",
+        "email": "speed_flores24@hotmail.com",
+        "phone": "3328314722",
+        "location": {
+            "country": "Mexico",
+            "city": "Guadalajara",
+            "state": "Jalisco"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Colaboro de manera empática y eficaz, fomentando un ambiente de trabajo positivo. Con experiencia en Next.js, React y Tailwind, además de manejo de AWS (EC2, S3) y Git/GitHub, permitiéndome integrarme rápidamente y optimizar procesos desde el primer día."
+    },
+    "work_experience": [
+        {
+            "job_title": "Asesor de pista",
+            "company": "Kinza Gas",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Atención al cliente en una estación de servicio.",
+                "Trabajo en equipo, resolución de problemas y gestión del tiempo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bootcamp en Desarrollo Web Full-stack JavaScript",
+            "institution": "Kodemia",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "2025-02-28",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html5",
+                "css3",
+                "sass",
+                "bootstrap",
+                "tailwind",
+                "react",
+                "javascript",
+                "node.js",
+                "express",
+                "mongodb",
+                "mongoose",
+                "next.js",
+                "git/github",
+                "aws"
+            ],
+            "soft": [
+                "empatía",
+                "comunicación",
+                "trabajo-en-equipo"
+            ],
+            "tools": [
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {},
+            "tools": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Marketplace de Florerías",
+            "description": "Desarrollo de un marketplace de florerías desde cero con un equipo, valorizando la comunicación y el trabajo colaborativo. Backend con Node.js y Express, frontend con Next.js, React y Material UI. Uso AWS EC2 para el backend y S3 para imágenes.",
+            "technologies": [
+                "node.js",
+                "express",
+                "next.js",
+                "react",
+                "material-ui",
+                "aws-ec2",
+                "aws-s3"
+            ],
+            "url": "https://github.com/Flores-Bloomsy"
+        },
+        {
+            "name": "Clon de DEV.to con Next.js y React",
+            "description": "Clon de DEV.to con renderizado del lado del servidor. React Hook Form y Yup para validación de formularios, consumiendo una API con Fetch.",
+            "technologies": [
+                "next.js",
+                "react",
+                "react-hook-form",
+                "yup"
+            ],
+            "url": ""
+        },
+        {
+            "name": "API RESTful",
+            "description": "API para gestión de usuarios y publicaciones con Node.js y Express. JWT para autenticación, MongoDB con Mongoose y Clean Architecture para modularidad y escalabilidad.",
+            "technologies": [
+                "node.js",
+                "express",
+                "jwt",
+                "mongodb",
+                "mongoose",
+                "clean-architecture"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

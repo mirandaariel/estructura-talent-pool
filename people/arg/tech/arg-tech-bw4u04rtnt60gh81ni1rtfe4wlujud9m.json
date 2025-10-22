@@ -1,0 +1,162 @@
+{
+    "personal_info": {
+        "first_name": "Elianyi",
+        "last_name": "Otaño Romero",
+        "email": "Elianyiot@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador de software con experiencia integral en tecnologías frontend y backend. Apasionado por la creación de soluciones tecnológicas escalables, seguras y de alto rendimiento. Experiencia en metodologías ágiles, liderazgo de equipos y enfoque en el diseño e implementación de proyectos completos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador de software por contrato por horas",
+            "company": "Handgot",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo integral de una plataforma de telemedicina con funcionalidades avanzadas.",
+                "Diseño de interfaces modernas y responsivas utilizando Angular, TypeScript y Bootstrap.",
+                "Optimización de bases de datos MySQL para mejorar tiempos de respuesta y escalabilidad.",
+                "Despliegue en la nube mediante Azure Devops."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Freelancer",
+            "company": "",
+            "location": "",
+            "start_date": "2024-05-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de una plataforma para gestionar servicios de Car Wash.",
+                "Permitiendo a los clientes agendar citas y consultar el estado de sus servicios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "4GEEKS",
+            "location": "San José, Costa Rica",
+            "start_date": "2022-07-01",
+            "end_date": "2024-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de proyectos como Talent, Console y Jogo App.",
+                "Implementación de servicios backend escalables en Python y C#.",
+                "Liderazgo de proyectos y mentoría de internos bajo metodologías ágiles (Scrum)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Prácticas de Desarrollo de Software",
+            "company": "AI LOGIC",
+            "location": "",
+            "start_date": "2021-09-01",
+            "end_date": "2021-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de una plataforma de gestión de equipos e internos.",
+                "Implementación de una aplicación basada en la técnica Pomodoro."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Desarrollo Web frontend con Angular",
+            "institution": "Instituto Tecnológico de Las Américas (ITLA)",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en Software",
+            "institution": "Universidad APEC (UNAPEC)",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "English Immersion Program",
+            "institution": "Instituto Multicultural Domínico Américano",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnólogo en Desarrollo de Software",
+            "institution": "Instituto Tecnológico de Las Américas (ITLA)",
+            "location": "",
+            "start_date": "2019-09-01",
+            "end_date": "2023-04-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "sql",
+                "mysql",
+                "c#",
+                "javascript",
+                "typescript",
+                "angular",
+                "angular-material",
+                "bootstrap",
+                "django",
+                "django-cms",
+                "asp.net",
+                "html",
+                "css",
+                "git",
+                "gitlab",
+                "docker",
+                "firebase",
+                "gcloud",
+                "figma"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sistema Talent",
+            "description": "Crear una plataforma para la gestión y búsqueda de talentos profesionales.",
+            "technologies": ["Angular", "Django", "Bootstrap", "MySQL", "Typensense", "GitLab"],
+            "url": ""
+        },
+        {
+            "name": "Handgot - Telemedicina",
+            "description": "Facilitar la conexión entre pacientes y médicos mediante una plataforma web.",
+            "technologies": ["Angular", "Python", "Django", "Firebase", "MySQL", "Bootstrap"],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

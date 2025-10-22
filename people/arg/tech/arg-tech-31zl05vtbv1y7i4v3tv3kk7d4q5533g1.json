@@ -1,0 +1,121 @@
+{
+    "personal_info": {
+        "first_name": "Carlos",
+        "last_name": "Jorge",
+        "email": "carlosjorge101@gmail.com",
+        "phone": "+54 3415813097",
+        "location": {
+            "country": "Argentina",
+            "city": "Rosario",
+            "state": "Santa Fe"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Web",
+            "company": "Elite Cultural Exchange",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2025-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y despliegue de un sitio web en Next.js con integración de Stripe, configuración de dominio a través de GoDaddy, y alojamiento en Hostinger.",
+                "Aumento de tráfico del sitio web en un 65% y las ventas en un 20% en tres meses mejorando el SEO, optimizando el rendimiento y mejorando la interfaz de usuario."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full-Stack",
+            "company": "4 Agile Development",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2025-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de sitios web responsivos utilizando HTML, CSS, JavaScript, React.js, Next.js, TypeScript y Astro, mejorando la visibilidad y el rendimiento de los clientes.",
+                "Desarrollo del frontend (Next.js, TypeScript, Tailwind CSS, Material UI) y el backend (Node.js, NestJS, MySQL, Redis) de un sistema SaaS de WMS, desplegado con Docker y Vercel, lo que mejoró la escalabilidad y la adopción por parte de los clientes.",
+                "Co-desarrollé un sistema de punto de venta (POS), implementando funcionalidades full-stack e integrando Stripe para pagos seguros, lo que incrementó la capacidad de transacción de los clientes.",
+                "Diseño y lanzamiento de una aplicación de gestión de turnos, encargado del front-end, back-end, base de datos y despliegue con Docker en Hostinger, optimizando las operaciones de reserva.",
+                "Gestión del control de versiones con Git y los despliegues con contenedores, mejorando la eficiencia del equipo y la confiabilidad del software."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "University of the People",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2028-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "html/css",
+                "react.js",
+                "next.js",
+                "astro",
+                "tailwindcss",
+                "scss",
+                "material-ui",
+                "redux",
+                "node.js",
+                "nestjs",
+                "express.js",
+                "typeorm"
+            ],
+            "soft": [],
+            "tools": [
+                "aws",
+                "redis",
+                "docker",
+                "git",
+                "github-actions",
+                "ci/cd",
+                "mysql",
+                "agile",
+                "scrum",
+                "vercel",
+                "hostinger",
+                "stripe",
+                "mailchimp"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "IBM Full-Stack JavaScript Developer Certification",
+            "issuing_organization": "Coursera",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "AWS Cloud Solutions Architect Certification",
+            "issuing_organization": "Coursera",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

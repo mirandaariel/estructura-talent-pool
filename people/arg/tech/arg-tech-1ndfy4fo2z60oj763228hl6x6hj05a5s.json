@@ -1,0 +1,176 @@
+{
+    "personal_info": {
+        "first_name": "Guillermo",
+        "last_name": "Suruguay",
+        "email": "guillermo.suruguay@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy QA Engineer Sr y Desarrollador Web con experiencia en proyectos de desarrollo, comerciales, automatización y aseguramiento de calidad para clientes de diversas industrias como banca, seguros, tecnología, automotriz, editoriales y retail. Me especializo en el diseño de soluciones escalables y automatización de pruebas funcionales con herramientas como Cypress o Selenium. Me definen el liderazgo colaborativo, la autonomía, la capacidad de aprendizaje continuo y la orientación a resultados en entornos dinámicos y exigentes."
+    },
+    "work_experience": [
+        {
+            "job_title": "QA Lead | QA Engineer Sr | QA Funcional Sr",
+            "company": "Practia Global",
+            "location": "Proyectos Bancarios",
+            "start_date": "2021-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Lideré la implementación de un framework de automatización para pruebas funcionales usando Java, RestAssured, Selenium, Cucumber y Gherkin.",
+                "Automaticé más del 80% de los casos de prueba críticos, reduciendo el tiempo de regresión en un 90%.",
+                "Coordiné un equipo de QA para garantizar entregas semanales de pruebas automatizadas en un entorno ágil con Scrum.",
+                "Mejoré la cobertura de pruebas de backend en API-rest bancarias críticas, detectando errores en etapas tempranas del pipeline CI/CD.",
+                "Aumenté en un 20% el conocimiento de automatización en el equipo de testing manual.",
+                "Integré reportes automatizados en Allure para visibilidad de resultados por parte del equipo de negocio.",
+                "Mejoré en un 100% la satisfacción del cliente en los reportes de regresiones.",
+                "Reduje un 40% el tiempo a las consultas a Bases de Datos con SQL.",
+                "Definí estrategias de pruebas de acuerdo al análisis de los flujos del negocio y los requisitos del sistema.",
+                "Usé Jmeter para pruebas de performance."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Web Fullstack | QA Engineer Freelance - SDET",
+            "company": "",
+            "location": "",
+            "start_date": "2021-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseñé, desarrollé y mantuve más de 50 sitios y aplicaciones web personalizados, logrando una satisfacción del cliente superior al 95%.",
+                "Integré librerías y módulos externos, mejorando la experiencia del usuario.",
+                "Realicé adaptaciones responsive y mejoras de diseño, garantizando usabilidad móvil y accesibilidad en más del 90% de los proyectos.",
+                "Diseñé y administré bases de datos optimizando consultas y mejorando tiempos de respuesta hasta un 30%.",
+                "Gestioné tiendas WooCommerce, incluyendo integración de pagos y personalización.",
+                "Administré plataformas OJS y OMP para revistas científicas, mejorando su visibilidad y funcionalidad editorial.",
+                "Maqueté más de 300 artículos en XML JATS, adaptando estructuras para SciELO, PubMed y otros estándares académicos.",
+                "Ejecuté pruebas funcionales manuales, incluyendo análisis de requerimientos, ejecución de pruebas y elaboración de informes de bugs con evidencias detalladas.",
+                "Detecté y documenté errores críticos, ayudando a evitar incidencias en producción y optimizando procesos de QA en un 50%.",
+                "Desarrollé frameworks de automatización de pruebas con Cypress y Selenium, logrando ejecutar regresiones automáticas en pipelines CI/CD con una reducción del 70% en tiempo de testing.",
+                "Colaboré con equipos de desarrollo, producto, SRE y otros QA."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Practia School QA Automation Engineer",
+            "institution": "Practia Global",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bootcamp frontend con React.JS",
+            "institution": "Universidad Nacional de Jujuy",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Skill factory NodeJS y React.JS",
+            "institution": "Avalith",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador web fullstack NodeJS",
+            "institution": "Comunidad IT",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador web fullstack PHP",
+            "institution": "Educación IT",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "java",
+                "restassured",
+                "selenium",
+                "cucumber",
+                "gherkin",
+                "api-rest",
+                "sql",
+                "jmeter",
+                "cypress"
+            ],
+            "soft": [
+                "liderazgo",
+                "autonomia",
+                "aprendizaje-continuo",
+                "orientacion-a-resultados"
+            ],
+            "tools": [
+                "allure",
+                "woocommerce",
+                "ojs",
+                "omp",
+                "xml-jats"
+            ]
+        },
+        "detailed": {
+            "technical": {
+                "selenium": [
+                    {
+                        "name": "Automation framework development",
+                        "repository_url": ""
+                    }
+                ],
+                "restassured": [
+                    {
+                        "name": "API testing",
+                        "repository_url": ""
+                    }
+                ],
+                "cypress": [
+                    {
+                        "name": "Test automation with CI/CD",
+                        "repository_url": ""
+                    }
+                ]
+            },
+            "soft": {
+                "liderazgo": [
+                    {
+                        "name": "Leadership in QA teams",
+                        "description": "Coordinated QA team to ensure weekly deliveries of automated tests."
+                    }
+                ],
+                "autonomia": [
+                    {
+                        "name": "Autonomous work",
+                        "description": "Managed freelance projects independently with high client satisfaction."
+                    }
+                ]
+            }
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,117 @@
+{
+    "personal_info": {
+        "first_name": "Pablo",
+        "last_name": "Olivera",
+        "email": "oliverapablo1989@gmail.com",
+        "phone": "+5491155236820",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Frontend Engineer with a strong background in building high-performance and accessible web and mobile applications using React, React Native, and TypeScript. Proven track record of improving code quality through automated testing with Vitest and optimizing CI/CD pipelines using GitHub Actions."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Engineer",
+            "company": "Insight Delta",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Building performant and accessible web and mobile applications using React, React Native, and TypeScript, with a strong focus on component architecture and design consistency.",
+                "Led the migration of the testing suite to Vitest, modernizing the codebase and improving test speed, reliability, and developer experience.",
+                "Modularized the project's styles by refactoring a monolithic stylesheet into component-scoped style files, enabling easier maintenance and improving scalability.",
+                "Actively manage and update third-party libraries to keep the project technically up-to-date and secure.",
+                "Maintain and optimize CI/CD pipelines with GitHub Actions, deploying to AWS S3 and distributing via CDN, ensuring seamless delivery across environments.",
+                "Contribute to backend features using Ruby on Rails, gaining valuable full-stack experience and improving collaboration across teams.",
+                "Drive Agile processes using Jira, taking ownership of task planning and sprint management to ensure efficient execution and communication."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Sr. Collections Analyst",
+            "company": "Agrofina S.A.",
+            "location": "",
+            "start_date": "2019-10-01",
+            "end_date": "2024-06-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Led the successful migration from Tango ERP to SAP, significantly enhancing operational efficiency and data integrity across financial workflows.",
+                "Improved account management processes and reduced DSO through layout optimization.",
+                "Implemented optimized credit and collections strategies, reducing the rate of uncollectible accounts and improving cash flow.",
+                "Actively worked with the accounting department to streamline exchange difference calculations.",
+                "Contributed to system implementation improvements and reporting automation."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's in Information Systems",
+            "institution": "National University of Lujan",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Bachelor's in International Trade",
+            "institution": "University of Salvador",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "git",
+                "github",
+                "github-actions",
+                "react-native",
+                "javascript",
+                "vitest",
+                "typescript",
+                "confluence"
+            ],
+            "soft": [],
+            "tools": [
+                "jira"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "React V9",
+            "issuing_organization": "Frontend Masters",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "React Performance",
+            "issuing_organization": "Frontend Masters",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

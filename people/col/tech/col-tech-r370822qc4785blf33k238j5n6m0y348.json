@@ -1,0 +1,106 @@
+{
+    "personal_info": {
+        "first_name": "Eric Mateo",
+        "last_name": "Marin Zabala",
+        "email": "eric31dev@gmail.com",
+        "phone": "+57 3008379423",
+        "location": {
+            "country": "Colombia",
+            "city": "Cali",
+            "state": ""
+        },
+        "linkedin": "Linkedin",
+        "website": "",
+        "portfolio": "https://eric31dev-portfolio.netlify.app/",
+        "summary": "Desarrollador Frontend Junior con enfoque en la creación de interfaces visuales e interactivas. Me mantengo en constante aprendizaje a través de proyectos personales y formación autodidacta. Comprometido con la calidad del código, el diseño responsive y la experiencia del usuario."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador de Proyectos Personales",
+            "company": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Creación de un sitio personal mostrando proyectos con diseño interactivo y estilo en pixel art usando React, HTML y CSS.",
+                "Desarrollo de una aplicación temática que simula un walkman interactivo utilizando React, HTML y CSS.",
+                "Diseño y desarrollo de un sitio web SPA para una empresa ficticia utilizando Angular, HTML y CSS."
+            ],
+            "achievements": [],
+            "repository_url": "https://github.com/"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Metodología de la Programación de Sistemas Informáticos",
+            "institution": "SENA - Servicio Nacional de Aprendizaje",
+            "location": "Colombia",
+            "start_date": "2022-05-01",
+            "end_date": "2022-05-31",
+            "hours": 0
+        },
+        {
+            "degree": "Curso: Frontend Básico",
+            "institution": "Platzi - Plataforma de educación online",
+            "location": "",
+            "start_date": "2025-03-01",
+            "end_date": "2025-03-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "html5",
+                "css3",
+                "typescript",
+                "react",
+                "angular",
+                "vite"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "figma",
+                "netlify"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Portafolio",
+            "description": "Mi sitio personal donde muestro mis proyectos con diseño interactivo, estructura organizada y estilo en pixel art.",
+            "technologies": ["React", "HTML", "CSS"],
+            "url": "https://eric31dev-portfolio.netlify.app/"
+        },
+        {
+            "name": "Walkman Interactivo",
+            "description": "Aplicación temática e interactiva que simula un walkman para reproducir sonidos. Permite crear y guardar cassettes personalizados con un diseño en pixel art.",
+            "technologies": ["React", "HTML", "CSS"],
+            "url": ""
+        },
+        {
+            "name": "Web SPA",
+            "description": "Sitio web de una empresa ficticia creada como proyecto integral. Incluye navegación por secciones, diseño responsivo y un enfoque profesional en estructura y estilos.",
+            "technologies": ["Angular", "HTML", "CSS"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (Nivel B2 certificado por EF SET - 2025)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

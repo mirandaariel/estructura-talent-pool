@@ -1,0 +1,167 @@
+{
+    "personal_info": {
+        "first_name": "Wagner",
+        "last_name": "Dueñas Remache",
+        "email": "wagnersmithdrdev@gmail.com",
+        "phone": "+593 989785480",
+        "location": {
+            "country": "Ecuador",
+            "city": "Babahoyo",
+            "state": "Los Ríos"
+        },
+        "linkedin": "https://www.linkedin.com/in/wsmith123",
+        "website": "",
+        "portfolio": "https://github.com/WSmithDR",
+        "summary": "Soy Wagner Dueñas, desarrollador Full Stack con enfoque en la construcción de soluciones escalables y orientadas a datos. Tengo experiencia creando desde extensiones de navegador con Plasmo hasta aplicaciones web, aplicando tecnologías como Node.js, Express, React.js, Next.js, TypeScript, Python, Flask y bases de datos como PostgreSQL, MySQL y MongoDB."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Smart Twigs",
+            "location": "Nueva Jersey, Estados Unidos",
+            "start_date": "2024-04-01",
+            "end_date": "2025-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo y optimización de scrapers web en Python (Selenium) para extracción de datos de retailers (Redeemer).",
+                "Implementación y refactorización de componentes frontend en React y TypeScript, mejorando UI/UX y rendimiento (Redeemer y Benevv).",
+                "Gestión de estado global con Redux Toolkit, asegurando escalabilidad y mantenibilidad (Redeemer Y Benevv).",
+                "Desarrollo de endpoints RESTful en Flask (Python) y Laravel (PHP), integrando lógica de negocio para usuarios, campañas, donaciones y recompensas.",
+                "Automatización de pruebas unitarias y end-to-end (Vitest, Puppeteer), asegurando calidad y estabilidad.",
+                "Optimización de base de datos y queries en MySQL y SQLAlchemy, implementando paginación y manejo eficiente de datos.",
+                "Implementación de roles y permisos para distintos tipos de usuario (organización, voluntario, individual) y control de acceso.",
+                "Documentación técnica y guías para onboarding, troubleshooting y buenas prácticas.",
+                "Colaboración activa en revisión de código, resolución de bugs y mejora continua en equipos multidisciplinarios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "No Country",
+            "location": "Argentina",
+            "start_date": "2024-02-01",
+            "end_date": "2024-04-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación y refactorización de componentes frontend en React, Next.js y TypeScript para la gestión de usuarios, autenticación, catálogo de productos, suscripciones y comunicación interna.",
+                "Diseño de interfaces responsivas y accesibles utilizando Tailwind CSS y NextUI, optimizando la experiencia de usuario (UI/UX) en dispositivos móviles y escritorio.",
+                "Consumo e integración de APIs REST mediante Axios y utilidades propias para la gestión de usuarios, productos, mensajes y notificaciones en tiempo real.",
+                "Desarrollo de lógica avanzada para roles y permisos de usuario, control de acceso y renderizado condicional de elementos.",
+                "Refactorización de la arquitectura de componentes y tipados en TypeScript, mejorando la mantenibilidad y escalabilidad del frontend.",
+                "Creación de componentes reutilizables y estilos personalizados para formularios de login, registro, botones, modales y tarjetas de productos.",
+                "Automatización de flujos de usuario y navegación mediante componentes de rutas y botones personalizados.",
+                "Optimización y limpieza de código, eliminando redundancias y mejorando la legibilidad y eficiencia de los componentes.",
+                "Documentación técnica y redacción de guías para onboarding, buenas prácticas y troubleshooting.",
+                "Participación activa en revisión de código, resolución de bugs y mejora continua de la base de código.",
+                "Coordinación con equipos de diseño (Figma) y backend (Node.js, Express, PostgreSQL) para asegurar coherencia y calidad en nuevas funcionalidades y mejoras."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Programa de Ciencias de Datos",
+            "institution": "Escuela Superior Politécnica del Litoral",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "2025-05-31",
+            "hours": 0
+        },
+        {
+            "degree": "Full-Stack Development",
+            "institution": "Henry",
+            "location": "",
+            "start_date": "2023-03-01",
+            "end_date": "2024-01-31",
+            "hours": 0
+        },
+        {
+            "degree": "SQL interactivo",
+            "institution": "Desafío Latam",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-04-30",
+            "hours": 0
+        },
+        {
+            "degree": "Ciencias Computacionales",
+            "institution": "Escuela Superior Politécnica del Litoral",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2029-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "selenium",
+                "flask",
+                "scikit-learn",
+                "pandas",
+                "javascript",
+                "typescript",
+                "express",
+                "react",
+                "redux",
+                "vitest",
+                "java",
+                "maven",
+                "php",
+                "laravel",
+                "node.js",
+                "next.js",
+                "postgresql",
+                "mysql",
+                "mongodb",
+                "tailwind-css",
+                "axios",
+                "npm",
+                "git"
+            ],
+            "soft": [],
+            "tools": [
+                "figma",
+                "plasmo",
+                "puppeteer"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [
+        {
+            "name": "SQL Data Scientist",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Full Stack Development",
+            "issuing_organization": "",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Full Professional"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native or Bilingual"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

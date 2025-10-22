@@ -1,0 +1,95 @@
+{
+    "personal_info": {
+        "first_name": "Thomas Emiliano",
+        "last_name": "Salduende",
+        "email": "thomi44sal@gmail.com",
+        "phone": "+54 3446 476809",
+        "location": {
+            "country": "Argentina",
+            "city": "Larroque",
+            "state": "Entre Ríos"
+        },
+        "linkedin": "https://linkedin.com/in/thomas-salduende",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un desarrollador de 23 años, a un paso de recibirme en la Licenciatura en Sistemas de Información y con dos años de experiencia enfocada en el backend. Disfruto resolver desafíos de lógica y arquitectura, escribiendo código limpio y bien documentado. Siempre busco aprender nuevas tecnologías y patrones que me permitan construir servicios eficientes y confiables."
+    },
+    "work_experience": [
+        {
+            "job_title": "Backend Developer",
+            "company": "Joobpay",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2025-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñar y mantener APIs REST robustas y escalables.",
+                "Optimizar consultas y estructuras de base de datos, logrando mejoras de rendimiento de hasta un 20%.",
+                "Implementar autenticación, autorización y buenas prácticas de seguridad para proteger datos sensibles.",
+                "Implementé funciones serverless en AWS Lambda usando Python, integrándolas con otros servicios (SQS, SNS, API Gateway) para procesar eventos de forma escalable."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador FullStack",
+            "company": "Otra empresa",
+            "location": "Entre Ríos, Argentina",
+            "start_date": "2022-07-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Análisis de requerimientos y propuesta de arquitectura. Trabajando cercano con el cliente para definir alcances, seleccionar tecnologías (Node.js/TypeScript, Python) y diseñar la estructura de servicios.",
+                "Desarrollo de APIs y microservicios entregando endpoints REST y GraphQL bien documentados, con validaciones y control de errores, listos para integrarse en cualquier frontend o sistema existente.",
+                "Modelado y optimización de bases de datos SQL creando esquemas relacionales, viendo índices y escribiendo consultas avanzadas en PostgreSQL/MySQL que mejoran hasta un 20% el rendimiento de consultas críticas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Sistemas de Información",
+            "institution": "Universidad Autónoma de Entre Ríos",
+            "location": "Concepción del Uruguay, Entre Ríos, Argentina",
+            "start_date": "2020-02-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "node-js",
+                "javascript",
+                "typescript",
+                "python",
+                "sql",
+                "docker",
+                "react-js",
+                "next-js",
+                "react-native",
+                "bootstrap",
+                "tailwind-css"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate (B1)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

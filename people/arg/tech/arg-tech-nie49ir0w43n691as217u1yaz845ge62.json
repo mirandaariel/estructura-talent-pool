@@ -1,0 +1,105 @@
+{
+    "personal_info": {
+        "first_name": "Lucio Andrés",
+        "last_name": "Medina Rodríguez",
+        "email": "luciomedinawork@gmail.com",
+        "phone": "+54 351-7476788",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "https://luciomrod.vercel.app",
+        "portfolio": "",
+        "summary": "Frontend Developer with expertise in building dynamic and optimized user interfaces, leveraging React, Next.js, and TypeScript. Focused on performance, accessibility, and best practices, with the ability to work in agile teams and deliver scalable, efficient solutions."
+    },
+    "work_experience": [
+        {
+            "job_title": "Frontend Web Developer",
+            "company": "Codercraft",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Developing frontend applications using React.js, Next.js, and TypeScript in an Agile environment.",
+                "Implementing responsive and reusable UI components following best practices.",
+                "Collaborated with backend teams to integrate RESTful APIs and ensure seamless user experiences.",
+                "Optimized web applications for maximum speed and scalability through code refactoring and performance audits.",
+                "Maintained version control and performed code reviews using GitHub, ensuring high-quality standards in pull requests and merges.",
+                "Reduced load times by 30% using lazy loading, memoization, and code splitting."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Javascript Web Developer",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Frontend Web Developer",
+            "institution": "Coderhouse",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Next.js 15 & React - The Complete Guide",
+            "institution": "Udemy",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "High school diploma with a specialization in Services",
+            "institution": "C.E.N.M.A María Saleme de Burnichón",
+            "location": "",
+            "start_date": "2017-01-01",
+            "end_date": "2017-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react.js",
+                "next.js",
+                "tailwind-css",
+                "material-ui",
+                "chakra-ui",
+                "redux",
+                "react-query"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "gitlab",
+                "jest",
+                "react-testing-library",
+                "cypress"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

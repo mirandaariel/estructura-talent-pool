@@ -1,0 +1,110 @@
+{
+    "personal_info": {
+        "first_name": "Jonathan",
+        "last_name": "Bouquet",
+        "email": "Jbouquet90@gmail.com",
+        "phone": "+549 1140894860",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/jbouquet/",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un Ingeniero QA apasionado por la calidad del software. Me destaco por mi atención al detalle, mi enfoque metódico y mi capacidad para adaptarme rápidamente a nuevos entornos y desafíos. Disfruto trabajar en equipo y colaborar para lograr productos confiables y de alto nivel."
+    },
+    "work_experience": [
+        {
+            "job_title": "QA Engineer",
+            "company": "Codetria",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño y ejecución de casos de prueba utilizando Jira y TestRail.",
+                "Registro y verificación de bugs en plataformas web y móviles (iOS/Android).",
+                "Ejecución de pruebas funcionales, regresión, carga, smoke y usabilidad.",
+                "Automatización de pruebas de navegador con Selenium IDE.",
+                "Pruebas de API mediante Postman y pruebas de carga con JMeter.",
+                "Participación activa en reuniones diarias (daily stand-ups) con equipos ágiles (Scrum)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA Engineer",
+            "company": "Arsat",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2021-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseño y ejecución de casos de prueba utilizando Jira y TestRail.",
+                "Detección, seguimiento y documentación de bugs en entornos web y móviles.",
+                "Pruebas de caja negra en APIs utilizando Postman.",
+                "Revisión de documentación funcional y trabajo colaborativo con el equipo.",
+                "Participación en reuniones diarias bajo metodologías ágiles (Scrum)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA Engineer",
+            "company": "Modernization Ministry",
+            "location": "",
+            "start_date": "2016-01-01",
+            "end_date": "2018-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Análisis de requerimientos y estimación de tareas durante la fase inicial del proyecto.",
+                "Diseño y ejecución de pruebas para aplicaciones web y móviles.",
+                "Pruebas de APIs con Postman y documentación con Swagger.",
+                "Registro y seguimiento de errores mediante Jira.",
+                "Participación en reuniones diarias con el equipo de desarrollo bajo metodología Scrum."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "sql"
+            ],
+            "soft": [],
+            "tools": [
+                "postman",
+                "swagger",
+                "testrail",
+                "selenium-ide",
+                "jmeter",
+                "browserstack",
+                "testflight",
+                "jira",
+                "trello",
+                "azure-devops"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Upper Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

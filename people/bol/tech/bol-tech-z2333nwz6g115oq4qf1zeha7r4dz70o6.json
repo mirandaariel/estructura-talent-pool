@@ -1,0 +1,169 @@
+{
+    "personal_info": {
+        "first_name": "Samuel",
+        "last_name": "Amonzabel",
+        "email": "amonzabels@gmail.com",
+        "phone": "+591-63754426",
+        "location": {
+            "country": "Bolivia",
+            "city": "Sucre",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy egresado de Ingeniería de Sistemas por la Universidad San Francisco Xavier de Chuquisaca, con experiencia en desarrollo frontend, pruebas funcionales y metodologías ágiles. Me destaco por mi compromiso, aprendizaje constante y trabajo en equipo. Mi objetivo es seguir desarrollando habilidades técnicas y aportar a proyectos desafiantes en el área de tecnología."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Ingeniería de Sistemas",
+            "institution": "Universidad San Francisco Xavier de Chuquisaca",
+            "location": "Sucre, Bolivia",
+            "start_date": "2010-01-01",
+            "end_date": "2015-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diplomado en Testing Funcional de Software",
+            "institution": "Usfx - Fac. Tecnología",
+            "location": "Sucre, Bolivia",
+            "start_date": "2018-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "tailwind-css",
+                "javascript",
+                "typescript",
+                "react-js",
+                "node-js",
+                "mysql",
+                "git",
+                "github",
+                "scrum"
+            ],
+            "soft": [],
+            "tools": [
+                "qase.io",
+                "jira",
+                "trello",
+                "postman",
+                "insomnia"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [
+        {
+            "name": "Google Activate - Desarrollo Web I & II",
+            "issuing_organization": "Google",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Frontend Web Developer, JavaScript, MySQL, Node.js",
+            "issuing_organization": "Udemy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Programación Básica",
+            "issuing_organization": "Platzi",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Scrum",
+            "issuing_organization": "USFX eCampus",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "",
+            "hours": 8
+        },
+        {
+            "name": "JS Fundamentals, HTML/CSS/JS",
+            "issuing_organization": "CodeSignal",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Family Tree",
+            "description": "Desarrollé funcionalidades para crear nodos y relaciones familiares usando estructuras de datos personalizadas.",
+            "technologies": ["Java", "Maven", "POO", "Git"],
+            "url": "https://github.com/brayan146/FamilyTree/tree/Samuel"
+        },
+        {
+            "name": "Countries REST API",
+            "description": "Contribuí en la implementación de endpoints REST, lógica de negocio y documentación de la API.",
+            "technologies": ["Java", "Spring Boot", "Maven", "Git"],
+            "url": "https://github.com/SoftwareDevFundamentals/CountriesRestAPI/tree/Samuel"
+        },
+        {
+            "name": "E-commerce - Frontend",
+            "description": "Participé en el desarrollo del frontend, maquetación y conexión con endpoints del backend.",
+            "technologies": ["React", "Next.js", "GitLab", "TailwindCSS"],
+            "url": "https://gitlab.com/arquitectura7891314/usfx_moduleS_ecommerce"
+        },
+        {
+            "name": "Online Learning Management System",
+            "description": "Apoyé en funcionalidades de administración de cursos y usuarios.",
+            "technologies": ["C#", ".Net", "SQL SERVER"],
+            "url": "https://github.com/NicoZela23/Online-Learning-Management"
+        },
+        {
+            "name": "Plataforma Cinemax",
+            "description": "Implementé componentes reutilizables, consumo de API, diseño responsivo y optimización UX.",
+            "technologies": ["React", "Next.js", "Tailwind CSS", "TMDB API"],
+            "url": "https://github.com/llanosmjla/cinemax-usfx"
+        },
+        {
+            "name": "CanchaWasi",
+            "description": "Me encuentro desarrollando funcionalidades, rutas, componentes visuales y mejorando la experiencia de usuario.",
+            "technologies": ["React", "React Router", "Vite", "Tailwind CSS", "Git", "Figma"],
+            "url": "https://www.figma.com/design/2zH8F85FI1rOxycLFgimju/PlataformaDiseño?node-id=139-170&t=n6zZfQXEDYXgpyqy-1"
+        },
+        {
+            "name": "QA - Automation Exercise (Testing Funcional y Automatizado)",
+            "description": "Realicé pruebas manuales y automatizadas, diseño de test cases, análisis de escenarios (smoke, regression, acceptance, E2E).",
+            "technologies": ["Selenium Codegen", "Playwright", "Qase.io", "Jira", "Git"],
+            "url": "https://drive.google.com/drive/folders/1NPMTMruBo8ql4sWSn0UFWPSbs6EL901Y"
+        },
+        {
+            "name": "Proyecto de pruebas unitarias - Gestión Estudiantil",
+            "description": "Diseñé pruebas unitarias para el backend y lógica de negocio.",
+            "technologies": ["C#", "xUnit", ".NET Core"],
+            "url": "https://github.com/zohan22/GestionEstudiante"
+        },
+        {
+            "name": "API Testing - FakeREST API",
+            "description": "Exploratory Testing, diseño de casos de prueba y documentación, automatización básica con RestAssured y Karate.",
+            "technologies": ["Postman", "Insomnia", "RestAssured", "Karate"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "A2-B1"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

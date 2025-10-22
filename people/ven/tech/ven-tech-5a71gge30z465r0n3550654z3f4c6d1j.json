@@ -1,0 +1,174 @@
+{
+    "personal_info": {
+        "first_name": "Richard",
+        "last_name": "Gonzalez",
+        "email": "zambranoa998@gmail.com",
+        "phone": "+584241941259",
+        "location": {
+            "country": "Venezuela",
+            "city": "Caracas",
+            "state": ""
+        },
+        "linkedin": "LinkedIn",
+        "website": "",
+        "portfolio": "GitHub",
+        "summary": "Desarrollador Fullstack con sólida experiencia en desarrollo backend y conocimientos en frontend, especializado en tecnologías web modernas. Estudiante avanzado de Ingeniería en Informática en desarrollo de APIs REST, integración de sistemas y automatización de procesos. Experiencia práctica en arquitecturas escalables, optimización de bases de datos y desarrollo de interfaces responsivas. Enfocado en crear soluciones web robustas y eficientes utilizando las mejores prácticas de desarrollo fullstack."
+    },
+    "work_experience": [
+        {
+            "job_title": "Pasante en Departamento de Tecnología",
+            "company": "CONEXION AI",
+            "location": "Caracas, Venezuela",
+            "start_date": "2025-03-01",
+            "end_date": "2025-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé soluciones fullstack utilizando automatización con N8N y Make, integrando múltiples APIs REST",
+                "Implementé backends robustos con enfoque en integración de sistemas y arquitecturas escalables"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Especialista en IA y Automatizaciones",
+            "company": "CONEXION AI",
+            "location": "Caracas, Venezuela",
+            "start_date": "2025-07-01",
+            "end_date": "2025-09-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé soluciones fullstack utilizando automatización con N8N y Make, integrando múltiples APIs REST",
+                "Implementé backends robustos con enfoque en integración de sistemas y arquitecturas escalables",
+                "Creé aplicaciones web completas aplicando desarrollo low-code con extensibilidad mediante APIs REST"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "institution": "Universidad Nacional Experimental De la Gran Caracas",
+            "location": "",
+            "start_date": "2020-09-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "django",
+                "spring",
+                "react",
+                "typescript",
+                "mysql",
+                "sql-server",
+                "html5",
+                "css3",
+                "javaScript",
+                "n8n",
+                "make"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Programación Web de CS50 con Python y JavaScript",
+            "issuing_organization": "CS50",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Aplicaciones Web con Spring Boot",
+            "issuing_organization": "FreeCodeCamp",
+            "issue_date": "2024-05-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Spring Boot para Principiantes",
+            "issuing_organization": "FreeCodeCamp",
+            "issue_date": "2024-04-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo en Java",
+            "issuing_organization": "FreeCodeCamp",
+            "issue_date": "2022-06-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "MySQL",
+            "issuing_organization": "Uneweb Instituto",
+            "issue_date": "2024-06-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "PHP",
+            "issuing_organization": "Uneweb Instituto",
+            "issue_date": "2024-08-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Diseño Web Responsivo",
+            "issuing_organization": "FreeCodeCamp",
+            "issue_date": "2022-05-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Verano SAP",
+            "issuing_organization": "SAP LAC",
+            "issue_date": "2024-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Programa de Inteligencia Artificial Samsung",
+            "issuing_organization": "Samsung Innovation Campus",
+            "issue_date": "2025-03-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "GoogleSearchClone",
+            "description": "Réplica funcional del motor de búsqueda de Google que demuestra habilidades en desarrollo web frontend. El proyecto recrea fielmente la interfaz de usuario y funcionalidades core de Google Search.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "WikiEntriesClone",
+            "description": "La app permite listar, buscar, crear, editar y visualizar entradas de enciclopedia. Los artículos se guardan como archivos Markdown y se convierten a HTML al mostrarse. También incluye funciones para redirigir a resultados exactos o parciales en búsquedas, mostrar un artículo aleatorio, y manejar errores como duplicados o páginas inexistentes con mensajes de feedback al usuario.",
+            "technologies": [],
+            "url": ""
+        },
+        {
+            "name": "Red Convolucional para Analisis de Imágenes",
+            "description": "Este proyecto implementa una red neuronal convolucional (CNN) utilizando el framework TensorFlow/Keras para la clasificación de imágenes de radiografías de tórax. El objetivo principal es identificar si un paciente padece de neumonía basándose en la imagen radiográfica.",
+            "technologies": [],
+            "url": ""
+        }
+    ],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

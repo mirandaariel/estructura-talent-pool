@@ -1,0 +1,200 @@
+{
+    "personal_info": {
+        "first_name": "Joel",
+        "last_name": "Garbagnate",
+        "email": "joeplatiniuni16@gmail.com",
+        "phone": "+543424276286",
+        "location": {
+            "country": "Argentina",
+            "city": "Santa Fe",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/joelgarbagnate",
+        "website": "",
+        "portfolio": "Sitio Web",
+        "summary": "Soy un desarrollador web con más de dos años de experiencia en el sector empresarial, tanto público como privado. Me apasiona crear soluciones eficientes y escalables, y actualmente me encuentro cursando la carrera de Ingeniería en Software para seguir fortaleciendo mis habilidades."
+    },
+    "work_experience": [
+        {
+            "job_title": "Fullstack Developer",
+            "company": "E Tradeconsult",
+            "location": "",
+            "start_date": "2025-04-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de Software para empresas de vanguardia con tecnologías como PHP, Slim, Python, MySQL, Redis, Amazon Web Services, entre otras."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack Developer Symfony",
+            "company": "Gobierno de la Provincia de Santa Fe",
+            "location": "",
+            "start_date": "2024-09-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Formo parte del equipo de desarrollo de la Sectorial de Informática del Ministerio de Salud, donde trabajo con tecnologías como Symfony, PHP, JavaScript y MySQL.",
+                "Desarrollo de plataformas internas y externas, programación de las distintas funcionabilidades de las paginas de la provincia."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Front-End Blazor .NET",
+            "company": "Neyti SAS",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2024-10-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo Front-End en Modelo MVC con las herramientas .NET 8 y Blazor.",
+                "Creación de vistas de información, formularios, accesos, logueos, entre otras metodologías de negocio.",
+                "Consumo de servicios mediante Swagger y consumo de APIs.",
+                "Uso de librerías de Front-End principalmente Syncfusion, además de Bootstrap y estilos varios.",
+                "Uso de Jira y Azure DevOps para asignación de tareas y git para control de versiones.",
+                "Uso de Entity Validator para las validaciones.",
+                "SQL Server como gestor de Bases de Datos y manejo de DTOs para control de entidades."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Fullstack .NET Core MVC",
+            "company": "XRNeurosalud",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2024-07-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Lidere el diseño y desarrollo de un sistema web completo, gestionando todo el ciclo de desarrollo desde la creación de bases de datos hasta la implementación de funcionalidades clave.",
+                "Colaboré estrechamente con equipos multidisciplinarios, garantizando la alineación de objetivos y la implementación efectiva de soluciones."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista de Sistemas Informaticos",
+            "company": "Servicios Viales",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-06-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de páginas Web utilizando HTML, CSS y JavaScript.",
+                "Desarrollo, maquetación y estilizado de sitios web en WordPress - Plugin y Temas.",
+                "Creación de APIs con C# y JWT.",
+                "Manejo de bases de datos SQL.",
+                "Extracción y análisis de datos.",
+                "Filtrado de datos y generación de informes personalizados en Excel Macros.",
+                "Soporte y atención a usuarios."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Programador .NET",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Bootcamp Desarrollo de Aplicaciones Web con .NET",
+            "institution": "Código Facilito",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Programador Web PHP y MySQL",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Ciberseguridad Cisco Networking Academy",
+            "institution": "",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Analista de Datos - Google",
+            "institution": "",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Profesor de Educación Física",
+            "institution": "Terciario Superior",
+            "location": "",
+            "start_date": "2019-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Gobernanza de Datos",
+            "institution": "Universidad de Buenos Aires (UBA)",
+            "location": "",
+            "start_date": "2020-01-01",
+            "end_date": "2022-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "bootstrap",
+                "wordpress",
+                "javascript",
+                "c#",
+                "php",
+                "sql",
+                "mysql",
+                ".net",
+                "python",
+                "blazor",
+                "symfony",
+                "entity-framework",
+                "linq",
+                "git-hub",
+                "redis"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Ingles",
+            "proficiency": "Intermedio"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

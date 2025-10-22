@@ -1,0 +1,92 @@
+{
+    "personal_info": {
+        "first_name": "Nahuel",
+        "last_name": "Gonzalez",
+        "email": "nahuelg976@gmail.com",
+        "phone": "1122547745",
+        "location": {
+            "country": "Argentina",
+            "city": "CABA",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "https://github.com/Gonzalez-Nahuel",
+        "portfolio": "",
+        "summary": "Desarrollador web frontend junior con formación autodidacta y experiencia práctica en proyectos reales. Actualmente colaboro en proyectos freelance desarrollando interfaces modernas y responsivas con tecnologías como Next.js, TypeScript, Tailwind CSS y Prisma. Estudiante de Ingeniería en Sistemas en la UTN."
+    },
+    "work_experience": [
+        {
+            "job_title": "Colaborador Frontend Freelance",
+            "company": "Servicios Web para clientes",
+            "location": "",
+            "start_date": "2025-03-15",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de interfaces modernas y responsivas para clientes utilizando Next.js, TypeScript y Tailwind CSS.",
+                "Integración y gestión de datos mediante Prisma.",
+                "Colaboración en equipo y seguimiento de buenas prácticas con Git."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Empleado de farmacia",
+            "company": "Farmaplus",
+            "location": "",
+            "start_date": "2023-10-23",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Atención al cliente, gestión de stock y caja.",
+                "Organización y reposición de productos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas",
+            "institution": "UTN",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "next.js",
+                "react",
+                "typescript",
+                "javaScript",
+                "html5",
+                "css3",
+                "tailwind-css",
+                "scss",
+                "node.js",
+                "sql",
+                "prisma",
+                "api-rest"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "github",
+                "postman"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,119 @@
+{
+    "personal_info": {
+        "first_name": "Víctor",
+        "last_name": "Espinoza Gallegos",
+        "email": "espinozagallegosvictor@gmail.com",
+        "phone": "+56 9 6115 2840",
+        "location": {
+            "country": "Chile",
+            "city": "Santiago",
+            "state": ""
+        },
+        "linkedin": "LinkedIn",
+        "website": "GitHub",
+        "portfolio": "",
+        "summary": "Full Stack developer formado en Henry Bootcamp, con un interés natural por el desarrollo front end. Más de 7 años de experiencia previa en diseño industrial y liderazgo de equipos. Me destaco por la empatía, capacidad analítica y orientación a la resolución creativa de problemas. Con entusiasmo por el mundo tech, busco seguir creciendo profesionalmente en un equipo donde se valoren el trabajo colaborativo y la flexibilidad de ideas para afrontar desafíos y aportar al desarrollo de proyectos."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Teaching Assistant",
+            "company": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "2025-02-28",
+            "currently_working": false,
+            "responsibilities": [
+                "Acompañamiento diario y personalizado a un grupo de 20 a 25 estudiantes aplicando empatía, escucha activa y asertividad para conocerlos bien, contribuir a su desempeño e integración al equipo.",
+                "Debugging en vivo y mentoría técnica en JavaScript, HTML5, React, Next.js, Express.js.",
+                "Fomento del trabajo colaborativo (Pair Programming) y comunicación efectiva dentro de los equipos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Visual Merchandising",
+            "company": "Tricot",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Gestión de equipo logístico y visual en tienda; desde bodega hasta la venta en sala, asegurando cumplimiento de metas de venta.",
+                "Propuesta estética de la sala de ventas con gráficas y productos según tendencias y paleta de colores, cada dos semanas, optimizando la experiencia del cliente para cumplir meta de venta mensual.",
+                "Posicionamiento estratégico de los productos en sala (capacidad de análisis), que aumentó el porcentaje de venta diaria."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Web Developer",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2025-03-31",
+            "hours": 0
+        },
+        {
+            "degree": "Diseñador Industrial",
+            "institution": "Pontificia Universidad Católica de Valparaíso",
+            "location": "",
+            "start_date": "2012-03-01",
+            "end_date": "2017-09-30",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "html5",
+                "css3",
+                "next.js",
+                "react",
+                "express.js",
+                "node.js",
+                "postgresql"
+            ],
+            "soft": [
+                "empatía",
+                "capacidad-analítica",
+                "resolución-de-problemas",
+                "comunicación-efectiva"
+            ],
+            "tools": [
+                "trello",
+                "git",
+                "slack",
+                "scrum"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Cementerio Parque Valle de Paz",
+            "description": "Aplicación web que moderniza un sitio informativo desactualizado, permitiendo: Agendar visitas al parque, consultar información de inhumados, dejar mensajes a inhumados/virgen del parque y realizar donaciones. Implementación de mapas interactivos (Google Maps) y sistema de autenticación.",
+            "technologies": ["next.js", "react", "typescript", "tailwind-css", "nest.js", "postgresql"],
+            "url": "Link de Deploy Cementerio"
+        },
+        {
+            "name": "Ecommerce Tienda de Ropa",
+            "description": "Proyecto académico de ecommerce funcional con carrito de compras, autenticación y perfil de usuario con historial de pedidos.",
+            "technologies": ["next.js", "react", "typescript", "tailwind-css", "express.js", "cors", "postgresql"],
+            "url": "Link de Deploy Ecommerce"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "A1 - Principiante"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,139 @@
+{
+    "personal_info": {
+        "first_name": "Mateo Alberto",
+        "last_name": "Lopez Yapur",
+        "email": "mateox463@gmail.com",
+        "phone": "+54 93814479781",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": "Tucuman"
+        },
+        "linkedin": "https://linkedin.com/in/mateoyapur",
+        "website": "",
+        "portfolio": "https://github.com/Yappur",
+        "summary": "Desarrollador Frontend con conocimientos Full Stack, especializado en el stack MERN (MongoDB, Express, React, Node.js). Formación técnica adquirida mediante bootcamp intensivo y múltiples cursos certificados. Experiencia en proyectos personales con enfoque en interfaces modernas, responsive design, lógica de negocio y almacenamiento de datos. Familiaridad con metodologías ágiles y herramientas de control de versiones. Actualmente cursando la Licenciatura en Ciberseguridad."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Licenciatura en Ciberseguridad",
+            "institution": "Universidad FASTA",
+            "location": "",
+            "start_date": "2025-03-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Full Stack Developer - MERN",
+            "institution": "ROLLING CODE SCHOOL",
+            "location": "",
+            "start_date": "2024-03-01",
+            "end_date": "2025-02-28",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "react",
+                "node.js",
+                "mongodb",
+                "express",
+                "html5",
+                "css3",
+                "sass",
+                "tailwindcss",
+                "jwt",
+                "rest-api",
+                "git",
+                "github",
+                "gitflow",
+                "vite",
+                "postman",
+                "gsap",
+                "scrum"
+            ],
+            "soft": [
+                "comunicación-efectiva",
+                "trabajo-en-equipo",
+                "pensamiento-crítico",
+                "adaptabilidad",
+                "proactividad",
+                "resolución-de-problemas",
+                "aprendizaje-continuo",
+                "organización"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Curso Javascript",
+            "issuing_organization": "Claseflix",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Logica de Programacion",
+            "issuing_organization": "Rolling Code",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Introducción a la Programación",
+            "issuing_organization": "TodoCode",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Curso de Git y GitHub",
+            "issuing_organization": "TodoCode",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Introduction to Cybersecurity",
+            "issuing_organization": "Cisco Networking Academy",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "WarpPass",
+            "description": "WarpPass es una aplicación MERN para la compra y gestión de entradas de eventos. Integra OAuth de google, autenticación JWT y operaciones CRUD en tiempo real sobre una base de datos MongoDB.",
+            "technologies": ["MongoDB", "Express", "React", "Node.js", "OAuth", "JWT"],
+            "url": ""
+        },
+        {
+            "name": "EnerGym",
+            "description": "Energym es una aplicación MERN para la gestión de turnos en gimnasios. Incorpora autenticación basada en JWT, operaciones CRUD y una interfaz responsive.",
+            "technologies": ["MongoDB", "Express", "React", "Node.js", "JWT"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Intermediate (B1)"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

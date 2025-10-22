@@ -1,0 +1,134 @@
+{
+    "personal_info": {
+        "first_name": "Esteban",
+        "last_name": "Corrales",
+        "email": "Estebcz@hotmail.com",
+        "phone": "+506 8606-5946",
+        "location": {
+            "country": "Costa Rica",
+            "city": "Sarchí Norte",
+            "state": "Alajuela"
+        },
+        "linkedin": "LinkedIn Profile",
+        "website": "",
+        "portfolio": "",
+        "summary": "Versatile Full Stack Developer with over 5 years of experience delivering scalable, user-focused web applications using modern JavaScript frameworks and backend technologies. Skilled in developing secure RESTful and GraphQL APIs, architecting relational databases, and building responsive UIs with component-driven design. Adept at managing end-to-end project lifecycles—from database modeling to frontend integration—using tools like React, Next.js, TypeScript, Laravel, Node.js, and PostgreSQL. Proven track record implementing real-time data dashboards, interactive user workflows, and internal productivity tools that streamline operations and enhance usability. Strong collaborator who bridges technical and non-technical teams, adapts quickly to shifting requirements, and consistently ships clean, maintainable code. Passionate about continuous improvement, performance optimization, and delivering business value through thoughtful engineering."
+    },
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "5e",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed and maintained secure RESTful APIs using Laravel and PostgreSQL, enabling core platform features including subscriptions and scheduling.",
+                "Built responsive front-end interfaces with React and Next.js, improving user engagement and performance across devices.",
+                "Integrated third-party services such as Jitsi (video calls) and Google Maps to enhance real-time communication and location-based features.",
+                "Implemented access control, session handling, and data validation for a secure user experience.",
+                "Deployed the platform using GitHub Actions (CI/CD) and version-controlled infrastructure with Git."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "P2P Aggregator (Personal Project)",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Designed and developed a crypto trade analytics dashboard using React and GraphQL, focused on tracking real-time Bitcoin trading activity.",
+                "Implemented live data fetching and filtering from external APIs to provide users with clear, actionable trade statistics.",
+                "Optimized UI rendering and data handling to display large datasets with minimal latency.",
+                "Built fully modular components with reusable logic and clear separation of concerns."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Developer",
+            "company": "Jumio-Inspired Project",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Built a custom tool to parse and analyze CSV log files from identity verification platforms, used internally to troubleshoot client-side SDK and API issues.",
+                "Leveraged React and Bootstrap to create a clean UI and seamless file upload experience.",
+                "Implemented client-side logic to detect, format, and highlight errors, allowing support engineers to resolve issues faster and with greater clarity.",
+                "Used by colleagues to streamline Tier 2 technical support and reduce debugging time by up to 30%."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "Tebra-Inspired Project",
+            "location": "",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Created a knowledge base system to organize technical solutions and internal documentation using React, Node.js, and JSON-based structured content.",
+                "Designed admin controls and search features to improve access to FAQs, workflow templates, and process guides.",
+                "Helped standardize onboarding and ticket resolution workflows for support engineers."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Full Stack Developer",
+            "institution": "Academlo",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "next.js",
+                "typescript",
+                "node.js",
+                "php-(laravel)",
+                "rest-apis",
+                "graphql",
+                "mysql",
+                "postgresql",
+                "git",
+                "docker",
+                "ci/cd-(github-actions)",
+                "agile-(scrum/kanban)",
+                "tailwind-css"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Fluent"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Fluent"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

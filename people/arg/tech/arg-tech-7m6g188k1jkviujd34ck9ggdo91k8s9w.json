@@ -1,0 +1,231 @@
+{
+    "personal_info": {
+        "first_name": "Claudio",
+        "last_name": "Gloria",
+        "email": "crgioria@gmail.com",
+        "phone": "+541123918161",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/claudio-gioria-7049a0a",
+        "website": "https://github.com/cgioria",
+        "portfolio": "",
+        "summary": "Senior QA Automation Engineer with 8+ years of experience in web/API automation, manual testing, and test management across banking, ERP, pharma, and manufacturing. Expertise in designing BDD frameworks (Gherkin), CI/CD integration, and non-functional testing. Proficient in Selenium, Cypress, Playwright, SpecFlow, and Python."
+    },
+    "work_experience": [
+        {
+            "job_title": "Senior Quality Assurance Automation Engineer",
+            "company": "PWC",
+            "location": "",
+            "start_date": "2022-05-01",
+            "end_date": "2025-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Testing automation for web and APIs with Cypress, Playwright for Tax Application Management System."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Senior Quality Assurance Automation Engineer",
+            "company": "Symplr-Helthcare Governance",
+            "location": "",
+            "start_date": "2021-06-01",
+            "end_date": "2022-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Testing manual and automation for web and APIs with Specflow and C# for Providers Management System."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Senior Quality Assurance Automation Engineer",
+            "company": "Supervielle Bank",
+            "location": "",
+            "start_date": "2020-08-01",
+            "end_date": "2021-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Testing manual and automation for web and APIs with Selenium, Python and Behave for Collection and Payment Bank Management System."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "QA Tester",
+            "company": "Compañía General de Combustibles (CGC)",
+            "location": "",
+            "start_date": "2019-11-01",
+            "end_date": "2020-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Validation and functional testing manual and automation for API with Python and Behave for Gas Billing System (eSigas and Oracle EBS)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "BPM Developer/Tester",
+            "company": "SC Johnson",
+            "location": "",
+            "start_date": "2018-12-01",
+            "end_date": "2019-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementation and testing manual and automation for web and APIs with Selenium, Python and Behave of Bizagi Brand Operation System (BOS)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "ERP Analyst/Tester",
+            "company": "Prosegur",
+            "location": "",
+            "start_date": "2017-10-01",
+            "end_date": "2018-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementation and testing QA manual and automation for web and APIs with Selenium, Python and Behave of Billing System (PROFAT) Chile and Colombia."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "ERP Analyst/Tester",
+            "company": "AMEDRUGS",
+            "location": "",
+            "start_date": "2016-11-01",
+            "end_date": "2017-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementation and testing QA manual and automation for API with SOAPUI Pro for ERP QAD EE 2011 in Central America, modules: Production, Quality, Purchases, Sales, Materials and Billing."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "MES/MRP Analyst",
+            "company": "Siemens",
+            "location": "",
+            "start_date": "2013-09-01",
+            "end_date": "2016-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementation and testing MES Seed Production Secondary Area (Coating, Bagging, Palletizing and Labeling)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Programmer Analyst",
+            "institution": "Instituto Argentino de Computación (IAC)",
+            "location": "",
+            "start_date": "1996-01-01",
+            "end_date": "1998-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "selenium",
+                "cypress",
+                "playwright",
+                "specflow",
+                "behave",
+                "cucumber",
+                "soapui",
+                "postman",
+                "python",
+                "c#",
+                "gherkim",
+                "typescript",
+                "sql",
+                "graphql",
+                "web/api",
+                "e2e",
+                "regression",
+                "smoke",
+                "integration",
+                "bdd",
+                "jira",
+                "xray",
+                "testlink",
+                "mantis",
+                "redmine",
+                "confluence",
+                "azure",
+                "ms-sql",
+                "oracle",
+                "progress",
+                "azure-devops",
+                "gitlab",
+                "agile",
+                "scrum",
+                "gamp-5"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Fundamental Software Testing Certified",
+            "issuing_organization": "AICS",
+            "issue_date": "2020-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "The Complete Guide: API Testing with Python",
+            "issuing_organization": "Udemy",
+            "issue_date": "2020-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Selenium Test Framework with Python: From Novice to Expert",
+            "issuing_organization": "Udemy",
+            "issue_date": "2020-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "BDD with Selenium webdriver and Speckflow using C#",
+            "issuing_organization": "Udemy",
+            "issue_date": "2021-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Introducción a las pruebas de sistemas de IA",
+            "issuing_organization": "Udemy",
+            "issue_date": "2025-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

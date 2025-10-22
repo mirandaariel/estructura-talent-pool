@@ -1,0 +1,106 @@
+{
+    "personal_info": {
+        "first_name": "Diego Armando",
+        "last_name": "Sánchez Brisa",
+        "email": "sanchezbrisadiego@gmail.com",
+        "phone": "2284-522717",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/sanchez-diego/",
+        "website": "https://diegotechportf.netlify.app/",
+        "portfolio": "",
+        "summary": "Estudiante de Licenciatura en Informática con experiencia laboral en desarrollo web front-end. Estoy en búsqueda de oportunidades laborales que me permitan crecer y adquirir más experiencia en el ambiente IT, contribuyendo con mis conocimientos y ganas de aprender en un entorno profesional. Actualmente, me encuentro trabajando de manera freelance pero buscando constantemente un trabajo a fijo a tiempo completo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador web front-end",
+            "company": "Consultora Delta Dev",
+            "location": "Mar del Plata, Argentina",
+            "start_date": "2024-01-01",
+            "end_date": "2024-09-01",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de un CRM para el sistema de gestión de seguridad del puerto de Mar del Plata, el cual se usará gran parte en barcos.",
+                "Me encargué de parte del front-end de la web, manejando tecnologías como: NextUI, React, React hook forms, Typescript, Tailwind, Trello y metodologías ágiles.",
+                "También participé en partes del back-end, pero a menor escala, donde se utilizó PostgreSQL y Vercel para desplegarlo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Informática",
+            "institution": "Universidad Siglo 21",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2023-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Curso JavaScript",
+            "institution": "Universidad Tecnológica Nacional (UTN)",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "",
+            "end_date": "2023-05-01",
+            "hours": 0
+        },
+        {
+            "degree": "Curso Tester QA Manual",
+            "institution": "Udemy",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "",
+            "end_date": "2022-10-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "tailwind",
+                "javascript",
+                "typescript",
+                "react",
+                "zustand",
+                "zod",
+                "nextui",
+                "postgresql",
+                "supabase",
+                "git",
+                "github"
+            ],
+            "soft": ["agile", "scrum"],
+            "tools": ["trello"]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Español",
+            "proficiency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Artur Fruttero",
+            "relationship": "Team Leader",
+            "contact": "223 602 8317"
+        }
+    ]
+}

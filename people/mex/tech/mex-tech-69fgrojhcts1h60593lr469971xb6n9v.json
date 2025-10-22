@@ -1,0 +1,124 @@
+{
+    "personal_info": {
+        "first_name": "Rafael",
+        "last_name": "Hernández Silva",
+        "email": "rafael.silva.06@outlook.com",
+        "phone": "4427477664",
+        "location": {
+            "country": "Mexico",
+            "city": "Santiago de Querétaro",
+            "state": "Querétaro"
+        },
+        "linkedin": "https://www.linkedin.com/in/rafael-hdz-silva/",
+        "website": "",
+        "portfolio": "",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "FullStack Developer",
+            "company": "Callpicker",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2024-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed web solutions using HTML, CSS, JavaScript, Ruby on Rails, PHP, Vue.js, and PostgreSQL.",
+                "Implemented innovations collaboratively using Scrum methodology."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Junior Analyst Programmer",
+            "company": "Ciudad Maderas",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed web solutions using HTML, CSS, SASS, JavaScript, Angular, Codelgniter (PHP) and Microsoft SQL Server.",
+                "Carried out documentation, requirements gathering, and QA implementation."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Engineering in Software Development and Management",
+            "institution": "Technological University of Querétaro",
+            "location": "Querétaro, Mexico",
+            "start_date": "2022-01-01",
+            "end_date": "2025-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "vue.js",
+                "angular",
+                "react",
+                "html",
+                "css",
+                "javascript",
+                "bootstrap",
+                "php",
+                "laravel",
+                "codelgniter",
+                "zend-framework",
+                "node.js",
+                "rest-api-design",
+                "microservices-architecture",
+                "queues",
+                "mysql",
+                "postgreSQL",
+                "sql-server",
+                "mongodb",
+                "dynamodb",
+                "firebase-realtime",
+                "firestore",
+                "aws",
+                "google-cloud",
+                "serverless-framework",
+                "aws-cdk"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "postman",
+                "docker",
+                "claude.ai",
+                "github-copilot",
+                "scrum",
+                "kanban",
+                "solid-principles",
+                "design-patterns",
+                "owasp-security-standards"
+            ]
+        },
+        "detailed": []
+    },
+    "certifications": [
+        {
+            "name": "Korean Language Certification TOPIK I",
+            "issuing_organization": "TOPIK",
+            "issue_date": "2024-04-30",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "English Language Certification C1",
+            "issuing_organization": "Cambridge",
+            "issue_date": "2020-06-17",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

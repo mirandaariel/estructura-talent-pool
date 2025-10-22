@@ -1,0 +1,168 @@
+{
+    "personal_info": {
+        "first_name": "Santiago",
+        "last_name": "Salkin",
+        "email": "salkinsantiago@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "",
+            "state": "Entre Ríos"
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Frontend web developer with experience in React, TypeScript, and Next.js, with backend knowledge using Node, PHP, NestJS and databases. Passionate instructor committed to building clean and scalable user interfaces."
+    },
+    "work_experience": [
+        {
+            "job_title": "Profesor de React JS",
+            "company": "Coderhouse",
+            "location": "",
+            "start_date": "2021-06-01",
+            "end_date": "2023-12-31",
+            "currently_working": true,
+            "responsibilities": [
+                "Capacitated and mentored over 1,000 students in advanced React development, guiding them in creating e-commerce web applications.",
+                "Provided expert instruction in complex topics including state management, optimization, and performance.",
+                "Integrated modern tools like Firestore, React Router and backend APIs into the curriculum.",
+                "Evaluated student projects, providing personalized and practical feedback to improve code quality and development practices."
+            ],
+            "achievements": []
+        },
+        {
+            "job_title": "Bootcamp Content Developer",
+            "company": "Coderhouse",
+            "location": "",
+            "start_date": "2023-04-01",
+            "end_date": "2023-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Led a multidisciplinary team to review and modernize the existing frontend bootcamp curriculum.",
+                "Authored and curated educational materials, practical exercises, and final projects."
+            ],
+            "achievements": []
+        },
+        {
+            "job_title": "React JS Instructor",
+            "company": "HackABoss",
+            "location": "",
+            "start_date": "2023-08-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Mentored full stack students on the best practices in React.",
+                "Reviewed projects with an emphasis on clean code.",
+                "Created personalized exercises to reinforce learning."
+            ],
+            "achievements": []
+        },
+        {
+            "job_title": "Wordpress Web Developer",
+            "company": "Multimedios Paraná",
+            "location": "",
+            "start_date": "2019-02-01",
+            "end_date": "2023-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Developed and maintained a portfolio of high-traffic WordPress websites.",
+                "Managed hosting environments and SQL databases for high availability and data integrity.",
+                "Optimized website performance by over 30% using image compression, cache strategies, and code refactoring."
+            ],
+            "achievements": []
+        },
+        {
+            "job_title": "Graphic Designer",
+            "company": "FGS Media",
+            "location": "",
+            "start_date": "2015-05-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Designed a wide range of graphic and audiovisual assets for digital and print media.",
+                "Managed comprehensive social media advertising campaigns on Facebook, Instagram, and Google Ads to maximize client ROI."
+            ],
+            "achievements": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree in Computer Systems - Analyst Specialization",
+            "institution": "Autonomous University of Entre Rios",
+            "location": "Entre Ríos, Argentina",
+            "start_date": "2011-01-01",
+            "end_date": "2013-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "High School Diploma - Computing Technician",
+            "institution": "Technical Education School",
+            "location": "Entre Ríos, Argentina",
+            "start_date": "2002-01-01",
+            "end_date": "2008-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "react",
+                "next.js",
+                "tailwind-css",
+                "material-ui",
+                "react-query",
+                "graphql",
+                "node.js",
+                "express",
+                "nestjs",
+                "mongodb",
+                "sql-databases",
+                "web3",
+                "solidity",
+                "smart-contracts",
+                "hardhat"
+            ],
+            "soft": [
+                "problem-solving",
+                "mentorship",
+                "teamwork"
+            ],
+            "tools": [
+                "llms",
+                "prompt-engineering",
+                "cursor",
+                "windsurf",
+                "github-copilot",
+                "git",
+                "github-actions",
+                "jenkins",
+                "seo",
+                "agile",
+                "kanban",
+                "jira"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": [],
+            "tools": []
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Upper-Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

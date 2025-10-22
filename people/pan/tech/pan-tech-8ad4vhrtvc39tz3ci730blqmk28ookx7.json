@@ -1,0 +1,127 @@
+{
+    "personal_info": {
+        "first_name": "Hanzell",
+        "last_name": "Rivera",
+        "email": "hanzellrivera95@gmail.com",
+        "phone": "+50587146772",
+        "location": {
+            "country": "Panama",
+            "city": "Panama City",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/hanzell-rivera",
+        "website": "",
+        "portfolio": "",
+        "summary": "Soy un Desarrollador Full Stack con 5 años de experiencia en el desarrollo de software empresarial. Domino tecnologías modernas como TypeScript, Angular, Firebase (Cloud Functions, Firestore), React, .NET y Flutter, con un enfoque en soluciones eficientes, seguras y escalables. Tengo un historial comprobado de entrega de productos de alta calidad, trabajando en equipos multidisciplinarios bajo metodologías ágiles. Poseo habilidades sólidas de comunicación, colaboración y aprendizaje continuo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Backend Developer",
+            "company": "Hypernovalabs",
+            "location": "Remoto",
+            "start_date": "2024-09-01",
+            "end_date": "2025-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Parte del equipo de desarrollo de la aplicación Kiosko de Cochez, una solución orientada al autoservicio en tiendas físicas.",
+                "Implementación y mantenimiento de requerimientos de backend, garantizando calidad, rendimiento y escalabilidad.",
+                "Desarrollé nuevas funcionalidades y optimicé procesos clave usando C# .NET Core y ASP.NET, en colaboración con otros equipos técnicos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "company": "ByondIT",
+            "location": "Panama City",
+            "start_date": "2023-02-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé en la aplicación móvil Tigo Money, integrando funcionalidades como paquetes/recargas y remesas.",
+                "Implementación de integraciones de onboarding y login, mejorando la experiencia del usuario y la seguridad de la aplicación.",
+                "Trabajé en equipos de cashin y cashout, asegurando la precisión y confiabilidad de las transacciones financieras.",
+                "Creación de nuevos features y resolución de bugs utilizando Flutter, en constante comunicación con el equipo.",
+                "Desarrollé APIs en Python para la consulta de remesas y FaceTec."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Back-end Developer",
+            "company": "Hypernovalabs",
+            "location": "Panama",
+            "start_date": "2021-07-01",
+            "end_date": "2022-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollé proyectos de integración y APIs utilizando C# .NET Core y ASP.NET.",
+                "Dirigí la integración de sistemas como NAF Ivend y Salesforce mediante Azure Functions y Queues.",
+                "Optimización de procesos de carga de datos con NodeJS y Redis.",
+                "Mantenimiento y desarrollo de funcionalidades en servicios SaaS-PIM bajo metodología SCRUM."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Back-end Developer",
+            "company": "Qordev",
+            "location": "Norte de Las Vegas",
+            "start_date": "2020-02-01",
+            "end_date": "2021-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo en la aplicación móvil TypeMatch usando NodeJS, Express y MySQL.",
+                "Conexión de APIs externas y mejora de la gestión de la lógica en la aplicación educativa Kidlind.",
+                "Integración de un CRM para gestionar interacciones y actualizaciones de perfiles.",
+                "Implementé mejoras en la lógica de emparejamiento."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Systems Engineering",
+            "institution": "UNAN",
+            "location": "Managua",
+            "start_date": "2016-01-01",
+            "end_date": "2016-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "angular",
+                "firebase",
+                "nodejs",
+                "express",
+                "reactjs",
+                "nextjs",
+                "nestjs",
+                "typescript",
+                "react-native",
+                "dart",
+                "flutter",
+                "python",
+                "net-core",
+                "asp.net",
+                "sql"
+            ],
+            "soft": [],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

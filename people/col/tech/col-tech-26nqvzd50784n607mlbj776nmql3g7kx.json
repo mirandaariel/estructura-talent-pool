@@ -1,0 +1,134 @@
+{
+    "personal_info": {
+        "first_name": "Brayan",
+        "last_name": "Chiquito Posso",
+        "email": "brayan.chiquito@utp.edu.co",
+        "phone": "+57 3116508052",
+        "location": {
+            "country": "Colombia",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "www.linkedin.com/in/brayan-armando-chiquito-posso",
+        "website": "",
+        "portfolio": "https://github.com/brayan-chiquito",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full-stack y Automatizacion",
+            "company": "Sarex",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "2025-07-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementación de agentes con inteligencia artificial en canales como WhatsApp y Telegram.",
+                "Reestructuración del frontend y backend para mejorar el rendimiento y la experiencia de usuario.",
+                "Optimización del diseño y estructura general del sitio web."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Analista Jr Desarrollo",
+            "company": "Habi Colombia",
+            "location": "",
+            "start_date": "2024-07-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementé mejoras en el código y proyectos asignados.",
+                "Colaboré en el desarrollo de nuevas funcionalidades.",
+                "Solucioné un problema crítico en un script.",
+                "Desarrollé y mantuve funcionalidades en el front-end utilizando React.",
+                "Realicé cambios en bases de datos utilizando herramientas de versionamiento."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ingeniero de Software",
+            "company": "Proyecto Análisis de Sentimientos velezReyez+",
+            "location": "",
+            "start_date": "2024-04-01",
+            "end_date": "2024-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Selección de modelos para análisis de sentimientos.",
+                "Tratamiento y limpieza de datos para entrenamiento de modelos.",
+                "Integración de la lógica del backend con Slack."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ingeniero de Software",
+            "company": "Proyecto Email velezReyes+",
+            "location": "",
+            "start_date": "2024-01-01",
+            "end_date": "2024-04-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Pruebas de calidad usando React, TypeScript y Vitest.",
+                "Contribuí en la toma de decisiones para el desarrollo e implementación de nuevas características."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería de Sistemas",
+            "institution": "Universidad Tecnológica de Pereira",
+            "location": "",
+            "start_date": "2021-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Tecnólogo Mecatrónico",
+            "institution": "SENA",
+            "location": "",
+            "start_date": "2018-01-01",
+            "end_date": "2020-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "java",
+                "c++",
+                "typescript",
+                "react",
+                "fastapi",
+                "spring-boot",
+                "n8n",
+                "mysql",
+                "mongodb",
+                "dynamodb",
+                "aws"
+            ],
+            "soft": [],
+            "tools": [
+                "docker",
+                "gitlab",
+                "jira",
+                "flyway",
+                "alembic"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

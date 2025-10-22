@@ -1,0 +1,154 @@
+{
+    "personal_info": {
+        "first_name": "Jimmy Antonio",
+        "last_name": "Corzon Guagama",
+        "email": "jimmy.a.corzon@gmail.com",
+        "phone": "+59173549304",
+        "location": {
+            "country": "Bolivia",
+            "city": "La Paz",
+            "state": ""
+        },
+        "linkedin": "https://linkedin.com/in/jimmy-corzon",
+        "website": "",
+        "portfolio": "",
+        "summary": "Diseño y construyo soluciones a medida que potencian la eficiencia operativa. Mi enfoque consiste en conectar sistemas críticos de negocio mediante la integración avanzada de aplicaciones como Zoho, Google Workspace y APIs de terceros con microservicios robustos en Node.js. Convierto desafíos empresariales complejos en aplicaciones web interactivas y automatizaciones que permiten a las empresas escalar de manera sostenible"
+    },
+    "work_experience": [
+        {
+            "job_title": "Ingeniero de Software (Backend)",
+            "company": "Blindariesgos (Easywork SaaS)",
+            "location": "Remoto - México",
+            "start_date": "2025-02-01",
+            "end_date": "2025-06-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé y desarrollé servicios críticos en Node.js (NestJS) incluyendo un sistema de autenticación multi-tenant.",
+                "Implementé integraciones complejas con APIs de Google Workspace y una IA de análisis de reuniones.",
+                "Construí un servicio de notificaciones multicanal utilizando WhatsApp API para mejorar la eficiencia operativa."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Consultor de Software & Arquitecto de Soluciones",
+            "company": "Expertosis",
+            "location": "Santa Cruz, Bolivia",
+            "start_date": "2021-05-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Diseñé soluciones de software reutilizando arquitecturas base, implementadas en el ecosistema Zoho.",
+                "Automaticé entornos de Google Workspace y Zoho mediante flujos de trabajo personalizados.",
+                "Desarrollé dashboards para clientes en Zoho Analytics, Google Data Studio y Metabase."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Especialista en Automatización y Soluciones de Negocio",
+            "company": "Armus LTDA",
+            "location": "Santa Cruz, Bolivia",
+            "start_date": "2018-09-01",
+            "end_date": "2021-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Implementé automatizaciones de procesos administrativos clave usando Google Apps Script.",
+                "Creé flujos de trabajo que integraban Google Sheets, Gmail, Drive y Calendar para reducir horas de trabajo manual.",
+                "Diseñé interfaces intuitivas sobre Google Sheets para mejorar la productividad del personal."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Formación Autodidacta en Arquitectura y Desarrollo de Software",
+            "institution": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Maps Technical Fundamentals Credential",
+            "issuing_organization": "Google",
+            "issue_date": "2023-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Formación Continua en Desarrollo Web y Backend",
+            "issuing_organization": "Platzi",
+            "issue_date": "2022-01-01",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Plataforma Integral para Agencia de Viajes",
+            "description": "Implementación de una plataforma unificada para gestionar el ciclo de vida del cliente en agencias de viajes.",
+            "technologies": ["Zoho API", "Node.js", "React", "Google Cloud"],
+            "url": ""
+        },
+        {
+            "name": "ERP Full-Stack para Empresa de Distribución",
+            "description": "Sistema de planificación de recursos empresariales (ERP) desde cero para una distribuidora de alimentos.",
+            "technologies": ["Node.js", "React", "Prisma ORM", "PostgreSQL", "Neon", "Metabase", "Google Cloud"],
+            "url": ""
+        },
+        {
+            "name": "Plataforma de Pagos QR con Integración Financiera",
+            "description": "Solución de pagos QR para clientes de una empresa, integrando datos de facturación de Zoho.",
+            "technologies": ["NestJS", "Next.js", "Zoho", "Google Cloud"],
+            "url": ""
+        },
+        {
+            "name": "Sistema de Gestión Documental para Google Workspace",
+            "description": "Alternativa moderna y económica para la gestión avanzada de documentos dentro de Google Workspace.",
+            "technologies": ["Next.js", "NeonDB", "Google Drive API", "Google Cloud"],
+            "url": ""
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "next.js",
+                "react-native",
+                "angular",
+                "google-cloud-platform",
+                "amazon-web-services",
+                "railway",
+                "firebase",
+                "node.js",
+                "gin",
+                "django",
+                "laravel",
+                "postgreSQL",
+                "mongodb",
+                "firestore",
+                "neon-database",
+                "docker"
+            ],
+            "soft": [],
+            "tools": [
+                "google-workspace",
+                "zoho",
+                "whatsapp-business",
+                "docker"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

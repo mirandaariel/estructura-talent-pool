@@ -1,0 +1,160 @@
+{
+    "personal_info": {
+        "first_name": "Voskan",
+        "last_name": "Grigoryan",
+        "email": "voskan.grigoryan.arg@gmail.com",
+        "phone": "+54 9 1123880208",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": "Capital Federal"
+        },
+        "linkedin": "https://www.linkedin.com/in/voskan-grigoryan-86b9b31b9",
+        "website": "",
+        "portfolio": "https://github.com/VoskanGrigoryan",
+        "summary": ""
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Full Stack",
+            "company": "Accenture Argentina - Banco Galicia",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2023-12-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo con Next.js y Nest.js",
+                "Mejoras y mantenimiento de sistemas internos"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Accenture CIO",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2021-04-01",
+            "end_date": "2023-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de interfaces internas con UIS/Fiori y React",
+                "Migración a ReactJS",
+                "Capacitaciones internas"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "MbSoft",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2020-07-01",
+            "end_date": "2021-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de interfaces con ReactJS",
+                "Mantenimiento de ERP con Java",
+                "Consumo de APIs y diseño de componentes"
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Programación",
+            "institution": "UTN",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Ingeniería en Sistemas",
+            "institution": "UTN",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2021-01-01",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Administración de Empresas",
+            "institution": "E.T. N 4",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2013-01-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "next.js",
+                "typescript",
+                "mantine",
+                "redux",
+                "tailwind-css",
+                "nest",
+                "node",
+                "prisma",
+                "postgreSQL"
+            ],
+            "soft": [],
+            "tools": [
+                "git",
+                "figma",
+                "rest-api",
+                "docker",
+                "azure-devops"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Desarrollo Frontend con ReactJS",
+            "issuing_organization": "CoderHouse",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Desarrollo Backend con MERN Stack",
+            "issuing_organization": "CoderHouse",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "Adopción de Mascotas",
+            "description": "Plataforma web para la adopción de animales. Sistema de autenticación, roles, buscador y gestión de refugios.",
+            "technologies": ["Next.js", "Nest.js", "PostgreSQL", "Prisma", "Redux", "Mantine", "TypeScript"],
+            "url": ""
+        },
+        {
+            "name": "Fouba Imágenes",
+            "description": "Aplicación de escritorio interna para la UBA. Visualización y edición de imágenes médicas 2D y 3D. Sistema de usuarios.",
+            "technologies": ["Next.js", "Nest.js", "Tailwind CSS", "React Context", "TypeScript"],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Avanzado (C1 - Rosetta Stone)"
+        },
+        {
+            "language": "Francés",
+            "proficiency": "Básico (A2 - Rosetta Stone)"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

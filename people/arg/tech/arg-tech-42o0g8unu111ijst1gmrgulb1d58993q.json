@@ -1,0 +1,202 @@
+{
+  "personal_info": {
+    "first_name": "Carla",
+    "last_name": "Garcia",
+    "email": "carlaantonella.garcia@gmail.com",
+    "phone": "+5401169621306",
+    "location": {
+      "country": "",
+      "city": "",
+      "state": ""
+    },
+    "linkedin": "",
+    "website": "",
+    "portfolio": "",
+    "summary": "Profesional con más de 13 años de experiencia en análisis de calidad (QA), especializado en homologación y pruebas automatizadas en entornos de procesamiento de pagos y servicios financieros, con un enfoque en plataformas como Banelco y VISA."
+  },
+  "work_experience": [
+    {
+      "job_title": "Analyst QA",
+      "company": "Sipecom-KFC Ecuador",
+      "location": "Remoto",
+      "start_date": "2023-10-01",
+      "end_date": "2024-08-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Análisis de requerimientos.",
+        "Generación de documentación.",
+        "Azure Devops.",
+        "Reporte y seguimiento UAT.",
+        "Integración de cambios entre ambientes.",
+        "Reporte de avances y automatización de pruebas.",
+        "Ci/CD.",
+        "Atención de incidentes.",
+        "Análisis y Resolución.",
+        "Utilización de BD SQL server.",
+        "Postman.",
+        "Cypress.",
+        "Xray uso con Jira."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Testing Analyst III",
+      "company": "Prisma Medios de Pago",
+      "location": "Presencial",
+      "start_date": "2021-09-01",
+      "end_date": "2023-10-31",
+      "currently_working": false,
+      "responsibilities": [
+        "Tareas de prueba y mantenimiento de Apis Rest.",
+        "Gestión y análisis de documentación Funcional y técnica.",
+        "Reporte y seguimiento de incidentes.",
+        "Manejo de git / GitHub.",
+        "Manejo de AWS (lambda).",
+        "Automatización de Servicios de Api Rest.",
+        "Jira con Xray.",
+        "Pruebas Mobile Appium/BrowserStack.",
+        "Utilización de BD SQL server (Pool de Datos y consultas).",
+        "Postman.",
+        "Diseño y planificación de planes de Testing (Manual y Automatizado).",
+        "Generación de reportes y métricas.",
+        "Gestión de proyectos de migración.",
+        "Coaching y soporte.",
+        "Planificación y mantenimiento de pruebas."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "QA Specialist",
+      "company": "Reserv IT Solutions",
+      "location": "Presencial",
+      "start_date": "2018-07-01",
+      "end_date": "2019-11-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Ejecución y documentación de casos de prueba.",
+        "Análisis y reporte de resultados.",
+        "Elaboración de estrategias de prueba.",
+        "Definición y revisión de estándares de calidad.",
+        "Pruebas de rendimiento, aceptación y usabilidad.",
+        "Aplicación de normas ISO 9000.",
+        "Trabajo dentro de un marco ágil."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "QA Specialist",
+      "company": "Megatrans S.A.",
+      "location": "Presencial",
+      "start_date": "2015-09-01",
+      "end_date": "2018-06-30",
+      "currently_working": false,
+      "responsibilities": [
+        "Soporte y mantenimiento de sistemas.",
+        "Armado de Pool de datos.",
+        "Diseño y ejecución de casos de prueba.",
+        "Seguimiento y gestión de tareas.",
+        "Detección y gestión de defectos.",
+        "Elaboración de manuales técnicos.",
+        "Proyectos realizados.",
+        "Soporte al cliente.",
+        "Verificación de perfiles de usuario."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Analista de certificaciones",
+      "company": "BANELCO",
+      "location": "Presencial",
+      "start_date": "2011-03-01",
+      "end_date": "2013-02-28",
+      "currently_working": false,
+      "responsibilities": [
+        "Gestión de entornos de prueba.",
+        "Análisis de documentación.",
+        "Planificación y ejecución de pruebas.",
+        "Coordinación con entidades externas.",
+        "Verificación de cuentas."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    },
+    {
+      "job_title": "Quality Control Analyst",
+      "company": "Tsoft",
+      "location": "Presencial",
+      "start_date": "2010-11-01",
+      "end_date": "2011-02-28",
+      "currently_working": false,
+      "responsibilities": [
+        "Soluciones informáticas como QA para el Banco Francés.",
+        "Detección y seguimiento de bugs.",
+        "Pruebas de software.",
+        "Creación de casos de prueba.",
+        "Reporte de avances.",
+        "Metodologías ágiles."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Tecnología de sistemas informáticos/Ingeniería",
+      "institution": "UTN - REGIONAL SAN RAFAEL",
+      "location": "",
+      "start_date": "2022-01-01",
+      "end_date": "2026-12-31",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "appium",
+        "selenium",
+        "cypress",
+        "git",
+        "postman",
+        "sql-server",
+        "jira",
+        "azure-devops"
+      ],
+      "soft": [],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [
+    {
+      "name": "Accredited Software Testing Fundamentals Certification (AICS® ASTFC)",
+      "issuing_organization": "AICS",
+      "issue_date": "2023-01-01",
+      "expiration_date": "2033-12-31",
+      "credential_id": "91266844"
+    },
+    {
+      "name": "Base de Datos",
+      "issuing_organization": "",
+      "issue_date": "2024-01-01",
+      "expiration_date": "2034-12-31",
+      "credential_id": "CER-DB4H67KM-1239647"
+    }
+  ],
+  "projects": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "A1/A2"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
+}

@@ -1,0 +1,112 @@
+{
+    "personal_info": {
+        "first_name": "Valeria",
+        "last_name": "Mancilla",
+        "email": "conecta.valeriam@gmail.com",
+        "phone": "",
+        "location": {
+            "country": "Argentina",
+            "city": "Ushuaia",
+            "state": "Tierra del Fuego"
+        },
+        "linkedin": "https://www.linkedin.com/in/valeria-mancilla",
+        "website": "",
+        "portfolio": "",
+        "summary": "Estudiante de tercer año en Sistemas, con fuerte motivación hacia el aprendizaje constante y la resolución de desafíos tecnológicos. Me destaco por ser adaptable, orientada a resultados, y comprometida con la mejora continua en cada tarea que asumo."
+    },
+    "work_experience": [
+        {
+            "job_title": "Analista de Datos",
+            "company": "Nómade Soft",
+            "location": "Ushuaia, Tierra del Fuego",
+            "start_date": "2024-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Análisis y procesamiento de datos para la toma de decisiones.",
+                "Administración, mantenimiento y optimización de bases de datos.",
+                "Soporte funcional a usuarios finales y resolución de incidencias.",
+                "Configuración e implementación del sistema GENrrhh para diversos clientes, adaptándolo a sus necesidades específicas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Técnico Programador",
+            "company": "Secretaría de Gobierno Digital",
+            "location": "Tierra del Fuego",
+            "start_date": "2022-09-01",
+            "end_date": "2023-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Configuración y ajuste de rutinas SQL en el sistema GENrrhh para procesos de liquidación de haberes.",
+                "Desarrollo, mantenimiento y optimización de aplicaciones web utilizando Django y JavaScript.",
+                "Documentación técnica de procesos y seguimiento de tareas mediante la plataforma Odoo."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Ciencia de Datos e Inteligencia Artificial",
+            "institution": "Centro Politécnico Superior Malvinas Argentinas",
+            "location": "Ushuaia, Tierra del Fuego",
+            "start_date": "2024-08-01",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "node.js",
+                "express",
+                "python",
+                "sql",
+                "html",
+                "css"
+            ],
+            "soft": [
+                "adaptability",
+                "result-oriented",
+                "continuous-improvement"
+            ],
+            "tools": [
+                "django",
+                "jira",
+                "odoo",
+                "google-sheets",
+                "postgreSQL",
+                "mySQL",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [
+        {
+            "name": "Programación Web Backend",
+            "issuing_organization": "Beca Code Your Future - Globant / Acámica / Digital House",
+            "issue_date": "2021-07-01",
+            "expiration_date": "",
+            "credential_id": ""
+        },
+        {
+            "name": "Big Data / Data Analytics",
+            "issuing_organization": "Codo a Codo",
+            "issue_date": "2023-08-01",
+            "expiration_date": "2023-12-31",
+            "credential_id": "Habilidades Blandas: 10 horas"
+        }
+    ],
+    "projects": [],
+    "languages": [],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

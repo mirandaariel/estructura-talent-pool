@@ -1,0 +1,132 @@
+{
+    "personal_info": {
+        "first_name": "Esteban",
+        "last_name": "Martin",
+        "email": "estebanmar856@gmail.com",
+        "phone": "3804-937533",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "https://www.linkedin.com/in/esteban-martin-b5987154",
+        "website": "",
+        "portfolio": "https://github.com/tebyMartin",
+        "summary": "Técnico Universitario en Programación con sólidos conocimientos tanto en desarrollo backend como frontend. Experto en lenguajes de programación como JavaScript y Python, así como en tecnologías web como HTML, CSS, manejo del stack MERN y experiencia en bases de datos relacionales."
+    },
+    "work_experience": [
+        {
+            "job_title": "Colaboración con el Ministerio de Infraestructura",
+            "company": "Ministerio de Infraestructura de La Rioja",
+            "location": "",
+            "start_date": "2024-08-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Creación de un sistema de control de stock para el área de informática."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Práctica Profesional Supervisada",
+            "company": "",
+            "location": "",
+            "start_date": "2023-09-01",
+            "end_date": "2023-11-30",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de un Sistema de Gestión de Turnos y Ventas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Técnico Universitario en Programación",
+            "institution": "Universidad Tecnológica Nacional (UTN)",
+            "location": "",
+            "start_date": "2022-02-01",
+            "end_date": "2023-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciado en Psicología",
+            "institution": "Fundación Barceló Facultad de Medicina La Rioja",
+            "location": "",
+            "start_date": "2013-03-01",
+            "end_date": "2018-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Experto Universitario en Comportamiento Organizacional",
+            "institution": "Universidad Tecnológica Nacional (UTN)",
+            "location": "",
+            "start_date": "2021-09-01",
+            "end_date": "2021-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "python",
+                "html",
+                "css",
+                "javascript",
+                "tailwind",
+                "sql",
+                "mysql",
+                "mongodb",
+                "express",
+                "react.js",
+                "node.js",
+                "scrum",
+                "git"
+            ],
+            "soft": [
+                "responsable",
+                "emprendedor",
+                "adaptación-a-equipos-de-trabajo",
+                "comunicación-asertiva",
+                "troubleshooting"
+            ],
+            "tools": []
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Inventario de stock",
+            "description": "Aplicación web para cargar, modificar, eliminar y exportar stock. Incluye un filtro por nombre y alertas de productos bajo stock.",
+            "technologies": [],
+            "url": "https://app-inventario.vercel.app/"
+        },
+        {
+            "name": "Gestión Veterinaria",
+            "description": "La app web permite gestionar clientes y sus respectivas mascotas aplicando CRUD y filtros por cliente.",
+            "technologies": [],
+            "url": "https://app-mascota-front.vercel.app/"
+        },
+        {
+            "name": "\"Cotizador de préstamos\"",
+            "description": "",
+            "technologies": ["javascript", "react.js", "react.js-hooks", "tailwind-css"],
+            "url": "https://cotizadorpréstamos-reactjs.netlify.app/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Intermediate/Advanced"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

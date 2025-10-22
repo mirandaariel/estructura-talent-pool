@@ -1,0 +1,105 @@
+{
+    "personal_info": {
+        "first_name": "Natalia",
+        "last_name": "Villalba",
+        "email": "russ.natalia.villalba@outlook.com.ar",
+        "phone": "8541164806794",
+        "location": {
+            "country": "Argentina",
+            "city": "Eludadela",
+            "state": "Buenos Aires"
+        },
+        "linkedin": "https://linkedin.com/in/russvillalba",
+        "website": "https://repo-potafolio-1gk596eum-russ-projects-190d3c60.vercel.app/",
+        "portfolio": "https://repo-potafolio-1gk596eum-russ-projects-190d3c60.vercel.app/",
+        "summary": "Desarrolladora Frontend apasionada por crear interfaces web modernas, accesibles y responsivas. Con formación full stack pero enfocada en frontend."
+    },
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Curso Full Stack Developer",
+            "institution": "Henry",
+            "location": "",
+            "start_date": "",
+            "end_date": "2025-01-01",
+            "hours": 0
+        },
+        {
+            "degree": "Educación Secundaria",
+            "institution": "Colectiva la Dorrego",
+            "location": "",
+            "start_date": "",
+            "end_date": "2022-01-01",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "react",
+                "next.js",
+                "angular",
+                "javascript",
+                "typescript",
+                "tailwind",
+                "bootstrap",
+                "html5",
+                "css3",
+                "rest-apis",
+                "node.js"
+            ],
+            "soft": [
+                "responsive-design",
+                "accesibilidad",
+                "scrum"
+            ],
+            "tools": [
+                "figma",
+                "framer-motion",
+                "git",
+                "github",
+                "jest",
+                "testing-library"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Turnos para Peluquería",
+            "description": "Aplicación web para la gestión de turnos de peluquería. Incluye animaciones suaves, interfaz moderna y experiencia optimizada para dispositivos móviles.",
+            "technologies": [
+                "next.js",
+                "typescript",
+                "framer-motion"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Portfolio Web Profesional",
+            "description": "Sitio personal desarrollado desde cero para mostrar proyectos y habilidades como frontend developer.",
+            "technologies": [
+                "react",
+                "tailwind"
+            ],
+            "url": "https://repo-potafolio-1gk596eum-russ-projects-190d3c60.vercel.app/"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

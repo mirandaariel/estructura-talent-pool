@@ -1,0 +1,136 @@
+{
+    "personal_info": {
+        "first_name": "Facundo",
+        "last_name": "Zerbato",
+        "email": "zerbatofacundo@gmail.com",
+        "phone": "+54 3584321313",
+        "location": {
+            "country": "Argentina",
+            "city": "Río Cuarto",
+            "state": "Córdoba"
+        },
+        "linkedin": "https://www.linkedin.com/in/facundozerbato/",
+        "website": "",
+        "portfolio": "https://www.fzportfolio.onrender.com",
+        "summary": "Desarrollador Full Stack orientado a crear aplicaciones web modernas y funcionales, disfruto del trabajo en equipo y del aprendizaje continuo. Con capacidad de adaptación y organización. Motivado por sumar desde lo técnico y lo humano en cada proyecto."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Freelance",
+            "company": "",
+            "location": "",
+            "start_date": "2024-02-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Desarrollo de páginas web utilizando React, Next.js, TailwindCSS, Bootstrap, Node.js y Express."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Mercado Libre",
+            "location": "",
+            "start_date": "2022-07-01",
+            "end_date": "2024-01-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de componentes en Flox y React.",
+                "Desarrollos de pruebas unitarias en Jest y React Testing Library.",
+                "Realización de pruebas de flujo en scopes de test para el área de checkout."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend",
+            "company": "Nippy",
+            "location": "",
+            "start_date": "2022-02-01",
+            "end_date": "2022-03-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollos de vistas utilizando React Native, Redux y CSS para aplicación mobile."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura en Programación",
+            "institution": "Universidad Tecnológica Nacional",
+            "location": "",
+            "start_date": "2025-01-01",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador Full Stack",
+            "institution": "Henry",
+            "location": "",
+            "start_date": "2021-10-01",
+            "end_date": "2022-03-31",
+            "hours": 0
+        },
+        {
+            "degree": "Contador Público",
+            "institution": "Universidad Siglo 21",
+            "location": "",
+            "start_date": "2014-01-01",
+            "end_date": "2019-12-31",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "typescript",
+                "react",
+                "next.js",
+                "redux",
+                "node.js",
+                "express.js",
+                "python",
+                "sql",
+                "postgresql"
+            ],
+            "soft": [
+                "adaptability",
+                "teamwork",
+                "organization"
+            ],
+            "tools": [
+                "excel",
+                "power-bi",
+                "jest",
+                "react-testing-library",
+                "git",
+                "github"
+            ]
+        },
+        "detailed": {
+            "technical": {},
+            "soft": {}
+        }
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

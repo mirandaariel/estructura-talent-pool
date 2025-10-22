@@ -1,0 +1,174 @@
+{
+    "personal_info": {
+        "first_name": "Juan",
+        "last_name": "Millan",
+        "email": "juansegundomillan@gmail.com",
+        "phone": "+54 3513607948",
+        "location": {
+            "country": "Argentina",
+            "city": "Córdoba Capital",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "",
+        "summary": "Desarrollador Full Stack con más de 2 años de experiencia en empresas de software, especializado en el diseño y desarrollo de API REST, integraciones con servicios externos y arquitecturas cloud. Experiencia en automatizaciones, soluciones orientadas a la optimización de procesos y administración de CRM y CMS. Enfoque en buenas prácticas de seguridad, testing, CI/CD y metodologías ágiles. Poseo actitud proactiva, con capacidad de resolución de problemas, trabajo en equipo, comunicación efectiva y autonomía. Nivel de Inglés: B2."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrollador Fullstack",
+            "company": "Darwoft SA",
+            "location": "",
+            "start_date": "2024-11-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Diseño y desarrollo de API REST escalables utilizando NestJS y TypeORM con PostgreSQL y MySQL.",
+                "Implementación de arquitectura serverless en AWS (Lambda, SQS, SNS).",
+                "Integraciones con servicios externos, optimización de rendimiento y adopción de buenas prácticas de seguridad, testing y monitoreo.",
+                "Gestión de versiones y despliegues en entornos automatizados mediante CI/CD."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Ingeniero de Software",
+            "company": "Money Mindset Solutions",
+            "location": "",
+            "start_date": "2024-10-01",
+            "end_date": "2025-08-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de interfaces visuales dinámicas con React.js y construcción de API REST robustas utilizando Node.js y Express.",
+                "Administración y personalización de CRM (Kommo y Clientify), incluyendo diseño de flujos, reportes y automatizaciones.",
+                "Desarrollo de integraciones con Google Workspace mediante AppScript y conexión con Kommo CRM API.",
+                "Implementación de arquitecturas en Google Cloud Platform (Cloud Run, Cloud SQL, VPC, Pub/Sub, IAM, Load Balancing).",
+                "Diseño de flujos de automatización en N8N, incluyendo integraciones con inteligencia artificial.",
+                "Representación del sector IT ante áreas de negocio para proponer soluciones tecnológicas.",
+                "Mantenimiento y personalización de sitios web en Squarespace."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Fullstack (Pasantía)",
+            "company": "Kiura",
+            "location": "",
+            "start_date": "2024-06-01",
+            "end_date": "2024-10-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de interfaces visuales de un CRM con React.js y Tailwind CSS.",
+                "Implementación del backend utilizando Node.js, Express y Mongoose, con MongoDB como base de datos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Fullstack freelance",
+            "company": "",
+            "location": "",
+            "start_date": "2023-11-01",
+            "end_date": "2024-12-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollar frontend, backend y estructurar base de datos de distintos proyectos."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Desarrollador Frontend JavaScript y Gestor CMS",
+            "company": "WebLeads",
+            "location": "",
+            "start_date": "2022-01-01",
+            "end_date": "2023-05-31",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollar y diseñar landing pages, e-commerce webs, dashboard y aplicaciones online utilizando JavaScript y CMS (Wordpress, Wix)."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ingeniería en sistemas de información",
+            "institution": "UTN-FCR",
+            "location": "",
+            "start_date": "",
+            "end_date": "2024-12-31",
+            "hours": 0
+        },
+        {
+            "degree": "Desarrollador web Full Stack",
+            "institution": "Henry Bootcamp",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 800
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javascript",
+                "typescript",
+                "html",
+                "css",
+                "nestjs",
+                "node.js",
+                "express",
+                "react.js",
+                "redux",
+                "redux-toolkit",
+                "tailwind-css",
+                "mysql",
+                "mongodb",
+                "postgres",
+                "sequelize",
+                "mongoose",
+                "typeorm",
+                "google-cloud-platform",
+                "aws",
+                "appscript"
+            ],
+            "soft": [
+                "trabajo-en-equipo",
+                "comunicacion-efectiva",
+                "autonomia",
+                "resolucion-de-problemas"
+            ],
+            "tools": [
+                "git",
+                "jira",
+                "confluence",
+                "slack",
+                "azure-devops",
+                "taiga",
+                "n8n",
+                "kommo-crm",
+                "clientify",
+                "wordpress",
+                "squarespace",
+                "wix"
+            ]
+        },
+        "detailed": {}
+    },
+    "certifications": [],
+    "projects": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "B2"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": []
+}

@@ -1,0 +1,131 @@
+{
+    "personal_info": {
+        "first_name": "Jhon",
+        "last_name": "Escalante",
+        "email": "jhonescalante2019@hotmail.com",
+        "phone": "",
+        "location": {
+            "country": "",
+            "city": "",
+            "state": ""
+        },
+        "linkedin": "",
+        "website": "",
+        "portfolio": "https://github.com/jhonescalant",
+        "summary": "Estudiante de segundo año de la Tecnicatura en Desarrollo de Software con conocimientos en desarrollo frontend y experiencia en C#, SQL Server y Node.js. Actualmente ampliando habilidades en backend con un curso en Alura."
+    },
+    "work_experience": [
+        {
+            "job_title": "",
+            "company": "",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "currently_working": false,
+            "responsibilities": [
+                "Capacidad para colaborar eficazmente en equipos multidisciplinarios.",
+                "Habilidad para abordar desafíos y encontrar soluciones prácticas.",
+                "Experiencia en la organización y priorización de tareas."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Tecnicatura de Desarrollo de Software",
+            "institution": "Instituto de Formación Técnica",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Licenciatura de Informática",
+            "institution": "Universidad Metropolitana para la Educación y el Trabajo",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        },
+        {
+            "degree": "Back-End",
+            "institution": "ONE-Oracle Next Education",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "html",
+                "css",
+                "javascript",
+                "angular",
+                "bootstrap",
+                "sql-server",
+                "mockapi",
+                "python",
+                "java"
+            ],
+            "soft": [
+                "resolución-de-problemas",
+                "trabajo-en-equipo",
+                "adaptabilidad",
+                "pensamiento-lógico",
+                "aprendizaje-autónomo"
+            ],
+            "tools": [
+                "git",
+                "scrum"
+            ]
+        },
+        "detailed": {
+            "technical": [],
+            "soft": []
+        }
+    },
+    "certifications": [],
+    "projects": [
+        {
+            "name": "Sistema de stock de partes de autos",
+            "description": "Desarrollo de una aplicación web para la gestión de stock de autopartes.",
+            "technologies": [
+                "angular",
+                "bootstrap",
+                "html",
+                "css",
+                "javascript",
+                "mockapi"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Juego \"Quién es tu amigo secreto\"",
+            "description": "Desarrollo de un juego interactivo que permite asignar aleatoriamente \"amigos secretos\".",
+            "technologies": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "url": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "A1"
+        }
+    ],
+    "volunteer_experience": [],
+    "publications": [],
+    "references": [
+        {
+            "name": "Fernando Crocco",
+            "relationship": "",
+            "contact": "(54) 1163654929"
+        }
+    ]
+}
