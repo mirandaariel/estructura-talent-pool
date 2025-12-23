@@ -1,101 +1,135 @@
 {
-    "personal_info": {
-        "first_name": "Martin",
-        "last_name": "Villaló Ruiz",
-        "email": "martinvruiz10@gmail.com",
-        "phone": "",
-        "location": {
-            "country": "Argentina",
-            "city": "CABA",
-            "state": ""
-        },
-        "linkedin": "",
-        "website": "",
-        "portfolio": "",
-        "summary": "Frontend Developer con enfoque práctico y mentalidad de producto. Desarrollé aplicaciones completas como Financer y una e-commerce funcional desde cero, aplicando React, Tailwind y Firebase. Me destaco por entregar soluciones reales, cuidar la experiencia en cada detalle, y trabajar de forma autónoma con foco en resultados. Busco sumarme a equipos donde pueda crecer, aportar y entregar valor desde el día uno."
+  "personal_info": {
+    "first_name": "Martin Elias",
+    "last_name": "Villalo Ruiz",
+    "email": "martinevruiz10@gmail.com",
+    "phone": "1161305991",
+    "location": {
+      "country": "Argentina",
+      "city": "Buenos Aires",
+      "state": "CABA"
     },
-    "work_experience": [
-        {
-            "job_title": "Frontend Developer",
-            "company": "E-commerce App (Proyecto Final Coderhouse)",
-            "location": "Remoto",
-            "start_date": "2023-01-01",
-            "end_date": "2024-12-31",
-            "currently_working": false,
-            "responsibilities": [
-                "Desarrollo de una plataforma de comercio electrónico con gestión completa de usuarios, productos y pedidos.",
-                "Autenticación de usuarios mediante Firebase y sincronización de datos en tiempo real con Firestore.",
-                "Navegación SPA con diseño 100% responsive adaptado a móviles y desktop.",
-                "Resolución de desafíos en gestión de estado, optimización de consultas y flujo seguro de autenticación."
-            ],
-            "achievements": [],
-            "repository_url": ""
-        }
-    ],
-    "education": [
-        {
-            "degree": "React.js Frontend Development",
-            "institution": "Coderhouse",
-            "location": "Argentina",
-            "start_date": "2023-01-01",
-            "end_date": "2024-12-31",
-            "hours": 0
-        },
-        {
-            "degree": "Desarrollo de Aplicaciones con React Native",
-            "institution": "Coderhouse",
-            "location": "Argentina",
-            "start_date": "2025-01-01",
-            "end_date": "2025-12-31",
-            "hours": 0
-        }
-    ],
-    "skills": {
-        "keywords": {
-            "technical": [
-                "javascript",
-                "html",
-                "css",
-                "react.js",
-                "tailwind-css",
-                "bootstrap",
-                "react-native",
-                "firebase",
-                "firestore",
-                "firebase-auth",
-                "git",
-                "github",
-                "rest-apis"
-            ],
-            "soft": [
-                "comunicación",
-                "autonomía",
-                "aprendizaje-continuo",
-                "resolución-de-problemas"
-            ],
-            "tools": []
-        },
-        "detailed": {
-            "technical": [],
-            "soft": []
-        }
+    "linkedin": "https://www.linkedin.com/in/martin-villalo-ruiz/",
+    "website": "https://github.com/martinvruiz",
+    "portfolio": "https://martinvruiz.is-a.dev/",
+    "summary": "Frontend Developer with a hands-on approach and product mindset. I built complete applications such as Financer and a fully functional e-commerce from scratch, using React, Tailwind, and Firebase. I excel at delivering real-world solutions, focusing on user experience, and working autonomously with a results-driven mindset. I seek to join teams where I can grow, contribute, and provide value from day one."
+  },
+  "work_experience": [
+    {
+      "title": "Frontend Developer – E-commerce App (Final Project, Coderhouse)",
+      "location": "Remote",
+      "start_date": "2023",
+      "end_date": "2024",
+      "description": [
+        "Developed a complete e-commerce platform with full user, product, and order management.",
+        "Implemented user authentication using Firebase and real-time data sync with Firestore.",
+        "Built a fully responsive SPA for both mobile and desktop devices.",
+        "Solved challenges involving state management, query optimization, and secure auth flow."
+      ],
+      "technologies": ["React.js", "Firebase Auth", "Firestore"]
     },
-    "certifications": [],
-    "projects": [
-        {
-            "name": "Financer - Aplicación de Finanzas Personales",
-            "description": "Desarrollo de una aplicación web para registrar ingresos y gastos, con categorización de transacciones y visualización del historial financiero.",
-            "technologies": [
-                "React.js",
-                "Tailwind CSS",
-                "Toastify",
-                "localStorage"
-            ],
-            "url": ""
-        }
-    ],
-    "languages": [],
-    "volunteer_experience": [],
-    "publications": [],
-    "references": []
+    {
+      "title": "Salesperson & Customer Service",
+      "company": "PROELEC",
+      "location": "Buenos Aires, Argentina",
+      "start_date": "2022",
+      "end_date": "2024",
+      "description": [
+        "Provided in-store customer service, stock control, and inventory restocking.",
+        "Managed social media and business email communication.",
+        "Drafted responses to customer inquiries and provided post-sale follow-up.",
+        "Assisted with administrative tasks and general store organization."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Node.js",
+      "institution": "Talento Tech (GCBA)",
+      "location": "Argentina",
+      "start_date": "2025-03",
+      "end_date": "Ongoing",
+      "hours": 40
+    },
+    {
+      "degree": "React Native App Development",
+      "institution": "Coderhouse",
+      "location": "Argentina",
+      "start_date": "2025-03",
+      "end_date": "2025-06",
+      "hours": 40
+    },
+    {
+      "degree": "Frontend Developer Career – React.js",
+      "institution": "Coderhouse",
+      "location": "Argentina",
+      "start_date": "2023-12",
+      "end_date": "2024-10",
+      "hours": 100
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "react.js",
+        "react native",
+        "redux",
+        "node.js",
+        "javascript-es6+",
+        "html",
+        "css",
+        "tailwind-css",
+        "sass",
+        "bootstrap"
+      ],
+      "soft": [
+        "communication",
+        "autonomy",
+        "continuous learning",
+        "problem-solving"
+      ],
+      "tools": [
+        "git",
+        "github",
+        "firebase",
+        "firestore",
+        "figma",
+        "postman",
+        "supabase",
+        "rest apis"
+      ]
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [
+{
+  "name": "ProjectManager – Project & Task Management App",
+  "description": "Designed and led the development of a modern web application for project and task management, focused on individual productivity and intuitive UI/UX.",
+  "technologies": ["React.js", "Supabase", "Tailwind CSS", "Framer Motion"],
+  "responsibilities": [
+    "Defined the product structure, feature roadmap, and data architecture.",
+    "Coordinated the full development lifecycle: UI design, backend integration, and testing.",
+    "Managed version control and iterations using GitHub, delivering a fully functional MVP.",
+    "Implemented task CRUD, project grouping, and user settings."
+  ],
+  "url": "https://projectmanagermvr.vercel.app/"
+}
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Written-Intermediate, Spoken-Basic"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    }
+  ],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
 }
